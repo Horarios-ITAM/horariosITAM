@@ -1,1 +1,149 @@
-hi
+<html>
+    <head>
+        <title>Test</title>
+        <script src="generar_html.js"></script>
+        <script src="generar_horarios.js"></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="header"></div>
+        <center>
+        <br><br>
+        <table>
+        <tr>
+            <td style="vertical-align:top">
+                <center>
+                <h1>Optimiza tu Horario ITAM</h1>
+                <div id="main_form"></div>
+                <div id="content">
+                <center>
+                    <center>
+                    <table border=0 style="padding:0px;"><tr style="padding:0px"><td style="padding:0px">
+                    </center>
+                    <div id='clases_actuales' style="padding:0px;">
+                        <ul id='clases_en_horario' style="padding:0px"></ul>
+                        <p id="testing"></p>
+                    </div>
+                    </td></tr></table>
+                </div>
+            </td>
+            <td id="space"></td>
+            <td>
+                <div id="resultados"></div>
+            </td>
+        </tr>
+        </table>
+        <script>
+            document.getElementById('main_form').innerHTML=build_main_form();
+            //document.write(build_main_form());
+
+            var lista_de_clases_usuario=[];
+            var preferencias=[];
+            function build_main_form(){
+                out='<form "clases_form">\n';
+                out+=build_datalist();
+                out+=' <input type=button value="Agregar" id="agregar_button" onclick="agregar(document.getElementById(\'a\').value)"/>'
+                out+=build_preferencias();
+                out+='<br><input type=button value="Generar" id="generar" onclick="main()"/>'
+                out+='</form>\n'
+                return out
+            }
+            function build_preferencias(){
+                var hrs='<select name="start_rango" size="1"><option value="07:00" selected>7:00</option><option value="07:30">7:30</option><option value="08:00">8:00</option><option value="08:30">8:30</option><option value="09:00">9:00</option><option value="09:30">9:30</option><option value="10:00">10:00</option><option value="10:30">10:30</option><option value="11:00">11:00</option><option value="11:30">11:30</option><option value="12:00">12:00</option><option value="12:30">12:30</option><option value="13:00">13:00</option><option value="13:30">13:30</option><option value="14:00">14:00</option><option value="14:30">14:30</option><option value="15:00">15:00</option><option value="15:30">15:30</option><option value="16:00">16:00</option><option value="16:30">16:30</option><option value="17:00">17:00</option><option value="17:30">17:30</option><option value="18:00">18:00</option><option value="18:30">18:30</option><option value="19:00">19:00</option><option value="19:30">19:30</option><option value="20:00">20:00</option><option value="20:30">20:30</option><option value="21:00">21:00</option><option value="21:30">21:30</option></select>'
+                var hrs2='<select name="end_rango" size="1"><option value="07:00">7:00</option><option value="07:30">7:30</option><option value="08:00">8:00</option><option value="08:30">8:30</option><option value="09:00">9:00</option><option value="09:30">9:30</option><option value="10:00">10:00</option><option value="10:30">10:30</option><option value="11:00">11:00</option><option value="11:30">11:30</option><option value="12:00">12:00</option><option value="12:30">12:30</option><option value="13:00">13:00</option><option value="13:30">13:30</option><option value="14:00" selected>14:00</option><option value="14:30">14:30</option><option value="15:00">15:00</option><option value="15:30">15:30</option><option value="16:00">16:00</option><option value="16:30">16:30</option><option value="17:00">17:00</option><option value="17:30">17:30</option><option value="18:00">18:00</option><option value="18:30">18:30</option><option value="19:00">19:00</option><option value="19:30">19:30</option><option value="20:00">20:00</option><option value="20:30">20:30</option><option value="21:00">21:00</option><option value="21:30">21:30</option></select>'
+                var dias='<select name="dia" size="1"><option value="LU">LU</option><option value="MA">MA</option><option value="MI">MI</option><option value="JU">JU</option><option value="VI" selected>VI</option><option value="SA">SA</option></select>'
+                var out='<br><table border="0"><tr><td><center><b>Preferencias</b></center></td><td><center><b>Importancia</b></center></td></tr>';
+                out+='<tr><td><input type="checkbox" name="mis_profes_score" id="mis_profes_box" onclick="checkbox_change_range(document.getElementById(\'mis_profes_box\').checked,document.getElementsByName(\'mis_profes_peso\')[0])" checked>Rankear con <a href="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003">MisProfes.com</a></td>';
+                out+='<td><input type="range" class="slider" name="mis_profes_peso" min="0" max="100"></td></tr>'
+                out+='<br><tr><td>Clases: <input type="radio" name="juntas_separadas" id="juntas" checked> Juntas';
+                out+='<input type="radio" name="juntas_separadas" id="separadas" > Separadas</td>'
+                out+='<td><input type="range" class="slider" name="juntas_peso" min="0" max="100"></td></tr>'
+                out+='<tr><td>Rango de horario: '+hrs+' a '+hrs2+'</td>'
+                out+='<td><input type="range" class="slider" name="peso_rango" min="0" max="100"></td></tr>'
+                out+='<tr><td>Dia con menos clases: '+dias+'</td>'
+                out+='<td><input type="range" class="slider" name="peso_dia" min="0" max="100"></td></tr>'
+                out+='</table>'
+                return out;
+            }
+            function checkbox_change_range(c,range){
+                if(!c){
+                    range.value="0";
+                }
+                else{
+                    range.value="50";
+                }
+            }
+
+            function agregar(clase){
+                if(lista_de_clases_usuario.length==0){
+                    var out = document.createElement('p'); // is a node
+                    out.innerHTML = '<b>Clases seleccionadas:</b>';
+                    document.getElementById("clases_en_horario").appendChild(out);
+                }
+                if(clase.length>0 && lista_de_clases_usuario.indexOf(clase)==-1){
+                    lista_de_clases_usuario.push(clase);
+                    var out = document.createElement('details'); // is a node
+                    out.innerHTML = '<summary>'+clase+'</summary><br>'+build_details(clase);
+                    document.getElementById("clases_en_horario").appendChild(out);
+                }
+                //document.getElementById("clases_datalist").reset();
+            }
+            function build_details(nombre_de_clase){
+                var out='<table style="border-collapse: collapse;border: 1px solid black;">'
+                var grupos=build_domains([nombre_de_clase],clases)[nombre_de_clase]
+                out+='<tr><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salon</td><td id="grupo">Dias</td><td id="grupo">Hrs</td></tr>'
+                for(grupo of grupos){
+                    var rating=''
+                    if(typeof(ratings[grupo['profesor']])!="undefined" && ratings[grupo['profesor']][0]!='0')rating=' ('+ratings[grupo['profesor']][0]+'/10 <a href="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003">MisProfes</a>)';
+                    out+='<tr><td id="grupo">'+grupo['grupo']+'</td><td id="grupo">'+grupo['profesor']+rating+'</td><td id="grupo">'+grupo['salon']+'</td><td id="grupo">'+grupo['dias']+'</td><td id="grupo"></td></tr>'
+                }
+                out+='</table>'
+                return out;
+            }
+            function build_datalist(){
+                var out='<input list="clases_datalist" placeholder="Buscar Clase" size="35" id="a" onfocus="this.value=\'\'" autofocus>\n<datalist id="clases_datalist">\n';
+                for(clase of lista_de_todas_clases)out+='\t<option value="'+clase+'">\n';
+                out+='</datalist></input>'
+                return out;
+            }
+            function get_preferencias(){
+                var mis_profes=document.getElementsByName("mis_profes_score")[0].checked;
+                var mis_profes_peso=parseFloat(document.getElementsByName('mis_profes_peso')[0].value)/100;
+                var juntas=document.getElementById('juntas').checked;
+                var juntas_peso=parseFloat(document.getElementsByName('juntas_peso')[0].value)/100;
+                var start_rango=document.getElementsByName('start_rango')[0].value;
+                var end_rango=document.getElementsByName('end_rango')[0].value;
+                var objecto_rango=build_date_objects(start_rango+"-"+end_rango)
+                var peso_rango=parseFloat(document.getElementsByName('peso_rango')[0].value)/100;
+                var dia=document.getElementsByName('dia')[0].value;
+                var peso_dia=parseFloat(document.getElementsByName('peso_dia')[0].value)/100;
+                var pref=[[mis_profes_score,mis_profes_peso],[horario_rango_score,peso_rango,objecto_rango],[clases_juntas_separadas_score,juntas_peso,juntas],[dia_libre_score,peso_dia,dia]];
+                return pref;
+
+            }
+            function resultados_html(h){
+                if(isNaN(h[0][1])){return 'No se pudo optimizar horario';}
+                var out='<center><h1>Resultados</h1><h3>Mejor puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</h3>'
+                //document.write('<form><input type="button" value="Resamplear" onclick="main()"/>')
+                //for(horario of h)out+=(print_horario_html(horario));
+                //return out
+                out+=print_horario_html(h[0])
+                return out
+
+            }
+            function main(){
+                if(lista_de_clases_usuario.length>0){
+                    if(preferencias.length==0){
+                        preferencias=get_preferencias();
+                    }
+                    //var mi_lista=["MAT-14101-CALCULO DIF. E INT., II", "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)", "SDI-14105-INTRODUCCION A LA INGENIERIA", "EGN-17121-IDEAS E INST. POL. Y SOC. I", "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT", "COM-11102-ESTRUCTURAS DE DATOS", "CLE-10603-ESTUDIA CON EXITO EN EL ITAM"];
+                    //var h=generarHorarios(mi_lista,preferencias,100);
+                    var h=generarHorarios(lista_de_clases_usuario,preferencias,100);
+                    document.getElementById("space").style="width:60px;"
+                    document.getElementById("resultados").innerHTML=resultados_html(h)
+                }
+
+            }
+        </script>
+    </body>
+</html>
