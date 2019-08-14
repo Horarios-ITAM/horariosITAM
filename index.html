@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Test</title>
+        <title>Optimizador Horario ITAM</title>
         <script src="generar_html.js"></script>
         <script src="generar_horarios.js"></script>
         <link rel="stylesheet" href="style.css">
@@ -14,6 +14,10 @@
             <td style="vertical-align:top">
                 <center>
                 <h1>Optimiza tu Horario ITAM</h1>
+                Encuentra entre todas las combinaciones de tus clases la que más te guste
+                <br>
+                <a href="">¿Cómo funciona?</a>
+                <br><br>
                 <div id="main_form"></div>
                 <div id="content">
                 <center>
@@ -35,8 +39,6 @@
         </table>
         <script>
             document.getElementById('main_form').innerHTML=build_main_form();
-            //document.write(build_main_form());
-
             var lista_de_clases_usuario=[];
             var preferencias=[];
             function build_main_form(){
@@ -62,6 +64,7 @@
                 out+='<td><input type="range" class="slider" name="peso_rango" min="0" max="100"></td></tr>'
                 out+='<tr><td>Dia con menos clases: '+dias+'</td>'
                 out+='<td><input type="range" class="slider" name="peso_dia" min="0" max="100"></td></tr>'
+
                 out+='</table>'
                 return out;
             }
