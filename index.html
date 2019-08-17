@@ -44,7 +44,10 @@
             var lista_de_clases_usuario=[];
             if(document.cookie.length>0 && confirm("Usar lista de clases guardada?")){
                 var str_lista=getCookie("lista_de_clases_usuario").split(',')
+                console.log("str_lista",str_lista);
+                console.log("str_lista[0]",str_lista[0])
                 for(clase of str_lista)agregar(clase);
+                console.log("lista usuario",lista_de_clases_usuario);
             }
             var preferencias=[];
             var h=[];
