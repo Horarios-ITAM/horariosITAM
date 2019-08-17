@@ -237,7 +237,8 @@
                     h=generarHorarios(lista_de_clases_usuario,preferencias,100);
                     document.getElementById("space").style="width:60px;"
                     document.getElementById("resultados").innerHTML=resultados_html(h)
-                    setCookie("lista_de_clases_usuario",lista_de_clases_usuario,30);
+                    var copia=Array.from(lista_de_todas_clases);
+                    setCookie("lista_de_clases_usuario",copia,30);
                 }
 
             }
