@@ -43,7 +43,6 @@
             document.getElementById('main_form').innerHTML=build_main_form();
             var lista_de_clases_usuario=[];
             if(document.cookie.length>0 && confirm("Usar lista de clases guardada?")){
-
                 var str_lista=getCookie("lista_de_clases_usuario").split(',')
                 console.log("str_lista",str_lista);
                 console.log("str_lista[0]",str_lista[0])
@@ -224,6 +223,7 @@
               d.setTime(d.getTime() + (exdays*24*60*60*1000));
               var expires = "expires="+ d.toUTCString();
               document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+              console.log("cookie set")
             }
             function main(){
                 if(lista_de_clases_usuario.length>0){
@@ -234,11 +234,12 @@
                     //lista_de_clases_usuario=["MAT-14101-CALCULO DIF. E INT., II", "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)", "SDI-14105-INTRODUCCION A LA INGENIERIA", "EGN-17121-IDEAS E INST. POL. Y SOC. I", "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT", "COM-11102-ESTRUCTURAS DE DATOS", "CLE-10603-ESTUDIA CON EXITO EN EL ITAM"];
                     //var h=generarHorarios(mi_lista,preferencias,100);
                     console.log(lista_de_clases_usuario)
+                    var copia=Array.from(lista_de_clases_usuario);
+                    console.log(copia)
+                    setCookie("lista_de_clases_usuario",copia,30);
                     h=generarHorarios(lista_de_clases_usuario,preferencias,100);
                     document.getElementById("space").style="width:60px;"
                     document.getElementById("resultados").innerHTML=resultados_html(h)
-                    var copia=Array.from(lista_de_todas_clases);
-                    setCookie("lista_de_clases_usuario",copia,30);
                 }
 
             }
