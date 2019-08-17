@@ -31,15 +31,21 @@ details{
 
 #grupo{
     border: 1px solid black;
-    padding:5px
-    font-size:5px;
+    padding:5px;
+    font-size:12px;
     height:14px;
 }
 #grupo2{
     border: 1px solid black;
     height:14px;
-    width: 140px
-    font-size: 60%;
+    /**width: 140px;*/
+    font-family: Verdana,Arial Narrow, helvetica, sans-serif;
+}
+#grupo3{
+    border: 1px solid black;
+    height:14px;
+    padding:4px;
+    /**width: 140px;*/
     font-family: Verdana,Arial Narrow, helvetica, sans-serif;
 }
 /**

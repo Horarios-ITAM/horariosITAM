@@ -1,4 +1,4 @@
-function generarHorarios(lista_de_clases,preferencias={},n=10,max_restarts=10){
+function generarHorarios(lista_de_clases,preferencias={},n=10,max_restarts=1000 ){
     //console.log(lista_de_clases)
     var domains=build_domains(lista_de_clases,clases);
     var horarios=[];
@@ -7,14 +7,25 @@ function generarHorarios(lista_de_clases,preferencias={},n=10,max_restarts=10){
             horario=min_conflicts(domains,100);
             if(horario!="failed"){break;}
         }
-        if(horarios.indexOf(horario)==-1){
+        if(!existing_horario(horarios,horario)){
             horarios.push([horario,optimization_function(horario,preferencias)]);
         }
-        else{
-            i--;
-        }
     }
+    //console.log("unique?",horarios.length)
+    //console.log(h)
     return horarios.sort(function(a,b){return b[1]-a[1]});
+}
+function existing_horario(horarios,h){
+    for(h2 of horarios){
+        if(same_horario(h,h2[0]))return true;
+    }
+    return false;
+}
+function same_horario(h1,h2){
+    for(clase of Object.keys(h1)){
+        if(h1[clase]!=h2[clase])return false;
+    }
+    return true;
 }
 /**OPTIMIZATION FUNCTION*/
 function optimization_function(horario,preferencias={}){
@@ -156,8 +167,8 @@ function build_date_objects(horario_str){
     var b=horario_str.split("-")[1];
     if(a.length==4){a='0'+a;}
     if(b.length==4){b='0'+b;}
-    var start = new Date('1970-01-01T' +a + 'Z');
-    var finish = new Date('1970-01-01T' +b + 'Z');
+    var start = new Date('1970-01-01T' +a + '-06:00');
+    var finish = new Date('1970-01-01T' +b + '-06:00');
     return [start,finish]
 }
 function random_horario(domains){
@@ -212,7 +223,7 @@ function print_horario_html(horario){
                 if(conflicts_horarios(grupo['horario'],build_date_objects(slot))){
                     var texto='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE">\n';
                     n=grupo['nombre'].split("-");
-                    texto+=n[0]+n[1];
+                    texto+=n[0]+n[1]+"("+grupo['grupo']+")";
                     texto+='</td>';
                     break;
                 }

@@ -15,7 +15,7 @@
                 <h1>Optimiza tu Horario ITAM</h1>
                 Encuentra entre todas las combinaciones de tus clases la que más te guste
                 <br>
-                <a href="">¿Cómo funciona?</a>
+                <a href="https://github.com/emiliocantuc/emiliocantuc.github.io">¿Cómo funciona?</a>
                 <br><br>
                 <div id="main_form"></div>
                 <div id="content">
@@ -23,10 +23,10 @@
                     <center>
                     <table border=0 style="padding:0px;"><tr style="padding:0px"><td style="padding:0px">
                     </center>
-                    <div id='clases_actuales' style="padding:0px;">
-                        <ul id='clases_en_horario' style="padding:0px"></ul>
-                        <p id="testing"></p>
-                    </div>
+                        <div id='clases_actuales' style="padding:0px;">
+                            <ul id='clases_en_horario' style="padding:0px"></ul>
+                            <p id="testing"></p>
+                        </div>
                     </td></tr></table>
                 </div>
             </td>
@@ -36,10 +36,13 @@
             </td>
         </tr>
         </table>
+        <div id="para_imprimir" style="display:none"></div>
         <script>
             document.getElementById('main_form').innerHTML=build_main_form();
             var lista_de_clases_usuario=[];
             var preferencias=[];
+            var h=[];
+            var resultado=0;
             function build_main_form(){
                 out='<form "clases_form">\n';
                 out+=build_datalist();
@@ -90,16 +93,26 @@
                 }
                 //document.getElementById("clases_datalist").reset();
             }
+            function remove(clase){
+                var i=lista_de_clases_usuario.indexOf(clase)
+                if(clase.length>0 && i!=-1){
+                    lista_de_clases_usuario.splice(i,1);
+
+                }
+            }
             function build_details(nombre_de_clase){
                 var out='<table style="border-collapse: collapse;border: 1px solid black;">'
                 var grupos=build_domains([nombre_de_clase],clases)[nombre_de_clase]
                 out+='<tr><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salon</td><td id="grupo">Dias</td><td id="grupo">Hrs</td></tr>'
                 for(grupo of grupos){
                     var rating=''
+                    console.log(grupo['grupo'],grupo['horario'][0].getHours())
                     if(typeof(ratings[grupo['profesor']])!="undefined" && ratings[grupo['profesor']][0]!='0')rating=' ('+ratings[grupo['profesor']][0]+'/10 <a href="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003">MisProfes</a>)';
-                    out+='<tr><td id="grupo">'+grupo['grupo']+'</td><td id="grupo">'+grupo['profesor']+rating+'</td><td id="grupo">'+grupo['salon']+'</td><td id="grupo">'+grupo['dias']+'</td><td id="grupo"></td></tr>'
+                    var hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()
+                    out+='<tr><td id="grupo">'+grupo['grupo']+'</td><td id="grupo">'+grupo['profesor']+rating+'</td><td id="grupo">'+grupo['salon']+'</td><td id="grupo">'+grupo['dias']+'</td><td id="grupo">'+hrs+'</td></tr>'
                 }
                 out+='</table>'
+                //out+='<div onclick="remove('+nombre_de_clase+')"><u><small>Eliminar Clase</small></u></div>';
                 return out;
             }
             function build_datalist(){
@@ -123,14 +136,53 @@
                 return pref;
 
             }
+            function print_content(){
+                var horario_to_print=h[resultado][0];
+                console.log(horario_to_print)
+                var out="<br><center><h3>INSTITUTO TECNOLOGICO AUTONOMO DE MEXICO</h3><h4>HORARIO NO OFICIAL</h4>";
+                var detalles="<table style='border-collapse: collapse;border: 1px solid black;font-size:10px;'><tr><th id='grupo3'><b>CLAVE</b</th><th id='grupo3'>GRUPO</th><th id='grupo3'>MATERIA</th><th id='grupo3'>HORARIO</th><th id='grupo3'>SALON</th><th id='grupo3'>PROFESOR</th></tr>";
+                for(grupo of Object.values(horario_to_print)){
+                    var nm=grupo['nombre'].split("-")
+                    var hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()
+                    detalles+='<tr><td id="grupo3">'+nm[0]+'-'+nm[1]+'</td><td id="grupo3">'+grupo['grupo']+'</td><td id="grupo3">'+nm[2]+'</td><td id="grupo3">'+hrs+' '+grupo['dias']+'</td><td id="grupo3">'+grupo['salon']+'</td><td id="grupo3">'+grupo['profesor']+'</td></tr>';
+                    //detalles+='<tr><td>grupo aqui</td></tr>'
+                }
+                detalles+="</table><br><br>";
+                out += detalles;
+                out += document.getElementById("tabla").innerHTML;
+                out +='<br><br><br>Horario optimizado con Optimiza Horario ITAM (emiliocantuc.github.io)'
+                return out;
+            }
+            function print_horario(){
+                //var printContents='<h1>Horario</h1>'
+                var originalContents = document.body.innerHTML;
+                document.body.innerHTML = print_content();
+                window.print();
+                document.body.innerHTML = originalContents;
+            }
+            function next(h){
+                console.log("next");
+                document.getElementById("tabla").innerHTML=print_horario_html(h[resultado+1]);
+                document.getElementById("resultado_count").innerHTML='<b>Resultado '+(resultado+2)+' de '+h.length+'</b>';
+                document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[resultado+1][1]*100).toString().substring(0,5)+'/100</b>';
+                resultado++;
+                console.log(resultado)
+            }
+            function previous(h){
+                console.log("previous",resultado);
+                document.getElementById("tabla").innerHTML=print_horario_html(h[resultado-1]);
+                document.getElementById("resultado_count").innerHTML='<b>Resultado '+(resultado)+' de '+h.length+'</b>';
+                document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[resultado-1][1]*100).toString().substring(0,5)+'/100</b>';
+                resultado--;
+            }
             function resultados_html(h){
                 if(isNaN(h[0][1])){return 'No se pudo optimizar horario';}
-                var out='<center><h1>Resultados</h1><h3>Mejor puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</h3>'
-                //document.write('<form><input type="button" value="Resamplear" onclick="main()"/>')
-                //for(horario of h)out+=(print_horario_html(horario));
-                //return out
-                out+=print_horario_html(h[0])
-                return out
+                var buttons='<input type="button" onclick="previous(h)" value="Anterior"/> <input type="button" onclick="print_horario()" value="Imprimir"/> <input type="button" onclick="next(h)" value="Siguiente"/> '
+                var puntaje='<div id="puntaje" style="display:inline-block;margin:0px;padding-right:20px;"><b>Puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</b> </div>'
+                var resultado_count='<div id="resultado_count" style="display:inline-block;margin:0px;padding-right:20px;"><b>Resultado 1 de '+h.length+'</b></div>'
+                var out='<div id="header_resultados"><center><h1>Resultados</h1>'+resultado_count+puntaje+buttons+'<br><br></div>'
+                out+='<div id="tabla">'+print_horario_html(h[0])+'</div>'
+            return out
 
             }
             function main(){
@@ -138,9 +190,9 @@
                     if(preferencias.length==0){
                         preferencias=get_preferencias();
                     }
-                    //var mi_lista=["MAT-14101-CALCULO DIF. E INT., II", "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)", "SDI-14105-INTRODUCCION A LA INGENIERIA", "EGN-17121-IDEAS E INST. POL. Y SOC. I", "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT", "COM-11102-ESTRUCTURAS DE DATOS", "CLE-10603-ESTUDIA CON EXITO EN EL ITAM"];
+                    //lista_de_clases_usuario=["MAT-14101-CALCULO DIF. E INT., II", "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)", "SDI-14105-INTRODUCCION A LA INGENIERIA", "EGN-17121-IDEAS E INST. POL. Y SOC. I", "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT", "COM-11102-ESTRUCTURAS DE DATOS", "CLE-10603-ESTUDIA CON EXITO EN EL ITAM"];
                     //var h=generarHorarios(mi_lista,preferencias,100);
-                    var h=generarHorarios(lista_de_clases_usuario,preferencias,100);
+                    h=generarHorarios(lista_de_clases_usuario,preferencias,100);
                     document.getElementById("space").style="width:60px;"
                     document.getElementById("resultados").innerHTML=resultados_html(h)
                 }
