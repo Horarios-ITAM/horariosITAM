@@ -43,10 +43,11 @@
             document.getElementById('main_form').innerHTML=build_main_form();
             var lista_de_clases_usuario=[];
             if(document.cookie.length>0 && confirm("Usar lista de clases guardada?")){
+
                 var str_lista=getCookie("lista_de_clases_usuario").split(',')
                 console.log("str_lista",str_lista);
                 console.log("str_lista[0]",str_lista[0])
-                for(clase of str_lista)agregar(clase);
+                for(clase of str_lista)agregar(clase.replace("*",","));
                 console.log("lista usuario",lista_de_clases_usuario);
             }
             var preferencias=[];
@@ -218,6 +219,7 @@
                   return document.cookie.split("=")[1];
             }
             function setCookie(cname, cvalue, exdays) {
+            for(int i=0;i<cvalue.length;i++)cvalue[i]=cvalue[i].replace(",","*");
               var d = new Date();
               d.setTime(d.getTime() + (exdays*24*60*60*1000));
               var expires = "expires="+ d.toUTCString();
