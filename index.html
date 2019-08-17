@@ -188,7 +188,7 @@
                 document.getElementById("tabla").innerHTML=print_horario_html(h[resultado-1]);
                 document.getElementById("resultado_count").innerHTML='<b>Resultado '+(resultado)+' de '+h.length+'</b>';
                 document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[resultado-1][1]*100).toString().substring(0,5)+'/100</b>';
-                //resultado--;
+                resultado--;
             }
             function resultados_html(h){
                 if(isNaN(h[0][1])){return 'No se pudo optimizar horario';}
