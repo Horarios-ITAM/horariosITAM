@@ -44,10 +44,10 @@
             var lista_de_clases_usuario=[];
             if(document.cookie.length>0 && confirm("Usar lista de clases guardada?")){
                 var str_lista=getCookie("lista_de_clases_usuario").split(',')
-                console.log("str_lista",str_lista);
-                console.log("str_lista[0]",str_lista[0])
+                //console.log("str_lista",str_lista);
+                //console.log("str_lista[0]",str_lista[0])
                 for(clase of str_lista)agregar(clase.replace("*",","));
-                console.log("lista usuario",lista_de_clases_usuario);
+                //console.log("lista usuario",lista_de_clases_usuario);
             }
             var preferencias=[];
             var h=[];
@@ -148,6 +148,7 @@
                 var dia=document.getElementsByName('dia')[0].value;
                 var peso_dia=parseFloat(document.getElementsByName('peso_dia')[0].value)/100;
                 var pref=[[mis_profes_score,mis_profes_peso],[horario_rango_score,peso_rango,objecto_rango],[clases_juntas_separadas_score,juntas_peso,juntas],[dia_libre_score,peso_dia,dia]];
+                console.log("pref",pref)
                 return pref;
 
             }
@@ -226,21 +227,18 @@
               console.log("cookie set")
             }
             function main(){
-                if(lista_de_clases_usuario.length>0){
-                    if(preferencias.length==0){
-                        preferencias=get_preferencias();
-                    }
-                    //alert(getCookie("lista_de_clases_usuario"))
-                    //lista_de_clases_usuario=["MAT-14101-CALCULO DIF. E INT., II", "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)", "SDI-14105-INTRODUCCION A LA INGENIERIA", "EGN-17121-IDEAS E INST. POL. Y SOC. I", "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT", "COM-11102-ESTRUCTURAS DE DATOS", "CLE-10603-ESTUDIA CON EXITO EN EL ITAM"];
-                    //var h=generarHorarios(mi_lista,preferencias,100);
-                    console.log(lista_de_clases_usuario)
-                    var copia=Array.from(lista_de_clases_usuario);
-                    console.log(copia)
-                    setCookie("lista_de_clases_usuario",copia,30);
-                    h=generarHorarios(lista_de_clases_usuario,preferencias,100);
-                    document.getElementById("space").style="width:60px;"
-                    document.getElementById("resultados").innerHTML=resultados_html(h)
-                }
+                preferencias=get_preferencias();
+                //alert(getCookie("lista_de_clases_usuario"))
+                //lista_de_clases_usuario=["MAT-14101-CALCULO DIF. E INT., II", "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)", "SDI-14105-INTRODUCCION A LA INGENIERIA", "EGN-17121-IDEAS E INST. POL. Y SOC. I", "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT", "COM-11102-ESTRUCTURAS DE DATOS", "CLE-10603-ESTUDIA CON EXITO EN EL ITAM"];
+                //var h=generarHorarios(mi_lista,preferencias,100);
+                //console.log(lista_de_clases_usuario)
+                var copia=Array.from(lista_de_clases_usuario);
+                //console.log(copia)
+                console.log(preferencias);
+                setCookie("lista_de_clases_usuario",copia,30);
+                h=generarHorarios(lista_de_clases_usuario,preferencias,100);
+                document.getElementById("space").style="width:60px;"
+                document.getElementById("resultados").innerHTML=resultados_html(h)
 
             }
         </script>
