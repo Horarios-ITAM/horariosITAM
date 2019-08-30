@@ -148,7 +148,7 @@
                 var dia=document.getElementsByName('dia')[0].value;
                 var peso_dia=parseFloat(document.getElementsByName('peso_dia')[0].value)/100;
                 var pref=[[mis_profes_score,mis_profes_peso],[horario_rango_score,peso_rango,objecto_rango],[clases_juntas_separadas_score,juntas_peso,juntas],[dia_libre_score,peso_dia,dia]];
-                console.log("pref",pref)
+                console.log("preferencias:",pref)
                 return pref;
 
             }
@@ -215,7 +215,7 @@
                     }
                   }
                   return "";*/
-                  console.log(decodeURIComponent(document.cookie))
+                  //console.log(decodeURIComponent(document.cookie))
                   return document.cookie.split("=")[1];
             }
             function setCookie(cname, cvalue, exdays) {
@@ -224,7 +224,7 @@
               d.setTime(d.getTime() + (exdays*24*60*60*1000));
               var expires = "expires="+ d.toUTCString();
               document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-              console.log("cookie set")
+              //console.log("cookie set")
             }
             function main(){
                 preferencias=get_preferencias();
@@ -235,9 +235,10 @@
                 //console.log(lista_de_clases_usuario)
                 var copia=Array.from(lista_de_clases_usuario);
                 //console.log(copia)
-                console.log(preferencias);
+                //console.log(preferencias);
                 setCookie("lista_de_clases_usuario",copia,30);
                 h=generarHorarios(lista_de_clases_usuario,preferencias,100);
+                console.log(h);
                 document.getElementById("space").style="width:60px;"
                 document.getElementById("resultados").innerHTML=resultados_html(h)
 
