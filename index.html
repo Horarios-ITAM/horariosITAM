@@ -39,6 +39,10 @@
         </tr>
         </table>
         <div id="para_imprimir" style="display:none"></div>
+        <form name="detalles" style="" target="_blank" action="http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios2" method="post">
+          <input type="hidden" name="s" value="1573"><br>
+          <input type="hidden" value="" name="txt_materia"><br>
+        </form>
         <script>
             document.getElementById('main_form').innerHTML=build_main_form();
             var lista_de_clases_usuario=[];
@@ -217,6 +221,11 @@
                   return "";*/
                   //console.log(decodeURIComponent(document.cookie))
                   return document.cookie.split("=")[1];
+            }
+            function post_link(clase){
+                //console.log(clase);
+                document.getElementsByName("txt_materia")[0].value=clase;
+                document.detalles.submit();
             }
             function setCookie(cname, cvalue, exdays) {
             for(var i=0;i<cvalue.length;i++)cvalue[i]=cvalue[i].replace(",","*");

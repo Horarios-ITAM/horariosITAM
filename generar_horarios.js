@@ -224,15 +224,15 @@ function print_horario_html(horario){
                     var r="";
                     try{r=ratings[grupo['profesor']][0]}
                     catch(err){r="";}
-                    var span_text='Grupo: '+grupo['grupo']+'\nProfesor: '+grupo['profesor']+' ('+r+' en MisProfes.com)\nHorario: '+hrs+' '+grupo['dias']+'\n'
-                    var texto='<td id="grupo4" title="'+span_text+'" style="text-align:CENTER; vertical-align:MIDDLE">\n';
+                    var span_text='Nombre: '+grupo['nombre']+'\nGrupo: '+grupo['grupo']+'\nProfesor: '+grupo['profesor']+' ('+r+' en MisProfes.com)\nHorario: '+hrs+' '+grupo['dias']+'\n'
+                    var texto='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE">\n';
                     var hrs="";
                     try{hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()}
                     catch(err){hrs="";}
                     n=grupo['nombre'].split("-");
-                    //texto+='<span title="'+span_text+'">'
+                    texto+='<span title="'+span_text+'" onclick="post_link(\''+grupo['nombre']+'\')">'
                     texto+=n[0]+n[1]+"("+grupo['grupo']+")";
-                    //texto+='</span>'
+                    texto+='</span>'
                     texto+='</td>';
                     break;
                 }
