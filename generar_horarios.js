@@ -222,8 +222,12 @@ function print_horario_html(horario){
                 //console.log("grupo",grupo)
                 if(conflicts_horarios(grupo['horario'],build_date_objects(slot))){
                     var texto='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE">\n';
+                    var hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()
+                    var span_text='Grupo: '+grupo['grupo']+'\nProfesor: '+grupo['profesor']+' ('+ratings[grupo['profesor']][0]+' en MisProfes.com)\nHorario: '+hrs+' '+grupo['dias']+'\n'
                     n=grupo['nombre'].split("-");
+                    texto+='<span title="'+span_text+'">'
                     texto+=n[0]+n[1]+"("+grupo['grupo']+")";
+                    texto+='</span>'
                     texto+='</td>';
                     break;
                 }
