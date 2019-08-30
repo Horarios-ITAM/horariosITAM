@@ -79,6 +79,7 @@
                 out+='<td><input type="range" class="slider" name="peso_rango" min="0" max="100"></td></tr>'
                 out+='<tr><td>Dia con menos clases: '+dias+'</td>'
                 out+='<td><input type="range" class="slider" name="peso_dia" min="0" max="100"></td></tr>'
+                out+='<tr><td>Grupos preferidos (seleccionar abajo)</td><td><input type="range" class="slider" name="peso_grupos_preferidos" min="0" max="100"></td></tr>'
 
                 out+='</table>'
                 return out;
@@ -122,13 +123,13 @@
             function build_details(nombre_de_clase){
                 var out='<table style="border-collapse: collapse;border: 1px solid black;">'
                 var grupos=build_domains([nombre_de_clase],clases)[nombre_de_clase]
-                out+='<tr><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salon</td><td id="grupo">Dias</td><td id="grupo">Hrs</td></tr>'
+                out+='<tr><td id="grupo">Si</td><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salon</td><td id="grupo">Dias</td><td id="grupo">Hrs</td></tr>'
                 for(grupo of grupos){
                     var rating=''
                     //console.log(grupo['grupo'],grupo['horario'][0].getHours())
                     if(typeof(ratings[grupo['profesor']])!="undefined" && ratings[grupo['profesor']][0]!='0')rating=' ('+ratings[grupo['profesor']][0]+'/10 <a href="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003">MisProfes</a>)';
                     var hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()
-                    out+='<tr><td id="grupo">'+grupo['grupo']+'</td><td id="grupo">'+grupo['profesor']+rating+'</td><td id="grupo">'+grupo['salon']+'</td><td id="grupo">'+grupo['dias']+'</td><td id="grupo">'+hrs+'</td></tr>'
+                    out+='<tr><td id="grupo"><input type="checkbox" name="'+grupo['nombre']+'" value="'+grupo['grupo']+'"/></td><td id="grupo">'+grupo['grupo']+'</td><td id="grupo">'+grupo['profesor']+rating+'</td><td id="grupo">'+grupo['salon']+'</td><td id="grupo">'+grupo['dias']+'</td><td id="grupo">'+hrs+'</td></tr>'
                 }
                 out+='</table>'
                 out+='<div onclick="eliminar(\''+nombre_de_clase+'\')"><u><small>Eliminar Clase</small></u></div>';
@@ -151,7 +152,17 @@
                 var peso_rango=parseFloat(document.getElementsByName('peso_rango')[0].value)/100;
                 var dia=document.getElementsByName('dia')[0].value;
                 var peso_dia=parseFloat(document.getElementsByName('peso_dia')[0].value)/100;
-                var pref=[[mis_profes_score,mis_profes_peso],[horario_rango_score,peso_rango,objecto_rango],[clases_juntas_separadas_score,juntas_peso,juntas],[dia_libre_score,peso_dia,dia]];
+                var grupos_preferidos={};
+                for(clase of lista_de_clases_usuario){
+                    var pref=[]
+                    for(checkbox of document.getElementsByName(clase)){
+                        if(checkbox.checked==true)pref.push(checkbox.value);
+                    }
+                    grupos_preferidos[clase]=pref;
+                }
+                var peso_grupos_preferidos=parseFloat(document.getElementsByName('peso_grupos_preferidos')[0].value)/100;
+                console.log("Grupos preferidos:",grupos_preferidos)
+                var pref=[[mis_profes_score,mis_profes_peso],[horario_rango_score,peso_rango,objecto_rango],[clases_juntas_separadas_score,juntas_peso,juntas],[dia_libre_score,peso_dia,dia],[grupos_preferidos_score,peso_grupos_preferidos,grupos_preferidos]];
                 console.log("preferencias:",pref)
                 return pref;
 
@@ -247,7 +258,7 @@
                 //console.log(preferencias);
                 setCookie("lista_de_clases_usuario",copia,30);
                 h=generarHorarios(lista_de_clases_usuario,preferencias,100);
-                console.log(h);
+                console.log("Generated Horarios array:",h);
                 document.getElementById("space").style="width:60px;"
                 document.getElementById("resultados").innerHTML=resultados_html(h)
 

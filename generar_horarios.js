@@ -32,7 +32,7 @@ function optimization_function(horario,preferencias={}){
     if(Object.keys(preferencias).length==0){
         preferencias=[[mis_profes_score,0.5],[horario_rango_score,0.5,build_date_objects("9:00-16:00")],[clases_juntas_separadas_score,0.5],[dia_libre_score,0.5,'VI']];
         //console.log("test",preferencias[0][0](horario))
-        console.log("preferencias=0")
+        //console.log("preferencias=0")
     }
     var total=0;
     var weights=0.000000001;
@@ -50,6 +50,23 @@ function optimization_function(horario,preferencias={}){
         //console.log(f,score);
     }
     return total/weights;
+}
+function grupos_preferidos_score(horario,grupos_preferidos){
+    //console.log("grupos_preferidos_score")
+    //console.log(horario)
+    var prefNum=0;
+    var withPref=0;
+    for(clase of Object.keys(horario)){
+        if(grupos_preferidos[clase].length>0){withPref++;}
+        for(grupo_preferido of grupos_preferidos[clase]){
+            //console.log(horario[clase]['grupo'],grupo_preferido)
+            if(horario[clase]['grupo']==grupo_preferido)prefNum++;
+        }
+    }
+    //console.log("prefNum:",prefNum)
+    //console.log(prefNum/withPref);
+    if(withPref==0)return 0;
+    return prefNum/withPref;
 }
 function mis_profes_score(horario){
     var total=0;
