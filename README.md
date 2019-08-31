@@ -10,5 +10,6 @@ Datos
   <li>Se usa un levenshtein ratio de 90% para enlazar nombres de los horarios y misProfes.com </li>
 </ul>
 "Optimizador"
-<br>
-Por el momento se generan un numero de horarios legales (sin clases a la misma hora) usando el algoritmo MIN CONFLICTS y se rankean de acuerdo a la funcion de optimizacion (que refleja las preferencias del usuario).  
+<ul>
+<li>Por el momento se generan un numero de horarios legales (sin clases a la misma hora) usando el algoritmo MIN CONFLICTS y se rankean de acuerdo a una funcion de optimizacion que refleja las preferencias del usuario.  </li>
+</ul>
