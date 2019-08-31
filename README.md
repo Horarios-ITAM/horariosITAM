@@ -7,7 +7,7 @@ Datos
   <li>Todos los datos son actualizados semanalmente (github no soporta PHP)</li>
   <li>Los clases y horarios son actualizados de http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios2</li>
 <li>Las calificaciones de los profesores de https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003</li>
-  <li>Se usa un <a href="https://en.wikipedia.org/wiki/Levenshtein_distance">levenshtein ratio</a> de 90% para enlazar nombres de los horarios y misProfes.com </li>
+  <li>Se usa un <a href="https://en.wikipedia.org/wiki/Levenshtein_distance">levenshtein ratio</a> de 90% para enlazar nombres de los profesores de los datos del ITAM y misProfes.com </li>
 </ul>
 "Optimizador"
 <ul>
