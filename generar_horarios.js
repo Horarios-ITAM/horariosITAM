@@ -15,6 +15,13 @@ function generarHorarios(lista_de_clases,preferencias={},n=10,max_restarts=1000 
     //console.log(h)
     return horarios.sort(function(a,b){return b[1]-a[1]});
 }
+function enumerateHorarios(lista_de_clases,preferencias={}){
+    var domains=build_domains(lista_de_clases,clases);
+    var h=enumerate(domains,[],{});
+    var horarios=[]
+    for(i of h)horarios.push([i,optimization_function(i,preferencias)]);
+    return horarios.sort(function(a,b){return b[1]-a[1]});
+}
 function existing_horario(horarios,h){
     for(h2 of horarios){
         if(same_horario(h,h2[0]))return true;
@@ -120,6 +127,55 @@ function grupos_en_dia(horario,dia){
         if(grupo['dias'].indexOf(dia)!=-1){c.push(grupo)}
     }
     return c;
+}
+/**ENUMERATE*/
+function enumerate(domains,horarios,horario){
+    var clases_a_completar=clases_faltantes(domains,horario);
+    //console.log("clases a completar:",clases_a_completar)
+    if(clases_a_completar.length==0){horarios.push(horario);return horarios;}
+    var clase=clases_a_completar[0];
+    var _grupos_legales=grupos_legales(horario,domains,clase);
+    //console.log("grupos legales para ",clase,_grupos_legales);
+    if(_grupos_legales.length==0)throw "No legal groups";
+    for(grupo_legal of _grupos_legales){
+        try{
+            //var copia=horario;
+            //console.log("horario before",horario)
+            //console.log("grupo_legal",grupo_legal)
+            var copy=Object.assign({}, horario)
+            copy[clase]=grupo_legal;
+            //console.log(copy[clase],copy);
+            //console.log("calling enumerate with ",copy,horarios);
+            horarios=enumerate(domains,horarios,copy)
+            //horario[clase]=null;
+        }
+        catch(err){
+            //console.log("caught no legal groups");
+            continue;
+        }
+    }
+    //console.log("final",horarios);
+    return horarios;
+
+}
+function clases_faltantes(domains,horario){
+    if(Object.keys(domains).length==Object.keys(horario))return [];
+    var faltantes=[]
+    for(clase of Object.keys(domains)){
+        if(Object.keys(horario).indexOf(clase)==-1)faltantes.push(clase);
+    }
+    return faltantes;
+}
+function grupos_legales(horario,domains,clase){
+    var legales=[]
+    for(posible_grupo of domains[clase]){
+        var c=false;
+        for(grupo_en_horario of Object.values(horario)){
+            if(conflicts(posible_grupo,grupo_en_horario)){c=true;}
+        }
+        if(!c){legales.push(posible_grupo);}
+    }
+    return legales;
 }
 /**MIN CONLICTS*/
 function min_conflicts(domains,max_steps){

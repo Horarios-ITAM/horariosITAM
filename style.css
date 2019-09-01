@@ -21,6 +21,9 @@ text-align: center;
 text-align: left;
 
 }
+input[type=number]{
+    width: 100px;
+}
 .slider {
   height: 10px;
   width: 100px;
@@ -51,8 +54,9 @@ details{
 span{
     cursor:pointer;
     color:blue;
-    
+
 }
+
 /**
 #a{
     height:40px;

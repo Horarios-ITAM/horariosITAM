@@ -80,7 +80,9 @@
                 out+='<tr><td>Dia con menos clases: '+dias+'</td>'
                 out+='<td><input type="range" class="slider" name="peso_dia" min="0" max="100"></td></tr>'
                 out+='<tr><td>Grupos preferidos (seleccionar abajo)</td><td><input type="range" class="slider" name="peso_grupos_preferidos" min="0" max="100"></td></tr>'
-
+                out+='<tr><td><p></p></td></tr><tr><td><b>Generar:</b>  <input type="radio" name="todos_sampleo" onclick="document.getElementById(\'sampleo_count\').disabled=true" id="todos"> Todos (<small>tardado</small>)';
+                out+='<input type="radio" name="todos_sampleo" id="sampleo" onclick="document.getElementById(\'sampleo_count\').disabled=false" checked> Sampleo</td>'
+                out+='<td><center><input type="number" width="10" min="1" id="sampleo_count" max="1000000" value="1000"/></center></td></tr>'
                 out+='</table>'
                 return out;
             }
@@ -257,11 +259,17 @@
                 //console.log(copia)
                 //console.log(preferencias);
                 setCookie("lista_de_clases_usuario",copia,30);
-                h=generarHorarios(lista_de_clases_usuario,preferencias,100);
+                if(lista_de_clases_usuario.length>0 && document.getElementById("todos").checked==true){
+                    console.log("Getting todos");
+                    h=enumerateHorarios(lista_de_clases_usuario,preferencias);
+                }else if(lista_de_clases_usuario.length>0 && document.getElementById("todos").checked==false){
+                    var n=document.getElementById("sampleo_count").value;
+                    console.log("Getting sampleo w/",n);
+                    h=generarHorarios(lista_de_clases_usuario,preferencias,n);
+                }
                 console.log("Generated Horarios array:",h);
                 document.getElementById("space").style="width:60px;"
                 document.getElementById("resultados").innerHTML=resultados_html(h)
-
             }
         </script>
     </body>
