@@ -40,7 +40,7 @@
         </tr>
         <tr>
             <td>
-                <div id="resultados_mobile"></div>
+                <center><div id="resultados_mobile"></div></center>
             </td>
         </tr>
         </table>
@@ -231,13 +231,22 @@
                 document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[resultado-1][1]*100).toString().substring(0,5)+'/100</b>';
                 resultado--;
             }
-            function resultados_html(h){
+            function resultados_html(h,mobile=false){
                 if(isNaN(h[0][1])){return 'No se pudo optimizar horario';}
-                var buttons='<input type="button" onclick="first(h)" value="&#8804;"/> <input type="button" onclick="previous(h)" value="Anterior"/> <input type="button" onclick="print_horario()" value="Imprimir"/> <input type="button" onclick="next(h)" value="Siguiente"/> <input type="button" onclick="last(h)" value="&#8805;"/>'
-                var puntaje='<div id="puntaje" style="display:inline-block;margin:0px;padding-right:20px;"><b>Puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</b> </div>'
-                var resultado_count='<div id="resultado_count" style="display:inline-block;margin:0px;padding-right:20px;"><b>Resultado 1 de '+h.length+'</b></div>'
-                var out='<div id="header_resultados"><center><h1>Resultados</h1>'+resultado_count+puntaje+buttons+'<br><br></div>'
-                out+='<div id="tabla">'+print_horario_html(h[0])+'</div>'
+                if(mobile){
+                    var buttons='<input type="button" onclick="first(h)" value="&#8804;"/> <input type="button" onclick="previous(h)" value="Anterior"/> <input type="button" onclick="print_horario()" value="Imprimir"/> <input type="button" onclick="next(h)" value="Siguiente"/> <input type="button" onclick="last(h)" value="&#8805;"/>'
+                    var puntaje='<div id="puntaje" style="display:inline-block;margin:0px;padding-right:20px;"><b>Puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</b> </div>'
+                    var resultado_count='<div id="resultado_count" style="display:inline-block;margin:0px;padding-right:20px;"><b>Resultado 1 de '+h.length+'</b></div>'
+                    var out='<div id="header_resultados"><center><h1>Resultados</h1>'+resultado_count+puntaje+"<br><br>"+buttons+'<br><br></div>'
+                    out+='<div id="tabla">'+print_horario_html_mobile(h[0])+'</div>'
+                }else{
+                    var buttons='<input type="button" onclick="first(h)" value="&#8804;"/> <input type="button" onclick="previous(h)" value="Anterior"/> <input type="button" onclick="print_horario()" value="Imprimir"/> <input type="button" onclick="next(h)" value="Siguiente"/> <input type="button" onclick="last(h)" value="&#8805;"/>'
+                    var puntaje='<div id="puntaje" style="display:inline-block;margin:0px;padding-right:20px;"><b>Puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</b> </div>'
+                    var resultado_count='<div id="resultado_count" style="display:inline-block;margin:0px;padding-right:20px;"><b>Resultado 1 de '+h.length+'</b></div>'
+                    var out='<div id="header_resultados"><center><h1>Resultados</h1>'+resultado_count+puntaje+buttons+'<br><br></div>'
+                    out+='<div id="tabla">'+print_horario_html(h[0])+'</div>'
+                }
+
             return out
 
             }
@@ -302,7 +311,7 @@
                     document.getElementById("space").style="width:60px;"
                     document.getElementById("resultados").innerHTML=resultados_html(h)+"<p>"+window.innerWidth+"</p>"
                 }else{
-                    document.getElementById("resultados_mobile").innerHTML=resultados_html(h)+"<p>mobile detected - site designed for desktop</p>"
+                    document.getElementById("resultados_mobile").innerHTML=resultados_html(h,true)+"<p>mobile detected - site designed for desktop</p>"
                 }
 
             }
