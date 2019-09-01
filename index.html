@@ -309,7 +309,7 @@
                 console.log("Generated Horarios array:",h);
                 if(!detectmob()){
                     document.getElementById("space").style="width:60px;"
-                    document.getElementById("resultados").innerHTML=resultados_html(h)+"<p>"+window.innerWidth+"</p>"
+                    document.getElementById("resultados").innerHTML=resultados_html(h);
                 }else{
                     document.getElementById("resultados_mobile").innerHTML=resultados_html(h,true)+"<p>mobile detected - site designed for desktop</p>"
                 }
