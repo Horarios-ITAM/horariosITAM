@@ -125,7 +125,7 @@
             function build_details(nombre_de_clase){
                 var out='<table style="border-collapse: collapse;border: 1px solid black;">'
                 var grupos=build_domains([nombre_de_clase],clases)[nombre_de_clase]
-                out+='<tr><td id="grupo">Si</td><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salon</td><td id="grupo">Dias</td><td id="grupo">Hrs</td></tr>'
+                out+='<tr><td id="grupo"></td><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salon</td><td id="grupo">Dias</td><td id="grupo">Hrs</td></tr>'
                 for(grupo of grupos){
                     var rating=''
                     //console.log(grupo['grupo'],grupo['horario'][0].getHours())
@@ -134,7 +134,8 @@
                     out+='<tr><td id="grupo"><input type="checkbox" name="'+grupo['nombre']+'" value="'+grupo['grupo']+'"/></td><td id="grupo">'+grupo['grupo']+'</td><td id="grupo">'+grupo['profesor']+rating+'</td><td id="grupo">'+grupo['salon']+'</td><td id="grupo">'+grupo['dias']+'</td><td id="grupo">'+hrs+'</td></tr>'
                 }
                 out+='</table>'
-                out+='<div onclick="eliminar(\''+nombre_de_clase+'\')"><u><small>Eliminar Clase</small></u></div>';
+                out+='<span style="color:black;padding-right:10px" onclick="post_link(\''+nombre_de_clase+'\')"><small><u>Ver en Horarios ITAM<u></small></span>'
+                out+='<span style="color:black" onclick="eliminar(\''+nombre_de_clase+'\')"><u><small>Eliminar Clase</small></u></span>';
                 return out;
             }
             function build_datalist(){
