@@ -274,93 +274,56 @@ function sum_values(d){
     return total;
 }
 /**AESTETICS*/
-function print_horario_html(horario){
+function print_horario_html(horario,mobile=false){
+    console.log("mobile:",mobile);
     var h=horario[0]
     //console.log("print_horario_html",h)
-    var out='<table width="580" style="border-collapse: collapse;border: 1px solid black;font-size:10px;">';
-    //out+='<tr><th id="grupo2">Puntaje: '+horario[1].toString().substring(0,5)+'/1.0</th></tr>';
-    out+='<tr><td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"></td>\n';
-    for(day of ['LU','MA','MI','JU','VI','SA']){
-        out+='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"><b>'+day+'</b></td>\n';
-    }
-    out+='</tr>\n';
-    slots=['07:00-07:30','07:30-08:00','08:00-08:30','08:30-09:00','09:00-09:30','09:30-10:00','10:00-10:30','10:30-11:00','11:00-11:30','11:30-12:00','12:00-12:30','12:30-13:00','13:00-13:30','13:30-14:00','14:00-14:30','14:30-15:00','15:00-15:30','15:30-16:00','16:00-16:30','16:30-17:00','17:00-17:30','17:30-18:00','18:00-18:30','18:30-19:00','19:00-19:30','19:30-20:00','20:00-20:30','20:30-21:00','21:00-21:30','21:30-22:00'];
-    for(slot of slots){
-        out+="<tr>\n";
-        out+='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE">'+slot+'</td>\n';
-        for(day of ['LU','MA','MI','JU','VI','SA']){
-            //console.log(day)
-            var texto='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"></td>\n';
-            for(grupo of grupos_en_dia(h,day)){
-                //console.log("grupo",grupo)
-                if(conflicts_horarios(grupo['horario'],build_date_objects(slot))){
-                    var r="";
-                    try{r=ratings[grupo['profesor']][0]}
-                    catch(err){r="";}
-                    var span_text='Nombre: '+grupo['nombre']+'\nGrupo: '+grupo['grupo']+'\nProfesor: '+grupo['profesor']+' ('+r+' en MisProfes.com)\nHorario: '+hrs+' '+grupo['dias']+'\n'
-                    var texto='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE">\n';
-                    var hrs="";
-                    try{hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()}
-                    catch(err){hrs="";}
-                    n=grupo['nombre'].split("-");
-                    texto+='<span title="'+span_text+'" onclick="post_link(\''+grupo['nombre']+'\')">'
-                    texto+=n[0]+n[1]+"("+grupo['grupo']+")";
-                    texto+='</span>'
-                    texto+='</td>';
-                    break;
-                }
-            }
-            out+=texto;
-        }
-        out+="</tr>\n";
-    }
-    out+="</table>"//"\n<hr>\n"
-    return out;
-}
-function print_horario_html_mobile(horario){
-    var h=horario[0]
-    //console.log("print_horario_html",h)
-    var out='<table style="border-collapse: collapse;border: 1px solid black;font-size:10px;">';
-    //out+='<tr><th id="grupo2">Puntaje: '+horario[1].toString().substring(0,5)+'/1.0</th></tr>';
-    out+='<tr><td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"></td>\n';
-    for(day of ['LU','MA','MI','JU','VI','SA']){
-        out+='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"><b>'+day+'</b></td>\n';
-    }
-    out+='</tr>\n';
-    slots=['07:00-07:30','07:30-08:00','08:00-08:30','08:30-09:00','09:00-09:30','09:30-10:00','10:00-10:30','10:30-11:00','11:00-11:30','11:30-12:00','12:00-12:30','12:30-13:00','13:00-13:30','13:30-14:00','14:00-14:30','14:30-15:00','15:00-15:30','15:30-16:00','16:00-16:30','16:30-17:00','17:00-17:30','17:30-18:00','18:00-18:30','18:30-19:00','19:00-19:30','19:30-20:00','20:00-20:30','20:30-21:00','21:00-21:30','21:30-22:00'];
-    for(slot of slots){
-        out+="<tr>\n";
-        out+='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE">'+slot+'</td>\n';
-        for(day of ['LU','MA','MI','JU','VI','SA']){
-            //console.log(day)
-            var texto='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"></td>\n';
-            for(grupo of grupos_en_dia(h,day)){
-                //console.log("grupo",grupo)
-                if(conflicts_horarios(grupo['horario'],build_date_objects(slot))){
-                    var r="";
-                    try{r=ratings[grupo['profesor']][0]}
-                    catch(err){r="";}
-                    var span_text='Nombre: '+grupo['nombre']+'\nGrupo: '+grupo['grupo']+'\nProfesor: '+grupo['profesor']+' ('+r+' en MisProfes.com)\nHorario: '+hrs+' '+grupo['dias']+'\n'
-                    var texto='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE">\n';
-                    var hrs="";
-                    try{hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()}
-                    catch(err){hrs="";}
-                    n=grupo['nombre'].split("-");
-                    texto+='<span title="'+span_text+'" onclick="post_link(\''+grupo['nombre']+'\')">'
-                    texto+=n[0]+n[1]+"("+grupo['grupo']+")";
-                    texto+='</span>'
-                    texto+='</td>';
-                    break;
-                }
-            }
-            out+=texto;
-        }
-        out+="</tr>\n";
-    }
-    out+="</table>"//"\n<hr>\n"
-    return out;
-}
+    var out="";
+    if(mobile){
+        var out='<table style="border-collapse: collapse;border: 1px solid black;font-size:7px;">';
 
+    }else{
+        var out='<table width="580" style="border-collapse: collapse;border: 1px solid black;font-size:10px;">';
+    }
+    //out+='<tr><th id="grupo2">Puntaje: '+horario[1].toString().substring(0,5)+'/1.0</th></tr>';
+    out+='<tr><td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"></td>\n';
+    for(day of ['LU','MA','MI','JU','VI','SA']){
+        out+='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"><b>'+day+'</b></td>\n';
+    }
+    out+='</tr>\n';
+    slots=['07:00-07:30','07:30-08:00','08:00-08:30','08:30-09:00','09:00-09:30','09:30-10:00','10:00-10:30','10:30-11:00','11:00-11:30','11:30-12:00','12:00-12:30','12:30-13:00','13:00-13:30','13:30-14:00','14:00-14:30','14:30-15:00','15:00-15:30','15:30-16:00','16:00-16:30','16:30-17:00','17:00-17:30','17:30-18:00','18:00-18:30','18:30-19:00','19:00-19:30','19:30-20:00','20:00-20:30','20:30-21:00','21:00-21:30','21:30-22:00'];
+    for(slot of slots){
+        out+="<tr>\n";
+        out+='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE">'+slot+'</td>\n';
+        for(day of ['LU','MA','MI','JU','VI','SA']){
+            //console.log(day)
+            var texto='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"></td>\n';
+            for(grupo of grupos_en_dia(h,day)){
+                //console.log("grupo",grupo)
+                if(conflicts_horarios(grupo['horario'],build_date_objects(slot))){
+                    var r="";
+                    try{r=ratings[grupo['profesor']][0]}
+                    catch(err){r="";}
+                    var span_text='Nombre: '+grupo['nombre']+'\nGrupo: '+grupo['grupo']+'\nProfesor: '+grupo['profesor']+' ('+r+' en MisProfes.com)\nHorario: '+hrs+' '+grupo['dias']+'\n'
+                    var texto='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE">\n';
+                    var hrs="";
+                    try{hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()}
+                    catch(err){hrs="";}
+                    n=grupo['nombre'].split("-");
+                    texto+='<span title="'+span_text+'" onclick="post_link(\''+grupo['nombre']+'\')">'
+                    texto+=n[0]+n[1]+"("+grupo['grupo']+")";
+                    texto+='</span>'
+                    texto+='</td>';
+                    break;
+                }
+            }
+            out+=texto;
+        }
+        out+="</tr>\n";
+    }
+    out+="</table>"//"\n<hr>\n"
+    return out;
+}
 
 
  /**DATA*/

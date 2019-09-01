@@ -52,6 +52,7 @@
         <script>
             document.getElementById('main_form').innerHTML=build_main_form();
             var lista_de_clases_usuario=[];
+            var mobile=detectmob();
             if(document.cookie.length>0 && confirm("Usar lista de clases guardada?")){
                 var str_lista=getCookie("lista_de_clases_usuario").split(',')
                 //console.log("str_lista",str_lista);
@@ -202,7 +203,7 @@
             }
             function first(h){
                 //console.log("next");
-                document.getElementById("tabla").innerHTML=print_horario_html(h[0]);
+                document.getElementById("tabla").innerHTML=print_horario_html(h[0],mobile);
                 document.getElementById("resultado_count").innerHTML='<b>Resultado 1 de '+h.length+'</b>';
                 document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</b>';
                 resultado=0;
@@ -210,7 +211,7 @@
             }
             function last(h){
                 //console.log("next");
-                document.getElementById("tabla").innerHTML=print_horario_html(h[h.length-1]);
+                document.getElementById("tabla").innerHTML=print_horario_html(h[h.length-1],mobile);
                 document.getElementById("resultado_count").innerHTML='<b>Resultado '+h.length+' de '+h.length+'</b>';
                 document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[h.length-1][1]*100).toString().substring(0,5)+'/100</b>';
                 resultado=h.length-1;
@@ -218,7 +219,7 @@
             }
             function next(h){
                 //console.log("next");
-                document.getElementById("tabla").innerHTML=print_horario_html(h[resultado+1]);
+                document.getElementById("tabla").innerHTML=print_horario_html(h[resultado+1],mobile);
                 document.getElementById("resultado_count").innerHTML='<b>Resultado '+(resultado+2)+' de '+h.length+'</b>';
                 document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[resultado+1][1]*100).toString().substring(0,5)+'/100</b>';
                 resultado++;
@@ -226,19 +227,19 @@
             }
             function previous(h){
                 //console.log("previous",resultado);
-                document.getElementById("tabla").innerHTML=print_horario_html(h[resultado-1]);
+                document.getElementById("tabla").innerHTML=print_horario_html(h[resultado-1],mobile);
                 document.getElementById("resultado_count").innerHTML='<b>Resultado '+(resultado)+' de '+h.length+'</b>';
                 document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[resultado-1][1]*100).toString().substring(0,5)+'/100</b>';
                 resultado--;
             }
-            function resultados_html(h,mobile=false){
+            function resultados_html(h){
                 if(isNaN(h[0][1])){return 'No se pudo optimizar horario';}
                 if(mobile){
                     var buttons='<input type="button" onclick="first(h)" value="&#8804;"/> <input type="button" onclick="previous(h)" value="Anterior"/> <input type="button" onclick="print_horario()" value="Imprimir"/> <input type="button" onclick="next(h)" value="Siguiente"/> <input type="button" onclick="last(h)" value="&#8805;"/>'
                     var puntaje='<div id="puntaje" style="display:inline-block;margin:0px;padding-right:20px;"><b>Puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</b> </div>'
                     var resultado_count='<div id="resultado_count" style="display:inline-block;margin:0px;padding-right:20px;"><b>Resultado 1 de '+h.length+'</b></div>'
                     var out='<div id="header_resultados"><center><h1>Resultados</h1>'+resultado_count+puntaje+"<br><br>"+buttons+'<br><br></div>'
-                    out+='<div id="tabla">'+print_horario_html_mobile(h[0])+'</div>'
+                    out+='<div id="tabla">'+print_horario_html(h[0],true)+'</div>'
                 }else{
                     var buttons='<input type="button" onclick="first(h)" value="&#8804;"/> <input type="button" onclick="previous(h)" value="Anterior"/> <input type="button" onclick="print_horario()" value="Imprimir"/> <input type="button" onclick="next(h)" value="Siguiente"/> <input type="button" onclick="last(h)" value="&#8805;"/>'
                     var puntaje='<div id="puntaje" style="display:inline-block;margin:0px;padding-right:20px;"><b>Puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</b> </div>'
@@ -307,7 +308,7 @@
                     h=generarHorarios(lista_de_clases_usuario,preferencias,n);
                 }
                 console.log("Generated Horarios array:",h);
-                if(!detectmob()){
+                if(!mobile){
                     document.getElementById("space").style="width:60px;"
                     document.getElementById("resultados").innerHTML=resultados_html(h);
                 }else{
