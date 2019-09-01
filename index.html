@@ -300,7 +300,7 @@
                 console.log("Generated Horarios array:",h);
                 if(!detectmob()){
                     document.getElementById("space").style="width:60px;"
-                    document.getElementById("resultados").innerHTML=resultados_html(h)
+                    document.getElementById("resultados").innerHTML=resultados_html(h)+"<p>"+window.innerWidth+"</p>"
                 }else{
                     document.getElementById("resultados_mobile").innerHTML=resultados_html(h)+"<p>mobile detected - site designed for desktop</p>"
                 }
