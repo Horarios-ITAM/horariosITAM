@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Optimizador Horario ITAM</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script src="generar_horarios.js"></script>
         <link rel="stylesheet" href="style.css">
     </head>
@@ -36,6 +36,11 @@
             <td id="space"></td>
             <td style="vertical-align:top">
                 <div id="resultados"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div id="resultados_mobile"></div>
             </td>
         </tr>
         </table>
@@ -266,6 +271,13 @@
               document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
               //console.log("cookie set")
             }
+            function detectmob() {
+               if(window.innerWidth <= 800 && window.innerHeight <= 600) {
+                 return true;
+               } else {
+                 return false;
+               }
+            }
             function main(){
                 preferencias=get_preferencias();
 
@@ -286,8 +298,13 @@
                     h=generarHorarios(lista_de_clases_usuario,preferencias,n);
                 }
                 console.log("Generated Horarios array:",h);
-                document.getElementById("space").style="width:60px;"
-                document.getElementById("resultados").innerHTML=resultados_html(h)
+                if(!detectmob()){
+                    document.getElementById("space").style="width:60px;"
+                    document.getElementById("resultados").innerHTML=resultados_html(h)
+                }else{
+                    document.getElementById("resultados_mobile").innerHTML=resultados_html(h)
+                }
+
             }
         </script>
     </body>
