@@ -25,7 +25,7 @@ body{
     }
     #grupo2{
         border: 1px solid black;
-        padding:2px;
+        /**padding:2px;*/
         font-size: 50%;
         background-color: grey;
         /**width: 140px;*/
