@@ -280,7 +280,7 @@ function print_horario_html(horario,mobile=false){
     //console.log("print_horario_html",h)
     var out="";
     if(mobile){
-        var out='<table height="" width="'+document.documentElement.clientWidth*0.9+'" style="border-collapse: collapse;border: 1px solid black;">';
+        var out='<table width="'+window.innerWidth*0.9+'" style="border-collapse: collapse;border: 1px solid black;">';
 
     }else{
         var out='<table width="580" style="border-collapse: collapse;border: 1px solid black;font-size:10px;">';
