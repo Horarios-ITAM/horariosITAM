@@ -1,6 +1,33 @@
 body{
     margin:0px;
 }
+@media all and (max-width: 800px) {
+  body{
+      /**font-size:5px;*/
+      /**background: #ccc;*/
+  }
+  h1{
+      font-size: 200%;
+  }
+  td{
+      font-size:80%;
+  }
+  #agregar_button,#generar{
+      padding: 8px 15px;
+      margin: 8px 0;
+      box-sizing: border-box;
+  }
+  #a{
+      padding: 8px 15px;
+      margin: 8px 0;
+      box-sizing: border-box;
+  }
+input[type=button]{
+    padding: 4px 6px;
+    margin: 4px 0;
+    box-sizing: border-box;
+}
+
 #header{
     width: 100%;
     height: 10px;
