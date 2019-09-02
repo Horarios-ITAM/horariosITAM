@@ -19,8 +19,8 @@ body{
           box-sizing: border-box;
       }
     input[type=button]{
-        padding: 4px 6px;
-        margin: 4px 0;
+        padding: 8px 12px;
+        margin: 6px 0;
         box-sizing: border-box;
     }
     #grupo2{
