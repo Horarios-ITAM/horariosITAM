@@ -288,6 +288,7 @@ function print_horario_html(horario,mobile=false){
     //out+='<tr><th id="grupo2">Puntaje: '+horario[1].toString().substring(0,5)+'/1.0</th></tr>';
     out+='<tr><td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"></td>\n';
     for(day of ['LU','MA','MI','JU','VI','SA']){
+        if(mobile && day=="SA"){continue;}
         out+='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"><b>'+day+'</b></td>\n';
     }
     out+='</tr>\n';
@@ -297,6 +298,7 @@ function print_horario_html(horario,mobile=false){
         out+='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE;">'+slot+'</td>\n';
         for(day of ['LU','MA','MI','JU','VI','SA']){
             //console.log(day)
+            if(mobile && day=="SA"){continue;}
             var texto='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"></td>\n';
             for(grupo of grupos_en_dia(h,day)){
                 //console.log("grupo",grupo)
