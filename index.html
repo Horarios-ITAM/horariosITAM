@@ -147,7 +147,7 @@
                 for(grupo of grupos){
                     var rating=''
                     //console.log(grupo['grupo'],grupo['horario'][0].getHours())
-                    if(typeof(ratings[grupo['profesor']])!="undefined" && ratings[grupo['profesor']][0]!='0')rating=' ('+ratings[grupo['profesor']][0]+'/10 <a target="_blank" href="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003">MisProfes</a>)';
+                    if(typeof(ratings[grupo['profesor']])!="undefined" && ratings[grupo['profesor']][0]!='0')rating=' ('+ratings[grupo['profesor']][0]+'/10 <a target="_blank" href="'+links[grupo['profesor']]+'">MisProfes</a>)';
                     var hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()
                     out+='<tr><td id="grupo"><input type="checkbox" name="'+grupo['nombre']+'" value="'+grupo['grupo']+'"/></td><td id="grupo">'+grupo['grupo']+'</td><td id="grupo">'+grupo['profesor']+rating+'</td><td id="grupo">'+grupo['salon']+'</td><td id="grupo">'+grupo['dias']+'</td><td id="grupo">'+hrs+'</td></tr>'
                 }
