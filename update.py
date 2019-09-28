@@ -2,6 +2,9 @@ import requests
 import urllib.request
 import json
 import os
+"""
+Updates data.js with ITAM and MisProfes.com data
+"""
 def lista_de_clases(url):
     fp = urllib.request.urlopen(url)
     html=fp.read().decode("utf-8", 'ignore')
