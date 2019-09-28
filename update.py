@@ -183,23 +183,13 @@ def getLinks():
     print("\tlen todos_profesores: ",len(todos_profesores))
     print("\tlen matched: ",len(matched))
     return matched
-"""if __name__ == '__main__':
-    with open("clases.json","r",encoding="utf8")as f:
-        clases=json.loads(f.read())
-    print(getLinks())
-"""
 clases=scrapeHorariosITAM()
 print("Loaded {} clases!".format(len(clases)))
 lista_de_todas_clases=[clase['nombre'] for clase in clases]
 ratings=getRatings()
 links=getLinks()
-with open("generar_horarios.js","r",encoding="utf8") as f:
-    old=f.read()
-essential=old[:old.index("/**DATA*/")]
-os.remove("backup.js")
-os.rename("generar_horarios.js","backup.js")
-with open("generar_horarios.js","w+",encoding="utf8") as f:
-    f.write(essential)
+
+with open("data.js","w+",encoding="utf8") as f:
     f.write("\n /**DATA*/")
     f.write("\nvar lista_de_todas_clases="+json.dumps(lista_de_todas_clases))
     f.write("\nvar ratings="+json.dumps(ratings))
