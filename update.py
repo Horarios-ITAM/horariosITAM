@@ -2,9 +2,6 @@ import requests
 import urllib.request
 import json
 import os
-"""
-Updates data.js with ITAM and MisProfes.com data
-"""
 def lista_de_clases(url):
     fp = urllib.request.urlopen(url)
     html=fp.read().decode("utf-8", 'ignore')
@@ -42,22 +39,22 @@ def load_clase(nombre,html):
 
 
 def load_all_clases():
-    drop_down_url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=1573'
+    drop_down_url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=1640'
     nombres_clases=lista_de_clases(drop_down_url)
     clases=[]
     for clase in nombres_clases:
-        post_data = {'s':'1573','txt_materia':clase}
+        post_data = {'s':'1640','txt_materia':clase}
         post_response = requests.post(url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios2', data=post_data)
         clases.append(load_clase(clase,post_response.text))
     return clases
 
 def scrapeHorariosITAM():
     print("Scrapping HorariosITAM ...")
-    drop_down_url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=1573'
+    drop_down_url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=1640'
     nombres_clases=lista_de_clases(drop_down_url)
     clases=[]
     for clase in nombres_clases:
-        post_data = {'s':'1573','txt_materia':clase}
+        post_data = {'s':'1640','txt_materia':clase}
         post_response = requests.post(url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios2', data=post_data)
         clases.append(load_clase(clase,post_response.text))
     #s=json.dumps(clases)
@@ -186,17 +183,29 @@ def getLinks():
     print("\tlen todos_profesores: ",len(todos_profesores))
     print("\tlen matched: ",len(matched))
     return matched
+"""if __name__ == '__main__':
+    with open("clases.json","r",encoding="utf8")as f:
+        clases=json.loads(f.read())
+    print(getLinks())
+"""
 clases=scrapeHorariosITAM()
 print("Loaded {} clases!".format(len(clases)))
 lista_de_todas_clases=[clase['nombre'] for clase in clases]
 ratings=getRatings()
 links=getLinks()
-
-with open("data.js","w+",encoding="utf8") as f:
+with open("generar_horarios.js","r",encoding="utf8") as f:
+    old=f.read()
+essential=old[:old.index("/**DATA*/")]
+os.remove("backup.js")
+os.rename("generar_horarios.js","backup.js")
+with open("generar_horarios.js","w+",encoding="utf8") as f:
+    f.write(essential)
     f.write("\n /**DATA*/")
     f.write("\nvar lista_de_todas_clases="+json.dumps(lista_de_todas_clases))
     f.write("\nvar ratings="+json.dumps(ratings))
     f.write("\nvar clases="+json.dumps(clases))
     f.write("\nvar links="+json.dumps(links))
 print("Updated!")
+with open("test.txt","w") as f:
+    f.write(json.dumps(clases))
 input("Press enter to exit")
