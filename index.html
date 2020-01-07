@@ -139,17 +139,25 @@
                 }
                 //document.getElementById("clases_datalist").reset();
             }
+            function selectAllCallBack(nombre_de_clase){
+                var c=document.getElementById(nombre_de_clase+"selectAll").checked;
+                console.log("selectAll",c);
+                console.log(build_domains([nombre_de_clase],clases)[nombre_de_clase]);
+                for(grupo of build_domains([nombre_de_clase],clases)[nombre_de_clase]){
+                    document.getElementById(nombre_de_clase+grupo['grupo']).checked=c;
+                }
 
+            }
             function build_details(nombre_de_clase){
                 var out='<table style="border-collapse: collapse;border: 1px solid black;">'
                 var grupos=build_domains([nombre_de_clase],clases)[nombre_de_clase]
-                out+='<tr><td id="grupo"></td><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salon</td><td id="grupo">Dias</td><td id="grupo">Hrs</td></tr>'
+                out+='<tr><td id="grupo"><input type="checkbox" id="'+nombre_de_clase+'selectAll" onclick="selectAllCallBack(\''+nombre_de_clase+'\')" checked/></td><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salon</td><td id="grupo">Dias</td><td id="grupo">Hrs</td></tr>'
                 for(grupo of grupos){
                     var rating=''
                     //console.log(grupo['grupo'],grupo['horario'][0].getHours())
                     if(typeof(ratings[grupo['profesor']])!="undefined" && ratings[grupo['profesor']][0]!='0')rating=' ('+ratings[grupo['profesor']][0]+'/10 <a target="_blank" href="'+links[grupo['profesor']]+'">MisProfes</a>)';
                     var hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()
-                    out+='<tr><td id="grupo"><input type="checkbox" name="'+grupo['nombre']+'" value="'+grupo['grupo']+'"/></td><td id="grupo">'+grupo['grupo']+'</td><td id="grupo">'+grupo['profesor']+rating+'</td><td id="grupo">'+grupo['salon']+'</td><td id="grupo">'+grupo['dias']+'</td><td id="grupo">'+hrs+'</td></tr>'
+                    out+='<tr><td id="grupo"><input type="checkbox" id="'+nombre_de_clase+grupo['grupo']+'" name="'+grupo['nombre']+'" value="'+grupo['grupo']+'" checked/></td><td id="grupo">'+grupo['grupo']+'</td><td id="grupo">'+grupo['profesor']+rating+'</td><td id="grupo">'+grupo['salon']+'</td><td id="grupo">'+grupo['dias']+'</td><td id="grupo">'+hrs+'</td></tr>'
                 }
                 out+='</table>'
                 out+='<span style="color:black;padding-right:10px" onclick="post_link(\''+nombre_de_clase+'\')"><small><u>Ver en Horarios ITAM<u></small></span>'
