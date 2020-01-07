@@ -16,6 +16,12 @@ def lista_de_clases(url):
         clases.append(clase)
     #print("Found "+str(len(clases)))
     return clases
+def getPeriodo(url):
+    fp = urllib.request.urlopen(url)
+    html=fp.read().decode("utf-8", 'ignore')
+    fp.close()
+    periodo=html.split("período")[1].split("</h3>")[0];
+    return periodo.strip();
 def clean(str):
     return str.replace("<b>","").replace("</b>","").replace("\n","").replace("</TD>","")
 def load_clase(nombre,html):
@@ -67,6 +73,7 @@ def load_clase2(nombre,html):
 def scrapeHorariosITAM2(s):
     print("Scrapping HorariosITAM ...")
     drop_down_url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s='+s
+    print(getPeriodo(drop_down_url))
     nombres_clases=lista_de_clases(drop_down_url)
     clases=[]
     for clase in nombres_clases:
@@ -76,7 +83,7 @@ def scrapeHorariosITAM2(s):
             clases.append(i)
     #s=json.dumps(clases)
     #print(s)
-    return clases
+    return getPeriodo(drop_down_url),clases
 
 def scrapeHorariosITAM():
     print("Scrapping HorariosITAM ...")
@@ -215,11 +222,17 @@ def getLinks():
     return matched
 
 s='1640'
-clases=scrapeHorariosITAM2(s)
+periodo,clases=scrapeHorariosITAM2(s)
+print("periodo:"+periodo)
 print("Loaded {} clases!".format(len(clases)))
 lista_de_todas_clases=[clase['nombre'] for clase in clases]
 ratings=getRatings()
 links=getLinks()
+with open("index.html","r",encoding="utf8") as f:
+    oldHTML=f.read()
+with open("index.html","w",encoding="utf8") as f:
+    f.write(oldHTML.replace("<!--d-->",periodo));
+
 with open("generar_horarios.js","r",encoding="utf8") as f:
     old=f.read()
 essential=old[:old.index("/**DATA*/")]
