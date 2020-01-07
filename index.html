@@ -86,7 +86,7 @@
                 out+='<td><input type="range" class="slider" name="peso_rango" min="0" max="100"></td></tr>'
                 out+='<tr><td>Día con menos clases: '+dias+'</td>'
                 out+='<td><input type="range" class="slider" name="peso_dia" min="0" max="100"></td></tr>'
-                out+='<tr><td>Grupos preferidos (seleccionar abajo)</td><td><input type="range" class="slider" name="peso_grupos_preferidos" min="0" max="100"></td></tr>'
+                //out+='<tr><td>Grupos preferidos (seleccionar abajo)</td><td><input type="range" class="slider" name="peso_grupos_preferidos" min="0" max="100"></td></tr>'
                 //out+='<tr><td><p></p></td></tr><tr><td><b>Generar:</b>  <input type="radio" name="todos_sampleo" onclick="document.getElementById(\'sampleo_count\').disabled=true" id="todos"> Todos (<small>tardado</small>)';
                 //out+='<input type="radio" name="todos_sampleo" id="sampleo" onclick="document.getElementById(\'sampleo_count\').disabled=false" checked> Sampleo</td>'
                 out+='<tr><td><p></p></td></tr>'
@@ -189,9 +189,9 @@
                     }
                     grupos_preferidos[clase]=pref;
                 }
-                var peso_grupos_preferidos=parseFloat(document.getElementsByName('peso_grupos_preferidos')[0].value)/100;
+                //var peso_grupos_preferidos=parseFloat(document.getElementsByName('peso_grupos_preferidos')[0].value)/100;
                 console.log("Grupos preferidos:",grupos_preferidos)
-                var pref=[[mis_profes_score,mis_profes_peso],[horario_rango_score,peso_rango,objecto_rango],[clases_juntas_separadas_score,juntas_peso,juntas],[dia_libre_score,peso_dia,dia],[grupos_preferidos_score,peso_grupos_preferidos,grupos_preferidos]];
+                var pref=[[mis_profes_score,mis_profes_peso],[horario_rango_score,peso_rango,objecto_rango],[clases_juntas_separadas_score,juntas_peso,juntas],[dia_libre_score,peso_dia,dia],[grupos_preferidos_score,0,grupos_preferidos]];
                 console.log("preferencias:",pref)
                 return pref;
 
