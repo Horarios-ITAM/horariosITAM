@@ -36,16 +36,46 @@ def load_clase(nombre,html):
         #print(data,clave,grupo,profesor,creditos,horario,dias,salon,campus)
         grupos.append({'grupo':grupo,'nombre':nombre,'profesor':profesor,'creditos':creditos,'horario':horario,'dias':dias,'salon':salon,'campus':campus})
     return {'clave':clave,'nombre':nombre,'grupos':grupos}
+def load_clase2(nombre,html):
+    grupos=[]
+    gruposLAB=[]
+    clave=''
+    entries=html.split("<TR align=center>")
+    entries[-1]=entries[-1].split("</TABLE>")[0]
+    for entry in entries[2:]:
+        data=entry.split("<TD>")
+        clave=clean(data[2])
+        grupo=clean(data[3])
+        t=clean(data[4])
+        profesor=clean(data[6])
+        creditos=clean(data[7])
+        horario=clean(data[8])
+        dias=clean(data[9]).split()
+        salon=clean(data[10])
+        campus=clean(data[11])
+        #print(data,clave,grupo,profesor,creditos,horario,dias,salon,campus)
+        if t=="T":
+            grupos.append({'grupo':grupo,'nombre':nombre,'profesor':profesor,'creditos':creditos,'horario':horario,'dias':dias,'salon':salon,'campus':campus})
+        elif t=="L":
+            gruposLAB.append({'grupo':grupo,'nombre':nombre+"-LAB",'profesor':profesor,'creditos':creditos,'horario':horario,'dias':dias,'salon':salon,'campus':campus})
+    if len(gruposLAB)==0:
+        return [{'clave':clave,'nombre':nombre,'grupos':grupos}]
+    else:
+        return [{'clave':clave,'nombre':nombre,'grupos':grupos},{'clave':clave,'nombre':nombre+"-LAB",'grupos':gruposLAB}]
 
 
-def load_all_clases():
-    drop_down_url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=1640'
+def scrapeHorariosITAM2(s):
+    print("Scrapping HorariosITAM ...")
+    drop_down_url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s='+s
     nombres_clases=lista_de_clases(drop_down_url)
     clases=[]
     for clase in nombres_clases:
-        post_data = {'s':'1640','txt_materia':clase}
+        post_data = {'s':s,'txt_materia':clase}
         post_response = requests.post(url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios2', data=post_data)
-        clases.append(load_clase(clase,post_response.text))
+        for i in load_clase2(clase,post_response.text):
+            clases.append(i)
+    #s=json.dumps(clases)
+    #print(s)
     return clases
 
 def scrapeHorariosITAM():
@@ -183,12 +213,9 @@ def getLinks():
     print("\tlen todos_profesores: ",len(todos_profesores))
     print("\tlen matched: ",len(matched))
     return matched
-"""if __name__ == '__main__':
-    with open("clases.json","r",encoding="utf8")as f:
-        clases=json.loads(f.read())
-    print(getLinks())
-"""
-clases=scrapeHorariosITAM()
+
+s='1640'
+clases=scrapeHorariosITAM2(s)
 print("Loaded {} clases!".format(len(clases)))
 lista_de_todas_clases=[clase['nombre'] for clase in clases]
 ratings=getRatings()
