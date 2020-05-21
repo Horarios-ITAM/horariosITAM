@@ -221,7 +221,7 @@ def getLinks():
     print("\tlen matched: ",len(matched))
     return matched
 
-s='1640'
+s='1694'
 periodo,clases=scrapeHorariosITAM2(s)
 print("periodo:"+periodo)
 print("Loaded {} clases!".format(len(clases)))
