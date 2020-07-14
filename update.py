@@ -26,24 +26,6 @@ def clean(str):
     return str.replace("<b>","").replace("</b>","").replace("\n","").replace("</TD>","")
 def load_clase(nombre,html):
     grupos=[]
-    clave=''
-    entries=html.split("<TR align=center>")
-    entries[-1]=entries[-1].split("</TABLE>")[0]
-    for entry in entries[2:]:
-        data=entry.split("<TD>")
-        clave=clean(data[2])
-        grupo=clean(data[3])
-        profesor=clean(data[6])
-        creditos=clean(data[7])
-        horario=clean(data[8])
-        dias=clean(data[9]).split()
-        salon=clean(data[10])
-        campus=clean(data[11])
-        #print(data,clave,grupo,profesor,creditos,horario,dias,salon,campus)
-        grupos.append({'grupo':grupo,'nombre':nombre,'profesor':profesor,'creditos':creditos,'horario':horario,'dias':dias,'salon':salon,'campus':campus})
-    return {'clave':clave,'nombre':nombre,'grupos':grupos}
-def load_clase2(nombre,html):
-    grupos=[]
     gruposLAB=[]
     clave=''
     entries=html.split("<TR align=center>")
@@ -70,33 +52,20 @@ def load_clase2(nombre,html):
         return [{'clave':clave,'nombre':nombre,'grupos':grupos},{'clave':clave,'nombre':nombre+"-LAB",'grupos':gruposLAB}]
 
 
-def scrapeHorariosITAM2(s):
+def scrapeHorariosITAM(s):
     print("Scrapping HorariosITAM ...")
-    drop_down_url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s='+s
+    drop_down_url='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s='+s
     print(getPeriodo(drop_down_url))
     nombres_clases=lista_de_clases(drop_down_url)
     clases=[]
     for clase in nombres_clases:
         post_data = {'s':s,'txt_materia':clase}
-        post_response = requests.post(url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios2', data=post_data)
-        for i in load_clase2(clase,post_response.text):
+        post_response = requests.post(url='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2', data=post_data)
+        for i in load_clase(clase,post_response.text):
             clases.append(i)
     #s=json.dumps(clases)
     #print(s)
     return getPeriodo(drop_down_url),clases
-
-def scrapeHorariosITAM():
-    print("Scrapping HorariosITAM ...")
-    drop_down_url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=1640'
-    nombres_clases=lista_de_clases(drop_down_url)
-    clases=[]
-    for clase in nombres_clases:
-        post_data = {'s':'1640','txt_materia':clase}
-        post_response = requests.post(url='http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios2', data=post_data)
-        clases.append(load_clase(clase,post_response.text))
-    #s=json.dumps(clases)
-    #print(s)
-    return clases
 #############################
 def levenshtein_ratio(a,b):
     a=a.lower().strip()
@@ -221,31 +190,35 @@ def getLinks():
     print("\tlen matched: ",len(matched))
     return matched
 
-s='1694'
-periodo,clases=scrapeHorariosITAM2(s)
-print("periodo:"+periodo)
-print("Loaded {} clases!".format(len(clases)))
-lista_de_todas_clases=[clase['nombre'] for clase in clases]
-ratings=getRatings()
-links=getLinks()
-with open("index.html","r",encoding="utf8") as f:
-    oldHTML=f.read()
-with open("index.html","w",encoding="utf8") as f:
-    f.write(oldHTML.replace("<!--d-->",periodo));
+if __name__=='__main__':
+    s='1754'
+    periodo,clases=scrapeHorariosITAM(s)
+    print("periodo:"+periodo)
+    print("Loaded {} clases!".format(len(clases)))
+    lista_de_todas_clases=[clase['nombre'] for clase in clases]
+    ratings=getRatings()
+    links=getLinks()
 
-with open("generar_horarios.js","r",encoding="utf8") as f:
-    old=f.read()
-essential=old[:old.index("/**DATA*/")]
-os.remove("backup.js")
-os.rename("generar_horarios.js","backup.js")
-with open("generar_horarios.js","w+",encoding="utf8") as f:
-    f.write(essential)
-    f.write("\n /**DATA*/")
-    f.write("\nvar lista_de_todas_clases="+json.dumps(lista_de_todas_clases))
-    f.write("\nvar ratings="+json.dumps(ratings))
-    f.write("\nvar clases="+json.dumps(clases))
-    f.write("\nvar links="+json.dumps(links))
-print("Updated!")
-with open("test.txt","w") as f:
-    f.write(json.dumps(clases))
-input("Press enter to exit")
+
+    #Remplazar datos
+    with open("index.html","r",encoding="utf8") as f:
+        oldHTML=f.read()
+    with open("index.html","w",encoding="utf8") as f:
+        f.write(oldHTML.replace("<!--d-->",periodo));
+
+    with open("generar_horarios.js","r",encoding="utf8") as f:
+        old=f.read()
+    essential=old[:old.index("/**DATA*/")]
+    os.remove("backup.js")
+    os.rename("generar_horarios.js","backup.js")
+    with open("generar_horarios.js","w+",encoding="utf8") as f:
+        f.write(essential)
+        f.write("\n /**DATA*/")
+        f.write("\nvar lista_de_todas_clases="+json.dumps(lista_de_todas_clases))
+        f.write("\nvar ratings="+json.dumps(ratings))
+        f.write("\nvar clases="+json.dumps(clases))
+        f.write("\nvar links="+json.dumps(links))
+    print("Updated!")
+    with open("test.txt","w") as f:
+        f.write(json.dumps(clases))
+    input("Press enter to exit")
