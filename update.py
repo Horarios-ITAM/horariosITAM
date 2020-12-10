@@ -191,7 +191,7 @@ def getLinks():
     return matched
 
 if __name__=='__main__':
-    s='1754'
+    s='1809'
     periodo,clases=scrapeHorariosITAM(s)
     print("periodo:"+periodo)
     print("Loaded {} clases!".format(len(clases)))
