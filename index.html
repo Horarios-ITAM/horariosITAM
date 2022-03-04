@@ -46,7 +46,7 @@
         </table>
         <div id="para_imprimir" style="display:none"></div>
         <form name="detalles" style="" target="_blank" action="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2" method="post">
-          <input type="hidden" name="s" value="1920"><br>
+          <input type="hidden" name="s" value="1995"><br>
           <input type="hidden" value="" name="txt_materia"><br>
         </form>
         <script>
@@ -55,10 +55,7 @@
             var mobile=detectmob();
             if(document.cookie.length>0 && confirm("Usar lista de clases guardada?")){
                 var str_lista=getCookie("lista_de_clases_usuario").split(',')
-                //console.log("str_lista",str_lista);
-                //console.log("str_lista[0]",str_lista[0])
                 for(clase of str_lista)agregar(clase.replace("*",","));
-                //console.log("lista usuario",lista_de_clases_usuario);
             }
             var preferencias=[];
             var h=[];
