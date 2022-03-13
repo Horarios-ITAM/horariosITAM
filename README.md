@@ -8,12 +8,15 @@ La lista de preferencias captura el horario ideal del estudiante. En esta versi�
 
 ## ¿Cómo se usa?
 ### 1. Agrega tus clases
-![alt text](readmeAssets/agregaClases.png)
+
+<img align="center" src="readmeAssets/agregaClases.png">
+
 
 Empieza a escribir el nombre o clave de la clase que quieres agregar en la barra con el texto “Buscar Clase” (1), selecciona la clase del menú que se despliega (2) y oprime el botón de “Agregar” (2). Repite para todas tus clases.
 
 
-Al agregar una clase se agrega a la sección de “Clases seleccionadas” en la parte de abajo de la página. Al darle click en el nombre de una clase se despliegan los grupos e información relevante. 
+Al agregar una clase se agrega a la sección de “Clases seleccionadas” en la parte de abajo de la página. Al darle click en el nombre de una clase se despliegan los grupos e información relevante.  
+
 ![alt text](readmeAssets/clasesSeleccionadas.png)
 
 Las casillas con [insertar palomitas] indican que ese grupo se tomará en los horarios generados. Si te gustaría excluir algunos grupos o incluir sólo algunos puedes seleccionarlos de esta forma. La casilla de arriba (cabezara?) selecciona y deselecciona todas las casillas. 
