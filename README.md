@@ -9,7 +9,7 @@ La lista de preferencias captura el horario ideal del estudiante. En esta versi�
 ## ¿Cómo se usa?
 ### 1. Agrega tus clases
 
-<img align="center" src="readmeAssets/agregaClases.png">
+![alt text](readmeAssets/agregaClases.png)
 
 
 Empieza a escribir el nombre o clave de la clase que quieres agregar en la barra con el texto “Buscar Clase” (1), selecciona la clase del menú que se despliega (2) y oprime el botón de “Agregar” (2). Repite para todas tus clases.
