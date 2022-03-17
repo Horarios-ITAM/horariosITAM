@@ -43,25 +43,32 @@ function eliminar(nombreClase){
 }
 //Cuando se oprime el boton "Agregar"
 function agregar(nombreClase){
+    let clave=claveDeNombre(nombreClase);
+
+    if(clave in clasesSeleccionadas){
+        alert("Ya agregaste esta clase");
+        return;
+    }else if(!(clave in clases)){
+        alert("Clase no existe. Haz click en la clase que deseas agregar en el menu que aparece cuando empiezas a escribir el nombre de la clase.");
+        return;
+    }   
     //Agregamos banner de "Clases Seleccionadas:" si es la primera que agregamos
     if(Object.keys(clasesSeleccionadas).length==0 && nombreClase.length>0){ //TODO checa si el nombre/clave si existe
         var out = document.createElement('p'); // is a node
         out.setAttribute("name", "clases_agregadas_banner");
         out.innerHTML = '<b>Clases seleccionadas:</b>';
         document.getElementById("clases_en_horario").appendChild(out);
-    }
-    if(nombreClase.length>0 && !(nombreClase in clasesSeleccionadas)){               
-        //Construimos clase y agregamos a clasesSeleccionadas
-        let clave=claveDeNombre(nombreClase);
-        let clase=loadClase(clave);      
-        clasesSeleccionadas[clave]=clase;
-        //Mostramos detalles de clase en "Clases Seleccionadas"  
-        let detalles = document.createElement('details');
-        detalles.id=nombreClase;
-        detalles.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase);
-        document.getElementById("clases_en_horario").appendChild(detalles);
+    }         
+    //Construimos clase y agregamos a clasesSeleccionadas 
+    let clase=loadClase(clave);      
+    clasesSeleccionadas[clave]=clase;
+    //Mostramos detalles de clase en "Clases Seleccionadas"  
+    let detalles = document.createElement('details');
+    detalles.id=nombreClase;
+    detalles.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase);
+    document.getElementById("clases_en_horario").appendChild(detalles);
         
-    }
+    
 }
 //Lee valores de la forma de preferencias y los usa para construir un objecto de Preferencias
 function getPreferencias(){
@@ -90,7 +97,6 @@ function getPreferencias(){
         //Para cada grupo en la clase
         for(let numeroGrupo in clasesSeleccionadas[claveClase].grupos){
             //Checa si esta seleccionado y agregalo a seleccionados
-            console.log(claveClase+numeroGrupo);
             if(document.getElementById(claveClase+numeroGrupo).checked)
                 seleccionados.push(numeroGrupo);
         }
@@ -116,6 +122,7 @@ function getPreferencias(){
 function seleccionaTodosGrupos(claveClase){
     //Checa si el selectAll esta seleccionado o no
     let seleccionado=document.getElementById(claveClase+"selectAll").checked;
+    console.log("select all ",seleccionado);
     if(claveClase in clasesSeleccionadas){
         //Selecciona/deselecciona cada grupo
         for(let numeroGrupo in clasesSeleccionadas[claveClase].grupos){
@@ -262,7 +269,6 @@ function imprimirContenidoHTML(){
     let out="<br><center><h3>INSTITUTO TECNOLOGICO AUTONOMO DE MEXICO</h3><h4>HORARIO NO OFICIAL</h4>";
     let detalles="<table style='border-collapse: collapse;border: 1px solid black;font-size:10px;'><tr><th id='grupo3'><b>CLAVE</b</th><th id='grupo3'>GRUPO</th><th id='grupo3'>MATERIA</th><th id='grupo3'>HORARIO</th><th id='grupo3'>SALON</th><th id='grupo3'>PROFESOR</th></tr>";
     for(let grupo of horario.grupos){
-        console.log(grupo.claveClase);
         let nombre=clasesSeleccionadas[grupo.claveClase].nombre;
         detalles+='<tr><td id="grupo3">'+grupo.claveClase+'</td><td id="grupo3">'+grupo.numero+'</td><td id="grupo3">'+nombre+'</td><td id="grupo3">'+grupo.horario+' '+grupo.dias+'</td><td id="grupo3">'+grupo.salon+'</td><td id="grupo3">'+grupo.profesor.nombre+'</td></tr>';
         //detalles+='<tr><td>grupo aqui</td></tr>'

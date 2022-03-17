@@ -120,7 +120,6 @@ function misProfesPuntaje(horario){
 //Normalizado 0-1.
 function diaConMenosPuntaje(horario,dia){
     let gruposDias=gruposEnDias(horario.grupos);
-    console.log(gruposDias);
     let gruposEnDia=0;
     if(dia in gruposDias)
         gruposEnDia=gruposDias[dia].length;
@@ -128,16 +127,36 @@ function diaConMenosPuntaje(horario,dia){
     return 1-(gruposEnDia/totalGrupos);
 }
 
+//Regresa la proporcion de grupos en el horario que caen en el rango
+//Un grupos cae en el rango si rango.inicio<=inicio y grupo.fin<=rango.fin
+function rangoPuntaje(horario,inicioRango,finRango){
+    let inicio=strToDateHora(inicioRango);
+    let fin=strToDateHora(finRango);
+    let totalGrupos=horario.grupos.length;
+    let caenEnRango=0;
+    for(let grupo of horario.grupos){
+        if(inicio.getTime()<=grupo.dtInicio.getTime() && grupo.dtFin.getTime()<=fin.getTime())
+            caenEnRango+=1;
+    }
+    if(totalGrupos>0)
+        return caenEnRango/totalGrupos;
+    return 0;
+}
+
+
 //Promedio ponderado de preferencias con importancias
 function evaluaHorario(horario,preferencias){
     //Promedio de las evaluaciones de los profesores de los grupos en el horario
     let promedioMisProfes=misProfesPuntaje(horario)*preferencias.misProfesPeso;
     //Proporcion de clases que no se encuentran en dia con menos clases preferido
     let diaConMenos=diaConMenosPuntaje(horario,preferencias.diaMenos)*preferencias.diaMenosPeso;
-    //TODO rango clases y juntas/separadas
-    let sumaPesos=preferencias.misProfesPeso+preferencias.diaMenosPeso;
-    let sumaPonderada=(promedioMisProfes+diaConMenos)/sumaPesos;
-    console.log(sumaPonderada);
+    //Rango horario
+    let rangoHorario=rangoPuntaje(horario,preferencias.rangoStart,preferencias.rangoEnd);
+    //Clases Juntas/Separadas TODO
+
+    let sumaPesos=preferencias.misProfesPeso+preferencias.diaMenosPeso+preferencias.rangoPeso;
+    let sumaPonderada=(promedioMisProfes+diaConMenos+rangoHorario)/sumaPesos;
+    //console.log(sumaPonderada);
     if(sumaPesos>0)
         return sumaPonderada*100;
     return 0;
@@ -175,8 +194,8 @@ function generarTodosHorarios(clasesSeleccionadas,preferencias){
     for(let horario of horarios)
         horario.puntaje=evaluaHorario(horario,preferencias);
     horarios.sort((a,b)=> b.puntaje-a.puntaje);
-    console.log("horarios");
-    console.log(horarios);
+    //console.log("horarios");
+    //console.log(horarios);
     return horarios;
 }
 

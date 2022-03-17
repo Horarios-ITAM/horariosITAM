@@ -166,7 +166,6 @@
                 let clasesSeleccionadasCopy={...clasesSeleccionadas}; //copia local
                 let out={}; //ClaveClase: Clase() con grupos filtrados
                 for(let claveClase in preferencias.gruposSeleccionados){
-                    console.log(claveClase);
                     let numerosGrupos=preferencias.gruposSeleccionados[claveClase];
                     let grupos={};
                     for(let numeroGrupo of numerosGrupos)
@@ -175,7 +174,6 @@
                     out[claveClase]=clasesSeleccionadasCopy[claveClase];
                     out[claveClase].grupos=grupos;
                 }
-                console.log(out);
                 return out;
             }
             //Cuando se oprime el boton de Generar
