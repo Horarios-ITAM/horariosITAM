@@ -199,8 +199,10 @@
                 if(preferencias.generacion=="todos"){
                     console.log("Generando todos");
                     horarios=generarTodosHorarios(conGruposFiltrados,preferencias);
-                    if(horarios.length==0)
-                        alert("No se pudieron generar horarios");
+                    if(horarios.length==0){
+                        alert("Imposible generar horarios con los grupos ingresados.");
+                        return;
+                    }
                     horariosGenerados=horarios;
                 }else{
                     //horarios=sampleo();
