@@ -90,6 +90,7 @@ function getPreferencias(){
         //Para cada grupo en la clase
         for(let numeroGrupo in clasesSeleccionadas[claveClase].grupos){
             //Checa si esta seleccionado y agregalo a seleccionados
+            console.log(claveClase+numeroGrupo);
             if(document.getElementById(claveClase+numeroGrupo).checked)
                 seleccionados.push(numeroGrupo);
         }
@@ -284,18 +285,16 @@ function imprimir(){
 
 function cargaDeCookies(){
     //Carga clases guardadas
-    let nombresClases=getCookie("clasesSeleccionadas").split('*');
-    let usarGuardados=confirm("Usar lista de clases guardada?");
-    if(nombresClases.length>0 && usarGuardados){       
-        for(let nombreClase of nombresClases){
+    let nombresClases=getCookie("clasesSeleccionadas");
+    if(nombresClases.length>0 && confirm("Usar lista de clases guardada?")){  
+        for(let nombreClase of nombresClases.split('*')){
             //Checa si esta en datos
             if(claveDeNombre(nombreClase) in clases){  
                 agregar(nombreClase);
             }
         }
-    }else if(!usarGuardados){
-        //TODO elimina cookie?
     }
+
     //TODO carga preferencias guardadas
 }
 

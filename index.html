@@ -2,7 +2,6 @@
     <head>
         <title>Planea Horario ITAM</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="generar_horarios.js"></script> <!--OUTDATED-->
         <!--Contiene declaraciones de clases que se usan-->
         <script src="classes.js"></script>
         <!--Contiene los datos de horarios y de MisProfes.com-->
@@ -161,13 +160,30 @@
             let horariosGenerados=NaN;
             let resultado=0; //el horarioGenerado desplegado actualmente 
             cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
-            
+
+            //Regresa clasesSeleccionadas pero solo con grupos seleccionados
+            function clasesSeleccionadasFiltradas(clasesSeleccionadas,preferencias){
+                let clasesSeleccionadasCopy={...clasesSeleccionadas}; //copia local
+                let out={}; //ClaveClase: Clase() con grupos filtrados
+                for(let claveClase in preferencias.gruposSeleccionados){
+                    console.log(claveClase);
+                    let numerosGrupos=preferencias.gruposSeleccionados[claveClase];
+                    let grupos={};
+                    for(let numeroGrupo of numerosGrupos)
+                        grupos[numeroGrupo]=clasesSeleccionadasCopy[claveClase].grupos[numeroGrupo];
+                    
+                    out[claveClase]=clasesSeleccionadasCopy[claveClase];
+                    out[claveClase].grupos=grupos;
+                }
+                console.log(out);
+                return out;
+            }
             //Cuando se oprime el boton de Generar
             function generar(){
                 let preferencias=getPreferencias();
-                let clasesSeleccionadasCopy={...clasesSeleccionadas}; //Copia local clasesSeleccionadas
+                let conGruposFiltrados=clasesSeleccionadasFiltradas(clasesSeleccionadas,preferencias);
                 //Chequeos entradas
-                if(Object.keys(clasesSeleccionadasCopy).length==0){
+                if(Object.keys(conGruposFiltrados).length==0){
                     alert("Agrega tus clases para generar tus horarios");
                     return;
                 }
@@ -177,14 +193,14 @@
                 }
                 //Guarda Cookies
                 let nombresClasesSeleccionadas=[];
-                for(let clase of Object.values(clasesSeleccionadasCopy))
+                for(let clase of Object.values(conGruposFiltrados))
                     nombresClasesSeleccionadas.push(clase.nombre);
                 setCookie("clasesSeleccionadas",nombresClasesSeleccionadas.join("*"),30);
                 //Generacion
                 let horarios=NaN;
                 if(preferencias.generacion=="todos"){
                     console.log("Generando todos");
-                    horarios=generarTodosHorarios(clasesSeleccionadasCopy,preferencias);
+                    horarios=generarTodosHorarios(conGruposFiltrados,preferencias);
                     if(horarios.length==0)
                         alert("No se pudieron generar horarios");
                     horariosGenerados=horarios;
