@@ -2,7 +2,16 @@
     <head>
         <title>Planea Horario ITAM</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="generar_horarios.js"></script>
+        <script src="generar_horarios.js"></script> <!--OUTDATED-->
+        <!--Contiene declaraciones de clases que se usan-->
+        <script src="classes.js"></script>
+        <!--Contiene los datos de horarios y de MisProfes.com-->
+        <script src="data.js"></script>
+        <!--Contiene el javascript principal-->
+        <script src="main.js"></script>
+        <!--Contiene metodos para generar y controlar elementos de UI-->
+        <script src="uiUtils.js"></script>
+        <!--CSS-->
         <link rel="stylesheet" href="style.css">
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-07PYLHL7M4"></script>
@@ -10,337 +19,187 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-
         gtag('config', 'G-07PYLHL7M4');
         </script>
     </head>
     <body>
-        <div id="header"></div>
+        <div id="header"></div> <!--Tira verde superior-->
         <center>
         <br><br>
         <table>
-        <tr>
-            <td style="vertical-align:top">
-                <center>
-                <h1>Planea tu Horario ITAM</h1>
-                Agrega tus clases y explora tus posibles horarios rankeados de acuerdo a tus preferencias
-                <br>
-                <a href="https://github.com/emiliocantuc/emiliocantuc.github.io">¿Cómo funciona?</a>
-                <br>
-                <small>(Datos PRIMAVERA 2022)</small>
-                <br><br>
-                <div id="main_form"></div>
-                <div id="content">
-                <center>
+            <tr>
+                <td style="vertical-align:top">
                     <center>
-                    <table border=0 style="padding:0px;"><tr style="padding:0px"><td style="padding:0px">
-                    </center>
-                        <div id='clases_actuales' style="padding:0px;">
-                            <ul id='clases_en_horario' style="padding:0px"></ul>
-                            <p id="testing"></p>
-                        </div>
-                    </td></tr></table>
-                </div>
-            </td>
-            <td id="space"></td>
-            <td style="vertical-align:top">
-                <div id="resultados"></div>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <center><div id="resultados_mobile"></div></center>
-            </td>
-        </tr>
+                    <h1>Planea tu Horario ITAM</h1>
+                    Agrega tus clases y explora posibles horarios ordenados de acuerdo a tus preferencias
+                    <br>
+                    <a href="https://github.com/emiliocantuc/emiliocantuc.github.io">¿Cómo funciona?</a>
+                    <br>
+                    <small id="datosSemestre">(Datos PRIMAVERA 2022)</small>
+                    <br><br>
+                    <div id="main_form">
+                        <form id="clases_form">
+                            <input list="clases_datalist" placeholder="Buscar Clase" size="35" id="a" onfocus="this.value=''" autofocus>
+                                <!--Datalist con la lista de clases-->
+                                <datalist id="clases_datalist"></datalist>
+                                <!--Boton de Agregar-->
+                                <input type=button value="Agregar" id="agregar_button" onclick="agregar(document.getElementById('a').value)"/>
+                                <!--Tabla y inputs de preferencias-->
+                                <br>
+                                <table border="0">
+                                    <tr>
+                                        <td><center><b>Preferencias</b></center></td>
+                                        <td><center><b>Importancia</b></center></td>
+                                    </tr>
+                                    <!--Preferencia: MisProfes-->
+                                    <tr>
+                                        <td>
+                                            <input type="checkbox" name="mis_profes_score" id="mis_profes_box" onclick="document.getElementsByName('mis_profes_peso')[0].value=(this.checked?'50':'0');" checked>Rankear con <a target="_blank" href="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003">MisProfes.com</a>
+                                        </td>
+                                        <td>
+                                            <input type="range" class="slider" name="mis_profes_peso" min="0" max="100">
+                                        </td>
+                                    </tr>
+                                    <!--Preferencia: Clases Juntas o Separadas-->
+                                    <br>
+                                    <tr>
+                                        <td>
+                                            Clases: <input type="radio" name="juntas_separadas" id="juntas" checked/> Juntas
+                                            <input type="radio" name="juntas_separadas" id="separadas"/> Separadas
+                                        </td>
+                                        <td>
+                                            <input type="range" class="slider" name="juntas_peso" min="0" max="100">
+                                        </td>
+                                    </tr>
+                                    <!--Preferencia: Rango de Hoario-->
+                                    <tr>
+                                        <td>
+                                            Rango de horario: <select name="start_rango" size="1"><option value="07:00" selected>7:00</option><option value="07:30">7:30</option><option value="08:00">8:00</option><option value="08:30">8:30</option><option value="09:00">9:00</option><option value="09:30">9:30</option><option value="10:00">10:00</option><option value="10:30">10:30</option><option value="11:00">11:00</option><option value="11:30">11:30</option><option value="12:00">12:00</option><option value="12:30">12:30</option><option value="13:00">13:00</option><option value="13:30">13:30</option><option value="14:00">14:00</option><option value="14:30">14:30</option><option value="15:00">15:00</option><option value="15:30">15:30</option><option value="16:00">16:00</option><option value="16:30">16:30</option><option value="17:00">17:00</option><option value="17:30">17:30</option><option value="18:00">18:00</option><option value="18:30">18:30</option><option value="19:00">19:00</option><option value="19:30">19:30</option><option value="20:00">20:00</option><option value="20:30">20:30</option><option value="21:00">21:00</option><option value="21:30">21:30</option></select>
+                                            a <select name="end_rango" size="1"><option value="07:00">7:00</option><option value="07:30">7:30</option><option value="08:00">8:00</option><option value="08:30">8:30</option><option value="09:00">9:00</option><option value="09:30">9:30</option><option value="10:00">10:00</option><option value="10:30">10:30</option><option value="11:00">11:00</option><option value="11:30">11:30</option><option value="12:00">12:00</option><option value="12:30">12:30</option><option value="13:00">13:00</option><option value="13:30">13:30</option><option value="14:00" selected>14:00</option><option value="14:30">14:30</option><option value="15:00">15:00</option><option value="15:30">15:30</option><option value="16:00">16:00</option><option value="16:30">16:30</option><option value="17:00">17:00</option><option value="17:30">17:30</option><option value="18:00">18:00</option><option value="18:30">18:30</option><option value="19:00">19:00</option><option value="19:30">19:30</option><option value="20:00">20:00</option><option value="20:30">20:30</option><option value="21:00">21:00</option><option value="21:30">21:30</option></select>
+                                        </td>
+                                        <td>
+                                            <input type="range" class="slider" name="peso_rango" min="0" max="100">
+                                        </td>
+                                    </tr>
+                                    <!--Preferencia: Dia con menos clases-->
+                                    <tr>
+                                        <td>
+                                            Día con menos clases: <select name="dia" size="1"><option value="LU">LU</option><option value="MA">MA</option><option value="MI">MI</option><option value="JU">JU</option><option value="VI" selected>VI</option><option value="SA">SA</option></select>
+                                        </td>
+                                        <td>
+                                            <input type="range" class="slider" name="peso_dia" min="0" max="100">
+                                        </td>
+                                    </tr>
+                                    <!--Espacio?-->
+                                    <tr><td><p></p></td></tr>
+                                    <!--Opcion de generado-->
+                                    <!--
+                                    <tr>
+                                        <td>
+                                            <b>Generar: </b>
+                                            <select name="metodoGeneracion" onchange="document.getElementById('sampleo_count').disabled=!document.getElementById('sampleo_count').disabled" size="1">
+                                                <option value="sampleo">Sampleo</option>
+                                                <option value="todos" selected>Todos (tardado)</option>
+                                            </select>
+                                        </td>
+                                        <td>
+                                            <center>
+                                            <input type="number" width="10" min="1" id="sampleo_count" max="1000000" value="1000" disabled/>
+                                            </center>
+                                        </td>
+                                    </tr>
+                                     -->
+                                </table>
+                                <!--Boton de Generar-->
+                                <br><input type=button value="Generar" id="botonGenerar" onclick="generar()"/>
+                            </input>
+                        </form>
+                    </div>
+                    <div id="content">
+                    <center>
+                        <center>
+                        <table border=0 style="padding:0px;"><tr style="padding:0px"><td style="padding:0px">
+                        </center>
+                            <div id='clases_actuales' style="padding:0px;">
+                                <ul id='clases_en_horario' style="padding:0px"></ul>
+                            </div>
+                        </td></tr></table>
+                    </div>
+                </td>
+                <td id="space"></td> <!--Espacio entre menu principal y la columna "Resultados" (en escritorio)-->
+                <td style="vertical-align:top">
+                    <div id="resultados"></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><div id="resultados_mobile"></div></center>
+                </td>
+            </tr>
         </table>
-        <div id="para_imprimir" style="display:none"></div>
+        <div id="para_imprimir" style="display:none"></div> <!--TODO Se usa?-->
+        <!--Forma para "Ver en Horarios ITAM"-->
+        <!--TODO cargar valores dinamicamente desde js e incluir s= en datos.js -->
         <form name="detalles" style="" target="_blank" action="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2" method="post">
           <input type="hidden" name="s" value="1995"><br>
           <input type="hidden" value="" name="txt_materia"><br>
         </form>
+
         <script>
-            document.getElementById('main_form').innerHTML=build_main_form();
-            var lista_de_clases_usuario=[];
-            var mobile=detectmob();
-            if(document.cookie.length>0 && confirm("Usar lista de clases guardada?")){
-                var str_lista=getCookie("lista_de_clases_usuario").split(',')
-                for(clase of str_lista)agregar(clase.replace("*",","));
-            }
-            var preferencias=[];
-            var h=[];
-            var resultado=0;
-            function build_main_form(){
-                out='<form "clases_form">\n';
-                out+=build_datalist();
-                out+=' <input type=button value="Agregar" id="agregar_button" onclick="agregar(document.getElementById(\'a\').value)"/>'
-                out+=build_preferencias();
-                out+='<br><input type=button value="Generar" id="generar" onclick="main()"/>'
-                out+='</form>\n'
-                return out
-            }
-            function build_preferencias(){
-                var hrs='<select name="start_rango" size="1"><option value="07:00" selected>7:00</option><option value="07:30">7:30</option><option value="08:00">8:00</option><option value="08:30">8:30</option><option value="09:00">9:00</option><option value="09:30">9:30</option><option value="10:00">10:00</option><option value="10:30">10:30</option><option value="11:00">11:00</option><option value="11:30">11:30</option><option value="12:00">12:00</option><option value="12:30">12:30</option><option value="13:00">13:00</option><option value="13:30">13:30</option><option value="14:00">14:00</option><option value="14:30">14:30</option><option value="15:00">15:00</option><option value="15:30">15:30</option><option value="16:00">16:00</option><option value="16:30">16:30</option><option value="17:00">17:00</option><option value="17:30">17:30</option><option value="18:00">18:00</option><option value="18:30">18:30</option><option value="19:00">19:00</option><option value="19:30">19:30</option><option value="20:00">20:00</option><option value="20:30">20:30</option><option value="21:00">21:00</option><option value="21:30">21:30</option></select>'
-                var hrs2='<select name="end_rango" size="1"><option value="07:00">7:00</option><option value="07:30">7:30</option><option value="08:00">8:00</option><option value="08:30">8:30</option><option value="09:00">9:00</option><option value="09:30">9:30</option><option value="10:00">10:00</option><option value="10:30">10:30</option><option value="11:00">11:00</option><option value="11:30">11:30</option><option value="12:00">12:00</option><option value="12:30">12:30</option><option value="13:00">13:00</option><option value="13:30">13:30</option><option value="14:00" selected>14:00</option><option value="14:30">14:30</option><option value="15:00">15:00</option><option value="15:30">15:30</option><option value="16:00">16:00</option><option value="16:30">16:30</option><option value="17:00">17:00</option><option value="17:30">17:30</option><option value="18:00">18:00</option><option value="18:30">18:30</option><option value="19:00">19:00</option><option value="19:30">19:30</option><option value="20:00">20:00</option><option value="20:30">20:30</option><option value="21:00">21:00</option><option value="21:30">21:30</option></select>'
-                var dias='<select name="dia" size="1"><option value="LU">LU</option><option value="MA">MA</option><option value="MI">MI</option><option value="JU">JU</option><option value="VI" selected>VI</option><option value="SA">SA</option></select>'
-                var out='<br><table border="0"><tr><td><center><b>Preferencias</b></center></td><td><center><b>Importancia</b></center></td></tr>';
-                out+='<tr><td><input type="checkbox" name="mis_profes_score" id="mis_profes_box" onclick="checkbox_change_range(document.getElementById(\'mis_profes_box\').checked,document.getElementsByName(\'mis_profes_peso\')[0])" checked>Rankear con <a target="_blank" href="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003">MisProfes.com</a></td>';
-                out+='<td><input type="range" class="slider" name="mis_profes_peso" min="0" max="100"></td></tr>'
-                out+='<br><tr><td>Clases: <input type="radio" name="juntas_separadas" id="juntas" checked> Juntas';
-                out+='<input type="radio" name="juntas_separadas" id="separadas" > Separadas</td>'
-                out+='<td><input type="range" class="slider" name="juntas_peso" min="0" max="100"></td></tr>'
-                out+='<tr><td>Rango de horario: '+hrs+' a '+hrs2+'</td>'
-                out+='<td><input type="range" class="slider" name="peso_rango" min="0" max="100"></td></tr>'
-                out+='<tr><td>Día con menos clases: '+dias+'</td>'
-                out+='<td><input type="range" class="slider" name="peso_dia" min="0" max="100"></td></tr>'
-                //out+='<tr><td>Grupos preferidos (seleccionar abajo)</td><td><input type="range" class="slider" name="peso_grupos_preferidos" min="0" max="100"></td></tr>'
-                //out+='<tr><td><p></p></td></tr><tr><td><b>Generar:</b>  <input type="radio" name="todos_sampleo" onclick="document.getElementById(\'sampleo_count\').disabled=true" id="todos"> Todos (<small>tardado</small>)';
-                //out+='<input type="radio" name="todos_sampleo" id="sampleo" onclick="document.getElementById(\'sampleo_count\').disabled=false" checked> Sampleo</td>'
-                out+='<tr><td><p></p></td></tr>'
-                out+='<tr><td><b>Generar: </b>'+'<select name="sampleo_todos" onchange="document.getElementById(\'sampleo_count\').disabled=!document.getElementById(\'sampleo_count\').disabled" size="1"><option value="sampleo" selected>Sampleo</option><option value="todos">Todos (tardado)</option></select></td>'
-                out+='<td><center><input type="number" width="10" min="1" id="sampleo_count" max="1000000" value="1000"/></center></td></tr>'
-                out+='</table>'
-                return out;
-            }
-            function checkbox_change_range(c,range){
-                if(!c){
-                    range.value="0";
-                }
-                else{
-                    range.value="50";
-                }
-            }
-            function eliminar(clase){
-                //console.log(clase)
-                var i=lista_de_clases_usuario.indexOf(clase)
-                if(clase.length>0 && i!=-1){
-                    lista_de_clases_usuario.splice(i,1);
-                    var elem = document.getElementById(clase);
-                    elem.parentNode.removeChild(elem);
+            //Cargar constantes ubicadas en data.js
+            //"Datos [Semestre] [Año]"
+            document.getElementById("datosSemestre").innerHTML='(Datos '+periodo+')';
+            //Valores para links a grace
+            document.getElementsByName("detalles")[0].action=formPostUrl;
+            document.getElementsByName("s")[0].value=sGrace;
+            //Llenamos datalist de "Buscar Clase"
+            llenaDatalist();
 
+            //Variables globales para navegacion
+            let clasesSeleccionadas={};
+            let mobile=window.innerWidth <= 800;
+            let horariosGenerados=NaN;
+            let resultado=0; //el horarioGenerado desplegado actualmente 
+            cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
+            
+            //Cuando se oprime el boton de Generar
+            function generar(){
+                let preferencias=getPreferencias();
+                let clasesSeleccionadasCopy={...clasesSeleccionadas}; //Copia local clasesSeleccionadas
+                //Chequeos entradas
+                if(Object.keys(clasesSeleccionadasCopy).length==0){
+                    alert("Agrega tus clases para generar tus horarios");
+                    return;
                 }
-                if(lista_de_clases_usuario.length==0){
-                    //console.log(document.getElementById("clases_agregadas_banner"));
-                    //document.getElementById("clases_agregadas_banner").innerHTML="";
-                    var gs=document.getElementsByName("clases_agregadas_banner");
-                    var g=gs[gs.length-1];
-                    g.innerHTML="";
-                    //elem.parentNode.removeChild(g);
+                if(preferencias.nGruposSeleccionados==0){
+                    alert("Selecciona por lo menos un grupo de tus clases para generar tus horarios");
+                    return;
                 }
-                console.log(lista_de_clases_usuario)
-            }
-            function agregar(clase){
-                if(lista_de_clases_usuario.length==0 && clase.length>0){
-                    var out = document.createElement('p'); // is a node
-                    out.setAttribute("name", "clases_agregadas_banner");
-                    out.innerHTML = '<b>Clases seleccionadas:</b>';
-                    document.getElementById("clases_en_horario").appendChild(out);
-                }
-                if(clase.length>0 && lista_de_clases_usuario.indexOf(clase)==-1){
-                    lista_de_clases_usuario.push(clase);
-                    var out = document.createElement('details');
-                    out.setAttribute("id", clase);
-                    //out.innerHTML = '<summary id="'+clase+'">'+clase+'</summary><br>'+build_details(clase);
-                    out.innerHTML = '<summary>'+clase+'</summary><br>'+build_details(clase);
-                    document.getElementById("clases_en_horario").appendChild(out);
-                }
-                //document.getElementById("clases_datalist").reset();
-            }
-            function selectAllCallBack(nombre_de_clase){
-                var c=document.getElementById(nombre_de_clase+"selectAll").checked;
-                console.log("selectAll",c);
-                console.log(build_domains([nombre_de_clase],clases)[nombre_de_clase]);
-                for(grupo of build_domains([nombre_de_clase],clases)[nombre_de_clase]){
-                    document.getElementById(nombre_de_clase+grupo['grupo']).checked=c;
-                }
-
-            }
-            function build_details(nombre_de_clase){
-                var out='<table style="border-collapse: collapse;border: 1px solid black;">'
-                var grupos=build_domains([nombre_de_clase],clases)[nombre_de_clase]
-                out+='<tr><td id="grupo"><input type="checkbox" id="'+nombre_de_clase+'selectAll" onclick="selectAllCallBack(\''+nombre_de_clase+'\')" checked/></td><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salon</td><td id="grupo">Dias</td><td id="grupo">Hrs</td></tr>'
-                for(grupo of grupos){
-                    var rating=''
-                    //console.log(grupo['grupo'],grupo['horario'][0].getHours())
-                    if(typeof(ratings[grupo['profesor']])!="undefined" && ratings[grupo['profesor']][0]!='0')rating=' ('+ratings[grupo['profesor']][0]+'/10 <a target="_blank" href="'+links[grupo['profesor']]+'">MisProfes</a>)';
-                    var hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()
-                    out+='<tr><td id="grupo"><input type="checkbox" id="'+nombre_de_clase+grupo['grupo']+'" name="'+grupo['nombre']+'" value="'+grupo['grupo']+'" checked/></td><td id="grupo">'+grupo['grupo']+'</td><td id="grupo">'+grupo['profesor']+rating+'</td><td id="grupo">'+grupo['salon']+'</td><td id="grupo">'+grupo['dias']+'</td><td id="grupo">'+hrs+'</td></tr>'
-                }
-                out+='</table>'
-                out+='<span style="color:black;padding-right:10px" onclick="post_link(\''+nombre_de_clase+'\')"><small><u>Ver en Horarios ITAM<u></small></span>'
-                out+='<span style="color:black" onclick="eliminar(\''+nombre_de_clase+'\')"><u><small>Eliminar Clase</small></u></span>';
-                return out;
-            }
-            function build_datalist(){
-                var out='<input list="clases_datalist" placeholder="Buscar Clase" size="35" id="a" onfocus="this.value=\'\'" autofocus>\n<datalist id="clases_datalist">\n';
-                for(clase of lista_de_todas_clases)out+='\t<option value="'+clase+'">\n';
-                out+='</datalist></input>'
-                return out;
-            }
-            function get_preferencias(){
-                var mis_profes=document.getElementsByName("mis_profes_score")[0].checked;
-                var mis_profes_peso=parseFloat(document.getElementsByName('mis_profes_peso')[0].value)/100;
-                var juntas=document.getElementById('juntas').checked;
-                var juntas_peso=parseFloat(document.getElementsByName('juntas_peso')[0].value)/100;
-                var start_rango=document.getElementsByName('start_rango')[0].value;
-                var end_rango=document.getElementsByName('end_rango')[0].value;
-                var objecto_rango=build_date_objects(start_rango+"-"+end_rango)
-                var peso_rango=parseFloat(document.getElementsByName('peso_rango')[0].value)/100;
-                var dia=document.getElementsByName('dia')[0].value;
-                var peso_dia=parseFloat(document.getElementsByName('peso_dia')[0].value)/100;
-                var grupos_preferidos={};
-                for(clase of lista_de_clases_usuario){
-                    var pref=[]
-                    for(checkbox of document.getElementsByName(clase)){
-                        if(checkbox.checked==true)pref.push(checkbox.value);
-                    }
-                    grupos_preferidos[clase]=pref;
-                }
-                //var peso_grupos_preferidos=parseFloat(document.getElementsByName('peso_grupos_preferidos')[0].value)/100;
-                console.log("Grupos preferidos:",grupos_preferidos)
-                var pref=[[mis_profes_score,mis_profes_peso],[horario_rango_score,peso_rango,objecto_rango],[clases_juntas_separadas_score,juntas_peso,juntas],[dia_libre_score,peso_dia,dia],[grupos_preferidos_score,0,grupos_preferidos]];
-                console.log("preferencias:",pref)
-                return pref;
-
-            }
-            function print_content(){
-                var horario_to_print=h[resultado][0];
-                //console.log(horario_to_print)
-                var out="<br><center><h3>INSTITUTO TECNOLOGICO AUTONOMO DE MEXICO</h3><h4>HORARIO NO OFICIAL</h4>";
-                var detalles="<table style='border-collapse: collapse;border: 1px solid black;font-size:10px;'><tr><th id='grupo3'><b>CLAVE</b</th><th id='grupo3'>GRUPO</th><th id='grupo3'>MATERIA</th><th id='grupo3'>HORARIO</th><th id='grupo3'>SALON</th><th id='grupo3'>PROFESOR</th></tr>";
-                for(grupo of Object.values(horario_to_print)){
-                    var nm=grupo['nombre'].split("-")
-                    var hrs=grupo['horario'][0].getHours()+":"+grupo['horario'][0].getMinutes()+"-"+grupo['horario'][1].getHours()+":"+grupo['horario'][1].getMinutes()
-                    detalles+='<tr><td id="grupo3">'+nm[0]+'-'+nm[1]+'</td><td id="grupo3">'+grupo['grupo']+'</td><td id="grupo3">'+nm[2]+'</td><td id="grupo3">'+hrs+' '+grupo['dias']+'</td><td id="grupo3">'+grupo['salon']+'</td><td id="grupo3">'+grupo['profesor']+'</td></tr>';
-                    //detalles+='<tr><td>grupo aqui</td></tr>'
-                }
-                detalles+="</table><br><br>";
-                out += detalles;
-                out += document.getElementById("tabla").innerHTML;
-                out +='<br><br><br>Planeador de Horarios ITAM (emiliocantuc.github.io)<br><br><small><b>Importante </b><br>Ya que esta página no esta asociada con el ITAM los datos de las clases pueden estar atrasados/incorrectos. Por favor verificalos en http://grace.itam.mx/EDSUP/BWZKSENP.P_Horarios2</small>'
-                return out;
-            }
-            function print_horario(){
-                //var printContents='<h1>Horario</h1>'
-                var originalContents = document.body.innerHTML;
-                document.body.innerHTML = print_content();
-                window.print();
-                document.body.innerHTML = originalContents;
-            }
-            function first(h){
-                //console.log("next");
-                document.getElementById("tabla").innerHTML=print_horario_html(h[0],mobile);
-                document.getElementById("resultado_count").innerHTML='<b>Resultado 1 de '+h.length+'</b>';
-                document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</b>';
-                resultado=0;
-                //console.log(resultado)
-            }
-            function last(h){
-                //console.log("next");
-                document.getElementById("tabla").innerHTML=print_horario_html(h[h.length-1],mobile);
-                document.getElementById("resultado_count").innerHTML='<b>Resultado '+h.length+' de '+h.length+'</b>';
-                document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[h.length-1][1]*100).toString().substring(0,5)+'/100</b>';
-                resultado=h.length-1;
-                //console.log(resultado)
-            }
-            function next(h){
-                //console.log("next");
-                document.getElementById("tabla").innerHTML=print_horario_html(h[resultado+1],mobile);
-                document.getElementById("resultado_count").innerHTML='<b>Resultado '+(resultado+2)+' de '+h.length+'</b>';
-                document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[resultado+1][1]*100).toString().substring(0,5)+'/100</b>';
-                resultado++;
-                //console.log(resultado)
-            }
-            function previous(h){
-                //console.log("previous",resultado);
-                document.getElementById("tabla").innerHTML=print_horario_html(h[resultado-1],mobile);
-                document.getElementById("resultado_count").innerHTML='<b>Resultado '+(resultado)+' de '+h.length+'</b>';
-                document.getElementById("puntaje").innerHTML='<b>Puntaje: '+(h[resultado-1][1]*100).toString().substring(0,5)+'/100</b>';
-                resultado--;
-            }
-            function resultados_html(h){
-                if(isNaN(h[0][1])){return 'No se pudo optimizar horario';}
-                if(mobile){
-                    var buttons='<input type="button" onclick="first(h)" value="&#8804;"/> <input type="button" onclick="previous(h)" value="Anterior"/> <input type="button" onclick="print_horario()" value="Imprimir"/> <input type="button" onclick="next(h)" value="Siguiente"/> <input type="button" onclick="last(h)" value="&#8805;"/>'
-                    var puntaje='<div id="puntaje" style="display:inline-block;margin:0px;padding-right:20px;"><b>Puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</b> </div>'
-                    var resultado_count='<div id="resultado_count" style="display:inline-block;margin:0px;padding-right:20px;"><b>Resultado 1 de '+h.length+'</b></div>'
-                    var out='<div id="header_resultados"><center><h1>Resultados</h1>'+resultado_count+puntaje+"<br><br>"+buttons+'<br><br></div>'
-                    out+='<div id="tabla">'+print_horario_html(h[0],true)+'</div>'
+                //Guarda Cookies
+                let nombresClasesSeleccionadas=[];
+                for(let clase of Object.values(clasesSeleccionadasCopy))
+                    nombresClasesSeleccionadas.push(clase.nombre);
+                setCookie("clasesSeleccionadas",nombresClasesSeleccionadas.join("*"),30);
+                //Generacion
+                let horarios=NaN;
+                if(preferencias.generacion=="todos"){
+                    console.log("Generando todos");
+                    horarios=generarTodosHorarios(clasesSeleccionadasCopy,preferencias);
+                    if(horarios.length==0)
+                        alert("No se pudieron generar horarios");
+                    horariosGenerados=horarios;
                 }else{
-                    var buttons='<input type="button" onclick="first(h)" value="&#8804;"/> <input type="button" onclick="previous(h)" value="Anterior"/> <input type="button" onclick="print_horario()" value="Imprimir"/> <input type="button" onclick="next(h)" value="Siguiente"/> <input type="button" onclick="last(h)" value="&#8805;"/>'
-                    var puntaje='<div id="puntaje" style="display:inline-block;margin:0px;padding-right:20px;"><b>Puntaje: '+(h[0][1]*100).toString().substring(0,5)+'/100</b> </div>'
-                    var resultado_count='<div id="resultado_count" style="display:inline-block;margin:0px;padding-right:20px;"><b>Resultado 1 de '+h.length+'</b></div>'
-                    var out='<div id="header_resultados"><center><h1>Resultados</h1>'+resultado_count+puntaje+buttons+'<br><br></div>'
-                    out+='<div id="tabla">'+print_horario_html(h[0])+'</div>'
+                    //horarios=sampleo();
                 }
-
-            return out
-
-            }
-            function getCookie(cname) {
-                  var name = cname + "=";
-                 /** var decodedCookie = decodeURIComponent(document.cookie);
-                  var ca = decodedCookie.split(';');
-                  for(var i = 0; i <ca.length; i++) {
-                    var c = ca[i];
-                    while (c.charAt(0) == ' ') {
-                      c = c.substring(1);
-                    }
-                    if (c.indexOf(name) == 0) {
-                      return c.substring(name.length, c.length);
-                    }
-                  }
-                  return "";*/
-                  //console.log(decodeURIComponent(document.cookie))
-                  return document.cookie.split("=")[1];
-            }
-            function post_link(clase){
-                //console.log(clase);
-                document.getElementsByName("txt_materia")[0].value=clase;
-                document.detalles.submit();
-            }
-            function setCookie(cname, cvalue, exdays) {
-            for(var i=0;i<cvalue.length;i++)cvalue[i]=cvalue[i].replace(",","*");
-              var d = new Date();
-              d.setTime(d.getTime() + (exdays*24*60*60*1000));
-              var expires = "expires="+ d.toUTCString();
-              document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-              //console.log("cookie set")
-            }
-            function detectmob() {
-               if(window.innerWidth <= 800 /**&& window.innerHeight <= 600*/) {
-                 return true;
-               } else {
-                 return false;
-               }
-            }
-            function main(){
-                preferencias=get_preferencias();
-                console.log(document.getElementsByName("sampleo_todos")[0].value);
-                //alert(getCookie("lista_de_clases_usuario"))
-                //lista_de_clases_usuario=["MAT-14101-CALCULO DIF. E INT., II", "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)", "SDI-14105-INTRODUCCION A LA INGENIERIA", "EGN-17121-IDEAS E INST. POL. Y SOC. I", "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT", "COM-11102-ESTRUCTURAS DE DATOS", "CLE-10603-ESTUDIA CON EXITO EN EL ITAM"];
-                //var h=generarHorarios(mi_lista,preferencias,100);
-                //console.log(lista_de_clases_usuario)
-                var copia=Array.from(lista_de_clases_usuario);
-                //console.log(copia)
-                //console.log(preferencias);
-                setCookie("lista_de_clases_usuario",copia,30);
-                if(lista_de_clases_usuario.length>0 && document.getElementsByName("sampleo_todos")[0].value=="todos"){
-                    console.log("Getting todos");
-                    h=enumerateHorarios(lista_de_clases_usuario,preferencias);
-                }else if(lista_de_clases_usuario.length>0 && document.getElementsByName("sampleo_todos")[0].value=="sampleo"){
-                    var n=document.getElementById("sampleo_count").value;
-                    console.log("Getting sampleo w/",n);
-                    h=generarHorarios(lista_de_clases_usuario,preferencias,n);
-                }
-                console.log("Generated Horarios array:",h);
+                //Mostramos
                 if(!mobile){
-                    document.getElementById("space").style="width:60px;"
-                    document.getElementById("resultados").innerHTML=resultados_html(h);
+                    document.getElementById("space").style="width:60px;";
+                    document.getElementById("resultados").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile);
                 }else{
-                    document.getElementById("resultados_mobile").innerHTML=resultados_html(h,true)+"<p>mobile detected - site designed for desktop</p>"
-                }
-
+                    document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile)+"<p>mobile detected - site designed for desktop</p>";
+                }    
             }
+
         </script>
     </body>
 </html>
