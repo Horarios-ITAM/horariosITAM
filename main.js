@@ -184,10 +184,12 @@ function evaluaHorario(horario,preferencias){
     //Proporcion de clases que no se encuentran en dia con menos clases preferido
     let diaConMenos=diaConMenosPuntaje(horario,preferencias.diaMenos)*preferencias.diaMenosPeso;
     //Rango horario
-    let rangoHorario=rangoPuntaje(horario,preferencias.rangoStart,preferencias.rangoEnd);
+    let rangoHorario=rangoPuntaje(horario,preferencias.rangoStart,preferencias.rangoEnd)*preferencias.rangoPeso;
     //Clases Juntas/Separadas TODO
     let juntasSeparadas=puntajeJuntasSeparadas(horario,preferencias.juntas);
-
+    console.log(promedioMisProfes);
+    console.log(diaConMenos);
+    console.log(rangoHorario);
     //Sumas
     let sumaPesos=preferencias.misProfesPeso+preferencias.diaMenosPeso+preferencias.rangoPeso;
     let sumaPonderada=(promedioMisProfes+diaConMenos+rangoHorario)/sumaPesos;
