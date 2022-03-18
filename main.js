@@ -143,6 +143,39 @@ function rangoPuntaje(horario,inicioRango,finRango){
     return 0;
 }
 
+//Regresa el tiempo entre clases total en hrs
+//Para cada dia checa que grupos tienen clase ese dia y calcula el tiempo entre clases.
+//Se repite esto para cada dia de la sema
+function tiempoEntreClases(horario){
+    let gruposDia=gruposEnDias(horario.grupos);
+    let tiempo={}; //por dia
+    let total=0;
+    for(let dia in gruposDia){
+        let grupos=gruposDia[dia];
+        if(!(dia in tiempo))
+            tiempo[dia]=0;
+        //Ordena por hr de inicio
+        grupos.sort((a,b)=> a.dtInicio.getTime()-b.dtInicio.getTime());
+        for(let i=0;i<grupos.length-1;i++){
+            let dif=(grupos[i+1].dtInicio-grupos[i].dtFin)/36e5; //36e5=60*60*1000 para pasar a hrs
+            tiempo[dia]+=dif; 
+            total+=dif;
+        }
+    }
+    console.log(tiempo);
+    return total;
+    
+}
+
+//puntaje Juntas. El minimo de tiempo que puede haber es 0. El maximo? (22:00-07:00)5=135?
+//Usa tiempoEntreClases y juntas [bool] para calcular un puntaje
+function puntajeJuntasSeparadas(horario,juntas){
+    let tiempo=tiempoEntreClases(horario);
+    let prop=tiempo/135; //(22:00-07:00)5 - TODO ver si tiene sentido
+    if(juntas)
+        return 1-prop;
+    return prop;
+}
 
 //Promedio ponderado de preferencias con importancias
 function evaluaHorario(horario,preferencias){
@@ -153,7 +186,9 @@ function evaluaHorario(horario,preferencias){
     //Rango horario
     let rangoHorario=rangoPuntaje(horario,preferencias.rangoStart,preferencias.rangoEnd);
     //Clases Juntas/Separadas TODO
+    let juntasSeparadas=puntajeJuntasSeparadas(horario,preferencias.juntas);
 
+    //Sumas
     let sumaPesos=preferencias.misProfesPeso+preferencias.diaMenosPeso+preferencias.rangoPeso;
     let sumaPonderada=(promedioMisProfes+diaConMenos+rangoHorario)/sumaPesos;
     //console.log(sumaPonderada);
