@@ -42,7 +42,7 @@ Puedes ingresar tus preferencias en el panel ilustrado a continuación o saltart
 
 Las preferencias que puedes ingresar incluyen: 
 
-- **Rankear con MisProfes.com.** Indica si tomar en cuenta las evaluaciones generales de profesores. Se le da preferencia a grupos con profesores que tienen mayor calificación y a aquellos que cuentan con perfil en la plataforma.
+- **Rankear con MisProfes.com.** Indica si se toman en cuenta las evaluaciones generales de profesores. Se le da preferencia a grupos con profesores que tienen mayor calificación y a aquellos que cuentan con perfil en la plataforma.
 - **Clases Juntas o Separadas.** Indica el tiempo entre clases deseado. “Juntas” le da prioridad a horarios con pocas “horas muertas” y viceversa.
 - **Rango de Horario.** Indica las horas del día entre las que te gustaría que cayeran todas tus materias. 
 - **Día con menos clases.** Indica el día de la semana deseado con el menor número de clases posibles. 
