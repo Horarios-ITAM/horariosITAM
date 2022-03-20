@@ -69,7 +69,7 @@ function agregar(nombreClase){
     document.getElementById("clases_en_horario").appendChild(detalles);
 
     //Por ultimo checa si la clase tiene asociado un laboratorio y agregalo
-    if((clave+'-LAB') in clases)
+    if(!((clave+'-LAB') in clasesSeleccionadas) && (clave+'-LAB') in clases)
         agregar(nombreClase+'-LAB');
 }
 //Lee valores de la forma de preferencias y los usa para construir un objecto de Preferencias

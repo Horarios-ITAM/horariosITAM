@@ -190,6 +190,7 @@ function evaluaHorario(horario,preferencias){
     console.log(promedioMisProfes);
     console.log(diaConMenos);
     console.log(rangoHorario);
+    console.log(juntasSeparadas);
     //Sumas
     let sumaPesos=preferencias.misProfesPeso+preferencias.diaMenosPeso+preferencias.rangoPeso;
     let sumaPonderada=(promedioMisProfes+diaConMenos+rangoHorario)/sumaPesos;
