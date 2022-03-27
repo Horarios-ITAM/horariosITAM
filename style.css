@@ -39,7 +39,7 @@ body{
     height: 10px;
     background-color: #006646;
 }
-h1,h2{
+h1,h2,h3,h4{
     color:#006646;
 }
 wrapper {
@@ -88,6 +88,19 @@ span{
     cursor:pointer;
     color:blue;
 
+}
+/** MENU **/
+#menu{
+    color: black ;
+}
+#menu a{
+    color: black;
+    text-decoration: underline;
+}
+
+#aList{
+    color: black;
+    text-decoration: none;
 }
 
 /**

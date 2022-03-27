@@ -26,9 +26,7 @@
                 <td style="vertical-align:top">
                     <center>
                     <h1>Busca profesores</h1>
-                    Busca que clases da y su perfil en MisProfes.com
-                    <br>
-                    <a href="https://github.com/emiliocantuc/emiliocantuc.github.io">¿Cómo funciona?</a>
+                    Busca que clases da y su perfil en <a href="https://www.misprofesores.com/" target="_blank">MisProfes.com</a>
                     <br>
                     <small id="datosSemestre">(Datos PRIMAVERA 2022)</small>
                     <br><br>
@@ -40,6 +38,12 @@
                             </input>
                         </form>
                     </div>
+                    <br>
+                    
+                    <div id="enLoMientras">
+                        En lo mientras puedes ver a los mejores profesores por departamento<br>(de acuerdo a <a target="_blank" href="https://www.misprofesores.com/">MisProfes.com</a>)
+                    </div>
+                    
                 </td>
             </tr>
             <tr>
@@ -48,6 +52,10 @@
                 </td>
             </tr>
         </table>
+        <div id="menu">
+            <a href="index.html">Planear Horario</a> |
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Sugerencias</a>
+        </div>
 
         <!--Forma para "Ver en Horarios ITAM"-->
         <form name="detalles" style="" target="_blank" action="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2" method="post">
@@ -65,6 +73,9 @@
             //Llenamos datalist de "Buscar Clase"
             llenaDatalistProfesores();
 
+            //Llena "enLoMientas" con los mejores profes por depto.
+            llenaMejoresPorDepto();
+
             //Variables globales 
             let mobile=window.innerWidth <= 800;
 
@@ -75,6 +86,8 @@
                 let profesor=profesores[nombre];
                 console.log(nombre);
                 console.log(profesor);
+                //Borramos "enLoMientras"
+                document.getElementById("enLoMientras").innerHTML='';
                 //Borramos resultado anterior
                 document.getElementById("resultado").innerHTML='';
                 //Escribir en resultado
@@ -140,6 +153,28 @@
                     option.value=profesor;
                     datalist.appendChild(option);
                 }             
+            }
+            //
+            function llenaMejoresPorDepto(){
+                for(let depto in mejoresPorDepto){
+                    let deptoElem=document.createElement("h4");
+                    deptoElem.innerHTML=depto;
+                    let list=document.createElement("ol");
+                    let profes=mejoresPorDepto[depto];
+                    for(let profe of profes){
+                        let rating='';
+                        if('general' in profesores[profe])
+                            rating='('+profesores[profe]['general']+')';
+                        let tempLi=document.createElement("li");
+                        tempLi.innerHTML='<a id="aList" href="">'+toTitleCase(profe)+'</a> '+rating;
+                        tempLi.style='text-align: left;'
+                        list.appendChild(tempLi);
+                    }
+                    let enLoMientas=document.getElementById("enLoMientras");
+                    enLoMientas.appendChild(deptoElem);
+                    enLoMientas.appendChild(list);
+
+                }
             }
             
 
