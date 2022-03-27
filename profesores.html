@@ -1,0 +1,141 @@
+<html>
+    <head>
+        <title>Busca Profesores</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--Contiene declaraciones de clases que se usan-->
+        <script src="classes.js"></script>
+        <!--Contiene los grupos y evaluaciones de los profesores-->
+        <script src="profesores.js"></script>
+        <!--Contiene metodos para generar y controlar elementos de UI-->
+        <script src="uiUtils.js"></script>
+        <!--CSS-->
+        <link rel="stylesheet" href="style.css">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-07PYLHL7M4"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-07PYLHL7M4');
+        </script>
+    </head>
+    <body>
+        <div id="header"></div> <!--Tira verde superior-->
+        <center>
+        <br><br>
+        <table>
+            <tr>
+                <td style="vertical-align:top">
+                    <center>
+                    <h1>Busca profesores</h1>
+                    Busca que clases da y su perfil en MisProfes.com
+                    <br>
+                    <a href="https://github.com/emiliocantuc/emiliocantuc.github.io">¿Cómo funciona?</a>
+                    <br>
+                    <small id="datosSemestre">(Datos PRIMAVERA 2022)</small>
+                    <br><br>
+                    <div id="main_form">
+                        <form id="clases_form">
+                            <input id="profesorSeleccionado" list="profesores_datalist" placeholder="Buscar Profesores" size="35" onfocus="this.value=''" onChange="buscarProfesor()" autofocus>
+                                <!--Datalist con la lista de profesores-->
+                                <datalist id="profesores_datalist"></datalist>
+                            </input>
+                        </form>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><div id="resultado"></div></center>
+                </td>
+            </tr>
+        </table>
+
+        <!--Forma para "Ver en Horarios ITAM"-->
+        <form name="detalles" style="" target="_blank" action="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2" method="post">
+          <input type="hidden" name="s" value="1995"><br>
+          <input type="hidden" value="" name="txt_materia"><br>
+        </form>
+
+        <script>
+            //Cargar constantes ubicadas en data.js
+            //"Datos [Semestre] [Año]"
+            document.getElementById("datosSemestre").innerHTML='(Datos '+periodo+')';
+            //Valores para links a grace
+            document.getElementsByName("detalles")[0].action=formPostUrl;
+            document.getElementsByName("s")[0].value=sGrace;
+            //Llenamos datalist de "Buscar Clase"
+            llenaDatalistProfesores();
+
+            //Variables globales 
+            let mobile=window.innerWidth <= 800;
+
+            function buscarProfesor(){
+                //Nombre profesor seleccionado
+                let nombre=document.getElementById("profesorSeleccionado").value;
+                if(nombre == 'undefined' || nombre=='') return;
+                let profesor=profesores[nombre];
+                console.log(nombre);
+                console.log(profesor);
+                //Borramos resultado anterior
+                document.getElementById("resultado").innerHTML='';
+                //Escribir en resultado
+                let resultadoDiv=document.getElementById("resultado");
+                //Nombre
+                let nombreElem=document.createElement("h2");
+                nombreElem.innerHTML=toTitleCase(nombre); //TODO to title case?
+                resultadoDiv.appendChild(nombreElem);
+                //MisProfes
+                if('general' in profesor){
+                    let misProfesElem=document.createElement("p");
+                    misProfesElem.innerHTML='<strong>'+profesor['general']+'/10</strong> (con '+profesor['n']+' evaluaciones)';
+                    misProfesElem.innerHTML+=' en <a href="'+profesor['link']+'" target="_blank">su página</a> de MisProfes.com';
+                    resultadoDiv.appendChild(misProfesElem);
+                }
+                //Grupos
+                let clasesDiv=document.createElement("div");
+                clasesDiv.id='clasesDiv';
+                clasesDiv.width=(mobile)?'100%':'50%';
+                console.log(clasesDiv.width);
+                for(let nombreClase in profesor['grupos']){
+                    let claseElem = document.createElement('div');
+                    claseElem.innerHTML = '<h4>'+nombreClase+'</h4>'+detallesGruposHTML(profesor['grupos'][nombreClase])+'<br>';
+                    clasesDiv.appendChild(claseElem);
+                }
+                resultadoDiv.appendChild(clasesDiv);
+            }
+
+            //Para uso en profesores.html. Dado una lista de grupos construye una tabla con sus detalles.
+            function detallesGruposHTML(grupos){
+                let out='<table style="border-collapse: collapse;border: 1px solid black;width: 100%;text-align: center">';
+                //Encabezado
+                out+='<tr><td id="grupo">Grupo</td><td id="grupo">Salón</td><td id="grupo">Días</td><td id="grupo">Horario</td></tr>';
+                for(let grupo of grupos){
+                    //No. de grupo
+                    out+='<td id="grupo">'+grupo['grupo']+'</td>';
+                    //Salon
+                    out+='<td id="grupo">'+grupo['salon']+'</td>';
+                    //Dias
+                    out+='<td id="grupo">'+grupo['dias']+'</td>';
+                    //Hrs - horario
+                    out+='<td id="grupo">'+grupo['horario']+'</td></tr>';
+                }
+                out+='</table>';
+                //Link de "Ver en Horarios ITAM"
+                out+='<span style="color:black;position: relative;float: left;" onclick="post_link(\''+grupos[0]['nombre']+'\')"><small><u>Ver en Horarios ITAM<u></small></span>'
+                return out;
+            }
+            //Convierte a titleCase ("Con La Primera Letra Mayuscula de Cada Oracion.")
+            function toTitleCase(str) {
+                return str.replace(
+                    /\w\S*/g,
+                    function(txt) {
+                    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+                    }
+                );
+            }
+            
+
+        </script>
+    </body>
+</html>

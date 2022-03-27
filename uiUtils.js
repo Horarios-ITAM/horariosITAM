@@ -9,6 +9,15 @@ function llenaDatalist(){
         datalist.appendChild(option);
     }             
 }
+//Llena el datalist de Buscar Profesores con los nombres de los profesores
+function llenaDatalistProfesores(){
+    let datalist=document.getElementById("profesores_datalist");
+    for(let profesor in profesores){
+        let option=document.createElement("option");
+        option.value=profesor;
+        datalist.appendChild(option);
+    }             
+}
 //Modifica y envia forma para "Ver en Horarios Grace"
 function post_link(clase){
     document.getElementsByName("txt_materia")[0].value=clase;
@@ -72,6 +81,21 @@ function agregar(nombreClase){
     if(!((clave+'-LAB') in clasesSeleccionadas) && (clave+'-LAB') in clases)
         agregar(nombreClase+'-LAB');
 }
+//Guarda el horario que se esta mostrando actualmente en horariosFavoritos
+function guardarHorario(){
+    let i=horariosFavoritos.indexOf(horariosGenerados[resultado]);
+    if(i<0){
+        horariosFavoritos.push(horariosGenerados[resultado]);
+    }else{
+        horariosFavoritos.splice(i,1);
+    }
+    actualizaBotonGuardar();
+}
+function actualizaBotonGuardar(){
+    let i=horariosFavoritos.indexOf(horariosGenerados[resultado]);
+    document.getElementById("guardar").value=(i<0?"☆":"★");
+}
+
 //Lee valores de la forma de preferencias y los usa para construir un objecto de Preferencias
 function getPreferencias(){
     //MisProfes
@@ -139,7 +163,7 @@ function seleccionaTodosGrupos(claveClase){
 function detallesHTML(clase){
     let out='<table style="border-collapse: collapse;border: 1px solid black;">';
     //Encabezado
-    out+='<tr><td id="grupo"><input type="checkbox" id="'+clase.clave+'selectAll" onclick="seleccionaTodosGrupos(\''+clase.clave+'\')" checked/></td><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salon</td><td id="grupo">Dias</td><td id="grupo">Hrs</td></tr>';
+    out+='<tr><td id="grupo"><input type="checkbox" id="'+clase.clave+'selectAll" onclick="seleccionaTodosGrupos(\''+clase.clave+'\')" checked/></td><td id="grupo">Grupo</td><td id="grupo">Profesor</td><td id="grupo">Salón</td><td id="grupo">Días</td><td id="grupo">Hrs</td></tr>';
     for(let numeroGrupo in clase.grupos){
         let grupo=clase.grupos[numeroGrupo];
         //Si tenemos su rating en mis profes lo agregamos
@@ -166,6 +190,7 @@ function detallesHTML(clase){
     out+='<span style="color:black" onclick="eliminar(\''+clase.nombre+'\')"><u><small>Eliminar Clase</small></u></span>';
     return out;
 }
+
 //Cambia el horario desplegado en la tabla de resultados dado el indice (de horariosGenerados)
 function actualizarResultado(indiceNuevo){
     if(indiceNuevo>=0 && indiceNuevo<horariosGenerados.length){
@@ -174,6 +199,8 @@ function actualizarResultado(indiceNuevo){
         document.getElementById("resultado_count").innerHTML='<b>Resultado '+(indiceNuevo+1)+' de '+horariosGenerados.length+'</b>';
         document.getElementById("puntaje").innerHTML='<b>Puntaje: '+parseInt(horario.puntaje)+'/100</b>';
         resultado=indiceNuevo;
+        //Actualiza el boton de guardar
+        actualizaBotonGuardar();
     }
 }
 //Genera panel de Resultados
@@ -186,6 +213,8 @@ function resultadosHTML(horario,nResultados,mobile){
     buttons+=' <input type="button" onclick="actualizarResultado(resultado-1);" value="Anterior"/>';
     //Boton de Imprimir
     buttons+=' <input type="button" onclick="imprimir()" value="Imprimir"/>';
+    //Boton de Agregar a favoritos
+    buttons+=' <input type="button" id="guardar" onclick="guardarHorario()" value="Guardar"/>';
     //Boton de Siguiente
     buttons+=' <input type="button" onclick="actualizarResultado(resultado+1);" value="Siguiente"/>';
     //Boton de ">>"

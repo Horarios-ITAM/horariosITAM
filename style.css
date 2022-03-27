@@ -13,7 +13,7 @@ body{
           margin: 8px 0;
           box-sizing: border-box;
       }
-      #a{
+      #a,#profesorSeleccionado{
           padding: 8px 15px;
           margin: 8px 0;
           box-sizing: border-box;
@@ -39,13 +39,13 @@ body{
     height: 10px;
     background-color: #006646;
 }
-h1{
+h1,h2{
     color:#006646;
 }
 wrapper {
-margin: auto;
-width: 500px;
-border: solid 1px #CCCCCC;
+    margin: auto;
+    width: 500px;
+    border: solid 1px #CCCCCC;
 }
 #content {
 text-align: center;

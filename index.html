@@ -158,6 +158,7 @@
             let clasesSeleccionadas={};
             let mobile=window.innerWidth <= 800;
             let horariosGenerados=NaN;
+            let horariosFavoritos=[];
             let resultado=0; //el horarioGenerado desplegado actualmente 
             cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
 
@@ -213,7 +214,8 @@
                     document.getElementById("resultados").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile);
                 }else{
                     document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile)+"<p>mobile detected - site designed for desktop</p>";
-                }    
+                }
+                actualizaBotonGuardar();
             }
 
         </script>
