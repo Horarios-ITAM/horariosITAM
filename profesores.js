@@ -3211,9 +3211,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.7436,
-    "n": 39,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -9123,9 +9120,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6389,
+    "n": 72,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -13413,8 +13410,8 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 7.0,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
     "n": 1,
     "grupos": {
       "EST-14101-CALCULO DE PROBABILIDADES.,I": [
@@ -19129,7 +19126,7 @@ let profesores={
   }
 };
 let mejoresPorDepto={
-  "ACT": [
+  "Actuar\u00eda y Seguros": [
     "JUAN CARLOS BARCENAS CERVANTES",
     "DIEGO HERNANDEZ RANGEL",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
@@ -19141,7 +19138,7 @@ let mejoresPorDepto={
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
     "MARIA EUGENIA HERNANDEZ MU\u00d1OZ"
   ],
-  "ADM": [
+  "Administraci\u00f3n": [
     "MARIANA CONTRERAS AREVALO",
     "JOSE JAVIER MEDRANO PEREZ",
     "SANTIAGO ALBERICO LEZAMA",
@@ -19153,10 +19150,10 @@ let mejoresPorDepto={
     "JANKO HERNANDEZ CORTES",
     "CLAUDIA NOEMI GONZALEZ BRAMBILA"
   ],
-  "CDA": [
+  "Ciencia Pol\u00edtica": [
     "MARGARITA TARRAGONA SAEZ"
   ],
-  "CLE": [
+  "Estudios Internacionales": [
     "MARCELA RABADAN GALLARDO",
     "ALEJANDRA SOLIS GONZALEZ",
     "JOSE FRANCISCO CASTILLO NAVARRETE",
@@ -19166,7 +19163,7 @@ let mejoresPorDepto={
     "SANDRA LORENA VILLALOBOS OROZCO",
     "MARIA MONICA CUELLAR AYALA"
   ],
-  "COM": [
+  "Computaci\u00f3n": [
     "JOSE OCTAVIO GUTIERREZ GARCIA",
     "JAVIER TERRES ARIAS",
     "XOCHITL CHAVARRIA CRUZ",
@@ -19178,7 +19175,7 @@ let mejoresPorDepto={
     "SILVIA DEL CARMEN GUARDATI BUEMO",
     "RODOLFO CONDE MARTINEZ"
   ],
-  "CON": [
+  "Contaduria": [
     "MANUEL TAMEZ ZENDEJAS",
     "MARCELA GONZALEZ MARTINEZ",
     "VALERIE SCHLOSSER SANCHEZ",
@@ -19190,7 +19187,7 @@ let mejoresPorDepto={
     "ANNAPAOLA LLANAS MEJIA",
     "CLAUDIA EMILIA DE LEON PEREZ"
   ],
-  "CSO": [
+  "Ctro. De Docencia y Aprendizaje": [
     "JULIO ANTONIO RIOS FIGUEROA",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
@@ -19202,7 +19199,7 @@ let mejoresPorDepto={
     "JUAN PABLO MICOZZI",
     "JEFFREY ALLEN WELDON"
   ],
-  "DER": [
+  "Derecho": [
     "ANA MARIA ZORRILLA NORIEGA",
     "GUSTAVO CARDENAS SORIANO",
     "DENISE MEJAN GANEM",
@@ -19214,9 +19211,8 @@ let mejoresPorDepto={
     "CLAUDIA ALVAREZ ESTRADA",
     "CARLOS EDUARDO SCHLESKE JUAREZ"
   ],
-  "ECO": [
+  "Econom\u00eda": [
     "ANTONIO VIVANCO CASAMADRID",
-    "MARTA ROBLES CARTES",
     "MIGUEL MESSMACHER LINARTAS",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
@@ -19224,9 +19220,10 @@ let mejoresPorDepto={
     "FRANCISCO JAVIER VARELA SANDOVAL",
     "MARINE CHARLOTTE ANDRE",
     "ERNESTO BLANCAS BARRAGAN",
-    "CLAUDIA ABURTO RANCA\u00d1O"
+    "CLAUDIA ABURTO RANCA\u00d1O",
+    "CHRISTIANE FABREGA CHIMALI"
   ],
-  "EGN": [
+  "Estudios Generales": [
     "MARIA TERESA LOPEZ FERNANDEZ",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
@@ -19238,7 +19235,7 @@ let mejoresPorDepto={
     "JOSE PANTALEON DOMINGUEZ ESPONDA",
     "LYDIA LOPEZ GUTIERREZ"
   ],
-  "EIN": [
+  "Relaciones Internacionales": [
     "MARIA FLORENCIA PALACIO GOMEZ SAMANIEGO",
     "ISABEL FLORES ALCAZAR",
     "RODRIGO CHACON AGUIRRE",
@@ -19250,7 +19247,7 @@ let mejoresPorDepto={
     "HAZEL BLACKMORE SANCHEZ",
     "GISELA ADRIANA CARMONA RODRIGUEZ"
   ],
-  "EST": [
+  "Estad\u00edstica": [
     "ERIKA BURGOS PADILLA",
     "DANTE GABRIEL CAMPOS SALIDO",
     "SALVADOR GARCIA GONZALEZ",
@@ -19262,7 +19259,7 @@ let mejoresPorDepto={
     "ILEANA GARCIA CONDE",
     "RODRIGO ANTONIO HERNANDEZ HERNANDEZ"
   ],
-  "IIO": [
+  "Industrial y Operaciones": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
     "ADAN RAMIREZ LOPEZ",
     "SERGIO ROMERO HERNANDEZ",
@@ -19274,7 +19271,7 @@ let mejoresPorDepto={
     "JOSE ANTONIO SOUZA JIMENEZ",
     "ELIAS HERIBERTO ARIAS NAVA"
   ],
-  "LEN": [
+  "Lenguas": [
     "FEDERICO VALLE OCHOA",
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
@@ -19286,7 +19283,7 @@ let mejoresPorDepto={
     "JAVIER MARTINEZ VILLARROYA",
     "ANTONIO CANIZALES GONZALEZ"
   ],
-  "MAT": [
+  "Matem\u00e1ticas": [
     "MAYRA NU\u00d1EZ LOPEZ",
     "PAVEL REAL PEREZ",
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
@@ -19298,7 +19295,7 @@ let mejoresPorDepto={
     "SHARON MAGALI VALVERDE ESPARZA",
     "CLAUDIA GUADALUPE GOMEZ WULSCHNER"
   ],
-  "SDI": [
+  "Sistemas Digitales": [
     "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
     "ENRIQUE MELROSE AGUILAR",
     "JOSE GUADALUPE ROMERO VELAZQUEZ",

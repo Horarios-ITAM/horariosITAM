@@ -18816,3 +18816,1515 @@ let misProfesData={
     "n": 52
   }
 };
+let misProfesData={
+  "CLAUDIA ABURTO RANCA\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
+    "general": 8.9324,
+    "n": 74
+  },
+  "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
+    "general": 6.5833,
+    "n": 24
+  },
+  "ARTURO ALBERTO AGUILAR ESTEVA": {
+    "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
+    "general": 8.5385,
+    "n": 13
+  },
+  "JOSE ABRAHAM AGUILAR ICAZA": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Abraham-Aguilar-Icaza_62617",
+    "general": 7.0625,
+    "n": 16
+  },
+  "JUAN CARLOS AGUILAR VILLEGAS": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
+    "general": 6.8654,
+    "n": 52
+  },
+  "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
+    "general": 8.8372,
+    "n": 43
+  },
+  "SANTIAGO ALBERICO LEZAMA": {
+    "link": "https://www.misprofesores.com/profesores/Santiago-Alberico-Lezama_140280",
+    "general": 9.0,
+    "n": 1
+  },
+  "ANA MICAELA ALTERIO": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
+    "general": 9.0667,
+    "n": 15
+  },
+  "CLAUDIA ALVAREZ ESTRADA": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-\u00c1lvarez-Estrada_67068",
+    "general": 9.5789,
+    "n": 19
+  },
+  "MARIA ARIETTE ALVAREZ KURI": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
+    "general": 6.4274,
+    "n": 117
+  },
+  "DIANA LUCIA ALVAREZ MACIAS": {
+    "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
+    "general": 9.5714,
+    "n": 14
+  },
+  "ANTONIO AMADOR ARELLANO": {
+    "link": "https://www.misprofesores.com/profesores/Antonio-amador-arellano_104208",
+    "general": 5.2857,
+    "n": 7
+  },
+  "MARINE CHARLOTTE ANDRE": {
+    "link": "https://www.misprofesores.com/profesores/Marine-Charlotte-Andre_118898",
+    "general": 9.2,
+    "n": 5
+  },
+  "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Mart\u00edn-Arciniega-Ruiz-de-Esparza_10724",
+    "general": 8.7419,
+    "n": 31
+  },
+  "EDUARDO TOMAS ARELLANO ARJONA": {
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
+    "general": 6.4615,
+    "n": 117
+  },
+  "RODRIGO ALFONSO ASCENCIO LUCIO": {
+    "link": "https://www.misprofesores.com/profesores/Rodrigo-Alfonso-Ascencio-Lucio_112372",
+    "general": 8.4444,
+    "n": 9
+  },
+  "GABRIEL ASTEY WOOD": {
+    "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
+    "general": 8.9302,
+    "n": 43
+  },
+  "OMAR AVILA GARCIA SAGREDO": {
+    "link": "https://www.misprofesores.com/profesores/Omar-\u00c1vila-Garc\u00eda-Sagredo_57486",
+    "general": 7.9231,
+    "n": 13
+  },
+  "GERMAN SINUHE AYALA FUENTES": {
+    "link": "https://www.misprofesores.com/profesores/Germ\u00e1n-Sinuhe-Ayala-Fuentes_109376",
+    "general": 4.8889,
+    "n": 9
+  },
+  "AMRITA BAHRI": {
+    "link": "https://www.misprofesores.com/profesores/Amrita-Bahri_93904",
+    "general": 9.4545,
+    "n": 11
+  },
+  "JUAN CARLOS BARCENAS CERVANTES": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Barcenas-Cervantes_83646",
+    "general": 9.75,
+    "n": 4
+  },
+  "MARIA ALEJANDRA BARRERA RAMIREZ": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
+    "general": 7.3243,
+    "n": 37
+  },
+  "JOSE MARIA BARRERO SANCLEMENTE": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
+    "general": 6.3571,
+    "n": 14
+  },
+  "ERNESTO JUVENAL BARRIOS ZAMUDIO": {
+    "link": "https://www.misprofesores.com/profesores/Ernesto-Juvenal-Barrios-Zamudio_10689",
+    "general": 6.3556,
+    "n": 90
+  },
+  "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
+    "general": 8.5833,
+    "n": 12
+  },
+  "ABIMAEL JAVIER BENGOCHEA CRUZ": {
+    "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
+    "general": 5.9259,
+    "n": 27
+  },
+  "LEON BERDICHEVSKY ACOSTA": {
+    "link": "https://www.misprofesores.com/profesores/Leon-Berdichevsky-Acosta_94277",
+    "general": 7.125,
+    "n": 8
+  },
+  "ERNESTO BLANCAS BARRAGAN": {
+    "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
+    "general": 9.0,
+    "n": 1
+  },
+  "AIRAM ASERET BLANCAS BENITEZ": {
+    "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
+    "general": 6.3333,
+    "n": 6
+  },
+  "CARLOS BOSCH GIRAL": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Bosch-Giral_10705",
+    "general": 5.8382,
+    "n": 136
+  },
+  "FERNANDO BUENO AJA": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
+    "general": 8.3333,
+    "n": 3
+  },
+  "ERIKA BURGOS PADILLA": {
+    "link": "https://www.misprofesores.com/profesores/Erika-Burgos-Padilla_67467",
+    "general": 9.4074,
+    "n": 27
+  },
+  "JOSE LUIS CABALLERO RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Luis-Caballero-Rodr\u00edguez_129801",
+    "general": 10.0,
+    "n": 2
+  },
+  "CAROLINA CABELLO AVILA": {
+    "link": "https://www.misprofesores.com/profesores/Carolina-Cabello-Avila_114811",
+    "general": 3.5,
+    "n": 4
+  },
+  "MARTA CABO NODAR": {
+    "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
+    "general": 4.1667,
+    "n": 78
+  },
+  "MARIANA CALDERON ARAMBURU": {
+    "link": "https://www.misprofesores.com/profesores/Mariana-Calder\u00f3n-Aramburu_140257",
+    "general": 9.5,
+    "n": 2
+  },
+  "LUIS MANUEL CAMP MEJAN CARRER": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
+    "general": 8.3,
+    "n": 10
+  },
+  "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
+    "general": 6.7083,
+    "n": 96
+  },
+  "DANTE GABRIEL CAMPOS SALIDO": {
+    "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
+    "general": 9.1667,
+    "n": 90
+  },
+  "JAIME DAVID CAMPOSECO PAULSEN": {
+    "link": "https://www.misprofesores.com/profesores/Jaime-David-Camposeco-Paulsen_67019",
+    "general": 7.1724,
+    "n": 29
+  },
+  "MARIA CANDELAS RAMIREZ": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Candelas-Ram\u00edrez_10751",
+    "general": 7.807,
+    "n": 57
+  },
+  "ANTONIO CANIZALES GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Antonio-Caniz\u00e1lez-Gonz\u00e1lez_10831",
+    "general": 8.2917,
+    "n": 24
+  },
+  "GUSTAVO CARDENAS SORIANO": {
+    "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
+    "general": 10.0,
+    "n": 2
+  },
+  "GUILLERMO CARRANCO ROMERO": {
+    "link": "https://www.misprofesores.com/profesores/Guillermo-Carranco-Romero_50321",
+    "general": 8.8182,
+    "n": 22
+  },
+  "LUZ DEL CARMEN CARRILLO CAREAGA": {
+    "link": "https://www.misprofesores.com/profesores/Luz-del-Carmen-Carrillo-Careaga_70187",
+    "general": 7.6364,
+    "n": 11
+  },
+  "MARIANA CASILLAS CASILLAS": {
+    "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
+    "general": 6.6,
+    "n": 30
+  },
+  "PABLO CASTA\u00d1EDA RIVERA": {
+    "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
+    "general": 6.3,
+    "n": 20
+  },
+  "IRVIN ARTURO CASTILLO CESAREO": {
+    "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
+    "general": 9.6,
+    "n": 5
+  },
+  "JORGE ARTURO CERDIO HERRAN": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Arturo-Cerdio-Herr\u00e1n_10792",
+    "general": 6.9823,
+    "n": 113
+  },
+  "RODRIGO CHACON AGUIRRE": {
+    "link": "https://www.misprofesores.com/profesores/Rodrigo-Chac\u00f3n-Aguirre_78222",
+    "general": 8.3182,
+    "n": 22
+  },
+  "ANA SOFIA CHARVEL OROZCO": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Sof\u00eda-Charvel-Orozco_10791",
+    "general": 7.1791,
+    "n": 67
+  },
+  "XOCHITL CHAVARRIA CRUZ": {
+    "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
+    "general": 9.75,
+    "n": 12
+  },
+  "ERIKA GEORGINA CHAVEZ PIEDRA BUENA": {
+    "link": "https://www.misprofesores.com/profesores/Erika-Georgina-Ch\u00e1vez-Piedra-Buena_79956",
+    "general": 7.0,
+    "n": 13
+  },
+  "RODOLFO CONDE MARTINEZ": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Conde-martinez_90450",
+    "general": 8.7059,
+    "n": 17
+  },
+  "MARIANA CONTRERAS AREVALO": {
+    "link": "https://www.misprofesores.com/profesores/Mariana-Contreras-Ar\u00e9valo_120948",
+    "general": 10.0,
+    "n": 1
+  },
+  "FERNANDO CORNEJO MONTA\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo-Monta\u00f1o_67406",
+    "general": 8.1724,
+    "n": 58
+  },
+  "CHRISTINA CORNEJO VAN LUIT": {
+    "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
+    "general": 9.5315,
+    "n": 143
+  },
+  "SOFIA CORONA VERDUZCO": {
+    "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
+    "general": 9.7143,
+    "n": 7
+  },
+  "MENEY DE LA PEZA GANDARA": {
+    "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
+    "general": 8.4,
+    "n": 5
+  },
+  "LILIANA DE LA TORRE DESENTIS": {
+    "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
+    "general": 8.0833,
+    "n": 12
+  },
+  "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
+    "general": 8.0,
+    "n": 20
+  },
+  "CLAUDIA EMILIA DE LEON PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
+    "general": 8.1714,
+    "n": 35
+  },
+  "LUIS ARTURO DEL CASTILLO MUZQUIZ": {
+    "link": "https://www.misprofesores.com/profesores/LUIS-ARTURO-DEL-CASTILLO-MUZQUIZ_40780",
+    "general": 7.1077,
+    "n": 65
+  },
+  "FRANCO ALBERTO DEL VALLE PRADO": {
+    "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
+    "general": 9.8333,
+    "n": 6
+  },
+  "POLUX ERNESTO DIAZ RUIZ": {
+    "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
+    "general": 5.0938,
+    "n": 32
+  },
+  "ANA MARIA BERNARDETTE DIAZ BONNET": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Bernardette-Diaz-Bonnet_10748",
+    "general": 6.3636,
+    "n": 33
+  },
+  "JOSE PANTALEON DOMINGUEZ ESPONDA": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
+    "general": 8.0429,
+    "n": 70
+  },
+  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
+    "general": 6.7041,
+    "n": 98
+  },
+  "DENISE DRESSER GUERRA": {
+    "link": "https://www.misprofesores.com/profesores/Denise-Dresser-Guerra_10801",
+    "general": 4.9485,
+    "n": 136
+  },
+  "FEDERICO GUILLERMO DURAND GUEVARA": {
+    "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
+    "general": 5.9163,
+    "n": 203
+  },
+  "ALBERTO ESPINOSA GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
+    "general": 7.3125,
+    "n": 16
+  },
+  "BELEN ESPINOSA LUCIO": {
+    "link": "https://www.misprofesores.com/profesores/Bel\u00e9n-Espinosa-Lucio_61238",
+    "general": 7.7125,
+    "n": 80
+  },
+  "CARLOS FERNANDO ESPONDA DARLINGTON": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Fernando-Esponda-Darlington_10851",
+    "general": 7.7917,
+    "n": 24
+  },
+  "CHRISTIANE FABREGA CHIMALI": {
+    "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
+    "general": 8.7523,
+    "n": 109
+  },
+  "RICARDO SERGIO FADL KURI": {
+    "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
+    "general": 7.2258,
+    "n": 31
+  },
+  "ALEXANDROS FAKOS": {
+    "link": "https://www.misprofesores.com/profesores/Alexandros-Fakos_73366",
+    "general": 8.3448,
+    "n": 29
+  },
+  "LYSETTE FELIX FELIX": {
+    "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
+    "general": 9.0,
+    "n": 3
+  },
+  "RAUL FERNANDEZ BRISE\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Raul-Fernandez-Brise\u00f1o_51347",
+    "general": 8.0,
+    "n": 7
+  },
+  "JUAN JOSE FERNANDEZ DURAN": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Jos\u00e9-Fern\u00e1ndez-Dur\u00e1n_10690",
+    "general": 8.2222,
+    "n": 27
+  },
+  "GERARDO FERNANDEZ FERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
+    "general": 7.1905,
+    "n": 42
+  },
+  "JESUS ADRIAN FERNANDEZ REYES": {
+    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
+    "general": 9.75,
+    "n": 4
+  },
+  "LEOBARDO FERNANDEZ ROMAN": {
+    "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
+    "general": 8.1471,
+    "n": 68
+  },
+  "ANA PAULINA FIGUEROA GUTIERREZ": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
+    "general": 6.2745,
+    "n": 51
+  },
+  "ISABEL FLORES ALCAZAR": {
+    "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
+    "general": 9.2143,
+    "n": 14
+  },
+  "ALEJANDRA FLORES MOSRI": {
+    "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
+    "general": 8.2174,
+    "n": 23
+  },
+  "JOSE ANTONIO FLORES ZARATE": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Antonio-Flores-Zarate_67358",
+    "general": 7.625,
+    "n": 8
+  },
+  "ANA LIDIA FRANZONI VELAZQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Lidia-Franzoni-Vel\u00e1zquez_10856",
+    "general": 8.12,
+    "n": 50
+  },
+  "JOSE EFRAIN GALA PALACIOS": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Efrain-Gala-Palacios_22831",
+    "general": 8.027,
+    "n": 37
+  },
+  "FRANCISCO GALAN TAMES": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Gal\u00e1n-Tam\u00e9s_106990",
+    "general": 9.0667,
+    "n": 15
+  },
+  "ROSA MARGARITA GALAN VELEZ": {
+    "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
+    "general": 5.5455,
+    "n": 33
+  },
+  "CARLOS EMILIO GALINDO FLORES": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
+    "general": 7.9444,
+    "n": 54
+  },
+  "RAFAEL GREGORIO GAMBOA HIRALES": {
+    "link": "https://www.misprofesores.com/profesores/Rafael-Gregorio-Gamboa-Hirales_10855",
+    "general": 7.125,
+    "n": 24
+  },
+  "SERGIO GARCIA ALQUICIRA": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
+    "general": 7.3704,
+    "n": 27
+  },
+  "PEDRO ANGEL GARCIA ARES": {
+    "link": "https://www.misprofesores.com/profesores/pedro-\u00e1ngel-garc\u00eda-ares_130183",
+    "general": 8.25,
+    "n": 4
+  },
+  "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
+    "general": 9.3333,
+    "n": 3
+  },
+  "ILEANA GARCIA CONDE": {
+    "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
+    "general": 7.6897,
+    "n": 29
+  },
+  "RICARDO GARCIA DE LA ROSA": {
+    "link": "https://www.misprofesores.com/profesores/Ricardo-Garcia-de-la-Rosa_65796",
+    "general": 7.7619,
+    "n": 21
+  },
+  "CESAR LUIS GARCIA GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
+    "general": 7.2264,
+    "n": 53
+  },
+  "SALVADOR GARCIA GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Salvador-Garc\u00eda-Gonzalez_120548",
+    "general": 9.125,
+    "n": 8
+  },
+  "ROSARIO EDITH GARCIA MENDIOLA": {
+    "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
+    "general": 8.3333,
+    "n": 60
+  },
+  "FRANCISCO ANDRES GARRIDO SEPULVEDA": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Andres-Garrido-Sepulveda_136156",
+    "general": 6.4,
+    "n": 5
+  },
+  "TIAGO GOMES DA SILVA TAVARES": {
+    "link": "https://www.misprofesores.com/profesores/Tiago-Gomes-da-Silva-Tavares_94106",
+    "general": 6.8824,
+    "n": 17
+  },
+  "ANDRES GOMEZ DE SILVA GARZA": {
+    "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
+    "general": 6.8286,
+    "n": 35
+  },
+  "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
+    "general": 6.0667,
+    "n": 15
+  },
+  "CLAUDIA GUADALUPE GOMEZ WULSCHNER": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Guadalupe-Gomez-Wulshner_10714",
+    "general": 8.2025,
+    "n": 79
+  },
+  "TRINIDAD GONZALEZ BONILLA": {
+    "link": "https://www.misprofesores.com/profesores/Trinidad-Gonzales-Bonilla_147541",
+    "general": 6.5,
+    "n": 2
+  },
+  "CLAUDIA NOEMI GONZALEZ BRAMBILA": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Noem\u00ed-Gonz\u00e1lez-Brambila_10719",
+    "general": 7.8235,
+    "n": 17
+  },
+  "JOSE RAFAEL GONZALEZ DIAZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
+    "general": 6.4567,
+    "n": 208
+  },
+  "FRANCISCO ALEJANDRO GONZALEZ FRANCO": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Alejandro-Gonz\u00e1lez-Franco_65939",
+    "general": 5.8333,
+    "n": 42
+  },
+  "JORGE GONZALEZ GALLASTEGUI": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Gonz\u00e1lez-Gallastegui_129800",
+    "general": 6.6667,
+    "n": 3
+  },
+  "CARLOS GONZALEZ HERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
+    "general": 7.2083,
+    "n": 24
+  },
+  "MARCELA GONZALEZ MARTINEZ": {
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5625,
+    "n": 16
+  },
+  "GABRIEL GOODLIFFE": {
+    "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
+    "general": 6.7037,
+    "n": 27
+  },
+  "JOSE JAVIER GOYENECHE POLO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Goyeneche-Polo_80273",
+    "general": 8.5,
+    "n": 16
+  },
+  "MARIA MERCEDES GREGORIO DOMINGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Mercedes-Gregorio-Dom\u00ednguez_10676",
+    "general": 8.25,
+    "n": 12
+  },
+  "MARIA LUISA GRUNBERGER STERN": {
+    "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
+    "general": 8.8791,
+    "n": 91
+  },
+  "SILVIA DEL CARMEN GUARDATI BUEMO": {
+    "link": "https://www.misprofesores.com/profesores/Silvia-del-Carmen-Guardati-Buemo_10847",
+    "general": 8.8298,
+    "n": 47
+  },
+  "JULIANA GUDI\u00d1O ANTILLON": {
+    "link": "https://www.misprofesores.com/profesores/Juliana-Gudi\u00f1o-Antill\u00f3n_10720",
+    "general": 7.48,
+    "n": 50
+  },
+  "VICTOR MANUEL GUERRERO GUZMAN": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Guerrero-Guzm\u00e1n_10688",
+    "general": 7.0435,
+    "n": 23
+  },
+  "JULIETA IRMA GUIZA PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
+    "general": 5.3214,
+    "n": 28
+  },
+  "JOSE OCTAVIO GUTIERREZ GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Octavio-Gutierrez-Garcia_129405",
+    "general": 10.0,
+    "n": 4
+  },
+  "CARLOS GUTIERREZ LOZANO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
+    "general": 6.6629,
+    "n": 89
+  },
+  "JOSE RUBEN HERNANDEZ CID": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rub\u00e9n-Hern\u00e1ndez-Cid_10687",
+    "general": 6.9767,
+    "n": 43
+  },
+  "JANKO HERNANDEZ CORTES": {
+    "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
+    "general": 8.1667,
+    "n": 6
+  },
+  "RODRIGO ANTONIO HERNANDEZ HERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Rodrigo-Antonio-Hern\u00e1ndez-Hern\u00e1ndez_74996",
+    "general": 7.6538,
+    "n": 26
+  },
+  "DIEGO HERNANDEZ RANGEL": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Hern\u00e1ndez-Rangel_10679",
+    "general": 8.7222,
+    "n": 18
+  },
+  "RENATA HERRERIAS FRANCO": {
+    "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
+    "general": 5.9,
+    "n": 20
+  },
+  "TETSUYA HOSHINO": {
+    "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
+    "general": 6.875,
+    "n": 8
+  },
+  "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
+    "general": 9.1667,
+    "n": 12
+  },
+  "ALEJANDRO ISLAS CAMARGO": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-Islas-Camargo_10684",
+    "general": 5.7231,
+    "n": 65
+  },
+  "PAVEL JIMENEZ VAZQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
+    "general": 8.5,
+    "n": 4
+  },
+  "VIRGINIA KALIS LETAYF": {
+    "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
+    "general": 8.4714,
+    "n": 70
+  },
+  "FEDERICO JOSE KUHLMANN RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Federico-Jos\u00e9-Kuhlmann-Rodr\u00edguez_10875",
+    "general": 6.7143,
+    "n": 35
+  },
+  "ATANU KUMAR PAUL": {
+    "link": "https://www.misprofesores.com/profesores/Atanu-Kumar-Paul_114815",
+    "general": 5.8333,
+    "n": 6
+  },
+  "MAURICIO ROSALES LAZCANO": {
+    "link": "https://www.misprofesores.com/profesores/Mauricio-Rosales-Lazcano_26216",
+    "general": 5.6122,
+    "n": 49
+  },
+  "JOSE MANUEL LECUANDA ONTIVEROS": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Lecuanda-Ontiveros_86804",
+    "general": 8.3704,
+    "n": 27
+  },
+  "ANNAPAOLA LLANAS MEJIA": {
+    "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
+    "general": 8.3836,
+    "n": 73
+  },
+  "ANTONIO RODOLFO LLORET CARRILLO": {
+    "link": "https://www.misprofesores.com/profesores/Antonio-Rodolfo-Lloret-Carrillo_10731",
+    "general": 6.1324,
+    "n": 68
+  },
+  "IGNACIO NORBERTO LOBATO GARCIA MIJAN": {
+    "link": "https://www.misprofesores.com/profesores/Ignacio-Norberto-Lobato-Garc\u00eda-Mij\u00e1n_10781",
+    "general": 7.4348,
+    "n": 23
+  },
+  "GLORIA LOPEZ CHAVEZ": {
+    "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
+    "general": 7.619,
+    "n": 21
+  },
+  "MARIA TERESA LOPEZ FERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Lopez-Fernandez_103694",
+    "general": 9.5,
+    "n": 8
+  },
+  "LYDIA LOPEZ GUTIERREZ": {
+    "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
+    "general": 7.9265,
+    "n": 68
+  },
+  "MARISOL LOPEZ ROMERO": {
+    "link": "https://www.misprofesores.com/profesores/Marisol-Lopez-Romero_107554",
+    "general": 5.75,
+    "n": 8
+  },
+  "IRMA LOZANO MENDICUTI": {
+    "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
+    "general": 8.5806,
+    "n": 31
+  },
+  "ADRIAN LUCARDI": {
+    "link": "https://www.misprofesores.com/profesores/Adrian-Lucardi_82586",
+    "general": 7.9286,
+    "n": 14
+  },
+  "ANA REGINA LUEVANO CAYON": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
+    "general": 6.8444,
+    "n": 45
+  },
+  "MARCO ANTONIO MACIAS CEDE\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/MARCO-ANTONIO-MACIAS-CEDE\u00d1O_34825",
+    "general": 6.5455,
+    "n": 66
+  },
+  "MAIRA MADRIZ MENDOZA": {
+    "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
+    "general": 7.2778,
+    "n": 36
+  },
+  "ERIC MAGAR MEURS": {
+    "link": "https://www.misprofesores.com/profesores/Eric-Magar-Meurs_10805",
+    "general": 8.04,
+    "n": 25
+  },
+  "JUAN CARLOS MANSUR GARDA": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Mansur-Garda_10820",
+    "general": 7.3846,
+    "n": 143
+  },
+  "JORGE ALCALDE MARTIN DEL CAMPO": {
+    "link": "https://www.misprofesores.com/profesores/JORGE-ALCALDE-MARTIN-DEL-CAMPO_81055",
+    "general": 8.4,
+    "n": 5
+  },
+  "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
+    "general": 9.2143,
+    "n": 14
+  },
+  "EDUARDO SELIM MARTINEZ MAYORGA": {
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1042,
+    "n": 48
+  },
+  "MARIA ELOISA MARTINEZ PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
+    "general": 6.25,
+    "n": 8
+  },
+  "CARLOS EDUARDO MARTINEZ RICO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
+    "general": 8.0,
+    "n": 2
+  },
+  "JAVIER MARTINEZ VILLARROYA": {
+    "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
+    "general": 8.4706,
+    "n": 17
+  },
+  "LUZ MARIA MARVAN GARDU\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
+    "general": 8.0814,
+    "n": 86
+  },
+  "JOSE MATUK VILLAZON": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Matuk-Villaz\u00f3n_138003",
+    "general": 8.3333,
+    "n": 3
+  },
+  "JOHN BRADFORD MCBRIDE PITTS": {
+    "link": "https://www.misprofesores.com/profesores/John-Bradford-McBride-Pitts_10734",
+    "general": 7.6552,
+    "n": 29
+  },
+  "CARLOS JEFFREY MCCADDEN MARTINEZ": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Jeffrey-McCadden-Mart\u00ednez_10822",
+    "general": 5.6298,
+    "n": 181
+  },
+  "JOSE JAVIER MEDRANO PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
+    "general": 9.5,
+    "n": 2
+  },
+  "DENISE MEJAN GANEM": {
+    "link": "https://www.misprofesores.com/profesores/Denise-Mejan-Ganem_140466",
+    "general": 10.0,
+    "n": 1
+  },
+  "SYLVIA MELJEM ENRIQUEZ DE RIVERA": {
+    "link": "https://www.misprofesores.com/profesores/Sylvia-Meljem-Enriquez-de-Rivera_10756",
+    "general": 7.6522,
+    "n": 46
+  },
+  "ENRIQUE MELROSE AGUILAR": {
+    "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
+    "general": 7.625,
+    "n": 16
+  },
+  "EDUARDO MENACHE VARELA": {
+    "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
+    "general": 9.7647,
+    "n": 17
+  },
+  "MIGUEL ANGEL MENDEZ ANTONIO": {
+    "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
+    "general": 5.7794,
+    "n": 68
+  },
+  "MANUEL MENDOZA RAMIREZ": {
+    "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
+    "general": 7.4286,
+    "n": 21
+  },
+  "MIROSLAVA MENDOZA VIDAL": {
+    "link": "https://www.misprofesores.com/profesores/Miroslava-Mendoza-Vidal_30732",
+    "general": 8.8333,
+    "n": 12
+  },
+  "MARIA CRUZ MERINO SANZ": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cruz-Merino-Sanz_10744",
+    "general": 4.8235,
+    "n": 17
+  },
+  "MIGUEL MESSMACHER LINARTAS": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-Messmacher-Linartas_118897",
+    "general": 10.0,
+    "n": 1
+  },
+  "FELIPE MEZA GOIZ": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-Meza-Goiz_10761",
+    "general": 6.525,
+    "n": 40
+  },
+  "JUAN PABLO MICOZZI": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Pablo-Micozzi_59705",
+    "general": 6.9615,
+    "n": 26
+  },
+  "MARCELA MIJARES LARA": {
+    "link": "https://www.misprofesores.com/profesores/MARCELA-MIJARES-LARA_103949",
+    "general": 7.5625,
+    "n": 16
+  },
+  "SANDRA PATRICIA MINABURO VILLAR": {
+    "link": "https://www.misprofesores.com/profesores/Sandra-Patricia-Minaburo-Villar_10747",
+    "general": 5.6111,
+    "n": 36
+  },
+  "ANA KARINA MIRANDA FLORES": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Karina-Miranda-Flores_150364",
+    "general": 5.0,
+    "n": 1
+  },
+  "ROSA ELENA MIRANDA SANSORES": {
+    "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
+    "general": 9.0,
+    "n": 19
+  },
+  "LUIS ANTONIO MONCAYO MARTINEZ": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Antonio-Moncayo-Mart\u00ednez_94297",
+    "general": 6.6,
+    "n": 5
+  },
+  "AURORA GUADALUPE MONROY ALARCON": {
+    "link": "https://www.misprofesores.com/profesores/Aurora-Guadalupe-Monroy-Alarc\u00f3n_10725",
+    "general": 6.3,
+    "n": 40
+  },
+  "JORGE MONROY JIMENEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
+    "general": 7.3103,
+    "n": 29
+  },
+  "JOSE ANTONIO MORALES YA\u00d1EZ": {
+    "link": "https://www.misprofesores.com/profesores/JOSE-ANTONIO-MORALES-YA\u00d1EZ_71535",
+    "general": 6.6,
+    "n": 5
+  },
+  "JESUS ALEJANDRO MORENO ALVAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Moreno-Alvarez_10800",
+    "general": 9.0,
+    "n": 19
+  },
+  "DAVID MORENO GUINEA": {
+    "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
+    "general": 8.4333,
+    "n": 30
+  },
+  "MIGUEL ANGEL MOTA GAYTAN": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
+    "general": 7.6571,
+    "n": 35
+  },
+  "DAVID FERNANDO MU\u00d1OZ NEGRON": {
+    "link": "https://www.misprofesores.com/profesores/David-Fernando-Mu\u00f1oz-Negr\u00f3n_10865",
+    "general": 6.1538,
+    "n": 13
+  },
+  "MARIO MU\u00d1OZ ORTEGA SAAVEDRA": {
+    "link": "https://www.misprofesores.com/profesores/Mario-Mu\u00f1oz-Ortega-Saavedra_129188",
+    "general": 10.0,
+    "n": 2
+  },
+  "LUIS ENRIQUE NIETO BARAJAS": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Nieto-Barajas_10685",
+    "general": 5.9474,
+    "n": 38
+  },
+  "MAYRA NU\u00d1EZ LOPEZ": {
+    "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
+    "general": 9.5,
+    "n": 10
+  },
+  "RODRIGO OCHOA TELLA": {
+    "link": "https://www.misprofesores.com/profesores/Rodrigo-Ochoa-Tella_94374",
+    "general": 7.5,
+    "n": 2
+  },
+  "MARGARITA OLMEDO DE LA PE\u00d1A": {
+    "link": "https://www.misprofesores.com/profesores/Margarita-Olmedo-de-la-Pe\u00f1a_36749",
+    "general": 7.6923,
+    "n": 26
+  },
+  "JESUS ALEJANDRO ORDIERES SIERES": {
+    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Ordieres-Sieres_10826",
+    "general": 7.3056,
+    "n": 144
+  },
+  "JOSE MANUEL OROZCO GARIBAY": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
+    "general": 5.6879,
+    "n": 157
+  },
+  "ROMEO SALVADOR ORTEGA MARTINEZ": {
+    "link": "https://www.misprofesores.com/profesores/Romeo-Salvador-Ortega-Martinez_129225",
+    "general": 2.3333,
+    "n": 3
+  },
+  "DIEGO ALEJANDRO OTERO ANGELINI": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
+    "general": 7.0714,
+    "n": 14
+  },
+  "MARIA FLORENCIA PALACIO GOMEZ SAMANIEGO": {
+    "link": "https://www.misprofesores.com/profesores/MARIA-FLORENCIA-PALACIO-GOMEZ-SAMANIEGO_94176",
+    "general": 9.3333,
+    "n": 12
+  },
+  "ROMANS PANCS": {
+    "link": "https://www.misprofesores.com/profesores/Romans-Pancs_104518",
+    "general": 4.8889,
+    "n": 9
+  },
+  "ZEFERINO PARADA GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
+    "general": 6.5758,
+    "n": 33
+  },
+  "JOSE GUILLERMO PASTOR JIMENEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Guillermo-Pastor-Jim\u00e9nez_10716",
+    "general": 6.4318,
+    "n": 44
+  },
+  "MARIA TERESITA PAVIA LOPEZ": {
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
+    "general": 7.2477,
+    "n": 109
+  },
+  "ARTURO PELAEZ GALVEZ": {
+    "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
+    "general": 8.629,
+    "n": 62
+  },
+  "LUIS ENRIQUE PEREDA TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
+    "general": 9.0,
+    "n": 1
+  },
+  "FERNANDO DIEGO PEREZ CERVANTES": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Diego-P\u00e9rez-Cervantes_114816",
+    "general": 7.1818,
+    "n": 11
+  },
+  "ERNESTO PEREZ CHAVELA": {
+    "link": "https://www.misprofesores.com/profesores/Ernesto-P\u00e9rez-Chavela_74856",
+    "general": 6.8571,
+    "n": 28
+  },
+  "NITZE NAYELI PEREZ FERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Nitze-Nayeli-Perez-Fernandez_105762",
+    "general": 6.5,
+    "n": 4
+  },
+  "FRANCISCO PEREZ GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Perez-Gonzalez_78818",
+    "general": 6.6154,
+    "n": 13
+  },
+  "ANGEL PEREZ JUAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
+    "general": 6.3131,
+    "n": 99
+  },
+  "FERNANDO PEREZ RIOS": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-P\u00e9rez-R\u00edos_94260",
+    "general": 6.6,
+    "n": 5
+  },
+  "SERGIO ARTURO PEREZ RUIZ": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Arturo-Perez-Ruiz_18111",
+    "general": 6.1333,
+    "n": 90
+  },
+  "YANIRA ROSALBA PETRIDES JIMENEZ": {
+    "link": "https://www.misprofesores.com/profesores/Yanira-Rosalba-Petrides-Jimenez_10757",
+    "general": 8.3846,
+    "n": 13
+  },
+  "ERNESTO PIEDRAS FERIA": {
+    "link": "https://www.misprofesores.com/profesores/Ernesto-Piedras-Feria_74696",
+    "general": 7.0,
+    "n": 9
+  },
+  "EDGAR POSSANI ESPINOSA": {
+    "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
+    "general": 7.1071,
+    "n": 56
+  },
+  "JESUS PUENTE TREVI\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Jesus-Puente-Trevi\u00f1o_89712",
+    "general": 6.0,
+    "n": 5
+  },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5,
+    "n": 18
+  },
+  "LUIS REY RAIGOSA SOTELO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Rey-Raigosa-Sotelo_10783",
+    "general": 7.9412,
+    "n": 17
+  },
+  "BERNARDO RAMIREZ FIGUEROA": {
+    "link": "https://www.misprofesores.com/profesores/Bernardo-Ram\u00edrez-Figueroa_125410",
+    "general": 8.0,
+    "n": 1
+  },
+  "ADAN RAMIREZ LOPEZ": {
+    "link": "https://www.misprofesores.com/profesores/Ad\u00e1n-Ram\u00edrez-L\u00f3pez_62698",
+    "general": 7.625,
+    "n": 8
+  },
+  "ALBERTO ISAAC RAMIREZ PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
+    "general": 9.0769,
+    "n": 13
+  },
+  "ARTURO RAMIREZ VERDUGO": {
+    "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
+    "general": 7.4138,
+    "n": 29
+  },
+  "PABLO ARIEL RAPETTI": {
+    "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
+    "general": 8.0,
+    "n": 15
+  },
+  "IVAN SALVADOR RAZO ZAPATA": {
+    "link": "https://www.misprofesores.com/profesores/Ivan-Salvador-Razo-Zapata_118023",
+    "general": 9.3333,
+    "n": 3
+  },
+  "PAVEL REAL PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
+    "general": 9.375,
+    "n": 16
+  },
+  "JULIO ANTONIO RIOS FIGUEROA": {
+    "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
+    "general": 10.0,
+    "n": 1
+  },
+  "SILVIA RIOS MAGOS": {
+    "link": "https://www.misprofesores.com/profesores/Silvia-r\u00edos-magos_41283",
+    "general": 8.9,
+    "n": 20
+  },
+  "JOSE RAMON RIOS SANCHEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
+    "general": 8.0667,
+    "n": 15
+  },
+  "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6456,
+    "n": 79
+  },
+  "JORGE RIVERA NORIEGA": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
+    "general": 7.7059,
+    "n": 17
+  },
+  "MARTA ROBLES CARTES": {
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6389,
+    "n": 72
+  },
+  "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
+    "general": 3.5833,
+    "n": 12
+  },
+  "FERNANDO RODRIGUEZ DOVAL": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
+    "general": 8.6667,
+    "n": 30
+  },
+  "TANIA GABRIELA RODRIGUEZ HUERTA": {
+    "link": "https://www.misprofesores.com/profesores/Tania-Gabriela-Rodr\u00edguez-Huerta_10785",
+    "general": 7.24,
+    "n": 25
+  },
+  "JOSE GERMAN ROJAS ARREDONDO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Germ\u00e1n-Rojas-Arredondo_10779",
+    "general": 4.0594,
+    "n": 101
+  },
+  "SERGIO ROMERO HERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
+    "general": 7.15,
+    "n": 20
+  },
+  "MAURICIO TOMAS ROMERO LONDO\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Mauricio-Tom\u00e1s-Romero-Londo\u00f1o_103678",
+    "general": 8.65,
+    "n": 20
+  },
+  "JOSE GUADALUPE ROMERO VELAZQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Guadalupe-Romero-Velasquez_81677",
+    "general": 7.5,
+    "n": 2
+  },
+  "ALBA NORA ROSENFELD SLOBINSKY": {
+    "link": "https://www.misprofesores.com/profesores/Alba-Nora-Rosenfeld-Slobinsky_10832",
+    "general": 7.5,
+    "n": 14
+  },
+  "ADRIAN RUBLI ORNELAS": {
+    "link": "https://www.misprofesores.com/profesores/Adri\u00e1n-Rubl\u00ed-Ornelas_109506",
+    "general": 8.9,
+    "n": 10
+  },
+  "JAIME RUIZ DE SANTIAGO Y SIERRA": {
+    "link": "https://www.misprofesores.com/profesores/Jaime-Ruiz-de-Santiago-y-Sierra_21773",
+    "general": 7.4167,
+    "n": 48
+  },
+  "BENJAMIN RUIZ GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Benjam\u00edn-Ruiz-Garc\u00eda_85540",
+    "general": 9.0784,
+    "n": 51
+  },
+  "CONCEPCION RUIZ RUIZ FUNES": {
+    "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
+    "general": 8.7067,
+    "n": 75
+  },
+  "IRMA BEATRIZ RUMBOS PELLICER": {
+    "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",
+    "general": 8.55,
+    "n": 20
+  },
+  "ERIKA ESTEFANIA SALAS MAYME": {
+    "link": "https://www.misprofesores.com/profesores/Erika-Estefania-Salas-Mayme_117943",
+    "general": 9.8333,
+    "n": 6
+  },
+  "ANTE SALCEDO GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
+    "general": 6.2609,
+    "n": 23
+  },
+  "HILDA MARGARITA SALGADO SOTA": {
+    "link": "https://www.misprofesores.com/profesores/Hilda-Margarita-Salgado-Sota_30811",
+    "general": 7.2571,
+    "n": 35
+  },
+  "NATALIA SALTALAMACCHIA ZICCARDI": {
+    "link": "https://www.misprofesores.com/profesores/Natalia-Saltalamacchia-Ziccardi_10835",
+    "general": 7.9524,
+    "n": 42
+  },
+  "HERICA SANCHEZ LARIOS": {
+    "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
+    "general": 7.9444,
+    "n": 18
+  },
+  "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
+    "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
+    "general": 6.0,
+    "n": 7
+  },
+  "TARCISIO SANCHEZ ULLOA": {
+    "link": "https://www.misprofesores.com/profesores/Tarcisio-Sanchez-Ulloa_66979",
+    "general": 8.2121,
+    "n": 33
+  },
+  "JOSE DAVID SANTOS SALAZAR": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
+    "general": 7.0526,
+    "n": 19
+  },
+  "SERGIO MIGUEL SARMIENTO SERRANO": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
+    "general": 7.2597,
+    "n": 77
+  },
+  "JULIETA MARIA SARRALDE VERA": {
+    "link": "https://www.misprofesores.com/profesores/Julieta-Mar\u00eda-Sarralde-Vera_10718",
+    "general": 7.3793,
+    "n": 58
+  },
+  "CARLOS EDUARDO SCHLESKE JUAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Schleske-Juarez_130086",
+    "general": 9.5,
+    "n": 4
+  },
+  "VALERIE SCHLOSSER SANCHEZ": {
+    "link": "https://www.misprofesores.com/profesores/Valerie-Schlosser-S\u00e1nchez_105807",
+    "general": 9.3333,
+    "n": 21
+  },
+  "MATHIAS JOSEF SCHNEIDER": {
+    "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
+    "general": 7.6667,
+    "n": 6
+  },
+  "ENRIQUE SEIRA BEJARANO": {
+    "link": "https://www.misprofesores.com/profesores/Enrique-Seira-Bejarano_40993",
+    "general": 5.8462,
+    "n": 13
+  },
+  "CARLOS ARTURO SERNA GARCINI": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
+    "general": 4.9216,
+    "n": 268
+  },
+  "SERGIO SILVA CASTA\u00d1EDA": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Silva-Casta\u00f1eda_50663",
+    "general": 7.9,
+    "n": 10
+  },
+  "LUZ MARIA SILVA ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Silva-Ortiz_10823",
+    "general": 6.863,
+    "n": 73
+  },
+  "ANURAG SINGH": {
+    "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
+    "general": 5.4286,
+    "n": 14
+  },
+  "MAX AMERICO SOLDEVILLA CANALES": {
+    "link": "https://www.misprofesores.com/profesores/Max-Americo-Soldevilla-Canales_67167",
+    "general": 7.8846,
+    "n": 26
+  },
+  "ALEJANDRA SOLIS GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
+    "general": 6.9524,
+    "n": 21
+  },
+  "MONICA CECILIA SOTO BETANCOURT": {
+    "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
+    "general": 6.2245,
+    "n": 49
+  },
+  "STEFANO STRAULINO TORRE": {
+    "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
+    "general": 8.1154,
+    "n": 52
+  },
+  "GONZALO TOMAS SUAREZ BELMONT": {
+    "link": "https://www.misprofesores.com/profesores/Gonzalo-Tom\u00e1s-Su\u00e1rez-Belmont_19775",
+    "general": 7.2093,
+    "n": 43
+  },
+  "MANUEL TAMEZ ZENDEJAS": {
+    "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
+    "general": 10.0,
+    "n": 1
+  },
+  "ALEJANDRO TERAN CASTELLANOS": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",
+    "general": 7.1176,
+    "n": 34
+  },
+  "JAVIER TERRES ARIAS": {
+    "link": "https://www.misprofesores.com/profesores/Javier-Terr\u00e9s-Arias_138402",
+    "general": 10.0,
+    "n": 1
+  },
+  "PAUL RENATO TOPPO RAIMONDO": {
+    "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
+    "general": 7.2857,
+    "n": 7
+  },
+  "JAEN DANAE TORRES DE LA ROSA": {
+    "link": "https://www.misprofesores.com/profesores/Ja\u00e9n-Dana\u00e9-Torres-de-la-Rosa_74693",
+    "general": 9.1364,
+    "n": 22
+  },
+  "PEDRO DANIEL TREJO SOLIS": {
+    "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
+    "general": 7.0,
+    "n": 8
+  },
+  "JOSE FRANCISCO TUDON MALDONADO": {
+    "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
+    "general": 6.6667,
+    "n": 21
+  },
+  "LEVENT ULKU": {
+    "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
+    "general": 7.2903,
+    "n": 31
+  },
+  "ALEXANDRA URIBE COUGHLAN": {
+    "link": "https://www.misprofesores.com/profesores/Alexandra-Uribe-Coughlan_10804",
+    "general": 8.0976,
+    "n": 82
+  },
+  "ELIZABETH GEORGINA URRUTIA LEZAMA": {
+    "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
+    "general": 7.5333,
+    "n": 30
+  },
+  "CARLOS ERNESTO URRUTIA VILLALOBOS": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
+    "general": 8.3636,
+    "n": 22
+  },
+  "ISAAC GUZMAN VALDIVIA TOVAR": {
+    "link": "https://www.misprofesores.com/profesores/Isaac-Guzman-Valdivia-Tovar_109516",
+    "general": 10.0,
+    "n": 1
+  },
+  "FEDERICO VALLE OCHOA": {
+    "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
+    "general": 10.0,
+    "n": 1
+  },
+  "SHARON MAGALI VALVERDE ESPARZA": {
+    "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
+    "general": 8.2414,
+    "n": 29
+  },
+  "FRANCISCO JAVIER VARELA SANDOVAL": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Javier-Varela-Sandoval_104437",
+    "general": 9.3333,
+    "n": 3
+  },
+  "INES VARGAS CHRISTLIEB": {
+    "link": "https://www.misprofesores.com/profesores/INES-VARGAS-CHRISTLIEB_99471",
+    "general": 8.25,
+    "n": 4
+  },
+  "EDITH MIREYA VARGAS GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",
+    "general": 6.1176,
+    "n": 17
+  },
+  "AURELIO VASQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
+    "general": 4.0476,
+    "n": 21
+  },
+  "BRUNO VELAZQUEZ DELGADO": {
+    "link": "https://www.misprofesores.com/profesores/Bruno-Velazquez-Delgado_74531",
+    "general": 7.7636,
+    "n": 55
+  },
+  "FELIX VELEZ FERNANDEZ VARELA": {
+    "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
+    "general": 6.3182,
+    "n": 22
+  },
+  "RIGOBERTO VERA MENDOZA": {
+    "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
+    "general": 4.6667,
+    "n": 42
+  },
+  "OMAR VIGUERAS HERRERA": {
+    "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
+    "general": 6.0,
+    "n": 1
+  },
+  "ALFREDO VILLAFRANCA QUINTO": {
+    "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
+    "general": 8.2321,
+    "n": 168
+  },
+  "TIZOC VILLALOBOS RUIZ": {
+    "link": "https://www.misprofesores.com/profesores/Tizoc-Villalobos-Ruiz_114807",
+    "general": 6.2857,
+    "n": 14
+  },
+  "LEON FELIPE VILLALOBOS SANCHEZ": {
+    "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
+    "general": 8.8039,
+    "n": 51
+  },
+  "ANTONIO VIVANCO CASAMADRID": {
+    "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
+    "general": 10.0,
+    "n": 4
+  },
+  "HORACIO VIVES SEGL": {
+    "link": "https://www.misprofesores.com/profesores/Horacio-Vives-Segl_138570",
+    "general": 9.0,
+    "n": 2
+  },
+  "ANDREAS WACHTEL": {
+    "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",
+    "general": 6.1176,
+    "n": 17
+  },
+  "XINYANG WANG": {
+    "link": "https://www.misprofesores.com/profesores/Xinyang-Wang_122989",
+    "general": 7.3,
+    "n": 10
+  },
+  "JEFFREY ALLEN WELDON": {
+    "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",
+    "general": 5.9722,
+    "n": 72
+  },
+  "GUILLERMO ZAMARRIPA ESCAMILLA": {
+    "link": "https://www.misprofesores.com/profesores/Guillermo-Zamarripa-Escamilla_37101",
+    "general": 7.2222,
+    "n": 9
+  },
+  "JOEL ZAMORA RAMOS": {
+    "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
+    "general": 7.4588,
+    "n": 85
+  },
+  "MONICA ZAVALA ESTRADA": {
+    "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
+    "general": 9.0,
+    "n": 22
+  },
+  "FRANCO ZECCHETTO TOLEDO": {
+    "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
+    "general": 7.3333,
+    "n": 12
+  },
+  "RODRIGO ZEPEDA TELLO": {
+    "link": "https://www.misprofesores.com/profesores/Rodrigo-Zepeda-Tello_94263",
+    "general": 8.7273,
+    "n": 22
+  },
+  "VALERIA ZEPEDA TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",
+    "general": 8.117,
+    "n": 94
+  },
+  "MARTHA LORENA ZOGAIB ACHCAR": {
+    "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
+    "general": 8.0892,
+    "n": 157
+  },
+  "ANA MARIA ZORRILLA NORIEGA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
+    "general": 10.0,
+    "n": 2
+  },
+  "GERARDO ZORRILLA RAMOS": {
+    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
+    "general": 7.3077,
+    "n": 52
+  }
+};
