@@ -1569,8 +1569,8 @@ let profesores={
   },
   "POLUX ERNESTO DIAZ RUIZ": {
     "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
-    "general": 5.0938,
-    "n": 32,
+    "general": 5.0303,
+    "n": 33,
     "grupos": {
       "ADM-15502-FINANZAS, II": [
         {
@@ -13410,8 +13410,8 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 7.0,
     "n": 1,
     "grupos": {
       "EST-14101-CALCULO DE PROBABILIDADES.,I": [
