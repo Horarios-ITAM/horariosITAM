@@ -53,8 +53,10 @@
             </tr>
         </table>
         <div id="menu">
-            <a href="index.html">Planear Horario</a> |
-            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Sugerencias</a>
+            <br>
+                <a href="index.html">Planear Horario</a> |
+                <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Sugerencias</a>
+            
         </div>
 
         <!--Forma para "Ver en Horarios ITAM"-->
@@ -83,6 +85,10 @@
                 //Nombre profesor seleccionado
                 let nombre=document.getElementById("profesorSeleccionado").value;
                 if(nombre == 'undefined' || nombre=='') return;
+                llenarResultado(nombre);
+            }
+
+            function llenarResultado(nombre){
                 let profesor=profesores[nombre];
                 console.log(nombre);
                 console.log(profesor);
@@ -166,7 +172,7 @@
                         if('general' in profesores[profe])
                             rating='('+profesores[profe]['general']+')';
                         let tempLi=document.createElement("li");
-                        tempLi.innerHTML='<a id="aList" href="">'+toTitleCase(profe)+'</a> '+rating;
+                        tempLi.innerHTML='<span id="aList" onClick="llenarResultado(\''+profe+'\')">'+toTitleCase(profe)+'</span> '+rating;
                         tempLi.style='text-align: left;'
                         list.appendChild(tempLi);
                     }
@@ -176,7 +182,6 @@
 
                 }
             }
-            
 
         </script>
     </body>
