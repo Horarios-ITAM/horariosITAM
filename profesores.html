@@ -6,8 +6,6 @@
         <script src="classes.js"></script>
         <!--Contiene los grupos y evaluaciones de los profesores-->
         <script src="profesores.js"></script>
-        <!--Contiene metodos para generar y controlar elementos de UI-->
-        <script src="uiUtils.js"></script>
         <!--CSS-->
         <link rel="stylesheet" href="style.css">
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -133,6 +131,15 @@
                     return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
                     }
                 );
+            }
+            //Llena el datalist de Buscar Profesores con los nombres de los profesores
+            function llenaDatalistProfesores(){
+                let datalist=document.getElementById("profesores_datalist");
+                for(let profesor in profesores){
+                    let option=document.createElement("option");
+                    option.value=profesor;
+                    datalist.appendChild(option);
+                }             
             }
             
 
