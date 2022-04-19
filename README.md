@@ -1,6 +1,6 @@
 # Planea tu horario ITAM
 
-[Página web](https://emiliocantuc.github.io) que le ayuda a estudiantes de licenciatura del ITAM a planear su horario.    
+Página web ([horariositam.com](https://horariositam.com)) que le ayuda a estudiantes de licenciatura del ITAM a planear su horario.    
     
 Estudiantes pueden ingresar las clases que desean cursar y después explorar todos los posibles horarios válidos (sin materias empalmadas) que se pueden formar. Para facilitar dicha exploración, se puede ingresar una lista de preferencias con las que se evalúan y ordenan los horarios tal que aquellos que mejor cumplan con ellas se muestran primero. 
 
