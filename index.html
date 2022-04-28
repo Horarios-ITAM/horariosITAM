@@ -214,10 +214,10 @@
                 if(!mobile){
                     document.getElementById("space").style="width:60px;";
                     document.getElementById("resultados").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile);
+                }else{
+                    //document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile)+"<p>mobile detected - site designed for desktop</p>";
                     //Saltar a resultados
                     document.getElementById("resultados").scrollIntoView(true); 
-                }else{
-                    document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile)+"<p>mobile detected - site designed for desktop</p>";
                 }
                 actualizaBotonGuardar();
             }
