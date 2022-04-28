@@ -3,13 +3,13 @@
         <title>Planea Horario ITAM</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!--Contiene declaraciones de clases que se usan-->
-        <script src="classes.js"></script>
+        <script src="js/classes.js"></script>
         <!--Contiene los datos de horarios y de MisProfes.com-->
-        <script src="data.js"></script>
+        <script src="js/data.js"></script>
         <!--Contiene el javascript principal-->
-        <script src="main.js"></script>
+        <script src="js/main.js"></script>
         <!--Contiene metodos para generar y controlar elementos de UI-->
-        <script src="uiUtils.js"></script>
+        <script src="js/uiUtils.js"></script>
         <!--CSS-->
         <link rel="stylesheet" href="style.css">
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -214,6 +214,8 @@
                 if(!mobile){
                     document.getElementById("space").style="width:60px;";
                     document.getElementById("resultados").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile);
+                    //Saltar a resultados
+                    document.getElementById("resultados").scrollIntoView(true); 
                 }else{
                     document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile)+"<p>mobile detected - site designed for desktop</p>";
                 }
