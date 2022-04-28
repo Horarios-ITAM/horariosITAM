@@ -215,9 +215,9 @@
                     document.getElementById("space").style="width:60px;";
                     document.getElementById("resultados").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile);
                 }else{
-                    //document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile)+"<p>mobile detected - site designed for desktop</p>";
+                    document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile);
                     //Saltar a resultados
-                    document.getElementById("resultados").scrollIntoView(true); 
+                    document.getElementById("resultados_mobile").scrollIntoView(true); 
                 }
                 actualizaBotonGuardar();
             }
