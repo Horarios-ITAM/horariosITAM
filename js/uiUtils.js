@@ -63,9 +63,9 @@ function agregar(nombreClase){
     }   
     //Agregamos banner de "Clases Seleccionadas:" si es la primera que agregamos
     if(Object.keys(clasesSeleccionadas).length==0 && nombreClase.length>0){ //TODO checa si el nombre/clave si existe
-        var out = document.createElement('p'); // is a node
+        var out = document.createElement('h4'); // is a node
         out.setAttribute("name", "clases_agregadas_banner");
-        out.innerHTML = '<b>Clases seleccionadas:</b>';
+        out.innerHTML = '<b>Clases seleccionadas</b>';
         document.getElementById("clases_en_horario").appendChild(out);
     }         
     //Construimos clase y agregamos a clasesSeleccionadas 
@@ -84,16 +84,45 @@ function agregar(nombreClase){
 //Guarda el horario que se esta mostrando actualmente en horariosFavoritos
 function guardarHorario(){
     let i=horariosFavoritos.indexOf(horariosGenerados[resultado]);
-    if(i<0){
-        horariosFavoritos.push(horariosGenerados[resultado]);
-    }else{
+    let h=horariosGenerados[resultado];
+    if(i<0){ // Si no esta en favoritos
+        horariosGenerados.splice(horariosFavoritos.length,0,h);
+        horariosFavoritos.push(h);
+        resultado++;
+    }else{  // Si ya esta en favoritos
         horariosFavoritos.splice(i,1);
+        let iF=horariosGenerados.indexOf(h);
+        horariosGenerados.splice(iF,1);
+        resultado--;
     }
     actualizaBotonGuardar();
+    actualizarGuardadosHTML();
 }
 function actualizaBotonGuardar(){
     let i=horariosFavoritos.indexOf(horariosGenerados[resultado]);
     document.getElementById("guardar").value=(i<0?"☆":"★");
+}
+function actualizarGuardadosHTML(){
+    let favElem=document.getElementById("favoritos");
+    favElem.innerHTML="";
+    if(horariosFavoritos.length>0){
+        let out=document.createElement("h4");
+        out.innerHTML="<b>Opciones guardadas</b>";
+        favElem.appendChild(out);
+        
+        let list=document.createElement("ul");
+        list.style="padding:0px;margin:0px;list-style-type:none;";
+        let i=1;
+        for(let horario of horariosFavoritos){
+            let temp=document.createElement("li");
+            temp.style="margin-bottom:5px;";
+            temp.innerHTML="<span style='color:black;' onclick='actualizarResultado("+(i-1)+")'>OPCIÓN "+i+"</span>";
+            i++;
+            list.appendChild(temp);
+        }
+        favElem.appendChild(list);
+    }
+
 }
 
 //Lee valores de la forma de preferencias y los usa para construir un objecto de Preferencias
@@ -196,7 +225,11 @@ function actualizarResultado(indiceNuevo){
     if(indiceNuevo>=0 && indiceNuevo<horariosGenerados.length){
         let horario=horariosGenerados[indiceNuevo];
         document.getElementById("tabla").innerHTML=tablaHTMLhorario(horario,mobile);
-        document.getElementById("resultado_count").innerHTML='<b>Resultado '+(indiceNuevo+1)+' de '+horariosGenerados.length+'</b>';
+        if(indiceNuevo<horariosFavoritos.length){
+            document.getElementById("resultado_count").innerHTML='<b>Opción '+(indiceNuevo+1)+' de '+horariosFavoritos.length+'</b>';
+        }else{
+            document.getElementById("resultado_count").innerHTML='<b>Resultado '+(indiceNuevo+1-horariosFavoritos.length)+' de '+(horariosGenerados.length-horariosFavoritos.length)+'</b>';
+        }
         document.getElementById("puntaje").innerHTML='<b>Puntaje: '+parseInt(horario.puntaje)+'/100</b>';
         resultado=indiceNuevo;
         //Actualiza el boton de guardar
@@ -212,7 +245,7 @@ function resultadosHTML(horario,nResultados,mobile){
     //Boton de Anterior
     buttons+=' <input type="button" onclick="actualizarResultado(resultado-1);" value="Anterior"/>';
     //Boton de Imprimir
-    buttons+=' <input type="button" onclick="imprimir()" value="Imprimir"/>';
+    //buttons+=' <input type="button" onclick="imprimir()" value="Imprimir"/>';
     //Boton de Agregar a favoritos
     buttons+=' <input type="button" id="guardar" onclick="guardarHorario()" value="Guardar"/>';
     //Boton de Siguiente

@@ -139,12 +139,22 @@
                     <div id="content">
                     <center>
                         <center>
-                        <table border=0 style="padding:0px;"><tr style="padding:0px"><td style="padding:0px">
-                        </center>
-                            <div id='clases_actuales' style="padding:0px;">
-                                <ul id='clases_en_horario' style="padding:0px"></ul>
-                            </div>
-                        </td></tr></table>
+                        <table border=0 style="padding:0px;">
+                            <tr style="padding:0px">
+                                <td style="padding:0px">
+                                    </center>
+                                    <div id='favoritos' style="padding:0px;"></div>
+                                </td>
+                            </tr>
+                            <tr style="padding:0px">
+                                <td style="padding:0px">
+                                    </center>
+                                    <div id='clases_actuales' style="padding:0px;">
+                                        <ul id='clases_en_horario' style="padding:0px"></ul>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
                     </div>
                 </td>
                 <td id="space"></td> <!--Espacio entre menu principal y la columna "Resultados" (en escritorio)-->
@@ -226,7 +236,9 @@
                         alert("Imposible generar horarios con los grupos ingresados.");
                         return;
                     }
-                    horariosGenerados=horarios;
+                    horariosGenerados=[];
+                    horariosGenerados.push(...horariosFavoritos);
+                    horariosGenerados.push(...horarios);
                 }else{
                     //horarios=sampleo();
                 }
