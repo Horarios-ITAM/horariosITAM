@@ -249,19 +249,20 @@
                 mostrar();
                 
             }
-
+            // Muestra la tabla de resultados
             function mostrar(){
                 if(!mobile){
                     document.getElementById("space").style="width:60px;";
-                    document.getElementById("resultados").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile);
+                    document.getElementById("resultados").innerHTML=resultadosHTML(horariosGenerados[0],horariosGenerados.length,mobile);
                 }else{
-                    document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile);
+                    document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horariosGenerados[0],horariosGenerados.length,mobile);
                     //Saltar a resultados
                     scrollToResultados();
                 }
                 actualizaBotonGuardar();
             }
 
+            // Enfoca la tabla de resultados para movil
             function scrollToResultados(){
                 document.getElementById("resultados_mobile").scrollIntoView(true);
             }
