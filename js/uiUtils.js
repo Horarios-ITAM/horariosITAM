@@ -138,6 +138,7 @@ function cargaHorariosFavoritos(){
             out.push(horarioFromJSON(horarioJSON));
         horariosFavoritos=out.slice();
         horariosGenerados=out.slice();
+        actualizarGuardadosHTML();
     }
 }
 
