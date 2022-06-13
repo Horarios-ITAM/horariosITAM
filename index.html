@@ -194,6 +194,8 @@
             let resultado=0; //el horarioGenerado desplegado actualmente 
             cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
             cargaHorariosFavoritos();
+            if(!horariosGenerados.isNaN() && horariosGenerados.length>0)
+                mostrar();
 
             //Regresa clasesSeleccionadas pero solo con grupos seleccionados
             function clasesSeleccionadasFiltradas(clasesSeleccionadas,preferencias){
@@ -244,15 +246,24 @@
                     //horarios=sampleo();
                 }
                 //Mostramos
+                mostrar();
+                
+            }
+
+            function mostrar(){
                 if(!mobile){
                     document.getElementById("space").style="width:60px;";
                     document.getElementById("resultados").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile);
                 }else{
                     document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horarios[0],horarios.length,mobile);
                     //Saltar a resultados
-                    document.getElementById("resultados_mobile").scrollIntoView(true); 
+                    scrollToResultados();
                 }
                 actualizaBotonGuardar();
+            }
+
+            function scrollToResultados(){
+                document.getElementById("resultados_mobile").scrollIntoView(true);
             }
 
         </script>
