@@ -63,7 +63,7 @@ function agregar(nombreClase){
     }   
     //Agregamos banner de "Clases Seleccionadas:" si es la primera que agregamos
     if(Object.keys(clasesSeleccionadas).length==0 && nombreClase.length>0){ //TODO checa si el nombre/clave si existe
-        var out = document.createElement('h4'); // is a node
+        var out = document.createElement('h3'); // is a node
         out.setAttribute("name", "clases_agregadas_banner");
         out.innerHTML = '<b>Clases seleccionadas</b>';
         document.getElementById("clases_en_horario").appendChild(out);
@@ -107,7 +107,7 @@ function actualizarGuardadosHTML(){
     let favElem=document.getElementById("favoritos");
     favElem.innerHTML="";
     if(horariosFavoritos.length>0){
-        let out=document.createElement("h4");
+        let out=document.createElement("h3");
         out.innerHTML="<b>Opciones guardadas</b>";
         favElem.appendChild(out);
         
@@ -122,6 +122,7 @@ function actualizarGuardadosHTML(){
             list.appendChild(temp);
         }
         favElem.appendChild(list);
+        favElem.appendChild(document.createElement("br"));
     }
 }
 // Actualiza el valor del cookie favoritos con horariosFavoritos
