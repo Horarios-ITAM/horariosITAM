@@ -374,7 +374,7 @@ function imprimir(){
 function cargaDeCookies(){
     //Carga clases guardadas
     let nombresClases=getCookie("clasesSeleccionadas");
-    if(nombresClases.length>0 && confirm("Usar lista de clases guardada?")){  
+    if(nombresClases.length>0){  
         for(let nombreClase of nombresClases.split('*')){
             //Checa si esta en datos
             if(claveDeNombre(nombreClase) in clases){  

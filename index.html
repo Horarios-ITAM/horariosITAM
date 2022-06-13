@@ -194,8 +194,10 @@
             let resultado=0; //el horarioGenerado desplegado actualmente 
 
             //Cargamos datos guardados en cookies
-            cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
-            cargaHorariosFavoritos();
+            if(confirm("Usar información guardada?")){
+                cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
+                cargaHorariosFavoritos();
+            }
             if(horariosGenerados.length>0){
                 mostrar();
                 actualizarResultado(0);
