@@ -130,10 +130,11 @@ function actualizaCookieFavoritos(){
 }
 // Checa si existe cookie "favoritos" y carga a favoritos y generados.
 function cargaHorariosFavoritos(){
-    let favs=JSON.parse(getCookie("favoritos"));
+    let favs=getCookie("favoritos");
     if(favs.length>0){
+        let json=JSON.parse(favs);
         let out=[];
-        for(let horarioJSON of favs)
+        for(let horarioJSON of json)
             out.push(horarioFromJSON(horarioJSON));
         horariosFavoritos=out.slice();
         horariosGenerados=out.slice();
