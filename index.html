@@ -196,8 +196,10 @@
             //Cargamos datos guardados en cookies
             cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
             cargaHorariosFavoritos();
-            if(horariosGenerados.length>0)
+            if(horariosGenerados.length>0){
                 mostrar();
+                actualizarResultado(0);
+            }
 
             //Regresa clasesSeleccionadas pero solo con grupos seleccionados
             function clasesSeleccionadasFiltradas(clasesSeleccionadas,preferencias){
@@ -250,19 +252,19 @@
                 }
                 //Mostramos
                 mostrar();
+                actualizarResultado(horariosFavoritos.length);
                 
             }
             // Muestra la tabla de resultados
             function mostrar(){
                 if(!mobile){
                     document.getElementById("space").style="width:60px;";
-                    document.getElementById("resultados").innerHTML=resultadosHTML(horariosGenerados[0],horariosGenerados.length,mobile);
+                    document.getElementById("resultados").innerHTML=resultadosHTML(horariosGenerados[horariosFavoritos.length],horariosGenerados.length,mobile);
                 }else{
-                    document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horariosGenerados[0],horariosGenerados.length,mobile);
+                    document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horariosGenerados[horariosFavoritos.length],horariosGenerados.length,mobile);
                     //Saltar a resultados
                     scrollToResultados();
                 }
-                actualizarResultado(0);
                 actualizaBotonGuardar();
             }
 

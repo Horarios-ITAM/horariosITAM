@@ -117,7 +117,7 @@ function actualizarGuardadosHTML(){
         for(let horario of horariosFavoritos){
             let temp=document.createElement("li");
             temp.style="margin-bottom:5px;";
-            temp.innerHTML="<span style='color:black;' onclick='actualizarResultado("+(i-1)+")'>OPCIÓN "+i+"</span>";
+            temp.innerHTML="<span style='color:black;' onclick='actualizarResultado("+(i-1)+")'>Opción "+i+"</span>";
             i++;
             list.appendChild(temp);
         }
