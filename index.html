@@ -189,12 +189,14 @@
             //Variables globales para navegacion
             let clasesSeleccionadas={};
             let mobile=window.innerWidth <= 800;
-            let horariosGenerados=NaN;
+            let horariosGenerados=[];
             let horariosFavoritos=[];
             let resultado=0; //el horarioGenerado desplegado actualmente 
+
+            //Cargamos datos guardados en cookies
             cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
             cargaHorariosFavoritos();
-            if(!isNaN(horariosGenerados) && horariosGenerados.length>0)
+            if(horariosGenerados.length>0)
                 mostrar();
 
             //Regresa clasesSeleccionadas pero solo con grupos seleccionados
@@ -230,8 +232,9 @@
                 for(let clase of Object.values(conGruposFiltrados))
                     nombresClasesSeleccionadas.push(clase.nombre);
                 setCookie("clasesSeleccionadas",nombresClasesSeleccionadas.join("*"),30);
+
                 //Generacion
-                let horarios=NaN;
+                let horarios=[];
                 if(preferencias.generacion=="todos"){
                     console.log("Generando todos");
                     horarios=generarTodosHorarios(conGruposFiltrados,preferencias);
