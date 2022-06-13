@@ -194,7 +194,7 @@
             let resultado=0; //el horarioGenerado desplegado actualmente 
             cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
             cargaHorariosFavoritos();
-            if(!horariosGenerados.isNaN() && horariosGenerados.length>0)
+            if(!isNaN(horariosGenerados) && horariosGenerados.length>0)
                 mostrar();
 
             //Regresa clasesSeleccionadas pero solo con grupos seleccionados
