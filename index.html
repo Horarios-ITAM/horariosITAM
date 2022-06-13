@@ -194,7 +194,7 @@
             let resultado=0; //el horarioGenerado desplegado actualmente 
 
             //Cargamos datos guardados en cookies
-            if(confirm("Usar información guardada?")){
+            if((getCookie("favoritos").length>0 || getCookie("clasesSeleccionadas").length>0)&& confirm("Usar información guardada?")){
                 cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
                 cargaHorariosFavoritos();
             }
