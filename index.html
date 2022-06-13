@@ -257,11 +257,12 @@
             }
             // Muestra la tabla de resultados
             function mostrar(){
+                let index=horariosFavoritos.length>0?horariosFavoritos:0;
                 if(!mobile){
                     document.getElementById("space").style="width:60px;";
-                    document.getElementById("resultados").innerHTML=resultadosHTML(horariosGenerados[horariosFavoritos.length],horariosGenerados.length,mobile);
+                    document.getElementById("resultados").innerHTML=resultadosHTML(horariosGenerados[index],horariosGenerados.length,mobile);
                 }else{
-                    document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horariosGenerados[horariosFavoritos.length],horariosGenerados.length,mobile);
+                    document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horariosGenerados[index],horariosGenerados.length,mobile);
                     //Saltar a resultados
                     scrollToResultados();
                 }
