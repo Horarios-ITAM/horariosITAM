@@ -97,6 +97,7 @@ function guardarHorario(){
     }
     actualizaBotonGuardar();
     actualizarGuardadosHTML();
+    actualizaCookieFavoritos();
 }
 function actualizaBotonGuardar(){
     let i=horariosFavoritos.indexOf(horariosGenerados[resultado]);
@@ -122,7 +123,21 @@ function actualizarGuardadosHTML(){
         }
         favElem.appendChild(list);
     }
-
+}
+// Actualiza el valor del cookie favoritos con horariosFavoritos
+function actualizaCookieFavoritos(){
+    setCookie("favoritos",JSON.stringify(horariosFavoritos),30);
+}
+// Checa si existe cookie "favoritos" y carga a favoritos y generados.
+function cargaHorariosFavoritos(){
+    let favs=JSON.parse(getCookie("favoritos"));
+    if(favs.length>0){
+        let out=[];
+        for(let horarioJSON of favs)
+            out.push(horarioFromJSON(horarioJSON));
+        horariosFavoritos=out.slice();
+        horariosGenerados=out.slice();
+    }
 }
 
 //Lee valores de la forma de preferencias y los usa para construir un objecto de Preferencias

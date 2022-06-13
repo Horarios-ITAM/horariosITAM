@@ -7,6 +7,14 @@ class Profesor{
         this.misProfesLink=misProfesLink;
     }
 }
+function profesorFromJSON(json){
+    return new Profesor(
+        json["nombre"],
+        json["misProfesGeneral"],
+        json["misProfesN"],
+        json["misProfesLink"]
+    );
+}
 //De datos
 class Clase{
     constructor(nombre,clave,grupos){
@@ -29,8 +37,23 @@ class Grupo{
         this.dtFin=dtFin; //Date
         this.horario=horario;
     }
-
 }
+
+function grupoFromJSON(json){
+    return new Grupo(
+        json["numero"],
+        json["claveClase"],
+        profesorFromJSON(json["profesor"]),
+        json["salon"],
+        json["dias"],
+        json["inicio"],
+        json["fin"],
+        new Date(json["dtInicio"]),
+        new Date(json["dtFin"]),
+        json["horario"]
+    );
+}
+
 class Preferencias{
     constructor(misProfes,misProfesPeso,juntas,juntasPeso,rangoStart,
         rangoEnd,rangoPeso,diaMenos,diaMenosPeso,gruposSeleccionados,nGruposSeleccionados,generacion){
@@ -53,6 +76,15 @@ class Horario{
     constructor(grupos,puntaje){
         this.grupos=grupos;
         this.puntaje=puntaje;
-
     }    
 }
+
+function horarioFromJSON(json){
+    let grupos=[];
+    for(let grupoJSON of json["grupos"])
+        grupos.push(grupoFromJSON(grupoJSON));
+    return new Horario(
+        grupos,
+        json["puntaje"]
+    );
+}   

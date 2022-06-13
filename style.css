@@ -39,8 +39,13 @@ body{
     height: 10px;
     background-color: #006646;
 }
-h1,h2,h3,h4{
+h1,h2,h3{
     color:#006646;
+}
+h4{
+    color:#006646;
+    margin-bottom: 5px;
+
 }
 wrapper {
     margin: auto;
