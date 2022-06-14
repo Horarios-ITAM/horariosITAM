@@ -90,6 +90,8 @@
             }
 
             function llenarResultado(nombre){
+                if(!(nombre in profesores))
+                    return;
                 let profesor=profesores[nombre];
                 console.log(nombre);
                 console.log(profesor);
