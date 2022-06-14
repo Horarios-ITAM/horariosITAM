@@ -2,12 +2,22 @@
 
 Página web que le ayuda a estudiantes de licenciatura del ITAM a planear su horario.    
     
-Estudiantes pueden ingresar las clases que desean cursar y después explorar todos los posibles horarios válidos (sin materias empalmadas) que se pueden formar. Para facilitar dicha exploración, se puede ingresar una lista de preferencias con las que se evalúan y ordenan los horarios tal que aquellos que mejor cumplan con ellas se muestran primero. 
+## Descripción del proyecto
 
-El/la estudiante puede ingresar como preferencias, por ejemplo, 
-- que sus profesores tengan evaluaciones altas (en MisProfes.com),
-- que sus clases empiecen a partir de las 9 am todos los días y 
-- que los días con menos clases sean los viernes.
+El usuario puede ingresar las clases que desea cursar y después explorar todos los posibles horarios válidos que se pueden formar (sin materias empalmadas). Para facilitar la exploración, se puede ingresar una lista de preferencias con las que se evalúan y ordenan los horarios, de tal forma que aquellos que mejor cumplan con ellas se muestran primero. 
+
+El usuario puede preferir, por ejemplo, que
+
+- sus profesores tengan evaluaciones altas (en MisProfes.com),
+- sus clases empiecen a partir de las 9 am todos los días y 
+- los días con menos clases sean los viernes.
+
+
+## Tecnologías Utilizadas
+
+- HTML5 y Javascript para la implementación de la página, usando elementos DOM para hacerla interactiva.
+- GitHub Pages para hostear la página.  
+- Python 3.9 y BeautifulSoup para el scrapeo de datos.
 
 ## Datos
 
