@@ -94,6 +94,10 @@ function guardarHorario(){
         let iF=horariosGenerados.indexOf(h);
         horariosGenerados.splice(iF,1);
         resultado--;
+        resultado=Math.max(0,resultado);
+    }
+    if(resultado<horariosGenerados.length){
+        actualizarResultado(resultado);
     }
     actualizaBotonGuardar();
     actualizarGuardadosHTML();
