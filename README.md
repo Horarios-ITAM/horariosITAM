@@ -1,6 +1,6 @@
 # Planea tu horario ITAM
 
-Página web que le ayuda a estudiantes de licenciatura del ITAM a planear su horario.    
+[Página web](https://horariositam.com/) que le ayuda a estudiantes de licenciatura del ITAM a planear su horario.    
     
 ## Descripción del proyecto
 
