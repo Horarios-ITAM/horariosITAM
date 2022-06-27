@@ -213,8 +213,6 @@ function _generarTodosHorarios(listaDeClases,i,horarioTemp,horarios,mismoGrupo){
     }
     // Si clase es lab y mismoGrupo teoria y lab
     if(mismoGrupo && listaDeClases[i].nombre.indexOf('-LAB')>=0){
-        console.log(horarioTemp);
-        console.log(listaDeClases[i].clave);
         for(let numeroGrupo in horarioTemp.grupos){
             if(listaDeClases[i].clave.startsWith(horarioTemp.grupos[numeroGrupo].claveClase)){
                 let n=horarioTemp.grupos[numeroGrupo].numero+'L';
@@ -253,8 +251,6 @@ function generarTodosHorarios(clasesSeleccionadas,preferencias){
     for(let horario of horarios)
         horario.puntaje=evaluaHorario(horario,preferencias);
     horarios.sort((a,b)=> b.puntaje-a.puntaje);
-    //console.log("horarios");
-    //console.log(horarios);
     return horarios;
 }
 
