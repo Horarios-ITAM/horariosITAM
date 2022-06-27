@@ -162,7 +162,7 @@ function tiempoEntreClases(horario){
             total+=dif;
         }
     }
-    console.log(tiempo);
+    //console.log(tiempo);
     return total;
     
 }
@@ -187,10 +187,10 @@ function evaluaHorario(horario,preferencias){
     let rangoHorario=rangoPuntaje(horario,preferencias.rangoStart,preferencias.rangoEnd)*preferencias.rangoPeso;
     //Clases Juntas/Separadas TODO
     let juntasSeparadas=puntajeJuntasSeparadas(horario,preferencias.juntas);
-    console.log(promedioMisProfes);
-    console.log(diaConMenos);
-    console.log(rangoHorario);
-    console.log(juntasSeparadas);
+    //console.log(promedioMisProfes);
+    //console.log(diaConMenos);
+    //console.log(rangoHorario);
+    //console.log(juntasSeparadas);
     //Sumas
     let sumaPesos=preferencias.misProfesPeso+preferencias.diaMenosPeso+preferencias.rangoPeso;
     let sumaPonderada=(promedioMisProfes+diaConMenos+rangoHorario)/sumaPesos;
@@ -204,19 +204,37 @@ function evaluaHorario(horario,preferencias){
 
 //TODOS
 //Ayudador recursivo
-function _generarTodosHorarios(listaDeClases,i,horarioTemp,horarios){
+function _generarTodosHorarios(listaDeClases,i,horarioTemp,horarios,mismoGrupo){
     if(i>=listaDeClases.length){
         if(empalmes(horarioTemp.grupos)==0){ //grupos es lista? si
             horarios.push(horarioTemp);    
         }
         return;
     }
+    // Si clase es lab y mismoGrupo teoria y lab
+    if(mismoGrupo && listaDeClases[i].nombre.indexOf('-LAB')>=0){
+        console.log(horarioTemp);
+        console.log(listaDeClases[i].clave);
+        for(let numeroGrupo in horarioTemp.grupos){
+            if(listaDeClases[i].clave.startsWith(horarioTemp.grupos[numeroGrupo].claveClase)){
+                let n=horarioTemp.grupos[numeroGrupo].numero+'L';
+                let grupo=listaDeClases[i].grupos[n];
+                let nuevosGrupos=horarioTemp.grupos.slice();
+                nuevosGrupos.push(grupo);
+                let h=new Horario(nuevosGrupos,0);
+                _generarTodosHorarios(listaDeClases,i+1,h,horarios,mismoGrupo);
+                return;
+            }else{
+                console.log("Todavia no hay teoria");
+            }
+        }
+    }
     for(let numeroGrupo in listaDeClases[i].grupos){
         let grupo=listaDeClases[i].grupos[numeroGrupo];
         let nuevosGrupos=horarioTemp.grupos.slice();
         nuevosGrupos.push(grupo);
-        let h=new Horario(nuevosGrupos,0); //TODO checar porque no puedo hacer push pop en vez de crear copia
-        _generarTodosHorarios(listaDeClases,i+1,h,horarios);
+        let h=new Horario(nuevosGrupos,0); //TODO checar por que no puedo hacer push pop en vez de crear copia
+        _generarTodosHorarios(listaDeClases,i+1,h,horarios,mismoGrupo);
     }
 }
 //Genera todas las combinaciones de grupos que no se empalman y regresa una lista de objectos Horario
@@ -226,8 +244,11 @@ function generarTodosHorarios(clasesSeleccionadas,preferencias){
     let listaDeClases=[];
     for(let clave in clasesSeleccionadas)
         listaDeClases.push(clasesSeleccionadas[clave]);
-    
-    _generarTodosHorarios(listaDeClases,0,new Horario([],0),horarios);
+    //Ordenamos para que labs siempre esten despues de teoria
+    listaDeClases.sort((a,b)=> a.clave.indexOf('LAB')-b.clave.indexOf('LAB'));
+
+    _generarTodosHorarios(listaDeClases,0,new Horario([],0),horarios,preferencias.mismoGrupo);
+
     //Evaluamos y ordenamos descendientemente
     for(let horario of horarios)
         horario.puntaje=evaluaHorario(horario,preferencias);

@@ -56,7 +56,7 @@ function grupoFromJSON(json){
 
 class Preferencias{
     constructor(misProfes,misProfesPeso,juntas,juntasPeso,rangoStart,
-        rangoEnd,rangoPeso,diaMenos,diaMenosPeso,gruposSeleccionados,nGruposSeleccionados,generacion){
+        rangoEnd,rangoPeso,diaMenos,diaMenosPeso,gruposSeleccionados,nGruposSeleccionados,generacion,mismoGrupo){
             this.misProfes=misProfes;
             this.misProfesPeso=misProfesPeso;
             this.juntas=juntas;
@@ -69,6 +69,7 @@ class Preferencias{
             this.gruposSeleccionados=gruposSeleccionados;
             this.nGruposSeleccionados=nGruposSeleccionados;
             this.generacion=generacion;
+            this.mismoGrupo=mismoGrupo;
         }
 }
 //A construir

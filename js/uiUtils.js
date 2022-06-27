@@ -162,6 +162,8 @@ function getPreferencias(){
     //Dia con menos clases
     let dia=document.getElementsByName('dia')[0].value;
     let peso_dia=parseFloat(document.getElementsByName('peso_dia')[0].value)/100;
+    //Mismo grupo teoria y lab
+    let mismoGrupo=document.getElementById('mismo_grupo_box').checked;
     //Metodo de generacion
     //let generacion=document.getElementsByName("metodoGeneracion")[0].value;
     let generacion="todos";
@@ -188,11 +190,12 @@ function getPreferencias(){
         dia,peso_dia,
         gruposSeleccionados,
         nGruposSeleccionados,
-        generacion
+        generacion,
+        mismoGrupo
     );
     console.log(preferencias);
     return preferencias;
-}
+}   
 
 
 //Callback para el checkbox que selecciona/deselecciona todos los grupos en la tabla de detalles
