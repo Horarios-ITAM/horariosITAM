@@ -51,11 +51,15 @@ function eliminar(nombreClase){
     }
 }
 //Cuando se oprime el boton "Agregar"
-function agregar(nombreClase){
+function agregar(nombreClase,deGuardadas){
     let clave=claveDeNombre(nombreClase);
 
+    if(deGuardadas===undefined)
+        deGuardadas=false;
+
     if(clave in clasesSeleccionadas){
-        alert("Ya agregaste esta clase");
+        if(!deGuardadas)
+            alert("Ya agregaste esta clase");
         return;
     }else if(!(clave in clases)){
         alert("Clase no existe. Haz click en la clase que deseas agregar en el menu que aparece cuando empiezas a escribir el nombre de la clase.");
@@ -385,7 +389,7 @@ function cargaDeCookies(){
         for(let nombreClase of nombresClases.split('*')){
             //Checa si esta en datos
             if(claveDeNombre(nombreClase) in clases){  
-                agregar(nombreClase);
+                agregar(nombreClase,true);
             }
         }
     }
