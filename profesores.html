@@ -9,7 +9,7 @@
         <!--Contiene declaraciones de clases que se usan-->
         <script src="js/classes.js"></script>
         <!--Contiene los grupos y evaluaciones de los profesores-->
-        <script src="js/profesores.js"></script>
+        <script src="js/profesoresTemp.js"></script>
         <!--CSS-->
         <link rel="stylesheet" href="style.css"> 
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -35,7 +35,9 @@
                         <a href="index.html">Planea Horario</a> |
                         <a href="mailto:sugerencias@horariositam.com">Sugerencias</a>
                     <br><br>
-                    <small id="datosSemestre">(Datos PRIMAVERA 2022)</small>
+                    <small id="datosSemestre">Datos ...</small>
+                    <br>
+                    <small id="actualizadoHace"></small>
                     <br><br>
                     <div id="main_form">
                         <form id="clases_form">
@@ -48,7 +50,7 @@
                     <br>
                     
                     <div id="enLoMientras">
-                        En lo mientras puedes ver a los mejores profesores por departamento<br>(de acuerdo a <a target="_blank" href="https://www.misprofesores.com/">MisProfes.com</a>)
+                        Por lo mientras puedes ver a los mejores profesores por departamento<br>(de acuerdo a <a target="_blank" href="https://www.misprofesores.com/">MisProfes.com</a>)
                     </div>
                     
                 </td>
@@ -69,7 +71,9 @@
         <script>
             //Cargar constantes ubicadas en data.js
             //"Datos [Semestre] [Año]"
-            document.getElementById("datosSemestre").innerHTML='(Datos '+periodo+')';
+            document.getElementById("datosSemestre").innerHTML='Datos '+periodo;
+            document.getElementById("actualizadoHace").innerHTML='Actualizados hace '+timeSince(new Date(parseInt(actualizado)));
+            
             //Valores para links a grace
             document.getElementsByName("detalles")[0].action=formPostUrl;
             document.getElementsByName("s")[0].value=sGrace;
@@ -184,6 +188,32 @@
                     enLoMientas.appendChild(list);
 
                 }
+            }
+            function timeSince(date) {
+                var seconds = Math.floor((new Date() - date) / 1000);
+            
+                var interval = seconds / 31536000;
+            
+                if (interval > 1) {
+                return Math.floor(interval) + " años";
+                }
+                interval = seconds / 2592000;
+                if (interval > 1) {
+                return Math.floor(interval) + " meses";
+                }
+                interval = seconds / 86400;
+                if (interval > 1) {
+                return Math.floor(interval) + " días";
+                }
+                interval = seconds / 3600;
+                if (interval > 1) {
+                return Math.floor(interval) + " horas";
+                }
+                interval = seconds / 60;
+                if (interval > 1) {
+                return Math.floor(interval) + " minutos";
+                }
+                return Math.floor(seconds) + " segundos";
             }
 
         </script>

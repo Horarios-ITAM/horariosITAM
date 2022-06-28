@@ -1,7 +1,7 @@
 
 from graceScrapper import GraceScrapper
 from misProfesScrapper import MisProfesScrapper
-import json
+import json,time
 from utils import claveToDepto
 
 def profesoresData(clases):
@@ -53,20 +53,34 @@ def mejoresProfesPorDepartamento(profesores,n=10):
 
 
 if __name__=="__main__":
+    # Constantes
     dataFile="../js/dataTemp.js"
     profesoresDataFile="../js/profesoresTemp.js"
     misProfesUrl="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003"
     profesoresMatchRate=0.8
+    scrappearMisProfes=False
+    misProfesBufferFile="misProfesData.json"
 
+    ahora=time.time()*1000 # En milisegundos
+
+    # Scrapeamos Grace
     grace=GraceScrapper()
     grace.scrap()
 
-    misProfes=MisProfesScrapper(misProfesUrl)
-    misProfes.scrap()
-    misProfesData=misProfes.match(grace.profesores,profesoresMatchRate)
+    # Scrapeamos o cargamos de buffer datos de MisProfes
+    if scrappearMisProfes:
+        misProfes=MisProfesScrapper(misProfesUrl)
+        misProfes.scrap()
+        misProfesData=misProfes.match(grace.profesores,profesoresMatchRate)
+    else:
+        with open(misProfesBufferFile,"r") as f:
+            misProfesData=json.loads(f.read())
+            print("Usando datos guardados de MisProfes")
 
+    # Escribimos datos de clases y misProfes (usados en index.html)
     with open(dataFile,"w+") as f:
-        f.write("let periodo='"+grace.periodo+"';")
+        f.write("let actualizado='"+str(ahora)+"';")
+        f.write("\nlet periodo='"+grace.periodo+"';")
         f.write("\nlet sGrace='"+grace.s+"';")
         f.write("\nlet dropDownUrl='"+grace.dropDownURL+"';")
         f.write("\nlet formPostUrl='"+grace.formURL+"';")
@@ -76,12 +90,17 @@ if __name__=="__main__":
 
         print("Se escribieron datos en {}".format(dataFile))
     
+    # Guardamos buffer de misProfesData
+    with open(misProfesBufferFile,"w+") as f:
+        f.write(json.dumps(misProfesData))
+    
     # Datos para profesores.html
     profesores=profesoresData(grace.clases)
     mejoresPorDepto=mejoresProfesPorDepartamento(profesores)
 
     with open(profesoresDataFile,"w+") as f:
-        f.write("let periodo='"+grace.periodo+"';")
+        f.write("let actualizado='"+str(ahora)+"';")
+        f.write("\nlet periodo='"+grace.periodo+"';")
         f.write("\nlet sGrace='"+grace.s+"';")
         f.write("\nlet dropDownUrl='"+grace.dropDownURL+"';")
         f.write("\nlet formPostUrl='"+grace.formURL+"';")

@@ -25,7 +25,7 @@
         <!--Contiene declaraciones de clases que se usan-->
         <script src="js/classes.js"></script>
         <!--Contiene los datos de horarios y de MisProfes.com-->
-        <script src="js/data.js"></script>
+        <script src="js/dataTemp.js"></script>
         <!--Contiene el javascript principal-->
         <script src="js/main.js"></script>
         <!--Contiene metodos para generar y controlar elementos de UI-->
@@ -56,7 +56,9 @@
                         <a href="profesores.html">Busca Profesores</a> |
                         <a href="mailto:sugerencias@horariositam.com">Sugerencias</a>
                     <br><br>
-                    <small id="datosSemestre">(Datos PRIMAVERA 2022)</small>
+                    <small id="datosSemestre">Datos PRIMAVERA 2022</small>
+                    <br>
+                    <small id="actualizadoHace">Actualizado hace ...</small>
                     <br><br>
                     <div id="main_form">
                         <form id="clases_form">
@@ -186,7 +188,8 @@
         <script>
             //Cargar constantes ubicadas en data.js
             //"Datos [Semestre] [Año]"
-            document.getElementById("datosSemestre").innerHTML='(Datos '+periodo+')';
+            document.getElementById("datosSemestre").innerHTML='Datos '+periodo;
+            document.getElementById("actualizadoHace").innerHTML='Actualizados hace '+timeSince(new Date(parseInt(actualizado)));
             //Valores para links a grace
             document.getElementsByName("detalles")[0].action=formPostUrl;
             document.getElementsByName("s")[0].value=sGrace;
