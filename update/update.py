@@ -54,12 +54,12 @@ def mejoresProfesPorDepartamento(profesores,n=10):
 
 if __name__=="__main__":
     # Constantes
-    dataFile="../js/dataTemp.js"
-    profesoresDataFile="../js/profesoresTemp.js"
+    dataFile="js/dataTemp.js"
+    profesoresDataFile="js/profesoresTemp.js"
     misProfesUrl="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003"
     profesoresMatchRate=0.8
     scrappearMisProfes=False
-    misProfesBufferFile="misProfesData.json"
+    misProfesBufferFile="update/misProfesData.json"
 
     ahora=time.time()*1000 # En milisegundos
 
