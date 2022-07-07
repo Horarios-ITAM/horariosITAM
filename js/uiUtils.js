@@ -429,23 +429,23 @@ function timeSince(date) {
     var interval = seconds / 31536000;
   
     if (interval > 1) {
-      return Math.floor(interval) + " años";
+      return Math.floor(interval) + " año(s)";
     }
     interval = seconds / 2592000;
     if (interval > 1) {
-      return Math.floor(interval) + " meses";
+      return Math.floor(interval) + " mese(s)";
     }
     interval = seconds / 86400;
     if (interval > 1) {
-      return Math.floor(interval) + " días";
+      return Math.floor(interval) + " día(s)";
     }
     interval = seconds / 3600;
     if (interval > 1) {
-      return Math.floor(interval) + " horas";
+      return Math.floor(interval) + " hora(s)";
     }
     interval = seconds / 60;
     if (interval > 1) {
-      return Math.floor(interval) + " minutos";
+      return Math.floor(interval) + " minuto(s)";
     }
-    return Math.floor(seconds) + " segundos";
+    return Math.floor(seconds) + " segundo(s)";
   }
