@@ -2,6 +2,7 @@
 from graceScrapper import GraceScrapper
 from misProfesScrapper import MisProfesScrapper
 import json,time
+from graceScrapperSecure import GraceScrapperSecureArea
 from utils import claveToDepto
 
 def profesoresData(clases):
@@ -54,17 +55,26 @@ def mejoresProfesPorDepartamento(profesores,n=10):
 
 if __name__=="__main__":
     # Constantes
-    dataFile="js/dataTemp.js"
-    profesoresDataFile="js/profesoresTemp.js"
+    scrapGraceSecure=True
+    credsFile="update/creds.json"
+    dataFile="js/dataTemp2.js"
+    profesoresDataFile="js/profesoresTemp2.js"
     misProfesUrl="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003"
-    profesoresMatchRate=0.8
-    scrappearMisProfes=False
+    profesoresMatchRate=0.9
+    scrappearMisProfes=True
     misProfesBufferFile="update/misProfesData.json"
 
     ahora=time.time()*1000 # En milisegundos
 
     # Scrapeamos Grace
-    grace=GraceScrapper()
+    if scrapGraceSecure:
+        # Leer usuario y passwd de grace
+        with open(credsFile,"r") as f:
+            loginData=json.loads(f.read())
+        grace=GraceScrapperSecureArea(loginData['sid'],loginData['PIN'])
+    else:
+        grace=GraceScrapper()
+
     grace.scrap()
 
     # Scrapeamos o cargamos de buffer datos de MisProfes
@@ -81,9 +91,9 @@ if __name__=="__main__":
     with open(dataFile,"w+") as f:
         f.write("let actualizado='"+str(ahora)+"';")
         f.write("\nlet periodo='"+grace.periodo+"';")
-        f.write("\nlet sGrace='"+grace.s+"';")
-        f.write("\nlet dropDownUrl='"+grace.dropDownURL+"';")
-        f.write("\nlet formPostUrl='"+grace.formURL+"';")
+        f.write("\nlet sGrace='"+('#' if scrapGraceSecure else grace.s)+"';")
+        f.write("\nlet dropDownUrl='"+('#' if scrapGraceSecure else grace.dropDownURL)+"';")
+        f.write("\nlet formPostUrl='"+('#' if scrapGraceSecure else grace.formURL)+"';")
         f.write("\nlet clases="+json.dumps(grace.clases,indent=2)+";")
 
         f.write("\nlet misProfesData="+json.dumps(misProfesData,indent=2)+";") 
@@ -101,9 +111,9 @@ if __name__=="__main__":
     with open(profesoresDataFile,"w+") as f:
         f.write("let actualizado='"+str(ahora)+"';")
         f.write("\nlet periodo='"+grace.periodo+"';")
-        f.write("\nlet sGrace='"+grace.s+"';")
-        f.write("\nlet dropDownUrl='"+grace.dropDownURL+"';")
-        f.write("\nlet formPostUrl='"+grace.formURL+"';")
+        f.write("\nlet sGrace='"+('#' if scrapGraceSecure else grace.s)+"';")
+        f.write("\nlet dropDownUrl='"+('#' if scrapGraceSecure else grace.dropDownURL)+"';")
+        f.write("\nlet formPostUrl='"+('#' if scrapGraceSecure else grace.formURL)+"';")
         f.write("\nlet profesores="+json.dumps(profesores,indent=2)+";")
         f.write("\nlet mejoresPorDepto="+json.dumps(mejoresPorDepto,indent=2)+";")
 

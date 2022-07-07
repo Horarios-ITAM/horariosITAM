@@ -55,7 +55,7 @@ class MisProfesScrapper:
         matched={}
         for m in self.data.keys():
             for p in profesores:
-                if utils.levenshteinSimilarity(p,m)>matchRate:
+                if utils.levenshtein_ratio(p,m)>matchRate:#utils.levenshteinSimilarity(p,m)>matchRate:
                     matched[p]=self.data[m]
         # Format
         links={p:d['link'] for p,d in matched.items()}

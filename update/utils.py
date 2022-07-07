@@ -1,23 +1,23 @@
 import urllib.request
 
 claveToDepto={
-    'ACT':'Actuaría y Seguros',
-    'ADM':'Administración',
-    'CDA':'Ciencia Política',
-    'CLE':'Estudios Internacionales', 
-    'COM':'Computación',
-    'CON':'Contaduria',
-    'CSO':'Ctro. De Docencia y Aprendizaje',
-    'DER':'Derecho',
-    'ECO':'Economía',
-    'EGN':'Estudios Generales',
-    'EIN':'Relaciones Internacionales',
-    'EST':'Estadística',
-    'IIO':'Industrial y Operaciones',
-    'LEN':'Lenguas',
-    'MAT':'Matemáticas',
-    'SDI':'Sistemas Digitales'
-}
+ 'ACT': 'ACTUARIA Y SEGUROS',
+ 'ADM': 'ADMINISTRACION',
+ 'CSO': 'CIENCIA POLITICA',
+ 'COM': 'COMPUTACION',
+ 'CON': 'CONTABILIDAD',
+ 'CEB': 'CTRO DE ESTUDIO DEL BIENESTAR',
+ 'DER': 'DERECHO',
+ 'ECO': 'ECONOMIA',
+ 'EST': 'ESTADISTICA',
+ 'EGN': 'ESTUDIOS GENERALES',
+ 'EIN': 'ESTUDIOS INTERNACIONALES',
+ 'IIO': 'ING. INDUSTRIAL Y OPERACIONES',
+ 'CLE': 'LENGUAS (CLE)',
+ 'LEN': 'LENGUAS (LEN)',
+ 'MAT': 'MATEMATICAS',
+ 'SDI': 'SISTEMAS DIGITALES'
+ }
 
 def getHTML(url):
     """
@@ -64,6 +64,17 @@ def levenshtein(s0, s1):
         v0, v1 = v1, v0
 
     return v0[len(s1)]
+
+def levenshtein_ratio(a,b):
+    a=a.lower().strip()
+    b=b.lower().strip()
+    edits_away=0
+    for index,letter in enumerate(a):
+        try:
+            if letter!=b[index]:edits_away+=1
+        except:edits_away+=1
+    ratio=((len(a)+len(b)) - edits_away) / (len(a)+len(b))
+    return ratio
 
 def levenshteinSimilarity(s0,s1):
     """
