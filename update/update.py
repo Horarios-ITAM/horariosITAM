@@ -57,8 +57,8 @@ if __name__=="__main__":
     # Constantes
     scrapGraceSecure=True
     credsFile="update/creds.json"
-    dataFile="js/dataTemp2.js"
-    profesoresDataFile="js/profesoresTemp2.js"
+    dataFile="js/data.js"
+    profesoresDataFile="js/profesores.js"
     misProfesUrl="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003"
     profesoresMatchRate=0.9
     scrappearMisProfes=True
