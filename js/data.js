@@ -1,4 +1,4 @@
-let actualizado='1657287264588.429';
+let actualizado='1657382142990.3628';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -20942,8 +20942,8 @@ let misProfesData={
   },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
-    "general": 9.1667,
-    "n": 90
+    "general": 9.1758,
+    "n": 91
   },
   "MARIA CANDELAS RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Candelas-Ram\u00edrez_10751",
@@ -20962,8 +20962,8 @@ let misProfesData={
   },
   "GUILLERMO CARRANCO ROMERO": {
     "link": "https://www.misprofesores.com/profesores/Guillermo-Carranco-Romero_50321",
-    "general": 8.8182,
-    "n": 22
+    "general": 8.7391,
+    "n": 23
   },
   "LUZ DEL CARMEN CARRILLO CAREAGA": {
     "link": "https://www.misprofesores.com/profesores/Luz-del-Carmen-Carrillo-Careaga_70187",
@@ -21097,8 +21097,8 @@ let misProfesData={
   },
   "FEDERICO GUILLERMO DURAND GUEVARA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
-    "general": 5.9163,
-    "n": 203
+    "general": 5.9265,
+    "n": 204
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
@@ -21312,8 +21312,8 @@ let misProfesData={
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
-    "general": 6.3529,
-    "n": 17
+    "general": 6.3333,
+    "n": 18
   },
   "CLAUDIA GUADALUPE GOMEZ WULSCHNER": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Guadalupe-Gomez-Wulshner_10714",
@@ -21456,9 +21456,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -21509,6 +21509,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -21966,9 +21971,9 @@ let misProfesData={
     "n": 17
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -22057,8 +22062,8 @@ let misProfesData={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.0526,
-    "n": 19
+    "general": 7.05,
+    "n": 20
   },
   "SERGIO MIGUEL SARMIENTO SERRANO": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
@@ -22182,8 +22187,8 @@ let misProfesData={
   },
   "JAEN DANAE TORRES DE LA ROSA": {
     "link": "https://www.misprofesores.com/profesores/Ja\u00e9n-Dana\u00e9-Torres-de-la-Rosa_74693",
-    "general": 9.1364,
-    "n": 22
+    "general": 9.0435,
+    "n": 23
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
@@ -22312,8 +22317,8 @@ let misProfesData={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.3636,
-    "n": 88
+    "general": 7.382,
+    "n": 89
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
