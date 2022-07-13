@@ -1,4 +1,4 @@
-let actualizado='1657631693204.173';
+let actualizado='1657726143650.566';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -3211,7 +3211,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "COM-16203-DES. DE APLICACS. INFORMATICAS",
-        "profesor": "",
+        "profesor": "MANUEL ALEJANDRO SANCHEZ VEGA",
         "creditos": "8",
         "horario": "17:30-19:30",
         "dias": [
@@ -18630,7 +18630,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHLSIST",
+        "salon": "RHLFIEL",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -18863,7 +18863,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-11911-ROBOTICA",
-        "profesor": "MARCO ANTONIO MORALES AGUIRRE",
+        "profesor": "ROMEO SALVADOR ORTEGA MARTINEZ",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -19402,8 +19402,8 @@ let misProfesData={
   },
   "GERMAN SINUHE AYALA FUENTES": {
     "link": "https://www.misprofesores.com/profesores/Germ\u00e1n-Sinuhe-Ayala-Fuentes_109376",
-    "general": 5.3,
-    "n": 10
+    "general": 5.2727,
+    "n": 11
   },
   "AMRITA BAHRI": {
     "link": "https://www.misprofesores.com/profesores/Amrita-Bahri_93904",
@@ -19497,8 +19497,8 @@ let misProfesData={
   },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
-    "general": 9.1758,
-    "n": 91
+    "general": 9.1739,
+    "n": 92
   },
   "MARIA CANDELAS RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Candelas-Ram\u00edrez_10751",
@@ -19639,11 +19639,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
     "general": 5.9265,
     "n": 204
-  },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
@@ -19881,9 +19876,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5625,
+    "n": 16
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19981,9 +19976,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -20012,8 +20007,8 @@ let misProfesData={
   },
   "JOSE MANUEL LECUANDA ONTIVEROS": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Lecuanda-Ontiveros_86804",
-    "general": 8.2069,
-    "n": 29
+    "general": 8.2,
+    "n": 30
   },
   "ANNAPAOLA LLANAS MEJIA": {
     "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
@@ -20101,9 +20096,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -20122,8 +20117,8 @@ let misProfesData={
   },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
-    "general": 8.1034,
-    "n": 87
+    "general": 8.0909,
+    "n": 88
   },
   "JOHN BRADFORD MCBRIDE PITTS": {
     "link": "https://www.misprofesores.com/profesores/John-Bradford-McBride-Pitts_10734",
@@ -20162,8 +20157,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.7571,
-    "n": 70
+    "general": 5.8028,
+    "n": 71
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
@@ -20312,8 +20307,8 @@ let misProfesData={
   },
   "JOSE MANUEL OROZCO GARIBAY": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
-    "general": 5.6879,
-    "n": 157
+    "general": 5.7089,
+    "n": 158
   },
   "ROMEO SALVADOR ORTEGA MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Romeo-Salvador-Ortega-Martinez_129225",
@@ -20666,9 +20661,9 @@ let misProfesData={
     "n": 43
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -20832,8 +20827,8 @@ let misProfesData={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.382,
-    "n": 89
+    "general": 7.4,
+    "n": 90
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",

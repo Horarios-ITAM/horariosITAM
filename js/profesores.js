@@ -1,4 +1,4 @@
-let actualizado='1657631693204.173';
+let actualizado='1657726143650.566';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -635,23 +635,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:30",
           "fin": "15:00"
-        }
-      ],
-      "COM-16203-DES. DE APLICACS. INFORMATICAS": [
-        {
-          "grupo": "002",
-          "nombre": "COM-16203-DES. DE APLICACS. INFORMATICAS",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "17:30-19:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHCC102",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
         }
       ],
       "CON-10011-CONT.Y VALUAC. DE INSTR. FINAN": [
@@ -4235,6 +4218,27 @@ let profesores={
       ]
     }
   },
+  "MANUEL ALEJANDRO SANCHEZ VEGA": {
+    "grupos": {
+      "COM-16203-DES. DE APLICACS. INFORMATICAS": [
+        {
+          "grupo": "002",
+          "nombre": "COM-16203-DES. DE APLICACS. INFORMATICAS",
+          "profesor": "MANUEL ALEJANDRO SANCHEZ VEGA",
+          "creditos": "8",
+          "horario": "17:30-19:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC102",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:30"
+        }
+      ]
+    }
+  },
   "JAVIER TERRES ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Javier-Terr\u00e9s-Arias_138402",
     "general": 10.0,
@@ -4694,9 +4698,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4778,23 +4779,6 @@ let profesores={
           "inicio": "17:30",
           "fin": "19:00"
         }
-      ],
-      "SDI-11911-ROBOTICA": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-11911-ROBOTICA",
-          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHPB1",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
       ]
     }
   },
@@ -4823,9 +4807,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5625,
+    "n": 16,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -10464,8 +10448,8 @@ let profesores={
   },
   "JOSE MANUEL LECUANDA ONTIVEROS": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Lecuanda-Ontiveros_86804",
-    "general": 8.2069,
-    "n": 29,
+    "general": 8.2,
+    "n": 30,
     "grupos": {
       "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE": [
         {
@@ -11515,8 +11499,8 @@ let profesores={
   },
   "JOSE MANUEL OROZCO GARIBAY": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
-    "general": 5.6879,
-    "n": 157,
+    "general": 5.7089,
+    "n": 158,
     "grupos": {
       "EGN-11155-NVA VIS. HIST. MEX 1820-2000": [
         {
@@ -14140,8 +14124,8 @@ let profesores={
   },
   "GERMAN SINUHE AYALA FUENTES": {
     "link": "https://www.misprofesores.com/profesores/Germ\u00e1n-Sinuhe-Ayala-Fuentes_109376",
-    "general": 5.3,
-    "n": 10,
+    "general": 5.2727,
+    "n": 11,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -14335,8 +14319,8 @@ let profesores={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.7571,
-    "n": 70,
+    "general": 5.8028,
+    "n": 71,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -14710,9 +14694,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -14971,8 +14955,8 @@ let profesores={
   },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
-    "general": 9.1758,
-    "n": 91,
+    "general": 9.1739,
+    "n": 92,
     "grupos": {
       "EST-24104-ESTADISTICA APLICADA, I": [
         {
@@ -16397,9 +16381,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -17298,9 +17282,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18401,8 +18385,8 @@ let profesores={
   },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
-    "general": 8.1034,
-    "n": 87,
+    "general": 8.0909,
+    "n": 88,
     "grupos": {
       "MAT-12101-CALCULO, II": [
         {
@@ -19271,8 +19255,8 @@ let profesores={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.382,
-    "n": 89,
+    "general": 7.4,
+    "n": 90,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -20888,7 +20872,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHLSIST",
+          "salon": "RHLFIEL",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -21109,6 +21093,23 @@ let profesores={
     "general": 2.3333,
     "n": 3,
     "grupos": {
+      "SDI-11911-ROBOTICA": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-11911-ROBOTICA",
+          "profesor": "ROMEO SALVADOR ORTEGA MARTINEZ",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHPB1",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
       "SDI-11922-TEO CONTROL SISTS NO LINEALES": [
         {
           "grupo": "001",
@@ -21466,11 +21467,11 @@ let mejoresPorDepto={
     "SALVADOR GARCIA GONZALEZ",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "LILIANA DE LA TORRE DESENTIS",
+    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
     "MAX AMERICO SOLDEVILLA CANALES",
     "ILEANA GARCIA CONDE",
-    "MANUEL MENDOZA RAMIREZ",
-    "JOSE DAVID SANTOS SALAZAR"
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
@@ -21490,11 +21491,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD"
+    "GABRIEL ASTEY WOOD",
+    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
