@@ -1,4 +1,4 @@
-let actualizado='1657726143650.566';
+let actualizado='1657785630049.814';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -635,22 +635,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:30",
           "fin": "15:00"
-        }
-      ],
-      "CON-10011-CONT.Y VALUAC. DE INSTR. FINAN": [
-        {
-          "grupo": "001",
-          "nombre": "CON-10011-CONT.Y VALUAC. DE INSTR. FINAN",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
         }
       ],
       "ECO-11122-MICROECONOMIA AVANZADA II": [
@@ -2346,8 +2330,8 @@ let profesores={
   },
   "RENATA HERRERIAS FRANCO": {
     "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
-    "general": 6.0,
-    "n": 21,
+    "general": 6.1818,
+    "n": 22,
     "grupos": {
       "ADM-15503-FINANZAS.,III": [
         {
@@ -4698,6 +4682,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5172,6 +5159,26 @@ let profesores={
             "MI"
           ],
           "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "LIDIA VALLEJO BALDERRABANO": {
+    "grupos": {
+      "CON-10011-CONT.Y VALUAC. DE INSTR. FINAN": [
+        {
+          "grupo": "001",
+          "nombre": "CON-10011-CONT.Y VALUAC. DE INSTR. FINAN",
+          "profesor": "LIDIA VALLEJO BALDERRABANO",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -13921,8 +13928,8 @@ let profesores={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 6.3333,
-    "n": 6,
+    "general": 5.7143,
+    "n": 7,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14694,9 +14701,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -17282,9 +17289,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -20256,8 +20263,8 @@ let profesores={
   },
   "FERNANDO CORNEJO MONTA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo-Monta\u00f1o_67406",
-    "general": 7.8154,
-    "n": 65,
+    "general": 7.7727,
+    "n": 66,
     "grupos": {
       "MAT-14310-ALG. LINEAL, II (ALG. LINEAL)": [
         {
@@ -21467,11 +21474,11 @@ let mejoresPorDepto={
     "SALVADOR GARCIA GONZALEZ",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
     "MAX AMERICO SOLDEVILLA CANALES",
     "ILEANA GARCIA CONDE",
-    "MANUEL MENDOZA RAMIREZ"
+    "MANUEL MENDOZA RAMIREZ",
+    "JOSE DAVID SANTOS SALAZAR"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
@@ -21491,11 +21498,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD",
-    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
+    "GABRIEL ASTEY WOOD"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
