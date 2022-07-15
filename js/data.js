@@ -1,4 +1,4 @@
-let actualizado='1657785630049.814';
+let actualizado='1657909799427.5908';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -311,24 +311,9 @@ let clases={
     "clave": "ACT-15358",
     "grupos": [
       {
-        "grupo": "001",
-        "nombre": "ACT-15358-SISTEMAS DE SEGUROS",
-        "profesor": "JUAN CARLOS BARCENAS CERVANTES",
-        "creditos": "6",
-        "horario": "10:00-11:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH308",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
-      },
-      {
         "grupo": "002",
         "nombre": "ACT-15358-SISTEMAS DE SEGUROS",
-        "profesor": "JUAN CARLOS BARCENAS CERVANTES",
+        "profesor": "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -8145,15 +8130,14 @@ let clases={
         "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
         "profesor": "IGNACIO NORBERTO LOBATO GARCIA MIJAN",
         "creditos": "7",
-        "horario": "10:00-11:30",
+        "horario": "09:30-11:00",
         "dias": [
-          "LU",
           "MI"
         ],
-        "salon": "RHB-1",
+        "salon": "PF103",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "09:30",
+        "fin": "11:00"
       },
       {
         "grupo": "002",
@@ -8381,10 +8365,10 @@ let clases={
         "creditos": "6",
         "horario": "13:00-14:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "VI"
         ],
-        "salon": "RH102",
+        "salon": "PF108",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -8488,17 +8472,17 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ECO-11103-ECONOMIA, III",
-        "profesor": "FRANCISCO JAVIER VARELA SANDOVAL",
+        "profesor": "SOFIA CORONA VERDUZCO",
         "creditos": "6",
-        "horario": "07:00-08:30",
+        "horario": "13:00-14:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH113",
+        "salon": "RH102",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
+        "inicio": "13:00",
+        "fin": "14:30"
       },
       {
         "grupo": "004",
@@ -8554,17 +8538,17 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ECO-11104-ECONOMIA, IV",
-        "profesor": "FRANCISCO JAVIER VARELA SANDOVAL",
+        "profesor": "JOSE EDUARDO GARCIA GOMEZ TAGLE",
         "creditos": "6",
-        "horario": "07:00-08:30",
+        "horario": "10:00-11:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH101",
+        "salon": "RH113",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
+        "inicio": "10:00",
+        "fin": "11:30"
       },
       {
         "grupo": "004",
@@ -8740,28 +8724,13 @@ let clases={
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH113",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
-      },
-      {
-        "grupo": "002",
-        "nombre": "ECO-12102-ECONOMIA, II",
-        "profesor": "JOSE GERMAN ROJAS ARREDONDO",
-        "creditos": "6",
-        "horario": "13:00-14:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH113",
-        "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:30"
       },
       {
         "grupo": "003",
@@ -8873,6 +8842,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-12105-ECONOMIA, V",
+        "profesor": "JOSE GERMAN ROJAS ARREDONDO",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH313",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -8930,6 +8914,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
+        "profesor": "JOSE GERMAN ROJAS ARREDONDO",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH313",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -9210,21 +9209,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "ECO-14303-ECONOMIA DE LA REGULACION",
-        "profesor": "MENEY DE LA PEZA GANDARA",
-        "creditos": "6",
-        "horario": "10:00-11:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RHB-4",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
       }
     ]
   },
@@ -9586,15 +9570,15 @@ let clases={
         "nombre": "ECO-20514-MACROECONOMETRIA AVANZADA",
         "profesor": "IGNACIO NORBERTO LOBATO GARCIA MIJAN",
         "creditos": "7",
-        "horario": "12:00-13:30",
+        "horario": "11:30-13:00",
         "dias": [
           "LU",
           "MI"
         ],
         "salon": "RHB-1",
         "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "13:30"
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -9651,14 +9635,14 @@ let clases={
         "nombre": "ECO-21103-ECONOMIA III",
         "profesor": "",
         "creditos": "6",
-        "horario": "10:00-12:30",
+        "horario": "10:00-10:30",
         "dias": [
           "MA"
         ],
         "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "10:00",
-        "fin": "12:30"
+        "fin": "10:30"
       },
       {
         "grupo": "005",
@@ -12070,7 +12054,7 @@ let clases={
         "nombre": "EST-11101-PROBABILIDAD",
         "profesor": "ERIKA BURGOS PADILLA",
         "creditos": "8",
-        "horario": "19:00-22:00",
+        "horario": "19:00-21:00",
         "dias": [
           "LU",
           "MI"
@@ -12078,7 +12062,7 @@ let clases={
         "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "19:00",
-        "fin": "22:00"
+        "fin": "21:00"
       },
       {
         "grupo": "003",
@@ -18658,7 +18642,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
-        "profesor": "MARIA OFELIA RODRIGUEZ DURAN",
+        "profesor": "",
         "creditos": "10",
         "horario": "11:00-13:00",
         "dias": [
@@ -19410,11 +19394,6 @@ let misProfesData={
     "general": 9.4545,
     "n": 11
   },
-  "JUAN CARLOS BARCENAS CERVANTES": {
-    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Barcenas-Cervantes_83646",
-    "general": 9.75,
-    "n": 4
-  },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
     "general": 7.3947,
@@ -19597,8 +19576,8 @@ let misProfesData={
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
-    "general": 8.4,
-    "n": 5
+    "general": 8.6667,
+    "n": 6
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
@@ -19981,9 +19960,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -20034,11 +20013,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -20491,9 +20465,9 @@ let misProfesData={
     "n": 17
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -20739,11 +20713,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
     "general": 8.2414,
     "n": 29
-  },
-  "FRANCISCO JAVIER VARELA SANDOVAL": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Javier-Varela-Sandoval_104437",
-    "general": 9.3333,
-    "n": 3
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",
