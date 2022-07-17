@@ -1,4 +1,4 @@
-let actualizado='1657909799427.5908';
+let actualizado='1658086047880.058';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -5994,7 +5994,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHPB2",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -6226,14 +6226,14 @@ let clases={
         "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III-LAB",
         "profesor": "AUDE AUGUSTA MARIE LUCIE BLENET",
         "creditos": "2",
-        "horario": "11:00-13:00",
+        "horario": "07:30-09:30",
         "dias": [
-          "MA"
+          "VI"
         ],
-        "salon": "RH306",
+        "salon": "RH302",
         "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "13:00"
+        "inicio": "07:30",
+        "fin": "09:30"
       },
       {
         "grupo": "002L",
@@ -13486,6 +13486,20 @@ let clases={
     "clave": "IIO-15130",
     "grupos": [
       {
+        "grupo": "001L",
+        "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
+        "profesor": "JOSE ALFREDO LOPEZ OLVERA",
+        "creditos": "11",
+        "horario": "08:00-11:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHLQUIM",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "11:00"
+      },
+      {
         "grupo": "002L",
         "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
         "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
@@ -13508,16 +13522,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA",
-        "profesor": "JOSE ALFREDO LOPEZ OLVERA",
+        "profesor": "ENRIQUE JAIME LIMA MU\u00d1OZ",
         "creditos": "11",
-        "horario": "08:00-11:00",
+        "horario": "07:00-09:00",
         "dias": [
-          "VI"
+          "MA",
+          "JU"
         ],
-        "salon": "RHLQUIM",
+        "salon": "RH307",
         "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "11:00"
+        "inicio": "07:00",
+        "fin": "09:00"
       },
       {
         "grupo": "002",
@@ -20231,8 +20246,8 @@ let misProfesData={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 8.4194,
-    "n": 31
+    "general": 8.2188,
+    "n": 32
   },
   "MIGUEL ANGEL MOTA GAYTAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
@@ -20465,9 +20480,9 @@ let misProfesData={
     "n": 17
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -20586,8 +20601,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9216,
-    "n": 268
+    "general": 4.9296,
+    "n": 270
   },
   "SERGIO SILVA CASTA\u00d1EDA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Silva-Casta\u00f1eda_50663",
@@ -20826,8 +20841,8 @@ let misProfesData={
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
-    "general": 8.0311,
-    "n": 161
+    "general": 8.037,
+    "n": 162
   },
   "GERARDO ZORRILLA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",

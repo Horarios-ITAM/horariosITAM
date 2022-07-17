@@ -1,4 +1,4 @@
-let actualizado='1657909799427.5908';
+let actualizado='1658086047880.058';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -1431,8 +1431,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9216,
-    "n": 268,
+    "general": 4.9296,
+    "n": 270,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -7788,7 +7788,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHPB2",
+          "salon": "RH306",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
@@ -7948,14 +7948,14 @@ let profesores={
           "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III-LAB",
           "profesor": "AUDE AUGUSTA MARIE LUCIE BLENET",
           "creditos": "2",
-          "horario": "11:00-13:00",
+          "horario": "07:30-09:30",
           "dias": [
-            "MA"
+            "VI"
           ],
-          "salon": "RH306",
+          "salon": "RH302",
           "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "13:00"
+          "inicio": "07:30",
+          "fin": "09:30"
         },
         {
           "grupo": "002L",
@@ -10237,9 +10237,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -12837,8 +12837,8 @@ let profesores={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 8.4194,
-    "n": 31,
+    "general": 8.2188,
+    "n": 32,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -15456,6 +15456,26 @@ let profesores={
       ]
     }
   },
+  "JOSE ALFREDO LOPEZ OLVERA": {
+    "grupos": {
+      "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
+          "profesor": "JOSE ALFREDO LOPEZ OLVERA",
+          "creditos": "11",
+          "horario": "08:00-11:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLQUIM",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO": {
     "grupos": {
       "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB": [
@@ -15476,29 +15496,24 @@ let profesores={
       ]
     }
   },
-  "JOSE ALFREDO LOPEZ OLVERA": {
+  "ENRIQUE JAIME LIMA MU\u00d1OZ": {
     "grupos": {
       "IIO-15130-FUNDAMENTOS DE QUIMICA": [
         {
           "grupo": "001",
           "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA",
-          "profesor": "JOSE ALFREDO LOPEZ OLVERA",
+          "profesor": "ENRIQUE JAIME LIMA MU\u00d1OZ",
           "creditos": "11",
-          "horario": "08:00-11:00",
+          "horario": "07:00-09:00",
           "dias": [
-            "VI"
+            "MA",
+            "JU"
           ],
-          "salon": "RHLQUIM",
+          "salon": "RH307",
           "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
-        }
-      ]
-    }
-  },
-  "ENRIQUE JAIME LIMA MU\u00d1OZ": {
-    "grupos": {
-      "IIO-15130-FUNDAMENTOS DE QUIMICA": [
+          "inicio": "07:00",
+          "fin": "09:00"
+        },
         {
           "grupo": "002",
           "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA",
@@ -18814,8 +18829,8 @@ let profesores={
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
-    "general": 8.0311,
-    "n": 161,
+    "general": 8.037,
+    "n": 162,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -21399,6 +21414,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
+    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
@@ -21406,8 +21422,7 @@ let mejoresPorDepto={
     "MARINE CHARLOTTE ANDRE",
     "MIGUEL MESSMACHER LINARTAS",
     "CHRISTIANE FABREGA CHIMALI",
-    "MENEY DE LA PEZA GANDARA",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
+    "MENEY DE LA PEZA GANDARA"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -21416,8 +21431,8 @@ let mejoresPorDepto={
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
     "PAVEL JIMENEZ VAZQUEZ",
-    "DAVID MORENO GUINEA",
     "ALFREDO VILLAFRANCA QUINTO",
+    "DAVID MORENO GUINEA",
     "VALERIA ZEPEDA TREJO",
     "JOSE PANTALEON DOMINGUEZ ESPONDA"
   ],
