@@ -1,4 +1,4 @@
-let actualizado='1658086047880.058';
+let actualizado='1658224525982.118';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -1810,27 +1810,6 @@ let clases={
       }
     ]
   },
-  "ADM-15580": {
-    "nombre": "ADM-15580-ADMINISTRACION DE BANCOS",
-    "clave": "ADM-15580",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-15580-ADMINISTRACION DE BANCOS",
-        "profesor": "HECTOR CHAVEZ LOPEZ",
-        "creditos": "6",
-        "horario": "19:00-20:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "20:30"
-      }
-    ]
-  },
   "ADM-15582": {
     "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
     "clave": "ADM-15582",
@@ -1922,21 +1901,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
-      },
-      {
-        "grupo": "009",
-        "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "KATIA RAMIREZ BRIONES",
-        "creditos": "6",
-        "horario": "19:00-20:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "20:30"
       },
       {
         "grupo": "010",
@@ -19516,8 +19480,8 @@ let misProfesData={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.5161,
-    "n": 31
+    "general": 6.4063,
+    "n": 32
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
@@ -19576,8 +19540,8 @@ let misProfesData={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.5315,
-    "n": 143
+    "general": 9.5379,
+    "n": 145
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
@@ -19716,8 +19680,8 @@ let misProfesData={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 9.2143,
-    "n": 14
+    "general": 9.0667,
+    "n": 15
   },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
@@ -19741,8 +19705,8 @@ let misProfesData={
   },
   "ROSA MARGARITA GALAN VELEZ": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
-    "general": 5.6765,
-    "n": 34
+    "general": 5.6857,
+    "n": 35
   },
   "CARLOS EMILIO GALINDO FLORES": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
@@ -19975,14 +19939,14 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
-    "general": 8.5,
-    "n": 6
+    "general": 7.8571,
+    "n": 7
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
@@ -20031,8 +19995,8 @@ let misProfesData={
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
-    "general": 7.8571,
-    "n": 70
+    "general": 7.8451,
+    "n": 71
   },
   "MARISOL LOPEZ ROMERO": {
     "link": "https://www.misprofesores.com/profesores/Marisol-Lopez-Romero_107554",
@@ -20246,8 +20210,8 @@ let misProfesData={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 8.2188,
-    "n": 32
+    "general": 8.2121,
+    "n": 33
   },
   "MIGUEL ANGEL MOTA GAYTAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
@@ -20336,8 +20300,8 @@ let misProfesData={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.2455,
-    "n": 110
+    "general": 7.2162,
+    "n": 111
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
@@ -20421,8 +20385,8 @@ let misProfesData={
   },
   "MARCELA RABADAN GALLARDO": {
     "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5,
-    "n": 18
+    "general": 9.5263,
+    "n": 19
   },
   "LUIS REY RAIGOSA SOTELO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Rey-Raigosa-Sotelo_10783",
@@ -20651,13 +20615,13 @@ let misProfesData={
   },
   "GONZALO TOMAS SUAREZ BELMONT": {
     "link": "https://www.misprofesores.com/profesores/Gonzalo-Tom\u00e1s-Su\u00e1rez-Belmont_19775",
-    "general": 7.2093,
-    "n": 43
+    "general": 7.25,
+    "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

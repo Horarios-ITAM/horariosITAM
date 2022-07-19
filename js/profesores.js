@@ -1,4 +1,4 @@
-let actualizado='1658086047880.058';
+let actualizado='1658224525982.118';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -2822,27 +2822,6 @@ let profesores={
       ]
     }
   },
-  "HECTOR CHAVEZ LOPEZ": {
-    "grupos": {
-      "ADM-15580-ADMINISTRACION DE BANCOS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15580-ADMINISTRACION DE BANCOS",
-          "profesor": "HECTOR CHAVEZ LOPEZ",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ]
-    }
-  },
   "JULIO SERRANO ESPINOSA": {
     "grupos": {
       "ADM-15582-FINZS. CORPORA. AVANZADAS": [
@@ -2897,27 +2876,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "KATIA RAMIREZ BRIONES": {
-    "grupos": {
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "009",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "KATIA RAMIREZ BRIONES",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
         }
       ]
     }
@@ -3484,8 +3442,8 @@ let profesores={
   },
   "MARCELA RABADAN GALLARDO": {
     "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5,
-    "n": 18,
+    "general": 9.5263,
+    "n": 19,
     "grupos": {
       "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB": [
         {
@@ -10052,8 +10010,8 @@ let profesores={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.5315,
-    "n": 143,
+    "general": 9.5379,
+    "n": 145,
     "grupos": {
       "ECO-11101-ECONOMIA, I": [
         {
@@ -12218,8 +12176,8 @@ let profesores={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.2455,
-    "n": 110,
+    "general": 7.2162,
+    "n": 111,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -12316,8 +12274,8 @@ let profesores={
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
-    "general": 7.8571,
-    "n": 70,
+    "general": 7.8451,
+    "n": 71,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -12580,8 +12538,8 @@ let profesores={
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
-    "general": 8.5,
-    "n": 6,
+    "general": 7.8571,
+    "n": 7,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12837,8 +12795,8 @@ let profesores={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 8.2188,
-    "n": 32,
+    "general": 8.2121,
+    "n": 33,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -13056,8 +13014,8 @@ let profesores={
   },
   "GONZALO TOMAS SUAREZ BELMONT": {
     "link": "https://www.misprofesores.com/profesores/Gonzalo-Tom\u00e1s-Su\u00e1rez-Belmont_19775",
-    "general": 7.2093,
-    "n": 43,
+    "general": 7.25,
+    "n": 44,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -13334,8 +13292,8 @@ let profesores={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 9.2143,
-    "n": 14,
+    "general": 9.0667,
+    "n": 15,
     "grupos": {
       "EIN-11101-INT. A LAS R. INTERNACIONALES": [
         {
@@ -16331,8 +16289,8 @@ let profesores={
   },
   "ROSA MARGARITA GALAN VELEZ": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
-    "general": 5.6765,
-    "n": 34,
+    "general": 5.6857,
+    "n": 35,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16383,9 +16341,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -17284,9 +17242,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18887,8 +18845,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.5161,
-    "n": 31,
+    "general": 6.4063,
+    "n": 32,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -21430,11 +21388,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "PAVEL JIMENEZ VAZQUEZ",
     "ALFREDO VILLAFRANCA QUINTO",
     "DAVID MORENO GUINEA",
     "VALERIA ZEPEDA TREJO",
-    "JOSE PANTALEON DOMINGUEZ ESPONDA"
+    "JOSE PANTALEON DOMINGUEZ ESPONDA",
+    "STEFANO STRAULINO TORRE"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "MARIA FLORENCIA PALACIO GOMEZ SAMANIEGO",
@@ -21478,11 +21436,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD",
-    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
+    "GABRIEL ASTEY WOOD"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
