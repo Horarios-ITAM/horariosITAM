@@ -1,4 +1,4 @@
-let actualizado='1658224525982.118';
+let actualizado='1658421169605.979';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -14119,6 +14119,40 @@ let clases={
       }
     ]
   },
+  "LEN-11907": {
+    "nombre": "LEN-11907-COM. PROFESIONAL PARA DERECHO",
+    "clave": "LEN-11907",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "LEN-11907-COM. PROFESIONAL PARA DERECHO",
+        "profesor": "FEDERICO VALLE OCHOA",
+        "creditos": "2",
+        "horario": "08:00-09:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH203",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "09:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "LEN-11907-COM. PROFESIONAL PARA DERECHO",
+        "profesor": "FEDERICO VALLE OCHOA",
+        "creditos": "2",
+        "horario": "09:00-10:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH203",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "10:00"
+      }
+    ]
+  },
   "LEN-12002": {
     "nombre": "LEN-12002-COM ESCRITA PARA C.P.Y EST FIN",
     "clave": "LEN-12002",
@@ -15502,40 +15536,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:00"
-      }
-    ]
-  },
-  "LEN-12751": {
-    "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
-    "clave": "LEN-12751",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
-        "profesor": "FEDERICO VALLE OCHOA",
-        "creditos": "2",
-        "horario": "07:00-08:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "RHPB4",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
-        "profesor": "FEDERICO VALLE OCHOA",
-        "creditos": "2",
-        "horario": "08:00-09:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "RH203",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "09:00"
       }
     ]
   },
@@ -19590,8 +19590,8 @@ let misProfesData={
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
-    "general": 8.0429,
-    "n": 70
+    "general": 8.0423,
+    "n": 71
   },
   "FEDERICO GUILLERMO DURAND GUEVARA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
@@ -19720,8 +19720,8 @@ let misProfesData={
   },
   "ALFREDO GARBUNO I\u00d1IGO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Garbuno-I\u00f1igo_153536",
-    "general": 7.0,
-    "n": 2
+    "general": 6.6667,
+    "n": 3
   },
   "PABLO GARCIA AGUILAR": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Garc\u00eda-Aguilar_94287",
@@ -19992,6 +19992,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -20270,8 +20275,8 @@ let misProfesData={
   },
   "ROMEO SALVADOR ORTEGA MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Romeo-Salvador-Ortega-Martinez_129225",
-    "general": 2.3333,
-    "n": 3
+    "general": 2.25,
+    "n": 4
   },
   "CLAUDIA GABRIELA ORTIZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Gabriela-Ortiz-Pe\u00f1a_72010",
@@ -20476,7 +20481,7 @@ let misProfesData={
   "ADRIAN RUBLI ORNELAS": {
     "link": "https://www.misprofesores.com/profesores/Adri\u00e1n-Rubl\u00ed-Ornelas_109506",
     "general": 9.0,
-    "n": 11
+    "n": 12
   },
   "DANIELA RUIZ MASSIEU SALINAS": {
     "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",
@@ -20619,9 +20624,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -20780,8 +20785,8 @@ let misProfesData={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.4,
-    "n": 90
+    "general": 7.3407,
+    "n": 91
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",

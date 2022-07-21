@@ -1,4 +1,4 @@
-let actualizado='1658224525982.118';
+let actualizado='1658421169605.979';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -1612,7 +1612,7 @@ let profesores={
   "ADRIAN RUBLI ORNELAS": {
     "link": "https://www.misprofesores.com/profesores/Adri\u00e1n-Rubl\u00ed-Ornelas_109506",
     "general": 9.0,
-    "n": 11,
+    "n": 12,
     "grupos": {
       "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
         {
@@ -3904,6 +3904,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -12770,8 +12773,8 @@ let profesores={
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
-    "general": 8.0429,
-    "n": 70,
+    "general": 8.0423,
+    "n": 71,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14944,8 +14947,8 @@ let profesores={
   },
   "ALFREDO GARBUNO I\u00d1IGO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Garbuno-I\u00f1igo_153536",
-    "general": 7.0,
-    "n": 2,
+    "general": 6.6667,
+    "n": 3,
     "grupos": {
       "EST-24107-SIMULACION": [
         {
@@ -16341,9 +16344,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16672,6 +16675,43 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "FEDERICO VALLE OCHOA": {
+    "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "LEN-11907-COM. PROFESIONAL PARA DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-11907-COM. PROFESIONAL PARA DERECHO",
+          "profesor": "FEDERICO VALLE OCHOA",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-11907-COM. PROFESIONAL PARA DERECHO",
+          "profesor": "FEDERICO VALLE OCHOA",
+          "creditos": "2",
+          "horario": "09:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -17860,43 +17900,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "FEDERICO VALLE OCHOA": {
-    "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
-    "general": 10.0,
-    "n": 1,
-    "grupos": {
-      "LEN-12751-COMUNIC. PROFESIONAL PARA DER.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
-          "profesor": "FEDERICO VALLE OCHOA",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
-          "profesor": "FEDERICO VALLE OCHOA",
-          "creditos": "2",
-          "horario": "08:00-09:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH203",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
         }
       ]
     }
@@ -19215,8 +19218,8 @@ let profesores={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.4,
-    "n": 90,
+    "general": 7.3407,
+    "n": 91,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -21035,8 +21038,8 @@ let profesores={
   },
   "ROMEO SALVADOR ORTEGA MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Romeo-Salvador-Ortega-Martinez_129225",
-    "general": 2.3333,
-    "n": 3,
+    "general": 2.25,
+    "n": 4,
     "grupos": {
       "SDI-11911-ROBOTICA": [
         {
