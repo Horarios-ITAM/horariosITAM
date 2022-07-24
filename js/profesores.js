@@ -1,4 +1,4 @@
-let actualizado='1658421169605.979';
+let actualizado='1658681530698.165';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -3904,9 +3904,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -8112,8 +8109,8 @@ let profesores={
   },
   "JOSE ANGEL FERNANDEZ URIA": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Fern\u00e1ndez-Ur\u00eda_62303",
-    "general": 9.7,
-    "n": 10,
+    "general": 9.4545,
+    "n": 11,
     "grupos": {
       "DER-13108-BIENES Y DERECHOS REALES": [
         {
@@ -8455,6 +8452,9 @@ let profesores={
     }
   },
   "JAVIER SCH\u00dcTTE RICAUD": {
+    "link": "https://www.misprofesores.com/profesores/Javier-Sch\u00fctte-Ricaud_155412",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "DER-14402-TEORIAS DEL DELITO": [
         {
@@ -17282,9 +17282,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -21368,10 +21368,10 @@ let mejoresPorDepto={
     "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
     "ERIKA ESTEFANIA SALAS MAYME",
     "FRANCO ALBERTO DEL VALLE PRADO",
-    "JOSE ANGEL FERNANDEZ URIA",
     "IRVIN ARTURO CASTILLO CESAREO",
     "CARLOS EDUARDO SCHLESKE JUAREZ",
-    "MARIANA CALDERON ARAMBURU"
+    "MARIANA CALDERON ARAMBURU",
+    "AMRITA BAHRI"
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
@@ -21439,11 +21439,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD"
+    "GABRIEL ASTEY WOOD",
+    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
