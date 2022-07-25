@@ -1,4 +1,4 @@
-let actualizado='1658681530698.165';
+let actualizado='1658748858245.6638';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -19750,8 +19750,8 @@ let misProfesData={
   },
   "RICARDO GARCIA DE LA ROSA": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Garcia-de-la-Rosa_65796",
-    "general": 7.8636,
-    "n": 22
+    "general": 7.8261,
+    "n": 23
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
@@ -19939,9 +19939,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -19993,6 +19993,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8451,
@@ -20015,8 +20020,8 @@ let misProfesData={
   },
   "ADRIAN LUCARDI": {
     "link": "https://www.misprofesores.com/profesores/Adrian-Lucardi_82586",
-    "general": 7.9286,
-    "n": 14
+    "general": 7.8,
+    "n": 15
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
@@ -20107,6 +20112,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
     "general": 7.625,
     "n": 16
+  },
+  "DAVID MENA ALEMAN": {
+    "link": "https://www.misprofesores.com/profesores/David-Mena-Alem\u00e1n_155507",
+    "general": 6.0,
+    "n": 1
   },
   "EDUARDO MENACHE VARELA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
@@ -20435,8 +20445,8 @@ let misProfesData={
   },
   "VICTOR HUGO RIVAS CALDERON": {
     "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6456,
-    "n": 79
+    "general": 7.675,
+    "n": 80
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
@@ -20800,8 +20810,8 @@ let misProfesData={
   },
   "VALERIA ZEPEDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",
-    "general": 8.1837,
-    "n": 98
+    "general": 8.1919,
+    "n": 99
   },
   "ROBERTO ZOCCO": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Zocco-Pasimeni_35000",

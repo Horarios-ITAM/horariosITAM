@@ -1,4 +1,4 @@
-let actualizado='1658681530698.165';
+let actualizado='1658748858245.6638';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -3904,6 +3904,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5922,6 +5925,9 @@ let profesores={
     }
   },
   "DAVID MENA ALEMAN": {
+    "link": "https://www.misprofesores.com/profesores/David-Mena-Alem\u00e1n_155507",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -6382,8 +6388,8 @@ let profesores={
   },
   "ADRIAN LUCARDI": {
     "link": "https://www.misprofesores.com/profesores/Adrian-Lucardi_82586",
-    "general": 7.9286,
-    "n": 14,
+    "general": 7.8,
+    "n": 15,
     "grupos": {
       "CSO-15022-ELECCION PUBLICA,II": [
         {
@@ -7352,8 +7358,8 @@ let profesores={
   },
   "RICARDO GARCIA DE LA ROSA": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Garcia-de-la-Rosa_65796",
-    "general": 7.8636,
-    "n": 22,
+    "general": 7.8261,
+    "n": 23,
     "grupos": {
       "DER-10113-DERECHO PUBLICO": [
         {
@@ -11866,8 +11872,8 @@ let profesores={
   },
   "VICTOR HUGO RIVAS CALDERON": {
     "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6456,
-    "n": 79,
+    "general": 7.675,
+    "n": 80,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -13155,8 +13161,8 @@ let profesores={
   },
   "VALERIA ZEPEDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",
-    "general": 8.1837,
-    "n": 98,
+    "general": 8.1919,
+    "n": 99,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -17282,9 +17288,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -21359,7 +21365,7 @@ let mejoresPorDepto={
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON"
+    "DAVID MENA ALEMAN"
   ],
   "DERECHO": [
     "GUSTAVO CARDENAS SORIANO",
@@ -21439,11 +21445,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD",
-    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
+    "GABRIEL ASTEY WOOD"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
