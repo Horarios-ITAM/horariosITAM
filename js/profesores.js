@@ -1,4 +1,4 @@
-let actualizado='1658748858245.6638';
+let actualizado='1658833372447.831';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -3904,9 +3904,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -8034,13 +8031,16 @@ let profesores={
       ]
     }
   },
-  "SARA  DE SANTIS": {
+  "SARA DE SANTIS": {
+    "link": "https://www.misprofesores.com/profesores/Sara-De-Santis_130671",
+    "general": 9.0,
+    "n": 2,
     "grupos": {
       "DER-11910-CLIN. IMPACT. SOC Y ABOGAC COM": [
         {
           "grupo": "001",
           "nombre": "DER-11910-CLIN. IMPACT. SOC Y ABOGAC COM",
-          "profesor": "SARA  DE SANTIS",
+          "profesor": "SARA DE SANTIS",
           "creditos": "6",
           "horario": "13:00-16:00",
           "dias": [
@@ -11678,8 +11678,8 @@ let profesores={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.4407,
-    "n": 118,
+    "general": 6.4118,
+    "n": 119,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -17288,9 +17288,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -21445,11 +21445,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD"
+    "GABRIEL ASTEY WOOD",
+    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
