@@ -1,4 +1,4 @@
-let actualizado='1658833372447.831';
+let actualizado='1659016151809.144';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -8036,17 +8036,17 @@ let clases={
       {
         "grupo": "005",
         "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
-        "profesor": "SERGIO SILVA CASTA\u00d1EDA",
+        "profesor": "CHRISTINA CORNEJO VAN LUIT",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "11:30-13:00",
         "dias": [
           "LU",
           "MI"
         ],
         "salon": "RH305",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -8604,7 +8604,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
-        "profesor": "",
+        "profesor": "KANISKA  DAM",
         "creditos": "6",
         "horario": "09:00-12:00",
         "dias": [
@@ -8644,7 +8644,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
-        "profesor": "",
+        "profesor": "KANISKA  DAM",
         "creditos": "6",
         "horario": "09:00-12:00",
         "dias": [
@@ -8814,10 +8814,10 @@ let clases={
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH313",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -9000,15 +9000,15 @@ let clases={
         "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
         "profesor": "ALBERTO GALLEGOS DAVID",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "07:00-08:30",
         "dias": [
-          "MI",
-          "VI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH306",
+        "salon": "RH312",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "07:00",
+        "fin": "08:30"
       }
     ]
   },
@@ -9432,6 +9432,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+        "profesor": "CARLOS HURTADO LOPEZ",
+        "creditos": "6",
+        "horario": "18:00-21:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHSA3",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -12091,7 +12105,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "EST-11101-PROBABILIDAD",
-        "profesor": "",
+        "profesor": "HECTOR ANTONIO ZAZUETA HARFUSH",
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
@@ -12217,7 +12231,7 @@ let clases={
       {
         "grupo": "009",
         "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-        "profesor": "",
+        "profesor": "EMILIO HERREMAN MARQUEZ",
         "creditos": "8",
         "horario": "13:00-15:00",
         "dias": [
@@ -12613,7 +12627,6 @@ let clases={
         "creditos": "8",
         "horario": "08:00-10:00",
         "dias": [
-          "LU",
           "MI"
         ],
         "salon": "RH309",
@@ -14150,6 +14163,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "LEN-11907-COM. PROFESIONAL PARA DERECHO",
+        "profesor": "FEDERICO VALLE OCHOA",
+        "creditos": "2",
+        "horario": "18:00-19:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH305",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "19:00"
       }
     ]
   },
@@ -14451,14 +14478,14 @@ let clases={
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
         "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
         "creditos": "6",
-        "horario": "12:00-13:00",
+        "horario": "12:00-15:00",
         "dias": [
           "VI"
         ],
         "salon": "RHACERV",
         "campus": "RIO HONDO",
         "inicio": "12:00",
-        "fin": "13:00"
+        "fin": "15:00"
       },
       {
         "grupo": "019",
@@ -17901,7 +17928,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-14390-MATEMATICA COMPUTACIONAL",
-        "profesor": "",
+        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
         "creditos": "8",
         "horario": "11:00-13:00",
         "dias": [
@@ -18361,7 +18388,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-24431-OPTIMIZACION NUMERICA, I",
-        "profesor": "",
+        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
         "creditos": "8",
         "horario": "07:00-09:00",
         "dias": [
@@ -19820,8 +19847,8 @@ let misProfesData={
   },
   "TRINIDAD GONZALEZ BONILLA": {
     "link": "https://www.misprofesores.com/profesores/Trinidad-Gonzales-Bonilla_147541",
-    "general": 6.5,
-    "n": 2
+    "general": 7.6667,
+    "n": 3
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
@@ -19844,9 +19871,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5625,
-    "n": 16
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19944,9 +19971,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -19997,6 +20024,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -20075,8 +20107,8 @@ let misProfesData={
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
-    "general": 8.0,
-    "n": 2
+    "general": 8.3333,
+    "n": 3
   },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
@@ -20115,8 +20147,8 @@ let misProfesData={
   },
   "DAVID MENA ALEMAN": {
     "link": "https://www.misprofesores.com/profesores/David-Mena-Alem\u00e1n_155507",
-    "general": 6.0,
-    "n": 1
+    "general": 6.5,
+    "n": 2
   },
   "EDUARDO MENACHE VARELA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
@@ -20600,8 +20632,8 @@ let misProfesData={
   },
   "ANURAG SINGH": {
     "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
-    "general": 5.6,
-    "n": 15
+    "general": 5.4375,
+    "n": 16
   },
   "TERESITA SOLA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Teresita-Sola-Trejo_54042",
@@ -20634,9 +20666,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

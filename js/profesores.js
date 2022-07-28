@@ -1,4 +1,4 @@
-let actualizado='1658833372447.831';
+let actualizado='1659016151809.144';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -615,38 +615,6 @@ let profesores={
           "fin": "15:00"
         }
       ],
-      "ECO-11122-MICROECONOMIA AVANZADA II": [
-        {
-          "grupo": "003",
-          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "09:00-12:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "12:00"
-        }
-      ],
-      "ECO-11227-DISE\u00d1O DE MERCADOS": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "09:00-12:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "12:00"
-        }
-      ],
       "ECO-21103-ECONOMIA III": [
         {
           "grupo": "003",
@@ -924,40 +892,6 @@ let profesores={
           "fin": "12:00"
         }
       ],
-      "EST-11101-PROBABILIDAD": [
-        {
-          "grupo": "007",
-          "nombre": "EST-11101-PROBABILIDAD",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "19:00-21:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-2",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
-        }
-      ],
-      "EST-11102-INFERENCIA ESTADISTICA": [
-        {
-          "grupo": "009",
-          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "13:00-15:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "15:00"
-        }
-      ],
       "EST-24127-CALCULO DE PROBABILIDADES II": [
         {
           "grupo": "005",
@@ -1089,22 +1023,6 @@ let profesores={
           "fin": "13:00"
         }
       ],
-      "MAT-14390-MATEMATICA COMPUTACIONAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14390-MATEMATICA COMPUTACIONAL",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "11:00-13:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "13:00"
-        }
-      ],
       "MAT-24111-ANALISIS MATEMATICO II": [
         {
           "grupo": "002",
@@ -1120,22 +1038,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        }
-      ],
-      "MAT-24431-OPTIMIZACION NUMERICA, I": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-24431-OPTIMIZACION NUMERICA, I",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "07:00-09:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
         }
       ],
       "SDI-11221-ELEMENTOS DE ELECTRONICA": [
@@ -2628,8 +2530,8 @@ let profesores={
   },
   "ANURAG SINGH": {
     "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
-    "general": 5.6,
-    "n": 15,
+    "general": 5.4375,
+    "n": 16,
     "grupos": {
       "ADM-15531-MERCADOS E INSTITUCS. FINANCS.": [
         {
@@ -3904,6 +3806,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4744,9 +4649,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5625,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5923,8 +5828,8 @@ let profesores={
   },
   "DAVID MENA ALEMAN": {
     "link": "https://www.misprofesores.com/profesores/David-Mena-Alem\u00e1n_155507",
-    "general": 6.0,
-    "n": 1,
+    "general": 6.5,
+    "n": 2,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -7106,8 +7011,8 @@ let profesores={
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
-    "general": 8.0,
-    "n": 2,
+    "general": 8.3333,
+    "n": 3,
     "grupos": {
       "DER-10017-CONTRATOS FINANC. COMPARADOS": [
         {
@@ -9685,21 +9590,63 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        },
+        }
+      ]
+    }
+  },
+  "CHRISTINA CORNEJO VAN LUIT": {
+    "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
+    "general": 9.5379,
+    "n": 145,
+    "grupos": {
+      "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
           "grupo": "005",
           "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
-          "profesor": "SERGIO SILVA CASTA\u00d1EDA",
+          "profesor": "CHRISTINA CORNEJO VAN LUIT",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "11:30-13:00",
           "dias": [
             "LU",
             "MI"
           ],
           "salon": "RH305",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "006",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "CHRISTINA CORNEJO VAN LUIT",
+          "creditos": "6",
+          "horario": "13:00-14:00",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
+      ],
+      "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
+          "profesor": "CHRISTINA CORNEJO VAN LUIT",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -10013,46 +9960,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
-        }
-      ]
-    }
-  },
-  "CHRISTINA CORNEJO VAN LUIT": {
-    "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.5379,
-    "n": 145,
-    "grupos": {
-      "ECO-11101-ECONOMIA, I": [
-        {
-          "grupo": "006",
-          "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "CHRISTINA CORNEJO VAN LUIT",
-          "creditos": "6",
-          "horario": "13:00-14:00",
-          "dias": [
-            "LU",
-            "VI"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        }
-      ],
-      "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
-          "profesor": "CHRISTINA CORNEJO VAN LUIT",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -10383,6 +10290,42 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "KANISKA  DAM": {
+    "grupos": {
+      "ECO-11122-MICROECONOMIA AVANZADA II": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
+          "profesor": "KANISKA  DAM",
+          "creditos": "6",
+          "horario": "09:00-12:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "12:00"
+        }
+      ],
+      "ECO-11227-DISE\u00d1O DE MERCADOS": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
+          "profesor": "KANISKA  DAM",
+          "creditos": "6",
+          "horario": "09:00-12:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -10730,10 +10673,10 @@ let profesores={
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH313",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -10953,15 +10896,15 @@ let profesores={
           "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
           "profesor": "ALBERTO GALLEGOS DAVID",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "07:00-08:30",
           "dias": [
-            "MI",
-            "VI"
+            "MA",
+            "JU"
           ],
-          "salon": "RH306",
+          "salon": "RH312",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -11288,6 +11231,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "CARLOS HURTADO LOPEZ": {
+    "grupos": {
+      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
+        {
+          "grupo": "005",
+          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+          "profesor": "CARLOS HURTADO LOPEZ",
+          "creditos": "6",
+          "horario": "18:00-21:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "21:00"
         }
       ]
     }
@@ -14018,6 +13981,27 @@ let profesores={
       ]
     }
   },
+  "HECTOR ANTONIO ZAZUETA HARFUSH": {
+    "grupos": {
+      "EST-11101-PROBABILIDAD": [
+        {
+          "grupo": "007",
+          "nombre": "EST-11101-PROBABILIDAD",
+          "profesor": "HECTOR ANTONIO ZAZUETA HARFUSH",
+          "creditos": "8",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ]
+    }
+  },
   "ALEJANDRO ISLAS CAMARGO": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Islas-Camargo_10684",
     "general": 5.7794,
@@ -14102,8 +14086,8 @@ let profesores={
   },
   "TRINIDAD GONZALEZ BONILLA": {
     "link": "https://www.misprofesores.com/profesores/Trinidad-Gonzales-Bonilla_147541",
-    "general": 6.5,
-    "n": 2,
+    "general": 7.6667,
+    "n": 3,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -14397,6 +14381,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "EMILIO HERREMAN MARQUEZ": {
+    "grupos": {
+      "EST-11102-INFERENCIA ESTADISTICA": [
+        {
+          "grupo": "009",
+          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
+          "profesor": "EMILIO HERREMAN MARQUEZ",
+          "creditos": "8",
+          "horario": "13:00-15:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "15:00"
         }
       ]
     }
@@ -14797,7 +14802,6 @@ let profesores={
           "creditos": "8",
           "horario": "08:00-10:00",
           "dias": [
-            "LU",
             "MI"
           ],
           "salon": "RH309",
@@ -16350,9 +16354,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16718,6 +16722,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "LEN-11907-COM. PROFESIONAL PARA DERECHO",
+          "profesor": "FEDERICO VALLE OCHOA",
+          "creditos": "2",
+          "horario": "18:00-19:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:00"
         }
       ]
     }
@@ -16883,14 +16901,14 @@ let profesores={
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
           "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
           "creditos": "6",
-          "horario": "12:00-13:00",
+          "horario": "12:00-15:00",
           "dias": [
             "VI"
           ],
           "salon": "RHACERV",
           "campus": "RIO HONDO",
           "inicio": "12:00",
-          "fin": "13:00"
+          "fin": "15:00"
         }
       ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
@@ -17288,9 +17306,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -20271,6 +20289,42 @@ let profesores={
       ]
     }
   },
+  "JOSE EZEQUIEL SOTO SANCHEZ": {
+    "grupos": {
+      "MAT-14390-MATEMATICA COMPUTACIONAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14390-MATEMATICA COMPUTACIONAL",
+          "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
+          "creditos": "8",
+          "horario": "11:00-13:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-24431-OPTIMIZACION NUMERICA, I": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-24431-OPTIMIZACION NUMERICA, I",
+          "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
+          "creditos": "8",
+          "horario": "07:00-09:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "ANDREAS WACHTEL": {
     "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",
     "general": 6.4737,
@@ -21364,8 +21418,8 @@ let mejoresPorDepto={
     "ERIC MAGAR MEURS",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
-    "ALBERTO SIMPSER MONDLAK",
-    "DAVID MENA ALEMAN"
+    "DAVID MENA ALEMAN",
+    "ALBERTO SIMPSER MONDLAK"
   ],
   "DERECHO": [
     "GUSTAVO CARDENAS SORIANO",
@@ -21424,8 +21478,8 @@ let mejoresPorDepto={
     "ERICK MIER MORENO",
     "MAX AMERICO SOLDEVILLA CANALES",
     "ILEANA GARCIA CONDE",
-    "MANUEL MENDOZA RAMIREZ",
-    "JOSE DAVID SANTOS SALAZAR"
+    "TRINIDAD GONZALEZ BONILLA",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
@@ -21445,11 +21499,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD",
-    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
+    "GABRIEL ASTEY WOOD"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
