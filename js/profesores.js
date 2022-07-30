@@ -1,4 +1,4 @@
-let actualizado='1659016151809.144';
+let actualizado='1659175581114.8591';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -129,8 +129,8 @@ let profesores={
   },
   "ERIKA GEORGINA CHAVEZ PIEDRA BUENA": {
     "link": "https://www.misprofesores.com/profesores/Erika-Georgina-Ch\u00e1vez-Piedra-Buena_79956",
-    "general": 7.0,
-    "n": 13,
+    "general": 7.1429,
+    "n": 14,
     "grupos": {
       "ACT-11301-CALCULO ACTUARIAL II": [
         {
@@ -462,22 +462,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
-        }
-      ],
-      "ADM-11018-SEMINARIO DE DIRECCION": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
@@ -1040,21 +1024,21 @@ let profesores={
           "fin": "11:30"
         }
       ],
-      "SDI-11221-ELEMENTOS DE ELECTRONICA": [
+      "SDI-14105-INTRODUCCION A LA INGENIERIA": [
         {
-          "grupo": "001",
-          "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+          "grupo": "003",
+          "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
           "profesor": "",
-          "creditos": "10",
-          "horario": "11:00-13:00",
+          "creditos": "6",
+          "horario": "12:30-14:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH112",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "13:00"
+          "inicio": "12:30",
+          "fin": "14:00"
         }
       ]
     }
@@ -1333,8 +1317,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9296,
-    "n": 270,
+    "general": 4.9262,
+    "n": 271,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -1382,6 +1366,26 @@ let profesores={
           "salon": "RH105",
           "campus": "RIO HONDO",
           "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "DANIEL MARTINEZ VALLE": {
+    "grupos": {
+      "ADM-11018-SEMINARIO DE DIRECCION": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
+          "profesor": "DANIEL MARTINEZ VALLE",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
           "fin": "10:00"
         }
       ]
@@ -2355,8 +2359,8 @@ let profesores={
   },
   "MATHIAS JOSEF SCHNEIDER": {
     "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
-    "general": 7.6667,
-    "n": 6,
+    "general": 7.1429,
+    "n": 7,
     "grupos": {
       "ADM-15507-FUNDAMENTOS DE FINANZAS": [
         {
@@ -3357,8 +3361,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
+          "salon": "",
+          "campus": "",
           "inicio": "15:00",
           "fin": "17:00"
         }
@@ -4214,8 +4218,8 @@ let profesores={
   },
   "CARLOS EMILIO GALINDO FLORES": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
-    "general": 7.8772,
-    "n": 57,
+    "general": 7.8448,
+    "n": 58,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -4626,8 +4630,8 @@ let profesores={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.0,
-    "n": 19,
+    "general": 9.05,
+    "n": 20,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -7159,6 +7163,23 @@ let profesores={
           "inicio": "09:00",
           "fin": "11:00"
         }
+      ],
+      "DER-10026-DERECHO CORPORATIVO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10026-DERECHO CORPORATIVO",
+          "profesor": "ROXANA PEREZ ARCE VALLE",
+          "creditos": "8",
+          "horario": "09:00-11:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
       ]
     }
   },
@@ -7536,22 +7557,6 @@ let profesores={
           "fin": "19:00"
         }
       ],
-      "DER-11911-CLIN. INV. Y ENSE\u00d1AN. DEL DER.": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11911-CLIN. INV. Y ENSE\u00d1AN. DEL DER.",
-          "profesor": "GERMAN  SUCAR",
-          "creditos": "6",
-          "horario": "13:00-16:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "16:00"
-        }
-      ],
       "DER-14015-SEM TEO Y DOGMATICA PENAL CONT": [
         {
           "grupo": "001",
@@ -7627,8 +7632,8 @@ let profesores={
   },
   "JORGE ARTURO CERDIO HERRAN": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Arturo-Cerdio-Herr\u00e1n_10792",
-    "general": 6.9823,
-    "n": 113,
+    "general": 6.9386,
+    "n": 114,
     "grupos": {
       "DER-11107-TALLER EN BIENES Y DER REALES-LAB": [
         {
@@ -7766,6 +7771,26 @@ let profesores={
       ]
     }
   },
+  "MARIO ALBERTO GARCIA ACEVEDO": {
+    "grupos": {
+      "DER-11113-TALLER DISERT JUR CONSTITU. II-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II-LAB",
+          "profesor": "MARIO ALBERTO GARCIA ACEVEDO",
+          "creditos": "2",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "GINA AILEEN CASTILLO RIVERO": {
     "grupos": {
       "DER-11113-TALLER DISERT JUR CONSTITU. II-LAB": [
@@ -7782,26 +7807,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
-        }
-      ]
-    }
-  },
-  "MARIO ALBERTO GARCIA ACEVEDO": {
-    "grupos": {
-      "DER-11113-TALLER DISERT JUR CONSTITU. II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II",
-          "profesor": "MARIO ALBERTO GARCIA ACEVEDO",
-          "creditos": "2",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
         }
       ]
     }
@@ -7842,10 +7847,10 @@ let profesores={
   },
   "REGINA MARIA INCLAN ALARCON": {
     "grupos": {
-      "DER-11116-TALLER DISERT. JUR. ADMIVO. I": [
+      "DER-11116-TALLER DISERT. JUR. ADMIVO. I-LAB": [
         {
-          "grupo": "001",
-          "nombre": "DER-11116-TALLER DISERT. JUR. ADMIVO. I",
+          "grupo": "001L",
+          "nombre": "DER-11116-TALLER DISERT. JUR. ADMIVO. I-LAB",
           "profesor": "REGINA MARIA INCLAN ALARCON",
           "creditos": "2",
           "horario": "07:00-09:00",
@@ -7858,8 +7863,8 @@ let profesores={
           "fin": "09:00"
         },
         {
-          "grupo": "002",
-          "nombre": "DER-11116-TALLER DISERT. JUR. ADMIVO. I",
+          "grupo": "002L",
+          "nombre": "DER-11116-TALLER DISERT. JUR. ADMIVO. I-LAB",
           "profesor": "REGINA MARIA INCLAN ALARCON",
           "creditos": "2",
           "horario": "07:00-09:00",
@@ -8349,15 +8354,14 @@ let profesores={
           "nombre": "DER-14505-DELITOS",
           "profesor": "ITALO ANDRES REYES ROMERO",
           "creditos": "6",
-          "horario": "09:00-11:00",
+          "horario": "16:00-19:00",
           "dias": [
-            "MA",
-            "JU"
+            "VI"
           ],
-          "salon": "RH316",
+          "salon": "RH201",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
+          "inicio": "16:00",
+          "fin": "19:00"
         }
       ]
     }
@@ -9311,7 +9315,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "ST",
+          "salon": "ST201",
           "campus": "ST. TERESA",
           "inicio": "14:30",
           "fin": "17:30"
@@ -10447,15 +10451,14 @@ let profesores={
           "nombre": "ECO-12102-ECONOMIA, II",
           "profesor": "CHRISTIANE FABREGA CHIMALI",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "15:00-16:00",
           "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
-          "salon": "RHB-1",
+          "salon": "RH103",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "15:00",
+          "fin": "16:00"
         }
       ]
     }
@@ -10468,15 +10471,14 @@ let profesores={
           "nombre": "ECO-12102-ECONOMIA, II",
           "profesor": "RODRIGO SANCHEZ GAVITO PORTILLA",
           "creditos": "6",
-          "horario": "09:00-10:30",
+          "horario": "15:00-16:00",
           "dias": [
-            "MA",
-            "JU"
+            "VI"
           ],
           "salon": "RH101",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:30"
+          "inicio": "15:00",
+          "fin": "16:00"
         }
       ]
     }
@@ -10489,15 +10491,14 @@ let profesores={
           "nombre": "ECO-12102-ECONOMIA, II",
           "profesor": "MISHELLE LISSETTE SEGUI PEREZ",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "15:00-16:00",
           "dias": [
-            "MA",
-            "JU"
+            "VI"
           ],
           "salon": "RH107",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "15:00",
+          "fin": "16:00"
         }
       ]
     }
@@ -10513,15 +10514,14 @@ let profesores={
           "nombre": "ECO-12102-ECONOMIA, II",
           "profesor": "ERNESTO BLANCAS BARRAGAN",
           "creditos": "6",
-          "horario": "07:00-08:30",
+          "horario": "15:00-16:00",
           "dias": [
-            "MA",
-            "JU"
+            "VI"
           ],
           "salon": "RH102",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
+          "inicio": "15:00",
+          "fin": "16:00"
         }
       ]
     }
@@ -10537,15 +10537,14 @@ let profesores={
           "nombre": "ECO-12102-ECONOMIA, II",
           "profesor": "ISAAC GUZMAN VALDIVIA TOVAR",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "15:00-16:00",
           "dias": [
-            "MA",
-            "JU"
+            "VI"
           ],
           "salon": "RH113",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "15:00",
+          "fin": "16:00"
         }
       ],
       "ECO-18300-CRECIMIENTO ECONOMICO": [
@@ -10559,7 +10558,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH103",
+          "salon": "RH306",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -10578,15 +10577,14 @@ let profesores={
           "nombre": "ECO-12102-ECONOMIA, II",
           "profesor": "RICARDO SERGIO FADL KURI",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "15:00-16:00",
           "dias": [
-            "MA",
-            "JU"
+            "VI"
           ],
-          "salon": "RH113",
+          "salon": "RH109",
           "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "inicio": "15:00",
+          "fin": "16:00"
         }
       ],
       "ECO-15101-FINANZAS PUBLICAS": [
@@ -10632,15 +10630,14 @@ let profesores={
           "nombre": "ECO-12102-ECONOMIA, II",
           "profesor": "VALERIA MOY CAMPOS",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "15:00-16:00",
           "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
-          "salon": "RH306",
+          "salon": "RH110",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "15:00",
+          "fin": "16:00"
         }
       ]
     }
@@ -10705,10 +10702,10 @@ let profesores={
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH313",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -10824,7 +10821,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH103",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -11004,7 +11001,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH315",
+          "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -11070,8 +11067,8 @@ let profesores={
   },
   "ARTURO RAMIREZ VERDUGO": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
-    "general": 7.4138,
-    "n": 29,
+    "general": 7.3667,
+    "n": 30,
     "grupos": {
       "ECO-15101-FINANZAS PUBLICAS": [
         {
@@ -11329,7 +11326,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH301",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -11367,7 +11364,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "ST",
+          "salon": "ST203",
           "campus": "ST. TERESA",
           "inicio": "17:00",
           "fin": "20:00"
@@ -11379,14 +11376,14 @@ let profesores={
           "nombre": "ECO-21112-EQUILIBRIO GENERAL",
           "profesor": "XINYANG WANG",
           "creditos": "6",
-          "horario": "10:00-13:00",
+          "horario": "10:30-13:30",
           "dias": [
             "MA"
           ],
-          "salon": "ST",
+          "salon": "ST203",
           "campus": "ST. TERESA",
-          "inicio": "10:00",
-          "fin": "13:00"
+          "inicio": "10:30",
+          "fin": "13:30"
         }
       ]
     }
@@ -11958,8 +11955,8 @@ let profesores={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.0364,
-    "n": 55,
+    "general": 8.0536,
+    "n": 56,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -13010,8 +13007,8 @@ let profesores={
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
-    "general": 8.629,
-    "n": 62,
+    "general": 8.6508,
+    "n": 63,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -14062,8 +14059,8 @@ let profesores={
   },
   "GERMAN SINUHE AYALA FUENTES": {
     "link": "https://www.misprofesores.com/profesores/Germ\u00e1n-Sinuhe-Ayala-Fuentes_109376",
-    "general": 5.2727,
-    "n": 11,
+    "general": 5.5,
+    "n": 12,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -18243,8 +18240,8 @@ let profesores={
   },
   "CLAUDIA GUADALUPE GOMEZ WULSCHNER": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Guadalupe-Gomez-Wulshner_10714",
-    "general": 8.2025,
-    "n": 79,
+    "general": 8.15,
+    "n": 80,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
@@ -18487,8 +18484,8 @@ let profesores={
   },
   "EDUARDO TOMAS ARELLANO ARJONA": {
     "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.479,
-    "n": 119,
+    "general": 6.5083,
+    "n": 120,
     "grupos": {
       "MAT-12102-CALCULO, III": [
         {
@@ -18814,8 +18811,8 @@ let profesores={
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
-    "general": 8.037,
-    "n": 162,
+    "general": 8.0307,
+    "n": 163,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -18872,8 +18869,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.4063,
-    "n": 32,
+    "general": 6.5152,
+    "n": 33,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -19923,8 +19920,8 @@ let profesores={
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",
-    "general": 6.0,
-    "n": 18,
+    "general": 6.2105,
+    "n": 19,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -20172,8 +20169,8 @@ let profesores={
           "creditos": "6",
           "horario": "13:00-14:30",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
           "salon": "RH302",
           "campus": "RIO HONDO",
@@ -20243,8 +20240,8 @@ let profesores={
   },
   "FERNANDO CORNEJO MONTA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo-Monta\u00f1o_67406",
-    "general": 7.7727,
-    "n": 66,
+    "general": 7.7463,
+    "n": 67,
     "grupos": {
       "MAT-14310-ALG. LINEAL, II (ALG. LINEAL)": [
         {
@@ -20903,6 +20900,21 @@ let profesores={
       ],
       "SDI-11221-ELEMENTOS DE ELECTRONICA": [
         {
+          "grupo": "001",
+          "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+          "profesor": "MARIA OFELIA RODRIGUEZ DURAN",
+          "creditos": "10",
+          "horario": "11:00-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH112",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "13:00"
+        },
+        {
           "grupo": "002",
           "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
           "profesor": "MARIA OFELIA RODRIGUEZ DURAN",
@@ -21353,8 +21365,8 @@ let mejoresPorDepto={
     "DIEGO HERNANDEZ RANGEL",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
     "SERGIO GARCIA ALQUICIRA",
-    "PEDRO DANIEL TREJO SOLIS",
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
+    "PEDRO DANIEL TREJO SOLIS",
     "FERNANDO PEREZ RIOS",
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
     "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
@@ -21454,8 +21466,8 @@ let mejoresPorDepto={
     "ALFREDO VILLAFRANCA QUINTO",
     "DAVID MORENO GUINEA",
     "VALERIA ZEPEDA TREJO",
-    "JOSE PANTALEON DOMINGUEZ ESPONDA",
-    "STEFANO STRAULINO TORRE"
+    "STEFANO STRAULINO TORRE",
+    "JOSE PANTALEON DOMINGUEZ ESPONDA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "MARIA FLORENCIA PALACIO GOMEZ SAMANIEGO",
