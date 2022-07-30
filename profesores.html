@@ -167,6 +167,12 @@
                     datalist.appendChild(option);
                 }             
             }
+            //Modifica y envia forma para "Ver en Horarios Grace"
+            function post_link(clase){
+                document.getElementsByName("txt_materia")[0].value=clase;
+                document.detalles.submit();
+            }
+
             //
             function llenaMejoresPorDepto(){
                 for(let depto in mejoresPorDepto){
