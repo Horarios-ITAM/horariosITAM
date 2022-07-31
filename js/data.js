@@ -1,4 +1,4 @@
-let actualizado='1659175581114.8591';
+let actualizado='1659249419197.621';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -4168,21 +4168,6 @@ let clases={
         "fin": "17:30"
       },
       {
-        "grupo": "002",
-        "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
-        "profesor": "CLAUDIA GABRIELA ORTIZ PE\u00d1A",
-        "creditos": "6",
-        "horario": "07:00-08:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH111",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
-      },
-      {
         "grupo": "003",
         "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
         "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
@@ -4253,21 +4238,6 @@ let clases={
         "fin": "17:30"
       },
       {
-        "grupo": "002",
-        "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
-        "profesor": "CLAUDIA GABRIELA ORTIZ PE\u00d1A",
-        "creditos": "6",
-        "horario": "07:00-08:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH111",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
-      },
-      {
         "grupo": "003",
         "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
         "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
@@ -4302,21 +4272,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
-      },
-      {
-        "grupo": "002",
-        "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
-        "profesor": "CLAUDIA GABRIELA ORTIZ PE\u00d1A",
-        "creditos": "6",
-        "horario": "07:00-08:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH111",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
       },
       {
         "grupo": "003",
@@ -18695,7 +18650,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
-        "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
+        "profesor": "JOSE DE JESUS MORALES ROMERO",
         "creditos": "10",
         "horario": "12:00-14:00",
         "dias": [
@@ -18709,7 +18664,7 @@ let clases={
       {
         "grupo": "003L",
         "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
-        "profesor": "SERGIO HERNANDEZ SANCHEZ",
+        "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
         "creditos": "10",
         "horario": "09:00-11:00",
         "dias": [
@@ -18723,7 +18678,7 @@ let clases={
       {
         "grupo": "004L",
         "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
-        "profesor": "SERGIO HERNANDEZ SANCHEZ",
+        "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
         "creditos": "10",
         "horario": "09:00-11:00",
         "dias": [
@@ -18809,7 +18764,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-        "profesor": "JOSE DE JESUS MORALES ROMERO",
+        "profesor": "SERGIO HERNANDEZ SANCHEZ",
         "creditos": "10",
         "horario": "14:00-16:00",
         "dias": [
@@ -19214,7 +19169,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
-        "profesor": "",
+        "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
         "creditos": "6",
         "horario": "12:30-14:00",
         "dias": [
@@ -19574,8 +19529,8 @@ let misProfesData={
   },
   "FERNANDO CORNEJO MONTA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo-Monta\u00f1o_67406",
-    "general": 7.7463,
-    "n": 67
+    "general": 7.7647,
+    "n": 68
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
@@ -19586,6 +19541,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
     "general": 9.7143,
     "n": 7
+  },
+  "HUGO CUEVAS BRAVO": {
+    "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
+    "general": 10.0,
+    "n": 1
   },
   "CLAUDIA DAVILA CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Claudia-D\u00e1vila-Ch\u00e1vez_75146",
@@ -19669,8 +19629,8 @@ let misProfesData={
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
-    "general": 8.7876,
-    "n": 113
+    "general": 8.7982,
+    "n": 114
   },
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
@@ -19789,8 +19749,8 @@ let misProfesData={
   },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
-    "general": 7.6897,
-    "n": 29
+    "general": 7.6,
+    "n": 30
   },
   "RICARDO GARCIA DE LA ROSA": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Garcia-de-la-Rosa_65796",
@@ -19883,9 +19843,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5882,
+    "n": 17
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19949,8 +19909,8 @@ let misProfesData={
   },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
-    "general": 2.0,
-    "n": 1
+    "general": 6.0,
+    "n": 2
   },
   "DIEGO HERNANDEZ RANGEL": {
     "link": "https://www.misprofesores.com/profesores/Diego-Hern\u00e1ndez-Rangel_10679",
@@ -20037,11 +19997,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8451,
@@ -20103,9 +20058,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -20309,8 +20264,8 @@ let misProfesData={
   },
   "JESUS ALEJANDRO ORDIERES SIERES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Ordieres-Sieres_10826",
-    "general": 7.3056,
-    "n": 144
+    "general": 7.3241,
+    "n": 145
   },
   "ELSA VIVIANA OROPEZA GRACIA": {
     "link": "https://www.misprofesores.com/profesores/Elsa-Viviana-Oropeza-Gracia_93911",
@@ -20484,8 +20439,8 @@ let misProfesData={
   },
   "JOSE RAMON RIOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
-    "general": 8.0667,
-    "n": 15
+    "general": 8.125,
+    "n": 16
   },
   "VICTOR HUGO RIVAS CALDERON": {
     "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
@@ -20498,9 +20453,9 @@ let misProfesData={
     "n": 17
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -20554,8 +20509,8 @@ let misProfesData={
   },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
-    "general": 6.2609,
-    "n": 23
+    "general": 6.375,
+    "n": 24
   },
   "HILDA MARGARITA SALGADO SOTA": {
     "link": "https://www.misprofesores.com/profesores/Hilda-Margarita-Salgado-Sota_30811",

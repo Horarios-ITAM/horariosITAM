@@ -1,4 +1,4 @@
-let actualizado='1659175581114.8591';
+let actualizado='1659249419197.621';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -193,8 +193,8 @@ let profesores={
   },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
-    "general": 2.0,
-    "n": 1,
+    "general": 6.0,
+    "n": 2,
     "grupos": {
       "ACT-11302-CALCULO ACTUARIAL III": [
         {
@@ -1022,23 +1022,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        }
-      ],
-      "SDI-14105-INTRODUCCION A LA INGENIERIA": [
-        {
-          "grupo": "003",
-          "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "12:30-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
         }
       ]
     }
@@ -3670,8 +3653,8 @@ let profesores={
   },
   "JOSE RAMON RIOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
-    "general": 8.0667,
-    "n": 15,
+    "general": 8.125,
+    "n": 16,
     "grupos": {
       "COM-11107-ORG. Y PROGRAM.DE COMPUTADORAS": [
         {
@@ -3810,9 +3793,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4653,9 +4633,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5882,
+    "n": 17,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5351,80 +5331,6 @@ let profesores={
       ]
     }
   },
-  "CLAUDIA GABRIELA ORTIZ PE\u00d1A": {
-    "link": "https://www.misprofesores.com/profesores/Claudia-Gabriela-Ortiz-Pe\u00f1a_72010",
-    "general": 7.9524,
-    "n": 21,
-    "grupos": {
-      "CON-12110-CONTABILIDAD DE COSTOS P/ING.": [
-        {
-          "grupo": "002",
-          "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
-          "profesor": "CLAUDIA GABRIELA ORTIZ PE\u00d1A",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "CON-14100-CONTABILIDAD ADMINISTRATIVA, I": [
-        {
-          "grupo": "001",
-          "nombre": "CON-14100-CONTABILIDAD ADMINISTRATIVA, I",
-          "profesor": "CLAUDIA GABRIELA ORTIZ PE\u00d1A",
-          "creditos": "9",
-          "horario": "07:00-09:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:30"
-        }
-      ],
-      "CON-14101-CONTABILIDAD ADMINISTRATIVA,II": [
-        {
-          "grupo": "002",
-          "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
-          "profesor": "CLAUDIA GABRIELA ORTIZ PE\u00d1A",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "CON-14109-CONTABILIDAD GERENCIAL": [
-        {
-          "grupo": "002",
-          "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
-          "profesor": "CLAUDIA GABRIELA ORTIZ PE\u00d1A",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
     "general": 8.1714,
@@ -5479,6 +5385,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "CLAUDIA GABRIELA ORTIZ PE\u00d1A": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Gabriela-Ortiz-Pe\u00f1a_72010",
+    "general": 7.9524,
+    "n": 21,
+    "grupos": {
+      "CON-14100-CONTABILIDAD ADMINISTRATIVA, I": [
+        {
+          "grupo": "001",
+          "nombre": "CON-14100-CONTABILIDAD ADMINISTRATIVA, I",
+          "profesor": "CLAUDIA GABRIELA ORTIZ PE\u00d1A",
+          "creditos": "9",
+          "horario": "07:00-09:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:30"
         }
       ]
     }
@@ -10115,9 +10044,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10442,8 +10371,8 @@ let profesores={
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
-    "general": 8.7876,
-    "n": 113,
+    "general": 8.7982,
+    "n": 114,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -12639,8 +12568,8 @@ let profesores={
   },
   "JESUS ALEJANDRO ORDIERES SIERES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Ordieres-Sieres_10826",
-    "general": 7.3056,
-    "n": 144,
+    "general": 7.3241,
+    "n": 145,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -13941,8 +13870,8 @@ let profesores={
   },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
-    "general": 7.6897,
-    "n": 29,
+    "general": 7.6,
+    "n": 30,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14198,6 +14127,9 @@ let profesores={
     }
   },
   "HUGO CUEVAS BRAVO": {
+    "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -14650,9 +14582,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -20240,8 +20172,8 @@ let profesores={
   },
   "FERNANDO CORNEJO MONTA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo-Monta\u00f1o_67406",
-    "general": 7.7463,
-    "n": 67,
+    "general": 7.7647,
+    "n": 68,
     "grupos": {
       "MAT-14310-ALG. LINEAL, II (ALG. LINEAL)": [
         {
@@ -20792,18 +20724,32 @@ let profesores={
       ],
       "SDI-11322-CIRCUITOS LOGICOS-LAB": [
         {
-          "grupo": "002L",
+          "grupo": "003L",
           "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
           "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
           "creditos": "10",
-          "horario": "12:00-14:00",
+          "horario": "09:00-11:00",
           "dias": [
-            "VI"
+            "MI"
           ],
           "salon": "RHLCLMP",
           "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
+          "inicio": "09:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "004L",
+          "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
+          "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
+          "creditos": "10",
+          "horario": "09:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHLCLMP",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
         }
       ],
       "SDI-12761-ANTENAS Y RADIACION-LAB": [
@@ -20826,8 +20772,8 @@ let profesores={
   },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
-    "general": 6.2609,
-    "n": 23,
+    "general": 6.375,
+    "n": 24,
     "grupos": {
       "SDI-11120-ELEMENTOS DE FISICA": [
         {
@@ -20950,20 +20896,20 @@ let profesores={
           "fin": "09:00"
         }
       ],
-      "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB": [
+      "SDI-11322-CIRCUITOS LOGICOS-LAB": [
         {
-          "grupo": "001L",
-          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
+          "grupo": "002L",
+          "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
           "profesor": "JOSE DE JESUS MORALES ROMERO",
           "creditos": "10",
-          "horario": "14:00-16:00",
+          "horario": "12:00-14:00",
           "dias": [
             "VI"
           ],
           "salon": "RHLCLMP",
           "campus": "RIO HONDO",
-          "inicio": "14:00",
-          "fin": "16:00"
+          "inicio": "12:00",
+          "fin": "14:00"
         }
       ],
       "SDI-11561-PRINCIPIOS DE MECATRONICA": [
@@ -21004,40 +20950,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
-        }
-      ]
-    }
-  },
-  "SERGIO HERNANDEZ SANCHEZ": {
-    "grupos": {
-      "SDI-11322-CIRCUITOS LOGICOS-LAB": [
-        {
-          "grupo": "003L",
-          "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
-          "profesor": "SERGIO HERNANDEZ SANCHEZ",
-          "creditos": "10",
-          "horario": "09:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHLCLMP",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "004L",
-          "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
-          "profesor": "SERGIO HERNANDEZ SANCHEZ",
-          "creditos": "10",
-          "horario": "09:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHLCLMP",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -21104,6 +21016,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "15:00",
           "fin": "17:00"
+        }
+      ]
+    }
+  },
+  "SERGIO HERNANDEZ SANCHEZ": {
+    "grupos": {
+      "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
+          "profesor": "SERGIO HERNANDEZ SANCHEZ",
+          "creditos": "10",
+          "horario": "14:00-16:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLCLMP",
+          "campus": "RIO HONDO",
+          "inicio": "14:00",
+          "fin": "16:00"
         }
       ]
     }
@@ -21297,6 +21229,23 @@ let profesores={
           "inicio": "10:00",
           "fin": "12:00"
         }
+      ],
+      "SDI-14105-INTRODUCCION A LA INGENIERIA": [
+        {
+          "grupo": "003",
+          "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
+          "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
+          "creditos": "6",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
+        }
       ]
     }
   },
@@ -21447,7 +21396,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
-    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
@@ -21455,7 +21403,8 @@ let mejoresPorDepto={
     "MARINE CHARLOTTE ANDRE",
     "MIGUEL MESSMACHER LINARTAS",
     "CHRISTIANE FABREGA CHIMALI",
-    "MENEY DE LA PEZA GANDARA"
+    "MENEY DE LA PEZA GANDARA",
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -21482,16 +21431,16 @@ let mejoresPorDepto={
     "JORGE ALBERTO SCHIAVON URIEGAS"
   ],
   "ESTADISTICA": [
+    "HUGO CUEVAS BRAVO",
     "ERIKA BURGOS PADILLA",
     "DANTE GABRIEL CAMPOS SALIDO",
     "SALVADOR GARCIA GONZALEZ",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "LILIANA DE LA TORRE DESENTIS",
+    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
     "MAX AMERICO SOLDEVILLA CANALES",
-    "ILEANA GARCIA CONDE",
-    "TRINIDAD GONZALEZ BONILLA",
-    "MANUEL MENDOZA RAMIREZ"
+    "TRINIDAD GONZALEZ BONILLA"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
@@ -21539,6 +21488,6 @@ let mejoresPorDepto={
     "FRANCISCO JAVIER VILLA LOPEZ",
     "MARIA OFELIA RODRIGUEZ DURAN",
     "JOSE DE JESUS MORALES ROMERO",
-    "SERGIO HERNANDEZ SANCHEZ"
+    "RAFAEL CISNEROS MONTOYA"
   ]
 };
