@@ -1,4 +1,4 @@
-let actualizado='1659518906040.082';
+let actualizado='1659625581310.855';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -740,8 +740,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9634,
-    "n": 273,
+    "general": 4.9526,
+    "n": 274,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -1256,53 +1256,36 @@ let profesores={
           "fin": "12:00"
         }
       ],
-      "EST-24127-CALCULO DE PROBABILIDADES II": [
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
-          "grupo": "005",
-          "nombre": "EST-24127-CALCULO DE PROBABILIDADES II",
+          "grupo": "008",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
           "profesor": "",
           "creditos": "6",
-          "horario": "16:00-17:30",
+          "horario": "17:30-19:00",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RH110",
+          "salon": "RHACERV",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+          "inicio": "17:30",
+          "fin": "19:00"
+        },
         {
-          "grupo": "009",
-          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "grupo": "010",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
           "profesor": "",
-          "creditos": "2",
-          "horario": "12:00-13:00",
+          "creditos": "6",
+          "horario": "08:30-10:00",
           "dias": [
-            "MA"
+            "MA",
+            "JU"
           ],
-          "salon": "RHPB4",
+          "salon": "RHACERV",
           "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
-        {
-          "grupo": "009",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ],
       "LEN-12755-COMUN. PROFESIONAL PARA C. POL": [
@@ -3142,6 +3125,48 @@ let profesores={
       ],
       "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
         {
+          "grupo": "003",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+          "creditos": "2",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        },
+        {
           "grupo": "007",
           "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
           "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
@@ -3157,6 +3182,48 @@ let profesores={
         }
       ],
       "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+          "creditos": "2",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        },
         {
           "grupo": "007",
           "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
@@ -3248,21 +3315,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        },
-        {
-          "grupo": "027",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ]
     }
@@ -4519,9 +4571,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5882,
-    "n": 17,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -9547,44 +9599,6 @@ let profesores={
       ]
     }
   },
-  "JOSE EDUARDO GARCIA GOMEZ TAGLE": {
-    "grupos": {
-      "ECO-10517-MACROECONOMETRIA APLICADA": [
-        {
-          "grupo": "003",
-          "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
-          "profesor": "JOSE EDUARDO GARCIA GOMEZ TAGLE",
-          "creditos": "7",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-11104-ECONOMIA, IV": [
-        {
-          "grupo": "003",
-          "nombre": "ECO-11104-ECONOMIA, IV",
-          "profesor": "JOSE EDUARDO GARCIA GOMEZ TAGLE",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH113",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ]
-    }
-  },
   "HERNANDO CARLOS LUIS SABAU GARCIA": {
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
@@ -9989,6 +10003,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
+        }
+      ]
+    }
+  },
+  "JOSE EDUARDO GARCIA GOMEZ TAGLE": {
+    "grupos": {
+      "ECO-11104-ECONOMIA, IV": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-11104-ECONOMIA, IV",
+          "profesor": "JOSE EDUARDO GARCIA GOMEZ TAGLE",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH113",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -11467,8 +11502,8 @@ let profesores={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.4417,
-    "n": 120,
+    "general": 6.4711,
+    "n": 121,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -12734,8 +12769,8 @@ let profesores={
   },
   "LUIS ARTURO DEL CASTILLO MUZQUIZ": {
     "link": "https://www.misprofesores.com/profesores/LUIS-ARTURO-DEL-CASTILLO-MUZQUIZ_40780",
-    "general": 7.1077,
-    "n": 65,
+    "general": 7.1515,
+    "n": 66,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -12810,13 +12845,16 @@ let profesores={
       ]
     }
   },
-  "ALFREDO GERARDO MARTINEZ OJEDA": {
+  "GONZALO TOMAS SUAREZ BELMONT": {
+    "link": "https://www.misprofesores.com/profesores/Gonzalo-Tom\u00e1s-Su\u00e1rez-Belmont_19775",
+    "general": 7.25,
+    "n": 44,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
           "grupo": "010",
           "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+          "profesor": "GONZALO TOMAS SUAREZ BELMONT",
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
@@ -12827,63 +12865,7 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        }
-      ],
-      "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
-        {
-          "grupo": "004",
-          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         },
-        {
-          "grupo": "006",
-          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "009",
-          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "GONZALO TOMAS SUAREZ BELMONT": {
-    "link": "https://www.misprofesores.com/profesores/Gonzalo-Tom\u00e1s-Su\u00e1rez-Belmont_19775",
-    "general": 7.25,
-    "n": 44,
-    "grupos": {
-      "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
           "grupo": "011",
           "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
@@ -12961,6 +12943,57 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "ALFREDO GERARDO MARTINEZ OJEDA": {
+    "grupos": {
+      "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
+        {
+          "grupo": "004",
+          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH210",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "006",
+          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "009",
+          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -13107,8 +13140,8 @@ let profesores={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 9.0667,
-    "n": 15,
+    "general": 9.125,
+    "n": 16,
     "grupos": {
       "EIN-11101-INT. A LAS R. INTERNACIONALES": [
         {
@@ -14591,6 +14624,23 @@ let profesores={
           "inicio": "12:00",
           "fin": "14:00"
         }
+      ],
+      "EST-24127-CALCULO DE PROBABILIDADES II": [
+        {
+          "grupo": "005",
+          "nombre": "EST-24127-CALCULO DE PROBABILIDADES II",
+          "profesor": "FELIPE JAVIER MEDINA AGUAYO",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
       ]
     }
   },
@@ -15660,16 +15710,13 @@ let profesores={
       ]
     }
   },
-  "FRANCISCO GALAN TAMES": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Gal\u00e1n-Tam\u00e9s_106990",
-    "general": 9.0667,
-    "n": 15,
+  "BERNARDO RAMIREZ LOPEZ": {
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
           "grupo": "016",
           "nombre": "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT",
-          "profesor": "FRANCISCO GALAN TAMES",
+          "profesor": "BERNARDO RAMIREZ LOPEZ",
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
@@ -15680,43 +15727,28 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        }
-      ],
-      "LEN-10141-COM. ESCRITA PARA ING. NEGOC.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-10141-COM. ESCRITA PARA ING. NEGOC.",
-          "profesor": "FRANCISCO GALAN TAMES",
-          "creditos": "2",
-          "horario": "18:00-19:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-10141-COM. ESCRITA PARA ING. NEGOC.",
-          "profesor": "FRANCISCO GALAN TAMES",
-          "creditos": "2",
-          "horario": "19:00-20:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:00"
         }
       ],
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
+          "grupo": "009",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "BERNARDO RAMIREZ LOPEZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        },
+        {
           "grupo": "016",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "FRANCISCO GALAN TAMES",
+          "profesor": "BERNARDO RAMIREZ LOPEZ",
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
@@ -15727,36 +15759,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        }
-      ],
-      "LEN-12726-COM. ESCRITA PARA ING EN NEGOC": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12726-COM. ESCRITA PARA ING EN NEGOC",
-          "profesor": "FRANCISCO GALAN TAMES",
-          "creditos": "2",
-          "horario": "18:00-19:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-12726-COM. ESCRITA PARA ING EN NEGOC",
-          "profesor": "FRANCISCO GALAN TAMES",
-          "creditos": "2",
-          "horario": "19:00-20:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:00"
         }
       ]
     }
@@ -16146,16 +16148,156 @@ let profesores={
       ]
     }
   },
-  "ROSA MARGARITA GALAN VELEZ": {
-    "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
-    "general": 5.6857,
-    "n": 35,
+  "FEDERICO AUGUSTO GUZMAN RUBIO": {
+    "grupos": {
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "009",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "009",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "08:30-09:30",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "08:30-09:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:30"
+        },
+        {
+          "grupo": "003",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "17:30-18:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "18:30"
+        }
+      ],
+      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "08:30-09:30",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "08:30-09:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:30"
+        },
+        {
+          "grupo": "003",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "17:30-18:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "18:30"
+        }
+      ]
+    }
+  },
+  "MANUEL ADRIAN CHAVEZ PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Manuel-Adrian-Ch\u00e1vez-P\u00e9rez_104157",
+    "general": 9.8,
+    "n": 5,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
           "grupo": "015",
           "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-          "profesor": "ROSA MARGARITA GALAN VELEZ",
+          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
           "creditos": "2",
           "horario": "12:00-13:00",
           "dias": [
@@ -16167,11 +16309,56 @@ let profesores={
           "fin": "13:00"
         }
       ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "005",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        },
+        {
+          "grupo": "018",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
+          "creditos": "6",
+          "horario": "12:00-15:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "15:00"
+        }
+      ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
+          "creditos": "2",
+          "horario": "15:00-16:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "15:00",
+          "fin": "16:00"
+        },
         {
           "grupo": "014",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "ROSA MARGARITA GALAN VELEZ",
+          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
           "creditos": "2",
           "horario": "11:00-12:00",
           "dias": [
@@ -16185,7 +16372,7 @@ let profesores={
         {
           "grupo": "015",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "ROSA MARGARITA GALAN VELEZ",
+          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
           "creditos": "2",
           "horario": "12:00-13:00",
           "dias": [
@@ -16200,9 +16387,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16307,21 +16494,6 @@ let profesores={
       ],
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
-          "grupo": "010",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        },
-        {
           "grupo": "011",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
           "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
@@ -16346,6 +16518,66 @@ let profesores={
           "horario": "11:00-12:00",
           "dias": [
             "VI"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ],
+      "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+          "creditos": "2",
+          "horario": "11:00-12:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ],
+      "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+          "creditos": "2",
+          "horario": "11:00-12:00",
+          "dias": [
+            "LU"
           ],
           "salon": "RHPB4",
           "campus": "RIO HONDO",
@@ -16475,6 +16707,73 @@ let profesores={
             "JU"
           ],
           "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:00"
+        }
+      ]
+    }
+  },
+  "FRANCISCO GALAN TAMES": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Gal\u00e1n-Tam\u00e9s_106990",
+    "general": 9.0667,
+    "n": 15,
+    "grupos": {
+      "LEN-10141-COM. ESCRITA PARA ING. NEGOC.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-10141-COM. ESCRITA PARA ING. NEGOC.",
+          "profesor": "FRANCISCO GALAN TAMES",
+          "creditos": "2",
+          "horario": "18:00-19:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-10141-COM. ESCRITA PARA ING. NEGOC.",
+          "profesor": "FRANCISCO GALAN TAMES",
+          "creditos": "2",
+          "horario": "19:00-20:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:00"
+        }
+      ],
+      "LEN-12726-COM. ESCRITA PARA ING EN NEGOC": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12726-COM. ESCRITA PARA ING EN NEGOC",
+          "profesor": "FRANCISCO GALAN TAMES",
+          "creditos": "2",
+          "horario": "18:00-19:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12726-COM. ESCRITA PARA ING EN NEGOC",
+          "profesor": "FRANCISCO GALAN TAMES",
+          "creditos": "2",
+          "horario": "19:00-20:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHASHAK",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:00"
@@ -16721,60 +17020,6 @@ let profesores={
       ]
     }
   },
-  "MANUEL ADRIAN CHAVEZ PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Manuel-Adrian-Ch\u00e1vez-P\u00e9rez_104157",
-    "general": 9.8,
-    "n": 5,
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "005",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        },
-        {
-          "grupo": "018",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
-          "creditos": "6",
-          "horario": "12:00-15:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "15:00"
-        }
-      ],
-      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
-          "creditos": "2",
-          "horario": "15:00-16:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "15:00",
-          "fin": "16:00"
-        }
-      ]
-    }
-  },
   "ELSA VIVIANA OROPEZA GRACIA": {
     "link": "https://www.misprofesores.com/profesores/Elsa-Viviana-Oropeza-Gracia_93911",
     "general": 8.375,
@@ -16810,64 +17055,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
-        }
-      ]
-    }
-  },
-  "ANDREA GONZALEZ AGUILAR": {
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "008",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "ANDREA GONZALEZ AGUILAR",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
-        {
-          "grupo": "006",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "ANDREA GONZALEZ AGUILAR",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "BERNARDO RAMIREZ LOPEZ": {
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "009",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "BERNARDO RAMIREZ LOPEZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -17101,6 +17288,21 @@ let profesores={
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
+          "grupo": "027",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "FERNANDO PABLO CLAVIJO MOSTAJO",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        },
+        {
           "grupo": "031",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
           "profesor": "FERNANDO PABLO CLAVIJO MOSTAJO",
@@ -17180,6 +17382,20 @@ let profesores={
     "n": 18,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "006",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "EDUARDO MENACHE VARELA",
+          "creditos": "2",
+          "horario": "09:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        },
         {
           "grupo": "008",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
@@ -17511,265 +17727,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "09:30"
-        }
-      ]
-    }
-  },
-  "FEDERICO AUGUSTO GUZMAN RUBIO": {
-    "grupos": {
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "08:30-09:30",
-          "dias": [
-            "LU"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "09:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "08:30-09:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHB-5",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "09:30"
-        },
-        {
-          "grupo": "003",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "17:30-18:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "18:30"
-        }
-      ],
-      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "08:30-09:30",
-          "dias": [
-            "LU"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "09:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "08:30-09:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHB-5",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "09:30"
-        },
-        {
-          "grupo": "003",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "17:30-18:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "18:30"
-        }
-      ]
-    }
-  },
-  "ANTONIO CANIZALES GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Antonio-Caniz\u00e1lez-Gonz\u00e1lez_10831",
-    "general": 8.24,
-    "n": 25,
-    "grupos": {
-      "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-          "profesor": "ANTONIO CANIZALES GONZALEZ",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-          "profesor": "ANTONIO CANIZALES GONZALEZ",
-          "creditos": "2",
-          "horario": "11:00-12:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-          "profesor": "ANTONIO CANIZALES GONZALEZ",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-          "profesor": "ANTONIO CANIZALES GONZALEZ",
-          "creditos": "2",
-          "horario": "11:00-12:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        },
-        {
-          "grupo": "005",
-          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-          "profesor": "ANTONIO CANIZALES GONZALEZ",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-          "profesor": "ANTONIO CANIZALES GONZALEZ",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-          "profesor": "ANTONIO CANIZALES GONZALEZ",
-          "creditos": "2",
-          "horario": "11:00-12:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-          "profesor": "ANTONIO CANIZALES GONZALEZ",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-          "profesor": "ANTONIO CANIZALES GONZALEZ",
-          "creditos": "2",
-          "horario": "11:00-12:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        },
-        {
-          "grupo": "005",
-          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-          "profesor": "ANTONIO CANIZALES GONZALEZ",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
         }
       ]
     }
@@ -20671,7 +20628,7 @@ let profesores={
       ],
       "SDI-12761-ANTENAS Y RADIACION-LAB": [
         {
-          "grupo": "0L",
+          "grupo": "001L",
           "nombre": "SDI-12761-ANTENAS Y RADIACION-LAB",
           "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
           "creditos": "8",
@@ -20726,7 +20683,7 @@ let profesores={
       ],
       "SDI-12761-ANTENAS Y RADIACION": [
         {
-          "grupo": "0",
+          "grupo": "001",
           "nombre": "SDI-12761-ANTENAS Y RADIACION",
           "profesor": "ANTE SALCEDO GONZALEZ",
           "creditos": "8",

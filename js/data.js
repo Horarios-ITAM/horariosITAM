@@ -1,4 +1,4 @@
-let actualizado='1659518906040.082';
+let actualizado='1659625581310.855';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -8077,21 +8077,6 @@ let clases={
         "fin": "10:00"
       },
       {
-        "grupo": "003",
-        "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
-        "profesor": "JOSE EDUARDO GARCIA GOMEZ TAGLE",
-        "creditos": "7",
-        "horario": "08:30-10:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH313",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
-      },
-      {
         "grupo": "004",
         "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
         "profesor": "HERNANDO CARLOS LUIS SABAU GARCIA",
@@ -11029,7 +11014,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+        "profesor": "GONZALO TOMAS SUAREZ BELMONT",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -12919,7 +12904,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EST-24127-CALCULO DE PROBABILIDADES II",
-        "profesor": "",
+        "profesor": "FELIPE JAVIER MEDINA AGUAYO",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -13704,7 +13689,7 @@ let clases={
       {
         "grupo": "016",
         "nombre": "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT",
-        "profesor": "FRANCISCO GALAN TAMES",
+        "profesor": "BERNARDO RAMIREZ LOPEZ",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -13797,7 +13782,7 @@ let clases={
       {
         "grupo": "009",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "",
+        "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -13825,7 +13810,7 @@ let clases={
       {
         "grupo": "015",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "ROSA MARGARITA GALAN VELEZ",
+        "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -14183,7 +14168,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "ANDREA GONZALEZ AGUILAR",
+        "profesor": "",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -14213,7 +14198,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -14303,7 +14288,7 @@ let clases={
       {
         "grupo": "016",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "FRANCISCO GALAN TAMES",
+        "profesor": "BERNARDO RAMIREZ LOPEZ",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -14467,7 +14452,7 @@ let clases={
       {
         "grupo": "027",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "MARCELA RABADAN GALLARDO",
+        "profesor": "FERNANDO PABLO CLAVIJO MOSTAJO",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -14616,7 +14601,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "ANDREA GONZALEZ AGUILAR",
+        "profesor": "EDUARDO MENACHE VARELA",
         "creditos": "2",
         "horario": "09:00-10:00",
         "dias": [
@@ -14658,7 +14643,7 @@ let clases={
       {
         "grupo": "009",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "",
+        "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -14728,7 +14713,7 @@ let clases={
       {
         "grupo": "014",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "ROSA MARGARITA GALAN VELEZ",
+        "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -14742,7 +14727,7 @@ let clases={
       {
         "grupo": "015",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "ROSA MARGARITA GALAN VELEZ",
+        "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -15190,7 +15175,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-        "profesor": "ANTONIO CANIZALES GONZALEZ",
+        "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -15204,7 +15189,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-        "profesor": "ANTONIO CANIZALES GONZALEZ",
+        "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -15218,7 +15203,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-        "profesor": "ANTONIO CANIZALES GONZALEZ",
+        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -15232,7 +15217,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-        "profesor": "ANTONIO CANIZALES GONZALEZ",
+        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -15246,7 +15231,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-        "profesor": "ANTONIO CANIZALES GONZALEZ",
+        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -15818,7 +15803,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-        "profesor": "ANTONIO CANIZALES GONZALEZ",
+        "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -15832,7 +15817,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-        "profesor": "ANTONIO CANIZALES GONZALEZ",
+        "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -15846,7 +15831,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-        "profesor": "ANTONIO CANIZALES GONZALEZ",
+        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -15860,7 +15845,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-        "profesor": "ANTONIO CANIZALES GONZALEZ",
+        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -15874,7 +15859,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-        "profesor": "ANTONIO CANIZALES GONZALEZ",
+        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -18846,7 +18831,7 @@ let clases={
     "clave": "SDI-12761",
     "grupos": [
       {
-        "grupo": "0L",
+        "grupo": "001L",
         "nombre": "SDI-12761-ANTENAS Y RADIACION-LAB",
         "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
         "creditos": "8",
@@ -18866,7 +18851,7 @@ let clases={
     "clave": "SDI-12761",
     "grupos": [
       {
-        "grupo": "0",
+        "grupo": "001",
         "nombre": "SDI-12761-ANTENAS Y RADIACION",
         "profesor": "ANTE SALCEDO GONZALEZ",
         "creditos": "8",
@@ -19218,8 +19203,8 @@ let misProfesData={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.4417,
-    "n": 120
+    "general": 6.4711,
+    "n": 121
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
@@ -19376,11 +19361,6 @@ let misProfesData={
     "general": 7.807,
     "n": 57
   },
-  "ANTONIO CANIZALES GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Antonio-Caniz\u00e1lez-Gonz\u00e1lez_10831",
-    "general": 8.24,
-    "n": 25
-  },
   "GUSTAVO CARDENAS SORIANO": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
     "general": 10.0,
@@ -19498,8 +19478,8 @@ let misProfesData={
   },
   "LUIS ARTURO DEL CASTILLO MUZQUIZ": {
     "link": "https://www.misprofesores.com/profesores/LUIS-ARTURO-DEL-CASTILLO-MUZQUIZ_40780",
-    "general": 7.1077,
-    "n": 65
+    "general": 7.1515,
+    "n": 66
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
@@ -19603,8 +19583,8 @@ let misProfesData={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 9.0667,
-    "n": 15
+    "general": 9.125,
+    "n": 16
   },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
@@ -19625,11 +19605,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Francisco-Gal\u00e1n-Tam\u00e9s_106990",
     "general": 9.0667,
     "n": 15
-  },
-  "ROSA MARGARITA GALAN VELEZ": {
-    "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
-    "general": 5.6857,
-    "n": 35
   },
   "CARLOS EMILIO GALINDO FLORES": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
@@ -19762,9 +19737,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5882,
-    "n": 17
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -20498,8 +20473,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9634,
-    "n": 273
+    "general": 4.9526,
+    "n": 274
   },
   "SERGIO SILVA CASTA\u00d1EDA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Silva-Casta\u00f1eda_50663",
@@ -20552,9 +20527,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
