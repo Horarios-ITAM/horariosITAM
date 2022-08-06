@@ -1,4 +1,4 @@
-let actualizado='1659737057342.0852';
+let actualizado='1659788615352.121';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -832,7 +832,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH309",
+        "salon": "RHCC201",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -2310,32 +2310,6 @@ let clases={
     "clave": "CLE-10311",
     "grupos": []
   },
-  "CLE-10312-LAB": {
-    "nombre": "CLE-10312-FRANCES II-LAB",
-    "clave": "CLE-10312",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "CLE-10312-FRANCES II-LAB",
-        "profesor": "TOUFIK CHAIBAT",
-        "creditos": "4",
-        "horario": "12:00-14:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH210",
-        "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "14:00"
-      }
-    ]
-  },
-  "CLE-10312": {
-    "nombre": "CLE-10312-FRANCES II",
-    "clave": "CLE-10312",
-    "grupos": []
-  },
   "CLE-10331-LAB": {
     "nombre": "CLE-10331-ALEMAN, I-LAB",
     "clave": "CLE-10331",
@@ -3523,8 +3497,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH110",
+        "campus": "RIO HONDO",
         "inicio": "09:30",
         "fin": "11:30"
       }
@@ -3971,7 +3945,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-12003-ADMON. ESTRATEGICA DE COSTOS",
-        "profesor": "MARIA ELOISA MARTINEZ PEREZ",
+        "profesor": "MARIA LUISA GRUNBERGER STERN",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -4217,7 +4191,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH111",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -5846,27 +5820,28 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
-      },
-      {
-        "grupo": "002L",
-        "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II-LAB",
-        "profesor": "GINA AILEEN CASTILLO RIVERO",
-        "creditos": "2",
-        "horario": "09:00-11:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "RH310",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
       }
     ]
   },
   "DER-11113": {
     "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II",
     "clave": "DER-11113",
-    "grupos": []
+    "grupos": [
+      {
+        "grupo": "003",
+        "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II",
+        "profesor": "GINA AILEEN CASTILLO RIVERO",
+        "creditos": "2",
+        "horario": "07:00-09:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH310",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
+      }
+    ]
   },
   "DER-11114-LAB": {
     "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
@@ -9441,7 +9416,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "",
+        "profesor": "ROBERTO ZOCCO",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -10083,7 +10058,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "",
+        "profesor": "STEFANO STRAULINO TORRE",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -13606,7 +13581,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
+        "profesor": "MARCIA AMARANTA GAMEZ MENDIVIL",
         "creditos": "2",
         "horario": "15:00-16:00",
         "dias": [
@@ -15754,7 +15729,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH213",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -17357,13 +17332,13 @@ let clases={
       }
     ]
   },
-  "SDI-12726-LAB": {
-    "nombre": "SDI-12726-COMUNICACIONES DIGITALES-LAB",
+  "SDI-12726": {
+    "nombre": "SDI-12726-COMUNICACIONES DIGITALES",
     "clave": "SDI-12726",
     "grupos": [
       {
-        "grupo": "001L",
-        "nombre": "SDI-12726-COMUNICACIONES DIGITALES-LAB",
+        "grupo": "002",
+        "nombre": "SDI-12726-COMUNICACIONES DIGITALES",
         "profesor": "JOSE ABEL HERRERA CAMACHO",
         "creditos": "8",
         "horario": "08:00-10:00",
@@ -17374,27 +17349,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "10:00"
-      }
-    ]
-  },
-  "SDI-12726": {
-    "nombre": "SDI-12726-COMUNICACIONES DIGITALES",
-    "clave": "SDI-12726",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "SDI-12726-COMUNICACIONES DIGITALES",
-        "profesor": "TANIA VILLA TRAPALA",
-        "creditos": "8",
-        "horario": "07:00-08:30",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH317",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
       }
     ]
   },
@@ -17427,15 +17381,15 @@ let clases={
         "nombre": "SDI-12761-ANTENAS Y RADIACION",
         "profesor": "ANTE SALCEDO GONZALEZ",
         "creditos": "8",
-        "horario": "11:30-13:00",
+        "horario": "16:00-17:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RHPB1",
+        "salon": "RHCUBIC",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -17986,6 +17940,11 @@ let misProfesData={
     "general": 5.9265,
     "n": 204
   },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3
+  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.5,
@@ -18212,9 +18171,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5882,
-    "n": 17
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -18312,9 +18271,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18427,9 +18386,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -18982,9 +18941,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

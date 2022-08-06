@@ -1,4 +1,4 @@
-let actualizado='1659737057342.0852';
+let actualizado='1659788615352.121';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -930,7 +930,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH309",
+          "salon": "RHCC201",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -1118,42 +1118,6 @@ let profesores={
           "campus": "",
           "inicio": "11:00",
           "fin": "14:00"
-        }
-      ],
-      "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
-        {
-          "grupo": "008",
-          "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "11:00-12:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        }
-      ],
-      "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
-        {
-          "grupo": "010",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "11:00-12:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
         }
       ],
       "EIN-11101-INT. A LAS R. INTERNACIONALES-LAB": [
@@ -2763,23 +2727,6 @@ let profesores={
           "inicio": "13:00",
           "fin": "15:00"
         }
-      ],
-      "CLE-10312-FRANCES II-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10312-FRANCES II-LAB",
-          "profesor": "TOUFIK CHAIBAT",
-          "creditos": "4",
-          "horario": "12:00-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
       ]
     }
   },
@@ -4123,6 +4070,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4252,9 +4202,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5882,
-    "n": 17,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -4282,8 +4232,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH110",
+          "campus": "RIO HONDO",
           "inicio": "09:30",
           "fin": "11:30"
         }
@@ -4765,6 +4715,23 @@ let profesores={
           "inicio": "17:30",
           "fin": "19:00"
         }
+      ],
+      "CON-12003-ADMON. ESTRATEGICA DE COSTOS": [
+        {
+          "grupo": "002",
+          "nombre": "CON-12003-ADMON. ESTRATEGICA DE COSTOS",
+          "profesor": "MARIA LUISA GRUNBERGER STERN",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA4",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
       ]
     }
   },
@@ -4831,23 +4798,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ],
-      "CON-12003-ADMON. ESTRATEGICA DE COSTOS": [
-        {
-          "grupo": "002",
-          "nombre": "CON-12003-ADMON. ESTRATEGICA DE COSTOS",
-          "profesor": "MARIA ELOISA MARTINEZ PEREZ",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA4",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
         }
       ]
     }
@@ -5146,7 +5096,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH111",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -7173,20 +7123,20 @@ let profesores={
   },
   "GINA AILEEN CASTILLO RIVERO": {
     "grupos": {
-      "DER-11113-TALLER DISERT JUR CONSTITU. II-LAB": [
+      "DER-11113-TALLER DISERT JUR CONSTITU. II": [
         {
-          "grupo": "002L",
-          "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II-LAB",
+          "grupo": "003",
+          "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II",
           "profesor": "GINA AILEEN CASTILLO RIVERO",
           "creditos": "2",
-          "horario": "09:00-11:00",
+          "horario": "07:00-09:00",
           "dias": [
             "VI"
           ],
           "salon": "RH310",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -10742,6 +10692,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
+        },
+        {
+          "grupo": "008",
+          "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
+          "profesor": "ROBERTO ZOCCO",
+          "creditos": "6",
+          "horario": "11:00-12:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -11084,6 +11050,24 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
+        }
+      ],
+      "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
+        {
+          "grupo": "010",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "STEFANO STRAULINO TORRE",
+          "creditos": "6",
+          "horario": "11:00-12:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
         }
       ],
       "IIO-16180-SEMINARIO DE TITULACION": [
@@ -13416,9 +13400,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -15159,20 +15143,6 @@ let profesores={
       ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
-          "grupo": "002",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
-          "creditos": "2",
-          "horario": "15:00-16:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "15:00",
-          "fin": "16:00"
-        },
-        {
           "grupo": "014",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
           "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
@@ -15204,9 +15174,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16088,6 +16058,20 @@ let profesores={
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
+          "grupo": "002",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "MARCIA AMARANTA GAMEZ MENDIVIL",
+          "creditos": "2",
+          "horario": "15:00-16:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "15:00",
+          "fin": "16:00"
+        },
+        {
           "grupo": "003",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
           "profesor": "MARCIA AMARANTA GAMEZ MENDIVIL",
@@ -16105,9 +16089,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17740,7 +17724,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH213",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -19097,15 +19081,15 @@ let profesores={
           "nombre": "SDI-12761-ANTENAS Y RADIACION",
           "profesor": "ANTE SALCEDO GONZALEZ",
           "creditos": "8",
-          "horario": "11:30-13:00",
+          "horario": "16:00-17:30",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RHPB1",
+          "salon": "RHCUBIC",
           "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -19412,10 +19396,10 @@ let profesores={
           "fin": "09:00"
         }
       ],
-      "SDI-12726-COMUNICACIONES DIGITALES-LAB": [
+      "SDI-12726-COMUNICACIONES DIGITALES": [
         {
-          "grupo": "001L",
-          "nombre": "SDI-12726-COMUNICACIONES DIGITALES-LAB",
+          "grupo": "002",
+          "nombre": "SDI-12726-COMUNICACIONES DIGITALES",
           "profesor": "JOSE ABEL HERRERA CAMACHO",
           "creditos": "8",
           "horario": "08:00-10:00",
@@ -19426,27 +19410,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "TANIA VILLA TRAPALA": {
-    "grupos": {
-      "SDI-12726-COMUNICACIONES DIGITALES": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-12726-COMUNICACIONES DIGITALES",
-          "profesor": "TANIA VILLA TRAPALA",
-          "creditos": "8",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -19707,11 +19670,11 @@ let mejoresPorDepto={
     "DANTE GABRIEL CAMPOS SALIDO",
     "SALVADOR GARCIA GONZALEZ",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
     "TRINIDAD GONZALEZ BONILLA",
     "ILEANA GARCIA CONDE",
-    "MAX AMERICO SOLDEVILLA CANALES"
+    "MAX AMERICO SOLDEVILLA CANALES",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
@@ -19731,11 +19694,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD",
-    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
+    "GABRIEL ASTEY WOOD"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
