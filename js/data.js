@@ -1,4 +1,4 @@
-let actualizado='1659881397599.1978';
+let actualizado='1660342368605.7751';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -703,7 +703,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH304",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -718,7 +718,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -726,7 +726,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
-        "profesor": "",
+        "profesor": "FELIPE BRUGUES RODRIGUEZ",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -748,7 +748,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH111",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -763,7 +763,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH309",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -941,7 +941,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF102",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "20:30"
@@ -2343,7 +2343,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "CLE-10516-COMMUNICATION IN SPANISH I-LAB",
-        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+        "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
         "creditos": "7",
         "horario": "16:30-17:00",
         "dias": [
@@ -2364,7 +2364,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CLE-10516-COMMUNICATION IN SPANISH I",
-        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+        "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
         "creditos": "7",
         "horario": "15:00-16:30",
         "dias": [
@@ -2427,7 +2427,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "CLE-10518-COMMUNICATION IN SPANISH III-LAB",
-        "profesor": "",
+        "profesor": "ANAYELI HERNANDEZ CRUZ",
         "creditos": "7",
         "horario": "16:30-17:00",
         "dias": [
@@ -2448,7 +2448,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
-        "profesor": "",
+        "profesor": "ANAYELI HERNANDEZ CRUZ",
         "creditos": "7",
         "horario": "15:00-16:30",
         "dias": [
@@ -3356,6 +3356,42 @@ let clases={
         "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "COM-22108": {
+    "nombre": "COM-22108-MINERIA Y ANALISIS DE DATOS",
+    "clave": "COM-22108",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "COM-22108-MINERIA Y ANALISIS DE DATOS",
+        "profesor": "EDGAR FRANCISCO ROMAN RANGEL",
+        "creditos": "6",
+        "horario": "08:00-10:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "STSTUR",
+        "campus": "ST. TERESA",
+        "inicio": "08:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "COM-22108-MINERIA Y ANALISIS DE DATOS",
+        "profesor": "EDGAR FRANCISCO ROMAN RANGEL",
+        "creditos": "6",
+        "horario": "08:00-10:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "STSTUR",
+        "campus": "ST. TERESA",
+        "inicio": "08:00",
         "fin": "10:00"
       }
     ]
@@ -5757,7 +5793,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "14:30",
         "fin": "16:00"
@@ -5820,16 +5856,10 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
-      }
-    ]
-  },
-  "DER-11113": {
-    "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II",
-    "clave": "DER-11113",
-    "grupos": [
+      },
       {
-        "grupo": "003",
-        "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II",
+        "grupo": "003L",
+        "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II-LAB",
         "profesor": "GINA AILEEN CASTILLO RIVERO",
         "creditos": "2",
         "horario": "07:00-09:00",
@@ -5842,6 +5872,11 @@ let clases={
         "fin": "09:00"
       }
     ]
+  },
+  "DER-11113": {
+    "nombre": "DER-11113-TALLER DISERT JUR CONSTITU. II",
+    "clave": "DER-11113",
+    "grupos": []
   },
   "DER-11114-LAB": {
     "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
@@ -7129,7 +7164,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH308",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -7979,7 +8014,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH113",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -7994,7 +8029,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8301,7 +8336,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8595,7 +8630,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH301",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8702,7 +8737,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH202",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9032,7 +9067,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH103",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9124,7 +9159,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH315",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9273,6 +9308,27 @@ let clases={
         "campus": "ST. TERESA",
         "inicio": "14:30",
         "fin": "17:30"
+      }
+    ]
+  },
+  "EGN-11155": {
+    "nombre": "EGN-11155-NVA VIS. HIST. MEX 1820-2000",
+    "clave": "EGN-11155",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EGN-11155-NVA VIS. HIST. MEX 1820-2000",
+        "profesor": "JOSE MANUEL OROZCO GARIBAY",
+        "creditos": "6",
+        "horario": "09:00-10:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH210",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "10:30"
       }
     ]
   },
@@ -10146,7 +10202,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH210",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:00"
@@ -10280,7 +10336,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH206",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -10770,7 +10826,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH310",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -11025,7 +11081,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH308",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -11925,6 +11981,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      }
+    ]
+  },
+  "EST-24109": {
+    "nombre": "EST-24109-TEMAS SELECTOS DE ESTADISTICA",
+    "clave": "EST-24109",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EST-24109-TEMAS SELECTOS DE ESTADISTICA",
+        "profesor": "MIGUEL ANGEL ESCALANTE SERRATO",
+        "creditos": "6",
+        "horario": "15:30-18:30",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHCC302",
+        "campus": "RIO HONDO",
+        "inicio": "15:30",
+        "fin": "18:30"
       }
     ]
   },
@@ -12977,7 +13053,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHPB4",
+        "salon": "RHASHAK",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:00"
@@ -13204,7 +13280,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "",
+        "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -13234,7 +13310,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "",
+        "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -13587,7 +13663,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF108",
+        "salon": "RHASHAK",
         "campus": "RIO HONDO",
         "inicio": "15:00",
         "fin": "16:00"
@@ -13601,7 +13677,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHPB4",
+        "salon": "RHASHAK",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:00"
@@ -13657,7 +13733,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHPB4",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -13769,7 +13845,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHPB4",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -14023,7 +14099,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -14209,7 +14285,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHPB4",
+        "salon": "RHASHAK",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:00"
@@ -14301,6 +14377,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:00"
+      }
+    ]
+  },
+  "LEN-12755": {
+    "nombre": "LEN-12755-COMUN. PROFESIONAL PARA C. POL",
+    "clave": "LEN-12755",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "LEN-12755-COMUN. PROFESIONAL PARA C. POL",
+        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+        "creditos": "2",
+        "horario": "15:00-16:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "15:00",
+        "fin": "16:00"
       }
     ]
   },
@@ -17381,15 +17477,15 @@ let clases={
         "nombre": "SDI-12761-ANTENAS Y RADIACION",
         "profesor": "ANTE SALCEDO GONZALEZ",
         "creditos": "8",
-        "horario": "16:00-17:30",
+        "horario": "13:00-14:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
         "salon": "RHCUBIC",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "13:00",
+        "fin": "14:30"
       }
     ]
   },
@@ -17612,13 +17708,18 @@ let clases={
         "fin": "12:00"
       }
     ]
+  },
+  "SDI-25916": {
+    "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+    "clave": "SDI-25916",
+    "grupos": []
   }
 };
 let misProfesData={
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
-    "general": 6.5833,
-    "n": 24
+    "general": 6.52,
+    "n": 25
   },
   "ARTURO ALBERTO AGUILAR ESTEVA": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
@@ -17662,8 +17763,8 @@ let misProfesData={
   },
   "ANTONIO AMADOR ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Antonio-amador-arellano_104208",
-    "general": 5.2857,
-    "n": 7
+    "general": 5.5,
+    "n": 8
   },
   "MARINE CHARLOTTE ANDRE": {
     "link": "https://www.misprofesores.com/profesores/Marine-Charlotte-Andre_118898",
@@ -17682,8 +17783,8 @@ let misProfesData={
   },
   "EDUARDO TOMAS ARELLANO ARJONA": {
     "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.5083,
-    "n": 120
+    "general": 6.4711,
+    "n": 121
   },
   "HECTOR DE JESUS ARGUETA VILLAMAR": {
     "link": "https://www.misprofesores.com/profesores/Hector-de-Jesus-Argueta-Villamar_99143",
@@ -18157,8 +18258,8 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4593,
-    "n": 209
+    "general": 6.4571,
+    "n": 210
   },
   "JORGE GONZALEZ GALLASTEGUI": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Gonz\u00e1lez-Gallastegui_129800",
@@ -18320,6 +18421,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -18427,8 +18533,8 @@ let misProfesData={
   },
   "SYLVIA MELJEM ENRIQUEZ DE RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Sylvia-Meljem-Enriquez-de-Rivera_10756",
-    "general": 7.6522,
-    "n": 46
+    "general": 7.5745,
+    "n": 47
   },
   "ENRIQUE MELROSE AGUILAR": {
     "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
@@ -18607,8 +18713,8 @@ let misProfesData={
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
-    "general": 6.5758,
-    "n": 33
+    "general": 6.4412,
+    "n": 34
   },
   "JOSE GUILLERMO PASTOR JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Guillermo-Pastor-Jim\u00e9nez_10716",
@@ -18892,8 +18998,8 @@ let misProfesData={
   },
   "LUZ MARIA SILVA ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Silva-Ortiz_10823",
-    "general": 6.863,
-    "n": 73
+    "general": 6.9054,
+    "n": 74
   },
   "ALBERTO SIMPSER MONDLAK": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
@@ -19082,8 +19188,8 @@ let misProfesData={
   },
   "JEFFREY ALLEN WELDON": {
     "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",
-    "general": 5.9722,
-    "n": 72
+    "general": 6.0274,
+    "n": 73
   },
   "GUILLERMO ZAMARRIPA ESCAMILLA": {
     "link": "https://www.misprofesores.com/profesores/Guillermo-Zamarripa-Escamilla_37101",
