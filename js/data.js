@@ -1,4 +1,4 @@
-let actualizado='1660342368605.7751';
+let actualizado='1660951612728.3042';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -468,7 +468,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHSA2",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -550,7 +550,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH301",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -2227,36 +2227,7 @@ let clases={
   "CEB-10001": {
     "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
     "clave": "CEB-10001",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-        "profesor": "MARGARITA TARRAGONA SAEZ",
-        "creditos": "6",
-        "horario": "08:00-11:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "PF103",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "11:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-        "profesor": "MARGARITA TARRAGONA SAEZ",
-        "creditos": "6",
-        "horario": "11:00-14:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "PF103",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "14:00"
-      }
-    ]
+    "grupos": []
   },
   "CLE-10201-LAB": {
     "nombre": "CLE-10201-INGLES INTENSIVO-LAB",
@@ -3456,6 +3427,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "COM-23701-APRENDIZAJE DE MAQUINA",
+        "profesor": "LUIS FELIPE GONZALEZ PEREZ",
+        "creditos": "6",
+        "horario": "11:00-14:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "STSTUR",
+        "campus": "ST. TERESA",
+        "inicio": "11:00",
+        "fin": "14:00"
       }
     ]
   },
@@ -3706,7 +3691,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH316",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -3790,7 +3775,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHPB3",
+        "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -3973,7 +3958,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH111",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -4521,7 +4506,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH212",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -5185,7 +5170,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH305",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -5408,7 +5393,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH316",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -5500,7 +5485,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHSA2",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -6339,7 +6324,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH305",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "20:30",
         "fin": "22:00"
@@ -6423,7 +6408,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH201",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -6652,7 +6637,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF106",
+        "salon": "RH206",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "19:00"
@@ -6924,7 +6909,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF106",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -7086,7 +7071,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "18:30",
         "fin": "20:30"
@@ -7442,6 +7427,20 @@ let clases={
     "clave": "ECO-10202",
     "grupos": [
       {
+        "grupo": "001",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      },
+      {
         "grupo": "002",
         "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
         "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
@@ -7468,6 +7467,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "LEVENT ULKU",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -7518,6 +7531,20 @@ let clases={
         "fin": "10:00"
       },
       {
+        "grupo": "005",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "LEVENT ULKU",
+        "creditos": "9",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      },
+      {
         "grupo": "006",
         "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
         "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
@@ -7542,6 +7569,48 @@ let clases={
           "MA"
         ],
         "salon": "RHPB1",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "008",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
+        "creditos": "9",
+        "horario": "14:30-17:30",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "14:30",
+        "fin": "17:30"
+      },
+      {
+        "grupo": "009",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "CARLOS ALFONSO CEBREROS ZURITA",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "010",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RHCUBIC",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -7581,6 +7650,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      }
+    ]
+  },
+  "ECO-10511": {
+    "nombre": "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I",
+    "clave": "ECO-10511",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I",
+        "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+        "creditos": "7",
+        "horario": "19:00-20:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -8142,6 +8232,26 @@ let clases={
       }
     ]
   },
+  "ECO-11223": {
+    "nombre": "ECO-11223-TOPICOS DE MICROECONOMIA (OP)",
+    "clave": "ECO-11223",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-11223-TOPICOS DE MICROECONOMIA (OP)",
+        "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
   "ECO-11227": {
     "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
     "clave": "ECO-11227",
@@ -8176,6 +8286,20 @@ let clases={
           "VI"
         ],
         "salon": "RH107",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-11231-ECONOMIA DE LA CONDUCTA",
+        "profesor": "SUMIKO HAYASAKA RAMIREZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -8300,7 +8424,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -8372,7 +8496,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -8793,6 +8917,55 @@ let clases={
           "MI"
         ],
         "salon": "RH315",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-15111-ECONOMIA POLITICA",
+        "profesor": "JAAKKO PEKKA MERILAINEN",
+        "creditos": "6",
+        "horario": "10:00-13:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-15111-ECONOMIA POLITICA",
+        "profesor": "ANTONELLA AGOSTINA BANDIERA",
+        "creditos": "6",
+        "horario": "13:00-14:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:30"
+      }
+    ]
+  },
+  "ECO-15112": {
+    "nombre": "ECO-15112-TOPICOS SELECTOS EN ECO. POL.",
+    "clave": "ECO-15112",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-15112-TOPICOS SELECTOS EN ECO. POL.",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RHCUBIC",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -10784,7 +10957,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RHPB2",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -10889,7 +11062,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -10931,7 +11104,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:30"
@@ -11143,7 +11316,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF103",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -11158,7 +11331,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "20:00",
         "fin": "22:00"
@@ -11179,7 +11352,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "20:00",
         "fin": "22:00"
@@ -11562,10 +11735,9 @@ let clases={
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
-          "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "PF105",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -11577,10 +11749,9 @@ let clases={
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
-          "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -11631,7 +11802,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -11652,7 +11823,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -11828,7 +11999,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH206",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -11977,7 +12148,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHPB1",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -12120,7 +12291,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -12141,7 +12312,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -13161,7 +13332,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -13733,7 +13904,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHPB4",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -13845,7 +14016,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "RHPB4",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -14223,7 +14394,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -14237,7 +14408,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:00"
@@ -14265,7 +14436,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14319,7 +14490,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14333,7 +14504,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF108",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14625,7 +14796,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14639,7 +14810,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF108",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14701,7 +14872,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -14715,7 +14886,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:00"
@@ -14743,7 +14914,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -17716,6 +17887,11 @@ let clases={
   }
 };
 let misProfesData={
+  "CLAUDIA ABURTO RANCA\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
+    "general": 8.9324,
+    "n": 74
+  },
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
     "general": 6.52,
@@ -18272,9 +18448,14 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5882,
-    "n": 17
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
+  },
+  "LUIS FELIPE GONZALEZ PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Gonz\u00e1lez-P\u00e9rez_10682",
+    "general": 8.8889,
+    "n": 27
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -18372,9 +18553,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18453,8 +18634,8 @@ let misProfesData={
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 6.8444,
-    "n": 45
+    "general": 6.7826,
+    "n": 46
   },
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
@@ -18658,8 +18839,8 @@ let misProfesData={
   },
   "DAVID FERNANDO MU\u00d1OZ NEGRON": {
     "link": "https://www.misprofesores.com/profesores/David-Fernando-Mu\u00f1oz-Negr\u00f3n_10865",
-    "general": 6.1538,
-    "n": 13
+    "general": 5.8571,
+    "n": 14
   },
   "MARIO MU\u00d1OZ ORTEGA SAAVEDRA": {
     "link": "https://www.misprofesores.com/profesores/Mario-Mu\u00f1oz-Ortega-Saavedra_129188",
@@ -18988,8 +19169,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9526,
-    "n": 274
+    "general": 4.9418,
+    "n": 275
   },
   "SERGIO SILVA CASTA\u00d1EDA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Silva-Casta\u00f1eda_50663",
@@ -19008,8 +19189,8 @@ let misProfesData={
   },
   "ANURAG SINGH": {
     "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
-    "general": 5.4375,
-    "n": 16
+    "general": 5.2941,
+    "n": 17
   },
   "TERESITA SOLA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Teresita-Sola-Trejo_54042",
@@ -19042,9 +19223,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -19080,6 +19261,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
     "general": 6.6667,
     "n": 21
+  },
+  "LEVENT ULKU": {
+    "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
+    "general": 7.2903,
+    "n": 31
   },
   "ALEXANDRA URIBE COUGHLAN": {
     "link": "https://www.misprofesores.com/profesores/Alexandra-Uribe-Coughlan_10804",
@@ -19148,8 +19334,8 @@ let misProfesData={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.7727,
-    "n": 44
+    "general": 4.8667,
+    "n": 45
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",

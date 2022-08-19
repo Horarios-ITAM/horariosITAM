@@ -1,4 +1,4 @@
-let actualizado='1660342368605.7751';
+let actualizado='1660951612728.3042';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -558,7 +558,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -740,8 +740,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9526,
-    "n": 274,
+    "general": 4.9418,
+    "n": 275,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -806,7 +806,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH301",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -1981,8 +1981,8 @@ let profesores={
   },
   "ANURAG SINGH": {
     "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
-    "general": 5.4375,
-    "n": 16,
+    "general": 5.2941,
+    "n": 17,
     "grupos": {
       "ADM-15531-MERCADOS E INSTITUCS. FINANCS.": [
         {
@@ -2475,40 +2475,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "MARGARITA TARRAGONA SAEZ": {
-    "grupos": {
-      "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO": [
-        {
-          "grupo": "001",
-          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-          "profesor": "MARGARITA TARRAGONA SAEZ",
-          "creditos": "6",
-          "horario": "08:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-          "profesor": "MARGARITA TARRAGONA SAEZ",
-          "creditos": "6",
-          "horario": "11:00-14:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
         }
       ]
     }
@@ -4007,6 +3973,29 @@ let profesores={
       ]
     }
   },
+  "LUIS FELIPE GONZALEZ PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Gonz\u00e1lez-P\u00e9rez_10682",
+    "general": 8.8889,
+    "n": 27,
+    "grupos": {
+      "COM-23701-APRENDIZAJE DE MAQUINA": [
+        {
+          "grupo": "002",
+          "nombre": "COM-23701-APRENDIZAJE DE MAQUINA",
+          "profesor": "LUIS FELIPE GONZALEZ PEREZ",
+          "creditos": "6",
+          "horario": "11:00-14:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "STSTUR",
+          "campus": "ST. TERESA",
+          "inicio": "11:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
     "general": 9.05,
@@ -4032,9 +4021,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5882,
-    "n": 17,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -4356,7 +4345,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH316",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -4455,7 +4444,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHPB3",
+          "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -4647,7 +4636,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH111",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -5007,7 +4996,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH212",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -5605,6 +5594,23 @@ let profesores={
           "inicio": "16:00",
           "fin": "19:00"
         }
+      ],
+      "ECO-15111-ECONOMIA POLITICA": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-15111-ECONOMIA POLITICA",
+          "profesor": "ANTONELLA AGOSTINA BANDIERA",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
       ]
     }
   },
@@ -5704,6 +5710,22 @@ let profesores={
           "fin": "13:30"
         }
       ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "010",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
       "ECO-10516-MICROECONOMETRIA APLICADA": [
         {
           "grupo": "002",
@@ -5734,6 +5756,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:30",
           "fin": "13:30"
+        }
+      ],
+      "ECO-15112-TOPICOS SELECTOS EN ECO. POL.": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15112-TOPICOS SELECTOS EN ECO. POL.",
+          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -6104,7 +6142,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH305",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -6337,7 +6375,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH316",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -6454,7 +6492,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHSA2",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -7355,7 +7393,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH305",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "20:30",
           "fin": "22:00"
@@ -7392,7 +7430,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH201",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -7655,7 +7693,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF106",
+          "salon": "RH206",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "19:00"
@@ -7918,7 +7956,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "PF106",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -8093,7 +8131,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "18:30",
           "fin": "20:30"
@@ -8324,6 +8362,61 @@ let profesores={
       ]
     }
   },
+  "CARLOS ERNESTO URRUTIA VILLALOBOS": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
+    "general": 8.3636,
+    "n": 22,
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ECO-13102-ECONOMIA INTERNACIONAL, II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
+          "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "004",
+          "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
+          "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
   "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
     "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
     "general": 5.875,
@@ -8359,6 +8452,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
+        },
+        {
+          "grupo": "008",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
+          "creditos": "9",
+          "horario": "14:30-17:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "14:30",
+          "fin": "17:30"
         }
       ],
       "ECO-24306-ORG. INDUSTRIAL EMPIRICA": [
@@ -8430,6 +8537,59 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ECO-15111-ECONOMIA POLITICA",
+          "profesor": "JAAKKO PEKKA MERILAINEN",
+          "creditos": "6",
+          "horario": "10:00-13:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "LEVENT ULKU": {
+    "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
+    "general": 7.2903,
+    "n": 31,
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "LEVENT ULKU",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "005",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "LEVENT ULKU",
+          "creditos": "9",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -8531,6 +8691,26 @@ let profesores={
       ]
     }
   },
+  "CARLOS ALFONSO CEBREROS ZURITA": {
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "009",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "CARLOS ALFONSO CEBREROS ZURITA",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "SERGIO SILVA CASTA\u00d1EDA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Silva-Casta\u00f1eda_50663",
     "general": 7.9091,
@@ -8617,6 +8797,23 @@ let profesores={
     "general": 8.6429,
     "n": 14,
     "grupos": {
+      "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I",
+          "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+          "creditos": "7",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
       "ECO-10516-MICROECONOMETRIA APLICADA": [
         {
           "grupo": "001",
@@ -9337,6 +9534,29 @@ let profesores={
       ]
     }
   },
+  "CLAUDIA ABURTO RANCA\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
+    "general": 8.9324,
+    "n": 74,
+    "grupos": {
+      "ECO-11223-TOPICOS DE MICROECONOMIA (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11223-TOPICOS DE MICROECONOMIA (OP)",
+          "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
   "GUILLERMO ZAMARRIPA ESCAMILLA": {
     "link": "https://www.misprofesores.com/profesores/Guillermo-Zamarripa-Escamilla_37101",
     "general": 7.2222,
@@ -9353,6 +9573,26 @@ let profesores={
             "VI"
           ],
           "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "SUMIKO HAYASAKA RAMIREZ": {
+    "grupos": {
+      "ECO-11231-ECONOMIA DE LA CONDUCTA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11231-ECONOMIA DE LA CONDUCTA",
+          "profesor": "SUMIKO HAYASAKA RAMIREZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHCUBIC",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -9578,7 +9818,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH101",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -9610,7 +9850,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH101",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -9821,45 +10061,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
-        }
-      ]
-    }
-  },
-  "CARLOS ERNESTO URRUTIA VILLALOBOS": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
-    "general": 8.3636,
-    "n": 22,
-    "grupos": {
-      "ECO-13102-ECONOMIA INTERNACIONAL, II": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
-          "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "004",
-          "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
-          "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ]
     }
@@ -11246,8 +11447,8 @@ let profesores={
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 6.8444,
-    "n": 45,
+    "general": 6.7826,
+    "n": 46,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -12301,7 +12502,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RHPB2",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
@@ -12419,7 +12620,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -12480,7 +12681,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
@@ -12615,7 +12816,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF103",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -12639,7 +12840,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "22:00"
@@ -12653,10 +12854,9 @@ let profesores={
           "creditos": "8",
           "horario": "18:00-20:00",
           "dias": [
-            "LU",
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -12680,7 +12880,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "22:00"
@@ -12694,10 +12894,9 @@ let profesores={
           "creditos": "8",
           "horario": "18:00-20:00",
           "dias": [
-            "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "PF105",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -13239,7 +13438,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -13256,7 +13455,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -13280,7 +13479,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -13348,7 +13547,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -13622,7 +13821,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH206",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -13772,7 +13971,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHPB1",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -13945,8 +14144,8 @@ let profesores={
   },
   "DAVID FERNANDO MU\u00d1OZ NEGRON": {
     "link": "https://www.misprofesores.com/profesores/David-Fernando-Mu\u00f1oz-Negr\u00f3n_10865",
-    "general": 6.1538,
-    "n": 13,
+    "general": 5.8571,
+    "n": 14,
     "grupos": {
       "IIO-13150-MODELADO Y OPTIMIZACION I": [
         {
@@ -14458,7 +14657,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
@@ -15147,9 +15346,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16062,9 +16261,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -16113,7 +16312,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RHPB4",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -16127,7 +16326,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "PF107",
+          "salon": "RHPB4",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -16143,7 +16342,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -16157,7 +16356,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "PF108",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -16173,7 +16372,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -16187,7 +16386,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "PF108",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -16280,7 +16479,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -16294,7 +16493,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -16308,7 +16507,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -16338,7 +16537,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -16352,7 +16551,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -16366,7 +16565,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -18777,8 +18976,8 @@ let profesores={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.7727,
-    "n": 44,
+    "general": 4.8667,
+    "n": 45,
     "grupos": {
       "MAT-24111-ANALISIS MATEMATICO II": [
         {
@@ -19662,9 +19861,6 @@ let mejoresPorDepto={
     "JANKO HERNANDEZ CORTES",
     "JOHN BRADFORD MCBRIDE PITTS"
   ],
-  "CTRO DE ESTUDIO DEL BIENESTAR": [
-    "MARGARITA TARRAGONA SAEZ"
-  ],
   "LENGUAS (CLE)": [
     "TOUFIK CHAIBAT",
     "MARCELA RABADAN GALLARDO",
@@ -19682,9 +19878,9 @@ let mejoresPorDepto={
     "TERESITA SOLA TREJO",
     "ALBERTO ISAAC RAMIREZ PEREZ",
     "MONICA ZAVALA ESTRADA",
+    "LUIS FELIPE GONZALEZ PEREZ",
     "SILVIA DEL CARMEN GUARDATI BUEMO",
-    "MIROSLAVA MENDOZA VIDAL",
-    "IRMA LOZANO MENDICUTI"
+    "MIROSLAVA MENDOZA VIDAL"
   ],
   "CONTABILIDAD": [
     "MANUEL TAMEZ ZENDEJAS",
@@ -19731,8 +19927,8 @@ let mejoresPorDepto={
     "CHRISTINA CORNEJO VAN LUIT",
     "MARINE CHARLOTTE ANDRE",
     "MIGUEL MESSMACHER LINARTAS",
-    "CHRISTIANE FABREGA CHIMALI",
-    "MENEY DE LA PEZA GANDARA"
+    "CLAUDIA ABURTO RANCA\u00d1O",
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -19788,11 +19984,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD",
-    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
+    "GABRIEL ASTEY WOOD"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
