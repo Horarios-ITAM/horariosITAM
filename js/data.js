@@ -1,4 +1,4 @@
-let actualizado='1660952797033.085';
+let actualizado='1661003514971.9404';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -18094,8 +18094,8 @@ let misProfesData={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.4706,
-    "n": 34
+    "general": 6.5714,
+    "n": 35
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
