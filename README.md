@@ -21,8 +21,6 @@ Las fuentes de datos son:
 
 Como los nombres de profesores pueden ser ingresados de formas distintas en MisProfes y en Grace, se usa una [similitud de Levenshtein](https://en.wikipedia.org/wiki/Levenshtein_distance) de 90% para ligarle sus evaluaciones a cada profesor/a.
 
-Los datos son actualizados cada semestre y una vez al día durante la semana de inscripciones.
-
 
 
 
