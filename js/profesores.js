@@ -1,4 +1,4 @@
-let actualizado='1661144405123.2297';
+let actualizado='1661230803520.5098';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -9208,9 +9208,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -13553,9 +13553,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -15343,9 +15343,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16258,9 +16258,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -19917,6 +19917,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
+    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
@@ -19924,8 +19925,7 @@ let mejoresPorDepto={
     "MARINE CHARLOTTE ANDRE",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "CHRISTIANE FABREGA CHIMALI",
-    "MENEY DE LA PEZA GANDARA"
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -19957,11 +19957,11 @@ let mejoresPorDepto={
     "DANTE GABRIEL CAMPOS SALIDO",
     "SALVADOR GARCIA GONZALEZ",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
     "TRINIDAD GONZALEZ BONILLA",
     "ILEANA GARCIA CONDE",
-    "MAX AMERICO SOLDEVILLA CANALES"
+    "MAX AMERICO SOLDEVILLA CANALES",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
@@ -19981,11 +19981,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD"
+    "GABRIEL ASTEY WOOD",
+    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
