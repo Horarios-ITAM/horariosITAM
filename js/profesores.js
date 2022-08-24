@@ -1,4 +1,4 @@
-let actualizado='1661230803504.7864';
+let actualizado='1661317204114.9756';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -3075,6 +3075,23 @@ let profesores={
           "inicio": "13:30",
           "fin": "15:30"
         }
+      ],
+      "SDI-12726-COMUNICACIONES DIGITALES": [
+        {
+          "grupo": "002",
+          "nombre": "SDI-12726-COMUNICACIONES DIGITALES",
+          "profesor": "JOSE RAMON RIOS SANCHEZ",
+          "creditos": "8",
+          "horario": "13:30-15:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC201",
+          "campus": "RIO HONDO",
+          "inicio": "13:30",
+          "fin": "15:00"
+        }
       ]
     }
   },
@@ -3140,9 +3157,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -13556,9 +13570,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -13728,8 +13742,8 @@ let profesores={
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
-    "general": 7.4286,
-    "n": 21,
+    "general": 7.4091,
+    "n": 22,
     "grupos": {
       "EST-14103-ESTADISTICA MATEMATICA": [
         {
@@ -15025,7 +15039,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHPB4",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -15041,7 +15055,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHPB4",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -16154,8 +16168,8 @@ let profesores={
   },
   "CRISTINA ARAGON VELASCO": {
     "link": "https://www.misprofesores.com/profesores/Cristina-Arag\u00f3n-Velasco_103060",
-    "general": 7.2,
-    "n": 10,
+    "general": 6.9091,
+    "n": 11,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16261,9 +16275,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -16342,7 +16356,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHPB3",
+          "salon": "RHPB4",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -16372,7 +16386,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHPB3",
+          "salon": "RHPB4",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -19483,7 +19497,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH204",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -19688,20 +19702,20 @@ let profesores={
           "fin": "09:00"
         }
       ],
-      "SDI-12726-COMUNICACIONES DIGITALES": [
+      "SDI-12726-COMUNICACIONES DIGITALES-LAB": [
         {
-          "grupo": "002",
-          "nombre": "SDI-12726-COMUNICACIONES DIGITALES",
+          "grupo": "002L",
+          "nombre": "SDI-12726-COMUNICACIONES DIGITALES-LAB",
           "profesor": "JOSE ABEL HERRERA CAMACHO",
           "creditos": "8",
-          "horario": "08:00-10:00",
+          "horario": "09:00-11:00",
           "dias": [
             "MA"
           ],
           "salon": "RHLSIST",
           "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:00"
+          "inicio": "09:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -19960,11 +19974,11 @@ let mejoresPorDepto={
     "DANTE GABRIEL CAMPOS SALIDO",
     "SALVADOR GARCIA GONZALEZ",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
     "TRINIDAD GONZALEZ BONILLA",
     "ILEANA GARCIA CONDE",
-    "MAX AMERICO SOLDEVILLA CANALES"
+    "MAX AMERICO SOLDEVILLA CANALES",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
@@ -19984,11 +19998,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD"
+    "GABRIEL ASTEY WOOD",
+    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

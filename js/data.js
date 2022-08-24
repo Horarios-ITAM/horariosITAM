@@ -1,4 +1,4 @@
-let actualizado='1661230803504.7864';
+let actualizado='1661317204114.9756';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -13134,7 +13134,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHPB4",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -13890,7 +13890,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHPB4",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14490,7 +14490,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHPB3",
+        "salon": "RHPB4",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14796,7 +14796,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHPB3",
+        "salon": "RHPB4",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -17530,7 +17530,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH204",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -17599,6 +17599,26 @@ let clases={
       }
     ]
   },
+  "SDI-12726-LAB": {
+    "nombre": "SDI-12726-COMUNICACIONES DIGITALES-LAB",
+    "clave": "SDI-12726",
+    "grupos": [
+      {
+        "grupo": "002L",
+        "nombre": "SDI-12726-COMUNICACIONES DIGITALES-LAB",
+        "profesor": "JOSE ABEL HERRERA CAMACHO",
+        "creditos": "8",
+        "horario": "09:00-11:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHLSIST",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "11:00"
+      }
+    ]
+  },
   "SDI-12726": {
     "nombre": "SDI-12726-COMUNICACIONES DIGITALES",
     "clave": "SDI-12726",
@@ -17606,16 +17626,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "SDI-12726-COMUNICACIONES DIGITALES",
-        "profesor": "JOSE ABEL HERRERA CAMACHO",
+        "profesor": "JOSE RAMON RIOS SANCHEZ",
         "creditos": "8",
-        "horario": "08:00-10:00",
+        "horario": "13:30-15:00",
         "dias": [
-          "MA"
+          "MA",
+          "JU"
         ],
-        "salon": "RHLSIST",
+        "salon": "RHCC201",
         "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "10:00"
+        "inicio": "13:30",
+        "fin": "15:00"
       }
     ]
   },
@@ -17949,8 +17970,8 @@ let misProfesData={
   },
   "CRISTINA ARAGON VELASCO": {
     "link": "https://www.misprofesores.com/profesores/Cristina-Arag\u00f3n-Velasco_103060",
-    "general": 7.2,
-    "n": 10
+    "general": 6.9091,
+    "n": 11
   },
   "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Luis-Mart\u00edn-Arciniega-Ruiz-de-Esparza_10724",
@@ -18553,9 +18574,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18601,11 +18622,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -18668,9 +18684,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -18734,8 +18750,8 @@ let misProfesData={
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
-    "general": 7.4286,
-    "n": 21
+    "general": 7.4091,
+    "n": 22
   },
   "MIROSLAVA MENDOZA VIDAL": {
     "link": "https://www.misprofesores.com/profesores/Miroslava-Mendoza-Vidal_30732",
