@@ -7,7 +7,7 @@ Los usuarios pueden ingresar las clases que desean cursar y después explorar to
 ## Tecnologías utilizadas
 
 - Python 3.9 y BeautifulSoup para el scrapeo de datos (scripts en `/update`)
-- HTML5 y Javascript para la implementación de la página (`/` y `/update` respectivamente)
+- HTML5 y Javascript para la implementación de la página (`/` y `/js` respectivamente)
 - GitHub Pages para hostear la página
 - Un servidor de Linode ($5 USD/mes) para correr los scripts de scrapeo periódicamente
 
