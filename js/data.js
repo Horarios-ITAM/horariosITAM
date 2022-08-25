@@ -19448,14 +19448,4 @@ let misProfesData={
     "general": 7.3019,
     "n": 53
   }
-}; "MARTHA LORENA ZOGAIB ACHCAR": {
-    "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
-    "general": 8.0307,
-    "n": 163
-  },
-  "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
-    "general": 7.3019,
-    "n": 53
-  }
-};
+}; 
