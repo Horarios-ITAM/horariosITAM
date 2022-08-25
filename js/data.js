@@ -1,4 +1,4 @@
-let actualizado='1661317204128.04';
+let actualizado='1661403607105.4915';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -4965,6 +4965,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "20:30"
+      }
+    ]
+  },
+  "CSO-19077": {
+    "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+    "clave": "CSO-19077",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+        "profesor": "ALEXANDRA URIBE COUGHLAN",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -18238,11 +18258,6 @@ let misProfesData={
     "general": 5.9265,
     "n": 204
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.5,
@@ -18574,9 +18589,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18684,9 +18699,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -19059,9 +19074,9 @@ let misProfesData={
     "n": 17
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -19424,6 +19439,16 @@ let misProfesData={
     "n": 105
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
+    "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
+    "general": 8.0307,
+    "n": 163
+  },
+  "GERARDO ZORRILLA RAMOS": {
+    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
+    "general": 7.3019,
+    "n": 53
+  }
+}; "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
     "general": 8.0307,
     "n": 163
