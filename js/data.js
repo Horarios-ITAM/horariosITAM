@@ -1,4 +1,4 @@
-let actualizado='1661403607105.4915';
+let actualizado='1661531072302.5686';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -5091,7 +5091,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10005-DER. INTERNACIONAL PUBLICO,I",
-        "profesor": "HANNAH BIRKENKOETTER",
+        "profesor": "HANNAH BIRKENKOTTER",
         "creditos": "6",
         "horario": "13:00-14:30",
         "dias": [
@@ -5106,7 +5106,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10005-DER. INTERNACIONAL PUBLICO,I",
-        "profesor": "HANNAH BIRKENKOETTER",
+        "profesor": "HANNAH BIRKENKOTTER",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -6408,7 +6408,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -7183,7 +7183,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-18600-DERECHO INTERNACIONAL I",
-        "profesor": "HANNAH BIRKENKOETTER",
+        "profesor": "HANNAH BIRKENKOTTER",
         "creditos": "6",
         "horario": "13:00-14:30",
         "dias": [
@@ -7198,7 +7198,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-18600-DERECHO INTERNACIONAL I",
-        "profesor": "HANNAH BIRKENKOETTER",
+        "profesor": "HANNAH BIRKENKOTTER",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -7270,7 +7270,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-18701-DERECHO INTERNACIONAL PUBLICO",
-        "profesor": "HANNAH BIRKENKOETTER",
+        "profesor": "HANNAH BIRKENKOTTER",
         "creditos": "6",
         "horario": "13:00-14:30",
         "dias": [
@@ -7285,7 +7285,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-18701-DERECHO INTERNACIONAL PUBLICO",
-        "profesor": "HANNAH BIRKENKOETTER",
+        "profesor": "HANNAH BIRKENKOTTER",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -18110,8 +18110,8 @@ let misProfesData={
   },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
-    "general": 6.6735,
-    "n": 98
+    "general": 6.6566,
+    "n": 99
   },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
@@ -18257,6 +18257,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
     "general": 5.9265,
     "n": 204
+  },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
@@ -18699,9 +18704,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -19074,9 +19079,9 @@ let misProfesData={
     "n": 17
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -19448,4 +19453,4 @@ let misProfesData={
     "general": 7.3019,
     "n": 53
   }
-}; 
+};

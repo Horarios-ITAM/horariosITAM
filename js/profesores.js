@@ -1,4 +1,4 @@
-let actualizado='1661403607105.4915';
+let actualizado='1661531072302.5686';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -3832,6 +3832,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5917,13 +5920,13 @@ let profesores={
       ]
     }
   },
-  "HANNAH BIRKENKOETTER": {
+  "HANNAH BIRKENKOTTER": {
     "grupos": {
       "DER-10005-DER. INTERNACIONAL PUBLICO,I": [
         {
           "grupo": "001",
           "nombre": "DER-10005-DER. INTERNACIONAL PUBLICO,I",
-          "profesor": "HANNAH BIRKENKOETTER",
+          "profesor": "HANNAH BIRKENKOTTER",
           "creditos": "6",
           "horario": "13:00-14:30",
           "dias": [
@@ -5938,7 +5941,7 @@ let profesores={
         {
           "grupo": "002",
           "nombre": "DER-10005-DER. INTERNACIONAL PUBLICO,I",
-          "profesor": "HANNAH BIRKENKOETTER",
+          "profesor": "HANNAH BIRKENKOTTER",
           "creditos": "6",
           "horario": "17:30-19:00",
           "dias": [
@@ -5955,7 +5958,7 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "DER-18600-DERECHO INTERNACIONAL I",
-          "profesor": "HANNAH BIRKENKOETTER",
+          "profesor": "HANNAH BIRKENKOTTER",
           "creditos": "6",
           "horario": "13:00-14:30",
           "dias": [
@@ -5970,7 +5973,7 @@ let profesores={
         {
           "grupo": "002",
           "nombre": "DER-18600-DERECHO INTERNACIONAL I",
-          "profesor": "HANNAH BIRKENKOETTER",
+          "profesor": "HANNAH BIRKENKOTTER",
           "creditos": "6",
           "horario": "17:30-19:00",
           "dias": [
@@ -5987,7 +5990,7 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "DER-18701-DERECHO INTERNACIONAL PUBLICO",
-          "profesor": "HANNAH BIRKENKOETTER",
+          "profesor": "HANNAH BIRKENKOTTER",
           "creditos": "6",
           "horario": "13:00-14:30",
           "dias": [
@@ -6002,7 +6005,7 @@ let profesores={
         {
           "grupo": "002",
           "nombre": "DER-18701-DERECHO INTERNACIONAL PUBLICO",
-          "profesor": "HANNAH BIRKENKOETTER",
+          "profesor": "HANNAH BIRKENKOTTER",
           "creditos": "6",
           "horario": "17:30-19:00",
           "dias": [
@@ -7481,7 +7484,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH112",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -9238,9 +9241,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -13583,9 +13586,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -18270,8 +18273,8 @@ let profesores={
   },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
-    "general": 6.6735,
-    "n": 98,
+    "general": 6.6566,
+    "n": 99,
     "grupos": {
       "MAT-14102-CALCULO DIF. E INT., III": [
         {
@@ -19947,6 +19950,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
+    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
@@ -19954,8 +19958,7 @@ let mejoresPorDepto={
     "MARINE CHARLOTTE ANDRE",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "CHRISTIANE FABREGA CHIMALI",
-    "MENEY DE LA PEZA GANDARA"
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -19987,11 +19990,11 @@ let mejoresPorDepto={
     "DANTE GABRIEL CAMPOS SALIDO",
     "SALVADOR GARCIA GONZALEZ",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
     "TRINIDAD GONZALEZ BONILLA",
     "ILEANA GARCIA CONDE",
-    "MAX AMERICO SOLDEVILLA CANALES"
+    "MAX AMERICO SOLDEVILLA CANALES",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
@@ -20034,14 +20037,6 @@ let mejoresPorDepto={
     "ENRIQUE MELROSE AGUILAR",
     "ANTE SALCEDO GONZALEZ",
     "CARLOS ALBERTO MUNIVE VAZQUEZ",
-    "ROMEO SALVADOR ORTEGA MARTINEZ",
-    "NIKOLAY KRYUKOV",
-    "FRANCISCO JAVIER VILLA LOPEZ",
-    "MARIA OFELIA RODRIGUEZ DURAN",
-    "JOSE DE JESUS MORALES ROMERO",
-    "RAFAEL CISNEROS MONTOYA"
-  ]
-}; MUNIVE VAZQUEZ",
     "ROMEO SALVADOR ORTEGA MARTINEZ",
     "NIKOLAY KRYUKOV",
     "FRANCISCO JAVIER VILLA LOPEZ",
