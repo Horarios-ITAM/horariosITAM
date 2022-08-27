@@ -1,4 +1,4 @@
-let actualizado='1661531072302.5686';
+let actualizado='1661576404753.9143';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -3832,9 +3832,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -12998,7 +12995,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:30"
@@ -13586,9 +13583,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -19990,11 +19987,11 @@ let mejoresPorDepto={
     "DANTE GABRIEL CAMPOS SALIDO",
     "SALVADOR GARCIA GONZALEZ",
     "LILIANA DE LA TORRE DESENTIS",
+    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
     "TRINIDAD GONZALEZ BONILLA",
     "ILEANA GARCIA CONDE",
-    "MAX AMERICO SOLDEVILLA CANALES",
-    "MANUEL MENDOZA RAMIREZ"
+    "MAX AMERICO SOLDEVILLA CANALES"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
@@ -20040,6 +20037,11 @@ let mejoresPorDepto={
     "ROMEO SALVADOR ORTEGA MARTINEZ",
     "NIKOLAY KRYUKOV",
     "FRANCISCO JAVIER VILLA LOPEZ",
+    "MARIA OFELIA RODRIGUEZ DURAN",
+    "JOSE DE JESUS MORALES ROMERO",
+    "RAFAEL CISNEROS MONTOYA"
+  ]
+};VIER VILLA LOPEZ",
     "MARIA OFELIA RODRIGUEZ DURAN",
     "JOSE DE JESUS MORALES ROMERO",
     "RAFAEL CISNEROS MONTOYA"

@@ -1,4 +1,4 @@
-let actualizado='1661531072302.5686';
+let actualizado='1661576404753.9143';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -11438,7 +11438,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:30"
@@ -18258,11 +18258,6 @@ let misProfesData={
     "general": 5.9265,
     "n": 204
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.5,
@@ -18704,9 +18699,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -19446,6 +19441,14 @@ let misProfesData={
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
     "general": 8.0307,
+    "n": 163
+  },
+  "GERARDO ZORRILLA RAMOS": {
+    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
+    "general": 7.3019,
+    "n": 53
+  }
+};,
     "n": 163
   },
   "GERARDO ZORRILLA RAMOS": {
