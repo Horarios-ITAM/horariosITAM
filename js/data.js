@@ -1,4 +1,4 @@
-let actualizado='1661662805564.8113';
+let actualizado='1661662805572.1626';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
