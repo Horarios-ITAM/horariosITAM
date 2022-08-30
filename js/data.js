@@ -1,4 +1,4 @@
-let actualizado='1661749206468.793';
+let actualizado='1661835605499.3013';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -15957,6 +15957,72 @@ let clases={
       }
     ]
   },
+  "MAT-14061": {
+    "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+    "clave": "MAT-14061",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "08:00-09:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "PF108",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "09:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH109",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+        "creditos": "0",
+        "horario": "13:00-14:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "PF104",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "11:00-12:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "12:00"
+      }
+    ]
+  },
   "MAT-14100": {
     "nombre": "MAT-14100-CALCULO DIF. E INT., I",
     "clave": "MAT-14100",
@@ -16112,7 +16178,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "15:00"
@@ -18489,9 +18555,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5882,
+    "n": 17
   },
   "LUIS FELIPE GONZALEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Gonz\u00e1lez-P\u00e9rez_10682",
@@ -18594,9 +18660,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18642,11 +18708,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -19264,9 +19325,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
