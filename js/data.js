@@ -1,4 +1,4 @@
-let actualizado='1661922008082.1497';
+let actualizado='1662008406371.7546';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -9026,7 +9026,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH104",
+        "salon": "PF105",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -11757,7 +11757,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF105",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -14414,7 +14414,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -14428,7 +14428,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:00"
@@ -14456,7 +14456,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RHLI1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14892,7 +14892,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -14906,7 +14906,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:00"
@@ -14934,7 +14934,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RHLI1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -18770,9 +18770,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
