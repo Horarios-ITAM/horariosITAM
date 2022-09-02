@@ -1,4 +1,4 @@
-let actualizado='1662008406371.7546';
+let actualizado='1662094805775.6892';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -353,8 +353,8 @@ let profesores={
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
-    "general": 6.3333,
-    "n": 18,
+    "general": 6.5263,
+    "n": 19,
     "grupos": {
       "ACT-15357-PRINCIPIOS DEL SEGURO": [
         {
@@ -3157,6 +3157,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4019,9 +4022,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5882,
-    "n": 17,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -9225,9 +9228,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -19932,6 +19935,7 @@ let profesores={
     }
   }
 };
+
 let mejoresPorDepto={
   "ACTUARIA Y SEGUROS": [
     "DIEGO HERNANDEZ RANGEL",
@@ -19939,8 +19943,8 @@ let mejoresPorDepto={
     "SERGIO GARCIA ALQUICIRA",
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
     "PEDRO DANIEL TREJO SOLIS",
-    "FERNANDO PEREZ RIOS",
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
+    "FERNANDO PEREZ RIOS",
     "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
     "LEONARDO ROJAS NANDAYAPA",
     "GABRIELA MELENDEZ VARGAS"
@@ -20016,6 +20020,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
+    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
@@ -20023,8 +20028,7 @@ let mejoresPorDepto={
     "MARINE CHARLOTTE ANDRE",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "CHRISTIANE FABREGA CHIMALI",
-    "MENEY DE LA PEZA GANDARA"
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
