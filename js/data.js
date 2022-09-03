@@ -1,4 +1,4 @@
-let actualizado='1662094805772.5278';
+let actualizado='1662181204628.2617';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -18841,8 +18841,8 @@ let misProfesData={
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
-    "general": 7.4091,
-    "n": 22
+    "general": 7.4783,
+    "n": 23
   },
   "MIROSLAVA MENDOZA VIDAL": {
     "link": "https://www.misprofesores.com/profesores/Miroslava-Mendoza-Vidal_30732",
@@ -19524,4 +19524,4 @@ let misProfesData={
     "general": 7.3019,
     "n": 53
   }
-};;
+};

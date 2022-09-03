@@ -1,4 +1,4 @@
-let actualizado='1662094805775.6892';
+let actualizado='1662181204628.2617';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -13761,8 +13761,8 @@ let profesores={
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
-    "general": 7.4091,
-    "n": 22,
+    "general": 7.4783,
+    "n": 23,
     "grupos": {
       "EST-14103-ESTADISTICA MATEMATICA": [
         {
@@ -19935,7 +19935,6 @@ let profesores={
     }
   }
 };
-
 let mejoresPorDepto={
   "ACTUARIA Y SEGUROS": [
     "DIEGO HERNANDEZ RANGEL",
