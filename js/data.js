@@ -1,4 +1,4 @@
-let actualizado='1662354004170.9229';
+let actualizado='1662440408605.8176';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -18555,9 +18555,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5882,
+    "n": 17
   },
   "LUIS FELIPE GONZALEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Gonz\u00e1lez-P\u00e9rez_10682",
@@ -18611,8 +18611,8 @@ let misProfesData={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7097,
-    "n": 93
+    "general": 6.7447,
+    "n": 94
   },
   "MARTHA MARIA GUTIERREZ PADILLA": {
     "link": "https://www.misprofesores.com/profesores/Martha-Mar\u00eda-Gutierrez-Padilla_130892",
@@ -18660,9 +18660,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18708,11 +18708,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -19146,8 +19141,8 @@ let misProfesData={
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
-    "general": 7.7059,
-    "n": 17
+    "general": 7.7222,
+    "n": 18
   },
   "MARTA ROBLES CARTES": {
     "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
@@ -19330,9 +19325,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
