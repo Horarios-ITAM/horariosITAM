@@ -1,4 +1,4 @@
-let actualizado='1663650004708.8208';
+let actualizado='1663736407073.1694';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -7630,7 +7630,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHCUBIC",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -8985,7 +8985,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHCUBIC",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -18709,11 +18709,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -18775,9 +18770,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -19131,8 +19126,8 @@ let misProfesData={
   },
   "PAVEL REAL PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
-    "general": 9.4118,
-    "n": 17
+    "general": 9.4444,
+    "n": 18
   },
   "JOSE RAMON RIOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
@@ -19150,9 +19145,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -19416,8 +19411,8 @@ let misProfesData={
   },
   "AURELIO VASQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
-    "general": 4.0,
-    "n": 22
+    "general": 3.913,
+    "n": 23
   },
   "RODOLFO DARIO VAZQUEZ CARDOZO": {
     "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
