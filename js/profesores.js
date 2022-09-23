@@ -1,4 +1,4 @@
-let actualizado='1663822805059.756';
+let actualizado='1663909203504.3677';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -3153,6 +3153,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4031,9 +4034,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5882,
-    "n": 17,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -8446,8 +8449,8 @@ let profesores={
   },
   "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
     "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
-    "general": 5.875,
-    "n": 8,
+    "general": 5.4444,
+    "n": 9,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
@@ -9274,9 +9277,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -18834,7 +18837,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:30"
@@ -20019,6 +20022,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
+    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
@@ -20026,8 +20030,7 @@ let mejoresPorDepto={
     "MARINE CHARLOTTE ANDRE",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "CHRISTIANE FABREGA CHIMALI",
-    "MENEY DE LA PEZA GANDARA"
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
