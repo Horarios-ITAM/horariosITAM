@@ -1,4 +1,4 @@
-let actualizado='1664082003948.5989';
+let actualizado='1664168405003.0544';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -20113,4 +20113,4 @@ let mejoresPorDepto={
     "JOSE DE JESUS MORALES ROMERO",
     "RAFAEL CISNEROS MONTOYA"
   ]
-};
+};;
