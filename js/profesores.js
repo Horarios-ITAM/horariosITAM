@@ -1,4 +1,4 @@
-let actualizado='1664168405003.0544';
+let actualizado='1664254804085.056';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -2802,8 +2802,8 @@ let profesores={
   },
   "MARGARITA OLMEDO DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Olmedo-de-la-Pe\u00f1a_36749",
-    "general": 7.6923,
-    "n": 26,
+    "general": 7.7778,
+    "n": 27,
     "grupos": {
       "COM-11101-ALGORITMOS Y PROGRAMAS": [
         {
@@ -4022,9 +4022,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5882,
+    "n": 17,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -10595,38 +10595,21 @@ let profesores={
           "fin": "12:00"
         }
       ],
-      "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II": [
+      "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2": [
         {
-          "grupo": "010",
-          "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
+          "grupo": "005",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
           "profesor": "",
-          "creditos": "2.7",
-          "horario": "13:00-15:00",
+          "creditos": "0",
+          "horario": "16:30-17:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH106",
+          "salon": "RH313",
           "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "15:00"
-        }
-      ],
-      "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III": [
-        {
-          "grupo": "010",
-          "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
-          "profesor": "",
-          "creditos": "2.7",
-          "horario": "13:00-15:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "15:00"
+          "inicio": "16:30",
+          "fin": "17:30"
         }
       ]
     }
@@ -15413,9 +15396,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -17951,105 +17934,45 @@ let profesores={
       ]
     }
   },
-  "MARTA CABO NODAR": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
-    "general": 4.1519,
-    "n": 79,
-    "grupos": {
-      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
-          "profesor": "MARTA CABO NODAR",
-          "creditos": "0",
-          "horario": "08:00-09:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
-          "profesor": "MARTA CABO NODAR",
-          "creditos": "0",
-          "horario": "11:00-12:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-5",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        }
-      ],
-      "MAT-14100-CALCULO DIF. E INT., I": [
-        {
-          "grupo": "006",
-          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-          "profesor": "MARTA CABO NODAR",
-          "creditos": "8",
-          "horario": "12:30-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHPB2",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:30"
-        }
-      ]
-    }
-  },
-  "VICTOR FRANCISCO BRE\u00d1A MEDINA": {
-    "grupos": {
-      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
-          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
-          "creditos": "0",
-          "horario": "12:00-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        }
-      ],
-      "MAT-14101-CALCULO DIF. E INT., II": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14101-CALCULO DIF. E INT., II",
-          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
-          "creditos": "8",
-          "horario": "13:00-15:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH110",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "15:00"
-        }
-      ]
-    }
-  },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
     "general": 6.2745,
     "n": 51,
     "grupos": {
+      "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II": [
+        {
+          "grupo": "010",
+          "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+          "creditos": "2.7",
+          "horario": "13:00-15:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "15:00"
+        }
+      ],
+      "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III": [
+        {
+          "grupo": "010",
+          "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+          "creditos": "2.7",
+          "horario": "13:00-15:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "15:00"
+        }
+      ],
       "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
         {
           "grupo": "003",
@@ -18133,6 +18056,164 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "MARTA CABO NODAR": {
+    "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
+    "general": 4.1519,
+    "n": 79,
+    "grupos": {
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "08:00-09:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ],
+      "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "08:00-09:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "13:00-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHPB1",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ],
+      "MAT-14100-CALCULO DIF. E INT., I": [
+        {
+          "grupo": "006",
+          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "8",
+          "horario": "12:30-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHPB2",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:30"
+        }
+      ]
+    }
+  },
+  "VICTOR FRANCISCO BRE\u00d1A MEDINA": {
+    "grupos": {
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14101-CALCULO DIF. E INT., II": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14101-CALCULO DIF. E INT., II",
+          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+          "creditos": "8",
+          "horario": "13:00-15:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "15:00"
         }
       ]
     }
@@ -19934,7 +20015,7 @@ let profesores={
       ]
     }
   }
-};
+}
 let mejoresPorDepto={
   "ACTUARIA Y SEGUROS": [
     "DIEGO HERNANDEZ RANGEL",

@@ -1,4 +1,4 @@
-let actualizado='1664168405003.0544';
+let actualizado='1664254804085.056';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -15667,7 +15667,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
-        "profesor": "",
+        "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
         "creditos": "2.7",
         "horario": "13:00-15:00",
         "dias": [
@@ -15883,7 +15883,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
-        "profesor": "",
+        "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
         "creditos": "2.7",
         "horario": "13:00-15:00",
         "dias": [
@@ -16020,6 +16020,87 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
+      }
+    ]
+  },
+  "MAT-14062": {
+    "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+    "clave": "MAT-14062",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "08:00-09:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "PF108",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "09:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH109",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "13:00-14:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHPB1",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "11:00-12:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "12:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "",
+        "creditos": "0",
+        "horario": "16:30-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH313",
+        "campus": "RIO HONDO",
+        "inicio": "16:30",
+        "fin": "17:30"
       }
     ]
   },
@@ -18555,9 +18636,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5882,
+    "n": 17
   },
   "LUIS FELIPE GONZALEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Gonz\u00e1lez-P\u00e9rez_10682",
@@ -18971,8 +19052,8 @@ let misProfesData={
   },
   "MARGARITA OLMEDO DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Olmedo-de-la-Pe\u00f1a_36749",
-    "general": 7.6923,
-    "n": 26
+    "general": 7.7778,
+    "n": 27
   },
   "JESUS ALEJANDRO ORDIERES SIERES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Ordieres-Sieres_10826",
@@ -19330,9 +19411,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -19524,4 +19605,4 @@ let misProfesData={
     "general": 7.3019,
     "n": 53
   }
-};;
+};
