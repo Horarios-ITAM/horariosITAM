@@ -1,4 +1,4 @@
-let actualizado='1664514004764.638';
+let actualizado='1664600404110.8772';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -18636,9 +18636,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5882,
+    "n": 17
   },
   "LUIS FELIPE GONZALEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Gonz\u00e1lez-P\u00e9rez_10682",
@@ -18789,11 +18789,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -18982,8 +18977,8 @@ let misProfesData={
   },
   "AURORA GUADALUPE MONROY ALARCON": {
     "link": "https://www.misprofesores.com/profesores/Aurora-Guadalupe-Monroy-Alarc\u00f3n_10725",
-    "general": 6.2195,
-    "n": 41
+    "general": 6.119,
+    "n": 42
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
@@ -19067,8 +19062,8 @@ let misProfesData={
   },
   "JOSE MANUEL OROZCO GARIBAY": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
-    "general": 5.7044,
-    "n": 159
+    "general": 5.7063,
+    "n": 160
   },
   "ROMEO SALVADOR ORTEGA MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Romeo-Salvador-Ortega-Martinez_129225",
@@ -19231,9 +19226,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
