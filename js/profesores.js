@@ -1,4 +1,4 @@
-let actualizado='1664859603335.9165';
+let actualizado='1664946005459.0295';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -1378,7 +1378,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHPB3",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -3157,6 +3157,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4019,9 +4022,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5882,
-    "n": 17,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -4383,7 +4386,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHB-4",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -10607,6 +10610,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:30",
           "fin": "17:30"
+        },
+        {
+          "grupo": "010",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "",
+          "creditos": "0",
+          "horario": "16:30-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "16:30",
+          "fin": "17:30"
         }
       ]
     }
@@ -12535,8 +12553,8 @@ let profesores={
   },
   "PABLO KALMANOVITZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Kalmanovitz-Gonz\u00e1lez_153830",
-    "general": 9.0,
-    "n": 1,
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "EIN-12201-HIST. DE LAS RELACS. INTER. I": [
         {
@@ -15393,9 +15411,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16308,9 +16326,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17218,6 +17236,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ],
+      "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2": [
+        {
+          "grupo": "007",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        },
+        {
+          "grupo": "008",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+          "creditos": "0",
+          "horario": "13:00-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHPB2",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
         }
       ]
     }
@@ -18139,6 +18189,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
+        },
+        {
+          "grupo": "006",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
         }
       ],
       "MAT-14100-CALCULO DIF. E INT., I": [
@@ -18194,6 +18259,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
+        },
+        {
+          "grupo": "009",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+          "creditos": "0",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
         }
       ],
       "MAT-14101-CALCULO DIF. E INT., II": [
@@ -20120,8 +20200,8 @@ let mejoresPorDepto={
     "JOSE PANTALEON DOMINGUEZ ESPONDA"
   ],
   "ESTUDIOS INTERNACIONALES": [
-    "ISABEL FLORES ALCAZAR",
     "PABLO KALMANOVITZ GONZALEZ",
+    "ISABEL FLORES ALCAZAR",
     "RODRIGO CHACON AGUIRRE",
     "GABRIEL GOODLIFFE",
     "STEPHAN JOSEPH SBERRO PICARD",
@@ -20161,11 +20241,11 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "MARIA TERESA JIMENEZ ANDREU",
     "MARTHA MARIA GUTIERREZ PADILLA",
     "FRANCISCO GALAN TAMES",
     "JAEN DANAE TORRES DE LA ROSA",
-    "GABRIEL ASTEY WOOD",
-    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA"
+    "GABRIEL ASTEY WOOD"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

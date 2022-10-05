@@ -1,4 +1,4 @@
-let actualizado='1664859603335.9165';
+let actualizado='1664946005459.0295';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -1091,7 +1091,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHPB3",
+        "salon": "RH204",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -3719,7 +3719,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -16101,6 +16101,81 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:30",
         "fin": "17:30"
+      },
+      {
+        "grupo": "006",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHB-4",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "007",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "008",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+        "creditos": "0",
+        "horario": "13:00-14:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHPB2",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "009",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+        "creditos": "0",
+        "horario": "11:00-12:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "PF107",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "12:00"
+      },
+      {
+        "grupo": "010",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "",
+        "creditos": "0",
+        "horario": "16:30-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-4",
+        "campus": "RIO HONDO",
+        "inicio": "16:30",
+        "fin": "17:30"
       }
     ]
   },
@@ -18636,9 +18711,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.5882,
-    "n": 17
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "LUIS FELIPE GONZALEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Gonz\u00e1lez-P\u00e9rez_10682",
@@ -18741,9 +18816,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.5,
+    "n": 2
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18757,8 +18832,8 @@ let misProfesData={
   },
   "PABLO KALMANOVITZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Kalmanovitz-Gonz\u00e1lez_153830",
-    "general": 9.0,
-    "n": 1
+    "general": 9.5,
+    "n": 2
   },
   "FEDERICO JOSE KUHLMANN RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Federico-Jos\u00e9-Kuhlmann-Rodr\u00edguez_10875",
@@ -18789,6 +18864,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -19406,9 +19486,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
