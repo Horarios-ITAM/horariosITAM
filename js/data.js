@@ -1,4 +1,4 @@
-let actualizado='1665118802049.7246';
+let actualizado='1665205203541.0674';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -453,7 +453,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH312",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -18480,6 +18480,11 @@ let misProfesData={
     "general": 5.9265,
     "n": 204
   },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3
+  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.5,
@@ -18785,6 +18790,11 @@ let misProfesData={
     "general": 8.7222,
     "n": 18
   },
+  "JOSE OMAR HERNANDEZ SALGADO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Omar-Hern\u00e1ndez-Salgado_157835",
+    "general": 10.0,
+    "n": 1
+  },
   "RENATA HERRERIAS FRANCO": {
     "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
     "general": 6.1818,
@@ -18860,6 +18870,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -18921,9 +18936,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -19296,9 +19311,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
