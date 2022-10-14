@@ -1,4 +1,4 @@
-let actualizado='1665637205342.9949';
+let actualizado='1665723604797.304';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -18480,11 +18480,6 @@ let misProfesData={
     "general": 5.9265,
     "n": 204
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.5,
@@ -18821,9 +18816,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -19486,9 +19481,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -19671,6 +19666,16 @@ let misProfesData={
     "n": 105
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
+    "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
+    "general": 8.0307,
+    "n": 163
+  },
+  "GERARDO ZORRILLA RAMOS": {
+    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
+    "general": 7.3019,
+    "n": 53
+  }
+}; "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
     "general": 8.0307,
     "n": 163
