@@ -1,4 +1,4 @@
-let actualizado='1661632649467.077';
+let actualizado='1666155604016.5103';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -453,7 +453,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH312",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -1091,7 +1091,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHPB3",
+        "salon": "RH204",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -1105,7 +1105,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHPB3",
+        "salon": "RH207",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -1368,7 +1368,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "14:30",
         "fin": "17:30"
@@ -3719,7 +3719,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -5484,7 +5484,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "JOYCE CAROL  SADKA",
+        "profesor": "RODRIGO CAMARENA GONZALEZ",
         "creditos": "9",
         "horario": "10:00-11:30",
         "dias": [
@@ -6554,7 +6554,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH305",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -7630,7 +7630,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHCUBIC",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -8985,7 +8985,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHCUBIC",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -9026,7 +9026,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH104",
+        "salon": "PF105",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -10395,7 +10395,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH213",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:00"
@@ -11757,7 +11757,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF105",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -11924,7 +11924,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH308",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -14414,7 +14414,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -14428,7 +14428,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:00"
@@ -14456,7 +14456,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RHLI1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14892,7 +14892,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -14906,7 +14906,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:00"
@@ -14934,7 +14934,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RHLI1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -15667,7 +15667,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
-        "profesor": "SERGIO ARTURO PEREZ RUIZ",
+        "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
         "creditos": "2.7",
         "horario": "13:00-15:00",
         "dias": [
@@ -15697,7 +15697,7 @@ let clases={
       {
         "grupo": "012",
         "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
-        "profesor": "SERGIO ARTURO PEREZ RUIZ",
+        "profesor": "OMAR VIGUERAS HERRERA",
         "creditos": "2.7",
         "horario": "15:00-17:00",
         "dias": [
@@ -15883,7 +15883,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
-        "profesor": "SERGIO ARTURO PEREZ RUIZ",
+        "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
         "creditos": "2.7",
         "horario": "13:00-15:00",
         "dias": [
@@ -15913,7 +15913,7 @@ let clases={
       {
         "grupo": "012",
         "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
-        "profesor": "SERGIO ARTURO PEREZ RUIZ",
+        "profesor": "OMAR VIGUERAS HERRERA",
         "creditos": "2.7",
         "horario": "15:00-17:00",
         "dias": [
@@ -15954,6 +15954,228 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
+      }
+    ]
+  },
+  "MAT-14061": {
+    "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+    "clave": "MAT-14061",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "08:00-09:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "PF108",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "09:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH109",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+        "creditos": "0",
+        "horario": "13:00-14:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "PF104",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "11:00-12:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "12:00"
+      }
+    ]
+  },
+  "MAT-14062": {
+    "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+    "clave": "MAT-14062",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "08:00-09:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "PF108",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "09:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH109",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "13:00-14:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHPB1",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "11:00-12:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "12:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "",
+        "creditos": "0",
+        "horario": "16:30-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH313",
+        "campus": "RIO HONDO",
+        "inicio": "16:30",
+        "fin": "17:30"
+      },
+      {
+        "grupo": "006",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHB-4",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "007",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "008",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+        "creditos": "0",
+        "horario": "13:00-14:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHPB2",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "009",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+        "creditos": "0",
+        "horario": "11:00-12:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "PF107",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "12:00"
+      },
+      {
+        "grupo": "010",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "",
+        "creditos": "0",
+        "horario": "16:30-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-4",
+        "campus": "RIO HONDO",
+        "inicio": "16:30",
+        "fin": "17:30"
       }
     ]
   },
@@ -16112,7 +16334,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "15:00"
@@ -16759,7 +16981,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -16830,7 +17052,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:30"
@@ -16959,7 +17181,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -17887,7 +18109,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "MARCELO CARLOS MEJIA OLVERA",
+        "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
         "creditos": "4",
         "horario": "17:30-19:30",
         "dias": [
@@ -17926,7 +18148,7 @@ let clases={
     "clave": "SDI-25916",
     "grupos": []
   }
-};
+}
 let misProfesData={
   "CLAUDIA ABURTO RANCA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
@@ -18385,8 +18607,8 @@ let misProfesData={
   },
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
-    "general": 7.3704,
-    "n": 27
+    "general": 7.3448,
+    "n": 29
   },
   "PEDRO ANGEL GARCIA ARES": {
     "link": "https://www.misprofesores.com/profesores/pedro-\u00e1ngel-garc\u00eda-ares_130183",
@@ -18460,8 +18682,8 @@ let misProfesData={
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
-    "general": 6.3333,
-    "n": 18
+    "general": 6.5263,
+    "n": 19
   },
   "CLAUDIA GUADALUPE GOMEZ WULSCHNER": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Guadalupe-Gomez-Wulshner_10714",
@@ -18475,8 +18697,8 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4571,
-    "n": 210
+    "general": 6.436,
+    "n": 211
   },
   "JORGE GONZALEZ GALLASTEGUI": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Gonz\u00e1lez-Gallastegui_129800",
@@ -18489,9 +18711,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5882,
+    "n": 17
   },
   "LUIS FELIPE GONZALEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Gonz\u00e1lez-P\u00e9rez_10682",
@@ -18545,8 +18767,8 @@ let misProfesData={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7097,
-    "n": 93
+    "general": 6.7447,
+    "n": 94
   },
   "MARTHA MARIA GUTIERREZ PADILLA": {
     "link": "https://www.misprofesores.com/profesores/Martha-Mar\u00eda-Gutierrez-Padilla_130892",
@@ -18560,13 +18782,18 @@ let misProfesData={
   },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
-    "general": 6.0,
-    "n": 2
+    "general": 6.6667,
+    "n": 3
   },
   "DIEGO HERNANDEZ RANGEL": {
     "link": "https://www.misprofesores.com/profesores/Diego-Hern\u00e1ndez-Rangel_10679",
     "general": 8.7222,
     "n": 18
+  },
+  "JOSE OMAR HERNANDEZ SALGADO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Omar-Hern\u00e1ndez-Salgado_157835",
+    "general": 10.0,
+    "n": 1
   },
   "RENATA HERRERIAS FRANCO": {
     "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
@@ -18610,8 +18837,8 @@ let misProfesData={
   },
   "PABLO KALMANOVITZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Kalmanovitz-Gonz\u00e1lez_153830",
-    "general": 9.0,
-    "n": 1
+    "general": 9.5,
+    "n": 2
   },
   "FEDERICO JOSE KUHLMANN RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Federico-Jos\u00e9-Kuhlmann-Rodr\u00edguez_10875",
@@ -18775,8 +19002,8 @@ let misProfesData={
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
-    "general": 7.4091,
-    "n": 22
+    "general": 7.4783,
+    "n": 23
   },
   "MIROSLAVA MENDOZA VIDAL": {
     "link": "https://www.misprofesores.com/profesores/Miroslava-Mendoza-Vidal_30732",
@@ -18835,8 +19062,8 @@ let misProfesData={
   },
   "AURORA GUADALUPE MONROY ALARCON": {
     "link": "https://www.misprofesores.com/profesores/Aurora-Guadalupe-Monroy-Alarc\u00f3n_10725",
-    "general": 6.2195,
-    "n": 41
+    "general": 6.119,
+    "n": 42
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
@@ -18850,8 +19077,8 @@ let misProfesData={
   },
   "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ": {
     "link": "https://www.misprofesores.com/profesores/PAULINA-MORALES-LOPEZ-SANTIBA\u00d1EZ_99563",
-    "general": 6.6667,
-    "n": 3
+    "general": 7.5,
+    "n": 4
   },
   "JOSE ANTONIO MORALES YA\u00d1EZ": {
     "link": "https://www.misprofesores.com/profesores/JOSE-ANTONIO-MORALES-YA\u00d1EZ_71535",
@@ -18905,13 +19132,13 @@ let misProfesData={
   },
   "MARGARITA OLMEDO DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Olmedo-de-la-Pe\u00f1a_36749",
-    "general": 7.6923,
-    "n": 26
+    "general": 7.7778,
+    "n": 27
   },
   "JESUS ALEJANDRO ORDIERES SIERES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Ordieres-Sieres_10826",
-    "general": 7.3241,
-    "n": 145
+    "general": 7.3356,
+    "n": 146
   },
   "ELSA VIVIANA OROPEZA GRACIA": {
     "link": "https://www.misprofesores.com/profesores/Elsa-Viviana-Oropeza-Gracia_93911",
@@ -18920,8 +19147,8 @@ let misProfesData={
   },
   "JOSE MANUEL OROZCO GARIBAY": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
-    "general": 5.7089,
-    "n": 158
+    "general": 5.7063,
+    "n": 160
   },
   "ROMEO SALVADOR ORTEGA MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Romeo-Salvador-Ortega-Martinez_129225",
@@ -18930,8 +19157,8 @@ let misProfesData={
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
-    "general": 7.0714,
-    "n": 14
+    "general": 7.2,
+    "n": 15
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
@@ -19010,8 +19237,8 @@ let misProfesData={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1404,
-    "n": 57
+    "general": 7.1034,
+    "n": 58
   },
   "JESUS PUENTE TREVI\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Jesus-Puente-Trevi\u00f1o_89712",
@@ -19065,8 +19292,8 @@ let misProfesData={
   },
   "PAVEL REAL PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
-    "general": 9.375,
-    "n": 16
+    "general": 9.4444,
+    "n": 18
   },
   "JOSE RAMON RIOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
@@ -19080,8 +19307,8 @@ let misProfesData={
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
-    "general": 7.7059,
-    "n": 17
+    "general": 7.7222,
+    "n": 18
   },
   "MARTA ROBLES CARTES": {
     "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
@@ -19125,8 +19352,8 @@ let misProfesData={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7237,
-    "n": 76
+    "general": 8.7403,
+    "n": 77
   },
   "IRMA BEATRIZ RUMBOS PELLICER": {
     "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",
@@ -19160,8 +19387,8 @@ let misProfesData={
   },
   "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
     "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
-    "general": 5.875,
-    "n": 8
+    "general": 5.4444,
+    "n": 9
   },
   "JOSE ANGEL SANTIAGO ABREGO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Santiago-\u00c1brego_138583",
@@ -19210,8 +19437,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9418,
-    "n": 275
+    "general": 4.9312,
+    "n": 276
   },
   "SERGIO SILVA CASTA\u00d1EDA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Silva-Casta\u00f1eda_50663",
@@ -19264,9 +19491,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -19350,13 +19577,13 @@ let misProfesData={
   },
   "AURELIO VASQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
-    "general": 4.0,
-    "n": 22
+    "general": 3.84,
+    "n": 25
   },
   "RODOLFO DARIO VAZQUEZ CARDOZO": {
     "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.7143,
-    "n": 28
+    "general": 8.7586,
+    "n": 29
   },
   "BRUNO VELAZQUEZ DELGADO": {
     "link": "https://www.misprofesores.com/profesores/Bruno-Velazquez-Delgado_74531",

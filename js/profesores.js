@@ -1,4 +1,4 @@
-let actualizado='1661632649467.077';
+let actualizado='1666155604013.413';
 let periodo='OTOÑO 2022 LICENCIATURA';
 let sGrace='2125';
 let dropDownUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2125';
@@ -6,8 +6,8 @@ let formPostUrl='https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2';
 let profesores={
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
-    "general": 7.3704,
-    "n": 27,
+    "general": 7.3448,
+    "n": 29,
     "grupos": {
       "ACT-11300-CALCULO ACTUARIAL I": [
         {
@@ -193,8 +193,8 @@ let profesores={
   },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
-    "general": 6.0,
-    "n": 2,
+    "general": 6.6667,
+    "n": 3,
     "grupos": {
       "ACT-11302-CALCULO ACTUARIAL III": [
         {
@@ -353,8 +353,8 @@ let profesores={
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
-    "general": 6.3333,
-    "n": 18,
+    "general": 6.5263,
+    "n": 19,
     "grupos": {
       "ACT-15357-PRINCIPIOS DEL SEGURO": [
         {
@@ -543,7 +543,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH312",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -639,8 +639,8 @@ let profesores={
   },
   "AURORA GUADALUPE MONROY ALARCON": {
     "link": "https://www.misprofesores.com/profesores/Aurora-Guadalupe-Monroy-Alarc\u00f3n_10725",
-    "general": 6.2195,
-    "n": 41,
+    "general": 6.119,
+    "n": 42,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -740,8 +740,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9418,
-    "n": 275,
+    "general": 4.9312,
+    "n": 276,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -1378,7 +1378,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHPB3",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -1392,7 +1392,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHPB3",
+          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -1796,7 +1796,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHSA2",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "14:30",
           "fin": "17:30"
@@ -2083,8 +2083,8 @@ let profesores={
   },
   "AURELIO VASQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
-    "general": 4.0,
-    "n": 22,
+    "general": 3.84,
+    "n": 25,
     "grupos": {
       "ADM-15533-MODELOS FINANCIEROS I": [
         {
@@ -2802,8 +2802,8 @@ let profesores={
   },
   "MARGARITA OLMEDO DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Olmedo-de-la-Pe\u00f1a_36749",
-    "general": 7.6923,
-    "n": 26,
+    "general": 7.7778,
+    "n": 27,
     "grupos": {
       "COM-11101-ALGORITMOS Y PROGRAMAS": [
         {
@@ -3289,22 +3289,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ],
-      "SDI-15816-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-          "profesor": "MARCELO CARLOS MEJIA OLVERA",
-          "creditos": "4",
-          "horario": "17:30-19:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
         }
       ]
     }
@@ -4038,9 +4022,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.5882,
+    "n": 17,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -4402,7 +4386,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHB-4",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -5196,8 +5180,8 @@ let profesores={
   },
   "RODOLFO DARIO VAZQUEZ CARDOZO": {
     "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.7143,
-    "n": 28,
+    "general": 8.7586,
+    "n": 29,
     "grupos": {
       "CSO-11021-TEORIA POLITICA CONTEMPORANEA": [
         {
@@ -5753,7 +5737,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHCUBIC",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -5801,7 +5785,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHCUBIC",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -6474,21 +6458,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "JOYCE CAROL  SADKA",
-          "creditos": "9",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ],
       "ECO-14208-ANAL. ECON. DEL DER. II": [
@@ -6506,6 +6475,44 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "RODRIGO CAMARENA GONZALEZ": {
+    "grupos": {
+      "DER-10113-DERECHO PUBLICO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10113-DERECHO PUBLICO",
+          "profesor": "RODRIGO CAMARENA GONZALEZ",
+          "creditos": "9",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "DER-15504-DERECHO CONSTITUCIONAL II": [
+        {
+          "grupo": "002",
+          "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
+          "profesor": "RODRIGO CAMARENA GONZALEZ",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -7612,7 +7619,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH305",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -7640,27 +7647,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "RODRIGO CAMARENA GONZALEZ": {
-    "grupos": {
-      "DER-15504-DERECHO CONSTITUCIONAL II": [
-        {
-          "grupo": "002",
-          "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
-          "profesor": "RODRIGO CAMARENA GONZALEZ",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ]
     }
@@ -8107,6 +8093,9 @@ let profesores={
     }
   },
   "JOSE OMAR HERNANDEZ SALGADO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Omar-Hern\u00e1ndez-Salgado_157835",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "DER-17702-DERECHO ADMINISTRATIVO II": [
         {
@@ -8452,8 +8441,8 @@ let profesores={
   },
   "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
     "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
-    "general": 5.875,
-    "n": 8,
+    "general": 5.4444,
+    "n": 9,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
@@ -8817,7 +8806,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH104",
+          "salon": "PF105",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -10610,6 +10599,38 @@ let profesores={
           "inicio": "11:00",
           "fin": "12:00"
         }
+      ],
+      "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2": [
+        {
+          "grupo": "005",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "",
+          "creditos": "0",
+          "horario": "16:30-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "16:30",
+          "fin": "17:30"
+        },
+        {
+          "grupo": "010",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "",
+          "creditos": "0",
+          "horario": "16:30-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "16:30",
+          "fin": "17:30"
+        }
       ]
     }
   },
@@ -10737,8 +10758,8 @@ let profesores={
   },
   "JOSE MANUEL OROZCO GARIBAY": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
-    "general": 5.7089,
-    "n": 158,
+    "general": 5.7063,
+    "n": 160,
     "grupos": {
       "EGN-11155-NVA VIS. HIST. MEX 1820-2000": [
         {
@@ -11065,8 +11086,8 @@ let profesores={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4571,
-    "n": 210,
+    "general": 6.436,
+    "n": 211,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -11562,8 +11583,8 @@ let profesores={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7097,
-    "n": 93,
+    "general": 6.7447,
+    "n": 94,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -11603,8 +11624,8 @@ let profesores={
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
-    "general": 7.0714,
-    "n": 14,
+    "general": 7.2,
+    "n": 15,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -11901,8 +11922,8 @@ let profesores={
   },
   "JESUS ALEJANDRO ORDIERES SIERES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Ordieres-Sieres_10826",
-    "general": 7.3241,
-    "n": 145,
+    "general": 7.3356,
+    "n": 146,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -11970,6 +11991,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
+        }
+      ],
+      "SDI-15816-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+          "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
+          "creditos": "4",
+          "horario": "17:30-19:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:30"
         }
       ]
     }
@@ -12041,7 +12078,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH213",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:00"
@@ -12521,8 +12558,8 @@ let profesores={
   },
   "PABLO KALMANOVITZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Kalmanovitz-Gonz\u00e1lez_153830",
-    "general": 9.0,
-    "n": 1,
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "EIN-12201-HIST. DE LAS RELACS. INTER. I": [
         {
@@ -12929,7 +12966,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "PF105",
+          "salon": "RHB-3",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -13529,7 +13566,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH308",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -13761,8 +13798,8 @@ let profesores={
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
-    "general": 7.4091,
-    "n": 22,
+    "general": 7.4783,
+    "n": 23,
     "grupos": {
       "EST-14103-ESTADISTICA MATEMATICA": [
         {
@@ -15379,9 +15416,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -15785,8 +15822,8 @@ let profesores={
   },
   "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ": {
     "link": "https://www.misprofesores.com/profesores/PAULINA-MORALES-LOPEZ-SANTIBA\u00d1EZ_99563",
-    "general": 6.6667,
-    "n": 3,
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16512,7 +16549,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RHB-3",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -16526,7 +16563,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RHB-3",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -16540,7 +16577,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF107",
+          "salon": "RHLI1",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -16570,7 +16607,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RHB-3",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -16584,7 +16621,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RHB-3",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -16598,7 +16635,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF107",
+          "salon": "RHLI1",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -17205,6 +17242,38 @@ let profesores={
           "inicio": "08:30",
           "fin": "10:00"
         }
+      ],
+      "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2": [
+        {
+          "grupo": "007",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        },
+        {
+          "grupo": "008",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+          "creditos": "0",
+          "horario": "13:00-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHPB2",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
       ]
     }
   },
@@ -17282,8 +17351,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1404,
-    "n": 57,
+    "general": 7.1034,
+    "n": 58,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -17642,8 +17711,8 @@ let profesores={
   },
   "PAVEL REAL PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
-    "general": 9.375,
-    "n": 16,
+    "general": 9.4444,
+    "n": 18,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -17752,6 +17821,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
+        },
+        {
+          "grupo": "012",
+          "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
+          "profesor": "OMAR VIGUERAS HERRERA",
+          "creditos": "2.7",
+          "horario": "15:00-17:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "15:00",
+          "fin": "17:00"
         }
       ],
       "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III": [
@@ -17769,6 +17853,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
+        },
+        {
+          "grupo": "012",
+          "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
+          "profesor": "OMAR VIGUERAS HERRERA",
+          "creditos": "2.7",
+          "horario": "15:00-17:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "15:00",
+          "fin": "17:00"
         }
       ]
     }
@@ -17884,12 +17983,19 @@ let profesores={
           "inicio": "15:00",
           "fin": "17:00"
         }
-      ],
+      ]
+    }
+  },
+  "ANA PAULINA FIGUEROA GUTIERREZ": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
+    "general": 6.2745,
+    "n": 51,
+    "grupos": {
       "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II": [
         {
           "grupo": "010",
           "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
-          "profesor": "SERGIO ARTURO PEREZ RUIZ",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
           "creditos": "2.7",
           "horario": "13:00-15:00",
           "dias": [
@@ -17900,28 +18006,13 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "15:00"
-        },
-        {
-          "grupo": "012",
-          "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
-          "profesor": "SERGIO ARTURO PEREZ RUIZ",
-          "creditos": "2.7",
-          "horario": "15:00-17:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "15:00",
-          "fin": "17:00"
         }
       ],
       "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III": [
         {
           "grupo": "010",
           "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
-          "profesor": "SERGIO ARTURO PEREZ RUIZ",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
           "creditos": "2.7",
           "horario": "13:00-15:00",
           "dias": [
@@ -17932,21 +18023,279 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "15:00"
-        },
+        }
+      ],
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
         {
-          "grupo": "012",
-          "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
-          "profesor": "SERGIO ARTURO PEREZ RUIZ",
-          "creditos": "2.7",
-          "horario": "15:00-17:00",
+          "grupo": "003",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+          "creditos": "0",
+          "horario": "13:00-14:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH106",
+          "salon": "PF104",
           "campus": "RIO HONDO",
-          "inicio": "15:00",
-          "fin": "17:00"
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
+      ],
+      "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
+        {
+          "grupo": "005",
+          "nombre": "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14250-GEOMETRIA VECTORIAL": [
+        {
+          "grupo": "005",
+          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14280-PENSAMIENTO MATEMATICO": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "MAT-14300-ALGEBRA SUPERIOR, I": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "MARTA CABO NODAR": {
+    "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
+    "general": 4.1519,
+    "n": 79,
+    "grupos": {
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "08:00-09:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ],
+      "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "08:00-09:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "13:00-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHPB1",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        },
+        {
+          "grupo": "006",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14100-CALCULO DIF. E INT., I": [
+        {
+          "grupo": "006",
+          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "8",
+          "horario": "12:30-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHPB2",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:30"
+        }
+      ]
+    }
+  },
+  "VICTOR FRANCISCO BRE\u00d1A MEDINA": {
+    "grupos": {
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        },
+        {
+          "grupo": "009",
+          "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+          "creditos": "0",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ],
+      "MAT-14101-CALCULO DIF. E INT., II": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14101-CALCULO DIF. E INT., II",
+          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+          "creditos": "8",
+          "horario": "13:00-15:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "15:00"
         }
       ]
     }
@@ -18065,30 +18414,6 @@ let profesores={
             "JU"
           ],
           "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:30"
-        }
-      ]
-    }
-  },
-  "MARTA CABO NODAR": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
-    "general": 4.1519,
-    "n": 79,
-    "grupos": {
-      "MAT-14100-CALCULO DIF. E INT., I": [
-        {
-          "grupo": "006",
-          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-          "profesor": "MARTA CABO NODAR",
-          "creditos": "8",
-          "horario": "12:30-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHPB2",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:30"
@@ -18253,27 +18578,6 @@ let profesores={
       ]
     }
   },
-  "VICTOR FRANCISCO BRE\u00d1A MEDINA": {
-    "grupos": {
-      "MAT-14101-CALCULO DIF. E INT., II": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14101-CALCULO DIF. E INT., II",
-          "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
-          "creditos": "8",
-          "horario": "13:00-15:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "15:00"
-        }
-      ]
-    }
-  },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
     "general": 6.6566,
@@ -18405,85 +18709,10 @@ let profesores={
       ]
     }
   },
-  "ANA PAULINA FIGUEROA GUTIERREZ": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.2745,
-    "n": 51,
-    "grupos": {
-      "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
-        {
-          "grupo": "005",
-          "nombre": "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)",
-          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "MAT-14250-GEOMETRIA VECTORIAL": [
-        {
-          "grupo": "005",
-          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
-          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "MAT-14280-PENSAMIENTO MATEMATICO": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "MAT-14300-ALGEBRA SUPERIOR, I": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ]
-    }
-  },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7237,
-    "n": 76,
+    "general": 8.7403,
+    "n": 77,
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
         {
@@ -18768,7 +18997,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:30"
@@ -18917,7 +19146,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH313",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -18934,7 +19163,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH305",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -18968,8 +19197,8 @@ let profesores={
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
-    "general": 7.7059,
-    "n": 17,
+    "general": 7.7222,
+    "n": 18,
     "grupos": {
       "MAT-24111-ANALISIS MATEMATICO II": [
         {
@@ -19876,9 +20105,9 @@ let mejoresPorDepto={
     "SERGIO GARCIA ALQUICIRA",
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
     "PEDRO DANIEL TREJO SOLIS",
-    "FERNANDO PEREZ RIOS",
-    "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
     "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
+    "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
+    "FERNANDO PEREZ RIOS",
     "LEONARDO ROJAS NANDAYAPA",
     "GABRIELA MELENDEZ VARGAS"
   ],
@@ -19942,14 +20171,14 @@ let mejoresPorDepto={
   "DERECHO": [
     "GUSTAVO CARDENAS SORIANO",
     "DENISE MEJAN GANEM",
+    "JOSE OMAR HERNANDEZ SALGADO",
     "JOSE LUIS CABALLERO RODRIGUEZ",
     "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
     "ERIKA ESTEFANIA SALAS MAYME",
     "FRANCO ALBERTO DEL VALLE PRADO",
     "IRVIN ARTURO CASTILLO CESAREO",
     "CARLOS EDUARDO SCHLESKE JUAREZ",
-    "MARIANA CALDERON ARAMBURU",
-    "AMRITA BAHRI"
+    "MARIANA CALDERON ARAMBURU"
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
@@ -19976,8 +20205,8 @@ let mejoresPorDepto={
     "JOSE PANTALEON DOMINGUEZ ESPONDA"
   ],
   "ESTUDIOS INTERNACIONALES": [
-    "ISABEL FLORES ALCAZAR",
     "PABLO KALMANOVITZ GONZALEZ",
+    "ISABEL FLORES ALCAZAR",
     "RODRIGO CHACON AGUIRRE",
     "GABRIEL GOODLIFFE",
     "STEPHAN JOSEPH SBERRO PICARD",
