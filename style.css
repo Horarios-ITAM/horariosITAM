@@ -13,6 +13,7 @@ body{
           padding: 8px 15px;
           margin: 8px 0;
           box-sizing: border-box;
+
       }
       #a,#profesorSeleccionado{
           padding: 8px 15px;
@@ -34,6 +35,9 @@ body{
         width: 90% !important;
         text-align: left;
     }
+}
+input[type=button]{
+    padding: 15px !important;
 }
 
 #contenido{
