@@ -1,4 +1,4 @@
-let actualizado='1667147403696.2856';
+let actualizado='1667222697936.0923';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -3900,9 +3900,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
