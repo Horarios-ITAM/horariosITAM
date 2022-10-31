@@ -145,7 +145,9 @@ class GraceScrapperSecureArea:
         # Las columnas de la tabla con horarios. None indica que no nos importa.
         cols=[None, None, 'depto', 'clave', 'grupo', None, 'creditos', 'nombre', None, 'dias', 'horario', 'profesor', None, 'salon']
         grupos=[]
-        for tr in b.find('table',{'class':'datadisplaytable'}).find_all('tr')[2:]:
+        table=b.find('table',{'class':'datadisplaytable'})
+        if table==None: return grupos
+        for tr in table.find_all('tr')[2:]:
             temp={}
             for i,td in enumerate(tr.find_all('td')):
                 equiv=cols[i]
@@ -209,7 +211,8 @@ class GraceScrapperSecureArea:
         self.clases={}
         print("Scrappeando clases de depto ...")
         for depto in deptos.keys():
-            print(depto)
+            print(depto,end='')
+            nClases,nGrupos=0,0
             for clave in self.getClavesMaterias(depto):
                 html=self.getHTMLclase(depto,clave)
                 grupos=self.parseaGrupos(html)
@@ -240,8 +243,12 @@ class GraceScrapperSecureArea:
                         'clave':clave,
                         'grupos':labs
                     }
-                
 
+                nGrupos+=(len(teorias)+len(labs))
+                nClases+=1
+                
+            print(f": {nClases} clases y {nGrupos} grupos")
+                
         print("Se scrappearon {} clases!".format(len(self.clases)))
 
         # Extrae profesores

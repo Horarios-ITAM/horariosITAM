@@ -1,4 +1,4 @@
-let actualizado='1666882481549.5427';
+let actualizado='1667223620378.718';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -721,6 +721,43 @@ let profesores={
           ],
           "salon": "105",
           "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "FERNANDO DELGADO CHONG": {
+    "grupos": {
+      "DER-12102-INSTITUCS. DE DERECHO ROMANO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-12102-INSTITUCS. DE DERECHO ROMANO",
+          "profesor": "FERNANDO DELGADO CHONG",
+          "creditos": "8",
+          "inicio": "07:00",
+          "fin": "08:29",
+          "horario": "07:00-08:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "SA3",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "DER-12102-INSTITUCS. DE DERECHO ROMANO-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-12102-INSTITUCS. DE DERECHO ROMANO-LAB",
+          "profesor": "FERNANDO DELGADO CHONG",
+          "creditos": "8",
+          "inicio": "07:00",
+          "fin": "08:59",
+          "horario": "07:00-08:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "SA3",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2770,13 +2807,1510 @@ let profesores={
           "nombre": "IIO-15196-SISTEMAS MECATRONICOS",
           "profesor": "THOMAS MARTIN RUDOLF",
           "creditos": "6",
-          "inicio": "17:30",
-          "fin": "20:30",
-          "horario": "17:30-20:30",
+          "inicio": "08:30",
+          "fin": "11:29",
+          "horario": "08:30-11:29",
           "dias": [
             "MI"
           ],
           "salon": "LMINT",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MARIA GABRIELA MAZZUCHINO": {
+    "grupos": {
+      "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
+        {
+          "grupo": "005",
+          "nombre": "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT",
+          "profesor": "MARIA GABRIELA MAZZUCHINO",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "004",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARIA GABRIELA MAZZUCHINO",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "005",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARIA GABRIELA MAZZUCHINO",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12715-COMUNIC. ESCRITA PARA C. POL.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12715-COMUNIC. ESCRITA PARA C. POL.",
+          "profesor": "MARIA GABRIELA MAZZUCHINO",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-14051-COMUNIC. ESCRITA PARA C. POL.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-14051-COMUNIC. ESCRITA PARA C. POL.",
+          "profesor": "MARIA GABRIELA MAZZUCHINO",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "ALEJANDRA SOLIS GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
+    "general": 7.087,
+    "n": 23,
+    "grupos": {
+      "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
+        {
+          "grupo": "006",
+          "nombre": "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT",
+          "profesor": "ALEJANDRA SOLIS GONZALEZ",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "08:29",
+          "horario": "07:00-08:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "006",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "ALEJANDRA SOLIS GONZALEZ",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "08:29",
+          "horario": "07:00-08:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "007",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "ALEJANDRA SOLIS GONZALEZ",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "DIANA LUCIA ALVAREZ MACIAS": {
+    "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
+    "general": 9.5714,
+    "n": 14,
+    "grupos": {
+      "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
+        {
+          "grupo": "011",
+          "nombre": "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "011",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12722-COM. ESCRITA CIENCIA DE DATOS",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "GABRIEL ASTEY WOOD": {
+    "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
+    "general": 8.9091,
+    "n": 44,
+    "grupos": {
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "GABRIEL ASTEY WOOD",
+          "creditos": "2",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12002-COM ESCRITA PARA C.P.Y EST FIN": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12002-COM ESCRITA PARA C.P.Y EST FIN",
+          "profesor": "GABRIEL ASTEY WOOD",
+          "creditos": "2",
+          "inicio": "09:00",
+          "fin": "09:59",
+          "horario": "09:00-09:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "GABRIEL ASTEY WOOD",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "GABRIEL ASTEY WOOD",
+          "creditos": "2",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12716-COMUNIC ESCRITA PARA C.P Y E.F": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12716-COMUNIC ESCRITA PARA C.P Y E.F",
+          "profesor": "GABRIEL ASTEY WOOD",
+          "creditos": "2",
+          "inicio": "09:00",
+          "fin": "09:59",
+          "horario": "09:00-09:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "FEDERICO AUGUSTO GUZMAN RUBIO": {
+    "grupos": {
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "11:59",
+          "horario": "11:00-11:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "11:59",
+          "horario": "11:00-11:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "003",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "inicio": "17:30",
+          "fin": "18:29",
+          "horario": "17:30-18:29",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "003",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "inicio": "17:30",
+          "fin": "18:29",
+          "horario": "17:30-18:29",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "TBA": {
+    "link": "https://www.misprofesores.com/profesores/Omar-Josue-Zulaica-Pi?ero_74630",
+    "general": 8.0,
+    "n": 3,
+    "grupos": {
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "004",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "TBA",
+          "creditos": "2",
+          "inicio": "14:00",
+          "fin": "14:59",
+          "horario": "14:00-14:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "TBA",
+          "creditos": "2",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "TBA",
+          "creditos": "2",
+          "inicio": "14:00",
+          "fin": "14:59",
+          "horario": "14:00-14:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "MAT-14100-CALCULO DIF. E INT., I": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
+          "profesor": "TBA",
+          "creditos": "8",
+          "inicio": "12:00",
+          "fin": "13:59",
+          "horario": "12:00-13:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "B-1",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
+        {
+          "grupo": "003",
+          "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
+          "profesor": "TBA",
+          "creditos": "8",
+          "inicio": "10:00",
+          "fin": "11:59",
+          "horario": "10:00-11:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "316",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
+    "general": 8.8372,
+    "n": 43,
+    "grupos": {
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "005",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "009",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "010",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "005",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "CONRADO JOSE ARRANZ MINGUEZ": {
+    "grupos": {
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "007",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+          "creditos": "2",
+          "inicio": "15:00",
+          "fin": "15:59",
+          "horario": "15:00-15:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "007",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+          "creditos": "2",
+          "inicio": "15:00",
+          "fin": "15:59",
+          "horario": "15:00-15:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "008",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+          "creditos": "2",
+          "inicio": "16:00",
+          "fin": "16:59",
+          "horario": "16:00-16:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12711-COMUNIC. ESCRITA PARA DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12711-COMUNIC. ESCRITA PARA DERECHO",
+          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+          "creditos": "2",
+          "inicio": "09:00",
+          "fin": "09:59",
+          "horario": "09:00-09:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12711-COMUNIC. ESCRITA PARA DERECHO",
+          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+          "creditos": "2",
+          "inicio": "19:00",
+          "fin": "19:59",
+          "horario": "19:00-19:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-14208-COMUNICA. ESCRITA PARA DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-14208-COMUNICA. ESCRITA PARA DERECHO",
+          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+          "creditos": "2",
+          "inicio": "09:00",
+          "fin": "09:59",
+          "horario": "09:00-09:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-14208-COMUNICA. ESCRITA PARA DERECHO",
+          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+          "creditos": "2",
+          "inicio": "19:00",
+          "fin": "19:59",
+          "horario": "19:00-19:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JAEN DANAE TORRES DE LA ROSA": {
+    "link": "https://www.misprofesores.com/profesores/Ja\u00e9n-Dana\u00e9-Torres-de-la-Rosa_74693",
+    "general": 9.0435,
+    "n": 23,
+    "grupos": {
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "010",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "JAEN DANAE TORRES DE LA ROSA",
+          "creditos": "2",
+          "inicio": "12:00",
+          "fin": "12:59",
+          "horario": "12:00-12:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "010",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "JAEN DANAE TORRES DE LA ROSA",
+          "creditos": "2",
+          "inicio": "12:00",
+          "fin": "12:59",
+          "horario": "12:00-12:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12713-COMUNIC. ESCRITA PARA ACTUARIA": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12713-COMUNIC. ESCRITA PARA ACTUARIA",
+          "profesor": "JAEN DANAE TORRES DE LA ROSA",
+          "creditos": "2",
+          "inicio": "08:30",
+          "fin": "09:29",
+          "horario": "08:30-09:29",
+          "dias": [
+            "LU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12713-COMUNIC. ESCRITA PARA ACTUARIA",
+          "profesor": "JAEN DANAE TORRES DE LA ROSA",
+          "creditos": "2",
+          "inicio": "08:30",
+          "fin": "09:29",
+          "horario": "08:30-09:29",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12714-COMUNICA. ESCRITA PARA ADMON.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12714-COMUNICA. ESCRITA PARA ADMON.",
+          "profesor": "JAEN DANAE TORRES DE LA ROSA",
+          "creditos": "2",
+          "inicio": "08:30",
+          "fin": "09:29",
+          "horario": "08:30-09:29",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12714-COMUNICA. ESCRITA PARA ADMON.",
+          "profesor": "JAEN DANAE TORRES DE LA ROSA",
+          "creditos": "2",
+          "inicio": "08:30",
+          "fin": "09:29",
+          "horario": "08:30-09:29",
+          "dias": [
+            "JU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.",
+          "profesor": "JAEN DANAE TORRES DE LA ROSA",
+          "creditos": "2",
+          "inicio": "08:30",
+          "fin": "09:29",
+          "horario": "08:30-09:29",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.",
+          "profesor": "JAEN DANAE TORRES DE LA ROSA",
+          "creditos": "2",
+          "inicio": "08:30",
+          "fin": "09:29",
+          "horario": "08:30-09:29",
+          "dias": [
+            "JU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-15358-COMUNIC. ESCRITA PARA ACTUARIA": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-15358-COMUNIC. ESCRITA PARA ACTUARIA",
+          "profesor": "JAEN DANAE TORRES DE LA ROSA",
+          "creditos": "2",
+          "inicio": "08:30",
+          "fin": "09:29",
+          "horario": "08:30-09:29",
+          "dias": [
+            "LU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-15358-COMUNIC. ESCRITA PARA ACTUARIA",
+          "profesor": "JAEN DANAE TORRES DE LA ROSA",
+          "creditos": "2",
+          "inicio": "08:30",
+          "fin": "09:29",
+          "horario": "08:30-09:29",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "CLAUDIA SOLEDAD SAAVEDRA MENDEZ": {
+    "grupos": {
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "011",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+          "creditos": "2",
+          "inicio": "09:00",
+          "fin": "09:59",
+          "horario": "09:00-09:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "011",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+          "creditos": "2",
+          "inicio": "09:00",
+          "fin": "09:59",
+          "horario": "09:00-09:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "012",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JESUS ADRIAN FERNANDEZ REYES": {
+    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
+    "general": 9.75,
+    "n": 4,
+    "grupos": {
+      "LEN-10135-COM. ESCRITA PARA MAT. APL.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-10135-COM. ESCRITA PARA MAT. APL.",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "inicio": "18:00",
+          "fin": "18:59",
+          "horario": "18:00-18:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-10135-COM. ESCRITA PARA MAT. APL.",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "inicio": "19:00",
+          "fin": "19:59",
+          "horario": "19:00-19:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-10142-COM. ESCRITA PARA ING. COMP.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-10142-COM. ESCRITA PARA ING. COMP.",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "inicio": "18:00",
+          "fin": "18:59",
+          "horario": "18:00-18:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-10144-COM. ESCRITA PARA ING. MECATR.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-10144-COM. ESCRITA PARA ING. MECATR.",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "inicio": "17:00",
+          "fin": "17:59",
+          "horario": "17:00-17:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12719-COMUNIC ESCRITA PARA MATE. APL": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12719-COMUNIC ESCRITA PARA MATE. APL",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "inicio": "18:00",
+          "fin": "18:59",
+          "horario": "18:00-18:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12719-COMUNIC ESCRITA PARA MATE. APL",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "inicio": "19:00",
+          "fin": "19:59",
+          "horario": "19:00-19:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12724-COM. ESCRITA PARA ING EN COMP.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12724-COM. ESCRITA PARA ING EN COMP.",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "inicio": "18:00",
+          "fin": "18:59",
+          "horario": "18:00-18:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12725-COM. ESCRITA PARA ING MECATRO.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12725-COM. ESCRITA PARA ING MECATRO.",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "inicio": "17:00",
+          "fin": "17:59",
+          "horario": "17:00-17:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "FLORENCIA GRACIELA ZOZAYA BECERRA": {
+    "grupos": {
+      "LEN-10141-COM. ESCRITA PARA ING. NEGOC.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-10141-COM. ESCRITA PARA ING. NEGOC.",
+          "profesor": "FLORENCIA GRACIELA ZOZAYA BECERRA",
+          "creditos": "2",
+          "inicio": "18:00",
+          "fin": "18:59",
+          "horario": "18:00-18:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12713-COMUNIC. ESCRITA PARA ACTUARIA": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-12713-COMUNIC. ESCRITA PARA ACTUARIA",
+          "profesor": "FLORENCIA GRACIELA ZOZAYA BECERRA",
+          "creditos": "2",
+          "inicio": "17:00",
+          "fin": "17:59",
+          "horario": "17:00-17:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12726-COM. ESCRITA PARA ING EN NEGOC": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12726-COM. ESCRITA PARA ING EN NEGOC",
+          "profesor": "FLORENCIA GRACIELA ZOZAYA BECERRA",
+          "creditos": "2",
+          "inicio": "18:00",
+          "fin": "18:59",
+          "horario": "18:00-18:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-15358-COMUNIC. ESCRITA PARA ACTUARIA": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-15358-COMUNIC. ESCRITA PARA ACTUARIA",
+          "profesor": "FLORENCIA GRACIELA ZOZAYA BECERRA",
+          "creditos": "2",
+          "inicio": "17:00",
+          "fin": "17:59",
+          "horario": "17:00-17:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ": {
+    "link": "https://www.misprofesores.com/profesores/PAULINA-MORALES-LOPEZ-SANTIBA\u00d1EZ_99563",
+    "general": 8.0,
+    "n": 6,
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "08:29",
+          "horario": "07:00-08:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "ANA TAMARIT AMIEVA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "ANA TAMARIT AMIEVA",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
+    "general": 4.8182,
+    "n": 11,
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "008",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "ACERV",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "108",
+          "campus": "SANTA TERESA"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "11:59",
+          "horario": "11:00-11:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "108",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "108",
+          "campus": "SANTA TERESA"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "11:59",
+          "horario": "11:00-11:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "108",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "MANUEL ADRIAN CHAVEZ PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Manuel-Adrian-Ch\u00e1vez-P\u00e9rez_104157",
+    "general": 9.8,
+    "n": 5,
+    "grupos": {
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "006",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
+          "creditos": "2",
+          "inicio": "14:00",
+          "fin": "14:59",
+          "horario": "14:00-14:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "EDUARDO MENACHE VARELA": {
+    "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
+    "general": 9.7778,
+    "n": 18,
+    "grupos": {
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "009",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "EDUARDO MENACHE VARELA",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "11:59",
+          "horario": "11:00-11:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12721-COMUNIC. ESCRITA PARA REL. INT": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
+          "profesor": "EDUARDO MENACHE VARELA",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
+          "profesor": "EDUARDO MENACHE VARELA",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-16403-COMUNIC. ESCRITA PARA REL. INT": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
+          "profesor": "EDUARDO MENACHE VARELA",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
+          "profesor": "EDUARDO MENACHE VARELA",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19,
+    "grupos": {
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "inicio": "10:30",
+          "fin": "11:29",
+          "horario": "10:30-11:29",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "inicio": "10:30",
+          "fin": "11:29",
+          "horario": "10:30-11:29",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "SANDRA LORENA VILLALOBOS OROZCO": {
+    "grupos": {
+      "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "11:59",
+          "horario": "11:00-11:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "108",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "11:59",
+          "horario": "11:00-11:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "108",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "RAUL ENRIQUE BRAVO ADUNA": {
+    "grupos": {
+      "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
+        {
+          "grupo": "004",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "RAUL ENRIQUE BRAVO ADUNA",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "11:59",
+          "horario": "11:00-11:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        },
+        {
+          "grupo": "005",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "RAUL ENRIQUE BRAVO ADUNA",
+          "creditos": "2",
+          "inicio": "12:00",
+          "fin": "12:59",
+          "horario": "12:00-12:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
+        {
+          "grupo": "004",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "RAUL ENRIQUE BRAVO ADUNA",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "11:59",
+          "horario": "11:00-11:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        },
+        {
+          "grupo": "005",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "RAUL ENRIQUE BRAVO ADUNA",
+          "creditos": "2",
+          "inicio": "12:00",
+          "fin": "12:59",
+          "horario": "12:00-12:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "LILYTH KATHERINE ORMSBY JENKINS": {
+    "grupos": {
+      "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
+        {
+          "grupo": "006",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "LILYTH KATHERINE ORMSBY JENKINS",
+          "creditos": "2",
+          "inicio": "12:00",
+          "fin": "12:59",
+          "horario": "12:00-12:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
+        {
+          "grupo": "006",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "LILYTH KATHERINE ORMSBY JENKINS",
+          "creditos": "2",
+          "inicio": "12:00",
+          "fin": "12:59",
+          "horario": "12:00-12:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PB4",
           "campus": "RIO HONDO"
         }
       ]
@@ -3014,16 +4548,13 @@ let profesores={
       ]
     }
   },
-  "LUZ MARIA MARVAN GARDU\u00d1O": {
-    "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
-    "general": 8.0909,
-    "n": 88,
+  "RITA EUGENIA MALDONADO LOZANO": {
     "grupos": {
       "MAT-11101-MATEMATICAS, II": [
         {
           "grupo": "002",
           "nombre": "MAT-11101-MATEMATICAS, II",
-          "profesor": "LUZ MARIA MARVAN GARDU\u00d1O",
+          "profesor": "RITA EUGENIA MALDONADO LOZANO",
           "creditos": "9",
           "inicio": "13:00",
           "fin": "14:29",
@@ -3032,57 +4563,6 @@ let profesores={
             "LU",
             "MI",
             "VI"
-          ],
-          "salon": "315",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I",
-          "profesor": "LUZ MARIA MARVAN GARDU\u00d1O",
-          "creditos": "2",
-          "inicio": "11:00",
-          "fin": "12:59",
-          "horario": "11:00-12:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "315",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
-          "profesor": "LUZ MARIA MARVAN GARDU\u00d1O",
-          "creditos": "2",
-          "inicio": "11:00",
-          "fin": "12:59",
-          "horario": "11:00-12:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "315",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
-          "profesor": "LUZ MARIA MARVAN GARDU\u00d1O",
-          "creditos": "2",
-          "inicio": "11:00",
-          "fin": "12:59",
-          "horario": "11:00-12:59",
-          "dias": [
-            "LU",
-            "MI"
           ],
           "salon": "315",
           "campus": "RIO HONDO"
@@ -3156,16 +4636,16 @@ let profesores={
       ]
     }
   },
-  "TBA": {
-    "link": "https://www.misprofesores.com/profesores/Omar-Josue-Zulaica-Pi?ero_74630",
-    "general": 8.0,
-    "n": 3,
+  "LUZ MARIA MARVAN GARDU\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
+    "general": 8.0909,
+    "n": 88,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
           "grupo": "002",
           "nombre": "MAT-12100-CALCULO I",
-          "profesor": "TBA",
+          "profesor": "LUZ MARIA MARVAN GARDU\u00d1O",
           "creditos": "9",
           "inicio": "13:00",
           "fin": "14:29",
@@ -3179,20 +4659,54 @@ let profesores={
           "campus": "RIO HONDO"
         }
       ],
-      "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
+      "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
-          "grupo": "003",
-          "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
-          "profesor": "TBA",
-          "creditos": "8",
-          "inicio": "10:00",
-          "fin": "11:59",
-          "horario": "10:00-11:59",
+          "grupo": "004",
+          "nombre": "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I",
+          "profesor": "LUZ MARIA MARVAN GARDU\u00d1O",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "12:59",
+          "horario": "11:00-12:59",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "316",
+          "salon": "315",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
+          "profesor": "LUZ MARIA MARVAN GARDU\u00d1O",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "12:59",
+          "horario": "11:00-12:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "315",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
+          "profesor": "LUZ MARIA MARVAN GARDU\u00d1O",
+          "creditos": "2",
+          "inicio": "11:00",
+          "fin": "12:59",
+          "horario": "11:00-12:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "315",
           "campus": "RIO HONDO"
         }
       ]
@@ -4123,27 +5637,6 @@ let profesores={
       ]
     }
   },
-  "RITA EUGENIA MALDONADO LOZANO": {
-    "grupos": {
-      "MAT-14100-CALCULO DIF. E INT., I": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-          "profesor": "RITA EUGENIA MALDONADO LOZANO",
-          "creditos": "8",
-          "inicio": "12:00",
-          "fin": "13:59",
-          "horario": "12:00-13:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "B-1",
-          "campus": "RIO HONDO"
-        }
-      ]
-    }
-  },
   "MARTA CABO NODAR": {
     "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
     "general": 4.1519,
@@ -4835,7 +6328,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH03",
+          "salon": "212",
           "campus": "RIO HONDO"
         }
       ],
@@ -5330,7 +6823,8 @@ let mejoresPorDepto={
     "JEFFREY ALLEN WELDON"
   ],
   "DERECHO": [
-    "SOFIA FLORES SENTIES"
+    "SOFIA FLORES SENTIES",
+    "FERNANDO DELGADO CHONG"
   ],
   "ESTADISTICA": [
     "HUGO CUEVAS BRAVO",
@@ -5355,6 +6849,18 @@ let mejoresPorDepto={
     "MARIA CRISTINA GIGOLA PAGLIALUNGA",
     "YARAI ELIZABETH TLATELPA OSORIO",
     "JOSE ANTONIO SOUZA JIMENEZ"
+  ],
+  "LENGUAS (LEN)": [
+    "MANUEL ADRIAN CHAVEZ PEREZ",
+    "EDUARDO MENACHE VARELA",
+    "JESUS ADRIAN FERNANDEZ REYES",
+    "DIANA LUCIA ALVAREZ MACIAS",
+    "MARCELA RABADAN GALLARDO",
+    "JAEN DANAE TORRES DE LA ROSA",
+    "GABRIEL ASTEY WOOD",
+    "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "TBA",
+    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
