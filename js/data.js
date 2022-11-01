@@ -1,9 +1,300 @@
-let actualizado='1667224108135.2783';
+let actualizado='1667307577567.7449';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
 let formPostUrl='#';
 let clases={
+  "ADM-11002": {
+    "nombre": "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG",
+    "clave": "ADM-11002",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG",
+        "profesor": "SUSANA MAIRENI ESPINOSA DE LOS REYES KEOSSEYIAN",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "21:59",
+        "horario": "19:00-21:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "SA2",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "ADM-11013": {
+    "nombre": "ADM-11013-ADMON. INTERNACIONAL",
+    "clave": "ADM-11013",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-11013-ADMON. INTERNACIONAL",
+        "profesor": "JOHN BRADFORD MCBRIDE PITTS",
+        "creditos": "6",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "112",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ADM-11013-ADMON. INTERNACIONAL",
+        "profesor": "JOHN BRADFORD MCBRIDE PITTS",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "305",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "ADM-11017": {
+    "nombre": "ADM-11017-METODOS DE PRONOSTICO",
+    "clave": "ADM-11017",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-11017-METODOS DE PRONOSTICO",
+        "profesor": "TBA",
+        "creditos": "7",
+        "inicio": "10:00",
+        "fin": "11:30",
+        "horario": "10:00-11:30",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ADM-11017-METODOS DE PRONOSTICO",
+        "profesor": "JULIETA MARIA SARRALDE VERA",
+        "creditos": "7",
+        "inicio": "11:30",
+        "fin": "13:29",
+        "horario": "11:30-13:29",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ADM-11017-METODOS DE PRONOSTICO",
+        "profesor": "CARLOS ARTURO SERNA GARCINI",
+        "creditos": "7",
+        "inicio": "14:00",
+        "fin": "15:29",
+        "horario": "14:00-15:29",
+        "dias": [
+          "LU"
+        ],
+        "salon": "SA2",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "ADM-11017-LAB": {
+    "nombre": "ADM-11017-METODOS DE PRONOSTICO-LAB",
+    "clave": "ADM-11017-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "ADM-11017-METODOS DE PRONOSTICO-LAB",
+        "profesor": "TBA",
+        "creditos": "7",
+        "inicio": "10:00",
+        "fin": "11:59",
+        "horario": "10:00-11:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "ADM-11017-METODOS DE PRONOSTICO-LAB",
+        "profesor": "JULIETA MARIA SARRALDE VERA",
+        "creditos": "7",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003L",
+        "nombre": "ADM-11017-METODOS DE PRONOSTICO-LAB",
+        "profesor": "CARLOS ARTURO SERNA GARCINI",
+        "creditos": "7",
+        "inicio": "14:00",
+        "fin": "15:59",
+        "horario": "14:00-15:59",
+        "dias": [
+          "MI"
+        ],
+        "salon": "SA2",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "ADM-11018": {
+    "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
+    "clave": "ADM-11018",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
+        "profesor": "DANIEL MARTINEZ VALLE",
+        "creditos": "6",
+        "inicio": "08:00",
+        "fin": "08:59",
+        "horario": "08:00-08:59",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "103",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "ADM-11101": {
+    "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
+    "clave": "ADM-11101",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
+        "profesor": "TBA",
+        "creditos": "7",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
+        "profesor": "JULIETA MARIA SARRALDE VERA",
+        "creditos": "7",
+        "inicio": "11:30",
+        "fin": "13:29",
+        "horario": "11:30-13:29",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
+        "profesor": "CARLOS ARTURO SERNA GARCINI",
+        "creditos": "7",
+        "inicio": "14:00",
+        "fin": "15:29",
+        "horario": "14:00-15:29",
+        "dias": [
+          "LU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "ADM-11101-LAB": {
+    "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS-LAB",
+    "clave": "ADM-11101-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS-LAB",
+        "profesor": "TBA",
+        "creditos": "7",
+        "inicio": "10:00",
+        "fin": "11:59",
+        "horario": "10:00-11:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS-LAB",
+        "profesor": "JULIETA MARIA SARRALDE VERA",
+        "creditos": "7",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003L",
+        "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS-LAB",
+        "profesor": "CARLOS ARTURO SERNA GARCINI",
+        "creditos": "7",
+        "inicio": "14:00",
+        "fin": "16:00",
+        "horario": "14:00-16:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "ADM-12107": {
+    "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
+    "clave": "ADM-12107",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
+        "profesor": "ADRIAN RUBLI ORNELAS",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "SA2",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
   "CSO-10001": {
     "nombre": "CSO-10001-INTRO. A LA CIENCIA POLITICA",
     "clave": "CSO-10001",
@@ -2150,16 +2441,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-14162-ING. Y CONTROL DE LA CALIDAD",
-        "profesor": "ALEJANDRO TERAN CASTELLANOS",
+        "profesor": "ELIAS HERIBERTO ARIAS NAVA",
         "creditos": "6",
-        "inicio": "11:30",
-        "fin": "12:59",
-        "horario": "11:30-12:59",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "B-5",
+        "salon": "LMINT",
         "campus": "RIO HONDO"
       }
     ]
@@ -2236,7 +2527,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "IIO-14193-ING. DE PROCESOS DE NEGOCIOS",
-        "profesor": "ELIAS HERIBERTO ARIAS NAVA",
+        "profesor": "DAVID FERNANDO MU\u00d1OZ NEGRON",
         "creditos": "6",
         "inicio": "13:00",
         "fin": "14:29",
@@ -2245,7 +2536,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "LMINT",
+        "salon": "PACE",
         "campus": "RIO HONDO"
       }
     ]
@@ -6471,6 +6762,11 @@ let misProfesData={
     "general": 8.3333,
     "n": 3
   },
+  "JOHN BRADFORD MCBRIDE PITTS": {
+    "link": "https://www.misprofesores.com/profesores/John-Bradford-McBride-Pitts_10734",
+    "general": 7.7333,
+    "n": 30
+  },
   "EDUARDO MENACHE VARELA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
     "general": 9.7778,
@@ -6596,6 +6892,11 @@ let misProfesData={
     "general": 7.15,
     "n": 20
   },
+  "ADRIAN RUBLI ORNELAS": {
+    "link": "https://www.misprofesores.com/profesores/Adri\u00e1n-Rubl\u00ed-Ornelas_109506",
+    "general": 9.0,
+    "n": 12
+  },
   "DAVID RUELAS RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
     "general": 9.1639,
@@ -6621,6 +6922,16 @@ let misProfesData={
     "general": 7.05,
     "n": 20
   },
+  "JULIETA MARIA SARRALDE VERA": {
+    "link": "https://www.misprofesores.com/profesores/Julieta-Mar\u00eda-Sarralde-Vera_10718",
+    "general": 7.3793,
+    "n": 58
+  },
+  "CARLOS ARTURO SERNA GARCINI": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
+    "general": 4.9312,
+    "n": 276
+  },
   "ALBERTO SIMPSER MONDLAK": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
     "general": 6.4167,
@@ -6637,9 +6948,9 @@ let misProfesData={
     "n": 23
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "ALEJANDRO TERAN CASTELLANOS": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",

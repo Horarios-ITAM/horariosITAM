@@ -1,9 +1,407 @@
-let actualizado='1667224108135.2783';
+let actualizado='1667307577567.7449';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
 let formPostUrl='#';
 let profesores={
+  "SUSANA MAIRENI ESPINOSA DE LOS REYES KEOSSEYIAN": {
+    "grupos": {
+      "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG",
+          "profesor": "SUSANA MAIRENI ESPINOSA DE LOS REYES KEOSSEYIAN",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "21:59",
+          "horario": "19:00-21:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "SA2",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JOHN BRADFORD MCBRIDE PITTS": {
+    "link": "https://www.misprofesores.com/profesores/John-Bradford-McBride-Pitts_10734",
+    "general": 7.7333,
+    "n": 30,
+    "grupos": {
+      "ADM-11013-ADMON. INTERNACIONAL": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11013-ADMON. INTERNACIONAL",
+          "profesor": "JOHN BRADFORD MCBRIDE PITTS",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "112",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-11013-ADMON. INTERNACIONAL",
+          "profesor": "JOHN BRADFORD MCBRIDE PITTS",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "305",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "TBA": {
+    "link": "https://www.misprofesores.com/profesores/Omar-Josue-Zulaica-Pi?ero_74630",
+    "general": 8.0,
+    "n": 3,
+    "grupos": {
+      "ADM-11017-METODOS DE PRONOSTICO": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11017-METODOS DE PRONOSTICO",
+          "profesor": "TBA",
+          "creditos": "7",
+          "inicio": "10:00",
+          "fin": "11:30",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ADM-11017-METODOS DE PRONOSTICO-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "ADM-11017-METODOS DE PRONOSTICO-LAB",
+          "profesor": "TBA",
+          "creditos": "7",
+          "inicio": "10:00",
+          "fin": "11:59",
+          "horario": "10:00-11:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ADM-11101-PRONOSTICOS DE NEGOCIOS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
+          "profesor": "TBA",
+          "creditos": "7",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "MA"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ADM-11101-PRONOSTICOS DE NEGOCIOS-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS-LAB",
+          "profesor": "TBA",
+          "creditos": "7",
+          "inicio": "10:00",
+          "fin": "11:59",
+          "horario": "10:00-11:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "004",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "TBA",
+          "creditos": "2",
+          "inicio": "14:00",
+          "fin": "14:59",
+          "horario": "14:00-14:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "TBA",
+          "creditos": "2",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "TBA",
+          "creditos": "2",
+          "inicio": "14:00",
+          "fin": "14:59",
+          "horario": "14:00-14:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ASHAK",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "MAT-14100-CALCULO DIF. E INT., I": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
+          "profesor": "TBA",
+          "creditos": "8",
+          "inicio": "12:00",
+          "fin": "13:59",
+          "horario": "12:00-13:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "B-1",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
+        {
+          "grupo": "003",
+          "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
+          "profesor": "TBA",
+          "creditos": "8",
+          "inicio": "10:00",
+          "fin": "11:59",
+          "horario": "10:00-11:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "316",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JULIETA MARIA SARRALDE VERA": {
+    "link": "https://www.misprofesores.com/profesores/Julieta-Mar\u00eda-Sarralde-Vera_10718",
+    "general": 7.3793,
+    "n": 58,
+    "grupos": {
+      "ADM-11017-METODOS DE PRONOSTICO": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-11017-METODOS DE PRONOSTICO",
+          "profesor": "JULIETA MARIA SARRALDE VERA",
+          "creditos": "7",
+          "inicio": "11:30",
+          "fin": "13:29",
+          "horario": "11:30-13:29",
+          "dias": [
+            "MA"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ADM-11017-METODOS DE PRONOSTICO-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "ADM-11017-METODOS DE PRONOSTICO-LAB",
+          "profesor": "JULIETA MARIA SARRALDE VERA",
+          "creditos": "7",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ADM-11101-PRONOSTICOS DE NEGOCIOS": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
+          "profesor": "JULIETA MARIA SARRALDE VERA",
+          "creditos": "7",
+          "inicio": "11:30",
+          "fin": "13:29",
+          "horario": "11:30-13:29",
+          "dias": [
+            "MA"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ADM-11101-PRONOSTICOS DE NEGOCIOS-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS-LAB",
+          "profesor": "JULIETA MARIA SARRALDE VERA",
+          "creditos": "7",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "CARLOS ARTURO SERNA GARCINI": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
+    "general": 4.9312,
+    "n": 276,
+    "grupos": {
+      "ADM-11017-METODOS DE PRONOSTICO": [
+        {
+          "grupo": "003",
+          "nombre": "ADM-11017-METODOS DE PRONOSTICO",
+          "profesor": "CARLOS ARTURO SERNA GARCINI",
+          "creditos": "7",
+          "inicio": "14:00",
+          "fin": "15:29",
+          "horario": "14:00-15:29",
+          "dias": [
+            "LU"
+          ],
+          "salon": "SA2",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ADM-11017-METODOS DE PRONOSTICO-LAB": [
+        {
+          "grupo": "003L",
+          "nombre": "ADM-11017-METODOS DE PRONOSTICO-LAB",
+          "profesor": "CARLOS ARTURO SERNA GARCINI",
+          "creditos": "7",
+          "inicio": "14:00",
+          "fin": "15:59",
+          "horario": "14:00-15:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "SA2",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ADM-11101-PRONOSTICOS DE NEGOCIOS": [
+        {
+          "grupo": "003",
+          "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
+          "profesor": "CARLOS ARTURO SERNA GARCINI",
+          "creditos": "7",
+          "inicio": "14:00",
+          "fin": "15:29",
+          "horario": "14:00-15:29",
+          "dias": [
+            "LU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ADM-11101-PRONOSTICOS DE NEGOCIOS-LAB": [
+        {
+          "grupo": "003L",
+          "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS-LAB",
+          "profesor": "CARLOS ARTURO SERNA GARCINI",
+          "creditos": "7",
+          "inicio": "14:00",
+          "fin": "16:00",
+          "horario": "14:00-16:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "DANIEL MARTINEZ VALLE": {
+    "grupos": {
+      "ADM-11018-SEMINARIO DE DIRECCION": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
+          "profesor": "DANIEL MARTINEZ VALLE",
+          "creditos": "6",
+          "inicio": "08:00",
+          "fin": "08:59",
+          "horario": "08:00-08:59",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "103",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "ADRIAN RUBLI ORNELAS": {
+    "link": "https://www.misprofesores.com/profesores/Adri\u00e1n-Rubl\u00ed-Ornelas_109506",
+    "general": 9.0,
+    "n": 12,
+    "grupos": {
+      "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
+          "profesor": "ADRIAN RUBLI ORNELAS",
+          "creditos": "6",
+          "inicio": "16:00",
+          "fin": "17:29",
+          "horario": "16:00-17:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "SA2",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
   "JUAN PABLO MICOZZI": {
     "link": "https://www.misprofesores.com/profesores/Juan-Pablo-Micozzi_59705",
     "general": 6.9615,
@@ -2267,6 +2665,23 @@ let profesores={
           "salon": "PACE",
           "campus": "RIO HONDO"
         }
+      ],
+      "IIO-14193-ING. DE PROCESOS DE NEGOCIOS": [
+        {
+          "grupo": "002",
+          "nombre": "IIO-14193-ING. DE PROCESOS DE NEGOCIOS",
+          "profesor": "DAVID FERNANDO MU\u00d1OZ NEGRON",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PACE",
+          "campus": "RIO HONDO"
+        }
       ]
     }
   },
@@ -2405,23 +2820,6 @@ let profesores={
           "salon": "B-5",
           "campus": "RIO HONDO"
         }
-      ],
-      "IIO-14162-ING. Y CONTROL DE LA CALIDAD": [
-        {
-          "grupo": "001",
-          "nombre": "IIO-14162-ING. Y CONTROL DE LA CALIDAD",
-          "profesor": "ALEJANDRO TERAN CASTELLANOS",
-          "creditos": "6",
-          "inicio": "11:30",
-          "fin": "12:59",
-          "horario": "11:30-12:59",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "B-5",
-          "campus": "RIO HONDO"
-        }
       ]
     }
   },
@@ -2485,10 +2883,10 @@ let profesores={
           "campus": "RIO HONDO"
         }
       ],
-      "IIO-14193-ING. DE PROCESOS DE NEGOCIOS": [
+      "IIO-14162-ING. Y CONTROL DE LA CALIDAD": [
         {
-          "grupo": "002",
-          "nombre": "IIO-14193-ING. DE PROCESOS DE NEGOCIOS",
+          "grupo": "001",
+          "nombre": "IIO-14162-ING. Y CONTROL DE LA CALIDAD",
           "profesor": "ELIAS HERIBERTO ARIAS NAVA",
           "creditos": "6",
           "inicio": "13:00",
@@ -3199,93 +3597,6 @@ let profesores={
       ]
     }
   },
-  "TBA": {
-    "link": "https://www.misprofesores.com/profesores/Omar-Josue-Zulaica-Pi?ero_74630",
-    "general": 8.0,
-    "n": 3,
-    "grupos": {
-      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
-        {
-          "grupo": "004",
-          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-          "profesor": "TBA",
-          "creditos": "2",
-          "inicio": "14:00",
-          "fin": "14:59",
-          "horario": "14:00-14:59",
-          "dias": [
-            "MA"
-          ],
-          "salon": "ASHAK",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
-        {
-          "grupo": "003",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "TBA",
-          "creditos": "2",
-          "inicio": "13:00",
-          "fin": "13:59",
-          "horario": "13:00-13:59",
-          "dias": [
-            "MA"
-          ],
-          "salon": "ASHAK",
-          "campus": "RIO HONDO"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "TBA",
-          "creditos": "2",
-          "inicio": "14:00",
-          "fin": "14:59",
-          "horario": "14:00-14:59",
-          "dias": [
-            "MA"
-          ],
-          "salon": "ASHAK",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "MAT-14100-CALCULO DIF. E INT., I": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-          "profesor": "TBA",
-          "creditos": "8",
-          "inicio": "12:00",
-          "fin": "13:59",
-          "horario": "12:00-13:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "B-1",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
-        {
-          "grupo": "003",
-          "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
-          "profesor": "TBA",
-          "creditos": "8",
-          "inicio": "10:00",
-          "fin": "11:59",
-          "horario": "10:00-11:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "316",
-          "campus": "RIO HONDO"
-        }
-      ]
-    }
-  },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.8372,
@@ -3900,9 +4211,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -6810,6 +7121,15 @@ let profesores={
   }
 };
 let mejoresPorDepto={
+  "ADMINISTRACION": [
+    "ADRIAN RUBLI ORNELAS",
+    "TBA",
+    "JOHN BRADFORD MCBRIDE PITTS",
+    "JULIETA MARIA SARRALDE VERA",
+    "CARLOS ARTURO SERNA GARCINI",
+    "SUSANA MAIRENI ESPINOSA DE LOS REYES KEOSSEYIAN",
+    "DANIEL MARTINEZ VALLE"
+  ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW HILLS",
     "FELIPE CURCO COBOS",
@@ -6859,8 +7179,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "TBA",
-    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
+    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
