@@ -1,4 +1,4 @@
-let actualizado='1667368802852.6194';
+let actualizado='1667394182096.118';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -8375,9 +8375,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
