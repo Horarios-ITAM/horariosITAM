@@ -1,4 +1,4 @@
-let actualizado='1667455203045.0332';
+let actualizado='1667480581686.795';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
