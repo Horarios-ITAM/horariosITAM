@@ -1,4 +1,4 @@
-let actualizado='1667694548715.7234';
+let actualizado='1667714405177.823';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -5004,9 +5004,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6134,14 +6134,26 @@ let profesores={
       ]
     }
   },
-  "JAN 01-MAY 31": {
+  "LUIS MANUEL CAMP MEJAN CARRER": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
+    "general": 8.3,
+    "n": 10,
     "grupos": {
       "DER-13403-OBLIGACIONES": [
         {
           "grupo": "002",
           "nombre": "DER-13403-OBLIGACIONES",
-          "profesor": "JAN 01-MAY 31",
-          "creditos": "8"
+          "profesor": "LUIS MANUEL CAMP MEJAN CARRER",
+          "creditos": "8",
+          "inicio": "10:00",
+          "fin": "11:59",
+          "horario": "10:00-11:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "105",
+          "campus": "SANTA TERESA"
         }
       ]
     }
@@ -11246,9 +11258,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -14187,6 +14199,7 @@ let mejoresPorDepto={
     "MARIA CANDELAS RAMIREZ"
   ],
   "DERECHO": [
+    "LUIS MANUEL CAMP MEJAN CARRER",
     "ALFONSO PASAPERA MORA",
     "SOFIA FLORES SENTIES",
     "ROMAIN SYLVAIN JEAN GENIEZ",
@@ -14195,8 +14208,7 @@ let mejoresPorDepto={
     "MARIO ALBERTO GARCIA ACEVEDO",
     "GINA AILEEN CASTILLO RIVERO",
     "FERNANDO DELGADO CHONG",
-    "OSCAR CRUZ BARNEY",
-    "DENNIA ALINE TREJO PEREA"
+    "OSCAR CRUZ BARNEY"
   ],
   "ESTADISTICA": [
     "HUGO CUEVAS BRAVO",

@@ -1,4 +1,4 @@
-let actualizado='1667694548715.7234';
+let actualizado='1667714405177.823';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -5212,8 +5212,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-13403-OBLIGACIONES",
-        "profesor": "JAN 01-MAY 31",
-        "creditos": "8"
+        "profesor": "LUIS MANUEL CAMP MEJAN CARRER",
+        "creditos": "8",
+        "inicio": "10:00",
+        "fin": "11:59",
+        "horario": "10:00-11:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -13080,6 +13089,11 @@ let misProfesData={
     "general": 4.1519,
     "n": 79
   },
+  "LUIS MANUEL CAMP MEJAN CARRER": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
+    "general": 8.3,
+    "n": 10
+  },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
     "general": 6.6566,
@@ -13331,9 +13345,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -13906,9 +13920,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
