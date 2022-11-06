@@ -169,30 +169,36 @@ class GraceScrapperSecureArea:
         Regresa un diccionario con los datos.
         """
         out={}
-        out['grupo']=grupo['grupo']
-        out['nombre']=grupo['depto']+'-'+grupo['clave'].replace('-LAB','')+'-'+grupo['nombre']
-        out['profesor']=grupo['profesor'].replace('/',' ').replace('(P)','').strip()
-        out['profesor']=" ".join(out['profesor'].split())
-        out['creditos']=str(int(float(grupo['creditos'])))
-        inicio,fin=grupo['horario'].split('-')
-        out['inicio']=self._to24hr(inicio)
-        out['fin']=self._to24hr(fin)
-        out['horario']=out['inicio']+'-'+out['fin']
-        dias={
-            'M':'LU',
-            'T':'MA',
-            'W':'MI',
-            'R':'JU',
-            'F':'VI',
-            'S':'SA',
-        }
-        out['dias']=[dias[d] for d in list(grupo['dias'])]
-        if len(grupo['salon'].split())>1:
-            out['salon']=grupo['salon'].split()[1].strip() # TODO checar
-        else:
-            out['salon']=grupo['salon'].strip()
+        try:
+            out['grupo']=grupo['grupo']
+            out['nombre']=grupo['depto']+'-'+grupo['clave'].replace('-LAB','')+'-'+grupo['nombre']
+            out['profesor']=grupo['profesor'].replace('/',' ').replace('(P)','').strip()
+            out['profesor']=" ".join(out['profesor'].split())
+            out['creditos']=str(int(float(grupo['creditos'])))
+            inicio,fin=grupo['horario'].split('-')
+            out['inicio']=self._to24hr(inicio)
+            out['fin']=self._to24hr(fin)
+            out['horario']=out['inicio']+'-'+out['fin']
+            dias={
+                'M':'LU',
+                'T':'MA',
+                'W':'MI',
+                'R':'JU',
+                'F':'VI',
+                'S':'SA',
+            }
+            out['dias']=[dias[d] for d in list(grupo['dias'])]
+            if len(grupo['salon'].split())>1:
+                out['salon']=grupo['salon'].split()[1].strip() # TODO checar
+            else:
+                out['salon']=grupo['salon'].strip()
 
-        out['campus']='RIO HONDO' if 'RH' in grupo['salon'] else 'SANTA TERESA'
+            out['campus']='RIO HONDO' if 'RH' in grupo['salon'] else 'SANTA TERESA'
+            
+        except Exception as e:
+            print('Error formateando grupo:')
+            print(grupo)
+            print(e)
         return out
     
     def scrap(self,scrapDeptos=False):
