@@ -8,4 +8,4 @@ cd /home/horariosITAM;
 CWD="$(pwd)";
 echo $CWD;
 
-git pull & git checkout --theirs . & python3 update/update.py && git add . && git commit -m "auto update" && git push
+git pull && git checkout --theirs . && python3 update/update.py && git add . && git commit -m "auto update" && git push
