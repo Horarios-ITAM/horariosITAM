@@ -195,10 +195,9 @@ class GraceScrapperSecureArea:
 
             out['campus']='RIO HONDO' if 'RH' in grupo['salon'] else 'SANTA TERESA'
             
-        except Exception as e:
-            print('Error formateando grupo:')
+        except Exception:
+            print(' Error formateando grupo:')
             print(grupo)
-            print(e)
         return out
     
     def scrap(self,scrapDeptos=False):
