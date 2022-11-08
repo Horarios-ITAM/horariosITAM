@@ -1,4 +1,4 @@
-let actualizado='1667826183639.0977';
+let actualizado='1667887203455.0889';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -730,7 +730,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
+        "salon": "103",
         "campus": "SANTA TERESA"
       }
     ]
@@ -1115,7 +1115,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
+        "salon": "103",
         "campus": "SANTA TERESA"
       }
     ]
@@ -1487,7 +1487,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
+        "salon": "103",
         "campus": "SANTA TERESA"
       },
       {
@@ -1501,7 +1501,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
+        "salon": "103",
         "campus": "SANTA TERESA"
       },
       {
@@ -1516,7 +1516,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
+        "salon": "103",
         "campus": "SANTA TERESA"
       }
     ]
@@ -1585,7 +1585,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
+        "salon": "103",
         "campus": "SANTA TERESA"
       },
       {
@@ -1599,7 +1599,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
+        "salon": "103",
         "campus": "SANTA TERESA"
       }
     ]
@@ -1611,7 +1611,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15517-METODOS EMPIRICOS EN FINANZAS",
-        "profesor": "JUAN JOSE FERNANDEZ DURAN",
+        "profesor": "GUILLERMO BENAVIDES PERALES",
         "creditos": "6",
         "inicio": "19:00",
         "fin": "21:59",
@@ -1625,7 +1625,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-15517-METODOS EMPIRICOS EN FINANZAS",
-        "profesor": "JUAN JOSE FERNANDEZ DURAN",
+        "profesor": "GUILLERMO BENAVIDES PERALES",
         "creditos": "6",
         "inicio": "19:00",
         "fin": "21:59",
@@ -1666,7 +1666,8 @@ let clases={
         "fin": "12:59",
         "horario": "11:30-12:59",
         "dias": [
-          "LU"
+          "LU",
+          "MI"
         ],
         "salon": "SA2",
         "campus": "RIO HONDO"
@@ -1682,9 +1683,9 @@ let clases={
         "nombre": "ADM-15528-INSTRUMENTOS FINANCIEROS",
         "profesor": "FRANCISCO GERARDO CESAR MEDINA",
         "creditos": "6",
-        "inicio": "17:30",
+        "inicio": "17:00",
         "fin": "19:59",
-        "horario": "17:30-19:59",
+        "horario": "17:00-19:59",
         "dias": [
           "VI"
         ],
@@ -1978,7 +1979,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
+        "salon": "103",
         "campus": "SANTA TERESA"
       },
       {
@@ -1992,7 +1993,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
+        "salon": "103",
         "campus": "SANTA TERESA"
       },
       {
@@ -2091,7 +2092,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
+        "salon": "103",
         "campus": "SANTA TERESA"
       }
     ]
@@ -2154,13 +2155,12 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-16602-MERCADOTECNIA, II",
-        "profesor": "TBA",
+        "profesor": "JUAN JOSE FERNANDEZ DURAN",
         "creditos": "7",
-        "inicio": "16:00",
-        "fin": "17:29",
-        "horario": "16:00-17:29",
+        "inicio": "19:00",
+        "fin": "21:59",
+        "horario": "19:00-21:59",
         "dias": [
-          "LU",
           "MI"
         ],
         "salon": "TBA",
@@ -2169,14 +2169,13 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-16602-MERCADOTECNIA, II",
-        "profesor": "MARIA CRUZ MERINO SANZ",
+        "profesor": "JUAN JOSE FERNANDEZ DURAN",
         "creditos": "7",
-        "inicio": "07:00",
-        "fin": "08:29",
-        "horario": "07:00-08:29",
+        "inicio": "19:00",
+        "fin": "21:59",
+        "horario": "19:00-21:59",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
         "salon": "TBA",
         "campus": "SANTA TERESA"
@@ -2191,21 +2190,6 @@ let clases={
         "horario": "07:00-09:59",
         "dias": [
           "VI"
-        ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
-      },
-      {
-        "grupo": "004",
-        "nombre": "ADM-16602-MERCADOTECNIA, II",
-        "profesor": "TBA",
-        "creditos": "7",
-        "inicio": "16:00",
-        "fin": "17:29",
-        "horario": "16:00-17:29",
-        "dias": [
-          "MA",
-          "JU"
         ],
         "salon": "TBA",
         "campus": "SANTA TERESA"
@@ -2255,13 +2239,12 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
-        "profesor": "TBA",
+        "profesor": "JUAN JOSE FERNANDEZ DURAN",
         "creditos": "7",
-        "inicio": "16:00",
-        "fin": "17:29",
-        "horario": "16:00-17:29",
+        "inicio": "19:00",
+        "fin": "21:59",
+        "horario": "19:00-21:59",
         "dias": [
-          "LU",
           "MI"
         ],
         "salon": "TBA",
@@ -2270,14 +2253,13 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
-        "profesor": "MARIA CRUZ MERINO SANZ",
+        "profesor": "JUAN JOSE FERNANDEZ DURAN",
         "creditos": "7",
-        "inicio": "07:00",
-        "fin": "08:29",
-        "horario": "07:00-08:29",
+        "inicio": "19:00",
+        "fin": "21:59",
+        "horario": "19:00-21:59",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
         "salon": "TBA",
         "campus": "SANTA TERESA"
@@ -2292,21 +2274,6 @@ let clases={
         "horario": "07:00-09:59",
         "dias": [
           "VI"
-        ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
-      },
-      {
-        "grupo": "004",
-        "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
-        "profesor": "TBA",
-        "creditos": "7",
-        "inicio": "16:00",
-        "fin": "17:29",
-        "horario": "16:00-17:29",
-        "dias": [
-          "MA",
-          "JU"
         ],
         "salon": "TBA",
         "campus": "SANTA TERESA"
@@ -4648,6 +4615,36 @@ let clases={
         ],
         "salon": "SA4",
         "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
+        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003",
+        "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
+        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "creditos": "6",
+        "inicio": "12:30",
+        "fin": "13:59",
+        "horario": "12:30-13:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -4668,6 +4665,20 @@ let clases={
         ],
         "salon": "SA4",
         "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CON-14100-CONTABILIDAD ADMINISTRATIVA, I",
+        "profesor": "MONICA GARCIA CEREZO",
+        "creditos": "9",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -4688,6 +4699,20 @@ let clases={
         ],
         "salon": "SA4",
         "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "CON-14100-CONTABILIDAD ADMINISTRATIVA, I-LAB",
+        "profesor": "MONICA GARCIA CEREZO",
+        "creditos": "9",
+        "inicio": "08:30",
+        "fin": "10:29",
+        "horario": "08:30-10:29",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -4709,6 +4734,36 @@ let clases={
         ],
         "salon": "SA4",
         "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
+        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003",
+        "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
+        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "creditos": "6",
+        "inicio": "12:30",
+        "fin": "13:59",
+        "horario": "12:30-13:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -4730,6 +4785,36 @@ let clases={
         ],
         "salon": "SA4",
         "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
+        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003",
+        "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
+        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "creditos": "6",
+        "inicio": "12:30",
+        "fin": "13:59",
+        "horario": "12:30-13:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -4931,6 +5016,631 @@ let clases={
       }
     ]
   },
+  "DER-10005": {
+    "nombre": "DER-10005-DER. INTERNACIONAL PUBLICO,I",
+    "clave": "DER-10005",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10005-DER. INTERNACIONAL PUBLICO,I",
+        "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
+        "creditos": "6",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-10005-DER. INTERNACIONAL PUBLICO,I",
+        "profesor": "HANNAH BIRKENKOTTER",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "306",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-10005-DER. INTERNACIONAL PUBLICO,I",
+        "profesor": "JORGE AGUILERA SUAREZ",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10006": {
+    "nombre": "DER-10006-DER. INTERNACIONAL PUBLICO,II",
+    "clave": "DER-10006",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10006-DER. INTERNACIONAL PUBLICO,II",
+        "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
+        "creditos": "6",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-10008": {
+    "nombre": "DER-10008-REGIMEN LABORAL MEXICANO",
+    "clave": "DER-10008",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10008-REGIMEN LABORAL MEXICANO",
+        "profesor": "CARLOS EDUARDO SCHLESKE JUAREZ",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "09:59",
+        "horario": "07:00-09:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10011": {
+    "nombre": "DER-10011-REGIMEN FISCAL MEXICANO (CP)",
+    "clave": "DER-10011",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10011-REGIMEN FISCAL MEXICANO (CP)",
+        "profesor": "KARINA ROBLEDO Y GONZ\u00c1LEZ PLATA",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-10011-REGIMEN FISCAL MEXICANO (CP)",
+        "profesor": "MARIANO CALDERON VEGA",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-10011-REGIMEN FISCAL MEXICANO (CP)",
+        "profesor": "RODRIGO FARIAS GARCIA",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "21:59",
+        "horario": "19:00-21:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10015": {
+    "nombre": "DER-10015-DERECHO EMPRESARIAL",
+    "clave": "DER-10015",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10015-DERECHO EMPRESARIAL",
+        "profesor": "LUIS ENRIQUE PEREDA TREJO",
+        "creditos": "9",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "B-2",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-10015-DERECHO EMPRESARIAL",
+        "profesor": "LUIS ENRIQUE PEREDA TREJO",
+        "creditos": "9",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-10015-DERECHO EMPRESARIAL",
+        "profesor": "LUZ DEL CARMEN CARRILLO CAREAGA",
+        "creditos": "9",
+        "inicio": "18:00",
+        "fin": "19:59",
+        "horario": "18:00-19:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "004",
+        "nombre": "DER-10015-DERECHO EMPRESARIAL",
+        "profesor": "CLEMENTE ROMERO OLMEDO",
+        "creditos": "9",
+        "inicio": "18:00",
+        "fin": "20:29",
+        "horario": "18:00-20:29",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10015-LAB": {
+    "nombre": "DER-10015-DERECHO EMPRESARIAL-LAB",
+    "clave": "DER-10015-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-10015-DERECHO EMPRESARIAL-LAB",
+        "profesor": "LUIS ENRIQUE PEREDA TREJO",
+        "creditos": "9",
+        "inicio": "07:00",
+        "fin": "09:29",
+        "horario": "07:00-09:29",
+        "dias": [
+          "MI"
+        ],
+        "salon": "B-2",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "DER-10015-DERECHO EMPRESARIAL-LAB",
+        "profesor": "LUIS ENRIQUE PEREDA TREJO",
+        "creditos": "9",
+        "inicio": "07:00",
+        "fin": "09:29",
+        "horario": "07:00-09:29",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003L",
+        "nombre": "DER-10015-DERECHO EMPRESARIAL-LAB",
+        "profesor": "LUZ DEL CARMEN CARRILLO CAREAGA",
+        "creditos": "9",
+        "inicio": "18:00",
+        "fin": "20:29",
+        "horario": "18:00-20:29",
+        "dias": [
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "004L",
+        "nombre": "DER-10015-DERECHO EMPRESARIAL-LAB",
+        "profesor": "CLEMENTE ROMERO OLMEDO",
+        "creditos": "9",
+        "inicio": "18:00",
+        "fin": "19:59",
+        "horario": "18:00-19:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10016": {
+    "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
+    "clave": "DER-10016",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
+        "profesor": "MARIO LEONARDO PETRICIOLI RUIZ",
+        "creditos": "9",
+        "inicio": "19:00",
+        "fin": "20:59",
+        "horario": "19:00-20:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10016-LAB": {
+    "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO-LAB",
+    "clave": "DER-10016-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO-LAB",
+        "profesor": "MARIO LEONARDO PETRICIOLI RUIZ",
+        "creditos": "9",
+        "inicio": "19:00",
+        "fin": "21:29",
+        "horario": "19:00-21:29",
+        "dias": [
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10017": {
+    "nombre": "DER-10017-CONTRATOS FINANC. COMPARADOS",
+    "clave": "DER-10017",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10017-CONTRATOS FINANC. COMPARADOS",
+        "profesor": "CARLOS EDUARDO MARTINEZ RICO",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-10017-CONTRATOS FINANC. COMPARADOS",
+        "profesor": "RODRIGO ALFONSO ASCENCIO LUCIO",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "09:59",
+        "horario": "07:00-09:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "B-2",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-10017-CONTRATOS FINANC. COMPARADOS",
+        "profesor": "ARIEL ABE LUPA MENDLOVIC",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "09:59",
+        "horario": "07:00-09:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10018": {
+    "nombre": "DER-10018-DERECHO EMPRESARIAL I",
+    "clave": "DER-10018",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10018-DERECHO EMPRESARIAL I",
+        "profesor": "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10019": {
+    "nombre": "DER-10019-DERECHO EMPRESARIAL II",
+    "clave": "DER-10019",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10019-DERECHO EMPRESARIAL II",
+        "profesor": "ANA MARGARITA LOPEZ ROSENZWEIG",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-10021": {
+    "nombre": "DER-10021-DERECHO EMPRESARIAL III",
+    "clave": "DER-10021",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10021-DERECHO EMPRESARIAL III",
+        "profesor": "ROXANA PEREZ ARCE VALLE",
+        "creditos": "8",
+        "inicio": "09:00",
+        "fin": "10:59",
+        "horario": "09:00-10:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-10021-DERECHO EMPRESARIAL III",
+        "profesor": "ROXANA PEREZ ARCE VALLE",
+        "creditos": "8",
+        "inicio": "09:00",
+        "fin": "10:59",
+        "horario": "09:00-10:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-10113": {
+    "nombre": "DER-10113-DERECHO PUBLICO",
+    "clave": "DER-10113",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10113-DERECHO PUBLICO",
+        "profesor": "ANA SOFIA CHARVEL OROZCO , JOYCE CAROL SADKA",
+        "creditos": "9",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-10113-DERECHO PUBLICO",
+        "profesor": "RODRIGO CAMARENA GONZALEZ , JOYCE CAROL SADKA",
+        "creditos": "9",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-10113-DERECHO PUBLICO",
+        "profesor": "MARCOS PERAFAN GOMEZ , SEBASTIAN GARCIA CANO",
+        "creditos": "9",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10113-LAB": {
+    "nombre": "DER-10113-DERECHO PUBLICO-LAB",
+    "clave": "DER-10113-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-10113-DERECHO PUBLICO-LAB",
+        "profesor": "ANA SOFIA CHARVEL OROZCO , JOYCE CAROL SADKA",
+        "creditos": "9",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "DER-10113-DERECHO PUBLICO-LAB",
+        "profesor": "RODRIGO CAMARENA GONZALEZ , JOYCE CAROL SADKA",
+        "creditos": "9",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003L",
+        "nombre": "DER-10113-DERECHO PUBLICO-LAB",
+        "profesor": "MARCOS PERAFAN GOMEZ , SEBASTIAN GARCIA CANO",
+        "creditos": "9",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "VI"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-10114": {
+    "nombre": "DER-10114-SEM LEG Y ETICA EN CIENC DATOS",
+    "clave": "DER-10114",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10114-SEM LEG Y ETICA EN CIENC DATOS",
+        "profesor": "SOFIA TREJO ABAD",
+        "creditos": "4",
+        "inicio": "16:00",
+        "fin": "16:59",
+        "horario": "16:00-16:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-11101": {
+    "nombre": "DER-11101-TEORIA DEL DERECHO, I",
+    "clave": "DER-11101",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
+        "profesor": "ALBERTO PUPPO",
+        "creditos": "10",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
+        "profesor": "GERMAN SUCAR",
+        "creditos": "10",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "B-2",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-11101-LAB": {
+    "nombre": "DER-11101-TEORIA DEL DERECHO, I-LAB",
+    "clave": "DER-11101-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-11101-TEORIA DEL DERECHO, I-LAB",
+        "profesor": "JORGE ARTURO CERDIO HERRAN , PABLO ARIEL RAPETTI",
+        "creditos": "10",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "301",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "DER-11101-TEORIA DEL DERECHO, I-LAB",
+        "profesor": "JORGE ARTURO CERDIO HERRAN , PABLO ARIEL RAPETTI",
+        "creditos": "10",
+        "inicio": "18:00",
+        "fin": "19:59",
+        "horario": "18:00-19:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "301",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
   "DER-11104": {
     "nombre": "DER-11104-CULTURA DE LA LEGALIDAD",
     "clave": "DER-11104",
@@ -4945,6 +5655,41 @@ let clases={
         "horario": "13:00-14:59",
         "dias": [
           "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-11105": {
+    "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
+    "clave": "DER-11105",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
+        "profesor": "ROSALINDA JOSEFINA DEL CARMEN DE LEON ZAMORA",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
+        "profesor": "ROSALINDA JOSEFINA DEL CARMEN DE LEON ZAMORA",
+        "creditos": "6",
+        "inicio": "11:30",
+        "fin": "14:29",
+        "horario": "11:30-14:29",
+        "dias": [
+          "VI"
         ],
         "salon": "105",
         "campus": "SANTA TERESA"
@@ -4985,6 +5730,61 @@ let clases={
       }
     ]
   },
+  "DER-11107": {
+    "nombre": "DER-11107-TALLER EN BIENES Y DER REALES",
+    "clave": "DER-11107",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11107-TALLER EN BIENES Y DER REALES",
+        "profesor": "JORGE ARTURO CERDIO HERRAN",
+        "creditos": "2",
+        "inicio": "08:30",
+        "fin": "10:29",
+        "horario": "08:30-10:29",
+        "dias": [
+          "MA"
+        ],
+        "salon": "SA3",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-11107-TALLER EN BIENES Y DER REALES",
+        "profesor": "JORGE ARTURO CERDIO HERRAN",
+        "creditos": "2",
+        "inicio": "11:00",
+        "fin": "12:59",
+        "horario": "11:00-12:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "SA3",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-11108": {
+    "nombre": "DER-11108-ESCR Y ARG JURID EN INGLES II",
+    "clave": "DER-11108",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11108-ESCR Y ARG JURID EN INGLES II",
+        "profesor": "ROSALINDA JOSEFINA DEL CARMEN DE LEON ZAMORA",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
   "DER-11109": {
     "nombre": "DER-11109-TALLER DE DISER JURID EN OBLIG",
     "clave": "DER-11109",
@@ -4999,6 +5799,40 @@ let clases={
         "horario": "07:00-08:59",
         "dias": [
           "VI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-11110": {
+    "nombre": "DER-11110-TALLER DISERT JURID CONSTIT. I",
+    "clave": "DER-11110",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11110-TALLER DISERT JURID CONSTIT. I",
+        "profesor": "GERMAN SUCAR",
+        "creditos": "2",
+        "inicio": "18:00",
+        "fin": "19:59",
+        "horario": "18:00-19:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-11110-TALLER DISERT JURID CONSTIT. I",
+        "profesor": "GERARDO FELIPE LAVEAGA RENDON",
+        "creditos": "2",
+        "inicio": "18:00",
+        "fin": "19:59",
+        "horario": "18:00-19:59",
+        "dias": [
+          "JU"
         ],
         "salon": "TBA",
         "campus": "SANTA TERESA"
@@ -5020,8 +5854,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "317",
-        "campus": "RIO HONDO"
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -5059,6 +5893,157 @@ let clases={
       }
     ]
   },
+  "DER-11114": {
+    "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
+    "clave": "DER-11114",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
+        "profesor": "BRADLY JOHN CONDON",
+        "creditos": "4",
+        "inicio": "15:30",
+        "fin": "17:29",
+        "horario": "15:30-17:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-11115": {
+    "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III",
+    "clave": "DER-11115",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III",
+        "profesor": "MIGUEL ANTONIO NU\u00d1EZ VALADEZ",
+        "creditos": "2",
+        "inicio": "19:00",
+        "fin": "20:59",
+        "horario": "19:00-20:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III",
+        "profesor": "ANA MICAELA ALTERIO",
+        "creditos": "2",
+        "inicio": "11:00",
+        "fin": "12:59",
+        "horario": "11:00-12:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III",
+        "profesor": "LEOPOLDO ORTEGA ORTU\u00d1O",
+        "creditos": "2",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "PB3",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-11116": {
+    "nombre": "DER-11116-TALLER DISERT. JUR. ADMIVO. I",
+    "clave": "DER-11116",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11116-TALLER DISERT. JUR. ADMIVO. I",
+        "profesor": "REGINA MARIA INCLAN ALARCON",
+        "creditos": "2",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "317",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-11117": {
+    "nombre": "DER-11117-HABILIDADES JURID GLOBALES III",
+    "clave": "DER-11117",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11117-HABILIDADES JURID GLOBALES III",
+        "profesor": "HANNAH BIRKENKOTTER , EMILIO ARTEAGA VAZQUEZ",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "306",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-11202": {
+    "nombre": "DER-11202-TEORIA DEL DERECHO II",
+    "clave": "DER-11202",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11202-TEORIA DEL DERECHO II",
+        "profesor": "PABLO ARIEL RAPETTI",
+        "creditos": "8",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "B-2",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-11202-LAB": {
+    "nombre": "DER-11202-TEORIA DEL DERECHO II-LAB",
+    "clave": "DER-11202-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-11202-TEORIA DEL DERECHO II-LAB",
+        "profesor": "ALBERTO PUPPO",
+        "creditos": "8",
+        "inicio": "11:00",
+        "fin": "12:59",
+        "horario": "11:00-12:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
   "DER-11203": {
     "nombre": "DER-11203-INVESTIG. Y REDACCION JURIDICA",
     "clave": "DER-11203",
@@ -5090,6 +6075,130 @@ let clases={
         ],
         "salon": "312",
         "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-11304": {
+    "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
+    "clave": "DER-11304",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
+        "profesor": "ROSALINDA JOSEFINA DEL CARMEN DE LEON ZAMORA",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
+        "profesor": "ROSALINDA JOSEFINA DEL CARMEN DE LEON ZAMORA",
+        "creditos": "6",
+        "inicio": "11:30",
+        "fin": "14:29",
+        "horario": "11:30-14:29",
+        "dias": [
+          "VI"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-11805": {
+    "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+    "clave": "DER-11805",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+        "profesor": "TATIANA ANDREA ALFONSO SIERRA",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-11907": {
+    "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
+    "clave": "DER-11907",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
+        "profesor": "LUIS REY RAIGOSA SOTELO",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "PB2",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
+        "profesor": "LUIS REY RAIGOSA SOTELO",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-11907-LAB": {
+    "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.-LAB",
+    "clave": "DER-11907-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.-LAB",
+        "profesor": "LUIS REY RAIGOSA SOTELO",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "MI"
+        ],
+        "salon": "PB2",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.-LAB",
+        "profesor": "LUIS REY RAIGOSA SOTELO",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -5154,6 +6263,67 @@ let clases={
       }
     ]
   },
+  "DER-13026": {
+    "nombre": "DER-13026-CLINICAL LEGAL CTRO ACCESO JUS",
+    "clave": "DER-13026",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-13026-CLINICAL LEGAL CTRO ACCESO JUS",
+        "profesor": "NITZE NAYELI PEREZ FERNANDEZ",
+        "creditos": "2",
+        "inicio": "14:00",
+        "fin": "15:59",
+        "horario": "14:00-15:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-13029": {
+    "nombre": "DER-13029-CLIN MEDIOS ALTERN. RESOL CONF",
+    "clave": "DER-13029",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-13029-CLIN MEDIOS ALTERN. RESOL CONF",
+        "profesor": "MARTHA ANGELICA GALICIA OSORIO",
+        "creditos": "2",
+        "inicio": "13:00",
+        "fin": "14:59",
+        "horario": "13:00-14:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-13108": {
+    "nombre": "DER-13108-BIENES Y DERECHOS REALES",
+    "clave": "DER-13108",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-13108-BIENES Y DERECHOS REALES",
+        "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
   "DER-13203": {
     "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
     "clave": "DER-13203",
@@ -5186,6 +6356,27 @@ let clases={
           "MI"
         ],
         "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-13302": {
+    "nombre": "DER-13302-BIENES Y DERECHOS REALES",
+    "clave": "DER-13302",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-13302-BIENES Y DERECHOS REALES",
+        "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "312",
         "campus": "RIO HONDO"
       }
     ]
@@ -5223,6 +6414,1433 @@ let clases={
         ],
         "salon": "105",
         "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-13406": {
+    "nombre": "DER-13406-TEORIA GENERAL DEL PROCESO",
+    "clave": "DER-13406",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-13406-TEORIA GENERAL DEL PROCESO",
+        "profesor": "CESAR CLAUDIO URRUTIA ROMERO",
+        "creditos": "8",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-13406-TEORIA GENERAL DEL PROCESO",
+        "profesor": "CARLOS EDUARDO MARTINEZ BETANZOS",
+        "creditos": "8",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-13504": {
+    "nombre": "DER-13504-CONTRATOS",
+    "clave": "DER-13504",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-13504-CONTRATOS",
+        "profesor": "IRVIN ARTURO CASTILLO CESAREO",
+        "creditos": "8",
+        "inicio": "19:00",
+        "fin": "20:59",
+        "horario": "19:00-20:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "PB2",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-13504-CONTRATOS",
+        "profesor": "LUIS MANUEL CAMP MEJAN CARRER",
+        "creditos": "8",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-13607": {
+    "nombre": "DER-13607-PROCE. CIVILES Y MERCANTILES",
+    "clave": "DER-13607",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-13607-PROCE. CIVILES Y MERCANTILES",
+        "profesor": "GUSTAVO CARDENAS SORIANO",
+        "creditos": "6",
+        "inicio": "20:30",
+        "fin": "21:59",
+        "horario": "20:30-21:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-13607-PROCE. CIVILES Y MERCANTILES",
+        "profesor": "JOSE COVARRUBIAS AZUELA",
+        "creditos": "6",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "PB3",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-13614": {
+    "nombre": "DER-13614-FAMILIA Y SUCESIONES",
+    "clave": "DER-13614",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-13614-FAMILIA Y SUCESIONES",
+        "profesor": "JUAN PABLO ALCOCER MENDOZA",
+        "creditos": "8",
+        "inicio": "19:00",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "317",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-13614-FAMILIA Y SUCESIONES",
+        "profesor": "GUILLERMO CARRANCO ROMERO",
+        "creditos": "8",
+        "inicio": "19:00",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-13614-LAB": {
+    "nombre": "DER-13614-FAMILIA Y SUCESIONES-LAB",
+    "clave": "DER-13614-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-13614-FAMILIA Y SUCESIONES-LAB",
+        "profesor": "FULVIA LOPEZ MORA",
+        "creditos": "8",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "DER-13614-FAMILIA Y SUCESIONES-LAB",
+        "profesor": "TARCISIO DOMINGO SANCHEZ ULLOA",
+        "creditos": "8",
+        "inicio": "20:00",
+        "fin": "21:59",
+        "horario": "20:00-21:59",
+        "dias": [
+          "MI"
+        ],
+        "salon": "317",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-14402": {
+    "nombre": "DER-14402-TEORIAS DEL DELITO",
+    "clave": "DER-14402",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-14402-TEORIAS DEL DELITO",
+        "profesor": "MIGUEL ONTIVEROS ALONSO",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-14505": {
+    "nombre": "DER-14505-DELITOS",
+    "clave": "DER-14505",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-14505-DELITOS",
+        "profesor": "JAVIER SCH\u00dcTTE RICAUD",
+        "creditos": "6",
+        "inicio": "20:30",
+        "fin": "21:59",
+        "horario": "20:30-21:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-15057": {
+    "nombre": "DER-15057-DER. HUM. EN EL PROCED. PENAL",
+    "clave": "DER-15057",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15057-DER. HUM. EN EL PROCED. PENAL",
+        "profesor": "ALFREDO GUTIERREZ ORTIZ MENA",
+        "creditos": "6",
+        "inicio": "08:00",
+        "fin": "10:59",
+        "horario": "08:00-10:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-15061": {
+    "nombre": "DER-15061-CLIN ATN A PERSONAS REFUGIADAS",
+    "clave": "DER-15061",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15061-CLIN ATN A PERSONAS REFUGIADAS",
+        "profesor": "EDUARDO ERASMO OSORNIO GARCIA",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "15:59",
+        "horario": "13:00-15:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-15068": {
+    "nombre": "DER-15068-CLIN LIT PENAL VS VIOLAC DDHH",
+    "clave": "DER-15068",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15068-CLIN LIT PENAL VS VIOLAC DDHH",
+        "profesor": "ISLA GABRIELA CHAVEZ FLORES",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "15:59",
+        "horario": "13:00-15:59",
+        "dias": [
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-15402": {
+    "nombre": "DER-15402-DERECHO CONSTITUCIONAL,I",
+    "clave": "DER-15402",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15402-DERECHO CONSTITUCIONAL,I",
+        "profesor": "ANA MICAELA ALTERIO",
+        "creditos": "8",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-15402-DERECHO CONSTITUCIONAL,I",
+        "profesor": "HUGO ALEJANDRO CONCHA CANTU",
+        "creditos": "8",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-15402-LAB": {
+    "nombre": "DER-15402-DERECHO CONSTITUCIONAL,I-LAB",
+    "clave": "DER-15402-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-15402-DERECHO CONSTITUCIONAL,I-LAB",
+        "profesor": "GERMAN SUCAR",
+        "creditos": "8",
+        "inicio": "18:00",
+        "fin": "19:59",
+        "horario": "18:00-19:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "DER-15402-DERECHO CONSTITUCIONAL,I-LAB",
+        "profesor": "GERARDO FELIPE LAVEAGA RENDON",
+        "creditos": "8",
+        "inicio": "18:00",
+        "fin": "19:59",
+        "horario": "18:00-19:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-15403": {
+    "nombre": "DER-15403-DERECHO CONSTITUCIONAL I",
+    "clave": "DER-15403",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15403-DERECHO CONSTITUCIONAL I",
+        "profesor": "ANA MICAELA ALTERIO",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-15403-DERECHO CONSTITUCIONAL I",
+        "profesor": "HUGO ALEJANDRO CONCHA CANTU",
+        "creditos": "6",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-15504": {
+    "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
+    "clave": "DER-15504",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
+        "profesor": "RODRIGO CAMARENA GONZALEZ",
+        "creditos": "6",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
+        "profesor": "ANA SOFIA CHARVEL OROZCO",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "317",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-15505": {
+    "nombre": "DER-15505-DERECHO CONSTITUCIONAL, II",
+    "clave": "DER-15505",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15505-DERECHO CONSTITUCIONAL, II",
+        "profesor": "ANA SOFIA CHARVEL OROZCO",
+        "creditos": "8",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "317",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-15505-DERECHO CONSTITUCIONAL, II",
+        "profesor": "RODRIGO CAMARENA GONZALEZ",
+        "creditos": "8",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-15505-LAB": {
+    "nombre": "DER-15505-DERECHO CONSTITUCIONAL, II-LAB",
+    "clave": "DER-15505-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-15505-DERECHO CONSTITUCIONAL, II-LAB",
+        "profesor": "MARIO ALBERTO GARCIA ACEVEDO",
+        "creditos": "8",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "DER-15505-DERECHO CONSTITUCIONAL, II-LAB",
+        "profesor": "GINA AILEEN CASTILLO RIVERO",
+        "creditos": "8",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-15506": {
+    "nombre": "DER-15506-DERECHO CONSTITUCIONAL, III",
+    "clave": "DER-15506",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15506-DERECHO CONSTITUCIONAL, III",
+        "profesor": "MIGUEL ANTONIO NU\u00d1EZ VALADEZ",
+        "creditos": "8",
+        "inicio": "19:00",
+        "fin": "20:59",
+        "horario": "19:00-20:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-15506-DERECHO CONSTITUCIONAL, III",
+        "profesor": "ANA MARIA IBARRA OLGUIN",
+        "creditos": "8",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "B-2",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-15506-DERECHO CONSTITUCIONAL, III",
+        "profesor": "FRANCISCA MARIA POU GIMENEZ",
+        "creditos": "8",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "317",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-15506-LAB": {
+    "nombre": "DER-15506-DERECHO CONSTITUCIONAL, III-LAB",
+    "clave": "DER-15506-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-15506-DERECHO CONSTITUCIONAL, III-LAB",
+        "profesor": "DAVID GARCIA SARUBBI",
+        "creditos": "8",
+        "inicio": "20:30",
+        "fin": "21:59",
+        "horario": "20:30-21:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "DER-15506-DERECHO CONSTITUCIONAL, III-LAB",
+        "profesor": "LEOPOLDO ORTEGA ORTU\u00d1O",
+        "creditos": "8",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "PB3",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003L",
+        "nombre": "DER-15506-DERECHO CONSTITUCIONAL, III-LAB",
+        "profesor": "ANA MICAELA ALTERIO",
+        "creditos": "8",
+        "inicio": "11:00",
+        "fin": "12:59",
+        "horario": "11:00-12:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "312",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-15600": {
+    "nombre": "DER-15600-DERECHO CONSTITUCIONAL III",
+    "clave": "DER-15600",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15600-DERECHO CONSTITUCIONAL III",
+        "profesor": "DAVID GARCIA SARUBBI",
+        "creditos": "6",
+        "inicio": "20:30",
+        "fin": "21:59",
+        "horario": "20:30-21:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-15600-DERECHO CONSTITUCIONAL III",
+        "profesor": "ANA MARIA IBARRA OLGUIN",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "B-2",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-15600-DERECHO CONSTITUCIONAL III",
+        "profesor": "FRANCISCA MARIA POU GIMENEZ",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "317",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-15704": {
+    "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
+    "clave": "DER-15704",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
+        "profesor": "ALEJANDRO VEGA LOPEZ",
+        "creditos": "8",
+        "inicio": "17:00",
+        "fin": "18:59",
+        "horario": "17:00-18:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
+        "profesor": "JOSE ANGEL SANTIAGO ABREGO",
+        "creditos": "8",
+        "inicio": "08:00",
+        "fin": "09:59",
+        "horario": "08:00-09:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-16019": {
+    "nombre": "DER-16019-DERECHO DEL SIST. FINANCIERO",
+    "clave": "DER-16019",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16019-DERECHO DEL SIST. FINANCIERO",
+        "profesor": "DENISE MEJAN GANEM",
+        "creditos": "6",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-16019-DERECHO DEL SIST. FINANCIERO",
+        "profesor": "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
+        "creditos": "6",
+        "inicio": "20:30",
+        "fin": "21:59",
+        "horario": "20:30-21:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-16046": {
+    "nombre": "DER-16046-CLINICA DE FUSIONES Y ADQUISIC",
+    "clave": "DER-16046",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16046-CLINICA DE FUSIONES Y ADQUISIC",
+        "profesor": "MAURICIO VALDESPINO PAREDES , JESUS JOSE ORDAZ LOPEZ",
+        "creditos": "2",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-16056": {
+    "nombre": "DER-16056-CLIN. INNOVAC Y EMPREND SOCIAL",
+    "clave": "DER-16056",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16056-CLIN. INNOVAC Y EMPREND SOCIAL",
+        "profesor": "NIKOL WOLPERT",
+        "creditos": "2",
+        "inicio": "13:00",
+        "fin": "14:59",
+        "horario": "13:00-14:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-16057": {
+    "nombre": "DER-16057-DERECHO DE LA COMPETENCIA ECON",
+    "clave": "DER-16057",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16057-DERECHO DE LA COMPETENCIA ECON",
+        "profesor": "CARLOS MENA LABARTHE",
+        "creditos": "4",
+        "inicio": "08:30",
+        "fin": "10:29",
+        "horario": "08:30-10:29",
+        "dias": [
+          "LU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-16058": {
+    "nombre": "DER-16058-CLINICA JURIDICA PARA EMPRESAS",
+    "clave": "DER-16058",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16058-CLINICA JURIDICA PARA EMPRESAS",
+        "profesor": "NITZE NAYELI PEREZ FERNANDEZ",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "15:59",
+        "horario": "13:00-15:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-16501": {
+    "nombre": "DER-16501-DERECHO MERCANTIL, I",
+    "clave": "DER-16501",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16501-DERECHO MERCANTIL, I",
+        "profesor": "FRANCO ALBERTO DEL VALLE PRADO",
+        "creditos": "6",
+        "inicio": "09:00",
+        "fin": "10:29",
+        "horario": "09:00-10:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-16502": {
+    "nombre": "DER-16502-DERECHO MERCANTIL I",
+    "clave": "DER-16502",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16502-DERECHO MERCANTIL I",
+        "profesor": "FRANCO ALBERTO DEL VALLE PRADO",
+        "creditos": "6",
+        "inicio": "09:00",
+        "fin": "10:29",
+        "horario": "09:00-10:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-16503": {
+    "nombre": "DER-16503-DERECHO MERCANTIL II",
+    "clave": "DER-16503",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16503-DERECHO MERCANTIL II",
+        "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+        "creditos": "6",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "SA3",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-16503-DERECHO MERCANTIL II",
+        "profesor": "RAUL FERNANDEZ BRISE\u00d1O",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "09:59",
+        "horario": "07:00-09:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-16602": {
+    "nombre": "DER-16602-DERECHO MERCANTIL, II",
+    "clave": "DER-16602",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16602-DERECHO MERCANTIL, II",
+        "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+        "creditos": "6",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "SA3",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-16602-DERECHO MERCANTIL, II",
+        "profesor": "RAUL FERNANDEZ BRISE\u00d1O",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "09:59",
+        "horario": "07:00-09:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-16702": {
+    "nombre": "DER-16702-DERECHO MERCANTIL III",
+    "clave": "DER-16702",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16702-DERECHO MERCANTIL III",
+        "profesor": "EDUARDO MAGALLON MURGUIA",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "09:59",
+        "horario": "07:00-09:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-16702-DERECHO MERCANTIL III",
+        "profesor": "JUAN PABLO ALCOCER MENDOZA",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "317",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-16918": {
+    "nombre": "DER-16918-DERECHO Y EL NUEVO SIST. FINAN",
+    "clave": "DER-16918",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16918-DERECHO Y EL NUEVO SIST. FINAN",
+        "profesor": "ALEJANDRO LASTRA BARBA",
+        "creditos": "4",
+        "inicio": "18:00",
+        "fin": "18:59",
+        "horario": "18:00-18:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-17047": {
+    "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA",
+    "clave": "DER-17047",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA",
+        "profesor": "ANA MARIA ZORRILLA NORIEGA",
+        "creditos": "2",
+        "inicio": "13:00",
+        "fin": "14:59",
+        "horario": "13:00-14:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-17601": {
+    "nombre": "DER-17601-DERECHO ADMINISTRATIVO I",
+    "clave": "DER-17601",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-17601-DERECHO ADMINISTRATIVO I",
+        "profesor": "JORGE GONZALEZ GALLASTEGUI",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "09:59",
+        "horario": "07:00-09:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "PB3",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-17601-DERECHO ADMINISTRATIVO I",
+        "profesor": "MANUEL GUADARRAMA HERRERA",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "105",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-17601-DERECHO ADMINISTRATIVO I",
+        "profesor": "JOSE RAMON GARZA CONTRERAS",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "B-2",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-17702": {
+    "nombre": "DER-17702-DERECHO ADMINISTRATIVO II",
+    "clave": "DER-17702",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-17702-DERECHO ADMINISTRATIVO II",
+        "profesor": "JOSE OMAR HERNANDEZ SALGADO",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "PB3",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-17702-DERECHO ADMINISTRATIVO II",
+        "profesor": "ALMA NASHIELY DE LA CRUZ CASTRO",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-17703": {
+    "nombre": "DER-17703-DERECHO FISCAL I",
+    "clave": "DER-17703",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-17703-DERECHO FISCAL I",
+        "profesor": "FERNANDO BUENO AJA",
+        "creditos": "8",
+        "inicio": "19:00",
+        "fin": "20:59",
+        "horario": "19:00-20:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-17703-DERECHO FISCAL I",
+        "profesor": "MARIANA CALDERON ARAMBURU",
+        "creditos": "8",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-17804": {
+    "nombre": "DER-17804-DERECHO FISCAL II",
+    "clave": "DER-17804",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-17804-DERECHO FISCAL II",
+        "profesor": "JUAN CARLOS ROA JACOBO",
+        "creditos": "8",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-17804-DERECHO FISCAL II",
+        "profesor": "CARLOS ARTURO RUBIO ROJAS",
+        "creditos": "8",
+        "inicio": "19:00",
+        "fin": "20:59",
+        "horario": "19:00-20:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-18028": {
+    "nombre": "DER-18028-REGIONAL TRADE AGREEMENTS",
+    "clave": "DER-18028",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-18028-REGIONAL TRADE AGREEMENTS",
+        "profesor": "BRADLY JOHN CONDON",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-18600": {
+    "nombre": "DER-18600-DERECHO INTERNACIONAL I",
+    "clave": "DER-18600",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-18600-DERECHO INTERNACIONAL I",
+        "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
+        "creditos": "6",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-18600-DERECHO INTERNACIONAL I",
+        "profesor": "HANNAH BIRKENKOTTER",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "306",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-18600-DERECHO INTERNACIONAL I",
+        "profesor": "JORGE AGUILERA SUAREZ",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-18601": {
+    "nombre": "DER-18601-DERECHO INTERNACIONAL II",
+    "clave": "DER-18601",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-18601-DERECHO INTERNACIONAL II",
+        "profesor": "GUILHERME VASCONCELOS VILACA",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-18601-DERECHO INTERNACIONAL II",
+        "profesor": "GUILHERME VASCONCELOS VILACA",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-18701": {
+    "nombre": "DER-18701-DERECHO INTERNACIONAL PUBLICO",
+    "clave": "DER-18701",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-18701-DERECHO INTERNACIONAL PUBLICO",
+        "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
+        "creditos": "6",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-18701-DERECHO INTERNACIONAL PUBLICO",
+        "profesor": "HANNAH BIRKENKOTTER",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "306",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-18701-DERECHO INTERNACIONAL PUBLICO",
+        "profesor": "JORGE AGUILERA SUAREZ",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-18802": {
+    "nombre": "DER-18802-DERECHO INTERNACIONAL PRIVADO",
+    "clave": "DER-18802",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-18802-DERECHO INTERNACIONAL PRIVADO",
+        "profesor": "GUILHERME VASCONCELOS VILACA",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-18802-DERECHO INTERNACIONAL PRIVADO",
+        "profesor": "GUILHERME VASCONCELOS VILACA",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-19004": {
+    "nombre": "DER-19004-CLIN. MEJORA JUSTIC.LABORAL",
+    "clave": "DER-19004",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-19004-CLIN. MEJORA JUSTIC.LABORAL",
+        "profesor": "GAMALIEL MIRANDA FLORES",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "15:59",
+        "horario": "13:00-15:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-19501": {
+    "nombre": "DER-19501-DERECHO LABORAL I",
+    "clave": "DER-19501",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-19501-DERECHO LABORAL I",
+        "profesor": "MIRIAM SHALILA CURIOCA GALVEZ",
+        "creditos": "6",
+        "inicio": "09:00",
+        "fin": "10:29",
+        "horario": "09:00-10:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "B-2",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-19501-DERECHO LABORAL I",
+        "profesor": "JOSE LUIS CABALLERO RODRIGUEZ",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "102",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-19602": {
+    "nombre": "DER-19602-DERECHO LABORAL II",
+    "clave": "DER-19602",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-19602-DERECHO LABORAL II",
+        "profesor": "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "SA3",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-19602-DERECHO LABORAL II",
+        "profesor": "JOSE ANTONIO MORALES YA\u00d1EZ",
+        "creditos": "6",
+        "inicio": "20:30",
+        "fin": "21:59",
+        "horario": "20:30-21:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "301",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6385,6 +9003,69 @@ let clases={
       }
     ]
   },
+  "EGN-11163": {
+    "nombre": "EGN-11163-NEW HISTORIC PERSPECT. OF MEX.",
+    "clave": "EGN-11163",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EGN-11163-NEW HISTORIC PERSPECT. OF MEX.",
+        "profesor": "JOSE MANUEL OROZCO GARIBAY",
+        "creditos": "6",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "208",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "EGN-11164": {
+    "nombre": "EGN-11164-EL ARTE DE VIVIR",
+    "clave": "EGN-11164",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EGN-11164-EL ARTE DE VIVIR",
+        "profesor": "ROBERTO ZOCCO",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "210",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "EGN-11166": {
+    "nombre": "EGN-11166-HABITAR LA CIUDAD",
+    "clave": "EGN-11166",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EGN-11166-HABITAR LA CIUDAD",
+        "profesor": "JUAN CARLOS MANSUR GARDA",
+        "creditos": "6",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "205",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
   "EGN-17121": {
     "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
     "clave": "EGN-17121",
@@ -7136,7 +9817,7 @@ let clases={
       {
         "grupo": "011",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "TBA",
+        "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
         "creditos": "6",
         "inicio": "17:00",
         "fin": "17:59",
@@ -7334,6 +10015,132 @@ let clases={
           "JU"
         ],
         "salon": "207",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "EGN-17162": {
+    "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+    "clave": "EGN-17162",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+        "profesor": "ARTURO PELAEZ GALVEZ",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "208",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+        "profesor": "ARTURO PELAEZ GALVEZ",
+        "creditos": "6",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "208",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+        "profesor": "JOSE MANUEL OROZCO GARIBAY",
+        "creditos": "6",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "208",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "004",
+        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+        "profesor": "VICTOR ALBERTO VILLAVICENCIO NAVARRO",
+        "creditos": "6",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "205",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "005",
+        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+        "profesor": "JOSE MANUEL OROZCO GARIBAY",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "206",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "006",
+        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+        "profesor": "GERARDO ZORRILLA RAMOS",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "206",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "007",
+        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+        "profesor": "GERARDO ZORRILLA RAMOS",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "206",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "008",
+        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+        "profesor": "FERNANDO RODRIGUEZ DOVAL",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "205",
         "campus": "RIO HONDO"
       }
     ]
@@ -9010,13 +11817,13 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-10141-COM. ESCRITA PARA ING. NEGOC.",
-        "profesor": "FLORENCIA GRACIELA ZOZAYA BECERRA",
+        "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
         "inicio": "18:00",
         "fin": "18:59",
         "horario": "18:00-18:59",
         "dias": [
-          "MA"
+          "JU"
         ],
         "salon": "ACERV",
         "campus": "RIO HONDO"
@@ -9030,13 +11837,13 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-10142-COM. ESCRITA PARA ING. COMP.",
-        "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+        "profesor": "FLORENCIA GRACIELA ZOZAYA BECERRA",
         "creditos": "2",
         "inicio": "18:00",
         "fin": "18:59",
         "horario": "18:00-18:59",
         "dias": [
-          "JU"
+          "MA"
         ],
         "salon": "ACERV",
         "campus": "RIO HONDO"
@@ -9092,9 +11899,9 @@ let clases={
         "nombre": "LEN-10146-COMUNIC. PROF. PARA ING. NEGOC",
         "profesor": "DIANA LUCIA ALVAREZ MACIAS",
         "creditos": "2",
-        "inicio": "07:00",
-        "fin": "07:59",
-        "horario": "07:00-07:59",
+        "inicio": "08:00",
+        "fin": "08:59",
+        "horario": "08:00-08:59",
         "dias": [
           "VI"
         ],
@@ -10005,13 +12812,13 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12724-COM. ESCRITA PARA ING EN COMP.",
-        "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+        "profesor": "FLORENCIA GRACIELA ZOZAYA BECERRA",
         "creditos": "2",
         "inicio": "18:00",
         "fin": "18:59",
         "horario": "18:00-18:59",
         "dias": [
-          "JU"
+          "MA"
         ],
         "salon": "ACERV",
         "campus": "RIO HONDO"
@@ -10045,13 +12852,13 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12726-COM. ESCRITA PARA ING EN NEGOC",
-        "profesor": "FLORENCIA GRACIELA ZOZAYA BECERRA",
+        "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
         "inicio": "18:00",
         "fin": "18:59",
         "horario": "18:00-18:59",
         "dias": [
-          "MA"
+          "JU"
         ],
         "salon": "ACERV",
         "campus": "RIO HONDO"
@@ -12981,6 +15788,490 @@ let clases={
         "campus": "RIO HONDO"
       }
     ]
+  },
+  "SDI-11120": {
+    "nombre": "SDI-11120-ELEMENTOS DE FISICA",
+    "clave": "SDI-11120",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-11120-ELEMENTOS DE FISICA",
+        "profesor": "ANTE SALCEDO GONZALEZ",
+        "creditos": "10",
+        "inicio": "08:00",
+        "fin": "09:59",
+        "horario": "08:00-09:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "LI2",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-11120-LAB": {
+    "nombre": "SDI-11120-ELEMENTOS DE FISICA-LAB",
+    "clave": "SDI-11120-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "SDI-11120-ELEMENTOS DE FISICA-LAB",
+        "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
+        "creditos": "10",
+        "inicio": "09:00",
+        "fin": "10:59",
+        "horario": "09:00-10:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "LFIEL",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-11221": {
+    "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+    "clave": "SDI-11221",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+        "profesor": "MARIA OFELIA RODRIGUEZ DURAN",
+        "creditos": "10",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "SA3",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-11221-LAB": {
+    "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
+    "clave": "SDI-11221-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
+        "profesor": "TBA",
+        "creditos": "10",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "LFIEL",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-11322": {
+    "nombre": "SDI-11322-CIRCUITOS LOGICOS",
+    "clave": "SDI-11322",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "SDI-11322-CIRCUITOS LOGICOS",
+        "profesor": "RAFAEL CISNEROS MONTOYA",
+        "creditos": "10",
+        "inicio": "09:00",
+        "fin": "10:59",
+        "horario": "09:00-10:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "PB1",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-11322-LAB": {
+    "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
+    "clave": "SDI-11322-LAB",
+    "grupos": [
+      {
+        "grupo": "002L",
+        "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
+        "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
+        "creditos": "10",
+        "inicio": "11:00",
+        "fin": "12:59",
+        "horario": "11:00-12:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "LCLMP",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-11561": {
+    "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
+    "clave": "SDI-11561",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
+        "profesor": "MARCO ANTONIO MORALES AGUIRRE",
+        "creditos": "10",
+        "inicio": "15:00",
+        "fin": "16:59",
+        "horario": "15:00-16:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "314",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
+        "profesor": "SERGIO HERNANDEZ SANCHEZ",
+        "creditos": "10",
+        "inicio": "11:30",
+        "fin": "13:29",
+        "horario": "11:30-13:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "314",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "004",
+        "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
+        "profesor": "MARCO ANTONIO MORALES AGUIRRE",
+        "creditos": "10",
+        "inicio": "15:00",
+        "fin": "16:59",
+        "horario": "15:00-16:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "314",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-11561-LAB": {
+    "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
+    "clave": "SDI-11561-LAB",
+    "grupos": [
+      {
+        "grupo": "002L",
+        "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
+        "profesor": "CARLOS ALBERTO MUNIVE VAZQUEZ",
+        "creditos": "10",
+        "inicio": "12:30",
+        "fin": "14:29",
+        "horario": "12:30-14:29",
+        "dias": [
+          "JU"
+        ],
+        "salon": "LCLMP",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003L",
+        "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
+        "profesor": "JOSE DE JESUS MORALES ROMERO",
+        "creditos": "10",
+        "inicio": "10:00",
+        "fin": "11:59",
+        "horario": "10:00-11:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "LCLMP",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "004L",
+        "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
+        "profesor": "CARLOS ALBERTO MUNIVE VAZQUEZ",
+        "creditos": "10",
+        "inicio": "12:30",
+        "fin": "14:29",
+        "horario": "12:30-14:29",
+        "dias": [
+          "JU"
+        ],
+        "salon": "LCLMP",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-11642": {
+    "nombre": "SDI-11642-ARQUITECTURA DE COMPUTADORAS",
+    "clave": "SDI-11642",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-11642-ARQUITECTURA DE COMPUTADORAS",
+        "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
+        "creditos": "8",
+        "inicio": "08:00",
+        "fin": "10:59",
+        "horario": "08:00-10:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RH03",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-11671": {
+    "nombre": "SDI-11671-TEORIA DE CONTROL",
+    "clave": "SDI-11671",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-11671-TEORIA DE CONTROL",
+        "profesor": "ROMEO SALVADOR ORTEGA MARTINEZ",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "LI2",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-12625": {
+    "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
+    "clave": "SDI-12625",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
+        "profesor": "JOSE ABEL HERRERA CAMACHO",
+        "creditos": "8",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "LI2",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-12625-LAB": {
+    "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB",
+    "clave": "SDI-12625-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB",
+        "profesor": "JOSE DE JESUS MORALES ROMERO",
+        "creditos": "8",
+        "inicio": "18:00",
+        "fin": "19:59",
+        "horario": "18:00-19:59",
+        "dias": [
+          "MI"
+        ],
+        "salon": "LSIST",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-13760": {
+    "nombre": "SDI-13760-REDES DE COMPUTADORAS",
+    "clave": "SDI-13760",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-13760-REDES DE COMPUTADORAS",
+        "profesor": "WILMER EFREN PEREIRA GONZALEZ",
+        "creditos": "10",
+        "inicio": "08:00",
+        "fin": "09:59",
+        "horario": "08:00-09:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "301",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-13760-LAB": {
+    "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
+    "clave": "SDI-13760-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
+        "profesor": "JOSE CALIXTO CANO",
+        "creditos": "10",
+        "inicio": "18:00",
+        "fin": "19:59",
+        "horario": "18:00-19:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "LREDE",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-13782": {
+    "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES",
+    "clave": "SDI-13782",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES",
+        "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
+        "creditos": "8",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "SDI-13782-LAB": {
+    "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES-LAB",
+    "clave": "SDI-13782-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES-LAB",
+        "profesor": "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
+        "creditos": "8",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "LREDE",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-14105": {
+    "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
+    "clave": "SDI-14105",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
+        "profesor": "ENRIQUE MELROSE AGUILAR",
+        "creditos": "6",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-15816": {
+    "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+    "clave": "SDI-15816",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+        "profesor": "ENRIQUE MELROSE AGUILAR",
+        "creditos": "4",
+        "inicio": "17:30",
+        "fin": "19:29",
+        "horario": "17:30-19:29",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "SDI-24810": {
+    "nombre": "SDI-24810-SISTS.DE COMERCIO ELECTRONICO",
+    "clave": "SDI-24810",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-24810-SISTS.DE COMERCIO ELECTRONICO",
+        "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
+        "creditos": "8",
+        "inicio": "11:00",
+        "fin": "12:59",
+        "horario": "11:00-12:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "CC201",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "SDI-25916": {
+    "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+    "clave": "SDI-25916",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+        "profesor": "JUAN FERNANDO CALDERON CABELLO",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+        "profesor": "IRMA LOZANO MENDICUTI",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "CC202",
+        "campus": "RIO HONDO"
+      }
+    ]
   }
 };
 let misProfesData={
@@ -13008,6 +16299,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.8372,
     "n": 43
+  },
+  "ANA MICAELA ALTERIO": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
+    "general": 9.0667,
+    "n": 15
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
@@ -13038,6 +16334,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Luis-Arias-Osoyo_130021",
     "general": 9.0,
     "n": 1
+  },
+  "RODRIGO ALFONSO ASCENCIO LUCIO": {
+    "link": "https://www.misprofesores.com/profesores/Rodrigo-Alfonso-Ascencio-Lucio_112372",
+    "general": 8.4444,
+    "n": 9
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
@@ -13079,15 +16380,35 @@ let misProfesData={
     "general": 5.7143,
     "n": 7
   },
+  "FERNANDO BUENO AJA": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
+    "general": 8.75,
+    "n": 4
+  },
   "ERIKA BURGOS PADILLA": {
     "link": "https://www.misprofesores.com/profesores/Erika-Burgos-Padilla_67467",
     "general": 9.4286,
     "n": 28
   },
+  "JOSE LUIS CABALLERO RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Luis-Caballero-Rodr\u00edguez_129801",
+    "general": 10.0,
+    "n": 2
+  },
   "MARTA CABO NODAR": {
     "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
     "general": 4.1519,
     "n": 79
+  },
+  "MARIANA CALDERON ARAMBURU": {
+    "link": "https://www.misprofesores.com/profesores/Mariana-Calder\u00f3n-Aramburu_140257",
+    "general": 9.5,
+    "n": 2
+  },
+  "JOSE CALIXTO CANO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
+    "general": 6.375,
+    "n": 32
   },
   "LUIS MANUEL CAMP MEJAN CARRER": {
     "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
@@ -13109,6 +16430,21 @@ let misProfesData={
     "general": 7.807,
     "n": 57
   },
+  "GUSTAVO CARDENAS SORIANO": {
+    "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
+    "general": 10.0,
+    "n": 2
+  },
+  "GUILLERMO CARRANCO ROMERO": {
+    "link": "https://www.misprofesores.com/profesores/Guillermo-Carranco-Romero_50321",
+    "general": 8.7391,
+    "n": 23
+  },
+  "LUZ DEL CARMEN CARRILLO CAREAGA": {
+    "link": "https://www.misprofesores.com/profesores/Luz-del-Carmen-Carrillo-Careaga_70187",
+    "general": 7.6364,
+    "n": 11
+  },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
     "general": 6.5714,
@@ -13119,6 +16455,16 @@ let misProfesData={
     "general": 6.3,
     "n": 20
   },
+  "IRVIN ARTURO CASTILLO CESAREO": {
+    "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
+    "general": 9.6,
+    "n": 5
+  },
+  "JORGE ARTURO CERDIO HERRAN": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Arturo-Cerdio-Herr\u00e1n_10792",
+    "general": 6.9386,
+    "n": 114
+  },
   "RODRIGO CHACON AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Chac\u00f3n-Aguirre_78222",
     "general": 8.3182,
@@ -13128,6 +16474,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Toufik-Chaibat_90020",
     "general": 9.6667,
     "n": 9
+  },
+  "ANA SOFIA CHARVEL OROZCO": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Sof\u00eda-Charvel-Orozco_10791",
+    "general": 7.1791,
+    "n": 67
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
@@ -13144,10 +16495,20 @@ let misProfesData={
     "general": 7.1429,
     "n": 14
   },
+  "HUGO ALEJANDRO CONCHA CANTU": {
+    "link": "https://www.misprofesores.com/profesores/HUGO-ALEJANDRO-CONCHA-CANT\u00da_55167",
+    "general": 6.1429,
+    "n": 21
+  },
   "RODOLFO CONDE MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Rodolfo-Conde-martinez_90450",
     "general": 8.7778,
     "n": 18
+  },
+  "BRADLY JOHN CONDON": {
+    "link": "https://www.misprofesores.com/profesores/Bradly-John-Condon_17882",
+    "general": 6.2632,
+    "n": 19
   },
   "MARIANA CONTRERAS AREVALO": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Contreras-Ar\u00e9valo_120948",
@@ -13179,10 +16540,20 @@ let misProfesData={
     "general": 8.0,
     "n": 20
   },
+  "CLAUDIA EMILIA DE LEON PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
+    "general": 8.1714,
+    "n": 35
+  },
   "LUIS ARTURO DEL CASTILLO MUZQUIZ": {
     "link": "https://www.misprofesores.com/profesores/LUIS-ARTURO-DEL-CASTILLO-MUZQUIZ_40780",
     "general": 7.1515,
     "n": 66
+  },
+  "FRANCO ALBERTO DEL VALLE PRADO": {
+    "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
+    "general": 9.8333,
+    "n": 6
   },
   "POLUX ERNESTO DIAZ RUIZ": {
     "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
@@ -13233,6 +16604,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
     "general": 9.0,
     "n": 3
+  },
+  "RAUL FERNANDEZ BRISE\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Raul-Fernandez-Brise\u00f1o_51347",
+    "general": 8.0,
+    "n": 7
   },
   "JUAN JOSE FERNANDEZ DURAN": {
     "link": "https://www.misprofesores.com/profesores/Juan-Jos\u00e9-Fern\u00e1ndez-Dur\u00e1n_10690",
@@ -13294,6 +16670,11 @@ let misProfesData={
     "general": 8.6,
     "n": 5
   },
+  "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
+    "general": 9.3333,
+    "n": 3
+  },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
     "general": 7.6,
@@ -13309,10 +16690,20 @@ let misProfesData={
     "general": 8.3333,
     "n": 60
   },
+  "DAVID GARCIA SARUBBI": {
+    "link": "https://www.misprofesores.com/profesores/David-Garcia-Sarubbi_74381",
+    "general": 9.1667,
+    "n": 6
+  },
   "FRANCISCO ANDRES GARRIDO SEPULVEDA": {
     "link": "https://www.misprofesores.com/profesores/Francisco-Andres-Garrido-Sepulveda_136156",
     "general": 6.5,
     "n": 6
+  },
+  "JOSE RAMON GARZA CONTRERAS": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-Garza-Contreras_129142",
+    "general": 8.5,
+    "n": 2
   },
   "MARIA CRISTINA GIGOLA PAGLIALUNGA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Gigola-Paglialunga_10861",
@@ -13338,6 +16729,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
     "general": 6.436,
     "n": 211
+  },
+  "JORGE GONZALEZ GALLASTEGUI": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Gonz\u00e1lez-Gallastegui_129800",
+    "general": 6.6667,
+    "n": 3
   },
   "CARLOS GONZALEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
@@ -13409,6 +16805,11 @@ let misProfesData={
     "general": 8.7222,
     "n": 18
   },
+  "JOSE OMAR HERNANDEZ SALGADO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Omar-Hern\u00e1ndez-Salgado_157835",
+    "general": 10.0,
+    "n": 1
+  },
   "RENATA HERRERIAS FRANCO": {
     "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
     "general": 6.1818,
@@ -13423,6 +16824,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Athanasios-Hristoulas_10839",
     "general": 5.4,
     "n": 55
+  },
+  "ANA MARIA IBARRA OLGUIN": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Ibarra-Olgu\u00edn_153937",
+    "general": 6.0,
+    "n": 1
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -13454,6 +16860,11 @@ let misProfesData={
     "general": 6.7143,
     "n": 35
   },
+  "GERARDO FELIPE LAVEAGA RENDON": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Felipe-Laveaga-Rend\u00f3n_85767",
+    "general": 6.3333,
+    "n": 6
+  },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
     "general": 8.9322,
@@ -13479,6 +16890,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -13488,6 +16904,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.8182,
     "n": 11
+  },
+  "IRMA LOZANO MENDICUTI": {
+    "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
+    "general": 8.5806,
+    "n": 31
   },
   "ADRIAN LUCARDI": {
     "link": "https://www.misprofesores.com/profesores/Adrian-Lucardi_82586",
@@ -13534,6 +16955,11 @@ let misProfesData={
     "general": 8.1042,
     "n": 48
   },
+  "CARLOS EDUARDO MARTINEZ RICO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
+    "general": 8.3333,
+    "n": 3
+  },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
     "general": 8.0909,
@@ -13559,6 +16985,11 @@ let misProfesData={
     "general": 9.0,
     "n": 3
   },
+  "DENISE MEJAN GANEM": {
+    "link": "https://www.misprofesores.com/profesores/Denise-Mejan-Ganem_140466",
+    "general": 10.0,
+    "n": 1
+  },
   "MERCEDES NELLY MELENDEZ FELIX": {
     "link": "https://www.misprofesores.com/profesores/Mercedes-Nelly-Mel\u00e9ndez-F\u00e9lix_22518",
     "general": 8.425,
@@ -13568,6 +16999,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Sylvia-Meljem-Enriquez-de-Rivera_10756",
     "general": 7.5745,
     "n": 47
+  },
+  "ENRIQUE MELROSE AGUILAR": {
+    "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
+    "general": 7.625,
+    "n": 16
   },
   "EDUARDO MENACHE VARELA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
@@ -13588,11 +17024,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Miroslava-Mendoza-Vidal_30732",
     "general": 8.6429,
     "n": 14
-  },
-  "MARIA CRUZ MERINO SANZ": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cruz-Merino-Sanz_10744",
-    "general": 4.8235,
-    "n": 17
   },
   "JUAN PABLO MICOZZI": {
     "link": "https://www.misprofesores.com/profesores/Juan-Pablo-Micozzi_59705",
@@ -13639,6 +17070,11 @@ let misProfesData={
     "general": 8.0,
     "n": 6
   },
+  "JOSE ANTONIO MORALES YA\u00d1EZ": {
+    "link": "https://www.misprofesores.com/profesores/JOSE-ANTONIO-MORALES-YA\u00d1EZ_71535",
+    "general": 6.6,
+    "n": 5
+  },
   "JESUS ALEJANDRO MORENO ALVAREZ": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Moreno-Alvarez_10800",
     "general": 9.0,
@@ -13654,10 +17090,20 @@ let misProfesData={
     "general": 7.5833,
     "n": 36
   },
+  "CARLOS ALBERTO MUNIVE VAZQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Alberto-Munive-Vazquez_43799",
+    "general": 5.0,
+    "n": 1
+  },
   "DAVID FERNANDO MU\u00d1OZ NEGRON": {
     "link": "https://www.misprofesores.com/profesores/David-Fernando-Mu\u00f1oz-Negr\u00f3n_10865",
     "general": 5.8571,
     "n": 14
+  },
+  "MARIO MU\u00d1OZ ORTEGA SAAVEDRA": {
+    "link": "https://www.misprofesores.com/profesores/Mario-Mu\u00f1oz-Ortega-Saavedra_129188",
+    "general": 10.0,
+    "n": 3
   },
   "LUIS ENRIQUE NIETO BARAJAS": {
     "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Nieto-Barajas_10685",
@@ -13689,6 +17135,16 @@ let misProfesData={
     "general": 7.3356,
     "n": 146
   },
+  "JOSE MANUEL OROZCO GARIBAY": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
+    "general": 5.7063,
+    "n": 160
+  },
+  "ROMEO SALVADOR ORTEGA MARTINEZ": {
+    "link": "https://www.misprofesores.com/profesores/Romeo-Salvador-Ortega-Martinez_129225",
+    "general": 2.25,
+    "n": 4
+  },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
     "general": 6.4412,
@@ -13709,6 +17165,21 @@ let misProfesData={
     "general": 7.2124,
     "n": 113
   },
+  "ARTURO PELAEZ GALVEZ": {
+    "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
+    "general": 8.6508,
+    "n": 63
+  },
+  "LUIS ENRIQUE PEREDA TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
+    "general": 9.0,
+    "n": 1
+  },
+  "ROXANA PEREZ ARCE VALLE": {
+    "link": "https://www.misprofesores.com/profesores/Roxana-Perez-Arce-Valle_80746",
+    "general": 7.5,
+    "n": 2
+  },
   "FERNANDO DIEGO PEREZ CERVANTES": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Diego-P\u00e9rez-Cervantes_114816",
     "general": 7.3846,
@@ -13718,6 +17189,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Ernesto-P\u00e9rez-Chavela_74856",
     "general": 6.8571,
     "n": 28
+  },
+  "NITZE NAYELI PEREZ FERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Nitze-Nayeli-Perez-Fernandez_105762",
+    "general": 6.5,
+    "n": 4
   },
   "FRANCISCO PEREZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Francisco-Perez-Gonzalez_78818",
@@ -13744,10 +17220,20 @@ let misProfesData={
     "general": 7.1034,
     "n": 58
   },
+  "ALBERTO PUPPO": {
+    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
+    "general": 8.3235,
+    "n": 34
+  },
   "MARCELA RABADAN GALLARDO": {
     "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
     "general": 9.5263,
     "n": 19
+  },
+  "LUIS REY RAIGOSA SOTELO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Rey-Raigosa-Sotelo_10783",
+    "general": 7.9412,
+    "n": 17
   },
   "BERNARDO RAMIREZ FIGUEROA": {
     "link": "https://www.misprofesores.com/profesores/Bernardo-Ram\u00edrez-Figueroa_125410",
@@ -13763,6 +17249,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
     "general": 9.0769,
     "n": 13
+  },
+  "PABLO ARIEL RAPETTI": {
+    "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
+    "general": 8.0,
+    "n": 17
   },
   "PAVEL REAL PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
@@ -13793,6 +17284,16 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
     "general": 3.5833,
     "n": 12
+  },
+  "FERNANDO RODRIGUEZ DOVAL": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
+    "general": 8.6667,
+    "n": 30
+  },
+  "TANIA GABRIELA RODRIGUEZ HUERTA": {
+    "link": "https://www.misprofesores.com/profesores/Tania-Gabriela-Rodr\u00edguez-Huerta_10785",
+    "general": 7.24,
+    "n": 25
   },
   "SERGIO ROMERO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
@@ -13834,10 +17335,20 @@ let misProfesData={
     "general": 8.55,
     "n": 20
   },
+  "ANTE SALCEDO GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
+    "general": 6.375,
+    "n": 24
+  },
   "HERICA SANCHEZ LARIOS": {
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
     "general": 7.9444,
     "n": 18
+  },
+  "JOSE ANGEL SANTIAGO ABREGO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Santiago-\u00c1brego_138583",
+    "general": 2.0,
+    "n": 1
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
@@ -13859,6 +17370,11 @@ let misProfesData={
     "general": 6.25,
     "n": 24
   },
+  "CARLOS EDUARDO SCHLESKE JUAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Schleske-Juarez_130086",
+    "general": 9.5,
+    "n": 4
+  },
   "VALERIE SCHLOSSER SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Valerie-Schlosser-S\u00e1nchez_105807",
     "general": 9.3182,
@@ -13868,6 +17384,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
     "general": 7.1111,
     "n": 9
+  },
+  "JAVIER SCH\u00dcTTE RICAUD": {
+    "link": "https://www.misprofesores.com/profesores/Javier-Sch\u00fctte-Ricaud_155412",
+    "general": 8.0,
+    "n": 1
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
@@ -13913,6 +17434,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gonzalo-Tom\u00e1s-Su\u00e1rez-Belmont_19775",
     "general": 7.25,
     "n": 44
+  },
+  "GERMAN SUCAR": {
+    "link": "https://www.misprofesores.com/profesores/german-sucar_23220",
+    "general": 6.6719,
+    "n": 64
   },
   "ANA TAMARIT AMIEVA": {
     "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
@@ -13963,6 +17489,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
     "general": 7.5333,
     "n": 30
+  },
+  "CESAR CLAUDIO URRUTIA ROMERO": {
+    "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
+    "general": 9.3333,
+    "n": 3
   },
   "FEDERICO VALLE OCHOA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
@@ -14058,5 +17589,15 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
     "general": 8.0307,
     "n": 163
+  },
+  "ANA MARIA ZORRILLA NORIEGA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
+    "general": 10.0,
+    "n": 2
+  },
+  "GERARDO ZORRILLA RAMOS": {
+    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
+    "general": 7.3019,
+    "n": 53
   }
 };
