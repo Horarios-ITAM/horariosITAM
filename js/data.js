@@ -1,4 +1,4 @@
-let actualizado='1667912583444.422';
+let actualizado='1667973605709.1587';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -1037,7 +1037,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-12460-DIVERSID E INCLUS. EN LAS ORG",
-        "profesor": "FEDERICO RUBLI KAISER",
+        "profesor": "ADRIAN RUBLI ORNELAS",
         "creditos": "6",
         "inicio": "17:30",
         "fin": "20:29",
@@ -3287,7 +3287,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "COM-11302-ALGORITMICA Y PROGRAMACION",
-        "profesor": "FERNANDO PURON CONTRERAS",
+        "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
         "creditos": "6",
         "inicio": "11:30",
         "fin": "12:59",
@@ -3317,7 +3317,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "COM-11302-ALGORITMICA Y PROGRAMACION",
-        "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
+        "profesor": "FERNANDO PURON CONTRERAS",
         "creditos": "6",
         "inicio": "16:00",
         "fin": "17:29",
@@ -3394,7 +3394,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-12103-FUENTES DE DATOS",
-        "profesor": "TBA",
+        "profesor": "MARIO VAZQUEZ CORTE",
         "creditos": "6",
         "inicio": "17:30",
         "fin": "18:59",
@@ -3532,21 +3532,6 @@ let clases={
     "nombre": "COM-16203-DES. DE APLICACS. INFORMATICAS",
     "clave": "COM-16203",
     "grupos": [
-      {
-        "grupo": "002",
-        "nombre": "COM-16203-DES. DE APLICACS. INFORMATICAS",
-        "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
-        "creditos": "8",
-        "inicio": "09:00",
-        "fin": "10:59",
-        "horario": "09:00-10:59",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH10",
-        "campus": "RIO HONDO"
-      },
       {
         "grupo": "003",
         "nombre": "COM-16203-DES. DE APLICACS. INFORMATICAS",
@@ -3947,12 +3932,12 @@ let clases={
         "nombre": "COM-23106-MINERIA DE DATOS",
         "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
         "creditos": "6",
-        "inicio": "18:00",
-        "fin": "19:29",
-        "horario": "18:00-19:29",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
         "salon": "CC101",
         "campus": "RIO HONDO"
@@ -5003,7 +4988,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-24112-ESTRATEGIAS ADMINISTRATIVAS",
-        "profesor": "TBA",
+        "profesor": "AMERICA MARIA LUISA TARACIDO BEREA",
         "creditos": "6",
         "inicio": "19:00",
         "fin": "21:59",
@@ -5013,6 +4998,40 @@ let clases={
         ],
         "salon": "302",
         "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "CEB-10001": {
+    "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
+    "clave": "CEB-10001",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
+        "profesor": "MARGARITA TARRAGONA SAEZ",
+        "creditos": "6",
+        "inicio": "08:00",
+        "fin": "10:59",
+        "horario": "08:00-10:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
+        "profesor": "MARGARITA TARRAGONA SAEZ",
+        "creditos": "6",
+        "inicio": "11:00",
+        "fin": "13:59",
+        "horario": "11:00-13:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -5062,8 +5081,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "317",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6532,17 +6551,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13614-FAMILIA Y SUCESIONES",
-        "profesor": "JUAN PABLO ALCOCER MENDOZA",
+        "profesor": "FULVIA LOPEZ MORA",
         "creditos": "8",
-        "inicio": "19:00",
-        "fin": "20:29",
-        "horario": "19:00-20:29",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
         "dias": [
-          "MA",
           "JU"
         ],
-        "salon": "317",
-        "campus": "RIO HONDO"
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       },
       {
         "grupo": "002",
@@ -6556,8 +6574,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "317",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6568,16 +6586,16 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-13614-FAMILIA Y SUCESIONES-LAB",
-        "profesor": "FULVIA LOPEZ MORA",
+        "profesor": "JUAN PABLO ALCOCER MENDOZA",
         "creditos": "8",
-        "inicio": "07:00",
-        "fin": "08:59",
-        "horario": "07:00-08:59",
+        "inicio": "16:00",
+        "fin": "18:59",
+        "horario": "16:00-18:59",
         "dias": [
-          "JU"
+          "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB2",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002L",
@@ -6633,6 +6651,161 @@ let clases={
           "MI"
         ],
         "salon": "105",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-14505-DELITOS",
+        "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "306",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-14603": {
+    "nombre": "DER-14603-DERECHO PROCESAL PENAL",
+    "clave": "DER-14603",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-14603-DERECHO PROCESAL PENAL",
+        "profesor": "TBA",
+        "creditos": "8",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-14603-DERECHO PROCESAL PENAL",
+        "profesor": "TBA",
+        "creditos": "8",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-14603-LAB": {
+    "nombre": "DER-14603-DERECHO PROCESAL PENAL-LAB",
+    "clave": "DER-14603-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-14603-DERECHO PROCESAL PENAL-LAB",
+        "profesor": "TBA",
+        "creditos": "8",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "317",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "DER-14603-DERECHO PROCESAL PENAL-LAB",
+        "profesor": "TBA",
+        "creditos": "8",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "MI"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-14606": {
+    "nombre": "DER-14606-DERECHO PROCESAL PENAL",
+    "clave": "DER-14606",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-14606-DERECHO PROCESAL PENAL",
+        "profesor": "TBA",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-14606-DERECHO PROCESAL PENAL",
+        "profesor": "TBA",
+        "creditos": "6",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-14607": {
+    "nombre": "DER-14607-JUICIO ORAL PENAL",
+    "clave": "DER-14607",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-14607-JUICIO ORAL PENAL",
+        "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
+        "creditos": "2",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-14607-JUICIO ORAL PENAL",
+        "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
+        "creditos": "2",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "MI"
+        ],
+        "salon": "TBA",
         "campus": "SANTA TERESA"
       }
     ]
@@ -6693,6 +6866,26 @@ let clases={
           "MI"
         ],
         "salon": "TBA",
+        "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-15073": {
+    "nombre": "DER-15073-DERECHO ELECTORAL",
+    "clave": "DER-15073",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15073-DERECHO ELECTORAL",
+        "profesor": "TBA",
+        "creditos": "4",
+        "inicio": "16:00",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "105",
         "campus": "SANTA TERESA"
       }
     ]
@@ -7164,7 +7357,7 @@ let clases={
         "fin": "14:59",
         "horario": "13:00-14:59",
         "dias": [
-          "VI"
+          "MI"
         ],
         "salon": "TBA",
         "campus": "SANTA TERESA"
@@ -7346,15 +7539,15 @@ let clases={
         "nombre": "DER-16702-DERECHO MERCANTIL III",
         "profesor": "JUAN PABLO ALCOCER MENDOZA",
         "creditos": "6",
-        "inicio": "17:30",
-        "fin": "18:59",
-        "horario": "17:30-18:59",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "317",
-        "campus": "RIO HONDO"
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -7389,8 +7582,8 @@ let clases={
         "profesor": "ANA MARIA ZORRILLA NORIEGA",
         "creditos": "2",
         "inicio": "13:00",
-        "fin": "14:59",
-        "horario": "13:00-14:59",
+        "fin": "15:59",
+        "horario": "13:00-15:59",
         "dias": [
           "LU"
         ],
@@ -7624,8 +7817,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "317",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7711,8 +7904,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "317",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -15798,9 +15991,9 @@ let clases={
         "nombre": "SDI-11120-ELEMENTOS DE FISICA",
         "profesor": "ANTE SALCEDO GONZALEZ",
         "creditos": "10",
-        "inicio": "08:00",
-        "fin": "09:59",
-        "horario": "08:00-09:59",
+        "inicio": "09:00",
+        "fin": "10:59",
+        "horario": "09:00-10:59",
         "dias": [
           "LU",
           "MI"
@@ -15837,7 +16030,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
-        "profesor": "MARIA OFELIA RODRIGUEZ DURAN",
+        "profesor": "RAFAEL CISNEROS MONTOYA",
         "creditos": "10",
         "inicio": "16:00",
         "fin": "17:59",
@@ -15858,7 +16051,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
-        "profesor": "TBA",
+        "profesor": "MARIA OFELIA RODRIGUEZ DURAN",
         "creditos": "10",
         "inicio": "07:00",
         "fin": "08:59",
@@ -15972,11 +16165,11 @@ let clases={
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
         "profesor": "CARLOS ALBERTO MUNIVE VAZQUEZ",
         "creditos": "10",
-        "inicio": "12:30",
-        "fin": "14:29",
-        "horario": "12:30-14:29",
+        "inicio": "17:30",
+        "fin": "19:29",
+        "horario": "17:30-19:29",
         "dias": [
-          "JU"
+          "MI"
         ],
         "salon": "LCLMP",
         "campus": "RIO HONDO"
@@ -15986,11 +16179,11 @@ let clases={
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
         "profesor": "JOSE DE JESUS MORALES ROMERO",
         "creditos": "10",
-        "inicio": "10:00",
-        "fin": "11:59",
-        "horario": "10:00-11:59",
+        "inicio": "08:00",
+        "fin": "09:59",
+        "horario": "08:00-09:59",
         "dias": [
-          "JU"
+          "VI"
         ],
         "salon": "LCLMP",
         "campus": "RIO HONDO"
@@ -16000,11 +16193,11 @@ let clases={
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
         "profesor": "CARLOS ALBERTO MUNIVE VAZQUEZ",
         "creditos": "10",
-        "inicio": "12:30",
-        "fin": "14:29",
-        "horario": "12:30-14:29",
+        "inicio": "17:30",
+        "fin": "19:29",
+        "horario": "17:30-19:29",
         "dias": [
-          "JU"
+          "MI"
         ],
         "salon": "LCLMP",
         "campus": "RIO HONDO"
@@ -16026,7 +16219,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH03",
+        "salon": "PB1",
         "campus": "RIO HONDO"
       }
     ]
@@ -16061,14 +16254,14 @@ let clases={
         "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
         "profesor": "JOSE ABEL HERRERA CAMACHO",
         "creditos": "8",
-        "inicio": "08:30",
-        "fin": "09:59",
-        "horario": "08:30-09:59",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "LI2",
+        "salon": "LI1",
         "campus": "RIO HONDO"
       }
     ]
@@ -16082,11 +16275,11 @@ let clases={
         "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB",
         "profesor": "JOSE DE JESUS MORALES ROMERO",
         "creditos": "8",
-        "inicio": "18:00",
-        "fin": "19:59",
-        "horario": "18:00-19:59",
+        "inicio": "10:00",
+        "fin": "11:59",
+        "horario": "10:00-11:59",
         "dias": [
-          "MI"
+          "VI"
         ],
         "salon": "LSIST",
         "campus": "RIO HONDO"
@@ -16168,7 +16361,7 @@ let clases={
         "fin": "08:59",
         "horario": "07:00-08:59",
         "dias": [
-          "VI"
+          "MI"
         ],
         "salon": "LREDE",
         "campus": "RIO HONDO"
@@ -16575,11 +16768,6 @@ let misProfesData={
     "general": 5.9265,
     "n": 204
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3
-  },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
     "general": 7.6774,
@@ -16741,9 +16929,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -16890,11 +17078,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -16946,9 +17129,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -17292,18 +17475,13 @@ let misProfesData={
   },
   "TANIA GABRIELA RODRIGUEZ HUERTA": {
     "link": "https://www.misprofesores.com/profesores/Tania-Gabriela-Rodr\u00edguez-Huerta_10785",
-    "general": 7.24,
-    "n": 25
+    "general": 7.1923,
+    "n": 26
   },
   "SERGIO ROMERO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
     "general": 7.15,
     "n": 20
-  },
-  "FEDERICO RUBLI KAISER": {
-    "link": "https://www.misprofesores.com/profesores/Federico-Rubli-Kaiser_64777",
-    "general": 2.0,
-    "n": 1
   },
   "ADRIAN RUBLI ORNELAS": {
     "link": "https://www.misprofesores.com/profesores/Adri\u00e1n-Rubl\u00ed-Ornelas_109506",
@@ -17441,9 +17619,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
