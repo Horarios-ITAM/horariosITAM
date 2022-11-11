@@ -1,4 +1,4 @@
-let actualizado='1668085384585.1685';
+let actualizado='1668146404084.0981';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -3493,16 +3493,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-14105-ALGORITMOS NUM. POR COMPU.",
-        "profesor": "TBA",
+        "profesor": "MARCELO CARLOS MEJIA OLVERA",
         "creditos": "6",
-        "inicio": "08:30",
-        "fin": "09:59",
-        "horario": "08:30-09:59",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "CC102",
+        "salon": "CC201",
         "campus": "RIO HONDO"
       }
     ]
@@ -3633,14 +3633,14 @@ let clases={
         "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
         "profesor": "LETICIA RENTERIA FERRAN",
         "creditos": "7",
-        "inicio": "10:00",
-        "fin": "11:29",
-        "horario": "10:00-11:29",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "CC201",
+        "salon": "CC102",
         "campus": "RIO HONDO"
       },
       {
@@ -11348,9 +11348,9 @@ let clases={
         "nombre": "IIO-15171-MECANICA DE SOLIDOS",
         "profesor": "JOSE ANTONIO SOUZA JIMENEZ",
         "creditos": "6",
-        "inicio": "13:00",
-        "fin": "14:29",
-        "horario": "13:00-14:29",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
         "dias": [
           "MA",
           "JU"
@@ -16768,6 +16768,11 @@ let misProfesData={
     "general": 5.9265,
     "n": 204
   },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3
+  },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
     "general": 7.6774,
@@ -17078,6 +17083,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -17129,9 +17139,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",

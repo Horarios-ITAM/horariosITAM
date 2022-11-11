@@ -1,4 +1,4 @@
-let actualizado='1668085384585.1685';
+let actualizado='1668146404084.0981';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -1172,23 +1172,6 @@ let profesores={
           ],
           "salon": "TBA",
           "campus": "SANTA TERESA"
-        }
-      ],
-      "COM-14105-ALGORITMOS NUM. POR COMPU.": [
-        {
-          "grupo": "001",
-          "nombre": "COM-14105-ALGORITMOS NUM. POR COMPU.",
-          "profesor": "TBA",
-          "creditos": "6",
-          "inicio": "08:30",
-          "fin": "09:59",
-          "horario": "08:30-09:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "CC102",
-          "campus": "RIO HONDO"
         }
       ],
       "CON-11013-CONTRALORIA": [
@@ -4270,6 +4253,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4422,6 +4408,27 @@ let profesores={
             "JU"
           ],
           "salon": "CC102",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MARCELO CARLOS MEJIA OLVERA": {
+    "grupos": {
+      "COM-14105-ALGORITMOS NUM. POR COMPU.": [
+        {
+          "grupo": "001",
+          "nombre": "COM-14105-ALGORITMOS NUM. POR COMPU.",
+          "profesor": "MARCELO CARLOS MEJIA OLVERA",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "CC201",
           "campus": "RIO HONDO"
         }
       ]
@@ -4623,14 +4630,14 @@ let profesores={
           "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
           "profesor": "LETICIA RENTERIA FERRAN",
           "creditos": "7",
-          "inicio": "10:00",
-          "fin": "11:29",
-          "horario": "10:00-11:29",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "CC201",
+          "salon": "CC102",
           "campus": "RIO HONDO"
         }
       ]
@@ -4868,6 +4875,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -10322,9 +10332,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -12560,9 +12570,9 @@ let profesores={
           "nombre": "IIO-15171-MECANICA DE SOLIDOS",
           "profesor": "JOSE ANTONIO SOUZA JIMENEZ",
           "creditos": "6",
-          "inicio": "13:00",
-          "fin": "14:29",
-          "horario": "13:00-14:29",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
           "dias": [
             "MA",
             "JU"
@@ -17951,9 +17961,9 @@ let mejoresPorDepto={
     "RODRIGO ZEPEDA TELLO",
     "JOSE MATUK VILLAZON",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
-    "TRINIDAD GONZALEZ BONILLA"
+    "TRINIDAD GONZALEZ BONILLA",
+    "ILEANA GARCIA CONDE"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
