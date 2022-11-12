@@ -1,4 +1,4 @@
-let actualizado='1668171783671.7725';
+let actualizado='1668232805733.1045';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -4253,9 +4253,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4728,13 +4725,13 @@ let profesores={
           "profesor": "ROSARIO EDITH GARCIA MENDIOLA",
           "creditos": "8",
           "inicio": "17:30",
-          "fin": "18:59",
-          "horario": "17:30-18:59",
+          "fin": "19:29",
+          "horario": "17:30-19:29",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "302",
+          "salon": "213",
           "campus": "RIO HONDO"
         }
       ]
@@ -5140,9 +5137,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -10284,23 +10281,6 @@ let profesores={
           "nombre": "EST-14101-CALCULO DE PROBABILIDADES.,I",
           "profesor": "LUIS ENRIQUE NIETO BARAJAS",
           "creditos": "6",
-          "inicio": "08:30",
-          "fin": "09:59",
-          "horario": "08:30-09:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "309",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "EST-24108-REGRESION AVANZADA": [
-        {
-          "grupo": "001",
-          "nombre": "EST-24108-REGRESION AVANZADA",
-          "profesor": "LUIS ENRIQUE NIETO BARAJAS",
-          "creditos": "6",
           "inicio": "10:00",
           "fin": "11:29",
           "horario": "10:00-11:29",
@@ -10312,10 +10292,10 @@ let profesores={
           "campus": "SANTA TERESA"
         }
       ],
-      "EST-24126-CALCULO DE PROBABILIDADES I": [
+      "EST-24108-REGRESION AVANZADA": [
         {
-          "grupo": "005",
-          "nombre": "EST-24126-CALCULO DE PROBABILIDADES I",
+          "grupo": "001",
+          "nombre": "EST-24108-REGRESION AVANZADA",
           "profesor": "LUIS ENRIQUE NIETO BARAJAS",
           "creditos": "6",
           "inicio": "08:30",
@@ -10327,6 +10307,23 @@ let profesores={
           ],
           "salon": "309",
           "campus": "RIO HONDO"
+        }
+      ],
+      "EST-24126-CALCULO DE PROBABILIDADES I": [
+        {
+          "grupo": "005",
+          "nombre": "EST-24126-CALCULO DE PROBABILIDADES I",
+          "profesor": "LUIS ENRIQUE NIETO BARAJAS",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
         }
       ]
     }
@@ -14634,9 +14631,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17706,10 +17703,10 @@ let profesores={
           "campus": "RIO HONDO"
         }
       ],
-      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB": [
+      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL": [
         {
-          "grupo": "001L",
-          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB",
+          "grupo": "001",
+          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
           "profesor": "JOSE DE JESUS MORALES ROMERO",
           "creditos": "8",
           "inicio": "10:00",
@@ -17750,17 +17747,16 @@ let profesores={
   },
   "JOSE ABEL HERRERA CAMACHO": {
     "grupos": {
-      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL": [
+      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB": [
         {
-          "grupo": "001",
-          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
+          "grupo": "001L",
+          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB",
           "profesor": "JOSE ABEL HERRERA CAMACHO",
           "creditos": "8",
           "inicio": "16:30",
           "fin": "19:29",
           "horario": "16:30-19:29",
           "dias": [
-            "LU",
             "VI"
           ],
           "salon": "LI2",

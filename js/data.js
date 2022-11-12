@@ -1,4 +1,4 @@
-let actualizado='1668171783671.7725';
+let actualizado='1668232805733.1045';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -4153,13 +4153,13 @@ let clases={
         "profesor": "ROSARIO EDITH GARCIA MENDIOLA",
         "creditos": "8",
         "inicio": "17:30",
-        "fin": "18:59",
-        "horario": "17:30-18:59",
+        "fin": "19:29",
+        "horario": "17:30-19:29",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "302",
+        "salon": "213",
         "campus": "RIO HONDO"
       }
     ]
@@ -8523,15 +8523,15 @@ let clases={
         "nombre": "EST-14101-CALCULO DE PROBABILIDADES.,I",
         "profesor": "LUIS ENRIQUE NIETO BARAJAS",
         "creditos": "6",
-        "inicio": "08:30",
-        "fin": "09:59",
-        "horario": "08:30-09:59",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "309",
-        "campus": "RIO HONDO"
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -8903,15 +8903,15 @@ let clases={
         "nombre": "EST-24108-REGRESION AVANZADA",
         "profesor": "LUIS ENRIQUE NIETO BARAJAS",
         "creditos": "6",
-        "inicio": "10:00",
-        "fin": "11:29",
-        "horario": "10:00-11:29",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "309",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -9076,15 +9076,15 @@ let clases={
         "nombre": "EST-24126-CALCULO DE PROBABILIDADES I",
         "profesor": "LUIS ENRIQUE NIETO BARAJAS",
         "creditos": "6",
-        "inicio": "08:30",
-        "fin": "09:59",
-        "horario": "08:30-09:59",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "309",
-        "campus": "RIO HONDO"
+        "salon": "TBA",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -16252,16 +16252,15 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
-        "profesor": "JOSE ABEL HERRERA CAMACHO",
+        "profesor": "JOSE DE JESUS MORALES ROMERO",
         "creditos": "8",
-        "inicio": "16:30",
-        "fin": "19:29",
-        "horario": "16:30-19:29",
+        "inicio": "10:00",
+        "fin": "11:59",
+        "horario": "10:00-11:59",
         "dias": [
-          "LU",
           "VI"
         ],
-        "salon": "LI2",
+        "salon": "LSIST",
         "campus": "RIO HONDO"
       }
     ]
@@ -16273,15 +16272,15 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB",
-        "profesor": "JOSE DE JESUS MORALES ROMERO",
+        "profesor": "JOSE ABEL HERRERA CAMACHO",
         "creditos": "8",
-        "inicio": "10:00",
-        "fin": "11:59",
-        "horario": "10:00-11:59",
+        "inicio": "16:30",
+        "fin": "19:29",
+        "horario": "16:30-19:29",
         "dias": [
           "VI"
         ],
-        "salon": "LSIST",
+        "salon": "LI2",
         "campus": "RIO HONDO"
       }
     ]
@@ -16934,9 +16933,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17082,11 +17081,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -17629,9 +17623,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
