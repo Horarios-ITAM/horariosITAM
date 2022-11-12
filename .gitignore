@@ -2,3 +2,4 @@
 .DS_Store
 update/creds.json
 *.log
+update/__pycache__/
