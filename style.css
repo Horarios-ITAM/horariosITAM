@@ -9,13 +9,13 @@ body{
       td{
           font-size:80%;
       }
-      #agregar_button,#generar{
-          padding: 8px 15px;
-          margin: 8px 0;
+      #agregar_button,#botonGenerar{
+          padding: 8.5px 15px;
+          margin: 10px 0;
           box-sizing: border-box;
       }
       #a,#profesorSeleccionado{
-          padding: 8px 15px;
+          padding: 8px 15px !important;
           margin: 8px 0;
           box-sizing: border-box;
       }
@@ -113,4 +113,68 @@ span{
 
 #guardar{
     font-size: 11.5px;
+}
+
+#a,#profesorSeleccionado{
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 3px;
+  padding: 2.5px 3px
+
+
+}
+
+/* CSS */
+.custom-button {
+  appearance: none;
+  background-color: rgba(239, 239, 239);
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+  /* font-size: 14px; */
+  font-weight: 400;
+  /* line-height: 20px; */
+  list-style: none;
+  padding: 3px 6px;
+  position: relative;
+  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+  word-wrap: break-word;
+}
+
+.custom-button:hover {
+  background-color: #F3F4F6;
+  text-decoration: none;
+  transition-duration: 0.1s;
+}
+
+.custom-button:disabled {
+  background-color: #FAFBFC;
+  border-color: rgba(27, 31, 35, 0.15);
+  color: #959DA5;
+  cursor: default;
+}
+
+.custom-button:active {
+  background-color: #EDEFF2;
+  box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
+  transition: none 0s;
+}
+
+.custom-button:focus {
+  outline: 1px transparent;
+}
+
+.custom-button:before {
+  display: none;
+}
+
+.custom-button:-webkit-details-marker {
+  display: none;
 }
