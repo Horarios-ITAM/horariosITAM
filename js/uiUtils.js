@@ -270,17 +270,17 @@ function resultadosHTML(horario,nResultados,mobile){
     let espacioMobil=(mobile?'<br><br>':'');
     //Botones de Navegacion de resultados
     //Boton de "<<"
-    let buttons='<input type="button" onclick="actualizarResultado(0)" value="&#8804;"/>';
+    let buttons='<input type="button" class="custom-button" onclick="actualizarResultado(0)" value="&#8804;"/>';
     //Boton de Anterior
-    buttons+=' <input type="button" onclick="actualizarResultado(resultado-1);" value="Anterior"/>';
+    buttons+=' <input type="button" class="custom-button" onclick="actualizarResultado(resultado-1);" value="Anterior"/>';
     //Boton de Imprimir
     //buttons+=' <input type="button" onclick="imprimir()" value="Imprimir"/>';
     //Boton de Agregar a favoritos
-    buttons+=' <input type="button" id="guardar" onclick="guardarHorario()" value="Guardar"/>';
+    buttons+=' <input type="button" class="custom-button" id="guardar" onclick="guardarHorario()" value="Guardar"/>';
     //Boton de Siguiente
-    buttons+=' <input type="button" onclick="actualizarResultado(resultado+1);" value="Siguiente"/>';
+    buttons+=' <input type="button"  class="custom-button" onclick="actualizarResultado(resultado+1);" value="Siguiente"/>';
     //Boton de ">>"
-    buttons+=' <input type="button" onclick="actualizarResultado(horariosGenerados.length-1);" value="&#8805;"/>';
+    buttons+=' <input type="button" class="custom-button" onclick="actualizarResultado(horariosGenerados.length-1);" value="&#8805;"/>';
     //Puntake
     let puntaje='<div id="puntaje" style="display:inline-block;margin:0px;padding-right:20px;"><b>Puntaje: '+parseInt(horario.puntaje)+'/100</b> </div>'
     //Resultado 1 de x
