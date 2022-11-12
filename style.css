@@ -133,6 +133,7 @@ span{
   box-sizing: border-box;
   cursor: pointer;
   display: inline-block;
+  color:black;
   /* font-size: 14px; */
   font-weight: 400;
   /* line-height: 20px; */
