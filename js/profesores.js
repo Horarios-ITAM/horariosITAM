@@ -1,8 +1,9 @@
-let actualizado='1668550870511.528';
+let actualizado='1668552482776.906';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
-let sGrace='#';
+let secure=true;
+let sGrace='202301';
 let dropDownUrl='#';
-let formPostUrl='#';
+let formPostUrl='https://serviciosweb.itam.mx/EDSUP/bwskfcls.P_GetCrse';
 let profesores={
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
@@ -1296,7 +1297,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
+          "salon": "104",
           "campus": "SANTA TERESA"
         }
       ],
@@ -4253,6 +4254,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5137,9 +5141,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -7068,8 +7072,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "111",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -7353,8 +7357,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "314",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -7486,8 +7490,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "112",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -7522,8 +7526,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "111",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -7880,8 +7884,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CUBIC",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -8268,8 +8272,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "308",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -8374,7 +8378,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
+          "salon": "104",
           "campus": "SANTA TERESA"
         },
         {
@@ -8388,7 +8392,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
+          "salon": "104",
           "campus": "SANTA TERESA"
         }
       ]
@@ -8428,8 +8432,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CUBIC",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -8448,8 +8452,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CUBIC",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -8472,7 +8476,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
+          "salon": "104",
           "campus": "SANTA TERESA"
         }
       ],
@@ -8489,7 +8493,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
+          "salon": "104",
           "campus": "SANTA TERESA"
         }
       ]
@@ -8733,8 +8737,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-1",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -8757,8 +8761,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-3",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -8777,8 +8781,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CUBIC",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -8797,8 +8801,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CUBIC",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -8817,7 +8821,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
+          "salon": "106",
           "campus": "SANTA TERESA"
         }
       ]
@@ -8841,7 +8845,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
+          "salon": "104",
           "campus": "SANTA TERESA"
         }
       ],
@@ -8858,7 +8862,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
+          "salon": "104",
           "campus": "SANTA TERESA"
         }
       ]
@@ -8881,8 +8885,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
         }
       ],
       "DER-16602-DERECHO MERCANTIL, II": [
@@ -8897,8 +8901,46 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MIGUEL BERNARDO DE ERICE RODRIGUEZ": {
+    "grupos": {
+      "DER-16503-DERECHO MERCANTIL II": [
+        {
+          "grupo": "003",
+          "nombre": "DER-16503-DERECHO MERCANTIL II",
+          "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "08:59",
+          "horario": "07:00-08:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "308",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "DER-16602-DERECHO MERCANTIL, II": [
+        {
+          "grupo": "003",
+          "nombre": "DER-16602-DERECHO MERCANTIL, II",
+          "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "08:59",
+          "horario": "07:00-08:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "308",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -8938,8 +8980,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "308",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -8961,8 +9003,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CUBIC",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9074,8 +9116,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "308",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9098,8 +9140,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "PB4",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9143,8 +9185,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "PB1",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9164,8 +9206,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-5",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9252,8 +9294,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CUBIC",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -10634,8 +10676,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-1",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -13237,8 +13279,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "205",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -13278,8 +13320,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "206",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -14676,9 +14718,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {

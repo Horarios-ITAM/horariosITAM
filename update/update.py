@@ -112,9 +112,10 @@ if __name__=="__main__":
     with open(profesoresDataFile,"w+") as f:
         f.write("let actualizado='"+str(ahora)+"';")
         f.write("\nlet periodo='"+grace.periodo+"';")
-        f.write("\nlet sGrace='"+('#' if scrapGraceSecure else grace.s)+"';")
+        f.write("\nlet secure="+('true' if scrapGraceSecure else 'false')+";")
+        f.write("\nlet sGrace='"+(grace.clavePeriodo if scrapGraceSecure else grace.s)+"';")
         f.write("\nlet dropDownUrl='"+('#' if scrapGraceSecure else grace.dropDownURL)+"';")
-        f.write("\nlet formPostUrl='"+('#' if scrapGraceSecure else grace.formURL)+"';")
+        f.write("\nlet formPostUrl='"+(courseUrl if scrapGraceSecure else grace.formURL)+"';")
         f.write("\nlet profesores="+json.dumps(profesores,indent=2)+";")
         f.write("\nlet mejoresPorDepto="+json.dumps(mejoresPorDepto,indent=2)+";")
 

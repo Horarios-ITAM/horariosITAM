@@ -1,4 +1,4 @@
-let actualizado='1668550870511.528';
+let actualizado='1668552482776.906';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -6826,7 +6826,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
+        "salon": "104",
         "campus": "SANTA TERESA"
       }
     ]
@@ -6846,7 +6846,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
+        "salon": "104",
         "campus": "SANTA TERESA"
       },
       {
@@ -6860,7 +6860,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
+        "salon": "104",
         "campus": "SANTA TERESA"
       }
     ]
@@ -6900,8 +6900,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CUBIC",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6920,8 +6920,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CUBIC",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6976,7 +6976,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
+        "salon": "104",
         "campus": "SANTA TERESA"
       }
     ]
@@ -6996,8 +6996,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "111",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002L",
@@ -7010,8 +7010,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "314",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7046,7 +7046,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
+        "salon": "104",
         "campus": "SANTA TERESA"
       }
     ]
@@ -7172,8 +7172,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "111",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -7338,8 +7338,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-1",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7359,8 +7359,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-3",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -7394,8 +7394,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CUBIC",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7414,8 +7414,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CUBIC",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7434,7 +7434,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
+        "salon": "106",
         "campus": "SANTA TERESA"
       }
     ]
@@ -7454,8 +7454,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CUBIC",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7475,7 +7475,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
+        "salon": "104",
         "campus": "SANTA TERESA"
       }
     ]
@@ -7496,7 +7496,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
+        "salon": "104",
         "campus": "SANTA TERESA"
       }
     ]
@@ -7531,8 +7531,23 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-16503-DERECHO MERCANTIL II",
+        "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "308",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7566,8 +7581,23 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-16602-DERECHO MERCANTIL, II",
+        "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
+        "creditos": "6",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "308",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7601,8 +7631,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7622,8 +7652,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7642,8 +7672,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CUBIC",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7728,8 +7758,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7749,8 +7779,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB4",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -7785,8 +7815,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB1",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -7800,8 +7830,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-5",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -7821,8 +7851,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "112",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -8015,8 +8045,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CUBIC",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -8985,8 +9015,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-1",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -11570,8 +11600,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "205",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -11663,8 +11693,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "206",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -16988,9 +17018,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17136,6 +17166,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -17683,9 +17718,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
