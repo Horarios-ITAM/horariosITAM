@@ -1,4 +1,4 @@
-let actualizado='1668430982963.3054';
+let actualizado='1668492004500.4639';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let sGrace='#';
 let dropDownUrl='#';
@@ -22,8 +22,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "SA3",
+          "campus": "RIO HONDO"
         }
       ],
       "ACT-11301-CALCULO ACTUARIAL II": [
@@ -39,8 +39,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "SA3",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -121,8 +121,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "311",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -186,8 +186,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "310",
+          "campus": "RIO HONDO"
         }
       ],
       "EST-25146-ECONOMET. FINANCIERA ACTUARIAL": [
@@ -310,8 +310,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "316",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -387,8 +387,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-5",
+          "campus": "RIO HONDO"
         }
       ],
       "MAT-22600-MATEMATICAS FINANCIERAS I": [
@@ -428,8 +428,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "309",
+          "campus": "RIO HONDO"
         }
       ],
       "EST-11101-PROBABILIDAD": [
@@ -445,8 +445,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "314",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -502,8 +502,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "301",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -522,8 +522,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "301",
+          "campus": "RIO HONDO"
         }
       ],
       "ADM-15528-INSTRUMENTOS FINANCIEROS": [
@@ -908,8 +908,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "303",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -1032,8 +1032,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC201",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -1072,8 +1072,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "206",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -1170,8 +1170,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "305",
+          "campus": "RIO HONDO"
         }
       ],
       "CON-11013-CONTRALORIA": [
@@ -1202,8 +1202,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
         }
       ],
       "DER-14603-DERECHO PROCESAL PENAL": [
@@ -1771,8 +1771,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "102",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "002",
@@ -1803,8 +1803,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "102",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "003",
@@ -1838,8 +1838,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "105",
+          "campus": "RIO HONDO"
         }
       ],
       "ADM-15582-FINZS. CORPORA. AVANZADAS": [
@@ -1854,8 +1854,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "105",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2042,8 +2042,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
         }
       ],
       "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I": [
@@ -2058,8 +2058,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2102,8 +2102,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "206",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "002",
@@ -2116,8 +2116,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "206",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2139,8 +2139,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "307",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "004",
@@ -2173,8 +2173,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "302",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2346,8 +2346,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "SA1",
+          "campus": "RIO HONDO"
         }
       ],
       "ADM-15510-INVERSIONES": [
@@ -2376,8 +2376,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "SA1",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2441,8 +2441,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "SA1",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "003",
@@ -2473,8 +2473,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "SA1",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "003",
@@ -2585,8 +2585,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "104",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "002",
@@ -2675,8 +2675,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2698,8 +2698,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-5",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2722,8 +2722,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "315",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2745,8 +2745,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "SA1",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2769,8 +2769,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "104",
+          "campus": "RIO HONDO"
         }
       ],
       "ADM-15535-DERIVADOS": [
@@ -2786,8 +2786,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "104",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "002",
@@ -2801,8 +2801,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "104",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2874,7 +2874,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
+          "salon": "102",
           "campus": "SANTA TERESA"
         }
       ]
@@ -3033,8 +3033,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "304",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "002",
@@ -3047,8 +3047,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "304",
+          "campus": "RIO HONDO"
         }
       ],
       "ADM-16610-INVESTIGACION DE MERCADOS": [
@@ -3063,8 +3063,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "304",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "002",
@@ -3077,8 +3077,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "304",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -3097,8 +3097,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "304",
+          "campus": "RIO HONDO"
         }
       ],
       "ADM-16610-INVESTIGACION DE MERCADOS": [
@@ -3113,8 +3113,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "304",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -3212,8 +3212,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "301",
+          "campus": "RIO HONDO"
         }
       ],
       "CSO-14041-POLITICA COMPARADA,II": [
@@ -3428,8 +3428,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-5",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -3449,8 +3449,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "111",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -3494,8 +3494,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "112",
+          "campus": "RIO HONDO"
         }
       ],
       "CSO-14096-TECNOLOGIA, POLITICA Y GUERRA": [
@@ -3603,8 +3603,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "308",
+          "campus": "RIO HONDO"
         }
       ],
       "CSO-14051-OPINION PUBLICA": [
@@ -3641,8 +3641,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "308",
+          "campus": "RIO HONDO"
         }
       ],
       "CSO-15041-ECONOMIA POLITICA, I": [
@@ -3735,8 +3735,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "309",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -3775,8 +3775,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC302",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -3798,8 +3798,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "309",
+          "campus": "RIO HONDO"
         }
       ],
       "CSO-17041-METODOS DE INVEST. APLICADA": [
@@ -3815,8 +3815,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "309",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -3869,8 +3869,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "309",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -3889,8 +3889,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "316",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -4350,7 +4350,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH10",
+          "salon": "CC302",
           "campus": "RIO HONDO"
         }
       ],
@@ -4366,7 +4366,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PB1",
+          "salon": "SA1",
           "campus": "RIO HONDO"
         }
       ],
@@ -4383,8 +4383,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "SA1",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -4868,7 +4868,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "307",
           "campus": "RIO HONDO"
         }
       ]
@@ -5140,9 +5140,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5528,8 +5528,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "301",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "002",
@@ -5543,8 +5543,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "301",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -5564,8 +5564,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "308",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -5588,8 +5588,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "308",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -5612,8 +5612,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-5",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -5801,8 +5801,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "301",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "003",
@@ -5816,8 +5816,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-5",
+          "campus": "RIO HONDO"
         }
       ],
       "CON-14101-CONTABILIDAD ADMINISTRATIVA,II": [
@@ -5833,8 +5833,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "301",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "003",
@@ -5848,8 +5848,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-5",
+          "campus": "RIO HONDO"
         }
       ],
       "CON-14109-CONTABILIDAD GERENCIAL": [
@@ -5865,8 +5865,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "301",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "003",
@@ -5880,8 +5880,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-5",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -5914,8 +5914,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
         }
       ],
       "CON-14100-CONTABILIDAD ADMINISTRATIVA, I-LAB": [
@@ -5944,8 +5944,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -6008,8 +6008,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -6154,7 +6154,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
+          "salon": "102",
           "campus": "SANTA TERESA"
         },
         {
@@ -6168,7 +6168,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
+          "salon": "102",
           "campus": "SANTA TERESA"
         }
       ]
@@ -7638,8 +7638,8 @@ let profesores={
   },
   "PABLO ARIEL RAPETTI": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.0,
-    "n": 17,
+    "general": 8.1111,
+    "n": 18,
     "grupos": {
       "DER-11202-TEORIA DEL DERECHO II": [
         {
@@ -9465,8 +9465,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "314",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9489,8 +9489,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "315",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9612,8 +9612,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-5",
+          "campus": "RIO HONDO"
         }
       ],
       "EST-11104-ECONOMETRIA": [
@@ -9629,8 +9629,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-5",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9687,8 +9687,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "313",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9905,8 +9905,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "209",
+          "campus": "RIO HONDO"
         }
       ],
       "EST-11104-ECONOMETRIA": [
@@ -9922,8 +9922,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "209",
+          "campus": "RIO HONDO"
         }
       ],
       "EST-24105-ESTADISTICA APLICADA, II": [
@@ -9939,8 +9939,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "212",
+          "campus": "RIO HONDO"
         }
       ],
       "EST-24124-METODOS LINEALES": [
@@ -9956,8 +9956,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "212",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -10018,8 +10018,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "308",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -10291,8 +10291,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "314",
+          "campus": "RIO HONDO"
         }
       ],
       "EST-24108-REGRESION AVANZADA": [
@@ -10325,8 +10325,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "314",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -11166,8 +11166,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "213",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -11191,8 +11191,8 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "208",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -12046,8 +12046,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "203",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -12128,8 +12128,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -12193,8 +12193,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "213",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -12217,8 +12217,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "305",
+          "campus": "RIO HONDO"
         }
       ],
       "EIN-18602-SEMINARIO DE TITULACION": [
@@ -12233,8 +12233,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "203",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -12376,8 +12376,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "SA2",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -14634,9 +14634,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -14928,8 +14928,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "210",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "005",
@@ -14958,8 +14958,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "210",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "005",
@@ -16260,8 +16260,8 @@ let profesores={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.2778,
-    "n": 36,
+    "general": 7.1622,
+    "n": 37,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -16333,8 +16333,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC302",
+          "campus": "RIO HONDO"
         }
       ],
       "MAT-24500-INVESTIGACION DE OPER.,I-LAB": [
@@ -16430,8 +16430,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC101",
+          "campus": "RIO HONDO"
         }
       ],
       "MAT-14400-CALCULO  NUMERICO,I-LAB": [
@@ -16772,8 +16772,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC302",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -16872,8 +16872,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC302",
+          "campus": "RIO HONDO"
         }
       ],
       "MAT-24410-PROGRAMACION LINEAL-LAB": [
@@ -17027,8 +17027,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC102",
+          "campus": "RIO HONDO"
         }
       ],
       "MAT-24500-INVESTIGACION DE OPER.,I-LAB": [
@@ -17082,8 +17082,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC302",
+          "campus": "RIO HONDO"
         }
       ],
       "MAT-24220-ECUACIONES DIF. PARCIALES (OP)": [
@@ -17138,8 +17138,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC302",
+          "campus": "RIO HONDO"
         }
       ],
       "MAT-14400-CALCULO  NUMERICO,I": [
@@ -17170,8 +17170,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC302",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -17207,8 +17207,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC302",
+          "campus": "RIO HONDO"
         }
       ],
       "MAT-14400-CALCULO  NUMERICO,I-LAB": [
@@ -17223,8 +17223,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC302",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "004L",
@@ -17269,8 +17269,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "CC101",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -17829,7 +17829,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH",
+          "salon": "112",
           "campus": "RIO HONDO"
         }
       ],
@@ -17845,8 +17845,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "211",
+          "campus": "RIO HONDO"
         }
       ]
     }
