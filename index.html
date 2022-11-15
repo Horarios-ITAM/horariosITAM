@@ -186,6 +186,38 @@
           <input type="hidden" value="" name="txt_materia"><br>
         </form>
 
+        <form name="detalles-secure" target="_blank" action="https://serviciosweb.itam.mx/EDSUP/bwskfcls.P_GetCrse" method="post">
+            <input type="hidden" name="term_in" value="202301" >
+            <INPUT TYPE="hidden" NAME="sel_subj" VALUE="dummy">
+            <input type="hidden" name="sel_subj" value="ADM" >
+            <input type="hidden" name="SEL_CRSE" value="11002" >
+            <input type="hidden" name="SEL_TITLE" value="">
+            <input type="hidden" name="BEGIN_HH" value="0">
+            <input type="hidden" name="BEGIN_MI" value="0">
+            <input type="hidden" name="BEGIN_AP" value="a">
+            <input type="hidden" name="SEL_DAY" value="dummy">
+            <input type="hidden" name="SEL_PTRM" value="dummy">
+            <input type="hidden" name="END_HH" value="0">
+            <input type="hidden" name="END_MI" value="0">
+            <input type="hidden" name="END_AP" value="a">
+            <input type="hidden" name="SEL_CAMP" value="dummy">
+            <input type="hidden" name="SEL_SCHD" value="dummy">
+            <input type="hidden" name="SEL_SESS" value="dummy">
+            <input type="hidden" name="SEL_INSTR" value="dummy">
+            <input type="hidden" name="SEL_INSTR" value="%">
+            <input type="hidden" name="SEL_ATTR" value="dummy">
+            <input type="hidden" name="SEL_ATTR" value="%">
+            <input type="hidden" name="SEL_LEVL" value="dummy">
+            <input type="hidden" name="SEL_LEVL" value="%">
+            <input type="hidden" name="SEL_INSM"  value="dummy">
+            <input type="hidden" name="sel_dunt_code"  value="">
+            <input type="hidden" name="sel_dunt_unit"  value="">
+            <input type="hidden" name="call_value_in"  value="">
+            <input type="hidden" name="rsts" value="dummy" />
+            <input type="hidden" name="crn" value="dummy" />
+            <input type="hidden" name="path" value="1" >
+            <INPUT TYPE="hidden" NAME="SUB_BTN" VALUE="View Sections" >
+        </form>
 
 
         <script>
@@ -193,9 +225,18 @@
             //"Datos [Semestre] [Año]"
             document.getElementById("datosSemestre").innerHTML='Datos '+periodo;
             document.getElementById("actualizadoHace").innerHTML='Actualizados hace '+timeSince(new Date(parseInt(actualizado)));
+            
             //Valores para links a grace
-            document.getElementsByName("detalles")[0].action=formPostUrl;
-            document.getElementsByName("s")[0].value=sGrace;
+            if(secure){
+                document.getElementsByName("detalles-secure")[0].action=formPostUrl;
+                document.getElementsByName("SEL_CRSE")[0].value=sGrace;
+                
+            }else{         
+                document.getElementsByName("detalles")[0].action=formPostUrl;
+                document.getElementsByName("s")[0].value=sGrace;
+            }
+
+
             //Llenamos datalist de "Buscar Clase"
             llenaDatalist();
 

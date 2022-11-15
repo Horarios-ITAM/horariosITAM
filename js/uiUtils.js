@@ -20,8 +20,17 @@ function llenaDatalistProfesores(){
 }
 //Modifica y envia forma para "Ver en Horarios Grace"
 function post_link(clase){
-    document.getElementsByName("txt_materia")[0].value=clase;
-    document.detalles.submit();
+    // Depende de si se quiere ligar a grace secure area o no
+    if(secure){
+        document.getElementsByName("sel_subj")[1].value=clase.split('-')[0];
+        document.getElementsByName("SEL_CRSE")[0].value=clase.split('-')[1];
+        document.getElementsByName("detalles-secure")[0].submit();
+        
+    }else{
+        document.getElementsByName("txt_materia")[0].value=clase;
+        document.detalles.submit();
+    }
+    
 }
 
 //Dado el nombre de una clase regresa su clave

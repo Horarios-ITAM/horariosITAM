@@ -2,7 +2,7 @@
 from graceScrapper import GraceScrapper
 from misProfesScrapper import MisProfesScrapper
 import json,time
-from graceScrapperSecure import GraceScrapperSecureArea
+from graceScrapperSecure import GraceScrapperSecureArea,courseUrl
 from utils import claveToDepto
 
 def profesoresData(clases):
@@ -91,9 +91,10 @@ if __name__=="__main__":
     with open(dataFile,"w+") as f:
         f.write("let actualizado='"+str(ahora)+"';")
         f.write("\nlet periodo='"+grace.periodo+"';")
-        f.write("\nlet sGrace='"+('#' if scrapGraceSecure else grace.s)+"';")
+        f.write("\nlet secure="+('true' if scrapGraceSecure else 'false')+";")
+        f.write("\nlet sGrace='"+(grace.clavePeriodo if scrapGraceSecure else grace.s)+"';")
         f.write("\nlet dropDownUrl='"+('#' if scrapGraceSecure else grace.dropDownURL)+"';")
-        f.write("\nlet formPostUrl='"+('#' if scrapGraceSecure else grace.formURL)+"';")
+        f.write("\nlet formPostUrl='"+(courseUrl if scrapGraceSecure else grace.formURL)+"';")
         f.write("\nlet clases="+json.dumps(grace.clases,indent=2)+";")
 
         f.write("\nlet misProfesData="+json.dumps(misProfesData,indent=2)+";") 

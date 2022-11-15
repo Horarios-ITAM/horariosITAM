@@ -1,8 +1,9 @@
-let actualizado='1668258183296.5479';
+let actualizado='1668550870511.528';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
-let sGrace='#';
+let secure=true;
+let sGrace='202301';
 let dropDownUrl='#';
-let formPostUrl='#';
+let formPostUrl='https://serviciosweb.itam.mx/EDSUP/bwskfcls.P_GetCrse';
 let clases={
   "ACT-11300": {
     "nombre": "ACT-11300-CALCULO ACTUARIAL I",
@@ -20,8 +21,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "SA3",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -71,8 +72,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "SA3",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -107,8 +108,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "310",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -143,8 +144,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "311",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -230,8 +231,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "316",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -323,8 +324,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-5",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -344,8 +345,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "309",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -401,8 +402,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "301",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -421,8 +422,8 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "301",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -949,8 +950,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC201",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -969,8 +970,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "305",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -990,8 +991,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "102",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -1025,8 +1026,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "105",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1045,8 +1046,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "206",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1149,8 +1150,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1204,8 +1205,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1224,8 +1225,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "206",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -1238,8 +1239,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "206",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -1252,8 +1253,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "307",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004",
@@ -1286,8 +1287,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "302",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1416,8 +1417,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "SA1",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1452,8 +1453,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "SA1",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -1565,8 +1566,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "SA1",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1619,8 +1620,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "104",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -1723,8 +1724,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1743,8 +1744,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-5",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -1758,8 +1759,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "315",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1778,8 +1779,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "SA1",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -1793,8 +1794,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "104",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1850,8 +1851,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "104",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -1865,8 +1866,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "104",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -1899,7 +1900,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
+        "salon": "102",
         "campus": "SANTA TERESA"
       }
     ]
@@ -1935,8 +1936,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "102",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -2007,8 +2008,8 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "303",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "008",
@@ -2021,8 +2022,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "105",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2057,8 +2058,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "SA1",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -2163,8 +2164,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "304",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -2177,8 +2178,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "304",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -2191,8 +2192,8 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "304",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2247,8 +2248,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "304",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -2261,8 +2262,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "304",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -2275,8 +2276,8 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "304",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2373,8 +2374,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "301",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2492,8 +2493,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-5",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2534,8 +2535,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "111",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2597,8 +2598,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "112",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2654,8 +2655,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -2669,8 +2670,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2888,8 +2889,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "309",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2929,8 +2930,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "309",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2991,8 +2992,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "316",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -3012,8 +3013,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "309",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -3032,8 +3033,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC302",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -3052,8 +3053,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "309",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -3424,7 +3425,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH10",
+        "salon": "CC302",
         "campus": "RIO HONDO"
       }
     ]
@@ -4350,8 +4351,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "301",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -4365,8 +4366,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "301",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -4380,8 +4381,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004",
@@ -4395,8 +4396,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "005",
@@ -4425,8 +4426,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-5",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "007",
@@ -4613,8 +4614,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "301",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -4628,8 +4629,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-5",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -4662,8 +4663,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -4696,8 +4697,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -4732,8 +4733,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "301",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -4747,8 +4748,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-5",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -4783,8 +4784,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "301",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -4798,8 +4799,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-5",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -4853,8 +4854,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -4867,8 +4868,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5016,7 +5017,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
+        "salon": "102",
         "campus": "SANTA TERESA"
       },
       {
@@ -5030,8 +5031,29 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
+        "salon": "102",
         "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "DER-10003": {
+    "nombre": "DER-10003-INST. DE DERECHO PUB. MEX.,I",
+    "clave": "DER-10003",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10003-INST. DE DERECHO PUB. MEX.,I",
+        "profesor": "JAIME PERALES CONTRERAS",
+        "creditos": "6",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "209",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5122,8 +5144,8 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "209",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5143,8 +5165,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "209",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -5158,8 +5180,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "316",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -5172,8 +5194,49 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "316",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-10013": {
+    "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+    "clave": "DER-10013",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+        "profesor": "JAIME PERALES CONTRERAS",
+        "creditos": "9",
+        "inicio": "16:00",
+        "fin": "17:29",
+        "horario": "16:00-17:29",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "209",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-10013-LAB": {
+    "nombre": "DER-10013-FUNDAMENTOS JURIDICOS-LAB",
+    "clave": "DER-10013-LAB",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-10013-FUNDAMENTOS JURIDICOS-LAB",
+        "profesor": "JAIME PERALES CONTRERAS",
+        "creditos": "9",
+        "inicio": "18:00",
+        "fin": "19:29",
+        "horario": "18:00-19:29",
+        "dias": [
+          "JU"
+        ],
+        "salon": "209",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5206,8 +5269,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "313",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -5220,8 +5283,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB1",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004",
@@ -5234,8 +5297,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB1",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5268,8 +5331,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "313",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003L",
@@ -5282,8 +5345,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB1",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004L",
@@ -5296,8 +5359,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB1",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5316,8 +5379,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB3",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5336,8 +5399,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB3",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5357,8 +5420,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -5385,8 +5448,8 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5437,21 +5500,6 @@ let clases={
     "clave": "DER-10021",
     "grupos": [
       {
-        "grupo": "001",
-        "nombre": "DER-10021-DERECHO EMPRESARIAL III",
-        "profesor": "ROXANA PEREZ ARCE VALLE",
-        "creditos": "8",
-        "inicio": "09:00",
-        "fin": "10:59",
-        "horario": "09:00-10:59",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "312",
-        "campus": "RIO HONDO"
-      },
-      {
         "grupo": "003",
         "nombre": "DER-10021-DERECHO EMPRESARIAL III",
         "profesor": "ROXANA PEREZ ARCE VALLE",
@@ -5464,6 +5512,27 @@ let clases={
           "MI"
         ],
         "salon": "312",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "DER-10026": {
+    "nombre": "DER-10026-DERECHO CORPORATIVO",
+    "clave": "DER-10026",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10026-DERECHO CORPORATIVO",
+        "profesor": "ROXANA PEREZ ARCE VALLE",
+        "creditos": "8",
+        "inicio": "09:00",
+        "fin": "10:59",
+        "horario": "09:00-10:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "308",
         "campus": "RIO HONDO"
       }
     ]
@@ -5514,8 +5583,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "209",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5583,8 +5652,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "210",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5604,8 +5673,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -5675,8 +5744,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-2",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5754,20 +5823,6 @@ let clases={
     "clave": "DER-11107",
     "grupos": [
       {
-        "grupo": "001",
-        "nombre": "DER-11107-TALLER EN BIENES Y DER REALES",
-        "profesor": "JORGE ARTURO CERDIO HERRAN",
-        "creditos": "2",
-        "inicio": "08:30",
-        "fin": "10:29",
-        "horario": "08:30-10:29",
-        "dias": [
-          "MA"
-        ],
-        "salon": "SA3",
-        "campus": "RIO HONDO"
-      },
-      {
         "grupo": "002",
         "nombre": "DER-11107-TALLER EN BIENES Y DER REALES",
         "profesor": "JORGE ARTURO CERDIO HERRAN",
@@ -5819,8 +5874,8 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-3",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5839,8 +5894,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "111",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -5853,8 +5908,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "314",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5873,8 +5928,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "112",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5928,8 +5983,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -5948,8 +6003,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "112",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -6177,13 +6232,13 @@ let clases={
         "profesor": "LUIS REY RAIGOSA SOTELO",
         "creditos": "6",
         "inicio": "16:00",
-        "fin": "17:29",
-        "horario": "16:00-17:29",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-1",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6211,13 +6266,13 @@ let clases={
         "profesor": "LUIS REY RAIGOSA SOTELO",
         "creditos": "6",
         "inicio": "16:00",
-        "fin": "17:29",
-        "horario": "16:00-17:29",
+        "fin": "17:59",
+        "horario": "16:00-17:59",
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-1",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6297,8 +6352,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CUBIC",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6317,8 +6372,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CUBIC",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6452,8 +6507,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-1",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -6467,8 +6522,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-2",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6559,8 +6614,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "302",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -6602,9 +6657,9 @@ let clases={
         "nombre": "DER-13614-FAMILIA Y SUCESIONES-LAB",
         "profesor": "TARCISIO DOMINGO SANCHEZ ULLOA",
         "creditos": "8",
-        "inicio": "20:00",
-        "fin": "21:59",
-        "horario": "20:00-21:59",
+        "inicio": "19:00",
+        "fin": "20:59",
+        "horario": "19:00-20:59",
         "dias": [
           "MI"
         ],
@@ -6685,8 +6740,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-3",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -6700,8 +6755,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB4",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6735,8 +6790,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-3",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -6756,8 +6811,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB1",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -8125,8 +8180,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "314",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -8170,8 +8225,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "314",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "005",
@@ -8185,8 +8240,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "315",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -8317,8 +8372,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-5",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -8347,8 +8402,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "209",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004",
@@ -8383,8 +8438,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-5",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -8413,8 +8468,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "209",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004",
@@ -8449,8 +8504,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "308",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -8530,8 +8585,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "314",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -8734,8 +8789,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "313",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -8832,8 +8887,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "212",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -8966,8 +9021,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "212",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -9083,8 +9138,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "314",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -9538,8 +9593,8 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "208",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "012",
@@ -10500,8 +10555,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "305",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -10613,8 +10668,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -10653,8 +10708,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "SA2",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -10673,8 +10728,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "203",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -10687,8 +10742,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "203",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -10708,8 +10763,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "213",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -10729,8 +10784,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "213",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -12877,8 +12932,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "210",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "005",
@@ -13681,8 +13736,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "210",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "005",
@@ -15300,8 +15355,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC302",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002L",
@@ -15314,8 +15369,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC302",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -15348,8 +15403,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC101",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -15376,8 +15431,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC302",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -15396,8 +15451,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC302",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002L",
@@ -15424,8 +15479,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC302",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004L",
@@ -15743,8 +15798,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC302",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -15803,8 +15858,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC101",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -15843,8 +15898,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC302",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -15863,8 +15918,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC302",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -15877,8 +15932,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "CC102",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -16219,7 +16274,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PB1",
+        "salon": "SA1",
         "campus": "RIO HONDO"
       }
     ]
@@ -16342,8 +16397,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "SA1",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -16383,7 +16438,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH",
+        "salon": "112",
         "campus": "RIO HONDO"
       }
     ]
@@ -16403,8 +16458,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "211",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -16445,7 +16500,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH",
+        "salon": "307",
         "campus": "RIO HONDO"
       },
       {
@@ -16679,8 +16734,8 @@ let misProfesData={
   },
   "MANUEL ADRIAN CHAVEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Adrian-Ch\u00e1vez-P\u00e9rez_104157",
-    "general": 9.8,
-    "n": 5
+    "general": 9.8333,
+    "n": 6
   },
   "ERIKA GEORGINA CHAVEZ PIEDRA BUENA": {
     "link": "https://www.misprofesores.com/profesores/Erika-Georgina-Ch\u00e1vez-Piedra-Buena_79956",
@@ -16819,8 +16874,8 @@ let misProfesData={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.2745,
-    "n": 51
+    "general": 6.3462,
+    "n": 52
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
@@ -16933,9 +16988,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17114,8 +17169,8 @@ let misProfesData={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.2778,
-    "n": 36
+    "general": 7.1622,
+    "n": 37
   },
   "JUAN CARLOS MANSUR GARDA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Mansur-Garda_10820",
@@ -17357,6 +17412,11 @@ let misProfesData={
     "general": 8.6508,
     "n": 63
   },
+  "JAIME PERALES CONTRERAS": {
+    "link": "https://www.misprofesores.com/profesores/Jaime-Perales-Contreras_118017",
+    "general": 8.875,
+    "n": 8
+  },
   "LUIS ENRIQUE PEREDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
     "general": 9.0,
@@ -17404,8 +17464,8 @@ let misProfesData={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1034,
-    "n": 58
+    "general": 7.1356,
+    "n": 59
   },
   "ALBERTO PUPPO": {
     "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
@@ -17439,8 +17499,8 @@ let misProfesData={
   },
   "PABLO ARIEL RAPETTI": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.0,
-    "n": 17
+    "general": 8.1111,
+    "n": 18
   },
   "PAVEL REAL PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
@@ -17623,9 +17683,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
