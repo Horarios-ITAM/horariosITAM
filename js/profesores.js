@@ -1,4 +1,4 @@
-let actualizado='1668552482776.906';
+let actualizado='1668578404534.463';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -2770,8 +2770,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "104",
-          "campus": "RIO HONDO"
+          "salon": "103",
+          "campus": "SANTA TERESA"
         }
       ],
       "ADM-15535-DERIVADOS": [
@@ -2861,8 +2861,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "104",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "002",

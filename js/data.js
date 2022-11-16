@@ -1,4 +1,4 @@
-let actualizado='1668552482776.906';
+let actualizado='1668578404534.463';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -1794,8 +1794,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "104",
-        "campus": "RIO HONDO"
+        "salon": "103",
+        "campus": "SANTA TERESA"
       }
     ]
   },
@@ -1886,8 +1886,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "104",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
