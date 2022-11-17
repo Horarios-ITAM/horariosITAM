@@ -1,4 +1,4 @@
-let actualizado='1668603783394.0188';
+let actualizado='1668664803458.1216';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -3534,6 +3534,21 @@ let clases={
     "clave": "COM-16203",
     "grupos": [
       {
+        "grupo": "001",
+        "nombre": "COM-16203-DES. DE APLICACS. INFORMATICAS",
+        "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
+        "creditos": "8",
+        "inicio": "07:00",
+        "fin": "08:59",
+        "horario": "07:00-08:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "CC202",
+        "campus": "RIO HONDO"
+      },
+      {
         "grupo": "003",
         "nombre": "COM-16203-DES. DE APLICACS. INFORMATICAS",
         "profesor": "JAVIER TERRES ARIAS",
@@ -3876,9 +3891,9 @@ let clases={
         "nombre": "COM-22108-MINERIA Y ANALISIS DE DATOS",
         "profesor": "EDGAR FRANCISCO ROMAN RANGEL",
         "creditos": "6",
-        "inicio": "10:30",
-        "fin": "11:59",
-        "horario": "10:30-11:59",
+        "inicio": "11:00",
+        "fin": "12:29",
+        "horario": "11:00-12:29",
         "dias": [
           "LU",
           "MI"
@@ -7394,7 +7409,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "CUBIC",
+        "salon": "314",
         "campus": "RIO HONDO"
       }
     ]
@@ -11616,6 +11631,26 @@ let clases={
           "MI"
         ],
         "salon": "PB4",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
+  "CLE-10242": {
+    "nombre": "CLE-10242-INGLES PARA NEGOCIOS",
+    "clave": "CLE-10242",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CLE-10242-INGLES PARA NEGOCIOS",
+        "profesor": "TBA",
+        "creditos": "6",
+        "inicio": "10:00",
+        "fin": "12:59",
+        "horario": "10:00-12:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "112",
         "campus": "RIO HONDO"
       }
     ]
@@ -16195,22 +16230,7 @@ let clases={
     "clave": "SDI-11561",
     "grupos": [
       {
-        "grupo": "002",
-        "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
-        "profesor": "MARCO ANTONIO MORALES AGUIRRE",
-        "creditos": "10",
-        "inicio": "15:00",
-        "fin": "16:59",
-        "horario": "15:00-16:59",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "314",
-        "campus": "RIO HONDO"
-      },
-      {
-        "grupo": "003",
+        "grupo": "001",
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
         "profesor": "SERGIO HERNANDEZ SANCHEZ",
         "creditos": "10",
@@ -16225,7 +16245,7 @@ let clases={
         "campus": "RIO HONDO"
       },
       {
-        "grupo": "004",
+        "grupo": "002",
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
         "profesor": "MARCO ANTONIO MORALES AGUIRRE",
         "creditos": "10",
@@ -16246,27 +16266,13 @@ let clases={
     "clave": "SDI-11561-LAB",
     "grupos": [
       {
-        "grupo": "002L",
+        "grupo": "001L",
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-        "profesor": "CARLOS ALBERTO MUNIVE VAZQUEZ",
+        "profesor": "SERGIO HERNANDEZ SANCHEZ",
         "creditos": "10",
-        "inicio": "17:30",
-        "fin": "19:29",
-        "horario": "17:30-19:29",
-        "dias": [
-          "MI"
-        ],
-        "salon": "LCLMP",
-        "campus": "RIO HONDO"
-      },
-      {
-        "grupo": "003L",
-        "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-        "profesor": "JOSE DE JESUS MORALES ROMERO",
-        "creditos": "10",
-        "inicio": "08:00",
-        "fin": "09:59",
-        "horario": "08:00-09:59",
+        "inicio": "13:00",
+        "fin": "14:59",
+        "horario": "13:00-14:59",
         "dias": [
           "VI"
         ],
@@ -16274,7 +16280,7 @@ let clases={
         "campus": "RIO HONDO"
       },
       {
-        "grupo": "004L",
+        "grupo": "002L",
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
         "profesor": "CARLOS ALBERTO MUNIVE VAZQUEZ",
         "creditos": "10",
@@ -16852,11 +16858,6 @@ let misProfesData={
     "general": 5.9265,
     "n": 204
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3
-  },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
     "general": 7.6774,
@@ -17064,8 +17065,8 @@ let misProfesData={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7447,
-    "n": 94
+    "general": 6.7789,
+    "n": 95
   },
   "JANKO HERNANDEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
@@ -17167,11 +17168,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -17223,9 +17219,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",

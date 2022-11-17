@@ -1,4 +1,4 @@
-let actualizado='1668603783394.0188';
+let actualizado='1668664803458.1216';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -1364,6 +1364,22 @@ let profesores={
             "MI"
           ],
           "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "CLE-10242-INGLES PARA NEGOCIOS": [
+        {
+          "grupo": "001",
+          "nombre": "CLE-10242-INGLES PARA NEGOCIOS",
+          "profesor": "TBA",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "112",
           "campus": "RIO HONDO"
         }
       ],
@@ -4172,6 +4188,23 @@ let profesores={
           "campus": "RIO HONDO"
         }
       ],
+      "COM-16203-DES. DE APLICACS. INFORMATICAS": [
+        {
+          "grupo": "001",
+          "nombre": "COM-16203-DES. DE APLICACS. INFORMATICAS",
+          "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
+          "creditos": "8",
+          "inicio": "07:00",
+          "fin": "08:59",
+          "horario": "07:00-08:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "CC202",
+          "campus": "RIO HONDO"
+        }
+      ],
       "COM-23106-MINERIA DE DATOS": [
         {
           "grupo": "001",
@@ -4254,9 +4287,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4876,9 +4906,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4906,9 +4933,9 @@ let profesores={
           "nombre": "COM-22108-MINERIA Y ANALISIS DE DATOS",
           "profesor": "EDGAR FRANCISCO ROMAN RANGEL",
           "creditos": "6",
-          "inicio": "10:30",
-          "fin": "11:59",
-          "horario": "10:30-11:59",
+          "inicio": "11:00",
+          "fin": "12:29",
+          "horario": "11:00-12:29",
           "dias": [
             "LU",
             "MI"
@@ -5062,21 +5089,6 @@ let profesores={
       "SDI-11561-PRINCIPIOS DE MECATRONICA": [
         {
           "grupo": "002",
-          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
-          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
-          "creditos": "10",
-          "inicio": "15:00",
-          "fin": "16:59",
-          "horario": "15:00-16:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "314",
-          "campus": "RIO HONDO"
-        },
-        {
-          "grupo": "004",
           "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
           "profesor": "MARCO ANTONIO MORALES AGUIRRE",
           "creditos": "10",
@@ -8781,7 +8793,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "CUBIC",
+          "salon": "314",
           "campus": "RIO HONDO"
         }
       ]
@@ -10416,9 +10428,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -11349,8 +11361,8 @@ let profesores={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7447,
-    "n": 94,
+    "general": 6.7789,
+    "n": 95,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -17718,7 +17730,7 @@ let profesores={
     "grupos": {
       "SDI-11561-PRINCIPIOS DE MECATRONICA": [
         {
-          "grupo": "003",
+          "grupo": "001",
           "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
           "profesor": "SERGIO HERNANDEZ SANCHEZ",
           "creditos": "10",
@@ -17730,6 +17742,22 @@ let profesores={
             "MI"
           ],
           "salon": "314",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
+          "profesor": "SERGIO HERNANDEZ SANCHEZ",
+          "creditos": "10",
+          "inicio": "13:00",
+          "fin": "14:59",
+          "horario": "13:00-14:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "LCLMP",
           "campus": "RIO HONDO"
         }
       ]
@@ -17754,56 +17782,6 @@ let profesores={
           ],
           "salon": "LCLMP",
           "campus": "RIO HONDO"
-        },
-        {
-          "grupo": "004L",
-          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-          "profesor": "CARLOS ALBERTO MUNIVE VAZQUEZ",
-          "creditos": "10",
-          "inicio": "17:30",
-          "fin": "19:29",
-          "horario": "17:30-19:29",
-          "dias": [
-            "MI"
-          ],
-          "salon": "LCLMP",
-          "campus": "RIO HONDO"
-        }
-      ]
-    }
-  },
-  "JOSE DE JESUS MORALES ROMERO": {
-    "grupos": {
-      "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB": [
-        {
-          "grupo": "003L",
-          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-          "profesor": "JOSE DE JESUS MORALES ROMERO",
-          "creditos": "10",
-          "inicio": "08:00",
-          "fin": "09:59",
-          "horario": "08:00-09:59",
-          "dias": [
-            "VI"
-          ],
-          "salon": "LCLMP",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
-          "profesor": "JOSE DE JESUS MORALES ROMERO",
-          "creditos": "8",
-          "inicio": "10:00",
-          "fin": "11:59",
-          "horario": "10:00-11:59",
-          "dias": [
-            "VI"
-          ],
-          "salon": "LSIST",
-          "campus": "RIO HONDO"
         }
       ]
     }
@@ -17827,6 +17805,26 @@ let profesores={
             "JU"
           ],
           "salon": "LI2",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JOSE DE JESUS MORALES ROMERO": {
+    "grupos": {
+      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
+          "profesor": "JOSE DE JESUS MORALES ROMERO",
+          "creditos": "8",
+          "inicio": "10:00",
+          "fin": "11:59",
+          "horario": "10:00-11:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "LSIST",
           "campus": "RIO HONDO"
         }
       ]
@@ -18044,9 +18042,9 @@ let mejoresPorDepto={
     "RODRIGO ZEPEDA TELLO",
     "JOSE MATUK VILLAZON",
     "LILIANA DE LA TORRE DESENTIS",
+    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
-    "TRINIDAD GONZALEZ BONILLA",
-    "ILEANA GARCIA CONDE"
+    "TRINIDAD GONZALEZ BONILLA"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
