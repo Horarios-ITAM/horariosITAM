@@ -1,4 +1,4 @@
-let actualizado='1668776583653.3667';
+let actualizado='1668837605727.7986';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -1058,7 +1058,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-13101-DESARROLLO EMPRESARIAL",
-        "profesor": "DANIELA RUIZ MASSIEU SALINAS",
+        "profesor": "TBA",
         "creditos": "6",
         "inicio": "19:00",
         "fin": "21:59",
@@ -1912,7 +1912,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "DANIELA RUIZ MASSIEU SALINAS",
+        "profesor": "TBA",
         "creditos": "6",
         "inicio": "19:00",
         "fin": "21:59",
@@ -2845,9 +2845,9 @@ let clases={
         "nombre": "CSO-14096-TECNOLOGIA, POLITICA Y GUERRA",
         "profesor": "ALEXANDRA URIBE COUGHLAN",
         "creditos": "6",
-        "inicio": "11:30",
-        "fin": "12:59",
-        "horario": "11:30-12:59",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
         "dias": [
           "LU",
           "MI"
@@ -2923,9 +2923,9 @@ let clases={
         "nombre": "CSO-15022-ELECCION PUBLICA,II",
         "profesor": "ADRIAN LUCARDI",
         "creditos": "6",
-        "inicio": "13:00",
-        "fin": "14:29",
-        "horario": "13:00-14:29",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
         "dias": [
           "LU",
           "MI"
@@ -3960,7 +3960,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "CC202",
+        "salon": "SA3",
         "campus": "RIO HONDO"
       }
     ]
@@ -6478,14 +6478,14 @@ let clases={
         "nombre": "DER-13108-BIENES Y DERECHOS REALES",
         "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
         "creditos": "6",
-        "inicio": "13:00",
-        "fin": "14:29",
-        "horario": "13:00-14:29",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "312",
+        "salon": "104",
         "campus": "RIO HONDO"
       }
     ]
@@ -6535,14 +6535,14 @@ let clases={
         "nombre": "DER-13302-BIENES Y DERECHOS REALES",
         "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
         "creditos": "6",
-        "inicio": "13:00",
-        "fin": "14:29",
-        "horario": "13:00-14:29",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "312",
+        "salon": "104",
         "campus": "RIO HONDO"
       }
     ]
@@ -18756,9 +18756,24 @@ let clases={
         "nombre": "SDI-13760-REDES DE COMPUTADORAS",
         "profesor": "WILMER EFREN PEREIRA GONZALEZ",
         "creditos": "10",
-        "inicio": "08:00",
-        "fin": "09:59",
-        "horario": "08:00-09:59",
+        "inicio": "09:00",
+        "fin": "10:59",
+        "horario": "09:00-10:59",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "301",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "SDI-13760-REDES DE COMPUTADORAS",
+        "profesor": "WILMER EFREN PEREIRA GONZALEZ",
+        "creditos": "10",
+        "inicio": "09:00",
+        "fin": "10:59",
+        "horario": "09:00-10:59",
         "dias": [
           "MA",
           "JU"
@@ -18785,6 +18800,20 @@ let clases={
         ],
         "salon": "LREDE",
         "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
+        "profesor": "JUAN MANUEL AMBRIZ GUTIERREZ",
+        "creditos": "10",
+        "inicio": "13:00",
+        "fin": "14:59",
+        "horario": "13:00-14:59",
+        "dias": [
+          "MA"
+        ],
+        "salon": "LCLMP",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -18794,6 +18823,21 @@ let clases={
     "grupos": [
       {
         "grupo": "001",
+        "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES",
+        "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
+        "creditos": "8",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "SA1",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
         "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES",
         "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
         "creditos": "8",
@@ -18826,6 +18870,20 @@ let clases={
         ],
         "salon": "LREDE",
         "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES-LAB",
+        "profesor": "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
+        "creditos": "8",
+        "inicio": "13:00",
+        "fin": "14:59",
+        "horario": "13:00-14:59",
+        "dias": [
+          "VI"
+        ],
+        "salon": "LREDE",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -18845,7 +18903,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "112",
+        "salon": "PACE",
         "campus": "RIO HONDO"
       }
     ]
@@ -18857,7 +18915,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "ENRIQUE MELROSE AGUILAR",
+        "profesor": "ENRIQUE MELROSE AGUILAR , JOSE PANTALEON DOMINGUEZ ESPONDA , ALFREDO GERARDO MARTINEZ OJEDA , JESUS ALEJANDRO ORDIERES SIERES , STEFANO STRAULINO TORRE , ALFREDO VILLAFRANCA QUINTO , ROBERTO ZOCCO",
         "creditos": "4",
         "inicio": "17:30",
         "fin": "19:29",
@@ -19495,9 +19553,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -20260,9 +20318,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
