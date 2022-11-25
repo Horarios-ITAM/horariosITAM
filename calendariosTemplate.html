@@ -1,0 +1,72 @@
+<html>
+
+<head>
+    <title>Calendarios</title>
+    <meta name="description" content="Copia de los calendarios escolares y de pagos de licenciatura del ITAM.">
+    <!--Favicon-->
+    <link rel="icon" type="image/x-icon" href="img/icon.ico">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--CSS-->
+    <link rel="stylesheet" href="style.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-07PYLHL7M4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-07PYLHL7M4');
+    </script>
+</head>
+
+<body>
+    <div id="header"></div>
+    <!--Tira verde superior-->
+    <center>
+        <br><br>
+        <div id="contenido">
+            <h1>Cache de Calendarios ITAM</h1>       
+            <p>
+                Copias de los calendarios escolares y de pagos de licenciatura. Porque la <a href='http://escolar.itam.mx/servicios_escolares/calendarios.php'
+                    target="_blank">página</a> de calendarios nunca sirve cuando más la necesitas.
+            </p>
+            <p id="cacheado">Cacheados hace <!--Actualizado-->
+            </p>
+
+            <!--Lista de links-->
+        </div>
+        <script>
+            // Regresa str con tiempo desde fecha
+            function timeSince(date) {
+                var seconds = Math.floor((new Date() - date) / 1000);
+
+                var interval = seconds / 31536000;
+
+                if (interval > 1) {
+                    return Math.floor(interval) + " año(s)";
+                }
+                interval = seconds / 2592000;
+                if (interval > 1) {
+                    return Math.floor(interval) + " mese(s)";
+                }
+                interval = seconds / 86400;
+                if (interval > 1) {
+                    return Math.floor(interval) + " día(s)";
+                }
+                interval = seconds / 3600;
+                if (interval > 1) {
+                    return Math.floor(interval) + " hora(s)";
+                }
+                interval = seconds / 60;
+                if (interval > 1) {
+                    return Math.floor(interval) + " minuto(s)";
+                }
+                return Math.floor(seconds) + " segundo(s)";
+            }
+            var cacheado =//Actualizado;
+            document.getElementById('cacheado').innerText = 'Cacheados hace ' + timeSince(new Date(parseInt(cacheado)));
+
+        </script>
+</body>
+
+</html>
