@@ -1,4 +1,4 @@
-let actualizado='1668552482776.906';
+let actualizado='1669381382857.8186';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -1175,6 +1175,38 @@ let profesores={
           "campus": "RIO HONDO"
         }
       ],
+      "ADM-13101-DESARROLLO EMPRESARIAL": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-13101-DESARROLLO EMPRESARIAL",
+          "profesor": "TBA",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "21:59",
+          "horario": "19:00-21:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "105",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "TBA",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "21:59",
+          "horario": "19:00-21:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "105",
+          "campus": "RIO HONDO"
+        }
+      ],
       "CON-11013-CONTRALORIA": [
         {
           "grupo": "001",
@@ -1317,6 +1349,22 @@ let profesores={
           "campus": "SANTA TERESA"
         }
       ],
+      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+          "profesor": "TBA",
+          "creditos": "6",
+          "inicio": "08:00",
+          "fin": "10:59",
+          "horario": "08:00-10:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
           "grupo": "007",
@@ -1364,6 +1412,22 @@ let profesores={
             "MI"
           ],
           "salon": "PB4",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "CLE-10242-INGLES PARA NEGOCIOS": [
+        {
+          "grupo": "001",
+          "nombre": "CLE-10242-INGLES PARA NEGOCIOS",
+          "profesor": "TBA",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "112",
           "campus": "RIO HONDO"
         }
       ],
@@ -1861,79 +1925,6 @@ let profesores={
       ]
     }
   },
-  "DANIELA RUIZ MASSIEU SALINAS": {
-    "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",
-    "general": 9.1364,
-    "n": 22,
-    "grupos": {
-      "ADM-13101-DESARROLLO EMPRESARIAL": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-13101-DESARROLLO EMPRESARIAL",
-          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
-          "creditos": "6",
-          "inicio": "19:00",
-          "fin": "20:29",
-          "horario": "19:00-20:29",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "303",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "ADM-13106-FINANZAS EMPRENDEDORAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
-          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
-          "creditos": "6",
-          "inicio": "17:30",
-          "fin": "18:59",
-          "horario": "17:30-18:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "303",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
-          "creditos": "6",
-          "inicio": "19:00",
-          "fin": "20:29",
-          "horario": "19:00-20:29",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "303",
-          "campus": "RIO HONDO"
-        },
-        {
-          "grupo": "004",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
-          "creditos": "6",
-          "inicio": "17:30",
-          "fin": "18:59",
-          "horario": "17:30-18:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "303",
-          "campus": "RIO HONDO"
-        }
-      ]
-    }
-  },
   "DIEGO OCEJO DEL VILLAR , DANIEL AKLE CARRANZA , MARIA ALTSCHULER DEL VALLE": {
     "grupos": {
       "ADM-13101-DESARROLLO EMPRESARIAL": [
@@ -1954,38 +1945,73 @@ let profesores={
       ]
     }
   },
-  "RAFAEL DE HARO MARTINEZ VERTIZ": {
+  "DANIELA RUIZ MASSIEU SALINAS": {
+    "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",
+    "general": 9.1364,
+    "n": 22,
     "grupos": {
       "ADM-13106-FINANZAS EMPRENDEDORAS": [
         {
-          "grupo": "002",
+          "grupo": "001",
           "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
-          "profesor": "RAFAEL DE HARO MARTINEZ VERTIZ",
+          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
           "creditos": "6",
-          "inicio": "19:00",
-          "fin": "21:59",
-          "horario": "19:00-21:59",
+          "inicio": "17:30",
+          "fin": "18:59",
+          "horario": "17:30-18:59",
           "dias": [
+            "LU",
             "MI"
           ],
-          "salon": "103",
-          "campus": "SANTA TERESA"
+          "salon": "303",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
+          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "20:29",
+          "horario": "19:00-20:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "303",
+          "campus": "RIO HONDO"
         }
       ],
       "ADM-15582-FINZS. CORPORA. AVANZADAS": [
         {
-          "grupo": "005",
+          "grupo": "004",
           "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "RAFAEL DE HARO MARTINEZ VERTIZ",
+          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
           "creditos": "6",
-          "inicio": "19:00",
-          "fin": "21:59",
-          "horario": "19:00-21:59",
+          "inicio": "17:30",
+          "fin": "18:59",
+          "horario": "17:30-18:59",
           "dias": [
+            "LU",
             "MI"
           ],
-          "salon": "103",
-          "campus": "SANTA TERESA"
+          "salon": "303",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "005",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "20:29",
+          "horario": "19:00-20:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "303",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -2603,6 +2629,22 @@ let profesores={
           "salon": "SA2",
           "campus": "RIO HONDO"
         }
+      ],
+      "ECO-14501-ECONOMIA DE LA EMPRESA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
+          "profesor": "GUILLERMO BENAVIDES PERALES",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        }
       ]
     }
   },
@@ -2770,8 +2812,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "104",
-          "campus": "RIO HONDO"
+          "salon": "103",
+          "campus": "SANTA TERESA"
         }
       ],
       "ADM-15535-DERIVADOS": [
@@ -2861,8 +2903,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "104",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "002",
@@ -2916,6 +2958,78 @@ let profesores={
           ],
           "salon": "103",
           "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "RAFAEL DE HARO MARTINEZ VERTIZ": {
+    "grupos": {
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "009",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "RAFAEL DE HARO MARTINEZ VERTIZ",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "21:59",
+          "horario": "19:00-21:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "103",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA",
+          "profesor": "RAFAEL DE HARO MARTINEZ VERTIZ",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "21:59",
+          "horario": "19:00-21:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "103",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "HERNAN FERNANDEZ LAMADRID": {
+    "grupos": {
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "010",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "HERNAN FERNANDEZ LAMADRID",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "21:59",
+          "horario": "19:00-21:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "105",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA",
+          "profesor": "HERNAN FERNANDEZ LAMADRID",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "21:59",
+          "horario": "19:00-21:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "105",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -3352,6 +3466,23 @@ let profesores={
           "salon": "106",
           "campus": "RIO HONDO"
         }
+      ],
+      "ECO-10307-JUSTICIA Y MERCADOS": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10307-JUSTICIA Y MERCADOS",
+          "profesor": "ADRIANA ALFARO ALTAMIRANO",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
       ]
     }
   },
@@ -3505,9 +3636,9 @@ let profesores={
           "nombre": "CSO-14096-TECNOLOGIA, POLITICA Y GUERRA",
           "profesor": "ALEXANDRA URIBE COUGHLAN",
           "creditos": "6",
-          "inicio": "11:30",
-          "fin": "12:59",
-          "horario": "11:30-12:59",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
           "dias": [
             "LU",
             "MI"
@@ -3753,9 +3884,9 @@ let profesores={
           "nombre": "CSO-15022-ELECCION PUBLICA,II",
           "profesor": "ADRIAN LUCARDI",
           "creditos": "6",
-          "inicio": "13:00",
-          "fin": "14:29",
-          "horario": "13:00-14:29",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
           "dias": [
             "LU",
             "MI"
@@ -4172,6 +4303,23 @@ let profesores={
           "campus": "RIO HONDO"
         }
       ],
+      "COM-16203-DES. DE APLICACS. INFORMATICAS": [
+        {
+          "grupo": "001",
+          "nombre": "COM-16203-DES. DE APLICACS. INFORMATICAS",
+          "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
+          "creditos": "8",
+          "inicio": "07:00",
+          "fin": "08:59",
+          "horario": "07:00-08:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "CC202",
+          "campus": "RIO HONDO"
+        }
+      ],
       "COM-23106-MINERIA DE DATOS": [
         {
           "grupo": "001",
@@ -4374,6 +4522,21 @@ let profesores={
       "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES": [
         {
           "grupo": "001",
+          "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES",
+          "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
+          "creditos": "8",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "SA1",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
           "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES",
           "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
           "creditos": "8",
@@ -4906,14 +5069,14 @@ let profesores={
           "nombre": "COM-22108-MINERIA Y ANALISIS DE DATOS",
           "profesor": "EDGAR FRANCISCO ROMAN RANGEL",
           "creditos": "6",
-          "inicio": "10:30",
-          "fin": "11:59",
-          "horario": "10:30-11:59",
+          "inicio": "11:00",
+          "fin": "12:29",
+          "horario": "11:00-12:29",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "CC202",
+          "salon": "SA3",
           "campus": "RIO HONDO"
         }
       ]
@@ -4983,9 +5146,24 @@ let profesores={
           "nombre": "SDI-13760-REDES DE COMPUTADORAS",
           "profesor": "WILMER EFREN PEREIRA GONZALEZ",
           "creditos": "10",
-          "inicio": "08:00",
-          "fin": "09:59",
-          "horario": "08:00-09:59",
+          "inicio": "09:00",
+          "fin": "10:59",
+          "horario": "09:00-10:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "301",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "SDI-13760-REDES DE COMPUTADORAS",
+          "profesor": "WILMER EFREN PEREIRA GONZALEZ",
+          "creditos": "10",
+          "inicio": "09:00",
+          "fin": "10:59",
+          "horario": "09:00-10:59",
           "dias": [
             "MA",
             "JU"
@@ -5074,21 +5252,6 @@ let profesores={
           ],
           "salon": "314",
           "campus": "RIO HONDO"
-        },
-        {
-          "grupo": "004",
-          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
-          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
-          "creditos": "10",
-          "inicio": "15:00",
-          "fin": "16:59",
-          "horario": "15:00-16:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "314",
-          "campus": "RIO HONDO"
         }
       ]
     }
@@ -5141,9 +5304,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6841,10 +7004,10 @@ let profesores={
           "fin": "10:59",
           "horario": "09:00-10:59",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "308",
+          "salon": "312",
           "campus": "RIO HONDO"
         }
       ]
@@ -7727,6 +7890,27 @@ let profesores={
       ]
     }
   },
+  "CHRISTOPH KARABO WINTER": {
+    "grupos": {
+      "DER-11805-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+          "profesor": "CHRISTOPH KARABO WINTER",
+          "creditos": "6",
+          "inicio": "18:00",
+          "fin": "19:29",
+          "horario": "18:00-19:29",
+          "dias": [
+            "LU",
+            "JU"
+          ],
+          "salon": "B-1",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
   "LUIS REY RAIGOSA SOTELO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Rey-Raigosa-Sotelo_10783",
     "general": 7.9412,
@@ -7918,14 +8102,14 @@ let profesores={
           "nombre": "DER-13108-BIENES Y DERECHOS REALES",
           "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
           "creditos": "6",
-          "inicio": "13:00",
-          "fin": "14:29",
-          "horario": "13:00-14:29",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "312",
+          "salon": "104",
           "campus": "RIO HONDO"
         }
       ],
@@ -7935,14 +8119,14 @@ let profesores={
           "nombre": "DER-13302-BIENES Y DERECHOS REALES",
           "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
           "creditos": "6",
-          "inicio": "13:00",
-          "fin": "14:29",
-          "horario": "13:00-14:29",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "312",
+          "salon": "104",
           "campus": "RIO HONDO"
         }
       ],
@@ -8293,6 +8477,27 @@ let profesores={
             "MI"
           ],
           "salon": "317",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JORGE ARMANDO MEDINA PE\u00d1A": {
+    "grupos": {
+      "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR": [
+        {
+          "grupo": "001",
+          "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR",
+          "profesor": "JORGE ARMANDO MEDINA PE\u00d1A",
+          "creditos": "2",
+          "inicio": "18:00",
+          "fin": "18:59",
+          "horario": "18:00-18:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "112",
           "campus": "RIO HONDO"
         }
       ]
@@ -8781,7 +8986,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "CUBIC",
+          "salon": "314",
           "campus": "RIO HONDO"
         }
       ]
@@ -9095,7 +9300,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PB3",
+          "salon": "112",
           "campus": "RIO HONDO"
         }
       ]
@@ -9389,6 +9594,2551 @@ let profesores={
           ],
           "salon": "301",
           "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "LEVENT ULKU": {
+    "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
+    "general": 7.2903,
+    "n": 31,
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "LEVENT ULKU",
+          "creditos": "6",
+          "inicio": "12:30",
+          "fin": "13:59",
+          "horario": "12:30-13:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "LEVENT ULKU",
+          "creditos": "9",
+          "inicio": "12:30",
+          "fin": "13:59",
+          "horario": "12:30-13:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-11121-MICROECONOMIA AVANZADA I": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
+          "profesor": "LEVENT ULKU",
+          "creditos": "6",
+          "inicio": "11:00",
+          "fin": "12:29",
+          "horario": "11:00-12:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "FELIPE MEZA GOIZ": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-Meza-Goiz_10761",
+    "general": 6.525,
+    "n": 40,
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "FELIPE MEZA GOIZ",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "317",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "FELIPE MEZA GOIZ",
+          "creditos": "9",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "317",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-13102-ECONOMIA INTERNACIONAL, II": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
+          "profesor": "FELIPE MEZA GOIZ",
+          "creditos": "6",
+          "inicio": "12:00",
+          "fin": "13:29",
+          "horario": "12:00-13:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "108",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JAAKKO PEKKA MERILAINEN": {
+    "link": "https://www.misprofesores.com/profesores/Jaakko-Pekka-Merilainen_137971",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "JAAKKO PEKKA MERILAINEN",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "JAAKKO PEKKA MERILAINEN",
+          "creditos": "9",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-15111-ECONOMIA POLITICA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-15111-ECONOMIA POLITICA",
+          "profesor": "JAAKKO PEKKA MERILAINEN",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
+          "dias": [
+            "MI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
+    "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
+    "general": 5.4444,
+    "n": 9,
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
+          "creditos": "9",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-20513-MICROECONOMETRIA AVANZADA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-20513-MICROECONOMETRIA AVANZADA",
+          "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
+          "creditos": "7",
+          "inicio": "14:30",
+          "fin": "17:29",
+          "horario": "14:30-17:29",
+          "dias": [
+            "LU"
+          ],
+          "salon": "ST01",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "DANIEL ISAAC CHIQUIAR CIKUREL": {
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "005",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
+          "creditos": "9",
+          "inicio": "11:00",
+          "fin": "12:29",
+          "horario": "11:00-12:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-13101-ECONOMIA INTERNACIONAL, I": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
+          "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
+    "general": 8.0,
+    "n": 14,
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "006",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+          "creditos": "9",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+          "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+          "creditos": "6",
+          "inicio": "16:00",
+          "fin": "18:59",
+          "horario": "16:00-18:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "CHRISTINA CORNEJO VAN LUIT": {
+    "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
+    "general": 9.5379,
+    "n": 145,
+    "grupos": {
+      "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
+          "profesor": "CHRISTINA CORNEJO VAN LUIT",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
+          "profesor": "CHRISTINA CORNEJO VAN LUIT",
+          "creditos": "6",
+          "inicio": "08:00",
+          "fin": "09:59",
+          "horario": "08:00-09:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "TETSUYA HOSHINO": {
+    "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
+    "general": 6.875,
+    "n": 8,
+    "grupos": {
+      "ECO-10404-METODOS MAT. APLICADOS A ECO.": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10404-METODOS MAT. APLICADOS A ECO.",
+          "profesor": "TETSUYA HOSHINO",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-21113-TEORIA DE JUEGOS": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-21113-TEORIA DE JUEGOS",
+          "profesor": "TETSUYA HOSHINO",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "108",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "ARTURO ALBERTO AGUILAR ESTEVA": {
+    "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
+    "general": 8.6429,
+    "n": 14,
+    "grupos": {
+      "ECO-10516-MICROECONOMETRIA APLICADA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10516-MICROECONOMETRIA APLICADA",
+          "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+          "creditos": "7",
+          "inicio": "17:30",
+          "fin": "18:59",
+          "horario": "17:30-18:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MAURICIO TOMAS ROMERO LONDO\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Mauricio-Tom\u00e1s-Romero-Londo\u00f1o_103678",
+    "general": 8.4545,
+    "n": 22,
+    "grupos": {
+      "ECO-10516-MICROECONOMETRIA APLICADA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-10516-MICROECONOMETRIA APLICADA",
+          "profesor": "MAURICIO TOMAS ROMERO LONDO\u00d1O",
+          "creditos": "7",
+          "inicio": "16:00",
+          "fin": "17:29",
+          "horario": "16:00-17:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-10521-INFERENCIA CAUSAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10521-INFERENCIA CAUSAL",
+          "profesor": "MAURICIO TOMAS ROMERO LONDO\u00d1O",
+          "creditos": "6",
+          "inicio": "16:00",
+          "fin": "17:29",
+          "horario": "16:00-17:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-21104-ECONOMIA IV": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-21104-ECONOMIA IV",
+          "profesor": "MAURICIO TOMAS ROMERO LONDO\u00d1O",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-21104-ECONOMIA IV-LAB": [
+        {
+          "grupo": "003L",
+          "nombre": "ECO-21104-ECONOMIA IV-LAB",
+          "profesor": "MAURICIO TOMAS ROMERO LONDO\u00d1O",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "IGNACIO NORBERTO LOBATO GARCIA MIJAN": {
+    "link": "https://www.misprofesores.com/profesores/Ignacio-Norberto-Lobato-Garc\u00eda-Mij\u00e1n_10781",
+    "general": 7.4348,
+    "n": 23,
+    "grupos": {
+      "ECO-10517-MACROECONOMETRIA APLICADA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
+          "profesor": "IGNACIO NORBERTO LOBATO GARCIA MIJAN",
+          "creditos": "7",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "317",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "EST-21104-FUNDAMENTOS DE ECONOMETRIA": [
+        {
+          "grupo": "001",
+          "nombre": "EST-21104-FUNDAMENTOS DE ECONOMETRIA",
+          "profesor": "IGNACIO NORBERTO LOBATO GARCIA MIJAN",
+          "creditos": "6",
+          "inicio": "09:30",
+          "fin": "10:59",
+          "horario": "09:30-10:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "311",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "HERNANDO CARLOS LUIS SABAU GARCIA": {
+    "grupos": {
+      "ECO-10517-MACROECONOMETRIA APLICADA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
+          "profesor": "HERNANDO CARLOS LUIS SABAU GARCIA",
+          "creditos": "7",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "317",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "ERNESTO JAVIER CORDERO ARROYO , ALEXIS CAPDEVIELLE HARRISON": {
+    "grupos": {
+      "ECO-10517-MACROECONOMETRIA APLICADA": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
+          "profesor": "ERNESTO JAVIER CORDERO ARROYO , ALEXIS CAPDEVIELLE HARRISON",
+          "creditos": "7",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "317",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "EMILIO GUTIERREZ FERNANDEZ": {
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "ECO-11101-ECONOMIA, I-LAB",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "creditos": "6",
+          "inicio": "09:00",
+          "fin": "09:59",
+          "horario": "09:00-09:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-18101-DESARROLLO ECONOMICO I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "creditos": "6",
+          "inicio": "17:30",
+          "fin": "20:29",
+          "horario": "17:30-20:29",
+          "dias": [
+            "MI"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "EMILIO GUTIERREZ FERNANDEZ , CHRISTINA CORNEJO VAN LUIT": {
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , CHRISTINA CORNEJO VAN LUIT",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "ECO-11101-ECONOMIA, I-LAB",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , CHRISTINA CORNEJO VAN LUIT",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "EMILIO GUTIERREZ FERNANDEZ , CHRISTIANE FABREGA CHIMALI": {
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , CHRISTIANE FABREGA CHIMALI",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I-LAB": [
+        {
+          "grupo": "003L",
+          "nombre": "ECO-11101-ECONOMIA, I-LAB",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , CHRISTIANE FABREGA CHIMALI",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH03",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "EMILIO GUTIERREZ FERNANDEZ , MAGDALENA SOFIA BARBA FERNANDEZ": {
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , MAGDALENA SOFIA BARBA FERNANDEZ",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I-LAB": [
+        {
+          "grupo": "004L",
+          "nombre": "ECO-11101-ECONOMIA, I-LAB",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , MAGDALENA SOFIA BARBA FERNANDEZ",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH03",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "EMILIO GUTIERREZ FERNANDEZ , GUILLERMO IGNACIO GARCIA ALCOCER": {
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "005",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , GUILLERMO IGNACIO GARCIA ALCOCER",
+          "creditos": "6",
+          "inicio": "16:00",
+          "fin": "16:59",
+          "horario": "16:00-16:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I-LAB": [
+        {
+          "grupo": "005L",
+          "nombre": "ECO-11101-ECONOMIA, I-LAB",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , GUILLERMO IGNACIO GARCIA ALCOCER",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "EMILIO GUTIERREZ FERNANDEZ , SOFIA CORONA VERDUZCO": {
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "006",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , SOFIA CORONA VERDUZCO",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I-LAB": [
+        {
+          "grupo": "006L",
+          "nombre": "ECO-11101-ECONOMIA, I-LAB",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , SOFIA CORONA VERDUZCO",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "10:59",
+          "horario": "10:00-10:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "EMILIO GUTIERREZ FERNANDEZ , ANTONIO VIVANCO CASAMADRID": {
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "007",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , ANTONIO VIVANCO CASAMADRID",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        },
+        {
+          "grupo": "008",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , ANTONIO VIVANCO CASAMADRID",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I-LAB": [
+        {
+          "grupo": "007L",
+          "nombre": "ECO-11101-ECONOMIA, I-LAB",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , ANTONIO VIVANCO CASAMADRID",
+          "creditos": "6",
+          "inicio": "08:00",
+          "fin": "08:59",
+          "horario": "08:00-08:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "008L",
+          "nombre": "ECO-11101-ECONOMIA, I-LAB",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , ANTONIO VIVANCO CASAMADRID",
+          "creditos": "6",
+          "inicio": "09:00",
+          "fin": "09:59",
+          "horario": "09:00-09:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "EMILIO GUTIERREZ FERNANDEZ , DAVID LAMB DE VALDES": {
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "009",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , DAVID LAMB DE VALDES",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "13:59",
+          "horario": "13:00-13:59",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I-LAB": [
+        {
+          "grupo": "009L",
+          "nombre": "ECO-11101-ECONOMIA, I-LAB",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ , DAVID LAMB DE VALDES",
+          "creditos": "6",
+          "inicio": "08:00",
+          "fin": "08:59",
+          "horario": "08:00-08:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "BARBARA CARRILLO FLORES": {
+    "grupos": {
+      "ECO-11103-ECONOMIA, III": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11103-ECONOMIA, III",
+          "profesor": "BARBARA CARRILLO FLORES",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-11103-ECONOMIA, III-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "ECO-11103-ECONOMIA, III-LAB",
+          "profesor": "BARBARA CARRILLO FLORES",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-21103-ECONOMIA III": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-21103-ECONOMIA III",
+          "profesor": "BARBARA CARRILLO FLORES",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-21103-ECONOMIA III-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "ECO-21103-ECONOMIA III-LAB",
+          "profesor": "BARBARA CARRILLO FLORES",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "GUILLERMO IGNACIO GARCIA ALCOCER": {
+    "grupos": {
+      "ECO-11103-ECONOMIA, III": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11103-ECONOMIA, III",
+          "profesor": "GUILLERMO IGNACIO GARCIA ALCOCER",
+          "creditos": "6",
+          "inicio": "17:30",
+          "fin": "18:59",
+          "horario": "17:30-18:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-11103-ECONOMIA, III-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "ECO-11103-ECONOMIA, III-LAB",
+          "profesor": "GUILLERMO IGNACIO GARCIA ALCOCER",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "SOFIA CORONA VERDUZCO": {
+    "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
+    "general": 9.7143,
+    "n": 7,
+    "grupos": {
+      "ECO-11103-ECONOMIA, III": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-11103-ECONOMIA, III",
+          "profesor": "SOFIA CORONA VERDUZCO",
+          "creditos": "6",
+          "inicio": "11:00",
+          "fin": "12:29",
+          "horario": "11:00-12:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-11103-ECONOMIA, III-LAB": [
+        {
+          "grupo": "003L",
+          "nombre": "ECO-11103-ECONOMIA, III-LAB",
+          "profesor": "SOFIA CORONA VERDUZCO",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "MARTA ROBLES CARTES": {
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "ECO-11104-ECONOMIA, IV": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11104-ECONOMIA, IV",
+          "profesor": "MARTA ROBLES CARTES",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ECO-11104-ECONOMIA, IV",
+          "profesor": "MARTA ROBLES CARTES",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-11104-ECONOMIA, IV-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "ECO-11104-ECONOMIA, IV-LAB",
+          "profesor": "MARTA ROBLES CARTES",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        },
+        {
+          "grupo": "002L",
+          "nombre": "ECO-11104-ECONOMIA, IV-LAB",
+          "profesor": "MARTA ROBLES CARTES",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-21103-ECONOMIA III": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-21103-ECONOMIA III",
+          "profesor": "MARTA ROBLES CARTES",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "004",
+          "nombre": "ECO-21103-ECONOMIA III",
+          "profesor": "MARTA ROBLES CARTES",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-21103-ECONOMIA III-LAB": [
+        {
+          "grupo": "003L",
+          "nombre": "ECO-21103-ECONOMIA III-LAB",
+          "profesor": "MARTA ROBLES CARTES",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        },
+        {
+          "grupo": "004L",
+          "nombre": "ECO-21103-ECONOMIA III-LAB",
+          "profesor": "MARTA ROBLES CARTES",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "MENEY DE LA PEZA GANDARA": {
+    "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
+    "general": 8.6667,
+    "n": 6,
+    "grupos": {
+      "ECO-11104-ECONOMIA, IV": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-11104-ECONOMIA, IV",
+          "profesor": "MENEY DE LA PEZA GANDARA",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-11104-ECONOMIA, IV-LAB": [
+        {
+          "grupo": "003L",
+          "nombre": "ECO-11104-ECONOMIA, IV-LAB",
+          "profesor": "MENEY DE LA PEZA GANDARA",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-14303-ECONOMIA DE LA REGULACION": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14303-ECONOMIA DE LA REGULACION",
+          "profesor": "MENEY DE LA PEZA GANDARA",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "108",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "XINYANG WANG": {
+    "link": "https://www.misprofesores.com/profesores/Xinyang-Wang_122989",
+    "general": 7.3,
+    "n": 10,
+    "grupos": {
+      "ECO-11121-MICROECONOMIA AVANZADA I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
+          "profesor": "XINYANG WANG",
+          "creditos": "6",
+          "inicio": "17:00",
+          "fin": "19:59",
+          "horario": "17:00-19:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR",
+          "profesor": "XINYANG WANG",
+          "creditos": "6",
+          "inicio": "10:30",
+          "fin": "13:29",
+          "horario": "10:30-13:29",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ST01",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "ANDREY GOMBERG": {
+    "link": "https://www.misprofesores.com/profesores/Andrei-Gomberg_10762",
+    "general": 6.1111,
+    "n": 36,
+    "grupos": {
+      "ECO-11121-MICROECONOMIA AVANZADA I": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
+          "profesor": "ANDREY GOMBERG",
+          "creditos": "6",
+          "inicio": "15:30",
+          "fin": "16:59",
+          "horario": "15:30-16:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-15111-ECONOMIA POLITICA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15111-ECONOMIA POLITICA",
+          "profesor": "ANDREY GOMBERG",
+          "creditos": "6",
+          "inicio": "17:30",
+          "fin": "18:59",
+          "horario": "17:30-18:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "TRIDIB SHARMA": {
+    "link": "https://www.misprofesores.com/profesores/Tridib-Sharma_10768",
+    "general": 6.9667,
+    "n": 30,
+    "grupos": {
+      "ECO-11122-MICROECONOMIA AVANZADA II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
+          "profesor": "TRIDIB SHARMA",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
+          "profesor": "TRIDIB SHARMA",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "KANISKA DAM": {
+    "grupos": {
+      "ECO-11122-MICROECONOMIA AVANZADA II": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
+          "profesor": "KANISKA DAM",
+          "creditos": "6",
+          "inicio": "09:00",
+          "fin": "11:59",
+          "horario": "09:00-11:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-11227-DISE\u00d1O DE MERCADOS": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
+          "profesor": "KANISKA DAM",
+          "creditos": "6",
+          "inicio": "09:00",
+          "fin": "11:59",
+          "horario": "09:00-11:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "JOSE MANUEL LECUANDA ONTIVEROS": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Lecuanda-Ontiveros_86804",
+    "general": 8.2424,
+    "n": 33,
+    "grupos": {
+      "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
+          "profesor": "JOSE MANUEL LECUANDA ONTIVEROS",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "GUILLERMO ZAMARRIPA ESCAMILLA": {
+    "link": "https://www.misprofesores.com/profesores/Guillermo-Zamarripa-Escamilla_37101",
+    "general": 7.2222,
+    "n": 9,
+    "grupos": {
+      "ECO-11231-ECONOMIA DE LA CONDUCTA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11231-ECONOMIA DE LA CONDUCTA",
+          "profesor": "GUILLERMO ZAMARRIPA ESCAMILLA",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "CHRISTIANE FABREGA CHIMALI": {
+    "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
+    "general": 8.7982,
+    "n": 114,
+    "grupos": {
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "CHRISTIANE FABREGA CHIMALI",
+          "creditos": "6",
+          "inicio": "09:30",
+          "fin": "10:59",
+          "horario": "09:30-10:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "CHRISTIANE FABREGA CHIMALI",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "ECO-12102-ECONOMIA, II-LAB",
+          "profesor": "CHRISTIANE FABREGA CHIMALI",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        },
+        {
+          "grupo": "002L",
+          "nombre": "ECO-12102-ECONOMIA, II-LAB",
+          "profesor": "CHRISTIANE FABREGA CHIMALI",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "JOSE MARIA DA ROCHA ALVAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Maria-Da-Rocha-Alvarez_68162",
+    "general": 4.0,
+    "n": 10,
+    "grupos": {
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "JOSE MARIA DA ROCHA ALVAREZ",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II-LAB": [
+        {
+          "grupo": "003L",
+          "nombre": "ECO-12102-ECONOMIA, II-LAB",
+          "profesor": "JOSE MARIA DA ROCHA ALVAREZ",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "VALERIA MOY CAMPOS": {
+    "grupos": {
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "VALERIA MOY CAMPOS",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II-LAB": [
+        {
+          "grupo": "004L",
+          "nombre": "ECO-12102-ECONOMIA, II-LAB",
+          "profesor": "VALERIA MOY CAMPOS",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "RODRIGO SANCHEZ GAVITO PORTILLA": {
+    "grupos": {
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "005",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "RODRIGO SANCHEZ GAVITO PORTILLA",
+          "creditos": "6",
+          "inicio": "09:00",
+          "fin": "10:29",
+          "horario": "09:00-10:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH03",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II-LAB": [
+        {
+          "grupo": "005L",
+          "nombre": "ECO-12102-ECONOMIA, II-LAB",
+          "profesor": "RODRIGO SANCHEZ GAVITO PORTILLA",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "ERNESTO BLANCAS BARRAGAN": {
+    "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
+    "general": 5.5,
+    "n": 2,
+    "grupos": {
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "006",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "ERNESTO BLANCAS BARRAGAN",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "08:29",
+          "horario": "07:00-08:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II-LAB": [
+        {
+          "grupo": "006L",
+          "nombre": "ECO-12102-ECONOMIA, II-LAB",
+          "profesor": "ERNESTO BLANCAS BARRAGAN",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "ISAAC GUZMAN VALDIVIA TOVAR": {
+    "link": "https://www.misprofesores.com/profesores/Isaac-Guzman-Valdivia-Tovar_109516",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "007",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "ISAAC GUZMAN VALDIVIA TOVAR",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II-LAB": [
+        {
+          "grupo": "007L",
+          "nombre": "ECO-12102-ECONOMIA, II-LAB",
+          "profesor": "ISAAC GUZMAN VALDIVIA TOVAR",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-18300-CRECIMIENTO ECONOMICO": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-18300-CRECIMIENTO ECONOMICO",
+          "profesor": "ISAAC GUZMAN VALDIVIA TOVAR",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "317",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MISHELLE LISSETTE SEGUI PEREZ": {
+    "grupos": {
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "008",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "MISHELLE LISSETTE SEGUI PEREZ",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II-LAB": [
+        {
+          "grupo": "008L",
+          "nombre": "ECO-12102-ECONOMIA, II-LAB",
+          "profesor": "MISHELLE LISSETTE SEGUI PEREZ",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "LAURA NAOMI DUE\u00d1AS TAKANE": {
+    "grupos": {
+      "ECO-12105-ECONOMIA, V": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12105-ECONOMIA, V",
+          "profesor": "LAURA NAOMI DUE\u00d1AS TAKANE",
+          "creditos": "6",
+          "inicio": "18:00",
+          "fin": "20:59",
+          "horario": "18:00-20:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-12133-MACROECONOMIA INTERMEDIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
+          "profesor": "LAURA NAOMI DUE\u00d1AS TAKANE",
+          "creditos": "6",
+          "inicio": "18:00",
+          "fin": "20:59",
+          "horario": "18:00-20:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MIGUEL MESSMACHER LINARTAS": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-Messmacher-Linartas_118897",
+    "general": 9.0,
+    "n": 3,
+    "grupos": {
+      "ECO-12121-MACROECONOMIA AVANZADA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
+          "profesor": "MIGUEL MESSMACHER LINARTAS",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "108",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
+    "grupos": {
+      "ECO-12121-MACROECONOMIA AVANZADA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
+          "profesor": "JORGE ALONSO ORTIZ",
+          "creditos": "6",
+          "inicio": "12:00",
+          "fin": "13:29",
+          "horario": "12:00-13:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-22105-ECONOMIA V": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-22105-ECONOMIA V",
+          "profesor": "JORGE ALONSO ORTIZ",
+          "creditos": "8",
+          "inicio": "10:00",
+          "fin": "11:59",
+          "horario": "10:00-11:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-22105-ECONOMIA V-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "ECO-22105-ECONOMIA V-LAB",
+          "profesor": "JORGE ALONSO ORTIZ",
+          "creditos": "8",
+          "inicio": "11:00",
+          "fin": "13:59",
+          "horario": "11:00-13:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "CARLOS ENRIQUE ISOARD Y VIESCA": {
+    "grupos": {
+      "ECO-12201-TEORIA Y POLITICA MONETARIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+          "profesor": "CARLOS ENRIQUE ISOARD Y VIESCA",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JULIO ARTURO CARRILLO ABREGO": {
+    "grupos": {
+      "ECO-12201-TEORIA Y POLITICA MONETARIA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+          "profesor": "JULIO ARTURO CARRILLO ABREGO",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "JU"
+          ],
+          "salon": "108",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "TIAGO GOMES DA SILVA TAVARES": {
+    "link": "https://www.misprofesores.com/profesores/Tiago-Gomes-da-Silva-Tavares_94106",
+    "general": 6.8824,
+    "n": 17,
+    "grupos": {
+      "ECO-13101-ECONOMIA INTERNACIONAL, I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
+          "profesor": "TIAGO GOMES DA SILVA TAVARES",
+          "creditos": "6",
+          "inicio": "17:30",
+          "fin": "18:59",
+          "horario": "17:30-18:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
+          "profesor": "TIAGO GOMES DA SILVA TAVARES",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "20:29",
+          "horario": "19:00-20:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "CARLOS ERNESTO URRUTIA VILLALOBOS": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
+    "general": 8.3636,
+    "n": 22,
+    "grupos": {
+      "ECO-13102-ECONOMIA INTERNACIONAL, II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
+          "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-22112-MACROECONOM\u00cdA DIN\u00c1MICA I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-22112-MACROECONOM\u00cdA DIN\u00c1MICA I",
+          "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH03",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JOSE CARLOS FEMAT ROMERO": {
+    "grupos": {
+      "ECO-14207-ANAL. ECONOMICO DEL DERECHO I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14207-ANAL. ECONOMICO DEL DERECHO I",
+          "profesor": "JOSE CARLOS FEMAT ROMERO",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JOYCE CAROL SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.96,
+    "n": 50,
+    "grupos": {
+      "ECO-14208-ANAL. ECON. DEL DER. II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
+          "profesor": "JOYCE CAROL SADKA",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "08:29",
+          "horario": "07:00-08:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "SHAUN DAVID MCRAE": {
+    "grupos": {
+      "ECO-14301-ORGANIZACION INDUSTRIAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "SHAUN DAVID MCRAE",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "SHAUN DAVID MCRAE",
+          "creditos": "6",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JOSE RODRIGO SIRVENT BRAVO AHUJA": {
+    "grupos": {
+      "ECO-14301-ORGANIZACION INDUSTRIAL": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "JOSE RODRIGO SIRVENT BRAVO AHUJA",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "08:29",
+          "horario": "07:00-08:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "ARTURO RAMIREZ VERDUGO": {
+    "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
+    "general": 7.3667,
+    "n": 30,
+    "grupos": {
+      "ECO-15101-FINANZAS PUBLICAS": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15101-FINANZAS PUBLICAS",
+          "profesor": "ARTURO RAMIREZ VERDUGO",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "RICARDO SERGIO FADL KURI": {
+    "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
+    "general": 7.2258,
+    "n": 31,
+    "grupos": {
+      "ECO-15101-FINANZAS PUBLICAS": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-15101-FINANZAS PUBLICAS",
+          "profesor": "RICARDO SERGIO FADL KURI",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "317",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+          "profesor": "RICARDO SERGIO FADL KURI",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "108",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "REYES RUIZ GONZALEZ": {
+    "grupos": {
+      "ECO-15101-FINANZAS PUBLICAS": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-15101-FINANZAS PUBLICAS",
+          "profesor": "REYES RUIZ GONZALEZ",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JOSE EFRAIN GALA PALACIOS": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Efrain-Gala-Palacios_22831",
+    "general": 8.0789,
+    "n": 38,
+    "grupos": {
+      "ECO-15110-EVALUACION DE PROYECTOS": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15110-EVALUACION DE PROYECTOS",
+          "profesor": "JOSE EFRAIN GALA PALACIOS",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "FELIX VELEZ FERNANDEZ VARELA": {
+    "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
+    "general": 6.1304,
+    "n": 23,
+    "grupos": {
+      "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
+          "profesor": "FELIX VELEZ FERNANDEZ VARELA",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "317",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-18101-DESARROLLO ECONOMICO I": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+          "profesor": "FELIX VELEZ FERNANDEZ VARELA",
+          "creditos": "6",
+          "inicio": "19:00",
+          "fin": "20:29",
+          "horario": "19:00-20:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MARISOL LOPEZ ROMERO": {
+    "link": "https://www.misprofesores.com/profesores/Marisol-Lopez-Romero_107554",
+    "general": 6.3,
+    "n": 10,
+    "grupos": {
+      "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
+          "profesor": "MARISOL LOPEZ ROMERO",
+          "creditos": "6",
+          "inicio": "17:30",
+          "fin": "18:59",
+          "horario": "17:30-18:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "113",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "ERNESTO PIEDRAS FERIA": {
+    "link": "https://www.misprofesores.com/profesores/Ernesto-Piedras-Feria_74696",
+    "general": 7.0,
+    "n": 9,
+    "grupos": {
+      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+          "profesor": "ERNESTO PIEDRAS FERIA",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "108",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-18212-ECO. DIGITAL Y DE LAS TELECOM.": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18212-ECO. DIGITAL Y DE LAS TELECOM.",
+          "profesor": "ERNESTO PIEDRAS FERIA",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "09:59",
+          "horario": "07:00-09:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "MANETT ROCIO VARGAS GARCIA": {
+    "grupos": {
+      "ECO-18101-DESARROLLO ECONOMICO I": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+          "profesor": "MANETT ROCIO VARGAS GARCIA",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "RAUL ALEJANDRO LIVAS ELIZONDO , JESUS PUENTE TREVI\u00d1O": {
+    "grupos": {
+      "ECO-18300-CRECIMIENTO ECONOMICO": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18300-CRECIMIENTO ECONOMICO",
+          "profesor": "RAUL ALEJANDRO LIVAS ELIZONDO , JESUS PUENTE TREVI\u00d1O",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "CLAUDIA ABURTO RANCA\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
+    "general": 8.9324,
+    "n": 74,
+    "grupos": {
+      "ECO-21103-ECONOMIA III": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-21103-ECONOMIA III",
+          "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+          "creditos": "6",
+          "inicio": "08:00",
+          "fin": "09:59",
+          "horario": "08:00-09:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "103",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-21103-ECONOMIA III-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "ECO-21103-ECONOMIA III-LAB",
+          "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "14:29",
+          "horario": "13:00-14:29",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
+    "general": 6.7374,
+    "n": 99,
+    "grupos": {
+      "ECO-21104-ECONOMIA IV": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-21104-ECONOMIA IV",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "6",
+          "inicio": "08:00",
+          "fin": "09:29",
+          "horario": "08:00-09:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "109",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ECO-21104-ECONOMIA IV",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "6",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "101",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-21104-ECONOMIA IV-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "ECO-21104-ECONOMIA IV-LAB",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        },
+        {
+          "grupo": "002L",
+          "nombre": "ECO-21104-ECONOMIA IV-LAB",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "6",
+          "inicio": "14:30",
+          "fin": "15:59",
+          "horario": "14:30-15:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
+    "grupos": {
+      "ECO-22105-ECONOMIA V": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-22105-ECONOMIA V",
+          "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+          "creditos": "8",
+          "inicio": "09:30",
+          "fin": "11:29",
+          "horario": "09:30-11:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ],
+      "ECO-22105-ECONOMIA V-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "ECO-22105-ECONOMIA V-LAB",
+          "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+          "creditos": "8",
+          "inicio": "11:00",
+          "fin": "13:59",
+          "horario": "11:00-13:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
+        }
+      ]
+    }
+  },
+  "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO": {
+    "link": "https://www.misprofesores.com/profesores/HUGO-ALEJANDRO-GARDU\u00d1O-ARREDONDO_103934",
+    "general": 8.6667,
+    "n": 3,
+    "grupos": {
+      "ECO-22105-ECONOMIA V": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-22105-ECONOMIA V",
+          "profesor": "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+          "creditos": "8",
+          "inicio": "07:00",
+          "fin": "08:59",
+          "horario": "07:00-08:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "110",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "ECO-22105-ECONOMIA V-LAB": [
+        {
+          "grupo": "003L",
+          "nombre": "ECO-22105-ECONOMIA V-LAB",
+          "profesor": "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+          "creditos": "8",
+          "inicio": "11:00",
+          "fin": "13:59",
+          "horario": "11:00-13:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "TBA",
+          "campus": "SANTA TERESA"
         }
       ]
     }
@@ -10576,30 +13326,6 @@ let profesores={
       ]
     }
   },
-  "IGNACIO NORBERTO LOBATO GARCIA MIJAN": {
-    "link": "https://www.misprofesores.com/profesores/Ignacio-Norberto-Lobato-Garc\u00eda-Mij\u00e1n_10781",
-    "general": 7.4348,
-    "n": 23,
-    "grupos": {
-      "EST-21104-FUNDAMENTOS DE ECONOMETRIA": [
-        {
-          "grupo": "001",
-          "nombre": "EST-21104-FUNDAMENTOS DE ECONOMETRIA",
-          "profesor": "IGNACIO NORBERTO LOBATO GARCIA MIJAN",
-          "creditos": "6",
-          "inicio": "09:30",
-          "fin": "10:59",
-          "horario": "09:30-10:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "311",
-          "campus": "RIO HONDO"
-        }
-      ]
-    }
-  },
   "JORGE FRANCISCO DE LA VEGA GONGORA": {
     "grupos": {
       "EST-24101-ESTADISTICA NO PARAMETRICA": [
@@ -10764,8 +13490,8 @@ let profesores={
   },
   "ROBERTO ZOCCO": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Zocco-Pasimeni_35000",
-    "general": 8.8571,
-    "n": 105,
+    "general": 8.8679,
+    "n": 106,
     "grupos": {
       "EGN-11164-EL ARTE DE VIVIR": [
         {
@@ -11349,8 +14075,8 @@ let profesores={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7447,
-    "n": 94,
+    "general": 6.7789,
+    "n": 95,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -11529,8 +14255,8 @@ let profesores={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 8.2647,
-    "n": 34,
+    "general": 8.2,
+    "n": 35,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12098,8 +14824,8 @@ let profesores={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 9.125,
-    "n": 16,
+    "general": 8.5,
+    "n": 18,
     "grupos": {
       "EIN-11101-INT. A LAS R. INTERNACIONALES": [
         {
@@ -12770,38 +15496,6 @@ let profesores={
           "salon": "PACE",
           "campus": "RIO HONDO"
         }
-      ],
-      "IIO-16180-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-          "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
-          "creditos": "6",
-          "inicio": "16:00",
-          "fin": "17:29",
-          "horario": "16:00-17:29",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "309",
-          "campus": "RIO HONDO"
-        },
-        {
-          "grupo": "002",
-          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-          "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
-          "creditos": "6",
-          "inicio": "17:30",
-          "fin": "18:59",
-          "horario": "17:30-18:59",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "B-5",
-          "campus": "RIO HONDO"
-        }
       ]
     }
   },
@@ -13235,6 +15929,48 @@ let profesores={
             "MI"
           ],
           "salon": "LMINT",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MIGUEL FRANCISCO DE LASCURAIN MORHAN , JOSE PANTALEON DOMINGUEZ ESPONDA , JESUS ALEJANDRO ORDIERES SIERES , STEFANO STRAULINO TORRE , ALFREDO VILLAFRANCA QUINTO , ROBERTO ZOCCO": {
+    "grupos": {
+      "IIO-16180-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
+          "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN , JOSE PANTALEON DOMINGUEZ ESPONDA , JESUS ALEJANDRO ORDIERES SIERES , STEFANO STRAULINO TORRE , ALFREDO VILLAFRANCA QUINTO , ROBERTO ZOCCO",
+          "creditos": "6",
+          "inicio": "16:00",
+          "fin": "17:29",
+          "horario": "16:00-17:29",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "309",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "MIGUEL FRANCISCO DE LASCURAIN MORHAN , JOSE PANTALEON DOMINGUEZ ESPONDA , ALFREDO GERARDO MARTINEZ OJEDA , JESUS ALEJANDRO ORDIERES SIERES , STEFANO STRAULINO TORRE , ALFREDO VILLAFRANCA QUINTO , ROBERTO ZOCCO": {
+    "grupos": {
+      "IIO-16180-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "002",
+          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
+          "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN , JOSE PANTALEON DOMINGUEZ ESPONDA , ALFREDO GERARDO MARTINEZ OJEDA , JESUS ALEJANDRO ORDIERES SIERES , STEFANO STRAULINO TORRE , ALFREDO VILLAFRANCA QUINTO , ROBERTO ZOCCO",
+          "creditos": "6",
+          "inicio": "17:30",
+          "fin": "18:59",
+          "horario": "17:30-18:59",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "B-5",
           "campus": "RIO HONDO"
         }
       ]
@@ -14718,9 +17454,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16129,8 +18865,8 @@ let profesores={
   },
   "PAVEL REAL PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
-    "general": 9.4444,
-    "n": 18,
+    "general": 9.4737,
+    "n": 19,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -17718,7 +20454,7 @@ let profesores={
     "grupos": {
       "SDI-11561-PRINCIPIOS DE MECATRONICA": [
         {
-          "grupo": "003",
+          "grupo": "001",
           "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
           "profesor": "SERGIO HERNANDEZ SANCHEZ",
           "creditos": "10",
@@ -17730,6 +20466,22 @@ let profesores={
             "MI"
           ],
           "salon": "314",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
+          "profesor": "SERGIO HERNANDEZ SANCHEZ",
+          "creditos": "10",
+          "inicio": "13:00",
+          "fin": "14:59",
+          "horario": "13:00-14:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "LCLMP",
           "campus": "RIO HONDO"
         }
       ]
@@ -17754,56 +20506,6 @@ let profesores={
           ],
           "salon": "LCLMP",
           "campus": "RIO HONDO"
-        },
-        {
-          "grupo": "004L",
-          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-          "profesor": "CARLOS ALBERTO MUNIVE VAZQUEZ",
-          "creditos": "10",
-          "inicio": "17:30",
-          "fin": "19:29",
-          "horario": "17:30-19:29",
-          "dias": [
-            "MI"
-          ],
-          "salon": "LCLMP",
-          "campus": "RIO HONDO"
-        }
-      ]
-    }
-  },
-  "JOSE DE JESUS MORALES ROMERO": {
-    "grupos": {
-      "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB": [
-        {
-          "grupo": "003L",
-          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-          "profesor": "JOSE DE JESUS MORALES ROMERO",
-          "creditos": "10",
-          "inicio": "08:00",
-          "fin": "09:59",
-          "horario": "08:00-09:59",
-          "dias": [
-            "VI"
-          ],
-          "salon": "LCLMP",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
-          "profesor": "JOSE DE JESUS MORALES ROMERO",
-          "creditos": "8",
-          "inicio": "10:00",
-          "fin": "11:59",
-          "horario": "10:00-11:59",
-          "dias": [
-            "VI"
-          ],
-          "salon": "LSIST",
-          "campus": "RIO HONDO"
         }
       ]
     }
@@ -17827,6 +20529,26 @@ let profesores={
             "JU"
           ],
           "salon": "LI2",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "JOSE DE JESUS MORALES ROMERO": {
+    "grupos": {
+      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
+          "profesor": "JOSE DE JESUS MORALES ROMERO",
+          "creditos": "8",
+          "inicio": "10:00",
+          "fin": "11:59",
+          "horario": "10:00-11:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "LSIST",
           "campus": "RIO HONDO"
         }
       ]
@@ -17875,6 +20597,26 @@ let profesores={
       ]
     }
   },
+  "JUAN MANUEL AMBRIZ GUTIERREZ": {
+    "grupos": {
+      "SDI-13760-REDES DE COMPUTADORAS-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
+          "profesor": "JUAN MANUEL AMBRIZ GUTIERREZ",
+          "creditos": "10",
+          "inicio": "13:00",
+          "fin": "14:59",
+          "horario": "13:00-14:59",
+          "dias": [
+            "MA"
+          ],
+          "salon": "LCLMP",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
   "FRANCISCO JAVIER DEL OLMO HERNANDEZ": {
     "grupos": {
       "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES-LAB": [
@@ -17888,6 +20630,20 @@ let profesores={
           "horario": "07:00-08:59",
           "dias": [
             "MI"
+          ],
+          "salon": "LREDE",
+          "campus": "RIO HONDO"
+        },
+        {
+          "grupo": "002L",
+          "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES-LAB",
+          "profesor": "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
+          "creditos": "8",
+          "inicio": "13:00",
+          "fin": "14:59",
+          "horario": "13:00-14:59",
+          "dias": [
+            "VI"
           ],
           "salon": "LREDE",
           "campus": "RIO HONDO"
@@ -17913,15 +20669,19 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "112",
+          "salon": "PACE",
           "campus": "RIO HONDO"
         }
-      ],
+      ]
+    }
+  },
+  "ENRIQUE MELROSE AGUILAR , JOSE PANTALEON DOMINGUEZ ESPONDA , ALFREDO GERARDO MARTINEZ OJEDA , JESUS ALEJANDRO ORDIERES SIERES , STEFANO STRAULINO TORRE , ALFREDO VILLAFRANCA QUINTO , ROBERTO ZOCCO": {
+    "grupos": {
       "SDI-15816-SEMINARIO DE TITULACION": [
         {
           "grupo": "001",
           "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-          "profesor": "ENRIQUE MELROSE AGUILAR",
+          "profesor": "ENRIQUE MELROSE AGUILAR , JOSE PANTALEON DOMINGUEZ ESPONDA , ALFREDO GERARDO MARTINEZ OJEDA , JESUS ALEJANDRO ORDIERES SIERES , STEFANO STRAULINO TORRE , ALFREDO VILLAFRANCA QUINTO , ROBERTO ZOCCO",
           "creditos": "4",
           "inicio": "17:30",
           "fin": "19:29",
@@ -17954,6 +20714,26 @@ let profesores={
             "MI"
           ],
           "salon": "CC202",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "ERNESTO PIEDRAS FERIA , GONZALO ROJON GONZALEZ": {
+    "grupos": {
+      "SDI-25996-ECONOMIA DE LAS TELECOMUNICACS": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-25996-ECONOMIA DE LAS TELECOMUNICACS",
+          "profesor": "ERNESTO PIEDRAS FERIA , GONZALO ROJON GONZALEZ",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "08:59",
+          "horario": "07:00-08:59",
+          "dias": [
+            "VI"
+          ],
+          "salon": "301",
           "campus": "RIO HONDO"
         }
       ]
@@ -18036,6 +20816,18 @@ let mejoresPorDepto={
     "CARLOS EDUARDO SCHLESKE JUAREZ",
     "MARIANA CALDERON ARAMBURU"
   ],
+  "ECONOMIA": [
+    "JAAKKO PEKKA MERILAINEN",
+    "MARTA ROBLES CARTES",
+    "ISAAC GUZMAN VALDIVIA TOVAR",
+    "SOFIA CORONA VERDUZCO",
+    "CHRISTINA CORNEJO VAN LUIT",
+    "MIGUEL MESSMACHER LINARTAS",
+    "CLAUDIA ABURTO RANCA\u00d1O",
+    "CHRISTIANE FABREGA CHIMALI",
+    "MENEY DE LA PEZA GANDARA",
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
+  ],
   "ESTADISTICA": [
     "HUGO CUEVAS BRAVO",
     "ERIKA BURGOS PADILLA",
@@ -18052,8 +20844,8 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "DAVID MORENO GUINEA",
     "ALFREDO VILLAFRANCA QUINTO",
+    "DAVID MORENO GUINEA",
     "STEFANO STRAULINO TORRE",
     "JOSE PANTALEON DOMINGUEZ ESPONDA",
     "PAVEL JIMENEZ VAZQUEZ",
