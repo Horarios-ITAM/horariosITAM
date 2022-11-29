@@ -1,4 +1,4 @@
-let actualizado='1669640584261.2087';
+let actualizado='1669701606060.047';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -506,9 +506,9 @@ let clases={
         "nombre": "ADM-11017-METODOS DE PRONOSTICO",
         "profesor": "JULIETA MARIA SARRALDE VERA",
         "creditos": "7",
-        "inicio": "12:00",
+        "inicio": "11:30",
         "fin": "13:29",
-        "horario": "12:00-13:29",
+        "horario": "11:30-13:29",
         "dias": [
           "MA"
         ],
@@ -555,8 +555,8 @@ let clases={
         "profesor": "JULIETA MARIA SARRALDE VERA",
         "creditos": "7",
         "inicio": "12:00",
-        "fin": "13:59",
-        "horario": "12:00-13:59",
+        "fin": "13:29",
+        "horario": "12:00-13:29",
         "dias": [
           "JU"
         ],
@@ -622,9 +622,9 @@ let clases={
         "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
         "profesor": "JULIETA MARIA SARRALDE VERA",
         "creditos": "7",
-        "inicio": "12:00",
+        "inicio": "11:30",
         "fin": "13:29",
-        "horario": "12:00-13:29",
+        "horario": "11:30-13:29",
         "dias": [
           "MA"
         ],
@@ -671,8 +671,8 @@ let clases={
         "profesor": "JULIETA MARIA SARRALDE VERA",
         "creditos": "7",
         "inicio": "12:00",
-        "fin": "13:59",
-        "horario": "12:00-13:59",
+        "fin": "13:29",
+        "horario": "12:00-13:29",
         "dias": [
           "JU"
         ],
@@ -1058,7 +1058,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-13101-DESARROLLO EMPRESARIAL",
-        "profesor": "TBA",
+        "profesor": "ANGEL JULIAN SARMIENTO HINOJOSA , IVAN CANALES SALDA\u00d1A , RAFAEL SAMRA ATACH",
         "creditos": "6",
         "inicio": "19:00",
         "fin": "21:59",
@@ -1708,7 +1708,7 @@ let clases={
         "fin": "09:59",
         "horario": "07:00-09:59",
         "dias": [
-          "LU"
+          "JU"
         ],
         "salon": "SA2",
         "campus": "RIO HONDO"
@@ -1722,9 +1722,9 @@ let clases={
         "fin": "12:59",
         "horario": "10:00-12:59",
         "dias": [
-          "LU"
+          "JU"
         ],
-        "salon": "B-4",
+        "salon": "SA3",
         "campus": "RIO HONDO"
       }
     ]
@@ -1912,7 +1912,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "TBA",
+        "profesor": "ANGEL JULIAN SARMIENTO HINOJOSA , IVAN CANALES SALDA\u00d1A , RAFAEL SAMRA ATACH",
         "creditos": "6",
         "inicio": "19:00",
         "fin": "21:59",
@@ -2123,6 +2123,26 @@ let clases={
         ],
         "salon": "103",
         "campus": "SANTA TERESA"
+      }
+    ]
+  },
+  "ADM-15610": {
+    "nombre": "ADM-15610-INV.  EN ACTIVOS ALTERNATIVOS",
+    "clave": "ADM-15610",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-15610-INV.  EN ACTIVOS ALTERNATIVOS",
+        "profesor": "JOSE LUIS BOLA\u00d1OS FLORES , MOISES EDUARDO RAMOS DE LA CAJIGA",
+        "creditos": "6",
+        "inicio": "19:00",
+        "fin": "21:59",
+        "horario": "19:00-21:59",
+        "dias": [
+          "JU"
+        ],
+        "salon": "104",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -2678,10 +2698,10 @@ let clases={
         "fin": "11:29",
         "horario": "10:00-11:29",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "106",
+        "salon": "LI1",
         "campus": "RIO HONDO"
       },
       {
@@ -2689,14 +2709,14 @@ let clases={
         "nombre": "CSO-13041-POL. MEXICANA CONTEMPORANEA",
         "profesor": "DENISE EUGENIA DRESSER GUERRA",
         "creditos": "6",
-        "inicio": "16:00",
-        "fin": "17:29",
-        "horario": "16:00-17:29",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "106",
+        "salon": "107",
         "campus": "RIO HONDO"
       }
     ]
@@ -2767,14 +2787,14 @@ let clases={
         "nombre": "CSO-14042-POLITICA COMPARADA III",
         "profesor": "HORACIO VIVES SEGL",
         "creditos": "6",
-        "inicio": "07:00",
-        "fin": "08:29",
-        "horario": "07:00-08:29",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "306",
+        "salon": "104",
         "campus": "RIO HONDO"
       }
     ]
@@ -2792,10 +2812,10 @@ let clases={
         "fin": "11:29",
         "horario": "10:00-11:29",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "106",
+        "salon": "LI1",
         "campus": "RIO HONDO"
       },
       {
@@ -2803,14 +2823,14 @@ let clases={
         "nombre": "CSO-14045-POLITICA Y GOBIERNO DE MEXICO",
         "profesor": "DENISE EUGENIA DRESSER GUERRA",
         "creditos": "6",
-        "inicio": "16:00",
-        "fin": "17:29",
-        "horario": "16:00-17:29",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "106",
+        "salon": "107",
         "campus": "RIO HONDO"
       }
     ]
@@ -2990,9 +3010,9 @@ let clases={
         "fin": "18:59",
         "horario": "16:00-18:59",
         "dias": [
-          "MI"
+          "JU"
         ],
-        "salon": "309",
+        "salon": "109",
         "campus": "RIO HONDO"
       }
     ]
@@ -3068,14 +3088,14 @@ let clases={
         "nombre": "CSO-17041-METODOS DE INVEST. APLICADA",
         "profesor": "ALBERTO SIMPSER MONDLAK",
         "creditos": "6",
-        "inicio": "13:00",
-        "fin": "14:29",
-        "horario": "13:00-14:29",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "309",
+        "salon": "302",
         "campus": "RIO HONDO"
       }
     ]
@@ -3350,16 +3370,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "COM-11302-ALGORITMICA Y PROGRAMACION",
-        "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
+        "profesor": "LETICIA RENTERIA FERRAN",
         "creditos": "6",
-        "inicio": "11:30",
-        "fin": "12:59",
-        "horario": "11:30-12:59",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "CC102",
+        "salon": "CC101",
         "campus": "RIO HONDO"
       },
       {
@@ -3634,7 +3654,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-        "profesor": "MARTHA PATRICIA FORTIS NU\u00d1EZ",
+        "profesor": "JOSE ALEJANDRO JARDI RAMOS",
         "creditos": "7",
         "inicio": "07:00",
         "fin": "08:29",
@@ -3709,7 +3729,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-        "profesor": "LETICIA RENTERIA FERRAN",
+        "profesor": "MARTHA PATRICIA FORTIS NU\u00d1EZ",
         "creditos": "7",
         "inicio": "08:30",
         "fin": "09:59",
@@ -6377,14 +6397,14 @@ let clases={
         "nombre": "DER-12102-INSTITUCS. DE DERECHO ROMANO",
         "profesor": "FERNANDO DELGADO CHONG",
         "creditos": "8",
-        "inicio": "07:00",
-        "fin": "08:29",
-        "horario": "07:00-08:29",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "SA3",
+        "salon": "305",
         "campus": "RIO HONDO"
       }
     ]
@@ -9050,13 +9070,13 @@ let clases={
         "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
         "profesor": "XINYANG WANG",
         "creditos": "6",
-        "inicio": "17:00",
-        "fin": "19:59",
-        "horario": "17:00-19:59",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
         "dias": [
           "MA"
         ],
-        "salon": "103",
+        "salon": "104",
         "campus": "RIO HONDO"
       },
       {
@@ -10356,9 +10376,9 @@ let clases={
         "nombre": "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR",
         "profesor": "XINYANG WANG",
         "creditos": "6",
-        "inicio": "10:30",
-        "fin": "13:29",
-        "horario": "10:30-13:29",
+        "inicio": "17:00",
+        "fin": "19:59",
+        "horario": "17:00-19:59",
         "dias": [
           "MA"
         ],
@@ -12417,7 +12437,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "JUAN CARLOS MANSUR GARDA",
+        "profesor": "GERARDO FERNANDEZ FERNANDEZ",
         "creditos": "6",
         "inicio": "11:00",
         "fin": "11:59",
@@ -12594,7 +12614,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "MARIA DE LOURDES IBARRA HERRERIAS",
+        "profesor": "VALERIA ZEPEDA TREJO",
         "creditos": "6",
         "inicio": "10:00",
         "fin": "11:29",
@@ -12609,7 +12629,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "TBA",
+        "profesor": "MARIA DE LOURDES IBARRA HERRERIAS",
         "creditos": "6",
         "inicio": "11:30",
         "fin": "12:59",
@@ -13494,9 +13514,9 @@ let clases={
         "nombre": "IIO-14162-ING. Y CONTROL DE LA CALIDAD",
         "profesor": "ELIAS HERIBERTO ARIAS NAVA",
         "creditos": "6",
-        "inicio": "13:00",
-        "fin": "14:29",
-        "horario": "13:00-14:29",
+        "inicio": "08:30",
+        "fin": "09:59",
+        "horario": "08:30-09:59",
         "dias": [
           "MA",
           "JU"
@@ -14351,7 +14371,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "TBA",
+        "profesor": "LUCIA PI CHOLULA",
         "creditos": "2",
         "inicio": "14:00",
         "fin": "14:59",
@@ -14429,13 +14449,13 @@ let clases={
         "nombre": "LEN-10135-COM. ESCRITA PARA MAT. APL.",
         "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
-        "inicio": "18:00",
-        "fin": "18:59",
-        "horario": "18:00-18:59",
+        "inicio": "17:00",
+        "fin": "17:59",
+        "horario": "17:00-17:59",
         "dias": [
-          "MI"
+          "MA"
         ],
-        "salon": "ASHAK",
+        "salon": "204",
         "campus": "RIO HONDO"
       },
       {
@@ -14443,13 +14463,13 @@ let clases={
         "nombre": "LEN-10135-COM. ESCRITA PARA MAT. APL.",
         "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
-        "inicio": "19:00",
-        "fin": "19:59",
-        "horario": "19:00-19:59",
+        "inicio": "18:00",
+        "fin": "18:59",
+        "horario": "18:00-18:59",
         "dias": [
           "MI"
         ],
-        "salon": "ASHAK",
+        "salon": "204",
         "campus": "RIO HONDO"
       }
     ]
@@ -14954,7 +14974,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "TBA",
+        "profesor": "LUCIA PI CHOLULA",
         "creditos": "2",
         "inicio": "13:00",
         "fin": "13:59",
@@ -14968,7 +14988,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "TBA",
+        "profesor": "LUCIA PI CHOLULA",
         "creditos": "2",
         "inicio": "14:00",
         "fin": "14:59",
@@ -15410,13 +15430,13 @@ let clases={
         "nombre": "LEN-12719-COMUNIC ESCRITA PARA MATE. APL",
         "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
-        "inicio": "18:00",
-        "fin": "18:59",
-        "horario": "18:00-18:59",
+        "inicio": "17:00",
+        "fin": "17:59",
+        "horario": "17:00-17:59",
         "dias": [
-          "MI"
+          "MA"
         ],
-        "salon": "ASHAK",
+        "salon": "204",
         "campus": "RIO HONDO"
       },
       {
@@ -15424,13 +15444,13 @@ let clases={
         "nombre": "LEN-12719-COMUNIC ESCRITA PARA MATE. APL",
         "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
-        "inicio": "19:00",
-        "fin": "19:59",
-        "horario": "19:00-19:59",
+        "inicio": "18:00",
+        "fin": "18:59",
+        "horario": "18:00-18:59",
         "dias": [
-          "MI"
+          "MA"
         ],
-        "salon": "ASHAK",
+        "salon": "204",
         "campus": "RIO HONDO"
       }
     ]
@@ -15636,9 +15656,9 @@ let clases={
         "fin": "19:59",
         "horario": "19:00-19:59",
         "dias": [
-          "MA"
+          "MI"
         ],
-        "salon": "ASHAK",
+        "salon": "PB4",
         "campus": "RIO HONDO"
       }
     ]
@@ -16108,9 +16128,9 @@ let clases={
         "fin": "19:59",
         "horario": "19:00-19:59",
         "dias": [
-          "MA"
+          "MI"
         ],
-        "salon": "ASHAK",
+        "salon": "PB4",
         "campus": "RIO HONDO"
       }
     ]
@@ -18228,9 +18248,9 @@ let clases={
         "nombre": "MAT-24410-PROGRAMACION LINEAL",
         "profesor": "EDGAR POSSANI ESPINOSA",
         "creditos": "6",
-        "inicio": "12:30",
-        "fin": "13:59",
-        "horario": "12:30-13:59",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
         "dias": [
           "MA"
         ],
@@ -18248,9 +18268,9 @@ let clases={
         "nombre": "MAT-24410-PROGRAMACION LINEAL-LAB",
         "profesor": "EDGAR POSSANI ESPINOSA",
         "creditos": "6",
-        "inicio": "12:30",
-        "fin": "13:59",
-        "horario": "12:30-13:59",
+        "inicio": "13:00",
+        "fin": "14:29",
+        "horario": "13:00-14:29",
         "dias": [
           "JU"
         ],
@@ -18812,7 +18832,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "LCLMP",
+        "salon": "LREDE",
         "campus": "RIO HONDO"
       }
     ]
@@ -18965,7 +18985,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "307",
+        "salon": "PACE",
         "campus": "RIO HONDO"
       },
       {
@@ -19354,8 +19374,8 @@ let misProfesData={
   },
   "FEDERICO GUILLERMO DURAND GUEVARA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
-    "general": 5.9265,
-    "n": 204
+    "general": 5.9171,
+    "n": 205
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
@@ -19379,8 +19399,8 @@ let misProfesData={
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
-    "general": 8.7982,
-    "n": 114
+    "general": 8.8087,
+    "n": 115
   },
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
@@ -19406,6 +19426,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Juan-Jos\u00e9-Fern\u00e1ndez-Dur\u00e1n_10690",
     "general": 8.2222,
     "n": 27
+  },
+  "GERARDO FERNANDEZ FERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
+    "general": 7.1395,
+    "n": 43
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19553,9 +19578,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19711,11 +19736,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -20062,6 +20082,11 @@ let misProfesData={
     "general": 8.3846,
     "n": 13
   },
+  "LUCIA PI CHOLULA": {
+    "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
+    "general": 8.0,
+    "n": 17
+  },
   "ERNESTO PIEDRAS FERIA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Piedras-Feria_74696",
     "general": 7.0,
@@ -20318,9 +20343,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
