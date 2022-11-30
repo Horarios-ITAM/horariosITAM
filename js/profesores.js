@@ -1,4 +1,4 @@
-let actualizado='1669788004401.383';
+let actualizado='1669813383072.9133';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -3304,6 +3304,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1042,
+    "n": 48,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -13134,9 +13137,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -20815,12 +20818,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON",
-    "CARLOS FRANCISCO MARTINEZ MORENO"
+    "JEFFREY ALLEN WELDON"
   ],
   "COMPUTACION": [
     "JOSE OCTAVIO GUTIERREZ GARCIA",
@@ -20881,9 +20884,9 @@ let mejoresPorDepto={
     "RODRIGO ZEPEDA TELLO",
     "JOSE MATUK VILLAZON",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
-    "TRINIDAD GONZALEZ BONILLA"
+    "TRINIDAD GONZALEZ BONILLA",
+    "ILEANA GARCIA CONDE"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
