@@ -55,7 +55,7 @@ def mejoresProfesPorDepartamento(profesores,n=10):
 
 if __name__=="__main__":
     # Constantes
-    scrapGraceSecure=False
+    scrapGraceSecure=True
     credsFile="update/creds.json"
     dataFile="js/data.js"
     profesoresDataFile="js/profesores.js"
