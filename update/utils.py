@@ -85,3 +85,19 @@ def levenshteinSimilarity(s0,s1):
         return 1.0
     return 1-(levenshtein(s0,s1)/m)
 
+
+def rankPeriodo(periodo):
+    """
+    Asume cadena tipo 'OTOÑO 2022 LICENCIATURA'. 
+    """
+    assert periodo.count(' ')==2,'Periodo invalido'
+    op,yr,_=periodo.split()
+    assert op in ['OTOÑO','PRIMAVERA'],'Periodo invalido'
+    opOffset='0' if op=='PRIMAVERA' else '1'
+    return int(yr+opOffset)
+
+
+def periodoMasReciente(periodos):
+    return sorted(periodos,key=rankPeriodo,reverse=True)[0]
+
+

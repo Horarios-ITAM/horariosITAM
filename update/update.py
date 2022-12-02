@@ -3,7 +3,7 @@ from graceScrapper import GraceScrapper
 from misProfesScrapper import MisProfesScrapper
 import json,time
 from graceScrapperSecure import GraceScrapperSecureArea,courseUrl
-from utils import claveToDepto
+from utils import claveToDepto,periodoMasReciente
 
 def profesoresData(clases):
     """
@@ -55,7 +55,6 @@ def mejoresProfesPorDepartamento(profesores,n=10):
 
 if __name__=="__main__":
     # Constantes
-    scrapGraceSecure=True
     credsFile="update/creds.json"
     dataFile="js/data.js"
     profesoresDataFile="js/profesores.js"
@@ -66,14 +65,25 @@ if __name__=="__main__":
 
     ahora=time.time()*1000 # En milisegundos
 
-    # Scrapeamos Grace
-    if scrapGraceSecure:
-        # Leer usuario y passwd de grace
-        with open(credsFile,"r") as f:
-            loginData=json.loads(f.read())
-        grace=GraceScrapperSecureArea(loginData['sid'],loginData['PIN'])
+    # Scrapeamos Grace entrando a Secure Area
+    # Leer usuario y passwd de grace
+    with open(credsFile,"r") as f:
+        loginData=json.loads(f.read())
+    secure=GraceScrapperSecureArea(loginData['sid'],loginData['PIN'])
+
+    # Scrapeamos Grace en Servicios No Personalizados
+    nonSecure=GraceScrapper()
+
+    # Tomamos la fuente con datos mas recientes
+    if nonSecure.periodo==periodoMasReciente([secure.periodo,nonSecure.periodo]):
+        # Si empatan le damos preferencia a nonSecure
+        print("Tomando nonSecure como mas reciente")
+        grace=nonSecure
+        scrapGraceSecure=False
     else:
-        grace=GraceScrapper()
+        print("Tomando secure como mas reciente")
+        grace=secure
+        scrapGraceSecure=True
 
     grace.scrap()
 
