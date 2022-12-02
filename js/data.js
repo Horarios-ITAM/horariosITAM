@@ -1,4 +1,4 @@
-let actualizado='1669904769963.655';
+let actualizado='1669960805802.5994';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -968,9 +968,9 @@ let clases={
         "fin": "09:59",
         "horario": "07:00-09:59",
         "dias": [
-          "JU"
+          "LU"
         ],
-        "salon": "305",
+        "salon": "PB1",
         "campus": "RIO HONDO"
       }
     ]
@@ -2240,13 +2240,14 @@ let clases={
         "nombre": "ADM-16602-MERCADOTECNIA, II",
         "profesor": "JUAN JOSE FERNANDEZ DURAN",
         "creditos": "7",
-        "inicio": "19:00",
-        "fin": "21:59",
-        "horario": "19:00-21:59",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
         "dias": [
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "304",
+        "salon": "110",
         "campus": "RIO HONDO"
       },
       {
@@ -2255,12 +2256,13 @@ let clases={
         "profesor": "JUAN JOSE FERNANDEZ DURAN",
         "creditos": "7",
         "inicio": "19:00",
-        "fin": "21:59",
-        "horario": "19:00-21:59",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
         "dias": [
+          "MA",
           "JU"
         ],
-        "salon": "304",
+        "salon": "110",
         "campus": "RIO HONDO"
       },
       {
@@ -2324,13 +2326,14 @@ let clases={
         "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
         "profesor": "JUAN JOSE FERNANDEZ DURAN",
         "creditos": "7",
-        "inicio": "19:00",
-        "fin": "21:59",
-        "horario": "19:00-21:59",
+        "inicio": "17:30",
+        "fin": "18:59",
+        "horario": "17:30-18:59",
         "dias": [
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "304",
+        "salon": "110",
         "campus": "RIO HONDO"
       },
       {
@@ -2339,12 +2342,13 @@ let clases={
         "profesor": "JUAN JOSE FERNANDEZ DURAN",
         "creditos": "7",
         "inicio": "19:00",
-        "fin": "21:59",
-        "horario": "19:00-21:59",
+        "fin": "20:29",
+        "horario": "19:00-20:29",
         "dias": [
+          "MA",
           "JU"
         ],
-        "salon": "304",
+        "salon": "110",
         "campus": "RIO HONDO"
       },
       {
@@ -5114,7 +5118,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "102",
+        "salon": "108",
         "campus": "SANTA TERESA"
       },
       {
@@ -5128,7 +5132,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "102",
+        "salon": "104",
         "campus": "SANTA TERESA"
       }
     ]
@@ -5142,14 +5146,14 @@ let clases={
         "nombre": "DER-10003-INST. DE DERECHO PUB. MEX.,I",
         "profesor": "JAIME PERALES CONTRERAS",
         "creditos": "6",
-        "inicio": "16:00",
-        "fin": "17:29",
-        "horario": "16:00-17:29",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "209",
+        "salon": "305",
         "campus": "RIO HONDO"
       }
     ]
@@ -5305,14 +5309,14 @@ let clases={
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
         "profesor": "JAIME PERALES CONTRERAS",
         "creditos": "9",
-        "inicio": "16:00",
-        "fin": "17:29",
-        "horario": "16:00-17:29",
+        "inicio": "07:00",
+        "fin": "08:29",
+        "horario": "07:00-08:29",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "209",
+        "salon": "305",
         "campus": "RIO HONDO"
       }
     ]
@@ -5326,13 +5330,13 @@ let clases={
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS-LAB",
         "profesor": "JAIME PERALES CONTRERAS",
         "creditos": "9",
-        "inicio": "18:00",
-        "fin": "19:29",
-        "horario": "18:00-19:29",
+        "inicio": "10:00",
+        "fin": "11:29",
+        "horario": "10:00-11:29",
         "dias": [
           "JU"
         ],
-        "salon": "209",
+        "salon": "202",
         "campus": "RIO HONDO"
       }
     ]
@@ -8300,8 +8304,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "208",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004",
@@ -8314,8 +8318,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "208",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -8364,8 +8368,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "208",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004",
@@ -8378,8 +8382,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "208",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "005",
@@ -8393,8 +8397,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB1",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "006",
@@ -8407,8 +8411,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "208",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -8449,8 +8453,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "111",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -8470,8 +8474,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "PB3",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -8783,7 +8787,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH03",
+        "salon": "313",
         "campus": "RIO HONDO"
       },
       {
@@ -9128,8 +9132,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "310",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -9143,8 +9147,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "111",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -9157,8 +9161,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "210",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -9197,8 +9201,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "210",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -9721,8 +9725,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "103",
-        "campus": "RIO HONDO"
+        "salon": "107",
+        "campus": "SANTA TERESA"
       },
       {
         "grupo": "002",
@@ -9736,8 +9740,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "103",
-        "campus": "RIO HONDO"
+        "salon": "107",
+        "campus": "SANTA TERESA"
       },
       {
         "grupo": "003",
@@ -9813,8 +9817,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "311",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -9898,8 +9902,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "B-4",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -9919,8 +9923,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "104",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -9982,8 +9986,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "104",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "003",
@@ -10079,8 +10083,8 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "301",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -10100,8 +10104,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
-        "campus": "SANTA TERESA"
+        "salon": "SA3",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "002",
@@ -10329,9 +10333,9 @@ let clases={
         "nombre": "ECO-21104-ECONOMIA IV-LAB",
         "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
         "creditos": "6",
-        "inicio": "14:30",
-        "fin": "15:59",
-        "horario": "14:30-15:59",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
         "dias": [
           "VI"
         ],
@@ -10343,9 +10347,9 @@ let clases={
         "nombre": "ECO-21104-ECONOMIA IV-LAB",
         "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
         "creditos": "6",
-        "inicio": "14:30",
-        "fin": "15:59",
-        "horario": "14:30-15:59",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
         "dias": [
           "VI"
         ],
@@ -10357,9 +10361,9 @@ let clases={
         "nombre": "ECO-21104-ECONOMIA IV-LAB",
         "profesor": "MAURICIO TOMAS ROMERO LONDO\u00d1O",
         "creditos": "6",
-        "inicio": "14:30",
-        "fin": "15:59",
-        "horario": "14:30-15:59",
+        "inicio": "11:30",
+        "fin": "12:59",
+        "horario": "11:30-12:59",
         "dias": [
           "VI"
         ],
@@ -10404,7 +10408,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "108",
+        "salon": "PB3",
         "campus": "RIO HONDO"
       }
     ]
@@ -10440,7 +10444,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "TBA",
+        "salon": "102",
         "campus": "SANTA TERESA"
       },
       {
@@ -10469,9 +10473,9 @@ let clases={
         "nombre": "ECO-22105-ECONOMIA V-LAB",
         "profesor": "JORGE ALONSO ORTIZ",
         "creditos": "8",
-        "inicio": "11:00",
-        "fin": "13:59",
-        "horario": "11:00-13:59",
+        "inicio": "10:00",
+        "fin": "12:59",
+        "horario": "10:00-12:59",
         "dias": [
           "VI"
         ],
@@ -10483,9 +10487,9 @@ let clases={
         "nombre": "ECO-22105-ECONOMIA V-LAB",
         "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
         "creditos": "8",
-        "inicio": "11:00",
-        "fin": "13:59",
-        "horario": "11:00-13:59",
+        "inicio": "10:00",
+        "fin": "12:59",
+        "horario": "10:00-12:59",
         "dias": [
           "VI"
         ],
@@ -10497,9 +10501,9 @@ let clases={
         "nombre": "ECO-22105-ECONOMIA V-LAB",
         "profesor": "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
         "creditos": "8",
-        "inicio": "11:00",
-        "fin": "13:59",
-        "horario": "11:00-13:59",
+        "inicio": "10:00",
+        "fin": "12:59",
+        "horario": "10:00-12:59",
         "dias": [
           "VI"
         ],
@@ -10524,7 +10528,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH03",
+        "salon": "309",
         "campus": "RIO HONDO"
       }
     ]
@@ -10942,6 +10946,21 @@ let clases={
           "JU"
         ],
         "salon": "308",
+        "campus": "RIO HONDO"
+      },
+      {
+        "grupo": "002",
+        "nombre": "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.",
+        "profesor": "DANTE GABRIEL CAMPOS SALIDO",
+        "creditos": "8",
+        "inicio": "13:00",
+        "fin": "14:59",
+        "horario": "13:00-14:59",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "112",
         "campus": "RIO HONDO"
       }
     ]
@@ -14564,13 +14583,13 @@ let clases={
         "nombre": "LEN-10144-COM. ESCRITA PARA ING. MECATR.",
         "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
-        "inicio": "17:00",
-        "fin": "17:59",
-        "horario": "17:00-17:59",
+        "inicio": "19:00",
+        "fin": "19:59",
+        "horario": "19:00-19:59",
         "dias": [
           "JU"
         ],
-        "salon": "ACERV",
+        "salon": "ASHAK",
         "campus": "RIO HONDO"
       }
     ]
@@ -15375,8 +15394,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "108",
-        "campus": "SANTA TERESA"
+        "salon": "201",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004",
@@ -15539,13 +15558,13 @@ let clases={
         "nombre": "LEN-12725-COM. ESCRITA PARA ING MECATRO.",
         "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
-        "inicio": "17:00",
-        "fin": "17:59",
-        "horario": "17:00-17:59",
+        "inicio": "19:00",
+        "fin": "19:59",
+        "horario": "19:00-19:59",
         "dias": [
           "JU"
         ],
-        "salon": "ACERV",
+        "salon": "ASHAK",
         "campus": "RIO HONDO"
       }
     ]
@@ -15759,8 +15778,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "108",
-        "campus": "SANTA TERESA"
+        "salon": "201",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -16179,8 +16198,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "108",
-        "campus": "SANTA TERESA"
+        "salon": "201",
+        "campus": "RIO HONDO"
       },
       {
         "grupo": "004",
@@ -16241,8 +16260,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "108",
-        "campus": "SANTA TERESA"
+        "salon": "201",
+        "campus": "RIO HONDO"
       }
     ]
   },
@@ -19330,8 +19349,8 @@ let misProfesData={
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
-    "general": 8.0833,
-    "n": 12
+    "general": 8.2308,
+    "n": 13
   },
   "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
@@ -19377,6 +19396,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
     "general": 5.9171,
     "n": 205
+  },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
@@ -19440,8 +19464,8 @@ let misProfesData={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.3462,
-    "n": 52
+    "general": 6.4151,
+    "n": 53
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
@@ -19574,9 +19598,9 @@ let misProfesData={
     "n": 27
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19733,6 +19757,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -19789,9 +19818,14 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1042,
+    "n": 48
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -20154,9 +20188,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -20310,8 +20344,8 @@ let misProfesData={
   },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
-    "general": 7.087,
-    "n": 23
+    "general": 6.9167,
+    "n": 24
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
@@ -20334,9 +20368,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -20490,8 +20524,8 @@ let misProfesData={
   },
   "FRANCO ZECCHETTO TOLEDO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
-    "general": 7.3333,
-    "n": 12
+    "general": 7.4615,
+    "n": 13
   },
   "RODRIGO ZEPEDA TELLO": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Zepeda-Tello_94263",

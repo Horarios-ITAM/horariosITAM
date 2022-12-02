@@ -1,4 +1,4 @@
-let actualizado='1669904769963.655';
+let actualizado='1669960805802.5994';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -1169,9 +1169,9 @@ let profesores={
           "fin": "09:59",
           "horario": "07:00-09:59",
           "dias": [
-            "JU"
+            "LU"
           ],
-          "salon": "305",
+          "salon": "PB1",
           "campus": "RIO HONDO"
         }
       ],
@@ -2416,8 +2416,8 @@ let profesores={
   },
   "FRANCO ZECCHETTO TOLEDO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
-    "general": 7.3333,
-    "n": 12,
+    "general": 7.4615,
+    "n": 13,
     "grupos": {
       "ADM-15507-FUNDAMENTOS DE FINANZAS": [
         {
@@ -3055,13 +3055,14 @@ let profesores={
           "nombre": "ADM-16602-MERCADOTECNIA, II",
           "profesor": "JUAN JOSE FERNANDEZ DURAN",
           "creditos": "7",
-          "inicio": "19:00",
-          "fin": "21:59",
-          "horario": "19:00-21:59",
+          "inicio": "17:30",
+          "fin": "18:59",
+          "horario": "17:30-18:59",
           "dias": [
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "304",
+          "salon": "110",
           "campus": "RIO HONDO"
         },
         {
@@ -3070,12 +3071,13 @@ let profesores={
           "profesor": "JUAN JOSE FERNANDEZ DURAN",
           "creditos": "7",
           "inicio": "19:00",
-          "fin": "21:59",
-          "horario": "19:00-21:59",
+          "fin": "20:29",
+          "horario": "19:00-20:29",
           "dias": [
+            "MA",
             "JU"
           ],
-          "salon": "304",
+          "salon": "110",
           "campus": "RIO HONDO"
         }
       ],
@@ -3085,13 +3087,14 @@ let profesores={
           "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
           "profesor": "JUAN JOSE FERNANDEZ DURAN",
           "creditos": "7",
-          "inicio": "19:00",
-          "fin": "21:59",
-          "horario": "19:00-21:59",
+          "inicio": "17:30",
+          "fin": "18:59",
+          "horario": "17:30-18:59",
           "dias": [
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "304",
+          "salon": "110",
           "campus": "RIO HONDO"
         },
         {
@@ -3100,12 +3103,13 @@ let profesores={
           "profesor": "JUAN JOSE FERNANDEZ DURAN",
           "creditos": "7",
           "inicio": "19:00",
-          "fin": "21:59",
-          "horario": "19:00-21:59",
+          "fin": "20:29",
+          "horario": "19:00-20:29",
           "dias": [
+            "MA",
             "JU"
           ],
-          "salon": "304",
+          "salon": "110",
           "campus": "RIO HONDO"
         }
       ]
@@ -3304,6 +3308,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1042,
+    "n": 48,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -3407,8 +3414,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "111",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -4254,6 +4261,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4946,6 +4956,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5208,9 +5221,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6262,7 +6275,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "102",
+          "salon": "108",
           "campus": "SANTA TERESA"
         },
         {
@@ -6276,7 +6289,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "102",
+          "salon": "104",
           "campus": "SANTA TERESA"
         }
       ]
@@ -6293,14 +6306,14 @@ let profesores={
           "nombre": "DER-10003-INST. DE DERECHO PUB. MEX.,I",
           "profesor": "JAIME PERALES CONTRERAS",
           "creditos": "6",
-          "inicio": "16:00",
-          "fin": "17:29",
-          "horario": "16:00-17:29",
+          "inicio": "07:00",
+          "fin": "08:29",
+          "horario": "07:00-08:29",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "209",
+          "salon": "305",
           "campus": "RIO HONDO"
         }
       ],
@@ -6310,14 +6323,14 @@ let profesores={
           "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
           "profesor": "JAIME PERALES CONTRERAS",
           "creditos": "9",
-          "inicio": "16:00",
-          "fin": "17:29",
-          "horario": "16:00-17:29",
+          "inicio": "07:00",
+          "fin": "08:29",
+          "horario": "07:00-08:29",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "209",
+          "salon": "305",
           "campus": "RIO HONDO"
         }
       ],
@@ -6327,13 +6340,13 @@ let profesores={
           "nombre": "DER-10013-FUNDAMENTOS JURIDICOS-LAB",
           "profesor": "JAIME PERALES CONTRERAS",
           "creditos": "9",
-          "inicio": "18:00",
-          "fin": "19:29",
-          "horario": "18:00-19:29",
+          "inicio": "10:00",
+          "fin": "11:29",
+          "horario": "10:00-11:29",
           "dias": [
             "JU"
           ],
-          "salon": "209",
+          "salon": "202",
           "campus": "RIO HONDO"
         }
       ]
@@ -9675,8 +9688,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "208",
+          "campus": "RIO HONDO"
         }
       ],
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
@@ -9691,8 +9704,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "208",
+          "campus": "RIO HONDO"
         }
       ],
       "ECO-15111-ECONOMIA POLITICA": [
@@ -9707,8 +9720,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "B-4",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9730,8 +9743,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "208",
+          "campus": "RIO HONDO"
         }
       ],
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
@@ -9746,8 +9759,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "208",
+          "campus": "RIO HONDO"
         }
       ],
       "ECO-20513-MICROECONOMETRIA AVANZADA": [
@@ -9783,8 +9796,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "PB1",
+          "campus": "RIO HONDO"
         }
       ],
       "ECO-13101-ECONOMIA INTERNACIONAL, I": [
@@ -9823,8 +9836,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "208",
+          "campus": "RIO HONDO"
         }
       ],
       "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
@@ -9880,8 +9893,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "104",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -9904,8 +9917,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "PB3",
+          "campus": "RIO HONDO"
         }
       ],
       "ECO-21113-TEORIA DE JUEGOS": [
@@ -9921,7 +9934,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "108",
+          "salon": "PB3",
           "campus": "RIO HONDO"
         }
       ]
@@ -10013,9 +10026,9 @@ let profesores={
           "nombre": "ECO-21104-ECONOMIA IV-LAB",
           "profesor": "MAURICIO TOMAS ROMERO LONDO\u00d1O",
           "creditos": "6",
-          "inicio": "14:30",
-          "fin": "15:59",
-          "horario": "14:30-15:59",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
           "dias": [
             "VI"
           ],
@@ -10268,7 +10281,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH03",
+          "salon": "313",
           "campus": "RIO HONDO"
         }
       ]
@@ -10605,9 +10618,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10891,8 +10904,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "310",
+          "campus": "RIO HONDO"
         },
         {
           "grupo": "002",
@@ -10906,8 +10919,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "111",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -10926,8 +10939,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "210",
+          "campus": "RIO HONDO"
         }
       ],
       "ECO-11227-DISE\u00d1O DE MERCADOS": [
@@ -10942,8 +10955,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "210",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -11416,9 +11429,9 @@ let profesores={
           "nombre": "ECO-22105-ECONOMIA V-LAB",
           "profesor": "JORGE ALONSO ORTIZ",
           "creditos": "8",
-          "inicio": "11:00",
-          "fin": "13:59",
-          "horario": "11:00-13:59",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
           "dias": [
             "VI"
           ],
@@ -11543,7 +11556,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH03",
+          "salon": "309",
           "campus": "RIO HONDO"
         }
       ]
@@ -11608,8 +11621,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "103",
-          "campus": "RIO HONDO"
+          "salon": "107",
+          "campus": "SANTA TERESA"
         },
         {
           "grupo": "002",
@@ -11623,8 +11636,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "103",
-          "campus": "RIO HONDO"
+          "salon": "107",
+          "campus": "SANTA TERESA"
         }
       ]
     }
@@ -11668,8 +11681,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "311",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -11836,8 +11849,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "104",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -11875,8 +11888,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "301",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -11916,8 +11929,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
-          "campus": "SANTA TERESA"
+          "salon": "SA3",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -12005,9 +12018,9 @@ let profesores={
           "nombre": "ECO-21104-ECONOMIA IV-LAB",
           "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
           "creditos": "6",
-          "inicio": "14:30",
-          "fin": "15:59",
-          "horario": "14:30-15:59",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
           "dias": [
             "VI"
           ],
@@ -12019,9 +12032,9 @@ let profesores={
           "nombre": "ECO-21104-ECONOMIA IV-LAB",
           "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
           "creditos": "6",
-          "inicio": "14:30",
-          "fin": "15:59",
-          "horario": "14:30-15:59",
+          "inicio": "11:30",
+          "fin": "12:59",
+          "horario": "11:30-12:59",
           "dias": [
             "VI"
           ],
@@ -12046,7 +12059,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "TBA",
+          "salon": "102",
           "campus": "SANTA TERESA"
         }
       ],
@@ -12056,9 +12069,9 @@ let profesores={
           "nombre": "ECO-22105-ECONOMIA V-LAB",
           "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
           "creditos": "8",
-          "inicio": "11:00",
-          "fin": "13:59",
-          "horario": "11:00-13:59",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
           "dias": [
             "VI"
           ],
@@ -12096,9 +12109,9 @@ let profesores={
           "nombre": "ECO-22105-ECONOMIA V-LAB",
           "profesor": "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
           "creditos": "8",
-          "inicio": "11:00",
-          "fin": "13:59",
-          "horario": "11:00-13:59",
+          "inicio": "10:00",
+          "fin": "12:59",
+          "horario": "10:00-12:59",
           "dias": [
             "VI"
           ],
@@ -12801,8 +12814,8 @@ let profesores={
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
-    "general": 8.0833,
-    "n": 12,
+    "general": 8.2308,
+    "n": 13,
     "grupos": {
       "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.": [
         {
@@ -12818,6 +12831,64 @@ let profesores={
             "JU"
           ],
           "salon": "308",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
+  "DANTE GABRIEL CAMPOS SALIDO": {
+    "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
+    "general": 9.1739,
+    "n": 92,
+    "grupos": {
+      "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.": [
+        {
+          "grupo": "002",
+          "nombre": "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.",
+          "profesor": "DANTE GABRIEL CAMPOS SALIDO",
+          "creditos": "8",
+          "inicio": "13:00",
+          "fin": "14:59",
+          "horario": "13:00-14:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "112",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "EST-24106-ESTADISTICA APLICADA, III": [
+        {
+          "grupo": "001",
+          "nombre": "EST-24106-ESTADISTICA APLICADA, III",
+          "profesor": "DANTE GABRIEL CAMPOS SALIDO",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "B-3",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "EST-24125-METODOS MULTIVARIADOS": [
+        {
+          "grupo": "001",
+          "nombre": "EST-24125-METODOS MULTIVARIADOS",
+          "profesor": "DANTE GABRIEL CAMPOS SALIDO",
+          "creditos": "6",
+          "inicio": "08:30",
+          "fin": "09:59",
+          "horario": "08:30-09:59",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "B-3",
           "campus": "RIO HONDO"
         }
       ]
@@ -13131,9 +13202,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -13307,47 +13378,6 @@ let profesores={
             "VI"
           ],
           "salon": "309",
-          "campus": "RIO HONDO"
-        }
-      ]
-    }
-  },
-  "DANTE GABRIEL CAMPOS SALIDO": {
-    "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
-    "general": 9.1739,
-    "n": 92,
-    "grupos": {
-      "EST-24106-ESTADISTICA APLICADA, III": [
-        {
-          "grupo": "001",
-          "nombre": "EST-24106-ESTADISTICA APLICADA, III",
-          "profesor": "DANTE GABRIEL CAMPOS SALIDO",
-          "creditos": "6",
-          "inicio": "08:30",
-          "fin": "09:59",
-          "horario": "08:30-09:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "B-3",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "EST-24125-METODOS MULTIVARIADOS": [
-        {
-          "grupo": "001",
-          "nombre": "EST-24125-METODOS MULTIVARIADOS",
-          "profesor": "DANTE GABRIEL CAMPOS SALIDO",
-          "creditos": "6",
-          "inicio": "08:30",
-          "fin": "09:59",
-          "horario": "08:30-09:59",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "B-3",
           "campus": "RIO HONDO"
         }
       ]
@@ -16173,8 +16203,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "108",
-          "campus": "SANTA TERESA"
+          "salon": "201",
+          "campus": "RIO HONDO"
         }
       ],
       "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
@@ -16189,8 +16219,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "108",
-          "campus": "SANTA TERESA"
+          "salon": "201",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -16320,8 +16350,8 @@ let profesores={
   },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
-    "general": 7.087,
-    "n": 23,
+    "general": 6.9167,
+    "n": 24,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -16657,8 +16687,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "108",
-          "campus": "SANTA TERESA"
+          "salon": "201",
+          "campus": "RIO HONDO"
         }
       ],
       "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
@@ -16703,8 +16733,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "108",
-          "campus": "SANTA TERESA"
+          "salon": "201",
+          "campus": "RIO HONDO"
         }
       ]
     }
@@ -17209,13 +17239,13 @@ let profesores={
           "nombre": "LEN-10144-COM. ESCRITA PARA ING. MECATR.",
           "profesor": "JESUS ADRIAN FERNANDEZ REYES",
           "creditos": "2",
-          "inicio": "17:00",
-          "fin": "17:59",
-          "horario": "17:00-17:59",
+          "inicio": "19:00",
+          "fin": "19:59",
+          "horario": "19:00-19:59",
           "dias": [
             "JU"
           ],
-          "salon": "ACERV",
+          "salon": "ASHAK",
           "campus": "RIO HONDO"
         }
       ],
@@ -17255,13 +17285,13 @@ let profesores={
           "nombre": "LEN-12725-COM. ESCRITA PARA ING MECATRO.",
           "profesor": "JESUS ADRIAN FERNANDEZ REYES",
           "creditos": "2",
-          "inicio": "17:00",
-          "fin": "17:59",
-          "horario": "17:00-17:59",
+          "inicio": "19:00",
+          "fin": "19:59",
+          "horario": "19:00-19:59",
           "dias": [
             "JU"
           ],
-          "salon": "ACERV",
+          "salon": "ASHAK",
           "campus": "RIO HONDO"
         }
       ],
@@ -17496,9 +17526,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -19374,8 +19404,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.3462,
-    "n": 52,
+    "general": 6.4151,
+    "n": 53,
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
         {
@@ -20812,12 +20842,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON",
-    "CARLOS FRANCISCO MARTINEZ MORENO"
+    "JEFFREY ALLEN WELDON"
   ],
   "COMPUTACION": [
     "JOSE OCTAVIO GUTIERREZ GARCIA",
@@ -20860,6 +20890,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
+    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -20867,8 +20898,7 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MENEY DE LA PEZA GANDARA",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
-    "MARTA ROBLES CARTES"
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
   ],
   "ESTADISTICA": [
     "HUGO CUEVAS BRAVO",
@@ -20878,9 +20908,9 @@ let mejoresPorDepto={
     "RODRIGO ZEPEDA TELLO",
     "JOSE MATUK VILLAZON",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
-    "TRINIDAD GONZALEZ BONILLA"
+    "TRINIDAD GONZALEZ BONILLA",
+    "ILEANA GARCIA CONDE"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
