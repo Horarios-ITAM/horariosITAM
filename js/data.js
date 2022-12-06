@@ -1,4 +1,4 @@
-let actualizado='1670245383073.8064';
+let actualizado='1670306406920.683';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -7814,6 +7814,26 @@ let clases={
       }
     ]
   },
+  "DER-17044": {
+    "nombre": "DER-17044-CLINICA EN DERECHO Y POL PUBL.",
+    "clave": "DER-17044",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-17044-CLINICA EN DERECHO Y POL PUBL.",
+        "profesor": "ANA MARIA ZORRILLA NORIEGA",
+        "creditos": "6",
+        "inicio": "13:00",
+        "fin": "15:59",
+        "horario": "13:00-15:59",
+        "dias": [
+          "LU"
+        ],
+        "salon": "CUBIC",
+        "campus": "RIO HONDO"
+      }
+    ]
+  },
   "DER-17045": {
     "nombre": "DER-17045-CLIN. DES. SUSTENT. Y DER AMBI",
     "clave": "DER-17045",
@@ -7829,26 +7849,6 @@ let clases={
         "dias": [
           "MA",
           "JU"
-        ],
-        "salon": "CUBIC",
-        "campus": "RIO HONDO"
-      }
-    ]
-  },
-  "DER-17047": {
-    "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA",
-    "clave": "DER-17047",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA",
-        "profesor": "ANA MARIA ZORRILLA NORIEGA",
-        "creditos": "2",
-        "inicio": "13:00",
-        "fin": "15:59",
-        "horario": "13:00-15:59",
-        "dias": [
-          "LU"
         ],
         "salon": "CUBIC",
         "campus": "RIO HONDO"
@@ -8813,7 +8813,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH03",
+        "salon": "309",
         "campus": "RIO HONDO"
       },
       {
@@ -9343,7 +9343,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH03",
+        "salon": "107",
         "campus": "RIO HONDO"
       },
       {
@@ -10869,7 +10869,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "107",
+        "salon": "103",
         "campus": "RIO HONDO"
       },
       {
@@ -10935,7 +10935,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "107",
+        "salon": "103",
         "campus": "RIO HONDO"
       },
       {
@@ -11834,7 +11834,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "LYDIA LOPEZ GUTIERREZ",
+        "profesor": "ROBERTO ZOCCO",
         "creditos": "6",
         "inicio": "08:00",
         "fin": "08:59",
@@ -11850,7 +11850,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "ROBERTO ZOCCO",
+        "profesor": "CECILIA GALAVIZ ALVAREZ",
         "creditos": "6",
         "inicio": "09:00",
         "fin": "09:59",
@@ -11882,7 +11882,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "CECILIA GALAVIZ ALVAREZ",
+        "profesor": "LYDIA LOPEZ GUTIERREZ",
         "creditos": "6",
         "inicio": "11:00",
         "fin": "11:59",
@@ -11936,7 +11936,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "LYDIA LOPEZ GUTIERREZ",
+        "profesor": "ANA REGINA LUEVANO CAYON",
         "creditos": "6",
         "inicio": "07:00",
         "fin": "07:59",
@@ -11968,7 +11968,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "ANA REGINA LUEVANO CAYON",
+        "profesor": "MARIA TERESITA PAVIA LOPEZ",
         "creditos": "6",
         "inicio": "08:00",
         "fin": "08:59",
@@ -12166,7 +12166,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "MARIA TERESITA PAVIA LOPEZ",
+        "profesor": "DIEGO ALEJANDRO OTERO ANGELINI",
         "creditos": "6",
         "inicio": "08:00",
         "fin": "08:59",
@@ -12214,7 +12214,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "CARLOS GUTIERREZ LOZANO",
+        "profesor": "LYDIA LOPEZ GUTIERREZ",
         "creditos": "6",
         "inicio": "12:00",
         "fin": "12:59",
@@ -12230,7 +12230,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "CARLOS GUTIERREZ LOZANO",
+        "profesor": "CARLOS MARISCAL DE GANTE CENTENO",
         "creditos": "6",
         "inicio": "16:00",
         "fin": "16:59",
@@ -14513,7 +14513,7 @@ let clases={
         "fin": "18:59",
         "horario": "18:00-18:59",
         "dias": [
-          "MI"
+          "MA"
         ],
         "salon": "204",
         "campus": "RIO HONDO"
@@ -19490,8 +19490,8 @@ let misProfesData={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.4151,
-    "n": 53
+    "general": 6.463,
+    "n": 54
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
@@ -19620,8 +19620,8 @@ let misProfesData={
   },
   "CARLOS GONZALEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
-    "general": 7.5185,
-    "n": 27
+    "general": 7.6071,
+    "n": 28
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
@@ -19667,11 +19667,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jose-Octavio-Gutierrez-Garcia_129405",
     "general": 10.0,
     "n": 4
-  },
-  "CARLOS GUTIERREZ LOZANO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7789,
-    "n": 95
   },
   "JANKO HERNANDEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
@@ -20057,6 +20052,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Romeo-Salvador-Ortega-Martinez_129225",
     "general": 2.25,
     "n": 4
+  },
+  "DIEGO ALEJANDRO OTERO ANGELINI": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
+    "general": 7.2,
+    "n": 15
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",

@@ -1,4 +1,4 @@
-let actualizado='1670245383073.8064';
+let actualizado='1670306406920.683';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -858,8 +858,8 @@ let profesores={
   },
   "CARLOS GONZALEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
-    "general": 7.5185,
-    "n": 27,
+    "general": 7.6071,
+    "n": 28,
     "grupos": {
       "ADM-12022-ESTRATEGIA GLOBAL": [
         {
@@ -9178,6 +9178,29 @@ let profesores={
       ]
     }
   },
+  "ANA MARIA ZORRILLA NORIEGA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
+    "general": 10.0,
+    "n": 2,
+    "grupos": {
+      "DER-17044-CLINICA EN DERECHO Y POL PUBL.": [
+        {
+          "grupo": "001",
+          "nombre": "DER-17044-CLINICA EN DERECHO Y POL PUBL.",
+          "profesor": "ANA MARIA ZORRILLA NORIEGA",
+          "creditos": "6",
+          "inicio": "13:00",
+          "fin": "15:59",
+          "horario": "13:00-15:59",
+          "dias": [
+            "LU"
+          ],
+          "salon": "CUBIC",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
   "FRANCO LAMMOGLIA ORDIALES": {
     "grupos": {
       "DER-17045-CLIN. DES. SUSTENT. Y DER AMBI": [
@@ -9192,29 +9215,6 @@ let profesores={
           "dias": [
             "MA",
             "JU"
-          ],
-          "salon": "CUBIC",
-          "campus": "RIO HONDO"
-        }
-      ]
-    }
-  },
-  "ANA MARIA ZORRILLA NORIEGA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
-    "general": 10.0,
-    "n": 2,
-    "grupos": {
-      "DER-17047-CLINICA EN DER Y POL PUBLICA": [
-        {
-          "grupo": "001",
-          "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA",
-          "profesor": "ANA MARIA ZORRILLA NORIEGA",
-          "creditos": "2",
-          "inicio": "13:00",
-          "fin": "15:59",
-          "horario": "13:00-15:59",
-          "dias": [
-            "LU"
           ],
           "salon": "CUBIC",
           "campus": "RIO HONDO"
@@ -10294,7 +10294,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH03",
+          "salon": "309",
           "campus": "RIO HONDO"
         }
       ]
@@ -11219,7 +11219,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH03",
+          "salon": "107",
           "campus": "RIO HONDO"
         }
       ],
@@ -12693,7 +12693,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "107",
+          "salon": "103",
           "campus": "RIO HONDO"
         }
       ],
@@ -12710,7 +12710,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "107",
+          "salon": "103",
           "campus": "RIO HONDO"
         }
       ],
@@ -13574,19 +13574,19 @@ let profesores={
           "campus": "RIO HONDO"
         },
         {
-          "grupo": "003",
+          "grupo": "002",
           "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
           "profesor": "ROBERTO ZOCCO",
           "creditos": "6",
-          "inicio": "09:00",
-          "fin": "09:59",
-          "horario": "09:00-09:59",
+          "inicio": "08:00",
+          "fin": "08:59",
+          "horario": "08:00-08:59",
           "dias": [
             "LU",
             "MI",
             "VI"
           ],
-          "salon": "201",
+          "salon": "202",
           "campus": "RIO HONDO"
         }
       ]
@@ -13616,52 +13616,25 @@ let profesores={
       ]
     }
   },
-  "LYDIA LOPEZ GUTIERREZ": {
-    "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
-    "general": 7.8056,
-    "n": 72,
-    "grupos": {
-      "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
-        {
-          "grupo": "002",
-          "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-          "profesor": "LYDIA LOPEZ GUTIERREZ",
-          "creditos": "6",
-          "inicio": "08:00",
-          "fin": "08:59",
-          "horario": "08:00-08:59",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "202",
-          "campus": "RIO HONDO"
-        }
-      ],
-      "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
-        {
-          "grupo": "002",
-          "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-          "profesor": "LYDIA LOPEZ GUTIERREZ",
-          "creditos": "6",
-          "inicio": "07:00",
-          "fin": "07:59",
-          "horario": "07:00-07:59",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "202",
-          "campus": "RIO HONDO"
-        }
-      ]
-    }
-  },
   "CECILIA GALAVIZ ALVAREZ": {
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
+        {
+          "grupo": "003",
+          "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
+          "profesor": "CECILIA GALAVIZ ALVAREZ",
+          "creditos": "6",
+          "inicio": "09:00",
+          "fin": "09:59",
+          "horario": "09:00-09:59",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "201",
+          "campus": "RIO HONDO"
+        },
         {
           "grupo": "004",
           "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
@@ -13677,11 +13650,20 @@ let profesores={
           ],
           "salon": "201",
           "campus": "RIO HONDO"
-        },
+        }
+      ]
+    }
+  },
+  "LYDIA LOPEZ GUTIERREZ": {
+    "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
+    "general": 7.8056,
+    "n": 72,
+    "grupos": {
+      "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
           "grupo": "005",
           "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-          "profesor": "CECILIA GALAVIZ ALVAREZ",
+          "profesor": "LYDIA LOPEZ GUTIERREZ",
           "creditos": "6",
           "inicio": "11:00",
           "fin": "11:59",
@@ -13692,6 +13674,24 @@ let profesores={
             "VI"
           ],
           "salon": "201",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
+        {
+          "grupo": "005",
+          "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
+          "profesor": "LYDIA LOPEZ GUTIERREZ",
+          "creditos": "6",
+          "inicio": "12:00",
+          "fin": "12:59",
+          "horario": "12:00-12:59",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "207",
           "campus": "RIO HONDO"
         }
       ]
@@ -13781,6 +13781,31 @@ let profesores={
       ]
     }
   },
+  "ANA REGINA LUEVANO CAYON": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
+    "general": 6.7826,
+    "n": 46,
+    "grupos": {
+      "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
+        {
+          "grupo": "002",
+          "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
+          "profesor": "ANA REGINA LUEVANO CAYON",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "07:59",
+          "horario": "07:00-07:59",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "202",
+          "campus": "RIO HONDO"
+        }
+      ]
+    }
+  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.4711,
@@ -13824,16 +13849,16 @@ let profesores={
       ]
     }
   },
-  "ANA REGINA LUEVANO CAYON": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 6.7826,
-    "n": 46,
+  "MARIA TERESITA PAVIA LOPEZ": {
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
+    "general": 7.2124,
+    "n": 113,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
           "grupo": "004",
           "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-          "profesor": "ANA REGINA LUEVANO CAYON",
+          "profesor": "MARIA TERESITA PAVIA LOPEZ",
           "creditos": "6",
           "inicio": "08:00",
           "fin": "08:59",
@@ -13844,6 +13869,24 @@ let profesores={
             "VI"
           ],
           "salon": "201",
+          "campus": "RIO HONDO"
+        }
+      ],
+      "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
+        {
+          "grupo": "001",
+          "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
+          "profesor": "MARIA TERESITA PAVIA LOPEZ",
+          "creditos": "6",
+          "inicio": "07:00",
+          "fin": "07:59",
+          "horario": "07:00-07:59",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "204",
           "campus": "RIO HONDO"
         }
       ]
@@ -14060,32 +14103,16 @@ let profesores={
       ]
     }
   },
-  "MARIA TERESITA PAVIA LOPEZ": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.2124,
-    "n": 113,
+  "DIEGO ALEJANDRO OTERO ANGELINI": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
+    "general": 7.2,
+    "n": 15,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
-          "grupo": "001",
-          "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-          "profesor": "MARIA TERESITA PAVIA LOPEZ",
-          "creditos": "6",
-          "inicio": "07:00",
-          "fin": "07:59",
-          "horario": "07:00-07:59",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "204",
-          "campus": "RIO HONDO"
-        },
-        {
           "grupo": "002",
           "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-          "profesor": "MARIA TERESITA PAVIA LOPEZ",
+          "profesor": "DIEGO ALEJANDRO OTERO ANGELINI",
           "creditos": "6",
           "inicio": "08:00",
           "fin": "08:59",
@@ -14101,32 +14128,13 @@ let profesores={
       ]
     }
   },
-  "CARLOS GUTIERREZ LOZANO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7789,
-    "n": 95,
+  "CARLOS MARISCAL DE GANTE CENTENO": {
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
-          "grupo": "005",
-          "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-          "profesor": "CARLOS GUTIERREZ LOZANO",
-          "creditos": "6",
-          "inicio": "12:00",
-          "fin": "12:59",
-          "horario": "12:00-12:59",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "207",
-          "campus": "RIO HONDO"
-        },
-        {
           "grupo": "006",
           "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-          "profesor": "CARLOS GUTIERREZ LOZANO",
+          "profesor": "CARLOS MARISCAL DE GANTE CENTENO",
           "creditos": "6",
           "inicio": "16:00",
           "fin": "16:59",
@@ -17238,7 +17246,7 @@ let profesores={
           "fin": "18:59",
           "horario": "18:00-18:59",
           "dias": [
-            "MI"
+            "MA"
           ],
           "salon": "204",
           "campus": "RIO HONDO"
@@ -19431,8 +19439,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.4151,
-    "n": 53,
+    "general": 6.463,
+    "n": 54,
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
         {
