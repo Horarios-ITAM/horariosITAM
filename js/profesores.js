@@ -1,4 +1,4 @@
-let actualizado='1670331782974.29';
+let actualizado='1670392805976.063';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -3264,9 +3264,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1042,
-    "n": 48,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -3434,8 +3431,8 @@ let profesores={
   },
   "PETER MATTHEW HILLS": {
     "link": "https://www.misprofesores.com/profesores/Peter-Matthew-HILLS_74956",
-    "general": 9.4444,
-    "n": 9,
+    "general": 9.5,
+    "n": 10,
     "grupos": {
       "CSO-11055-MULTICULTURALISMO (OP)": [
         {
@@ -4217,9 +4214,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4330,7 +4324,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "SA1",
+          "salon": "210",
           "campus": "RIO HONDO"
         }
       ],
@@ -4347,7 +4341,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "SA1",
+          "salon": "213",
           "campus": "RIO HONDO"
         },
         {
@@ -4362,7 +4356,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "SA1",
+          "salon": "213",
           "campus": "RIO HONDO"
         }
       ]
@@ -5177,9 +5171,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -9911,8 +9905,8 @@ let profesores={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.5379,
-    "n": 145,
+    "general": 9.5411,
+    "n": 146,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
@@ -10630,8 +10624,8 @@ let profesores={
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.7143,
-    "n": 7,
+    "general": 9.75,
+    "n": 8,
     "grupos": {
       "ECO-11103-ECONOMIA, III": [
         {
@@ -10669,9 +10663,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -13253,9 +13247,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -13808,8 +13802,8 @@ let profesores={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.4711,
-    "n": 121,
+    "general": 6.459,
+    "n": 122,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -20877,12 +20871,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON"
+    "JEFFREY ALLEN WELDON",
+    "CARLOS FRANCISCO MARTINEZ MORENO"
   ],
   "COMPUTACION": [
     "JOSE OCTAVIO GUTIERREZ GARCIA",
@@ -20925,7 +20919,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
-    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -20933,7 +20926,8 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MENEY DE LA PEZA GANDARA",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+    "MARTA ROBLES CARTES"
   ],
   "ESTADISTICA": [
     "HUGO CUEVAS BRAVO",
@@ -20943,9 +20937,9 @@ let mejoresPorDepto={
     "RODRIGO ZEPEDA TELLO",
     "JOSE MATUK VILLAZON",
     "LILIANA DE LA TORRE DESENTIS",
+    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
-    "TRINIDAD GONZALEZ BONILLA",
-    "ILEANA GARCIA CONDE"
+    "TRINIDAD GONZALEZ BONILLA"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",

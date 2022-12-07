@@ -1,4 +1,4 @@
-let actualizado='1670331782974.29';
+let actualizado='1670392805976.063';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -18747,7 +18747,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "SA1",
+        "salon": "210",
         "campus": "RIO HONDO"
       }
     ]
@@ -18899,7 +18899,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "SA1",
+        "salon": "213",
         "campus": "RIO HONDO"
       },
       {
@@ -18914,7 +18914,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "SA1",
+        "salon": "213",
         "campus": "RIO HONDO"
       }
     ]
@@ -19120,8 +19120,8 @@ let misProfesData={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.4711,
-    "n": 121
+    "general": 6.459,
+    "n": 122
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
@@ -19345,13 +19345,13 @@ let misProfesData={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.5379,
-    "n": 145
+    "general": 9.5411,
+    "n": 146
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.7143,
-    "n": 7
+    "general": 9.75,
+    "n": 8
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
@@ -19624,9 +19624,9 @@ let misProfesData={
     "n": 28
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19695,8 +19695,8 @@ let misProfesData={
   },
   "PETER MATTHEW HILLS": {
     "link": "https://www.misprofesores.com/profesores/Peter-Matthew-HILLS_74956",
-    "general": 9.4444,
-    "n": 9
+    "general": 9.5,
+    "n": 10
   },
   "TETSUYA HOSHINO": {
     "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
@@ -19778,11 +19778,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -19839,14 +19834,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1042,
-    "n": 48
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -20214,9 +20204,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
