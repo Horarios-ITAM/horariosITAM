@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import utils
 from urllib.parse import urljoin
-import requests
+import requests, re
 
 
 class GraceScrapper:
@@ -72,14 +72,12 @@ class GraceScrapper:
         urls={}
         for link in soup.find_all("a"):
             if link.string and "Horarios" in link.string and "LICENCIATURA" in link.string:
-                i=2
-                if "PRIMAVERA" in link.string:
-                    i=0
-                elif "VERANO" in link.string:
-                    i=1
-                urls[i]=link["href"]
+                p=re.findall(".*\((.*)\)",link.string)[0]
+                if utils.periodoValido(p):
+                    urls[p]=link["href"]
 
-        dropDownURL=urljoin(urlServiciosNoPersonalizados,urls[max(urls)])
+        periodo=utils.periodoMasReciente(list(urls.keys()))
+        dropDownURL=urljoin(urlServiciosNoPersonalizados,urls[periodo])
 
         # Extraer formUrl y s
         soup=BeautifulSoup(utils.getHTML(dropDownURL), "html.parser")
@@ -173,6 +171,8 @@ class GraceScrapper:
 
 
 
+if __name__=="__main__":
+    g=GraceScrapper()
 
 
 

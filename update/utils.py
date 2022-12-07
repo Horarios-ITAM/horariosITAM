@@ -88,16 +88,34 @@ def levenshteinSimilarity(s0,s1):
 
 def rankPeriodo(periodo):
     """
-    Asume cadena tipo 'OTOÑO 2022 LICENCIATURA'. 
+    Asigna numerico usado para ordenar a cadena del tipo 'OTOÑO 2022 LICENCIATURA'. 
     """
     assert periodo.count(' ')==2,'Periodo invalido'
     op,yr,_=periodo.split()
-    assert op in ['OTOÑO','PRIMAVERA'],'Periodo invalido'
-    opOffset='0' if op=='PRIMAVERA' else '1'
+    periodos=['PRIMAVERA','VERANO','OTOÑO']
+    assert op in periodos,'Periodo invalido'
+    opOffset=str(len(periodos)-periodos.index(op))
     return int(yr+opOffset)
 
 
 def periodoMasReciente(periodos):
     return sorted(periodos,key=rankPeriodo,reverse=True)[0]
 
+def periodoValido(periodo):
+    periodos=['PRIMAVERA','VERANO','OTOÑO']
+    if len(periodo.split(' '))!=3:
+        return False
+    op,yr,lic=periodo.split()
+    if lic!="LICENCIATURA" or op not in periodos or not str.isnumeric(yr):
+        return False
+    return True
 
+
+if __name__=="__main__":
+    # Prueba rankPeriodo
+    periodos=['PRIMAVERA 2011 LICENCIATURA','PRIMAVERA 2010 LICENCIATURA','VERANO 2010 LICENCIATURA','OTOÑO 2010 LICENCIATURA']
+    ordenados=sorted(periodos,key=rankPeriodo,reverse=True)
+    assert ordenados==periodos
+    for p in periodos:
+        assert periodoValido(p)
+    
