@@ -1,4 +1,4 @@
-let actualizado='1670418183636.4766';
+let actualizado='1670447129462.6028';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=true;
 let sGrace='202301';
@@ -11740,10 +11740,10 @@ let clases={
         "fin": "08:29",
         "horario": "07:00-08:29",
         "dias": [
-          "LU",
-          "MI"
+          "MI",
+          "VI"
         ],
-        "salon": "B-3",
+        "salon": "307",
         "campus": "RIO HONDO"
       }
     ]
@@ -12982,14 +12982,14 @@ let clases={
         "nombre": "EIN-13202-HISTORIA DE LAS R.I. II",
         "profesor": "VALERIA ZEPEDA TREJO",
         "creditos": "8",
-        "inicio": "11:30",
-        "fin": "12:59",
-        "horario": "11:30-12:59",
+        "inicio": "17:30",
+        "fin": "19:29",
+        "horario": "17:30-19:29",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "111",
+        "salon": "103",
         "campus": "RIO HONDO"
       }
     ]
@@ -17449,10 +17449,10 @@ let clases={
         "fin": "18:59",
         "horario": "17:00-18:59",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "112",
+        "salon": "111",
         "campus": "RIO HONDO"
       }
     ]
@@ -19624,9 +19624,9 @@ let misProfesData={
     "n": 28
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19777,6 +19777,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -20209,9 +20214,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
