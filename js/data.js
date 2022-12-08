@@ -1,4 +1,4 @@
-let actualizado='1670479204959.2139';
+let actualizado='1670507488792.804';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -18212,6 +18212,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
     "general": 5.9171,
     "n": 205
+  },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
