@@ -1,4 +1,4 @@
-let actualizado='1670449024627.057';
+let actualizado='1670479204959.2139';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -9597,6 +9597,43 @@ let profesores={
       ]
     }
   },
+  "MARIA CRISTINA RIOS ESPINOSA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
+    "general": 6.3333,
+    "n": 12,
+    "grupos": {
+      "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
+          "profesor": "MARIA CRISTINA RIOS ESPINOSA",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
+          "profesor": "MARIA CRISTINA RIOS ESPINOSA",
+          "creditos": "6",
+          "horario": "18:00-21:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "21:00"
+        }
+      ]
+    }
+  },
   "TETSUYA HOSHINO": {
     "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
     "general": 6.875,
@@ -10039,9 +10076,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -13483,14 +13520,15 @@ let profesores={
           "nombre": "EST-24104-ESTADISTICA APLICADA, I",
           "profesor": "HUGO CUEVAS BRAVO",
           "creditos": "6",
-          "horario": "16:00-19:00",
+          "horario": "20:30-22:00",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
           "salon": "RH107",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
+          "inicio": "20:30",
+          "fin": "22:00"
         }
       ],
       "EST-24127-CALCULO DE PROBABILIDADES II": [
@@ -18219,8 +18257,8 @@ let profesores={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7403,
-    "n": 77,
+    "general": 8.7564,
+    "n": 78,
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
         {
@@ -19491,7 +19529,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
-    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -19499,7 +19536,8 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MENEY DE LA PEZA GANDARA",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",

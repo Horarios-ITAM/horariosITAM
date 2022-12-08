@@ -1,4 +1,4 @@
-let actualizado='1670449024627.057';
+let actualizado='1670479204959.2139';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -8101,6 +8101,34 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
+        "profesor": "MARIA CRISTINA RIOS ESPINOSA",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RH305",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
+        "profesor": "MARIA CRISTINA RIOS ESPINOSA",
+        "creditos": "6",
+        "horario": "18:00-21:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH305",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -12122,14 +12150,15 @@ let clases={
         "nombre": "EST-24104-ESTADISTICA APLICADA, I",
         "profesor": "HUGO CUEVAS BRAVO",
         "creditos": "6",
-        "horario": "16:00-19:00",
+        "horario": "20:30-22:00",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
         "salon": "RH107",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "19:00"
+        "inicio": "20:30",
+        "fin": "22:00"
       }
     ]
   },
@@ -18924,6 +18953,11 @@ let misProfesData={
     "general": 9.4737,
     "n": 19
   },
+  "MARIA CRISTINA RIOS ESPINOSA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
+    "general": 6.3333,
+    "n": 12
+  },
   "SILVIA RIOS MAGOS": {
     "link": "https://www.misprofesores.com/profesores/Silvia-r\u00edos-magos_41283",
     "general": 8.9,
@@ -18945,9 +18979,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -18996,8 +19030,8 @@ let misProfesData={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7403,
-    "n": 77
+    "general": 8.7564,
+    "n": 78
   },
   "IRMA BEATRIZ RUMBOS PELLICER": {
     "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",
