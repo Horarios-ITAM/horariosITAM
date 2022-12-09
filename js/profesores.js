@@ -1,4 +1,4 @@
-let actualizado='1670507488792.804';
+let actualizado='1670565603993.256';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -1145,6 +1145,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "15:00"
+        }
+      ],
+      "CON-15001-IMPUESTOS CORPORATIVOS, I": [
+        {
+          "grupo": "001",
+          "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ],
       "DER-14606-DERECHO PROCESAL PENAL": [
@@ -3894,6 +3910,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4890,9 +4909,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5223,26 +5242,6 @@ let profesores={
       ]
     }
   },
-  "MAURICIO PAYAN SANCHEZ": {
-    "grupos": {
-      "CON-10005-ANAL. FINANCIERO DE LA EMPRESA": [
-        {
-          "grupo": "003",
-          "nombre": "CON-10005-ANAL. FINANCIERO DE LA EMPRESA",
-          "profesor": "MAURICIO PAYAN SANCHEZ",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
   "LIDIA VALLEJO BALDERRABANO": {
     "grupos": {
       "CON-10011-CONT.Y VALUAC. DE INSTR. FINAN": [
@@ -5346,8 +5345,8 @@ let profesores={
   },
   "ELIZABETH GEORGINA URRUTIA LEZAMA": {
     "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
-    "general": 7.5333,
-    "n": 30,
+    "general": 7.5484,
+    "n": 31,
     "grupos": {
       "CON-10100-CONTABILIDAD, I": [
         {
@@ -5560,21 +5559,6 @@ let profesores={
     "grupos": {
       "CON-12110-CONTABILIDAD DE COSTOS P/ING.": [
         {
-          "grupo": "002",
-          "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
-          "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        },
-        {
           "grupo": "003",
           "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
           "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
@@ -5592,21 +5576,6 @@ let profesores={
       ],
       "CON-14101-CONTABILIDAD ADMINISTRATIVA,II": [
         {
-          "grupo": "002",
-          "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
-          "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        },
-        {
           "grupo": "003",
           "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
           "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
@@ -5623,21 +5592,6 @@ let profesores={
         }
       ],
       "CON-14109-CONTABILIDAD GERENCIAL": [
-        {
-          "grupo": "002",
-          "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
-          "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        },
         {
           "grupo": "003",
           "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
@@ -5707,26 +5661,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        }
-      ]
-    }
-  },
-  "MIGUEL ALONSO LLOVERA MADRID": {
-    "grupos": {
-      "CON-15001-IMPUESTOS CORPORATIVOS, I": [
-        {
-          "grupo": "001",
-          "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
-          "profesor": "MIGUEL ALONSO LLOVERA MADRID",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH302",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ]
     }
@@ -5982,6 +5916,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1224,
+    "n": 49,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -7279,13 +7216,13 @@ let profesores={
       ]
     }
   },
-  "SOFIA TREJO ABAD": {
+  "JOSE LUIS HERNANDEZ SANCHEZ": {
     "grupos": {
       "DER-10114-SEM LEG Y ETICA EN CIENC DATOS": [
         {
           "grupo": "001",
           "nombre": "DER-10114-SEM LEG Y ETICA EN CIENC DATOS",
-          "profesor": "SOFIA TREJO ABAD",
+          "profesor": "JOSE LUIS HERNANDEZ SANCHEZ",
           "creditos": "4",
           "horario": "16:00-17:00",
           "dias": [
@@ -8089,13 +8026,13 @@ let profesores={
       ]
     }
   },
-  "CARLOS EDUARDO MARTINEZ BETANZOS": {
+  "GILBERTO NAVA HERNANDEZ": {
     "grupos": {
       "DER-13406-TEORIA GENERAL DEL PROCESO": [
         {
           "grupo": "002",
           "nombre": "DER-13406-TEORIA GENERAL DEL PROCESO",
-          "profesor": "CARLOS EDUARDO MARTINEZ BETANZOS",
+          "profesor": "GILBERTO NAVA HERNANDEZ",
           "creditos": "8",
           "horario": "07:00-09:00",
           "dias": [
@@ -8179,13 +8116,13 @@ let profesores={
       ]
     }
   },
-  "JORGE ARMANDO MEDINA PE\u00d1A": {
+  "SERGIO HUGO MONTA\u00d1O REYES": {
     "grupos": {
       "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB": [
         {
           "grupo": "001L",
           "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
-          "profesor": "JORGE ARMANDO MEDINA PE\u00d1A",
+          "profesor": "SERGIO HUGO MONTA\u00d1O REYES",
           "creditos": "2",
           "horario": "18:00-19:00",
           "dias": [
@@ -8357,6 +8294,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "16:00"
+        }
+      ]
+    }
+  },
+  "BLANCA LIZBETH HERNANDEZ HERNANDEZ": {
+    "grupos": {
+      "DER-15067-CATEDRA ABOGADAS MX": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15067-CATEDRA ABOGADAS MX",
+          "profesor": "BLANCA LIZBETH HERNANDEZ HERNANDEZ",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -8536,30 +8493,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "JOSE ANGEL SANTIAGO ABREGO": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Santiago-\u00c1brego_138583",
-    "general": 2.0,
-    "n": 1,
-    "grupos": {
-      "DER-15704-PROCEDIM. CONSTITUCIONALES": [
-        {
-          "grupo": "002",
-          "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
-          "profesor": "JOSE ANGEL SANTIAGO ABREGO",
-          "creditos": "8",
-          "horario": "08:00-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-1",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:00"
         }
       ]
     }
@@ -10079,9 +10012,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -11520,8 +11453,8 @@ let profesores={
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.2245,
-    "n": 49,
+    "general": 6.22,
+    "n": 50,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11955,8 +11888,8 @@ let profesores={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2426,
-    "n": 169,
+    "general": 8.2529,
+    "n": 170,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14176,9 +14109,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -16365,9 +16298,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17651,8 +17584,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.5714,
-    "n": 35,
+    "general": 6.6111,
+    "n": 36,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -18776,15 +18709,15 @@ let profesores={
           "nombre": "MAT-22211-OPTIMIZACION",
           "profesor": "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO",
           "creditos": "6",
-          "horario": "11:00-12:30",
+          "horario": "11:30-13:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RH306",
           "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:30"
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -19510,12 +19443,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -19532,6 +19465,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
+    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -19539,8 +19473,7 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MENEY DE LA PEZA GANDARA",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
-    "MARTA ROBLES CARTES"
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
@@ -19574,9 +19507,9 @@ let mejoresPorDepto={
     "RODRIGO ZEPEDA TELLO",
     "JOSE MATUK VILLAZON",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
-    "TRINIDAD GONZALEZ BONILLA"
+    "TRINIDAD GONZALEZ BONILLA",
+    "ILEANA GARCIA CONDE"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",

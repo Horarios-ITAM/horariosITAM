@@ -1,4 +1,4 @@
-let actualizado='1670507488792.804';
+let actualizado='1670565603993.256';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -4003,20 +4003,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
-      },
-      {
-        "grupo": "003",
-        "nombre": "CON-10005-ANAL. FINANCIERO DE LA EMPRESA",
-        "profesor": "MAURICIO PAYAN SANCHEZ",
-        "creditos": "6",
-        "horario": "19:00-22:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "RH310",
-        "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "22:00"
       }
     ]
   },
@@ -4308,21 +4294,6 @@ let clases={
         "fin": "17:30"
       },
       {
-        "grupo": "002",
-        "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
-        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
-        "creditos": "6",
-        "horario": "16:00-17:30",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH301",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
-      },
-      {
         "grupo": "003",
         "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
         "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
@@ -4393,21 +4364,6 @@ let clases={
         "fin": "17:30"
       },
       {
-        "grupo": "002",
-        "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
-        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
-        "creditos": "6",
-        "horario": "16:00-17:30",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH301",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
-      },
-      {
         "grupo": "003",
         "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
         "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
@@ -4439,21 +4395,6 @@ let clases={
           "JU"
         ],
         "salon": "RHSA4",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
-      },
-      {
-        "grupo": "002",
-        "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
-        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
-        "creditos": "6",
-        "horario": "16:00-17:30",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -4503,7 +4444,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
-        "profesor": "MIGUEL ALONSO LLOVERA MADRID",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -5850,7 +5791,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10114-SEM LEG Y ETICA EN CIENC DATOS",
-        "profesor": "SOFIA TREJO ABAD",
+        "profesor": "JOSE LUIS HERNANDEZ SANCHEZ",
         "creditos": "4",
         "horario": "16:00-17:00",
         "dias": [
@@ -6608,7 +6549,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-13406-TEORIA GENERAL DEL PROCESO",
-        "profesor": "CARLOS EDUARDO MARTINEZ BETANZOS",
+        "profesor": "GILBERTO NAVA HERNANDEZ",
         "creditos": "8",
         "horario": "07:00-09:00",
         "dias": [
@@ -6706,7 +6647,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
-        "profesor": "JORGE ARMANDO MEDINA PE\u00d1A",
+        "profesor": "SERGIO HUGO MONTA\u00d1O REYES",
         "creditos": "2",
         "horario": "18:00-19:00",
         "dias": [
@@ -6899,6 +6840,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "16:00"
+      }
+    ]
+  },
+  "DER-15067": {
+    "nombre": "DER-15067-CATEDRA ABOGADAS MX",
+    "clave": "DER-15067",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15067-CATEDRA ABOGADAS MX",
+        "profesor": "BLANCA LIZBETH HERNANDEZ HERNANDEZ",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RHB-4",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -7098,21 +7059,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "19:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
-        "profesor": "JOSE ANGEL SANTIAGO ABREGO",
-        "creditos": "8",
-        "horario": "08:00-10:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RHB-1",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "10:00"
       }
     ]
   },
@@ -16841,15 +16787,15 @@ let clases={
         "nombre": "MAT-22211-OPTIMIZACION",
         "profesor": "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO",
         "creditos": "6",
-        "horario": "11:00-12:30",
+        "horario": "11:30-13:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "RH306",
         "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "12:30"
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -18065,8 +18011,8 @@ let misProfesData={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.5714,
-    "n": 35
+    "general": 6.6111,
+    "n": 36
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
@@ -18409,9 +18355,9 @@ let misProfesData={
     "n": 28
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -18558,6 +18504,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -18614,9 +18565,14 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1224,
+    "n": 49
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -18984,9 +18940,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6438,
-    "n": 73
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -19058,11 +19014,6 @@ let misProfesData={
     "general": 5.4444,
     "n": 9
   },
-  "JOSE ANGEL SANTIAGO ABREGO": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Santiago-\u00c1brego_138583",
-    "general": 2.0,
-    "n": 1
-  },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
     "general": 7.05,
@@ -19130,8 +19081,8 @@ let misProfesData={
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.2245,
-    "n": 49
+    "general": 6.22,
+    "n": 50
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
@@ -19144,9 +19095,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -19195,8 +19146,8 @@ let misProfesData={
   },
   "ELIZABETH GEORGINA URRUTIA LEZAMA": {
     "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
-    "general": 7.5333,
-    "n": 30
+    "general": 7.5484,
+    "n": 31
   },
   "CESAR CLAUDIO URRUTIA ROMERO": {
     "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
@@ -19255,8 +19206,8 @@ let misProfesData={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2426,
-    "n": 169
+    "general": 8.2529,
+    "n": 170
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
