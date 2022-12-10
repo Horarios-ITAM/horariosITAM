@@ -1,4 +1,4 @@
-let actualizado='1670590983150.8896';
+let actualizado='1670652006694.4104';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -9410,7 +9410,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "ST",
+        "salon": "ST105",
         "campus": "ST. TERESA",
         "inicio": "14:30",
         "fin": "17:30"
@@ -9541,7 +9541,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "ST",
+        "salon": "ST105",
         "campus": "ST. TERESA",
         "inicio": "17:00",
         "fin": "20:00"
@@ -11352,7 +11352,7 @@ let clases={
         "nombre": "EST-10101-ESTADISTICA.,I",
         "profesor": "ANA LAURA GONZALEZ ENRIQUEZ",
         "creditos": "8",
-        "horario": "11:30-13:00",
+        "horario": "11:30-13:30",
         "dias": [
           "MA",
           "JU"
@@ -11360,7 +11360,7 @@ let clases={
         "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "11:30",
-        "fin": "13:00"
+        "fin": "13:30"
       }
     ]
   },
@@ -18159,11 +18159,6 @@ let misProfesData={
     "general": 5.9171,
     "n": 205
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3
-  },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
     "general": 7.6774,
@@ -18355,9 +18350,9 @@ let misProfesData={
     "n": 28
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -18386,8 +18381,8 @@ let misProfesData={
   },
   "VICTOR MANUEL GUERRERO GUZMAN": {
     "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Guerrero-Guzm\u00e1n_10688",
-    "general": 7.0435,
-    "n": 23
+    "general": 6.875,
+    "n": 24
   },
   "JULIETA IRMA GUIZA PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
@@ -18504,11 +18499,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -18565,14 +18555,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1224,
-    "n": 49
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -18940,9 +18925,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -19095,9 +19080,9 @@ let misProfesData={
     "n": 44
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -19151,8 +19136,8 @@ let misProfesData={
   },
   "CESAR CLAUDIO URRUTIA ROMERO": {
     "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
-    "general": 9.3333,
-    "n": 3
+    "general": 7.5,
+    "n": 4
   },
   "CARLOS ERNESTO URRUTIA VILLALOBOS": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
