@@ -1,4 +1,4 @@
-let actualizado='1670738408313.3308';
+let actualizado='1670763784367.2258';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -18899,6 +18899,11 @@ let misProfesData={
     "general": 9.4737,
     "n": 19
   },
+  "MARIA CRISTINA RIOS ESPINOSA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
+    "general": 6.3333,
+    "n": 12
+  },
   "SILVIA RIOS MAGOS": {
     "link": "https://www.misprofesores.com/profesores/Silvia-r\u00edos-magos_41283",
     "general": 8.9,
@@ -18920,9 +18925,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",

@@ -1,4 +1,4 @@
-let actualizado='1670738408313.3308';
+let actualizado='1670763784367.2258';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -9525,6 +9525,9 @@ let profesores={
     }
   },
   "MARIA CRISTINA RIOS ESPINOSA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
+    "general": 6.3333,
+    "n": 12,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
@@ -10000,9 +10003,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -19453,7 +19456,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
-    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -19461,7 +19463,8 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MENEY DE LA PEZA GANDARA",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
