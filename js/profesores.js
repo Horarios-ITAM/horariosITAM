@@ -1,4 +1,4 @@
-let actualizado='1670824805224.2222';
+let actualizado='1670911204215.8079';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -48,8 +48,8 @@ let profesores={
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
-    "general": 7.0,
-    "n": 8,
+    "general": 6.4444,
+    "n": 9,
     "grupos": {
       "ACT-11300-CALCULO ACTUARIAL I": [
         {
@@ -413,8 +413,8 @@ let profesores={
   },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
-    "general": 6.6667,
-    "n": 3,
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "ACT-15361-BLOCKCHAIN EN SEGUROS Y FINANZ": [
         {
@@ -1824,8 +1824,8 @@ let profesores={
   },
   "DANIELA RUIZ MASSIEU SALINAS": {
     "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",
-    "general": 9.1364,
-    "n": 22,
+    "general": 9.1739,
+    "n": 23,
     "grupos": {
       "ADM-13106-FINANZAS EMPRENDEDORAS": [
         {
@@ -3889,6 +3889,9 @@ let profesores={
     }
   },
   "FERNANDO PURON CONTRERAS": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
+    "general": 7.0,
+    "n": 1,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
@@ -10080,8 +10083,8 @@ let profesores={
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
-    "general": 8.6667,
-    "n": 6,
+    "general": 8.8571,
+    "n": 7,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -13844,8 +13847,8 @@ let profesores={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 5.7143,
-    "n": 7,
+    "general": 5.875,
+    "n": 8,
     "grupos": {
       "EST-14101-CALCULO DE PROBABILIDADES.,I": [
         {
@@ -17857,8 +17860,8 @@ let profesores={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.1622,
-    "n": 37,
+    "general": 7.0263,
+    "n": 38,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -18608,8 +18611,8 @@ let profesores={
   },
   "ANDREAS WACHTEL": {
     "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",
-    "general": 6.4737,
-    "n": 19,
+    "general": 6.4,
+    "n": 20,
     "grupos": {
       "MAT-14390-MATEMATICA COMPUTACIONAL": [
         {
@@ -19382,12 +19385,12 @@ let mejoresPorDepto={
     "DAVID RUELAS RODRIGUEZ",
     "DIEGO HERNANDEZ RANGEL",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
+    "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
     "SERGIO GARCIA ALQUICIRA",
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
-    "PEDRO DANIEL TREJO SOLIS",
-    "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
     "FERNANDO PEREZ RIOS",
+    "PEDRO DANIEL TREJO SOLIS",
     "LEONARDO ROJAS NANDAYAPA"
   ],
   "ADMINISTRACION": [
@@ -19471,8 +19474,8 @@ let mejoresPorDepto={
     "CHRISTINA CORNEJO VAN LUIT",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "CHRISTIANE FABREGA CHIMALI",
     "MENEY DE LA PEZA GANDARA",
+    "CHRISTIANE FABREGA CHIMALI",
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
   ],
   "ESTUDIOS GENERALES": [

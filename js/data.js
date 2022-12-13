@@ -1,4 +1,4 @@
-let actualizado='1670824805224.2222';
+let actualizado='1670911204215.8079';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -17946,8 +17946,8 @@ let misProfesData={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 5.7143,
-    "n": 7
+    "general": 5.875,
+    "n": 8
   },
   "FERNANDO BUENO AJA": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
@@ -18106,8 +18106,8 @@ let misProfesData={
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
-    "general": 8.6667,
-    "n": 6
+    "general": 8.8571,
+    "n": 7
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
@@ -18406,8 +18406,8 @@ let misProfesData={
   },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
-    "general": 6.6667,
-    "n": 3
+    "general": 7.5,
+    "n": 4
   },
   "DIEGO HERNANDEZ RANGEL": {
     "link": "https://www.misprofesores.com/profesores/Diego-Hern\u00e1ndez-Rangel_10679",
@@ -18546,8 +18546,8 @@ let misProfesData={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.1622,
-    "n": 37
+    "general": 7.0263,
+    "n": 38
   },
   "JUAN CARLOS MANSUR GARDA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Mansur-Garda_10820",
@@ -18874,6 +18874,11 @@ let misProfesData={
     "general": 8.3235,
     "n": 34
   },
+  "FERNANDO PURON CONTRERAS": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
+    "general": 7.0,
+    "n": 1
+  },
   "MARCELA RABADAN GALLARDO": {
     "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
     "general": 9.5263,
@@ -18986,8 +18991,8 @@ let misProfesData={
   },
   "DANIELA RUIZ MASSIEU SALINAS": {
     "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",
-    "general": 9.1364,
-    "n": 22
+    "general": 9.1739,
+    "n": 23
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
@@ -19126,8 +19131,8 @@ let misProfesData={
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
-    "general": 7.0,
-    "n": 8
+    "general": 6.4444,
+    "n": 9
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
@@ -19221,8 +19226,8 @@ let misProfesData={
   },
   "ANDREAS WACHTEL": {
     "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",
-    "general": 6.4737,
-    "n": 19
+    "general": 6.4,
+    "n": 20
   },
   "XINYANG WANG": {
     "link": "https://www.misprofesores.com/profesores/Xinyang-Wang_122989",
