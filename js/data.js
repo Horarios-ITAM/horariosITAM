@@ -1,4 +1,4 @@
-let actualizado='1670936583875.3083';
+let actualizado='1670997604661.1318';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -4444,7 +4444,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
-        "profesor": "",
+        "profesor": "GUILLERMO LOPEZ CORRAL",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -6735,14 +6735,14 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-14606-DERECHO PROCESAL PENAL",
-        "profesor": "",
+        "profesor": "JORGE ARTURO GUTIERREZ MU\u00d1OZ",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RHPB1",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -7573,15 +7573,15 @@ let clases={
         "nombre": "DER-17804-DERECHO FISCAL II",
         "profesor": "OSCAR ECHENIQUE QUINTANA",
         "creditos": "8",
-        "horario": "19:00-21:00",
+        "horario": "07:00-09:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RHB-5",
+        "salon": "RH209",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "21:00"
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -11580,15 +11580,15 @@ let clases={
         "nombre": "EST-11102-INFERENCIA ESTADISTICA",
         "profesor": "GERMAN SINUHE AYALA FUENTES",
         "creditos": "8",
-        "horario": "19:30-21:30",
+        "horario": "19:00-21:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RHPB2",
+        "salon": "RH315",
         "campus": "RIO HONDO",
-        "inicio": "19:30",
-        "fin": "21:30"
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -12730,15 +12730,15 @@ let clases={
         "nombre": "IIO-14160-DISE\u00d1O DE PLANTA",
         "profesor": "ALEJANDRO TERAN CASTELLANOS",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RHB-5",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -18051,8 +18051,8 @@ let misProfesData={
   },
   "MANUEL ADRIAN CHAVEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Adrian-Ch\u00e1vez-P\u00e9rez_104157",
-    "general": 9.8333,
-    "n": 6
+    "general": 9.8571,
+    "n": 7
   },
   "ERIKA GEORGINA CHAVEZ PIEDRA BUENA": {
     "link": "https://www.misprofesores.com/profesores/Erika-Georgina-Ch\u00e1vez-Piedra-Buena_79956",
@@ -18086,8 +18086,8 @@ let misProfesData={
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.75,
-    "n": 8
+    "general": 9.7778,
+    "n": 9
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
@@ -18391,8 +18391,8 @@ let misProfesData={
   },
   "JULIETA IRMA GUIZA PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
-    "general": 5.3214,
-    "n": 28
+    "general": 5.4138,
+    "n": 29
   },
   "JOSE OCTAVIO GUTIERREZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Octavio-Gutierrez-Garcia_129405",
@@ -18401,8 +18401,8 @@ let misProfesData={
   },
   "JANKO HERNANDEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
-    "general": 8.1667,
-    "n": 6
+    "general": 8.1429,
+    "n": 7
   },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
@@ -18461,8 +18461,8 @@ let misProfesData={
   },
   "FEDERICO JOSE KUHLMANN RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Federico-Jos\u00e9-Kuhlmann-Rodr\u00edguez_10875",
-    "general": 6.7143,
-    "n": 35
+    "general": 6.8056,
+    "n": 36
   },
   "ANGEL FERNANDO KURI MORALES": {
     "link": "https://www.misprofesores.com/profesores/Angel-Fernando-Kuri-Morales_10853",
@@ -18521,8 +18521,8 @@ let misProfesData={
   },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
-    "general": 8.5806,
-    "n": 31
+    "general": 8.5938,
+    "n": 32
   },
   "ADRIAN LUCARDI": {
     "link": "https://www.misprofesores.com/profesores/Adrian-Lucardi_82586",
@@ -18560,9 +18560,14 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1224,
+    "n": 49
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -18571,8 +18576,8 @@ let misProfesData={
   },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
-    "general": 8.1124,
-    "n": 89
+    "general": 8.1222,
+    "n": 90
   },
   "JOSE MATUK VILLAZON": {
     "link": "https://www.misprofesores.com/profesores/Jose-Matuk-Villaz\u00f3n_138003",
@@ -19136,8 +19141,8 @@ let misProfesData={
   },
   "ALEXANDRA URIBE COUGHLAN": {
     "link": "https://www.misprofesores.com/profesores/Alexandra-Uribe-Coughlan_10804",
-    "general": 8.0964,
-    "n": 83
+    "general": 8.1071,
+    "n": 84
   },
   "ELIZABETH GEORGINA URRUTIA LEZAMA": {
     "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
