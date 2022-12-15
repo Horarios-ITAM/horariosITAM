@@ -1,4 +1,4 @@
-let actualizado='1671022984201.3374';
+let actualizado='1671084006528.3032';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -766,8 +766,8 @@ let profesores={
   },
   "CARLOS GONZALEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
-    "general": 7.6071,
-    "n": 28,
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ADM-12022-ESTRATEGIA GLOBAL": [
         {
@@ -1062,13 +1062,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "OSCAR MARQUEZ RAMIREZ": {
     "grupos": {
       "ADM-12301-TOPICOS DE NEGOCIOS I": [
         {
           "grupo": "001",
           "nombre": "ADM-12301-TOPICOS DE NEGOCIOS I",
-          "profesor": "",
+          "profesor": "OSCAR MARQUEZ RAMIREZ",
           "creditos": "6",
           "horario": "07:00-10:00",
           "dias": [
@@ -1079,7 +1079,1635 @@ let profesores={
           "inicio": "07:00",
           "fin": "10:00"
         }
+      ]
+    }
+  },
+  "JOSE FRANCISCO TUDON MALDONADO": {
+    "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
+    "general": 6.6667,
+    "n": 21,
+    "grupos": {
+      "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS",
+          "profesor": "JOSE FRANCISCO TUDON MALDONADO",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS",
+          "profesor": "JOSE FRANCISCO TUDON MALDONADO",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
       ],
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "JOSE FRANCISCO TUDON MALDONADO",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "JOSE FRANCISCO TUDON MALDONADO",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "ILEANA MARIA LOPEZ PEREZ": {
+    "grupos": {
+      "ADM-12360-NEG. SUSTENTABLES Y RESP. SOC.": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-12360-NEG. SUSTENTABLES Y RESP. SOC.",
+          "profesor": "ILEANA MARIA LOPEZ PEREZ",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "008",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "ILEANA MARIA LOPEZ PEREZ",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "IVAN CANALES SALDA\u00d1A": {
+    "grupos": {
+      "ADM-13101-DESARROLLO EMPRESARIAL": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-13101-DESARROLLO EMPRESARIAL",
+          "profesor": "IVAN CANALES SALDA\u00d1A",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "IVAN CANALES SALDA\u00d1A",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "DANIEL AKLE CARRANZA": {
+    "grupos": {
+      "ADM-13101-DESARROLLO EMPRESARIAL": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-13101-DESARROLLO EMPRESARIAL",
+          "profesor": "DANIEL AKLE CARRANZA",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "DANIELA RUIZ MASSIEU SALINAS": {
+    "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",
+    "general": 9.1739,
+    "n": 23,
+    "grupos": {
+      "ADM-13106-FINANZAS EMPRENDEDORAS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
+          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
+          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "004",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "MARIA DE LA CRUZ TORRES MANTECON": {
+    "grupos": {
+      "ADM-14401-COMPORTAMIENTO HUMANO, I": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-14401-COMPORTAMIENTO HUMANO, I",
+          "profesor": "MARIA DE LA CRUZ TORRES MANTECON",
+          "creditos": "6",
+          "horario": "10:00-13:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ],
+      "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
+          "profesor": "MARIA DE LA CRUZ TORRES MANTECON",
+          "creditos": "6",
+          "horario": "10:00-13:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "JOSE ABRAHAM AGUILAR ICAZA": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Abraham-Aguilar-Icaza_62617",
+    "general": 7.0625,
+    "n": 16,
+    "grupos": {
+      "ADM-14401-COMPORTAMIENTO HUMANO, I": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-14401-COMPORTAMIENTO HUMANO, I",
+          "profesor": "JOSE ABRAHAM AGUILAR ICAZA",
+          "creditos": "6",
+          "horario": "18:00-21:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "21:00"
+        }
+      ],
+      "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
+          "profesor": "JOSE ABRAHAM AGUILAR ICAZA",
+          "creditos": "6",
+          "horario": "18:00-21:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "21:00"
+        }
+      ]
+    }
+  },
+  "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Mart\u00edn-Arciniega-Ruiz-de-Esparza_10724",
+    "general": 8.7419,
+    "n": 31,
+    "grupos": {
+      "ADM-14402-COMPORTAMIENTO HUMANO, II": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-14402-COMPORTAMIENTO HUMANO, II",
+          "profesor": "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "MARGARET KATHRYN  SLOAN": {
+    "grupos": {
+      "ADM-14413-DESAR. DE HABILID. GERENCIALES": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
+          "profesor": "MARGARET KATHRYN  SLOAN",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
+          "profesor": "MARGARET KATHRYN  SLOAN",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "MARIANA CONTRERAS AREVALO": {
+    "link": "https://www.misprofesores.com/profesores/Mariana-Contreras-Ar\u00e9valo_120948",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "ADM-14413-DESAR. DE HABILID. GERENCIALES": [
+        {
+          "grupo": "003",
+          "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
+          "profesor": "MARIANA CONTRERAS AREVALO",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
+          "profesor": "MARIANA CONTRERAS AREVALO",
+          "creditos": "6",
+          "horario": "10:00-13:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "MIGUEL ANGEL CASTUERA MICHER": {
+    "grupos": {
+      "ADM-14495-LIDERAZGO CONSC. Y TRANSF. ORG": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-14495-LIDERAZGO CONSC. Y TRANSF. ORG",
+          "profesor": "MIGUEL ANGEL CASTUERA MICHER",
+          "creditos": "6",
+          "horario": "17:30-20:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "JULIANA GUDI\u00d1O ANTILLON": {
+    "link": "https://www.misprofesores.com/profesores/Juliana-Gudi\u00f1o-Antill\u00f3n_10720",
+    "general": 7.48,
+    "n": 50,
+    "grupos": {
+      "ADM-15501-FINANZAS, I": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15501-FINANZAS, I",
+          "profesor": "JULIANA GUDI\u00d1O ANTILLON",
+          "creditos": "7",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ADM-15501-FINANZAS, I",
+          "profesor": "JULIANA GUDI\u00d1O ANTILLON",
+          "creditos": "7",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ],
+      "ADM-15507-FUNDAMENTOS DE FINANZAS": [
+        {
+          "grupo": "003",
+          "nombre": "ADM-15507-FUNDAMENTOS DE FINANZAS",
+          "profesor": "JULIANA GUDI\u00d1O ANTILLON",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "JULIETA IRMA GUIZA PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
+    "general": 5.4138,
+    "n": 29,
+    "grupos": {
+      "ADM-15501-FINANZAS, I": [
+        {
+          "grupo": "004",
+          "nombre": "ADM-15501-FINANZAS, I",
+          "profesor": "JULIETA IRMA GUIZA PEREZ",
+          "creditos": "7",
+          "horario": "11:00-12:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:30"
+        },
+        {
+          "grupo": "005",
+          "nombre": "ADM-15501-FINANZAS, I",
+          "profesor": "JULIETA IRMA GUIZA PEREZ",
+          "creditos": "7",
+          "horario": "13:00-14:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ]
+    }
+  },
+  "POLUX ERNESTO DIAZ RUIZ": {
+    "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
+    "general": 5.1471,
+    "n": 34,
+    "grupos": {
+      "ADM-15502-FINANZAS, II": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15502-FINANZAS, II",
+          "profesor": "POLUX ERNESTO DIAZ RUIZ",
+          "creditos": "7",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "ADM-15510-INVERSIONES": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15510-INVERSIONES",
+          "profesor": "POLUX ERNESTO DIAZ RUIZ",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "PEDRO ANGEL GARCIA ARES": {
+    "link": "https://www.misprofesores.com/profesores/pedro-\u00e1ngel-garc\u00eda-ares_130183",
+    "general": 8.6,
+    "n": 5,
+    "grupos": {
+      "ADM-15502-FINANZAS, II": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15502-FINANZAS, II",
+          "profesor": "PEDRO ANGEL GARCIA ARES",
+          "creditos": "7",
+          "horario": "08:30-11:30",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ADM-15502-FINANZAS, II",
+          "profesor": "PEDRO ANGEL GARCIA ARES",
+          "creditos": "7",
+          "horario": "11:30-14:30",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "14:30"
+        }
+      ],
+      "ADM-15510-INVERSIONES": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15510-INVERSIONES",
+          "profesor": "PEDRO ANGEL GARCIA ARES",
+          "creditos": "6",
+          "horario": "08:30-11:30",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ADM-15510-INVERSIONES",
+          "profesor": "PEDRO ANGEL GARCIA ARES",
+          "creditos": "6",
+          "horario": "11:30-14:30",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "14:30"
+        }
+      ]
+    }
+  },
+  "RENATA HERRERIAS FRANCO": {
+    "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
+    "general": 6.1818,
+    "n": 22,
+    "grupos": {
+      "ADM-15503-FINANZAS.,III": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15503-FINANZAS.,III",
+          "profesor": "RENATA HERRERIAS FRANCO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "ADM-15593-INGENIERIA FINANCIERA": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15593-INGENIERIA FINANCIERA",
+          "profesor": "RENATA HERRERIAS FRANCO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
+    "general": 6.52,
+    "n": 25,
+    "grupos": {
+      "ADM-15503-FINANZAS.,III": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15503-FINANZAS.,III",
+          "profesor": "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ADM-15503-FINANZAS.,III",
+          "profesor": "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
+      "ADM-15593-INGENIERIA FINANCIERA": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15593-INGENIERIA FINANCIERA",
+          "profesor": "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ADM-15593-INGENIERIA FINANCIERA",
+          "profesor": "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "FRANCO ZECCHETTO TOLEDO": {
+    "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
+    "general": 7.4615,
+    "n": 13,
+    "grupos": {
+      "ADM-15507-FUNDAMENTOS DE FINANZAS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15507-FUNDAMENTOS DE FINANZAS",
+          "profesor": "FRANCO ZECCHETTO TOLEDO",
+          "creditos": "6",
+          "horario": "08:30-11:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-15507-FUNDAMENTOS DE FINANZAS",
+          "profesor": "FRANCO ZECCHETTO TOLEDO",
+          "creditos": "6",
+          "horario": "14:30-17:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "14:30",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "JUAN CARLOS ALVAREZ CAMPERO": {
+    "grupos": {
+      "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
+          "profesor": "JUAN CARLOS ALVAREZ CAMPERO",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "JUAN PABLO MEDINA MORA LOPEZ": {
+    "grupos": {
+      "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
+          "profesor": "JUAN PABLO MEDINA MORA LOPEZ",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "GUILLERMO BENAVIDES PERALES": {
+    "grupos": {
+      "ADM-15517-METODOS EMPIRICOS EN FINANZAS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15517-METODOS EMPIRICOS EN FINANZAS",
+          "profesor": "GUILLERMO BENAVIDES PERALES",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-15517-METODOS EMPIRICOS EN FINANZAS",
+          "profesor": "GUILLERMO BENAVIDES PERALES",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ECO-14501-ECONOMIA DE LA EMPRESA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
+          "profesor": "GUILLERMO BENAVIDES PERALES",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "FERNANDO DIEGO PEREZ CERVANTES": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Diego-P\u00e9rez-Cervantes_114816",
+    "general": 7.4286,
+    "n": 14,
+    "grupos": {
+      "ADM-15522-TEORIA DE LAS FINANZAS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15522-TEORIA DE LAS FINANZAS",
+          "profesor": "FERNANDO DIEGO PEREZ CERVANTES",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-15522-TEORIA DE LAS FINANZAS",
+          "profesor": "FERNANDO DIEGO PEREZ CERVANTES",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "ANURAG SINGH": {
+    "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
+    "general": 5.2941,
+    "n": 17,
+    "grupos": {
+      "ADM-15531-MERCADOS E INSTITUCS. FINANCS.": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15531-MERCADOS E INSTITUCS. FINANCS.",
+          "profesor": "ANURAG SINGH",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-15531-MERCADOS E INSTITUCS. FINANCS.",
+          "profesor": "ANURAG SINGH",
+          "creditos": "6",
+          "horario": "10:00-13:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "JOSE MARIA BARRERO SANCLEMENTE": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
+    "general": 6.3571,
+    "n": 14,
+    "grupos": {
+      "ADM-15532-FINANZAS CORPORATIVAS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15532-FINANZAS CORPORATIVAS",
+          "profesor": "JOSE MARIA BARRERO SANCLEMENTE",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "FRANCISCO PEREZ GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Perez-Gonzalez_78818",
+    "general": 6.7333,
+    "n": 15,
+    "grupos": {
+      "ADM-15532-FINANZAS CORPORATIVAS": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15532-FINANZAS CORPORATIVAS",
+          "profesor": "FRANCISCO PEREZ GONZALEZ",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH315",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "AURELIO VASQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
+    "general": 3.84,
+    "n": 25,
+    "grupos": {
+      "ADM-15533-MODELOS FINANCIEROS I": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15533-MODELOS FINANCIEROS I",
+          "profesor": "AURELIO VASQUEZ",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "MATHIAS JOSEF SCHNEIDER": {
+    "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
+    "general": 7.1111,
+    "n": 9,
+    "grupos": {
+      "ADM-15533-MODELOS FINANCIEROS I": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15533-MODELOS FINANCIEROS I",
+          "profesor": "MATHIAS JOSEF SCHNEIDER",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ADM-15535-DERIVADOS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15535-DERIVADOS",
+          "profesor": "MATHIAS JOSEF SCHNEIDER",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-15535-DERIVADOS",
+          "profesor": "MATHIAS JOSEF SCHNEIDER",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "JANKO HERNANDEZ CORTES": {
+    "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
+    "general": 8.1429,
+    "n": 7,
+    "grupos": {
+      "ADM-15534-MODELOS FINANCIEROS II": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15534-MODELOS FINANCIEROS II",
+          "profesor": "JANKO HERNANDEZ CORTES",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-15534-MODELOS FINANCIEROS II",
+          "profesor": "JANKO HERNANDEZ CORTES",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "FELIX HEINRICH ALBERT MATTHYS": {
+    "grupos": {
+      "ADM-15571-RENTA FIJA": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15571-RENTA FIJA",
+          "profesor": "FELIX HEINRICH ALBERT MATTHYS",
+          "creditos": "6",
+          "horario": "08:30-11:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-15571-RENTA FIJA",
+          "profesor": "FELIX HEINRICH ALBERT MATTHYS",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "LUIS ARIAS OSOYO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Arias-Osoyo_130021",
+    "general": 9.0,
+    "n": 1,
+    "grupos": {
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "006",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "LUIS ARIAS OSOYO",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ADM-15599-INSTITUCIONES FINANCIERAS (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15599-INSTITUCIONES FINANCIERAS (OP)",
+          "profesor": "LUIS ARIAS OSOYO",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "RAFAEL DE HARO MARTINEZ VERTIZ": {
+    "grupos": {
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "009",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "RAFAEL DE HARO MARTINEZ VERTIZ",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA",
+          "profesor": "RAFAEL DE HARO MARTINEZ VERTIZ",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "HERNAN FERNANDEZ LAMADRID": {
+    "grupos": {
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "010",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "HERNAN FERNANDEZ LAMADRID",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA",
+          "profesor": "HERNAN FERNANDEZ LAMADRID",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "MOISES EDUARDO RAMOS DE LA CAJIGA": {
+    "grupos": {
+      "ADM-15610-INV.  EN ACTIVOS ALTERNATIVOS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15610-INV.  EN ACTIVOS ALTERNATIVOS",
+          "profesor": "MOISES EDUARDO RAMOS DE LA CAJIGA",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "BRUCE PETER  MCWILLIAMS": {
+    "grupos": {
+      "ADM-16601-MERCADOTECNIA, I": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-16601-MERCADOTECNIA, I",
+          "profesor": "BRUCE PETER  MCWILLIAMS",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-16601-MERCADOTECNIA, I",
+          "profesor": "BRUCE PETER  MCWILLIAMS",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "JOSE JAVIER MEDRANO PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
+    "general": 9.0,
+    "n": 3,
+    "grupos": {
+      "ADM-16601-MERCADOTECNIA, I": [
+        {
+          "grupo": "003",
+          "nombre": "ADM-16601-MERCADOTECNIA, I",
+          "profesor": "JOSE JAVIER MEDRANO PEREZ",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "ADM-16603-MERCADOTECNIA.,III": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-16603-MERCADOTECNIA.,III",
+          "profesor": "JOSE JAVIER MEDRANO PEREZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "ADM-16644-MODELOS DE MERCADOTECNIA": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-16644-MODELOS DE MERCADOTECNIA",
+          "profesor": "JOSE JAVIER MEDRANO PEREZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "JUAN JOSE FERNANDEZ DURAN": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Jos\u00e9-Fern\u00e1ndez-Dur\u00e1n_10690",
+    "general": 8.2222,
+    "n": 27,
+    "grupos": {
+      "ADM-16602-MERCADOTECNIA, II": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-16602-MERCADOTECNIA, II",
+          "profesor": "JUAN JOSE FERNANDEZ DURAN",
+          "creditos": "7",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-16602-MERCADOTECNIA, II",
+          "profesor": "JUAN JOSE FERNANDEZ DURAN",
+          "creditos": "7",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
+      "ADM-16610-INVESTIGACION DE MERCADOS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
+          "profesor": "JUAN JOSE FERNANDEZ DURAN",
+          "creditos": "7",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
+          "profesor": "JUAN JOSE FERNANDEZ DURAN",
+          "creditos": "7",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "MARION TANGASSI URBY": {
+    "grupos": {
+      "ADM-16602-MERCADOTECNIA, II": [
+        {
+          "grupo": "003",
+          "nombre": "ADM-16602-MERCADOTECNIA, II",
+          "profesor": "MARION TANGASSI URBY",
+          "creditos": "7",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH304",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "ADM-16610-INVESTIGACION DE MERCADOS": [
+        {
+          "grupo": "003",
+          "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
+          "profesor": "MARION TANGASSI URBY",
+          "creditos": "7",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH304",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "CECILIA MARIA ORTIZ AHLF": {
+    "grupos": {
+      "ADM-16603-MERCADOTECNIA.,III": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-16603-MERCADOTECNIA.,III",
+          "profesor": "CECILIA MARIA ORTIZ AHLF",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "ADM-16611-COMPORTAMIENTO DEL CONSUMIDOR": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-16611-COMPORTAMIENTO DEL CONSUMIDOR",
+          "profesor": "CECILIA MARIA ORTIZ AHLF",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
+      "ADM-16644-MODELOS DE MERCADOTECNIA": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-16644-MODELOS DE MERCADOTECNIA",
+          "profesor": "CECILIA MARIA ORTIZ AHLF",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "MONICA PALOMA DE SALAZAR LOPEZ": {
+    "grupos": {
+      "ADM-16700-MERCADOTECNIA DIGITAL": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-16700-MERCADOTECNIA DIGITAL",
+          "profesor": "MONICA PALOMA DE SALAZAR LOPEZ",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "MARGARITA TARRAGONA SAEZ": {
+    "grupos": {
+      "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO": [
+        {
+          "grupo": "001",
+          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
+          "profesor": "MARGARITA TARRAGONA SAEZ",
+          "creditos": "6",
+          "horario": "08:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
+          "profesor": "MARGARITA TARRAGONA SAEZ",
+          "creditos": "6",
+          "horario": "11:00-14:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "JOSE FRANCISCO CASTILLO NAVARRETE": {
+    "grupos": {
+      "CLE-10201-INGLES INTENSIVO-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "CLE-10201-INGLES INTENSIVO-LAB",
+          "profesor": "JOSE FRANCISCO CASTILLO NAVARRETE",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "MARIA GRACE  NOBILE": {
+    "grupos": {
+      "CLE-10202-INGLES AVANZADO-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "CLE-10202-INGLES AVANZADO-LAB",
+          "profesor": "MARIA GRACE  NOBILE",
+          "creditos": "4",
+          "horario": "10:00-12:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
       "CLE-10202-INGLES AVANZADO-LAB": [
         {
           "grupo": "002L",
@@ -1622,1630 +3250,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
-        }
-      ]
-    }
-  },
-  "JOSE FRANCISCO TUDON MALDONADO": {
-    "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
-    "general": 6.6667,
-    "n": 21,
-    "grupos": {
-      "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS",
-          "profesor": "JOSE FRANCISCO TUDON MALDONADO",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS",
-          "profesor": "JOSE FRANCISCO TUDON MALDONADO",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "JOSE FRANCISCO TUDON MALDONADO",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "003",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "JOSE FRANCISCO TUDON MALDONADO",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ]
-    }
-  },
-  "ILEANA MARIA LOPEZ PEREZ": {
-    "grupos": {
-      "ADM-12360-NEG. SUSTENTABLES Y RESP. SOC.": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-12360-NEG. SUSTENTABLES Y RESP. SOC.",
-          "profesor": "ILEANA MARIA LOPEZ PEREZ",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ],
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "008",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "ILEANA MARIA LOPEZ PEREZ",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "IVAN CANALES SALDA\u00d1A": {
-    "grupos": {
-      "ADM-13101-DESARROLLO EMPRESARIAL": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-13101-DESARROLLO EMPRESARIAL",
-          "profesor": "IVAN CANALES SALDA\u00d1A",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ],
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "IVAN CANALES SALDA\u00d1A",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "DANIEL AKLE CARRANZA": {
-    "grupos": {
-      "ADM-13101-DESARROLLO EMPRESARIAL": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-13101-DESARROLLO EMPRESARIAL",
-          "profesor": "DANIEL AKLE CARRANZA",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "DANIELA RUIZ MASSIEU SALINAS": {
-    "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",
-    "general": 9.1739,
-    "n": 23,
-    "grupos": {
-      "ADM-13106-FINANZAS EMPRENDEDORAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
-          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
-          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ],
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "004",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "005",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ]
-    }
-  },
-  "MARIA DE LA CRUZ TORRES MANTECON": {
-    "grupos": {
-      "ADM-14401-COMPORTAMIENTO HUMANO, I": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-14401-COMPORTAMIENTO HUMANO, I",
-          "profesor": "MARIA DE LA CRUZ TORRES MANTECON",
-          "creditos": "6",
-          "horario": "10:00-13:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
-        }
-      ],
-      "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
-          "profesor": "MARIA DE LA CRUZ TORRES MANTECON",
-          "creditos": "6",
-          "horario": "10:00-13:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "JOSE ABRAHAM AGUILAR ICAZA": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Abraham-Aguilar-Icaza_62617",
-    "general": 7.0625,
-    "n": 16,
-    "grupos": {
-      "ADM-14401-COMPORTAMIENTO HUMANO, I": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-14401-COMPORTAMIENTO HUMANO, I",
-          "profesor": "JOSE ABRAHAM AGUILAR ICAZA",
-          "creditos": "6",
-          "horario": "18:00-21:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "21:00"
-        }
-      ],
-      "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
-          "profesor": "JOSE ABRAHAM AGUILAR ICAZA",
-          "creditos": "6",
-          "horario": "18:00-21:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "21:00"
-        }
-      ]
-    }
-  },
-  "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA": {
-    "link": "https://www.misprofesores.com/profesores/Luis-Mart\u00edn-Arciniega-Ruiz-de-Esparza_10724",
-    "general": 8.7419,
-    "n": 31,
-    "grupos": {
-      "ADM-14402-COMPORTAMIENTO HUMANO, II": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-14402-COMPORTAMIENTO HUMANO, II",
-          "profesor": "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "MARGARET KATHRYN  SLOAN": {
-    "grupos": {
-      "ADM-14413-DESAR. DE HABILID. GERENCIALES": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
-          "profesor": "MARGARET KATHRYN  SLOAN",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH206",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
-          "profesor": "MARGARET KATHRYN  SLOAN",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH206",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "MARIANA CONTRERAS AREVALO": {
-    "link": "https://www.misprofesores.com/profesores/Mariana-Contreras-Ar\u00e9valo_120948",
-    "general": 10.0,
-    "n": 1,
-    "grupos": {
-      "ADM-14413-DESAR. DE HABILID. GERENCIALES": [
-        {
-          "grupo": "003",
-          "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
-          "profesor": "MARIANA CONTRERAS AREVALO",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
-          "profesor": "MARIANA CONTRERAS AREVALO",
-          "creditos": "6",
-          "horario": "10:00-13:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "MIGUEL ANGEL CASTUERA MICHER": {
-    "grupos": {
-      "ADM-14495-LIDERAZGO CONSC. Y TRANSF. ORG": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-14495-LIDERAZGO CONSC. Y TRANSF. ORG",
-          "profesor": "MIGUEL ANGEL CASTUERA MICHER",
-          "creditos": "6",
-          "horario": "17:30-20:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH302",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "20:30"
-        }
-      ]
-    }
-  },
-  "JULIANA GUDI\u00d1O ANTILLON": {
-    "link": "https://www.misprofesores.com/profesores/Juliana-Gudi\u00f1o-Antill\u00f3n_10720",
-    "general": 7.48,
-    "n": 50,
-    "grupos": {
-      "ADM-15501-FINANZAS, I": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-15501-FINANZAS, I",
-          "profesor": "JULIANA GUDI\u00d1O ANTILLON",
-          "creditos": "7",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "003",
-          "nombre": "ADM-15501-FINANZAS, I",
-          "profesor": "JULIANA GUDI\u00d1O ANTILLON",
-          "creditos": "7",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ],
-      "ADM-15507-FUNDAMENTOS DE FINANZAS": [
-        {
-          "grupo": "003",
-          "nombre": "ADM-15507-FUNDAMENTOS DE FINANZAS",
-          "profesor": "JULIANA GUDI\u00d1O ANTILLON",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "JULIETA IRMA GUIZA PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
-    "general": 5.4138,
-    "n": 29,
-    "grupos": {
-      "ADM-15501-FINANZAS, I": [
-        {
-          "grupo": "004",
-          "nombre": "ADM-15501-FINANZAS, I",
-          "profesor": "JULIETA IRMA GUIZA PEREZ",
-          "creditos": "7",
-          "horario": "11:00-12:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:30"
-        },
-        {
-          "grupo": "005",
-          "nombre": "ADM-15501-FINANZAS, I",
-          "profesor": "JULIETA IRMA GUIZA PEREZ",
-          "creditos": "7",
-          "horario": "13:00-14:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ]
-    }
-  },
-  "POLUX ERNESTO DIAZ RUIZ": {
-    "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
-    "general": 5.1471,
-    "n": 34,
-    "grupos": {
-      "ADM-15502-FINANZAS, II": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15502-FINANZAS, II",
-          "profesor": "POLUX ERNESTO DIAZ RUIZ",
-          "creditos": "7",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "ADM-15510-INVERSIONES": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15510-INVERSIONES",
-          "profesor": "POLUX ERNESTO DIAZ RUIZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "PEDRO ANGEL GARCIA ARES": {
-    "link": "https://www.misprofesores.com/profesores/pedro-\u00e1ngel-garc\u00eda-ares_130183",
-    "general": 8.6,
-    "n": 5,
-    "grupos": {
-      "ADM-15502-FINANZAS, II": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-15502-FINANZAS, II",
-          "profesor": "PEDRO ANGEL GARCIA ARES",
-          "creditos": "7",
-          "horario": "08:30-11:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "003",
-          "nombre": "ADM-15502-FINANZAS, II",
-          "profesor": "PEDRO ANGEL GARCIA ARES",
-          "creditos": "7",
-          "horario": "11:30-14:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "14:30"
-        }
-      ],
-      "ADM-15510-INVERSIONES": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-15510-INVERSIONES",
-          "profesor": "PEDRO ANGEL GARCIA ARES",
-          "creditos": "6",
-          "horario": "08:30-11:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "003",
-          "nombre": "ADM-15510-INVERSIONES",
-          "profesor": "PEDRO ANGEL GARCIA ARES",
-          "creditos": "6",
-          "horario": "11:30-14:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "14:30"
-        }
-      ]
-    }
-  },
-  "RENATA HERRERIAS FRANCO": {
-    "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
-    "general": 6.1818,
-    "n": 22,
-    "grupos": {
-      "ADM-15503-FINANZAS.,III": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15503-FINANZAS.,III",
-          "profesor": "RENATA HERRERIAS FRANCO",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "ADM-15593-INGENIERIA FINANCIERA": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15593-INGENIERIA FINANCIERA",
-          "profesor": "RENATA HERRERIAS FRANCO",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
-    "general": 6.52,
-    "n": 25,
-    "grupos": {
-      "ADM-15503-FINANZAS.,III": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-15503-FINANZAS.,III",
-          "profesor": "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "ADM-15503-FINANZAS.,III",
-          "profesor": "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ],
-      "ADM-15593-INGENIERIA FINANCIERA": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-15593-INGENIERIA FINANCIERA",
-          "profesor": "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "ADM-15593-INGENIERIA FINANCIERA",
-          "profesor": "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ]
-    }
-  },
-  "FRANCO ZECCHETTO TOLEDO": {
-    "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
-    "general": 7.4615,
-    "n": 13,
-    "grupos": {
-      "ADM-15507-FUNDAMENTOS DE FINANZAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15507-FUNDAMENTOS DE FINANZAS",
-          "profesor": "FRANCO ZECCHETTO TOLEDO",
-          "creditos": "6",
-          "horario": "08:30-11:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-15507-FUNDAMENTOS DE FINANZAS",
-          "profesor": "FRANCO ZECCHETTO TOLEDO",
-          "creditos": "6",
-          "horario": "14:30-17:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "14:30",
-          "fin": "17:30"
-        }
-      ]
-    }
-  },
-  "JUAN CARLOS ALVAREZ CAMPERO": {
-    "grupos": {
-      "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-          "profesor": "JUAN CARLOS ALVAREZ CAMPERO",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "JUAN PABLO MEDINA MORA LOPEZ": {
-    "grupos": {
-      "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-          "profesor": "JUAN PABLO MEDINA MORA LOPEZ",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "GUILLERMO BENAVIDES PERALES": {
-    "grupos": {
-      "ADM-15517-METODOS EMPIRICOS EN FINANZAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15517-METODOS EMPIRICOS EN FINANZAS",
-          "profesor": "GUILLERMO BENAVIDES PERALES",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-15517-METODOS EMPIRICOS EN FINANZAS",
-          "profesor": "GUILLERMO BENAVIDES PERALES",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ],
-      "ECO-14501-ECONOMIA DE LA EMPRESA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
-          "profesor": "GUILLERMO BENAVIDES PERALES",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "FERNANDO DIEGO PEREZ CERVANTES": {
-    "link": "https://www.misprofesores.com/profesores/Fernando-Diego-P\u00e9rez-Cervantes_114816",
-    "general": 7.3846,
-    "n": 13,
-    "grupos": {
-      "ADM-15522-TEORIA DE LAS FINANZAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15522-TEORIA DE LAS FINANZAS",
-          "profesor": "FERNANDO DIEGO PEREZ CERVANTES",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-15522-TEORIA DE LAS FINANZAS",
-          "profesor": "FERNANDO DIEGO PEREZ CERVANTES",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "ANURAG SINGH": {
-    "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
-    "general": 5.2941,
-    "n": 17,
-    "grupos": {
-      "ADM-15531-MERCADOS E INSTITUCS. FINANCS.": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15531-MERCADOS E INSTITUCS. FINANCS.",
-          "profesor": "ANURAG SINGH",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-15531-MERCADOS E INSTITUCS. FINANCS.",
-          "profesor": "ANURAG SINGH",
-          "creditos": "6",
-          "horario": "10:00-13:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "JOSE MARIA BARRERO SANCLEMENTE": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
-    "general": 6.3571,
-    "n": 14,
-    "grupos": {
-      "ADM-15532-FINANZAS CORPORATIVAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15532-FINANZAS CORPORATIVAS",
-          "profesor": "JOSE MARIA BARRERO SANCLEMENTE",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHB-5",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "FRANCISCO PEREZ GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Perez-Gonzalez_78818",
-    "general": 6.7333,
-    "n": 15,
-    "grupos": {
-      "ADM-15532-FINANZAS CORPORATIVAS": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-15532-FINANZAS CORPORATIVAS",
-          "profesor": "FRANCISCO PEREZ GONZALEZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH315",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "AURELIO VASQUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
-    "general": 3.84,
-    "n": 25,
-    "grupos": {
-      "ADM-15533-MODELOS FINANCIEROS I": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15533-MODELOS FINANCIEROS I",
-          "profesor": "AURELIO VASQUEZ",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "MATHIAS JOSEF SCHNEIDER": {
-    "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
-    "general": 7.1111,
-    "n": 9,
-    "grupos": {
-      "ADM-15533-MODELOS FINANCIEROS I": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-15533-MODELOS FINANCIEROS I",
-          "profesor": "MATHIAS JOSEF SCHNEIDER",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ADM-15535-DERIVADOS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15535-DERIVADOS",
-          "profesor": "MATHIAS JOSEF SCHNEIDER",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-15535-DERIVADOS",
-          "profesor": "MATHIAS JOSEF SCHNEIDER",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "JANKO HERNANDEZ CORTES": {
-    "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
-    "general": 8.1429,
-    "n": 7,
-    "grupos": {
-      "ADM-15534-MODELOS FINANCIEROS II": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15534-MODELOS FINANCIEROS II",
-          "profesor": "JANKO HERNANDEZ CORTES",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-15534-MODELOS FINANCIEROS II",
-          "profesor": "JANKO HERNANDEZ CORTES",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "FELIX HEINRICH ALBERT MATTHYS": {
-    "grupos": {
-      "ADM-15571-RENTA FIJA": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15571-RENTA FIJA",
-          "profesor": "FELIX HEINRICH ALBERT MATTHYS",
-          "creditos": "6",
-          "horario": "08:30-11:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-15571-RENTA FIJA",
-          "profesor": "FELIX HEINRICH ALBERT MATTHYS",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "LUIS ARIAS OSOYO": {
-    "link": "https://www.misprofesores.com/profesores/Luis-Arias-Osoyo_130021",
-    "general": 9.0,
-    "n": 1,
-    "grupos": {
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "006",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "LUIS ARIAS OSOYO",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ],
-      "ADM-15599-INSTITUCIONES FINANCIERAS (OP)": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15599-INSTITUCIONES FINANCIERAS (OP)",
-          "profesor": "LUIS ARIAS OSOYO",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "RAFAEL DE HARO MARTINEZ VERTIZ": {
-    "grupos": {
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "009",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "RAFAEL DE HARO MARTINEZ VERTIZ",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ],
-      "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA",
-          "profesor": "RAFAEL DE HARO MARTINEZ VERTIZ",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "HERNAN FERNANDEZ LAMADRID": {
-    "grupos": {
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "010",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "HERNAN FERNANDEZ LAMADRID",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ],
-      "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-15700-FINANC. DE LA INNOVAC Y CAPITA",
-          "profesor": "HERNAN FERNANDEZ LAMADRID",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "MOISES EDUARDO RAMOS DE LA CAJIGA": {
-    "grupos": {
-      "ADM-15610-INV.  EN ACTIVOS ALTERNATIVOS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15610-INV.  EN ACTIVOS ALTERNATIVOS",
-          "profesor": "MOISES EDUARDO RAMOS DE LA CAJIGA",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "BRUCE PETER  MCWILLIAMS": {
-    "grupos": {
-      "ADM-16601-MERCADOTECNIA, I": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16601-MERCADOTECNIA, I",
-          "profesor": "BRUCE PETER  MCWILLIAMS",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-16601-MERCADOTECNIA, I",
-          "profesor": "BRUCE PETER  MCWILLIAMS",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "JOSE JAVIER MEDRANO PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
-    "general": 9.0,
-    "n": 3,
-    "grupos": {
-      "ADM-16601-MERCADOTECNIA, I": [
-        {
-          "grupo": "003",
-          "nombre": "ADM-16601-MERCADOTECNIA, I",
-          "profesor": "JOSE JAVIER MEDRANO PEREZ",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "ADM-16603-MERCADOTECNIA.,III": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16603-MERCADOTECNIA.,III",
-          "profesor": "JOSE JAVIER MEDRANO PEREZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "ADM-16644-MODELOS DE MERCADOTECNIA": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16644-MODELOS DE MERCADOTECNIA",
-          "profesor": "JOSE JAVIER MEDRANO PEREZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "JUAN JOSE FERNANDEZ DURAN": {
-    "link": "https://www.misprofesores.com/profesores/Juan-Jos\u00e9-Fern\u00e1ndez-Dur\u00e1n_10690",
-    "general": 8.2222,
-    "n": 27,
-    "grupos": {
-      "ADM-16602-MERCADOTECNIA, II": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16602-MERCADOTECNIA, II",
-          "profesor": "JUAN JOSE FERNANDEZ DURAN",
-          "creditos": "7",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH110",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-16602-MERCADOTECNIA, II",
-          "profesor": "JUAN JOSE FERNANDEZ DURAN",
-          "creditos": "7",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH110",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ],
-      "ADM-16610-INVESTIGACION DE MERCADOS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
-          "profesor": "JUAN JOSE FERNANDEZ DURAN",
-          "creditos": "7",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH110",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
-          "profesor": "JUAN JOSE FERNANDEZ DURAN",
-          "creditos": "7",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH110",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ]
-    }
-  },
-  "MARION TANGASSI URBY": {
-    "grupos": {
-      "ADM-16602-MERCADOTECNIA, II": [
-        {
-          "grupo": "003",
-          "nombre": "ADM-16602-MERCADOTECNIA, II",
-          "profesor": "MARION TANGASSI URBY",
-          "creditos": "7",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH304",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "ADM-16610-INVESTIGACION DE MERCADOS": [
-        {
-          "grupo": "003",
-          "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
-          "profesor": "MARION TANGASSI URBY",
-          "creditos": "7",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH304",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "CECILIA MARIA ORTIZ AHLF": {
-    "grupos": {
-      "ADM-16603-MERCADOTECNIA.,III": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-16603-MERCADOTECNIA.,III",
-          "profesor": "CECILIA MARIA ORTIZ AHLF",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "ADM-16611-COMPORTAMIENTO DEL CONSUMIDOR": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16611-COMPORTAMIENTO DEL CONSUMIDOR",
-          "profesor": "CECILIA MARIA ORTIZ AHLF",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ],
-      "ADM-16644-MODELOS DE MERCADOTECNIA": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-16644-MODELOS DE MERCADOTECNIA",
-          "profesor": "CECILIA MARIA ORTIZ AHLF",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "MONICA PALOMA DE SALAZAR LOPEZ": {
-    "grupos": {
-      "ADM-16700-MERCADOTECNIA DIGITAL": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16700-MERCADOTECNIA DIGITAL",
-          "profesor": "MONICA PALOMA DE SALAZAR LOPEZ",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "MARGARITA TARRAGONA SAEZ": {
-    "grupos": {
-      "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO": [
-        {
-          "grupo": "001",
-          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-          "profesor": "MARGARITA TARRAGONA SAEZ",
-          "creditos": "6",
-          "horario": "08:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-          "profesor": "MARGARITA TARRAGONA SAEZ",
-          "creditos": "6",
-          "horario": "11:00-14:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
-        }
-      ]
-    }
-  },
-  "JOSE FRANCISCO CASTILLO NAVARRETE": {
-    "grupos": {
-      "CLE-10201-INGLES INTENSIVO-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10201-INGLES INTENSIVO-LAB",
-          "profesor": "JOSE FRANCISCO CASTILLO NAVARRETE",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "MARIA GRACE  NOBILE": {
-    "grupos": {
-      "CLE-10202-INGLES AVANZADO-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10202-INGLES AVANZADO-LAB",
-          "profesor": "MARIA GRACE  NOBILE",
-          "creditos": "4",
-          "horario": "10:00-12:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
         }
       ]
     }
@@ -3880,9 +3884,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4143,8 +4144,8 @@ let profesores={
   },
   "RAFAEL GREGORIO GAMBOA HIRALES": {
     "link": "https://www.misprofesores.com/profesores/Rafael-Gregorio-Gamboa-Hirales_10855",
-    "general": 7.16,
-    "n": 25,
+    "general": 7.2308,
+    "n": 26,
     "grupos": {
       "COM-16203-DES. DE APLICACS. INFORMATICAS": [
         {
@@ -4599,9 +4600,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4856,8 +4854,8 @@ let profesores={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.05,
-    "n": 20,
+    "general": 9.0952,
+    "n": 21,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -4879,9 +4877,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5080,8 +5078,8 @@ let profesores={
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
-    "general": 8.4583,
-    "n": 72,
+    "general": 8.4658,
+    "n": 73,
     "grupos": {
       "CON-10003-CONTABILIDAD INTERMEDIA, II": [
         {
@@ -5906,9 +5904,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1224,
-    "n": 49,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -10023,9 +10018,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -11899,8 +11894,8 @@ let profesores={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2529,
-    "n": 170,
+    "general": 8.2573,
+    "n": 171,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -13520,8 +13515,8 @@ let profesores={
   },
   "GERMAN SINUHE AYALA FUENTES": {
     "link": "https://www.misprofesores.com/profesores/Germ\u00e1n-Sinuhe-Ayala-Fuentes_109376",
-    "general": 5.5,
-    "n": 12,
+    "general": 5.7692,
+    "n": 13,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -14120,9 +14115,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -16309,9 +16304,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17868,8 +17863,8 @@ let profesores={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.0263,
-    "n": 38,
+    "general": 7.0,
+    "n": 39,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -19365,8 +19360,8 @@ let profesores={
   },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
-    "general": 8.5938,
-    "n": 32,
+    "general": 8.5152,
+    "n": 33,
     "grupos": {
       "SDI-25916-SISTEMAS EMPRESARIALES": [
         {
@@ -19421,6 +19416,7 @@ let mejoresPorDepto={
     "MARCELA RABADAN GALLARDO",
     "JOSE FRANCISCO CASTILLO NAVARRETE",
     "MARIA GRACE  NOBILE",
+    "",
     "ARMANDO VERDIN GALAN",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "SANDRA LORENA VILLALOBOS OROZCO",
@@ -19454,12 +19450,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -19476,7 +19472,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
-    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -19484,7 +19479,8 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
     "CHRISTIANE FABREGA CHIMALI",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
@@ -19518,9 +19514,9 @@ let mejoresPorDepto={
     "RODRIGO ZEPEDA TELLO",
     "JOSE MATUK VILLAZON",
     "LILIANA DE LA TORRE DESENTIS",
+    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO",
-    "TRINIDAD GONZALEZ BONILLA",
-    "ILEANA GARCIA CONDE"
+    "TRINIDAD GONZALEZ BONILLA"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
