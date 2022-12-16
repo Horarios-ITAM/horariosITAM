@@ -1,4 +1,4 @@
-let actualizado='1671109383106.811';
+let actualizado='1671170406502.6226';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -703,7 +703,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "14:00",
           "fin": "16:00"
@@ -719,7 +719,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "14:00",
           "fin": "16:00"
@@ -1508,8 +1508,8 @@ let profesores={
   },
   "JULIANA GUDI\u00d1O ANTILLON": {
     "link": "https://www.misprofesores.com/profesores/Juliana-Gudi\u00f1o-Antill\u00f3n_10720",
-    "general": 7.48,
-    "n": 50,
+    "general": 7.4118,
+    "n": 51,
     "grupos": {
       "ADM-15501-FINANZAS, I": [
         {
@@ -4250,8 +4250,8 @@ let profesores={
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
-    "general": 9.0,
-    "n": 22,
+    "general": 9.0435,
+    "n": 23,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -4648,8 +4648,8 @@ let profesores={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.8286,
-    "n": 35,
+    "general": 6.8056,
+    "n": 36,
     "grupos": {
       "COM-23101-INTELIGENCIA ARTIFICIAL": [
         {
@@ -5084,8 +5084,8 @@ let profesores={
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
-    "general": 8.4595,
-    "n": 74,
+    "general": 8.3867,
+    "n": 75,
     "grupos": {
       "CON-10003-CONTABILIDAD INTERMEDIA, II": [
         {
@@ -6906,8 +6906,8 @@ let profesores={
   },
   "LUZ DEL CARMEN CARRILLO CAREAGA": {
     "link": "https://www.misprofesores.com/profesores/Luz-del-Carmen-Carrillo-Careaga_70187",
-    "general": 7.6364,
-    "n": 11,
+    "general": 7.4167,
+    "n": 12,
     "grupos": {
       "DER-10015-DERECHO EMPRESARIAL": [
         {
@@ -11246,8 +11246,8 @@ let profesores={
   },
   "ROBERTO ZOCCO": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Zocco-Pasimeni_35000",
-    "general": 8.8679,
-    "n": 106,
+    "general": 8.8785,
+    "n": 107,
     "grupos": {
       "EGN-11164-EL ARTE DE VIVIR": [
         {
@@ -11518,8 +11518,8 @@ let profesores={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.459,
-    "n": 122,
+    "general": 6.4797,
+    "n": 123,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11664,8 +11664,8 @@ let profesores={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.0536,
-    "n": 56,
+    "general": 8.0877,
+    "n": 57,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11903,8 +11903,8 @@ let profesores={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2573,
-    "n": 171,
+    "general": 8.2267,
+    "n": 172,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12190,8 +12190,8 @@ let profesores={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.436,
-    "n": 211,
+    "general": 6.4245,
+    "n": 212,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12231,8 +12231,8 @@ let profesores={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 7.1395,
-    "n": 43,
+    "general": 7.1591,
+    "n": 44,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -13697,6 +13697,9 @@ let profesores={
     }
   },
   "ERICK ULISES MENDOZA ARIAS": {
+    "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -19522,10 +19525,10 @@ let mejoresPorDepto={
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "RODRIGO ZEPEDA TELLO",
     "JOSE MATUK VILLAZON",
+    "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
     "ERICK MIER MORENO",
-    "TRINIDAD GONZALEZ BONILLA",
-    "ILEANA GARCIA CONDE"
+    "TRINIDAD GONZALEZ BONILLA"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",

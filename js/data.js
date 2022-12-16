@@ -1,4 +1,4 @@
-let actualizado='1671109383106.811';
+let actualizado='1671170406502.6226';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -524,7 +524,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHSA2",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "14:00",
         "fin": "16:00"
@@ -592,7 +592,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHSA2",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "14:00",
         "fin": "16:00"
@@ -17866,8 +17866,8 @@ let misProfesData={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.459,
-    "n": 122
+    "general": 6.4797,
+    "n": 123
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
@@ -18006,8 +18006,8 @@ let misProfesData={
   },
   "LUZ DEL CARMEN CARRILLO CAREAGA": {
     "link": "https://www.misprofesores.com/profesores/Luz-del-Carmen-Carrillo-Careaga_70187",
-    "general": 7.6364,
-    "n": 11
+    "general": 7.4167,
+    "n": 12
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
@@ -18211,8 +18211,8 @@ let misProfesData={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 7.1395,
-    "n": 43
+    "general": 7.1591,
+    "n": 44
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -18326,8 +18326,8 @@ let misProfesData={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.8286,
-    "n": 35
+    "general": 6.8056,
+    "n": 36
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
@@ -18341,8 +18341,8 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.436,
-    "n": 211
+    "general": 6.4245,
+    "n": 212
   },
   "JORGE GONZALEZ GALLASTEGUI": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Gonz\u00e1lez-Gallastegui_129800",
@@ -18381,8 +18381,8 @@ let misProfesData={
   },
   "JULIANA GUDI\u00d1O ANTILLON": {
     "link": "https://www.misprofesores.com/profesores/Juliana-Gudi\u00f1o-Antill\u00f3n_10720",
-    "general": 7.48,
-    "n": 50
+    "general": 7.4118,
+    "n": 51
   },
   "VICTOR MANUEL GUERRERO GUZMAN": {
     "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Guerrero-Guzm\u00e1n_10688",
@@ -18451,8 +18451,8 @@ let misProfesData={
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
-    "general": 8.4595,
-    "n": 74
+    "general": 8.3867,
+    "n": 75
   },
   "PABLO KALMANOVITZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Kalmanovitz-Gonz\u00e1lez_153830",
@@ -18628,6 +18628,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
     "general": 5.8028,
     "n": 71
+  },
+  "ERICK ULISES MENDOZA ARIAS": {
+    "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
+    "general": 8.0,
+    "n": 1
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
@@ -19091,8 +19096,8 @@ let misProfesData={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.0536,
-    "n": 56
+    "general": 8.0877,
+    "n": 57
   },
   "GONZALO TOMAS SUAREZ BELMONT": {
     "link": "https://www.misprofesores.com/profesores/Gonzalo-Tom\u00e1s-Su\u00e1rez-Belmont_19775",
@@ -19211,8 +19216,8 @@ let misProfesData={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2573,
-    "n": 171
+    "general": 8.2267,
+    "n": 172
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
@@ -19251,8 +19256,8 @@ let misProfesData={
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
-    "general": 9.0,
-    "n": 22
+    "general": 9.0435,
+    "n": 23
   },
   "FRANCO ZECCHETTO TOLEDO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
@@ -19271,8 +19276,8 @@ let misProfesData={
   },
   "ROBERTO ZOCCO": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Zocco-Pasimeni_35000",
-    "general": 8.8679,
-    "n": 106
+    "general": 8.8785,
+    "n": 107
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
