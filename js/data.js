@@ -1,4 +1,4 @@
-let actualizado='1671199539034.9414';
+let actualizado='1671256810009.056';
 let periodo='PRIMAVERA 2023 LICENCIATURA';
 let secure=false;
 let sGrace='2242';
@@ -326,6 +326,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ACT-15358-SISTEMAS DE SEGUROS",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "17:30-19:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH301",
+        "campus": "RIO HONDO",
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -4544,9 +4559,9 @@ let clases={
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
-          "LU"
+          "VI"
         ],
-        "salon": "RH310",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -6131,7 +6146,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH312",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -6890,7 +6905,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15073-DERECHO ELECTORAL",
-        "profesor": "",
+        "profesor": "FELIPE DE LA MATA PIZA\u00d1A",
         "creditos": "4",
         "horario": "16:00-18:00",
         "dias": [
@@ -6922,7 +6937,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH312",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -7012,7 +7027,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-15600-DERECHO CONSTITUCIONAL III",
-        "profesor": "ANA MARIA IBARRA OLGUIN",
+        "profesor": "SANDRA LILIANA SERRANO GARCIA",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -7881,15 +7896,15 @@ let clases={
         "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
         "profesor": "LEVENT ULKU",
         "creditos": "6",
-        "horario": "12:30-14:00",
+        "horario": "09:30-11:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH109",
+        "salon": "RH211",
         "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
+        "inicio": "09:30",
+        "fin": "11:00"
       },
       {
         "grupo": "002",
@@ -7945,15 +7960,15 @@ let clases={
         "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
         "profesor": "LEVENT ULKU",
         "creditos": "9",
-        "horario": "12:30-14:00",
+        "horario": "09:30-11:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH109",
+        "salon": "RH211",
         "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
+        "inicio": "09:30",
+        "fin": "11:00"
       },
       {
         "grupo": "002",
@@ -8026,6 +8041,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "007",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "creditos": "9",
+        "horario": "19:00-20:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH203",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:00"
       }
     ]
   },
@@ -8038,15 +8067,15 @@ let clases={
         "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
         "profesor": "CHRISTINA CORNEJO VAN LUIT",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH109",
+        "salon": "RH108",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       },
       {
         "grupo": "002",
@@ -8067,14 +8096,14 @@ let clases={
         "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
         "profesor": "MARIA CRISTINA RIOS ESPINOSA",
         "creditos": "6",
-        "horario": "18:00-21:00",
+        "horario": "19:00-22:00",
         "dias": [
-          "VI"
+          "MI"
         ],
-        "salon": "RH305",
+        "salon": "RH112",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "21:00"
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -8087,15 +8116,15 @@ let clases={
         "nombre": "ECO-10307-JUSTICIA Y MERCADOS",
         "profesor": "ADRIANA ALFARO ALTAMIRANO",
         "creditos": "6",
-        "horario": "13:00-14:30",
+        "horario": "14:30-16:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH111",
+        "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:30"
+        "inicio": "14:30",
+        "fin": "16:00"
       }
     ]
   },
@@ -8565,26 +8594,6 @@ let clases={
       }
     ]
   },
-  "ECO-11221": {
-    "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
-    "clave": "ECO-11221",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
-        "profesor": "JOSE MANUEL LECUANDA ONTIVEROS",
-        "creditos": "6",
-        "horario": "07:00-10:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "RH101",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
-      }
-    ]
-  },
   "ECO-11227": {
     "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
     "clave": "ECO-11227",
@@ -8796,6 +8805,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:30"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
+        "profesor": "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH108",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
       }
     ]
   },
@@ -9189,15 +9213,14 @@ let clases={
         "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
         "profesor": "CHRISTINA CORNEJO VAN LUIT",
         "creditos": "6",
-        "horario": "08:00-10:00",
+        "horario": "16:00-16:31",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH104",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "10:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "16:00",
+        "fin": "16:31"
       },
       {
         "grupo": "002",
@@ -9227,6 +9250,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
+        "profesor": "CHRISTINA CORNEJO VAN LUIT",
+        "creditos": "6",
+        "horario": "16:00-16:30",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "16:00",
+        "fin": "16:30"
       }
     ]
   },
@@ -9397,6 +9434,27 @@ let clases={
       }
     ]
   },
+  "ECO-19220": {
+    "nombre": "ECO-19220-ECONOMIA DEL MEDIO AMBIENTE",
+    "clave": "ECO-19220",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-19220-ECONOMIA DEL MEDIO AMBIENTE",
+        "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+        "creditos": "6",
+        "horario": "11:30-13:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH317",
+        "campus": "RIO HONDO",
+        "inicio": "11:30",
+        "fin": "13:00"
+      }
+    ]
+  },
   "ECO-20513": {
     "nombre": "ECO-20513-MICROECONOMETRIA AVANZADA",
     "clave": "ECO-20513",
@@ -9406,14 +9464,14 @@ let clases={
         "nombre": "ECO-20513-MICROECONOMETRIA AVANZADA",
         "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
         "creditos": "7",
-        "horario": "14:30-17:30",
+        "horario": "16:00-19:00",
         "dias": [
           "LU"
         ],
         "salon": "ST105",
         "campus": "ST. TERESA",
-        "inicio": "14:30",
-        "fin": "17:30"
+        "inicio": "16:00",
+        "fin": "19:00"
       }
     ]
   },
@@ -9604,7 +9662,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ECO-22105-ECONOMIA V",
-        "profesor": "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+        "profesor": "ALEJANDRO HERNANDEZ DELGADO",
         "creditos": "8",
         "horario": "10:00-13:00",
         "dias": [
@@ -9626,15 +9684,15 @@ let clases={
         "nombre": "ECO-22112-MACROECONOM\u00cdA DIN\u00c1MICA I",
         "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "14:30-16:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH309",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "salon": "ST105",
+        "campus": "ST. TERESA",
+        "inicio": "14:30",
+        "fin": "16:00"
       }
     ]
   },
@@ -17571,7 +17629,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
-        "profesor": "JOSE ABEL HERRERA CAMACHO",
+        "profesor": "JOSE DE JESUS MORALES ROMERO",
         "creditos": "8",
         "horario": "16:30-19:30",
         "dias": [
@@ -18424,11 +18482,6 @@ let misProfesData={
     "general": 6.875,
     "n": 8
   },
-  "ANA MARIA IBARRA OLGUIN": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Ibarra-Olgu\u00edn_153937",
-    "general": 6.0,
-    "n": 1
-  },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
     "general": 9.1667,
@@ -18468,11 +18521,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gerardo-Felipe-Laveaga-Rend\u00f3n_85767",
     "general": 6.3333,
     "n": 6
-  },
-  "JOSE MANUEL LECUANDA ONTIVEROS": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Lecuanda-Ontiveros_86804",
-    "general": 8.2424,
-    "n": 33
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
@@ -19261,8 +19309,8 @@ let misProfesData={
   },
   "ROBERTO ZOCCO": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Zocco-Pasimeni_35000",
-    "general": 8.8785,
-    "n": 107
+    "general": 8.8889,
+    "n": 108
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
