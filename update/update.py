@@ -85,8 +85,6 @@ if __name__=="__main__":
         grace=secure
         scrapGraceSecure=True
 
-    grace=secure #Override
-    scrapGraceSecure=True
     grace.scrap()
 
     # ------- MISPROFES -------
