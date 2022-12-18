@@ -1,4 +1,5 @@
 import urllib.request
+import json
 
 claveToDepto={
  'ACT': 'ACTUARIA Y SEGUROS',
@@ -111,6 +112,18 @@ def periodoValido(periodo):
     return True
 
 
+def dic2js(d):
+    out=''
+    for k,v in d.items():
+        if isinstance(v,str):
+            out+=f'let {k}="{v}";\n'
+        else:
+            out+=f'let {k}={json.dumps(v,indent=2)};\n'
+    return out
+    
+
+    
+
 if __name__=="__main__":
     # Prueba rankPeriodo
     periodos=['PRIMAVERA 2011 LICENCIATURA','PRIMAVERA 2010 LICENCIATURA','VERANO 2010 LICENCIATURA','OTOÑO 2010 LICENCIATURA']
@@ -118,4 +131,7 @@ if __name__=="__main__":
     assert ordenados==periodos
     for p in periodos:
         assert periodoValido(p)
+    
+    test={'a':100,'b':200}
+    print(dir2js(test))
     

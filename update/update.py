@@ -3,7 +3,7 @@ from graceScrapper import GraceScrapper
 from misProfesScrapper import MisProfesScrapper
 import json,time
 from graceScrapperSecure import GraceScrapperSecureArea,courseUrl
-from utils import claveToDepto,periodoMasReciente
+from utils import claveToDepto,periodoMasReciente,dic2js
 
 def profesoresData(clases):
     """
@@ -54,7 +54,7 @@ def mejoresProfesPorDepartamento(profesores,n=10):
 
 
 if __name__=="__main__":
-    # Constantes
+    # -------- CONTROL --------
     credsFile="update/creds.json"
     dataFile="js/data.js"
     profesoresDataFile="js/profesores.js"
@@ -63,9 +63,9 @@ if __name__=="__main__":
     scrappearMisProfes=True
     misProfesBufferFile="update/misProfesData.json"
 
-    ahora=time.time()*1000 # En milisegundos
-
+    # --------- GRACE ---------
     # Scrapeamos Grace entrando a Secure Area
+
     # Leer usuario y passwd de grace
     with open(credsFile,"r") as f:
         loginData=json.loads(f.read())
@@ -85,8 +85,11 @@ if __name__=="__main__":
         grace=secure
         scrapGraceSecure=True
 
+    grace=secure #Override
+    scrapGraceSecure=True
     grace.scrap()
 
+    # ------- MISPROFES -------
     # Scrapeamos o cargamos de buffer datos de MisProfes
     if scrappearMisProfes:
         misProfes=MisProfesScrapper(misProfesUrl)
@@ -97,38 +100,49 @@ if __name__=="__main__":
             misProfesData=json.loads(f.read())
             print("Usando datos guardados de MisProfes")
 
-    # Escribimos datos de clases y misProfes (usados en index.html)
-    with open(dataFile,"w+") as f:
-        f.write("let actualizado='"+str(ahora)+"';")
-        f.write("\nlet periodo='"+grace.periodo+"';")
-        f.write("\nlet secure="+('true' if scrapGraceSecure else 'false')+";")
-        f.write("\nlet sGrace='"+(grace.clavePeriodo if scrapGraceSecure else grace.s)+"';")
-        f.write("\nlet dropDownUrl='"+('#' if scrapGraceSecure else grace.dropDownURL)+"';")
-        f.write("\nlet formPostUrl='"+(courseUrl if scrapGraceSecure else grace.formURL)+"';")
-        f.write("\nlet clases="+json.dumps(grace.clases,indent=2)+";")
-
-        f.write("\nlet misProfesData="+json.dumps(misProfesData,indent=2)+";") 
-
-        print("Se escribieron datos en {}".format(dataFile))
-    
     # Guardamos buffer de misProfesData
     with open(misProfesBufferFile,"w+") as f:
         f.write(json.dumps(misProfesData))
+
+
+    # --------- INDEX ---------
+    # Escribimos datos de clases y misProfes (usados en index.html)
+    datosIndex={
+        "actualizado":str(time.time()*1000), # En milisegundos
+        "periodo":grace.periodo,
+        "secure":scrapGraceSecure,
+        "sGrace":grace.clavePeriodo,
+        "dropDownUrl":"#" if scrapGraceSecure else grace.dropDownURL,
+        "formPostUrl":courseUrl if scrapGraceSecure else grace.formURL,
+
+        "clases":grace.clases,
+        "misProfesData":misProfesData
+
+    }
+    with open(dataFile,"w+") as f:
+        f.write(dic2js(datosIndex))
+        print("Se escribieron datos en {}".format(dataFile))
     
+
+    # --------- PROFS ---------
     # Datos para profesores.html
     profesores=profesoresData(grace.clases)
     mejoresPorDepto=mejoresProfesPorDepartamento(profesores)
 
-    with open(profesoresDataFile,"w+") as f:
-        f.write("let actualizado='"+str(ahora)+"';")
-        f.write("\nlet periodo='"+grace.periodo+"';")
-        f.write("\nlet secure="+('true' if scrapGraceSecure else 'false')+";")
-        f.write("\nlet sGrace='"+(grace.clavePeriodo if scrapGraceSecure else grace.s)+"';")
-        f.write("\nlet dropDownUrl='"+('#' if scrapGraceSecure else grace.dropDownURL)+"';")
-        f.write("\nlet formPostUrl='"+(courseUrl if scrapGraceSecure else grace.formURL)+"';")
-        f.write("\nlet profesores="+json.dumps(profesores,indent=2)+";")
-        f.write("\nlet mejoresPorDepto="+json.dumps(mejoresPorDepto,indent=2)+";")
+    datosProfesores={
+        "actualizado":str(time.time()*1000), # En milisegundos
+        "periodo":grace.periodo,
+        "secure":scrapGraceSecure,
+        "sGrace":grace.clavePeriodo,
+        "dropDownUrl":"#" if scrapGraceSecure else grace.dropDownURL,
+        "formPostUrl":courseUrl if scrapGraceSecure else grace.formURL,
 
+        "profesores":profesores,
+        "mejoresPorDepto":mejoresPorDepto
+    }
+
+    with open(profesoresDataFile,"w+") as f:
+        f.write(dic2js(datosProfesores))
         print("Se escribieron datos en {}".format(profesoresDataFile))
 
 

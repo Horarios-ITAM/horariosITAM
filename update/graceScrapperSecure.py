@@ -26,7 +26,7 @@ class GraceScrapperSecureArea:
     Los URLs de Grace y otras constantes se encuentran guardadas en este archivo.
     """
     
-    def __init__(self,usuario:str,passwd:str):
+    def __init__(self,usuario:str,passwd:str,verbose:bool=True):
         """
         Constructor. Hace login y scrapea datos preliminares.
 
@@ -38,11 +38,18 @@ class GraceScrapperSecureArea:
         passwd: str.
             Contraseña de Grace.
         """
-        self.s = requests.Session()
+        self.verbose=verbose
+
+        # Sesion de requests para mantener cookies
+        self.session = requests.Session()
+
+        # Intentamos hacer login con usuario y passwd
         if self.login(usuario,passwd):
+
+            # Si logramos hacer login obtenemos 
             self.periodo,self.clavePeriodo=self._getTerm()
-            print("Periodo: {}".format(self.periodo))
-            print("Clave periodo: {}".format(self.clavePeriodo))
+            if verbose:
+                print(f'Periodo: {self.periodo}\nClave de periodo: {self.clavePeriodo}')
 
     def login(self,usuario,passwd):
         """
@@ -52,7 +59,7 @@ class GraceScrapperSecureArea:
             "sid":usuario,
             "PIN":passwd
         }
-        s=self.s
+        s=self.session
         s.get(loginUrl)
         r=s.post(loginForm,loginData,allow_redirects=True)
         if 'WELCOME' in r.text:
@@ -61,14 +68,13 @@ class GraceScrapperSecureArea:
             url=urljoin(loginUrl,redir)
             r=s.get(url)
             if 'Admissions' in r.text:
-                print("Logged in\nCookies:")
-                print(s.cookies.get_dict())
+                self._print(f'Sesion iniciada con cookies {s.cookies.get_dict()}')
                 return True
             else:
-                print("Error")
+                print('Error iniciando sesion')
                 return False
         else:
-            print("Outer Error")
+            print('Outer Error')
             return False
 
     def _isLoginPage(self,html):
@@ -79,11 +85,12 @@ class GraceScrapperSecureArea:
 
     def _getTerm(self):
         """
-        Regresa el semestre y valor correspondiente del semestre (tupla)
+        Regresa el semestre (e.g. 'PRIMAVERA 2022 LICENCIATURA') y 
+        valor correspondiente del semestre (e.g. 202301) (tupla)
         más reciente de licenciatura que encuentra en termUrl.
         """
-        r=self.s.get(termUrl)
-        b=BeautifulSoup(r.text,'html.parser')
+        response=self.session.get(termUrl)
+        b=BeautifulSoup(response.text,'html.parser')
         value=0
         sem=""
         for opt in b.find_all("option"):
@@ -101,10 +108,10 @@ class GraceScrapperSecureArea:
         Regresa un dict. {clave depto: nombre} que encuentra en deptosUrl.
         """
         data={
-        "p_term":self.clavePeriodo,
-        "p_calling_proc":"P_CrseSearch"
+            "p_term":self.clavePeriodo,
+            "p_calling_proc":"P_CrseSearch"
         }
-        r=self.s.post(deptosUrl,data,allow_redirects=True)
+        r=self.session.post(deptosUrl,data,allow_redirects=True)
         deptos={}
         b=BeautifulSoup(r.text,'html.parser')
         for opt in b.find_all("option"):
@@ -118,7 +125,7 @@ class GraceScrapperSecureArea:
         en el termino term que encuentra haciendo post a courseUrl.
         """
         data="rsts=dummy&crn=dummy&term_in={}&sel_subj=dummy&sel_day=dummy&sel_schd=dummy&sel_insm=dummy&sel_camp=dummy&sel_levl=dummy&sel_sess=dummy&sel_instr=dummy&sel_ptrm=dummy&sel_attr=dummy&sel_subj={}&sel_crse=&sel_title=&sel_from_cred=&sel_to_cred=&sel_ptrm=%25&begin_hh=0&begin_mi=0&end_hh=0&end_mi=0&begin_ap=x&end_ap=y&path=1&SUB_BTN=Course+Search".format(self.clavePeriodo,depto)
-        r=self.s.post(courseUrl,data,allow_redirects=True)
+        r=self.session.post(courseUrl,data,allow_redirects=True)
         codes=[]
         b=BeautifulSoup(r.text,'html.parser')
         for i in b.find_all('input'):
@@ -132,7 +139,7 @@ class GraceScrapperSecureArea:
         haciendo post a courseUrl.
         """
         data="term_in={}&sel_subj=dummy&sel_subj={}&SEL_CRSE={}&SEL_TITLE=&BEGIN_HH=0&BEGIN_MI=0&BEGIN_AP=a&SEL_DAY=dummy&SEL_PTRM=dummy&END_HH=0&END_MI=0&END_AP=a&SEL_CAMP=dummy&SEL_SCHD=dummy&SEL_SESS=dummy&SEL_INSTR=dummy&SEL_INSTR=%25&SEL_ATTR=dummy&SEL_ATTR=%25&SEL_LEVL=dummy&SEL_LEVL=%25&SEL_INSM=dummy&sel_dunt_code=&sel_dunt_unit=&call_value_in=&rsts=dummy&crn=dummy&path=1&SUB_BTN=View+Sections".format(self.clavePeriodo,depto,clave)
-        r=self.s.post(courseUrl,data)
+        r=self.session.post(courseUrl,data)
         return r.text
     
     
@@ -213,10 +220,10 @@ class GraceScrapperSecureArea:
         else:
             deptos=claveToDepto
         
+        self._print("Scrappeando clases de depto ...")
+
         self.clases={}
-        print("Scrappeando clases de depto ...")
         for depto in deptos.keys():
-            print(depto,end='')
             nClases,nGrupos=0,0
             for clave in self.getClavesMaterias(depto):
                 html=self.getHTMLclase(depto,clave)
@@ -251,14 +258,15 @@ class GraceScrapperSecureArea:
 
                 nGrupos+=(len(teorias)+len(labs))
                 nClases+=1
+
+            self._print(f"{depto}: {nClases} clases y {nGrupos} grupos")
                 
-            print(f": {nClases} clases y {nGrupos} grupos")
-                
-        print("Se scrappearon {} clases!".format(len(self.clases)))
+        self._print("Se scrappearon {} clases!".format(len(self.clases)))
 
         # Extrae profesores
         self.profesores=list(set([grupo['profesor'] for clase in self.clases.values() for grupo in clase['grupos'] if len(grupo['profesor'].strip())>1]))
-        print("Se encontraron {} profesores en Grace!".format(len(self.profesores)))
+        
+        self._print("Se encontraron {} profesores en Grace!".format(len(self.profesores)))
 
 
 
@@ -270,6 +278,10 @@ class GraceScrapperSecureArea:
         s=s.strip()
         temp=datetime.strptime(s, "%I:%M %p")
         return datetime.strftime(temp, "%H:%M")
+
+    def _print(self,s):
+        if self.verbose:
+            print(s)
 
 if __name__=='__main__':
     with open("creds.json") as f:

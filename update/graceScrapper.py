@@ -9,7 +9,7 @@ class GraceScrapper:
     Clase que maneja el scrappeo de Grace (serviciosweb.itam.mx).
     """
     
-    def __init__(self,dropDownURL:str = None,formURL:str = None,s:str = None):
+    def __init__(self,dropDownURL:str = None,formURL:str = None,s:str = None,verbose:bool=True):
         """
         Constructor. Scrapea datos preliminares.
         De no proporcionar los parametros se tratarán de scrappear sus valores automaticamente.
@@ -30,20 +30,22 @@ class GraceScrapper:
         # URL de serviciosweb/Grace
         baseURL="https://serviciosweb.itam.mx"
 
+        self.verbose=verbose
+
         # Si no se pasaron URLs, scrapearlas
         if dropDownURL==None or formURL==None or s==None:
-            self.dropDownURL,self.formURL,self.s=self._scrappeaURLs(baseURL)
-            print("\nSe scrappearon las siguientes URLs")
-            print("dropDownURL: {}\nformUrl: {}\ns: {}\n".format(self.dropDownURL,self.formURL,self.s))
+            self.dropDownURL,self.formURL,self.clavePeriodo=self._scrappeaURLs(baseURL)
+
+            self._print('Se scrappearon las siguientes URLs')
+            self._print(f'dropDownURL: {self.dropDownURL}\nformUrl: {self.formURL}\ns: {self.clavePeriodo}\n')
         else:
             self.dropDownURL=dropDownURL
             self.formURL=formURL
-            self.s=s
+            self.clavePeriodo=s
 
         # Determinar periodo
         self.periodo, self.listaClases=self._scrappeaPeriodoListaClases()
-        print("Periodo: {}".format(self.periodo))
-        print("# de clases: {}\n".format(len(self.listaClases)))
+        self._print(f'Periodo: {self.periodo}\nClave de Periodo: {self.clavePeriodo}\n# de clases: {len(self.listaClases)}')
 
     def _scrappeaURLs(self,baseURL):
         """
@@ -147,6 +149,10 @@ class GraceScrapper:
             t={'nombre':originalNombre,'clave':data['depto']+'-'+data['clave'],'grupos':grupos}
             formated[t['clave']]=t
         return formated
+
+    def _print(self,s):
+        if self.verbose:
+            print(s)
     
     def scrap(self):
         """
@@ -154,25 +160,25 @@ class GraceScrapper:
         Almacena resultados en self.clases.
         """
         # Scrapea las clases
-        print("Scrappeando clases ...")
+        self._print("Scrappeando clases ...")
         clases=[]
         for nombre in self.listaClases:
-            info=self._getClaseInfo(requests.post(url=self.formURL,data={"s":self.s,"txt_materia":nombre}).text)
+            info=self._getClaseInfo(requests.post(url=self.formURL,data={"s":self.clavePeriodo,"txt_materia":nombre}).text)
             clases.append(info)
 
         # Formatea clases
         self.clases=self._formateaClases(clases)
-        print("Se scrappearon {} clases!".format(len(self.clases)))
+        self._print(f'Se scrappearon {len(self.clases)} clases!')
 
         # Extrae profesores
         self.profesores=list(set([grupo['prof'] for clase in clases for grupo in clase.values() if len(grupo['prof'].strip())>1]))
-        print("Se encontraron {} profesores en Grace!".format(len(self.profesores)))
-
-
+        self._print(f'Se encontraron {len(self.profesores)} profesores en Grace!')
 
 
 if __name__=="__main__":
     g=GraceScrapper()
+    #g.scrap()
+    
 
 
 
