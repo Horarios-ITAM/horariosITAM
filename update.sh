@@ -5,7 +5,8 @@
 # Siempre hacemos pull y aceptamos todos los cambios entrantes.
 
 cd /home/horariosITAM;
-CWD="$(pwd)";
-echo $CWD;
+
+echo $(pwd)
+echo $(date)
 
 git pull && git checkout --theirs . && python3 update/update.py && git add . && git commit -m "auto update" && git push
