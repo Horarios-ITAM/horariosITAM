@@ -1,4 +1,4 @@
-let actualizado="1671455305902.981";
+let actualizado="1671516393152.0525";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -17909,8 +17909,8 @@ let misProfesData={
   },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
-    "general": 8.8372,
-    "n": 43
+    "general": 8.8409,
+    "n": 44
   },
   "JORGE ALONSO ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
@@ -18254,8 +18254,8 @@ let misProfesData={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 9.0,
-    "n": 3
+    "general": 9.25,
+    "n": 4
   },
   "RAUL FERNANDEZ BRISE\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Raul-Fernandez-Brise\u00f1o_51347",
@@ -18309,8 +18309,8 @@ let misProfesData={
   },
   "CARLOS EMILIO GALINDO FLORES": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
-    "general": 7.8448,
-    "n": 58
+    "general": 7.7627,
+    "n": 59
   },
   "RAFAEL GREGORIO GAMBOA HIRALES": {
     "link": "https://www.misprofesores.com/profesores/Rafael-Gregorio-Gamboa-Hirales_10855",
@@ -18399,8 +18399,13 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4245,
-    "n": 212
+    "general": 6.4272,
+    "n": 213
+  },
+  "ANA LAURA GONZALEZ ENRIQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Laura-Gonzalez-Enriquez_159822",
+    "general": 10.0,
+    "n": 1
   },
   "JORGE GONZALEZ GALLASTEGUI": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Gonz\u00e1lez-Gallastegui_129800",
@@ -18413,9 +18418,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -18552,11 +18557,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -18613,9 +18613,9 @@ let misProfesData={
     "n": 14
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -18664,8 +18664,8 @@ let misProfesData={
   },
   "ENRIQUE MELROSE AGUILAR": {
     "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
-    "general": 7.625,
-    "n": 16
+    "general": 7.5882,
+    "n": 17
   },
   "EDUARDO MENACHE VARELA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
@@ -18844,8 +18844,8 @@ let misProfesData={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.2124,
-    "n": 113
+    "general": 7.2281,
+    "n": 114
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
@@ -18889,8 +18889,8 @@ let misProfesData={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3131,
-    "n": 99
+    "general": 6.33,
+    "n": 100
   },
   "FERNANDO PEREZ RIOS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-P\u00e9rez-R\u00edos_94260",
@@ -18998,9 +18998,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -19254,8 +19254,8 @@ let misProfesData={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.8667,
-    "n": 45
+    "general": 4.8478,
+    "n": 46
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
@@ -19304,8 +19304,8 @@ let misProfesData={
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
-    "general": 9.0435,
-    "n": 23
+    "general": 9.0833,
+    "n": 24
   },
   "FRANCO ZECCHETTO TOLEDO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
@@ -19324,8 +19324,8 @@ let misProfesData={
   },
   "ROBERTO ZOCCO": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Zocco-Pasimeni_35000",
-    "general": 8.8889,
-    "n": 108
+    "general": 8.8899,
+    "n": 109
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",

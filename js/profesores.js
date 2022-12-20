@@ -1,4 +1,4 @@
-let actualizado="1671455305974.8894";
+let actualizado="1671516393444.2861";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3885,9 +3885,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4251,8 +4248,8 @@ let profesores={
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
-    "general": 9.0435,
-    "n": 23,
+    "general": 9.0833,
+    "n": 24,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -4275,8 +4272,8 @@ let profesores={
   },
   "CARLOS EMILIO GALINDO FLORES": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
-    "general": 7.8448,
-    "n": 58,
+    "general": 7.7627,
+    "n": 59,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -4884,9 +4881,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -10078,9 +10075,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -11312,8 +11309,8 @@ let profesores={
   },
   "ROBERTO ZOCCO": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Zocco-Pasimeni_35000",
-    "general": 8.8889,
-    "n": 108,
+    "general": 8.8899,
+    "n": 109,
     "grupos": {
       "EGN-11164-EL ARTE DE VIVIR": [
         {
@@ -11627,8 +11624,8 @@ let profesores={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.2124,
-    "n": 113,
+    "general": 7.2281,
+    "n": 114,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -12256,8 +12253,8 @@ let profesores={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4245,
-    "n": 212,
+    "general": 6.4272,
+    "n": 213,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -13133,6 +13130,9 @@ let profesores={
     }
   },
   "ANA LAURA GONZALEZ ENRIQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Laura-Gonzalez-Enriquez_159822",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -14193,9 +14193,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -15650,8 +15650,8 @@ let profesores={
   },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
-    "general": 8.8372,
-    "n": 43,
+    "general": 8.8409,
+    "n": 44,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16699,8 +16699,8 @@ let profesores={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 9.0,
-    "n": 3,
+    "general": 9.25,
+    "n": 4,
     "grupos": {
       "MAT-11100-MATEMATICAS, I": [
         {
@@ -17158,8 +17158,8 @@ let profesores={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3131,
-    "n": 99,
+    "general": 6.33,
+    "n": 100,
     "grupos": {
       "MAT-12101-CALCULO, II": [
         {
@@ -18870,8 +18870,8 @@ let profesores={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.8667,
-    "n": 45,
+    "general": 4.8478,
+    "n": 46,
     "grupos": {
       "MAT-24110-ANALISIS MATEMATICO, I": [
         {
@@ -19410,8 +19410,8 @@ let profesores={
   },
   "ENRIQUE MELROSE AGUILAR": {
     "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
-    "general": 7.625,
-    "n": 16,
+    "general": 7.5882,
+    "n": 17,
     "grupos": {
       "SDI-14105-INTRODUCCION A LA INGENIERIA": [
         {
@@ -19500,8 +19500,8 @@ let mejoresPorDepto={
     "JAVIER TERRES ARIAS",
     "XOCHITL CHAVARRIA CRUZ",
     "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
-    "ALBERTO ISAAC RAMIREZ PEREZ",
     "MONICA ZAVALA ESTRADA",
+    "ALBERTO ISAAC RAMIREZ PEREZ",
     "SILVIA RIOS MAGOS",
     "SILVIA DEL CARMEN GUARDATI BUEMO",
     "RODOLFO CONDE MARTINEZ",
@@ -19545,7 +19545,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
-    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -19553,7 +19552,8 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
     "CHRISTIANE FABREGA CHIMALI",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
@@ -19580,6 +19580,7 @@ let mejoresPorDepto={
     "FILIBERTO VICTOR KERBER PALMA"
   ],
   "ESTADISTICA": [
+    "ANA LAURA GONZALEZ ENRIQUEZ",
     "HUGO CUEVAS BRAVO",
     "ERIKA BURGOS PADILLA",
     "DANTE GABRIEL CAMPOS SALIDO",
@@ -19588,8 +19589,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "ERICK MIER MORENO",
-    "TRINIDAD GONZALEZ BONILLA"
+    "EDUARDO SELIM MARTINEZ MAYORGA"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
@@ -19618,8 +19618,8 @@ let mejoresPorDepto={
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
     "PAVEL REAL PEREZ",
-    "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "LYSETTE FELIX FELIX",
+    "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "LEON FELIPE VILLALOBOS SANCHEZ",
     "CONCEPCION RUIZ RUIZ FUNES",
