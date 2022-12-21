@@ -1,4 +1,4 @@
-let actualizado="1671602768201.3894";
+let actualizado="1671628155176.4836";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -18617,11 +18617,6 @@ let misProfesData={
     "general": 5.0,
     "n": 1
   },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.12,
-    "n": 50
-  },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
     "general": 8.3333,
@@ -18993,9 +18988,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",

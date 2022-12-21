@@ -1,4 +1,4 @@
-let actualizado="1671602768280.1768";
+let actualizado="1671628155293.3335";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -5908,9 +5908,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.12,
-    "n": 50,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -10072,9 +10069,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6438,
+    "n": 73,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -19520,12 +19517,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -19542,7 +19539,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
-    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -19550,7 +19546,8 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
     "CHRISTIANE FABREGA CHIMALI",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
