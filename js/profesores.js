@@ -1,4 +1,4 @@
-let actualizado="1671541765717.3828";
+let actualizado="1671602768280.1768";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -1441,8 +1441,8 @@ let profesores={
   },
   "ANTONIO RODOLFO LLORET CARRILLO": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Rodolfo-Lloret-Carrillo_10731",
-    "general": 6.1304,
-    "n": 69,
+    "general": 6.0857,
+    "n": 70,
     "grupos": {
       "ADM-12103-ESTRATEGIA EMPRESARIAL": [
         {
@@ -3885,9 +3885,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4884,9 +4881,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6010,15 +6007,15 @@ let profesores={
           "nombre": "ECO-10307-JUSTICIA Y MERCADOS",
           "profesor": "ADRIANA ALFARO ALTAMIRANO",
           "creditos": "6",
-          "horario": "14:30-16:00",
+          "horario": "13:00-14:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "14:30",
-          "fin": "16:00"
+          "inicio": "13:00",
+          "fin": "14:30"
         }
       ]
     }
@@ -9600,9 +9597,6 @@ let profesores={
     }
   },
   "MARIA CRISTINA RIOS ESPINOSA": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
-    "general": 6.3333,
-    "n": 12,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
@@ -16385,9 +16379,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17459,8 +17453,8 @@ let profesores={
   },
   "HERICA SANCHEZ LARIOS": {
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
-    "general": 7.9444,
-    "n": 18,
+    "general": 7.6316,
+    "n": 19,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -18164,8 +18158,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.463,
-    "n": 54,
+    "general": 6.5273,
+    "n": 55,
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
         {
