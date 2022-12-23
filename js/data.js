@@ -1,4 +1,4 @@
-let actualizado="1671714406379.1487";
+let actualizado="1671817970197.589";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -8104,6 +8104,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
+        "profesor": "AGUSTIN CASO RAPHAEL",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH104",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -8502,15 +8516,14 @@ let clases={
         "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
         "profesor": "XINYANG WANG",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "10:00-13:00",
         "dias": [
-          "MA",
-          "JU"
+          "MA"
         ],
-        "salon": "RH308",
+        "salon": "RH204",
         "campus": "RIO HONDO",
         "inicio": "10:00",
-        "fin": "11:30"
+        "fin": "13:00"
       },
       {
         "grupo": "002",
@@ -18418,9 +18431,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19158,9 +19171,9 @@ let misProfesData={
     "n": 45
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
