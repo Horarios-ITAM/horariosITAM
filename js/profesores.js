@@ -1,4 +1,4 @@
-let actualizado="1671817970348.4246";
+let actualizado="1671861838253.069";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -2598,8 +2598,8 @@ let profesores={
   },
   "FRANCISCO PEREZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Francisco-Perez-Gonzalez_78818",
-    "general": 6.7333,
-    "n": 15,
+    "general": 6.8125,
+    "n": 16,
     "grupos": {
       "ADM-15532-FINANZAS CORPORATIVAS": [
         {
@@ -4884,9 +4884,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5320,8 +5320,8 @@ let profesores={
   },
   "ELIZABETH GEORGINA URRUTIA LEZAMA": {
     "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
-    "general": 7.5484,
-    "n": 31,
+    "general": 7.5625,
+    "n": 32,
     "grupos": {
       "CON-10100-CONTABILIDAD, I": [
         {
@@ -5454,8 +5454,8 @@ let profesores={
   },
   "YANIRA ROSALBA PETRIDES JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Yanira-Rosalba-Petrides-Jimenez_10757",
-    "general": 8.3846,
-    "n": 13,
+    "general": 8.1429,
+    "n": 14,
     "grupos": {
       "CON-12110-CONTABILIDAD DE COSTOS P/ING.": [
         {
@@ -11947,8 +11947,8 @@ let profesores={
   },
   "SERGIO MIGUEL SARMIENTO SERRANO": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
-    "general": 7.2597,
-    "n": 77,
+    "general": 7.2821,
+    "n": 78,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -15051,8 +15051,8 @@ let profesores={
   },
   "ADAN RAMIREZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Ad\u00e1n-Ram\u00edrez-L\u00f3pez_62698",
-    "general": 7.8889,
-    "n": 9,
+    "general": 8.1,
+    "n": 10,
     "grupos": {
       "IIO-15140-CIENCIAS DE LOS MATERIALES": [
         {
@@ -16404,9 +16404,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17881,8 +17881,8 @@ let profesores={
   },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
-    "general": 8.1471,
-    "n": 68,
+    "general": 8.1739,
+    "n": 69,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -19536,9 +19536,9 @@ let mejoresPorDepto={
     "ROSA ELENA MIRANDA SANSORES",
     "MARIA LUISA GRUNBERGER STERN",
     "VIRGINIA KALIS LETAYF",
-    "YANIRA ROSALBA PETRIDES JIMENEZ",
     "ANNAPAOLA LLANAS MEJIA",
     "CLAUDIA EMILIA DE LEON PEREZ",
+    "YANIRA ROSALBA PETRIDES JIMENEZ",
     "BERNARDO RAMIREZ FIGUEROA"
   ],
   "CIENCIA POLITICA": [
@@ -19614,8 +19614,8 @@ let mejoresPorDepto={
     "ERICK MIER MORENO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
-    "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
     "ADAN RAMIREZ LOPEZ",
+    "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
     "SERGIO ROMERO HERNANDEZ",
     "LUIS ANTONIO MONCAYO MARTINEZ",
     "ALEJANDRO TERAN CASTELLANOS",
