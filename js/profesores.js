@@ -1,4 +1,4 @@
-let actualizado="1672060002021.4792";
+let actualizado="1672121019009.8425";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -2499,8 +2499,8 @@ let profesores={
   },
   "FERNANDO DIEGO PEREZ CERVANTES": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Diego-P\u00e9rez-Cervantes_114816",
-    "general": 7.4286,
-    "n": 14,
+    "general": 7.6,
+    "n": 15,
     "grupos": {
       "ADM-15522-TEORIA DE LAS FINANZAS": [
         {
@@ -4145,8 +4145,8 @@ let profesores={
   },
   "RAFAEL GREGORIO GAMBOA HIRALES": {
     "link": "https://www.misprofesores.com/profesores/Rafael-Gregorio-Gamboa-Hirales_10855",
-    "general": 7.2308,
-    "n": 26,
+    "general": 7.1852,
+    "n": 27,
     "grupos": {
       "COM-16203-DES. DE APLICACS. INFORMATICAS": [
         {
@@ -5082,8 +5082,8 @@ let profesores={
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
-    "general": 8.3867,
-    "n": 75,
+    "general": 8.4079,
+    "n": 76,
     "grupos": {
       "CON-10003-CONTABILIDAD INTERMEDIA, II": [
         {
@@ -5908,6 +5908,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.12,
+    "n": 50,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -11325,8 +11328,8 @@ let profesores={
   },
   "ROBERTO ZOCCO": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Zocco-Pasimeni_35000",
-    "general": 8.8899,
-    "n": 109,
+    "general": 8.9,
+    "n": 110,
     "grupos": {
       "EGN-11164-EL ARTE DE VIVIR": [
         {
@@ -11743,8 +11746,8 @@ let profesores={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.0877,
-    "n": 57,
+    "general": 8.1034,
+    "n": 58,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -13288,8 +13291,8 @@ let profesores={
   },
   "ERIKA BURGOS PADILLA": {
     "link": "https://www.misprofesores.com/profesores/Erika-Burgos-Padilla_67467",
-    "general": 9.4286,
-    "n": 28,
+    "general": 9.2414,
+    "n": 29,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -13510,8 +13513,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 10.0,
-    "n": 1,
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -14209,9 +14212,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -17684,8 +17687,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.6111,
-    "n": 36,
+    "general": 6.6486,
+    "n": 37,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -18079,8 +18082,8 @@ let profesores={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.8654,
-    "n": 52,
+    "general": 6.963,
+    "n": 54,
     "grupos": {
       "MAT-14102-CALCULO DIF. E INT., III": [
         {
@@ -18136,8 +18139,8 @@ let profesores={
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 9.2143,
-    "n": 14,
+    "general": 9.1333,
+    "n": 15,
     "grupos": {
       "MAT-14102-CALCULO DIF. E INT., III": [
         {
@@ -18668,8 +18671,8 @@ let profesores={
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
-    "general": 6.0952,
-    "n": 21,
+    "general": 6.0455,
+    "n": 22,
     "grupos": {
       "MAT-14390-MATEMATICA COMPUTACIONAL": [
         {
@@ -19036,6 +19039,9 @@ let profesores={
     }
   },
   "FRANCISCO JAVIER VILLA LOPEZ": {
+    "link": "https://www.misprofesores.com/profesores/FRANCISCO-JAVIER-VILLA-LOPEZ_159928",
+    "general": 9.0,
+    "n": 1,
     "grupos": {
       "SDI-11120-ELEMENTOS DE FISICA-LAB": [
         {
@@ -19110,6 +19116,9 @@ let profesores={
     }
   },
   "MARIA OFELIA RODRIGUEZ DURAN": {
+    "link": "https://www.misprofesores.com/profesores/MARIA-OFELIA-RODRIGUEZ-DURAN_159927",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB": [
         {
@@ -19130,6 +19139,9 @@ let profesores={
     }
   },
   "RAFAEL CISNEROS MONTOYA": {
+    "link": "https://www.misprofesores.com/profesores/Rafael-Cisneros-Montoya_129147",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "SDI-11221-ELEMENTOS DE ELECTRONICA": [
         {
@@ -19539,12 +19551,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -19605,7 +19617,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA"
+    "ERICK MIER MORENO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
@@ -19644,15 +19656,15 @@ let mejoresPorDepto={
     "SHARON MAGALI VALVERDE ESPARZA"
   ],
   "SISTEMAS DIGITALES": [
+    "FRANCISCO JAVIER VILLA LOPEZ",
     "IRMA LOZANO MENDICUTI",
+    "RAFAEL CISNEROS MONTOYA",
     "ENRIQUE MELROSE AGUILAR",
     "ANTE SALCEDO GONZALEZ",
     "JOSE CALIXTO CANO",
+    "MARIA OFELIA RODRIGUEZ DURAN",
     "CARLOS ALBERTO MUNIVE VAZQUEZ",
     "ROMEO SALVADOR ORTEGA MARTINEZ",
-    "FRANCISCO JAVIER VILLA LOPEZ",
-    "MARIA OFELIA RODRIGUEZ DURAN",
-    "RAFAEL CISNEROS MONTOYA",
     "SERGIO HERNANDEZ SANCHEZ"
   ]
 };
