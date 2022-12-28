@@ -1,4 +1,4 @@
-let actualizado="1672146410454.724";
+let actualizado="1672207429064.3386";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3885,9 +3885,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -10661,8 +10658,8 @@ let profesores={
   },
   "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO": {
     "link": "https://www.misprofesores.com/profesores/HUGO-ALEJANDRO-GARDU\u00d1O-ARREDONDO_103934",
-    "general": 8.6667,
-    "n": 3,
+    "general": 9.0,
+    "n": 4,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -19581,10 +19578,10 @@ let mejoresPorDepto={
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
     "MIGUEL MESSMACHER LINARTAS",
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
-    "CHRISTIANE FABREGA CHIMALI",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO"
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
