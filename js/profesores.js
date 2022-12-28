@@ -1,4 +1,4 @@
-let actualizado="1672207429064.3386";
+let actualizado="1672232795967.712";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3885,6 +3885,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -9392,8 +9395,8 @@ let profesores={
   },
   "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
     "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
-    "general": 5.4444,
-    "n": 9,
+    "general": 5.1,
+    "n": 10,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
