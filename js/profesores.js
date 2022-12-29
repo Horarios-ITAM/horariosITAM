@@ -1,4 +1,4 @@
-let actualizado="1672232795967.712";
+let actualizado="1672293839031.8345";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3885,9 +3885,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3966,8 +3963,8 @@ let profesores={
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
-    "general": 9.1667,
-    "n": 12,
+    "general": 9.1538,
+    "n": 13,
     "grupos": {
       "COM-12104-VISUALIZACION DE INFORMACION": [
         {
@@ -5005,8 +5002,8 @@ let profesores={
   },
   "ANNAPAOLA LLANAS MEJIA": {
     "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
-    "general": 8.3836,
-    "n": 73,
+    "general": 8.3108,
+    "n": 74,
     "grupos": {
       "CON-10002-CONTABILIDAD INTERMEDIA, I": [
         {
@@ -11646,8 +11643,8 @@ let profesores={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.2281,
-    "n": 114,
+    "general": 7.2261,
+    "n": 115,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -16381,8 +16378,8 @@ let profesores={
   },
   "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ": {
     "link": "https://www.misprofesores.com/profesores/PAULINA-MORALES-LOPEZ-SANTIBA\u00d1EZ_99563",
-    "general": 8.0,
-    "n": 6,
+    "general": 7.2857,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17180,8 +17177,8 @@ let profesores={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.33,
-    "n": 100,
+    "general": 6.3663,
+    "n": 101,
     "grupos": {
       "MAT-12101-CALCULO, II": [
         {
@@ -17690,8 +17687,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.6486,
-    "n": 37,
+    "general": 6.6579,
+    "n": 38,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -18374,8 +18371,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.4,
-    "n": 30,
+    "general": 7.4194,
+    "n": 31,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -19465,8 +19462,8 @@ let profesores={
   },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
-    "general": 8.5152,
-    "n": 33,
+    "general": 8.5294,
+    "n": 34,
     "grupos": {
       "SDI-25916-SISTEMAS EMPRESARIALES": [
         {

@@ -1,4 +1,4 @@
-let actualizado="1672232795810.6155";
+let actualizado="1672293838855.2258";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -18082,8 +18082,8 @@ let misProfesData={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.6486,
-    "n": 37
+    "general": 6.6579,
+    "n": 38
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
@@ -18512,8 +18512,8 @@ let misProfesData={
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
-    "general": 9.1667,
-    "n": 12
+    "general": 9.1538,
+    "n": 13
   },
   "ALEJANDRO ISLAS CAMARGO": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Islas-Camargo_10684",
@@ -18557,8 +18557,8 @@ let misProfesData={
   },
   "ANNAPAOLA LLANAS MEJIA": {
     "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
-    "general": 8.3836,
-    "n": 73
+    "general": 8.3108,
+    "n": 74
   },
   "ANTONIO RODOLFO LLORET CARRILLO": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Rodolfo-Lloret-Carrillo_10731",
@@ -18574,11 +18574,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -18597,8 +18592,8 @@ let misProfesData={
   },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
-    "general": 8.5152,
-    "n": 33
+    "general": 8.5294,
+    "n": 34
   },
   "ADRIAN LUCARDI": {
     "link": "https://www.misprofesores.com/profesores/Adrian-Lucardi_82586",
@@ -18762,8 +18757,8 @@ let misProfesData={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.4,
-    "n": 30
+    "general": 7.4194,
+    "n": 31
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
@@ -18772,8 +18767,8 @@ let misProfesData={
   },
   "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ": {
     "link": "https://www.misprofesores.com/profesores/PAULINA-MORALES-LOPEZ-SANTIBA\u00d1EZ_99563",
-    "general": 8.0,
-    "n": 6
+    "general": 7.2857,
+    "n": 7
   },
   "JOSE ANTONIO MORALES YA\u00d1EZ": {
     "link": "https://www.misprofesores.com/profesores/JOSE-ANTONIO-MORALES-YA\u00d1EZ_71535",
@@ -18867,8 +18862,8 @@ let misProfesData={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.2281,
-    "n": 114
+    "general": 7.2261,
+    "n": 115
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
@@ -18912,8 +18907,8 @@ let misProfesData={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.33,
-    "n": 100
+    "general": 6.3663,
+    "n": 101
   },
   "FERNANDO PEREZ RIOS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-P\u00e9rez-R\u00edos_94260",
