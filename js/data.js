@@ -1,4 +1,4 @@
-let actualizado="1672380232267.69";
+let actualizado="1672405607773.7747";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -18575,6 +18575,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -18990,11 +18995,6 @@ let misProfesData={
     "general": 9.4737,
     "n": 19
   },
-  "MARIA CRISTINA RIOS ESPINOSA": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
-    "general": 6.3333,
-    "n": 12
-  },
   "SILVIA RIOS MAGOS": {
     "link": "https://www.misprofesores.com/profesores/Silvia-r\u00edos-magos_41283",
     "general": 8.9,
@@ -19016,9 +19016,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5946,
-    "n": 74
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -19176,9 +19176,9 @@ let misProfesData={
     "n": 45
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

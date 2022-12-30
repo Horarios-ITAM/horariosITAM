@@ -1,4 +1,4 @@
-let actualizado="1672380232684.3025";
+let actualizado="1672405607968.653";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3885,6 +3885,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -9597,9 +9600,6 @@ let profesores={
     }
   },
   "MARIA CRISTINA RIOS ESPINOSA": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
-    "general": 6.3333,
-    "n": 12,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
@@ -10095,9 +10095,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5946,
-    "n": 74,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -16401,9 +16401,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -19573,6 +19573,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
+    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -19580,8 +19581,7 @@ let mejoresPorDepto={
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
-    "CHRISTIANE FABREGA CHIMALI",
-    "ARTURO ALBERTO AGUILAR ESTEVA"
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
