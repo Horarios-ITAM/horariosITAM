@@ -1,4 +1,4 @@
-let actualizado="1672319203338.7024";
+let actualizado="1672380232267.69";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -18412,8 +18412,8 @@ let misProfesData={
   },
   "TRINIDAD GONZALEZ BONILLA": {
     "link": "https://www.misprofesores.com/profesores/Trinidad-Gonzales-Bonilla_147541",
-    "general": 7.6667,
-    "n": 3
+    "general": 7.5,
+    "n": 4
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
@@ -18436,14 +18436,14 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
-    "general": 6.7037,
-    "n": 27
+    "general": 6.7143,
+    "n": 28
   },
   "MARIA MERCEDES GREGORIO DOMINGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Mercedes-Gregorio-Dom\u00ednguez_10676",
@@ -18575,11 +18575,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -18642,8 +18637,8 @@ let misProfesData={
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.12,
-    "n": 50
+    "general": 8.1373,
+    "n": 51
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -19021,9 +19016,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5946,
+    "n": 74
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -19112,8 +19107,8 @@ let misProfesData={
   },
   "JULIETA MARIA SARRALDE VERA": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Mar\u00eda-Sarralde-Vera_10718",
-    "general": 7.3793,
-    "n": 58
+    "general": 7.2333,
+    "n": 60
   },
   "CARLOS EDUARDO SCHLESKE JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Schleske-Juarez_130086",
@@ -19322,8 +19317,8 @@ let misProfesData={
   },
   "JEFFREY ALLEN WELDON": {
     "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",
-    "general": 6.0274,
-    "n": 73
+    "general": 6.0405,
+    "n": 74
   },
   "GUILLERMO ZAMARRIPA ESCAMILLA": {
     "link": "https://www.misprofesores.com/profesores/Guillermo-Zamarripa-Escamilla_37101",

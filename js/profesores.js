@@ -1,4 +1,4 @@
-let actualizado="1672319203513.1023";
+let actualizado="1672380232684.3025";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -1155,8 +1155,8 @@ let profesores={
   },
   "JULIETA MARIA SARRALDE VERA": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Mar\u00eda-Sarralde-Vera_10718",
-    "general": 7.3793,
-    "n": 58,
+    "general": 7.2333,
+    "n": 60,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -3885,9 +3885,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4884,9 +4881,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5912,8 +5909,8 @@ let profesores={
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.12,
-    "n": 50,
+    "general": 8.1373,
+    "n": 51,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -6332,8 +6329,8 @@ let profesores={
   },
   "JEFFREY ALLEN WELDON": {
     "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",
-    "general": 6.0274,
-    "n": 73,
+    "general": 6.0405,
+    "n": 74,
     "grupos": {
       "CSO-15021-ELECCION PUBLICA,I": [
         {
@@ -10098,9 +10095,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5946,
+    "n": 74,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -12929,8 +12926,8 @@ let profesores={
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
-    "general": 6.7037,
-    "n": 27,
+    "general": 6.7143,
+    "n": 28,
     "grupos": {
       "EIN-15105-POL. DE LAS REL. ECONOM. INT.": [
         {
@@ -13376,8 +13373,8 @@ let profesores={
   },
   "TRINIDAD GONZALEZ BONILLA": {
     "link": "https://www.misprofesores.com/profesores/Trinidad-Gonzales-Bonilla_147541",
-    "general": 7.6667,
-    "n": 3,
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -19576,7 +19573,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
-    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -19584,7 +19580,8 @@ let mejoresPorDepto={
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
-    "CHRISTIANE FABREGA CHIMALI"
+    "CHRISTIANE FABREGA CHIMALI",
+    "ARTURO ALBERTO AGUILAR ESTEVA"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
