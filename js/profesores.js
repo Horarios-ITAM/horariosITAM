@@ -1,4 +1,4 @@
-let actualizado="1672405607968.653";
+let actualizado="1672466641213.369";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -48,8 +48,8 @@ let profesores={
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
-    "general": 6.4444,
-    "n": 9,
+    "general": 6.6,
+    "n": 10,
     "grupos": {
       "ACT-11300-CALCULO ACTUARIAL I": [
         {
@@ -3885,9 +3885,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -9600,6 +9597,9 @@ let profesores={
     }
   },
   "MARIA CRISTINA RIOS ESPINOSA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
+    "general": 6.3333,
+    "n": 12,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
@@ -10095,9 +10095,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5946,
+    "n": 74,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -12231,8 +12231,8 @@ let profesores={
   },
   "FEDERICO GUILLERMO DURAND GUEVARA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
-    "general": 5.9171,
-    "n": 205,
+    "general": 5.8981,
+    "n": 206,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12885,8 +12885,8 @@ let profesores={
   },
   "RODRIGO CHACON AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Chac\u00f3n-Aguirre_78222",
-    "general": 8.3182,
-    "n": 22,
+    "general": 8.3043,
+    "n": 23,
     "grupos": {
       "EIN-14302-HISTORIA DE E.U.A.": [
         {
@@ -13455,8 +13455,8 @@ let profesores={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.8028,
-    "n": 71,
+    "general": 5.8472,
+    "n": 72,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -14212,9 +14212,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -16401,9 +16401,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -19493,9 +19493,9 @@ let mejoresPorDepto={
     "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
     "SERGIO GARCIA ALQUICIRA",
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
+    "PEDRO DANIEL TREJO SOLIS",
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
     "FERNANDO PEREZ RIOS",
-    "PEDRO DANIEL TREJO SOLIS",
     "LEONARDO ROJAS NANDAYAPA"
   ],
   "ADMINISTRACION": [
@@ -19573,7 +19573,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JAAKKO PEKKA MERILAINEN",
-    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -19581,7 +19580,8 @@ let mejoresPorDepto={
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
-    "CHRISTIANE FABREGA CHIMALI"
+    "CHRISTIANE FABREGA CHIMALI",
+    "ARTURO ALBERTO AGUILAR ESTEVA"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
@@ -19617,7 +19617,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "ERICK MIER MORENO"
+    "EDUARDO SELIM MARTINEZ MAYORGA"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",

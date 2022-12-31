@@ -1,4 +1,4 @@
-let actualizado="1672405607773.7747";
+let actualizado="1672466640790.3064";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -18102,8 +18102,8 @@ let misProfesData={
   },
   "RODRIGO CHACON AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Chac\u00f3n-Aguirre_78222",
-    "general": 8.3182,
-    "n": 22
+    "general": 8.3043,
+    "n": 23
   },
   "TOUFIK CHAIBAT": {
     "link": "https://www.misprofesores.com/profesores/Toufik-Chaibat_90020",
@@ -18232,8 +18232,8 @@ let misProfesData={
   },
   "FEDERICO GUILLERMO DURAND GUEVARA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
-    "general": 5.9171,
-    "n": 205
+    "general": 5.8981,
+    "n": 206
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
@@ -18575,11 +18575,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -18636,9 +18631,9 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
@@ -18697,8 +18692,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.8028,
-    "n": 71
+    "general": 5.8472,
+    "n": 72
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
@@ -18995,6 +18990,11 @@ let misProfesData={
     "general": 9.4737,
     "n": 19
   },
+  "MARIA CRISTINA RIOS ESPINOSA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
+    "general": 6.3333,
+    "n": 12
+  },
   "SILVIA RIOS MAGOS": {
     "link": "https://www.misprofesores.com/profesores/Silvia-r\u00edos-magos_41283",
     "general": 8.9,
@@ -19016,9 +19016,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5946,
+    "n": 74
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -19176,9 +19176,9 @@ let misProfesData={
     "n": 45
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -19207,8 +19207,8 @@ let misProfesData={
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
-    "general": 6.4444,
-    "n": 9
+    "general": 6.6,
+    "n": 10
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
