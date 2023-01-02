@@ -1,4 +1,4 @@
-let actualizado="1672578404290.32";
+let actualizado="1672639425883.354";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -4884,9 +4884,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.6111,
+    "n": 18,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -9600,9 +9600,6 @@ let profesores={
     }
   },
   "MARIA CRISTINA RIOS ESPINOSA": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
-    "general": 6.3333,
-    "n": 12,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
@@ -16404,9 +16401,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17963,8 +17960,8 @@ let profesores={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.0,
-    "n": 39,
+    "general": 6.975,
+    "n": 40,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -18892,8 +18889,8 @@ let profesores={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.8478,
-    "n": 46,
+    "general": 4.8085,
+    "n": 47,
     "grupos": {
       "MAT-24110-ANALISIS MATEMATICO, I": [
         {
