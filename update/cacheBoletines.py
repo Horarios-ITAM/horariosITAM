@@ -1,14 +1,5 @@
-import os,itertools,requests,string,time
-
-
-def descargaArchivo(path,url):
-    dir=os.path.dirname(path)
-    os.makedirs(dir,exist_ok=True)
-    response=requests.get(url)
-    if response.status_code!=200:
-        raise Exception(f'Not found @ {url}')
-    else:
-        open(path, "wb").write(response.content)
+import os,itertools,requests,string,time,sys
+import utils
 
 def fuerza_bruta(URL):
     prod=itertools.product(
@@ -21,29 +12,36 @@ def fuerza_bruta(URL):
         programa=f'{i}{j}{k}-{letra}'
         try:
             print(f'{URL}{programa}.pdf')
-            descargaArchivo(f'boletines/{programa}.pdf',f'{URL}{programa}.pdf')
+            utils.descargaArchivo(f'boletines/{programa}.pdf',f'{URL}{programa}.pdf')
             print('Encontrado y descargado!')
         except:continue
 
 def actualiza_ya_encontrados(URL):
+    # Para cada archivo PDF en boletines/
     for fname in os.listdir('boletines'):
         if '.pdf' not in fname: continue
         print(fname)
+
+        # Intenta descargarlo
         try:
-            descargaArchivo(f'boletines/{fname}',f'{URL}{fname}')
+            utils.descargaArchivo(f'boletines/{fname}',f'{URL}{fname}')
         except:
             print('No se pudo descargar {fname}')
 
 
 def agregaLinksDoc():
     sHTML=''
+    # Para cada archivo PDF en boletines/
     for fname in sorted(os.listdir('boletines')):
         if '.pdf' not in fname: continue
+        # Agrega un link a sHTML de la forma:
         sHTML+=f'<a href=boletines/{fname} target=_blank>{fname.split(".")[0]}</a><br>\n'
 
+    # Lee el template
     with open('boletines/boletinesTemplate.html', 'r') as f:
         template=f.read()
     
+    # Y reemplaza la lista de ligas en su lugar
     return template.replace('<!--Lista de links-->',sHTML)
 
 def agregarActualizado(html):
@@ -52,15 +50,27 @@ def agregarActualizado(html):
 
 
 if __name__=='__main__':
+    # Direccion base de boletines
     URL='http://escolar.itam.mx/licenciaturas/boletines/'
-    #fuerza_bruta(URL)
-    actualiza_ya_encontrados(URL)
 
+
+    if len(sys.argv)>1 and sys.argv[1]=='bruta':
+        print('Obteniendo boletines por fuerza bruta')
+        fuerza_bruta(URL)
+
+    else:
+        print('Actualizando boletines ya encontrados')
+        actualiza_ya_encontrados(URL)
+    
+    # Agregamos links a template y regresamos el html
     conLinks=agregaLinksDoc()
+    # Agregamos la fecha de actualizacion
     conActualizado=agregarActualizado(conLinks)
 
+    # Guardamos en .html
     with open('boletines.html','w+') as f:
         f.write(conActualizado)
+    
 
 
 

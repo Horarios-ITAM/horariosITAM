@@ -1,5 +1,5 @@
 import urllib.request
-import json
+import json,os,requests
 
 claveToDepto={
  'ACT': 'ACTUARIA Y SEGUROS',
@@ -27,6 +27,19 @@ def getHTML(url):
     with urllib.request.urlopen(url) as u:
         html=u.read().decode("utf-8","ignore")
     return html
+
+def descargaArchivo(path,url):
+    """
+    Intenta descargar el archivo en url en el directorio local path.
+    Si el directorio no existe lo crea. Si no encuentra el archivo avienta error.
+    """
+    dir=os.path.dirname(path)
+    os.makedirs(dir,exist_ok=True)
+    response=requests.get(url)
+    if response.status_code!=200:
+        raise Exception(f'Not found @ {url}')
+    else:
+        open(path, "wb").write(response.content)
 
 def replace_latin_chars(str):
     """
@@ -132,6 +145,5 @@ if __name__=="__main__":
     for p in periodos:
         assert periodoValido(p)
     
-    test={'a':100,'b':200}
-    print(dir2js(test))
+
     

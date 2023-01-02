@@ -2,12 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import os,time
-
-def descargaArchivo(path,url):
-    dir=os.path.dirname(path)
-    os.makedirs(dir,exist_ok=True)
-    response=requests.get(url)
-    open(path, "wb").write(response.content)
+import utils
 
 def agregaLinksDoc(conseguidos):
     sHTML=''
@@ -33,7 +28,7 @@ if __name__=='__main__':
     conseguidos={}
     for hit in b.find_all("a", {"class": "enlace"}):
         urlDoc=urljoin(url,hit['href'])
-        descargaArchivo(hit['href'],urlDoc)
+        utils.descargaArchivo(hit['href'],urlDoc)
         print(hit.string)
         conseguidos[hit.string]={'urlCache':hit['href'],'urlITAM':urlDoc}
 
