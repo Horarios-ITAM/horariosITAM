@@ -6,7 +6,7 @@ def descargaArchivo(path,url):
     os.makedirs(dir,exist_ok=True)
     response=requests.get(url)
     if response.status_code!=200:
-        raise Exception('Not found')
+        raise Exception(f'Not found @ {url}')
     else:
         open(path, "wb").write(response.content)
 
@@ -27,8 +27,12 @@ def fuerza_bruta(URL):
 
 def actualiza_ya_encontrados(URL):
     for fname in os.listdir('boletines'):
-        if '.pdf' in fname: continue
-        descargaArchivo(f'boletines/{fname}',f'{URL}{fname}')
+        if '.pdf' not in fname: continue
+        print(fname)
+        try:
+            descargaArchivo(f'boletines/{fname}',f'{URL}{fname}')
+        except:
+            print('No se pudo descargar {fname}')
 
 
 def agregaLinksDoc():
