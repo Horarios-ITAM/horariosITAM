@@ -50,7 +50,7 @@ def agregarActualizado(html):
 if __name__=='__main__':
     URL='http://escolar.itam.mx/licenciaturas/boletines/'
     #fuerza_bruta(URL)
-    #actualiza_ya_encontrados(URL)
+    actualiza_ya_encontrados(URL)
 
     conLinks=agregaLinksDoc()
     conActualizado=agregarActualizado(conLinks)
