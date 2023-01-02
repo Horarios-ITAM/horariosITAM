@@ -1,0 +1,12 @@
+# Para horariositam.com:
+# Todos los dias a las 7:03: Actualizamos horarios
+3 7 * * * sh /home/horariosITAM/shell/update.sh >> /home/horariosITAM/logs/update.log 2>&1
+
+# Todos los dias a las 7:30: Cacheamos calendarios 
+30 7 * * * sh /home/horariosITAM/shell/cacheCalendarios.sh >> /home/horariosITAM/logs/calendarios.log 2>&1
+
+# Cada primero de mes a las 8:00: Cacheamos boletines (actualizando)
+0 8 1 * * sh /home/horariosITAM/shell/cacheBoletines.sh >> /home/horariosITAM/logs/boletines.log 2>&1
+
+# Cada primero de enero a las 9:00: Cacheamos boletines (con fuerza bruta)
+0 9 1 1 * sh /home/horariosITAM/shell/cacheBoletines.sh bruta >> /home/horariosITAM/logs/boletines.log 2>&1
