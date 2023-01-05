@@ -1,4 +1,4 @@
-let actualizado="1672664796492.811";
+let actualizado="1672937451728.4429";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -621,6 +621,21 @@ let profesores={
         }
       ],
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
+        {
+          "grupo": "008",
+          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        },
         {
           "grupo": "009",
           "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
@@ -1537,6 +1552,9 @@ let profesores={
     }
   },
   "FELIPE BRUGUES RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-Brugu\u00e9s-Rodr\u00edguez_160059",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
         {
@@ -2113,8 +2131,8 @@ let profesores={
   },
   "JULIETA IRMA GUIZA PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
-    "general": 5.4333,
-    "n": 30,
+    "general": 5.3548,
+    "n": 31,
     "grupos": {
       "ADM-15501-FINANZAS, I": [
         {
@@ -2598,8 +2616,8 @@ let profesores={
   },
   "FRANCISCO PEREZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Francisco-Perez-Gonzalez_78818",
-    "general": 6.8125,
-    "n": 16,
+    "general": 6.9412,
+    "n": 17,
     "grupos": {
       "ADM-15532-FINANZAS CORPORATIVAS": [
         {
@@ -3607,8 +3625,8 @@ let profesores={
   },
   "SILVIA DEL CARMEN GUARDATI BUEMO": {
     "link": "https://www.misprofesores.com/profesores/Silvia-del-Carmen-Guardati-Buemo_10847",
-    "general": 8.8542,
-    "n": 48,
+    "general": 8.9,
+    "n": 50,
     "grupos": {
       "COM-11101-ALGORITMOS Y PROGRAMAS": [
         {
@@ -3885,6 +3903,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4646,8 +4667,8 @@ let profesores={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.8056,
-    "n": 36,
+    "general": 6.8108,
+    "n": 37,
     "grupos": {
       "COM-23101-INTELIGENCIA ARTIFICIAL": [
         {
@@ -4835,8 +4856,8 @@ let profesores={
   },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
-    "general": 8.2174,
-    "n": 23,
+    "general": 8.0,
+    "n": 25,
     "grupos": {
       "COM-25705-SEG INFORMATICA Y HACKEO ETICO": [
         {
@@ -4881,9 +4902,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5427,8 +5448,8 @@ let profesores={
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
-    "general": 8.8913,
-    "n": 92,
+    "general": 8.9032,
+    "n": 93,
     "grupos": {
       "CON-12003-ADMON. ESTRATEGICA DE COSTOS": [
         {
@@ -5604,13 +5625,13 @@ let profesores={
           "nombre": "CON-14100-CONTABILIDAD ADMINISTRATIVA, I",
           "profesor": "MONICA GARCIA CEREZO",
           "creditos": "9",
-          "horario": "08:30-10:30",
+          "horario": "08:00-10:30",
           "dias": [
             "JU"
           ],
           "salon": "RHB-4",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
+          "inicio": "08:00",
           "fin": "10:30"
         }
       ]
@@ -5786,13 +5807,13 @@ let profesores={
       ]
     }
   },
-  "VICTOR MANUEL RAMOS ROBLES": {
+  "LUIS SANCHEZ GALGUERA": {
     "grupos": {
       "CON-15125-CONTABILIDAD FISCAL": [
         {
           "grupo": "001",
           "nombre": "CON-15125-CONTABILIDAD FISCAL",
-          "profesor": "VICTOR MANUEL RAMOS ROBLES",
+          "profesor": "LUIS SANCHEZ GALGUERA",
           "creditos": "6",
           "horario": "19:00-22:00",
           "dias": [
@@ -5908,6 +5929,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1373,
+    "n": 51,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -7952,8 +7976,8 @@ let profesores={
   },
   "LUIS MANUEL CAMP MEJAN CARRER": {
     "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
-    "general": 8.3,
-    "n": 10,
+    "general": 8.4545,
+    "n": 11,
     "grupos": {
       "DER-13403-OBLIGACIONES": [
         {
@@ -8696,7 +8720,7 @@ let profesores={
           "nombre": "DER-16503-DERECHO MERCANTIL II",
           "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
           "creditos": "6",
-          "horario": "07:00-09:00",
+          "horario": "07:00-08:30",
           "dias": [
             "MA",
             "JU"
@@ -8704,7 +8728,7 @@ let profesores={
           "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "09:00"
+          "fin": "08:30"
         }
       ],
       "DER-16602-DERECHO MERCANTIL, II": [
@@ -8713,7 +8737,7 @@ let profesores={
           "nombre": "DER-16602-DERECHO MERCANTIL, II",
           "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
           "creditos": "6",
-          "horario": "07:00-09:00",
+          "horario": "07:00-08:30",
           "dias": [
             "MA",
             "JU"
@@ -8721,7 +8745,7 @@ let profesores={
           "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "09:00"
+          "fin": "08:30"
         }
       ]
     }
@@ -8876,16 +8900,13 @@ let profesores={
       ]
     }
   },
-  "JOSE RAMON GARZA CONTRERAS": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-Garza-Contreras_129142",
-    "general": 8.5,
-    "n": 2,
+  "ALFREDO URUCHURTU SOBERON": {
     "grupos": {
       "DER-17601-DERECHO ADMINISTRATIVO I": [
         {
           "grupo": "003",
           "nombre": "DER-17601-DERECHO ADMINISTRATIVO I",
-          "profesor": "JOSE RAMON GARZA CONTRERAS",
+          "profesor": "ALFREDO URUCHURTU SOBERON",
           "creditos": "6",
           "horario": "19:00-20:30",
           "dias": [
@@ -9334,8 +9355,8 @@ let profesores={
   },
   "JAAKKO PEKKA MERILAINEN": {
     "link": "https://www.misprofesores.com/profesores/Jaakko-Pekka-Merilainen_137971",
-    "general": 10.0,
-    "n": 1,
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
@@ -9567,14 +9588,14 @@ let profesores={
           "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
           "profesor": "CHRISTINA CORNEJO VAN LUIT",
           "creditos": "6",
-          "horario": "16:00-16:31",
+          "horario": "16:00-16:30",
           "dias": [
             "VI"
           ],
           "salon": "",
           "campus": "",
           "inicio": "16:00",
-          "fin": "16:31"
+          "fin": "16:30"
         },
         {
           "grupo": "004",
@@ -9652,8 +9673,8 @@ let profesores={
   },
   "TETSUYA HOSHINO": {
     "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
-    "general": 6.875,
-    "n": 8,
+    "general": 7.0,
+    "n": 9,
     "grupos": {
       "ECO-10404-METODOS MAT. APLICADOS A ECO.": [
         {
@@ -10092,9 +10113,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10372,8 +10393,8 @@ let profesores={
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
-    "general": 8.8087,
-    "n": 115,
+    "general": 8.819,
+    "n": 116,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -10589,6 +10610,44 @@ let profesores={
       ]
     }
   },
+  "CARMEN MONTSERRAT ALDAVE HOYO": {
+    "grupos": {
+      "ECO-12105-ECONOMIA, V": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-12105-ECONOMIA, V",
+          "profesor": "CARMEN MONTSERRAT ALDAVE HOYO",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
+        }
+      ],
+      "ECO-12133-MACROECONOMIA INTERMEDIA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
+          "profesor": "CARMEN MONTSERRAT ALDAVE HOYO",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
+        }
+      ]
+    }
+  },
   "MIGUEL MESSMACHER LINARTAS": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Messmacher-Linartas_118897",
     "general": 9.0,
@@ -10655,8 +10714,8 @@ let profesores={
   },
   "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO": {
     "link": "https://www.misprofesores.com/profesores/HUGO-ALEJANDRO-GARDU\u00d1O-ARREDONDO_103934",
-    "general": 9.0,
-    "n": 4,
+    "general": 9.2,
+    "n": 5,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -10714,6 +10773,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "JAIME DAVID CAMPOSECO PAULSEN": {
+    "link": "https://www.misprofesores.com/profesores/Jaime-David-Camposeco-Paulsen_67019",
+    "general": 7.1724,
+    "n": 29,
+    "grupos": {
+      "ECO-12201-TEORIA Y POLITICA MONETARIA": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+          "profesor": "JAIME DAVID CAMPOSECO PAULSEN",
+          "creditos": "6",
+          "horario": "17:00-20:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -10985,8 +11067,8 @@ let profesores={
   },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
-    "general": 6.0833,
-    "n": 24,
+    "general": 6.16,
+    "n": 25,
     "grupos": {
       "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
         {
@@ -11025,8 +11107,8 @@ let profesores={
   },
   "MARISOL LOPEZ ROMERO": {
     "link": "https://www.misprofesores.com/profesores/Marisol-Lopez-Romero_107554",
-    "general": 6.3,
-    "n": 10,
+    "general": 6.6364,
+    "n": 11,
     "grupos": {
       "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
         {
@@ -11201,28 +11283,30 @@ let profesores={
           "nombre": "ECO-21104-ECONOMIA IV",
           "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "08:00-09:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
-          "salon": "",
-          "campus": "",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:30"
         },
         {
           "grupo": "002",
           "nombre": "ECO-21104-ECONOMIA IV",
           "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "10:00-11:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
-          "salon": "",
-          "campus": "",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -11423,11 +11507,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
-        },
+        }
+      ],
+      "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
+        {
+          "grupo": "007",
+          "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
+          "profesor": "CECILIA GALAVIZ ALVAREZ",
+          "creditos": "6",
+          "horario": "10:00-11:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
+  "JAVIER ARTURO VELAZQUEZ GALVAN": {
+    "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
+    "general": 8.9444,
+    "n": 18,
+    "grupos": {
+      "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
           "grupo": "004",
           "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-          "profesor": "CECILIA GALAVIZ ALVAREZ",
+          "profesor": "JAVIER ARTURO VELAZQUEZ GALVAN",
           "creditos": "6",
           "horario": "10:00-11:00",
           "dias": [
@@ -11681,13 +11792,16 @@ let profesores={
       ]
     }
   },
-  "MARIA DEL ROSARIO SARMIENTO DONATE": {
+  "SILVANO ANTONIO ESPINDOLA PARRA": {
+    "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
+    "general": 9.4667,
+    "n": 75,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
           "grupo": "005",
           "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-          "profesor": "MARIA DEL ROSARIO SARMIENTO DONATE",
+          "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
           "creditos": "6",
           "horario": "09:00-10:00",
           "dias": [
@@ -11699,22 +11813,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
-        },
-        {
-          "grupo": "007",
-          "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-          "profesor": "MARIA DEL ROSARIO SARMIENTO DONATE",
-          "creditos": "6",
-          "horario": "10:00-11:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH202",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -11743,8 +11841,8 @@ let profesores={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.1034,
-    "n": 58,
+    "general": 8.1186,
+    "n": 59,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11784,8 +11882,8 @@ let profesores={
   },
   "JAIME RUIZ DE SANTIAGO Y SIERRA": {
     "link": "https://www.misprofesores.com/profesores/Jaime-Ruiz-de-Santiago-y-Sierra_21773",
-    "general": 7.449,
-    "n": 49,
+    "general": 7.42,
+    "n": 50,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11982,8 +12080,8 @@ let profesores={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2267,
-    "n": 172,
+    "general": 8.2414,
+    "n": 174,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12228,8 +12326,8 @@ let profesores={
   },
   "FEDERICO GUILLERMO DURAND GUEVARA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
-    "general": 5.8981,
-    "n": 206,
+    "general": 5.913,
+    "n": 207,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12269,8 +12367,8 @@ let profesores={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4272,
-    "n": 213,
+    "general": 6.4439,
+    "n": 214,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12592,6 +12690,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
+        },
+        {
+          "grupo": "010",
+          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
+          "profesor": "MARIA DE LOURDES IBARRA HERRERIAS",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -12620,16 +12733,16 @@ let profesores={
       ]
     }
   },
-  "GONZALO TOMAS SUAREZ BELMONT": {
-    "link": "https://www.misprofesores.com/profesores/Gonzalo-Tom\u00e1s-Su\u00e1rez-Belmont_19775",
-    "general": 7.2,
-    "n": 45,
+  "FERNANDO RODRIGUEZ DOVAL": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
+    "general": 8.6774,
+    "n": 31,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
           "grupo": "009",
           "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "GONZALO TOMAS SUAREZ BELMONT",
+          "profesor": "FERNANDO RODRIGUEZ DOVAL",
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
@@ -12640,21 +12753,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        },
-        {
-          "grupo": "010",
-          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "GONZALO TOMAS SUAREZ BELMONT",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ]
     }
@@ -12733,30 +12831,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
-        }
-      ]
-    }
-  },
-  "FERNANDO RODRIGUEZ DOVAL": {
-    "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
-    "general": 8.6667,
-    "n": 30,
-    "grupos": {
-      "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
-        {
-          "grupo": "008",
-          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-          "profesor": "FERNANDO RODRIGUEZ DOVAL",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ]
     }
@@ -13216,8 +13290,8 @@ let profesores={
   },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
-    "general": 7.6,
-    "n": 30,
+    "general": 7.5806,
+    "n": 31,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -13312,8 +13386,8 @@ let profesores={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.05,
-    "n": 20,
+    "general": 7.0952,
+    "n": 21,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -13510,8 +13584,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 9.5,
-    "n": 2,
+    "general": 9.0,
+    "n": 3,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -13780,8 +13854,8 @@ let profesores={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 7.5,
-    "n": 2,
+    "general": 8.0,
+    "n": 3,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -14209,9 +14283,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -15359,6 +15433,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12722-COM. ESCRITA CIENCIA DE DATOS",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "2",
+          "horario": "09:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH210",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ],
       "LEN-12764-COM. PROFES. PARA ING. EN COMP": [
@@ -15666,8 +15754,8 @@ let profesores={
   },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
-    "general": 8.8409,
-    "n": 44,
+    "general": 8.8222,
+    "n": 45,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16955,8 +17043,8 @@ let profesores={
   },
   "MAYRA NU\u00d1EZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
-    "general": 9.5,
-    "n": 10,
+    "general": 9.4545,
+    "n": 11,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
@@ -17174,8 +17262,8 @@ let profesores={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3663,
-    "n": 101,
+    "general": 6.3627,
+    "n": 102,
     "grupos": {
       "MAT-12101-CALCULO, II": [
         {
@@ -17414,8 +17502,8 @@ let profesores={
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
-    "general": 8.0307,
-    "n": 163,
+    "general": 8.0366,
+    "n": 164,
     "grupos": {
       "MAT-12210-SIST. DINAMICOS": [
         {
@@ -17684,8 +17772,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.6579,
-    "n": 38,
+    "general": 6.7436,
+    "n": 39,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -17742,8 +17830,8 @@ let profesores={
   },
   "PAVEL REAL PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
-    "general": 9.4737,
-    "n": 19,
+    "general": 9.5,
+    "n": 20,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -17957,8 +18045,8 @@ let profesores={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 6.975,
-    "n": 40,
+    "general": 7.0238,
+    "n": 42,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -18293,8 +18381,8 @@ let profesores={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7564,
-    "n": 78,
+    "general": 8.7722,
+    "n": 79,
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
         {
@@ -18570,8 +18658,8 @@ let profesores={
   },
   "FERNANDO CORNEJO MONTA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo-Monta\u00f1o_67406",
-    "general": 7.6714,
-    "n": 70,
+    "general": 7.6056,
+    "n": 71,
     "grupos": {
       "MAT-14281-MATEMATICAS DISCRETAS": [
         {
@@ -19496,6 +19584,7 @@ let mejoresPorDepto={
     "LEONARDO ROJAS NANDAYAPA"
   ],
   "ADMINISTRACION": [
+    "FELIPE BRUGUES RODRIGUEZ",
     "MARIANA CONTRERAS AREVALO",
     "DANIELA RUIZ MASSIEU SALINAS",
     "ADRIAN RUBLI ORNELAS",
@@ -19504,8 +19593,7 @@ let mejoresPorDepto={
     "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
     "PEDRO ANGEL GARCIA ARES",
     "ALEXANDROS FAKOS",
-    "JUAN JOSE FERNANDEZ DURAN",
-    "JANKO HERNANDEZ CORTES"
+    "JUAN JOSE FERNANDEZ DURAN"
   ],
   "CTRO DE ESTUDIO DEL BIENESTAR": [
     "MARGARITA TARRAGONA SAEZ"
@@ -19527,8 +19615,8 @@ let mejoresPorDepto={
     "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
     "MONICA ZAVALA ESTRADA",
     "ALBERTO ISAAC RAMIREZ PEREZ",
-    "SILVIA RIOS MAGOS",
     "SILVIA DEL CARMEN GUARDATI BUEMO",
+    "SILVIA RIOS MAGOS",
     "RODOLFO CONDE MARTINEZ",
     "MIROSLAVA MENDOZA VIDAL"
   ],
@@ -19548,12 +19636,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -19569,18 +19657,20 @@ let mejoresPorDepto={
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
-    "JAAKKO PEKKA MERILAINEN",
+    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
-    "MIGUEL MESSMACHER LINARTAS",
+    "JAAKKO PEKKA MERILAINEN",
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+    "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
-    "CHRISTIANE FABREGA CHIMALI",
-    "ARTURO ALBERTO AGUILAR ESTEVA"
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
+    "SILVANO ANTONIO ESPINDOLA PARRA",
+    "JAVIER ARTURO VELAZQUEZ GALVAN",
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
@@ -19588,9 +19678,7 @@ let mejoresPorDepto={
     "DAVID MORENO GUINEA",
     "VALERIA ZEPEDA TREJO",
     "STEFANO STRAULINO TORRE",
-    "JOSE PANTALEON DOMINGUEZ ESPONDA",
-    "PAVEL JIMENEZ VAZQUEZ",
-    "LYDIA LOPEZ GUTIERREZ"
+    "JOSE PANTALEON DOMINGUEZ ESPONDA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -19606,14 +19694,14 @@ let mejoresPorDepto={
   ],
   "ESTADISTICA": [
     "ANA LAURA GONZALEZ ENRIQUEZ",
-    "HUGO CUEVAS BRAVO",
     "ERIKA BURGOS PADILLA",
     "DANTE GABRIEL CAMPOS SALIDO",
+    "HUGO CUEVAS BRAVO",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "RODRIGO ZEPEDA TELLO",
     "JOSE MATUK VILLAZON",
+    "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA",
     "ERICK MIER MORENO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
@@ -19641,8 +19729,8 @@ let mejoresPorDepto={
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
   ],
   "MATEMATICAS": [
-    "MAYRA NU\u00d1EZ LOPEZ",
     "PAVEL REAL PEREZ",
+    "MAYRA NU\u00d1EZ LOPEZ",
     "LYSETTE FELIX FELIX",
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",

@@ -1,4 +1,4 @@
-let actualizado="1672664796408.9958";
+let actualizado="1672937451623.4033";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -4348,13 +4348,13 @@ let clases={
         "nombre": "CON-14100-CONTABILIDAD ADMINISTRATIVA, I",
         "profesor": "MONICA GARCIA CEREZO",
         "creditos": "9",
-        "horario": "08:30-10:30",
+        "horario": "08:00-10:30",
         "dias": [
           "JU"
         ],
         "salon": "RHB-4",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
+        "inicio": "08:00",
         "fin": "10:30"
       }
     ]
@@ -4575,7 +4575,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-15125-CONTABILIDAD FISCAL",
-        "profesor": "VICTOR MANUEL RAMOS ROBLES",
+        "profesor": "LUIS SANCHEZ GALGUERA",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -7283,7 +7283,7 @@ let clases={
         "nombre": "DER-16503-DERECHO MERCANTIL II",
         "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
         "creditos": "6",
-        "horario": "07:00-09:00",
+        "horario": "07:00-08:30",
         "dias": [
           "MA",
           "JU"
@@ -7291,7 +7291,7 @@ let clases={
         "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "09:00"
+        "fin": "08:30"
       }
     ]
   },
@@ -7333,7 +7333,7 @@ let clases={
         "nombre": "DER-16602-DERECHO MERCANTIL, II",
         "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
         "creditos": "6",
-        "horario": "07:00-09:00",
+        "horario": "07:00-08:30",
         "dias": [
           "MA",
           "JU"
@@ -7341,7 +7341,7 @@ let clases={
         "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "09:00"
+        "fin": "08:30"
       }
     ]
   },
@@ -7478,7 +7478,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "DER-17601-DERECHO ADMINISTRATIVO I",
-        "profesor": "JOSE RAMON GARZA CONTRERAS",
+        "profesor": "ALFREDO URUCHURTU SOBERON",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -8782,6 +8782,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-12105-ECONOMIA, V",
+        "profesor": "CARMEN MONTSERRAT ALDAVE HOYO",
+        "creditos": "6",
+        "horario": "18:00-19:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-3",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "19:30"
       }
     ]
   },
@@ -8853,6 +8868,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
+        "profesor": "CARMEN MONTSERRAT ALDAVE HOYO",
+        "creditos": "6",
+        "horario": "18:00-19:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-3",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "19:30"
       }
     ]
   },
@@ -8888,6 +8918,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+        "profesor": "JAIME DAVID CAMPOSECO PAULSEN",
+        "creditos": "6",
+        "horario": "17:00-20:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RH309",
+        "campus": "RIO HONDO",
+        "inicio": "17:00",
+        "fin": "20:00"
       }
     ]
   },
@@ -9226,14 +9270,14 @@ let clases={
         "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
         "profesor": "CHRISTINA CORNEJO VAN LUIT",
         "creditos": "6",
-        "horario": "16:00-16:31",
+        "horario": "16:00-16:30",
         "dias": [
           "VI"
         ],
         "salon": "",
         "campus": "",
         "inicio": "16:00",
-        "fin": "16:31"
+        "fin": "16:30"
       },
       {
         "grupo": "002",
@@ -9559,28 +9603,30 @@ let clases={
         "nombre": "ECO-21104-ECONOMIA IV",
         "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "08:00-09:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "",
-        "campus": "",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "salon": "RH109",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "09:30"
       },
       {
         "grupo": "002",
         "nombre": "ECO-21104-ECONOMIA IV",
         "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "",
-        "campus": "",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "salon": "RH101",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       },
       {
         "grupo": "003",
@@ -9827,7 +9873,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "CECILIA GALAVIZ ALVAREZ",
+        "profesor": "JAVIER ARTURO VELAZQUEZ GALVAN",
         "creditos": "6",
         "horario": "10:00-11:00",
         "dias": [
@@ -9977,7 +10023,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "MARIA DEL ROSARIO SARMIENTO DONATE",
+        "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
         "creditos": "6",
         "horario": "09:00-10:00",
         "dias": [
@@ -10009,7 +10055,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "MARIA DEL ROSARIO SARMIENTO DONATE",
+        "profesor": "CECILIA GALAVIZ ALVAREZ",
         "creditos": "6",
         "horario": "10:00-11:00",
         "dias": [
@@ -10777,7 +10823,7 @@ let clases={
       {
         "grupo": "009",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "GONZALO TOMAS SUAREZ BELMONT",
+        "profesor": "FERNANDO RODRIGUEZ DOVAL",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -10792,7 +10838,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "GONZALO TOMAS SUAREZ BELMONT",
+        "profesor": "MARIA DE LOURDES IBARRA HERRERIAS",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -10948,7 +10994,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-        "profesor": "FERNANDO RODRIGUEZ DOVAL",
+        "profesor": "",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -14497,6 +14543,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "LEN-12722-COM. ESCRITA CIENCIA DE DATOS",
+        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+        "creditos": "2",
+        "horario": "09:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH210",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -17922,8 +17982,8 @@ let misProfesData={
   },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
-    "general": 8.8409,
-    "n": 44
+    "general": 8.8222,
+    "n": 45
   },
   "JORGE ALONSO ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
@@ -18020,6 +18080,11 @@ let misProfesData={
     "general": 5.875,
     "n": 8
   },
+  "FELIPE BRUGUES RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-Brugu\u00e9s-Rodr\u00edguez_160059",
+    "general": 10.0,
+    "n": 1
+  },
   "FERNANDO BUENO AJA": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
     "general": 8.75,
@@ -18052,8 +18117,8 @@ let misProfesData={
   },
   "LUIS MANUEL CAMP MEJAN CARRER": {
     "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
-    "general": 8.3,
-    "n": 10
+    "general": 8.4545,
+    "n": 11
   },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
@@ -18064,6 +18129,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
     "general": 9.1739,
     "n": 92
+  },
+  "JAIME DAVID CAMPOSECO PAULSEN": {
+    "link": "https://www.misprofesores.com/profesores/Jaime-David-Camposeco-Paulsen_67019",
+    "general": 7.1724,
+    "n": 29
   },
   "MARIA CANDELAS RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Candelas-Ram\u00edrez_10751",
@@ -18082,8 +18152,8 @@ let misProfesData={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.6579,
-    "n": 38
+    "general": 6.7436,
+    "n": 39
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
@@ -18152,8 +18222,8 @@ let misProfesData={
   },
   "FERNANDO CORNEJO MONTA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo-Monta\u00f1o_67406",
-    "general": 7.6714,
-    "n": 70
+    "general": 7.6056,
+    "n": 71
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
@@ -18167,8 +18237,8 @@ let misProfesData={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 9.5,
-    "n": 2
+    "general": 9.0,
+    "n": 3
   },
   "FELIPE CURCO COBOS": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Curco-Cobos_10798",
@@ -18232,13 +18302,18 @@ let misProfesData={
   },
   "FEDERICO GUILLERMO DURAND GUEVARA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
-    "general": 5.8981,
-    "n": 206
+    "general": 5.913,
+    "n": 207
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
     "general": 5.0,
     "n": 3
+  },
+  "SILVANO ANTONIO ESPINDOLA PARRA": {
+    "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
+    "general": 9.4667,
+    "n": 75
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
@@ -18257,8 +18332,8 @@ let misProfesData={
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
-    "general": 8.8087,
-    "n": 115
+    "general": 8.819,
+    "n": 116
   },
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
@@ -18312,8 +18387,8 @@ let misProfesData={
   },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
-    "general": 8.2174,
-    "n": 23
+    "general": 8.0,
+    "n": 25
   },
   "JOSE ANTONIO FLORES ZARATE": {
     "link": "https://www.misprofesores.com/profesores/Jose-Antonio-Flores-Zarate_67358",
@@ -18357,8 +18432,8 @@ let misProfesData={
   },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
-    "general": 7.6,
-    "n": 30
+    "general": 7.5806,
+    "n": 31
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
@@ -18377,18 +18452,13 @@ let misProfesData={
   },
   "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO": {
     "link": "https://www.misprofesores.com/profesores/HUGO-ALEJANDRO-GARDU\u00d1O-ARREDONDO_103934",
-    "general": 9.0,
-    "n": 4
+    "general": 9.2,
+    "n": 5
   },
   "FRANCISCO ANDRES GARRIDO SEPULVEDA": {
     "link": "https://www.misprofesores.com/profesores/Francisco-Andres-Garrido-Sepulveda_136156",
     "general": 6.5,
     "n": 6
-  },
-  "JOSE RAMON GARZA CONTRERAS": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-Garza-Contreras_129142",
-    "general": 8.5,
-    "n": 2
   },
   "MARIA CRISTINA GIGOLA PAGLIALUNGA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Gigola-Paglialunga_10861",
@@ -18402,8 +18472,8 @@ let misProfesData={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.8056,
-    "n": 36
+    "general": 6.8108,
+    "n": 37
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
@@ -18417,8 +18487,8 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4272,
-    "n": 213
+    "general": 6.4439,
+    "n": 214
   },
   "ANA LAURA GONZALEZ ENRIQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Laura-Gonzalez-Enriquez_159822",
@@ -18436,9 +18506,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.6111,
-    "n": 18
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -18452,13 +18522,13 @@ let misProfesData={
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
-    "general": 8.8913,
-    "n": 92
+    "general": 8.9032,
+    "n": 93
   },
   "SILVIA DEL CARMEN GUARDATI BUEMO": {
     "link": "https://www.misprofesores.com/profesores/Silvia-del-Carmen-Guardati-Buemo_10847",
-    "general": 8.8542,
-    "n": 48
+    "general": 8.9,
+    "n": 50
   },
   "JULIANA GUDI\u00d1O ANTILLON": {
     "link": "https://www.misprofesores.com/profesores/Juliana-Gudi\u00f1o-Antill\u00f3n_10720",
@@ -18472,8 +18542,8 @@ let misProfesData={
   },
   "JULIETA IRMA GUIZA PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
-    "general": 5.4333,
-    "n": 30
+    "general": 5.3548,
+    "n": 31
   },
   "JOSE OCTAVIO GUTIERREZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Octavio-Gutierrez-Garcia_129405",
@@ -18507,8 +18577,8 @@ let misProfesData={
   },
   "TETSUYA HOSHINO": {
     "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
-    "general": 6.875,
-    "n": 8
+    "general": 7.0,
+    "n": 9
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -18575,6 +18645,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -18582,8 +18657,8 @@ let misProfesData={
   },
   "MARISOL LOPEZ ROMERO": {
     "link": "https://www.misprofesores.com/profesores/Marisol-Lopez-Romero_107554",
-    "general": 6.3,
-    "n": 10
+    "general": 6.6364,
+    "n": 11
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
@@ -18612,8 +18687,8 @@ let misProfesData={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 6.975,
-    "n": 40
+    "general": 7.0238,
+    "n": 42
   },
   "JUAN CARLOS MANSUR GARDA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Mansur-Garda_10820",
@@ -18631,9 +18706,14 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1373,
+    "n": 51
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -18692,8 +18772,8 @@ let misProfesData={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 7.5,
-    "n": 2
+    "general": 8.0,
+    "n": 3
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
@@ -18707,8 +18787,8 @@ let misProfesData={
   },
   "JAAKKO PEKKA MERILAINEN": {
     "link": "https://www.misprofesores.com/profesores/Jaakko-Pekka-Merilainen_137971",
-    "general": 10.0,
-    "n": 1
+    "general": 9.5,
+    "n": 2
   },
   "MIGUEL MESSMACHER LINARTAS": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Messmacher-Linartas_118897",
@@ -18807,8 +18887,8 @@ let misProfesData={
   },
   "MAYRA NU\u00d1EZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
-    "general": 9.5,
-    "n": 10
+    "general": 9.4545,
+    "n": 11
   },
   "RODRIGO OCHOA TELLA": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Ochoa-Tella_94374",
@@ -18897,13 +18977,13 @@ let misProfesData={
   },
   "FRANCISCO PEREZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Francisco-Perez-Gonzalez_78818",
-    "general": 6.8125,
-    "n": 16
+    "general": 6.9412,
+    "n": 17
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3663,
-    "n": 101
+    "general": 6.3627,
+    "n": 102
   },
   "FERNANDO PEREZ RIOS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-P\u00e9rez-R\u00edos_94260",
@@ -18982,8 +19062,8 @@ let misProfesData={
   },
   "PAVEL REAL PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
-    "general": 9.4737,
-    "n": 19
+    "general": 9.5,
+    "n": 20
   },
   "MARIA CRISTINA RIOS ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
@@ -19011,9 +19091,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -19022,8 +19102,8 @@ let misProfesData={
   },
   "FERNANDO RODRIGUEZ DOVAL": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
-    "general": 8.6667,
-    "n": 30
+    "general": 8.6774,
+    "n": 31
   },
   "MARIA OFELIA RODRIGUEZ DURAN": {
     "link": "https://www.misprofesores.com/profesores/MARIA-OFELIA-RODRIGUEZ-DURAN_159927",
@@ -19057,8 +19137,8 @@ let misProfesData={
   },
   "JAIME RUIZ DE SANTIAGO Y SIERRA": {
     "link": "https://www.misprofesores.com/profesores/Jaime-Ruiz-de-Santiago-y-Sierra_21773",
-    "general": 7.449,
-    "n": 49
+    "general": 7.42,
+    "n": 50
   },
   "DANIELA RUIZ MASSIEU SALINAS": {
     "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",
@@ -19067,8 +19147,8 @@ let misProfesData={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7564,
-    "n": 78
+    "general": 8.7722,
+    "n": 79
   },
   "IRMA BEATRIZ RUMBOS PELLICER": {
     "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",
@@ -19092,8 +19172,8 @@ let misProfesData={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.05,
-    "n": 20
+    "general": 7.0952,
+    "n": 21
   },
   "SERGIO MIGUEL SARMIENTO SERRANO": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
@@ -19162,13 +19242,8 @@ let misProfesData={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.1034,
-    "n": 58
-  },
-  "GONZALO TOMAS SUAREZ BELMONT": {
-    "link": "https://www.misprofesores.com/profesores/Gonzalo-Tom\u00e1s-Su\u00e1rez-Belmont_19775",
-    "general": 7.2,
-    "n": 45
+    "general": 8.1186,
+    "n": 59
   },
   "ANA TAMARIT AMIEVA": {
     "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
@@ -19265,10 +19340,15 @@ let misProfesData={
     "general": 7.7636,
     "n": 55
   },
+  "JAVIER ARTURO VELAZQUEZ GALVAN": {
+    "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
+    "general": 8.9444,
+    "n": 18
+  },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
-    "general": 6.0833,
-    "n": 24
+    "general": 6.16,
+    "n": 25
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
@@ -19287,8 +19367,8 @@ let misProfesData={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2267,
-    "n": 172
+    "general": 8.2414,
+    "n": 174
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
@@ -19352,8 +19432,8 @@ let misProfesData={
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
-    "general": 8.0307,
-    "n": 163
+    "general": 8.0366,
+    "n": 164
   },
   "ANA MARIA ZORRILLA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
