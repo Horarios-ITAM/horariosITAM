@@ -1,4 +1,4 @@
-let actualizado="1673010385184.6072";
+let actualizado="1673096780370.9053";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -300,7 +300,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ACT-15358-SISTEMAS DE SEGUROS",
-        "profesor": "",
+        "profesor": "ROBERTO ANTONIO YGLESIAS GALEANA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -413,7 +413,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ACT-25354-ADMON. CUANTITATIVA DE RIESGOS",
-        "profesor": "",
+        "profesor": "ANTONIO LOPEZ VELARDE LOERA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -461,7 +461,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -476,7 +476,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH305",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -872,7 +872,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHPB1",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -968,7 +968,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHSA2",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -1764,6 +1764,20 @@ let clases={
     "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
     "clave": "ADM-15582",
     "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+        "profesor": "DANIEL AKLE CARRANZA",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH110",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      },
       {
         "grupo": "002",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
@@ -6362,21 +6376,6 @@ let clases={
     "clave": "DER-14505",
     "grupos": [
       {
-        "grupo": "001",
-        "nombre": "DER-14505-DELITOS",
-        "profesor": "JAVIER SCH\u00dcTTE RICAUD",
-        "creditos": "6",
-        "horario": "20:30-22:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "PF105",
-        "campus": "RIO HONDO",
-        "inicio": "20:30",
-        "fin": "22:00"
-      },
-      {
         "grupo": "002",
         "nombre": "DER-14505-DELITOS",
         "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
@@ -6597,6 +6596,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
+        "profesor": "ANA SOFIA CHARVEL OROZCO",
+        "creditos": "6",
+        "horario": "17:30-19:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH317",
+        "campus": "RIO HONDO",
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -8050,7 +8064,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH310",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -8065,7 +8079,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH111",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8079,7 +8093,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RH210",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "12:00"
@@ -8099,7 +8113,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RH210",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "12:00"
@@ -8821,20 +8835,6 @@ let clases={
         "fin": "11:00"
       },
       {
-        "grupo": "003",
-        "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
-        "profesor": "ERNESTO PIEDRAS FERIA",
-        "creditos": "6",
-        "horario": "07:00-10:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "RH108",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
-      },
-      {
         "grupo": "004",
         "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
         "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
@@ -8913,7 +8913,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH101",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -9778,7 +9778,7 @@ let clases={
       {
         "grupo": "009",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "ALFREDO VILLAFRANCA QUINTO",
+        "profesor": "JOSE RAFAEL GONZALEZ DIAZ",
         "creditos": "6",
         "horario": "17:00-18:00",
         "dias": [
@@ -10258,7 +10258,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-        "profesor": "",
+        "profesor": "FERNANDO RODRIGUEZ DOVAL",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -10625,7 +10625,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH213",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10646,7 +10646,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH213",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -12318,7 +12318,7 @@ let clases={
       {
         "grupo": "011",
         "nombre": "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT",
-        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+        "profesor": "ANA TAMARIT AMIEVA",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -12462,7 +12462,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-10137-COM. PROFESIONAL PARA MAT. APL",
-        "profesor": "",
+        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
         "creditos": "2",
         "horario": "09:00-10:00",
         "dias": [
@@ -12656,7 +12656,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "ANA TAMARIT AMIEVA",
+        "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -12791,7 +12791,7 @@ let clases={
       {
         "grupo": "011",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+        "profesor": "ANA TAMARIT AMIEVA",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -12839,7 +12839,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "LUCIA PI CHOLULA",
+        "profesor": "JAEN DANAE TORRES DE LA ROSA",
         "creditos": "2",
         "horario": "13:00-14:00",
         "dias": [
@@ -13473,7 +13473,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12759-COMUNIC. PROFES. PARA MAT. APL",
-        "profesor": "",
+        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
         "creditos": "2",
         "horario": "09:00-10:00",
         "dias": [
@@ -14841,21 +14841,6 @@ let clases={
         "fin": "09:00"
       },
       {
-        "grupo": "003",
-        "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
-        "profesor": "VICTOR HERNANDEZ SANTAMARIA",
-        "creditos": "8",
-        "horario": "10:00-12:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH316",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "12:00"
-      },
-      {
         "grupo": "004",
         "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
         "profesor": "JOEL ZAMORA RAMOS",
@@ -15810,20 +15795,6 @@ let clases={
     "clave": "SDI-11322",
     "grupos": [
       {
-        "grupo": "001L",
-        "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
-        "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
-        "creditos": "10",
-        "horario": "08:30-10:30",
-        "dias": [
-          "MI"
-        ],
-        "salon": "RHLCLMP",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:30"
-      },
-      {
         "grupo": "002L",
         "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
         "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
@@ -15843,21 +15814,6 @@ let clases={
     "nombre": "SDI-11322-CIRCUITOS LOGICOS",
     "clave": "SDI-11322",
     "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "SDI-11322-CIRCUITOS LOGICOS",
-        "profesor": "RAFAEL CISNEROS MONTOYA",
-        "creditos": "10",
-        "horario": "09:00-11:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RHPB1",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
-      },
       {
         "grupo": "002",
         "nombre": "SDI-11322-CIRCUITOS LOGICOS",
@@ -15879,20 +15835,6 @@ let clases={
     "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
     "clave": "SDI-11561",
     "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-        "profesor": "SERGIO HERNANDEZ SANCHEZ",
-        "creditos": "10",
-        "horario": "13:00-15:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "RHLCLMP",
-        "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "15:00"
-      },
       {
         "grupo": "002L",
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
@@ -15927,21 +15869,6 @@ let clases={
     "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
     "clave": "SDI-11561",
     "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
-        "profesor": "SERGIO HERNANDEZ SANCHEZ",
-        "creditos": "10",
-        "horario": "11:30-13:30",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH314",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:30"
-      },
       {
         "grupo": "002",
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
@@ -16076,7 +16003,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES-LAB",
-        "profesor": "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
+        "profesor": "WILMER EFREN PEREIRA GONZALEZ",
         "creditos": "8",
         "horario": "13:00-15:00",
         "dias": [
@@ -16311,8 +16238,8 @@ let misProfesData={
   },
   "CARLOS BOSCH GIRAL": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Bosch-Giral_10705",
-    "general": 5.8382,
-    "n": 136
+    "general": 5.8686,
+    "n": 137
   },
   "FELIPE BRUGUES RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Brugu\u00e9s-Rodr\u00edguez_160059",
@@ -16408,6 +16335,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Toufik-Chaibat_90020",
     "general": 9.6667,
     "n": 9
+  },
+  "ANA SOFIA CHARVEL OROZCO": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Sof\u00eda-Charvel-Orozco_10791",
+    "general": 7.1791,
+    "n": 67
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
@@ -16725,9 +16657,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -16869,11 +16801,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -16920,14 +16847,9 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1373,
-    "n": 51
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17209,16 +17131,6 @@ let misProfesData={
     "general": 8.1429,
     "n": 14
   },
-  "LUCIA PI CHOLULA": {
-    "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
-    "general": 8.0,
-    "n": 17
-  },
-  "ERNESTO PIEDRAS FERIA": {
-    "link": "https://www.misprofesores.com/profesores/Ernesto-Piedras-Feria_74696",
-    "general": 7.0,
-    "n": 9
-  },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
     "general": 7.1356,
@@ -17300,9 +17212,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -17409,11 +17321,6 @@ let misProfesData={
     "general": 7.1111,
     "n": 9
   },
-  "JAVIER SCH\u00dcTTE RICAUD": {
-    "link": "https://www.misprofesores.com/profesores/Javier-Sch\u00fctte-Ricaud_155412",
-    "general": 8.0,
-    "n": 1
-  },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
     "general": 4.9312,
@@ -17455,9 +17362,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
