@@ -1,4 +1,4 @@
-let actualizado="1673269573381.5234";
+let actualizado="1673355993069.1023";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -103,7 +103,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHPB2",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -2005,7 +2005,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH315",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -2474,7 +2474,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH306",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -2491,7 +2491,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH306",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -2591,27 +2591,6 @@ let profesores={
             "JU"
           ],
           "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "15:00"
-        }
-      ]
-    }
-  },
-  "ARMANDO VERDIN GALAN": {
-    "grupos": {
-      "CLE-10331-ALEMAN, I-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10331-ALEMAN, I-LAB",
-          "profesor": "ARMANDO VERDIN GALAN",
-          "creditos": "4",
-          "horario": "13:00-15:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF108",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "15:00"
@@ -3225,9 +3204,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3909,6 +3885,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4162,7 +4141,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA4",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
@@ -4981,7 +4960,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH302",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -5064,7 +5043,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH302",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -5174,6 +5153,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -10193,16 +10175,16 @@ let profesores={
       ]
     }
   },
-  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
-    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
-    "general": 6.7374,
-    "n": 99,
+  "TETSUYA HOSHINO": {
+    "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
+    "general": 7.0,
+    "n": 9,
     "grupos": {
       "ECO-21104-ECONOMIA IV": [
         {
           "grupo": "001",
           "nombre": "ECO-21104-ECONOMIA IV",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "profesor": "TETSUYA HOSHINO",
           "creditos": "6",
           "horario": "08:00-09:30",
           "dias": [
@@ -10213,30 +10195,8 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ECO-21104-ECONOMIA IV",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
-      ]
-    }
-  },
-  "TETSUYA HOSHINO": {
-    "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
-    "general": 7.0,
-    "n": 9,
-    "grupos": {
+      ],
       "ECO-21113-TEORIA DE JUEGOS": [
         {
           "grupo": "001",
@@ -10249,6 +10209,30 @@ let profesores={
             "MI"
           ],
           "salon": "RHPB3",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
+    "general": 6.7374,
+    "n": 99,
+    "grupos": {
+      "ECO-21104-ECONOMIA IV": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-21104-ECONOMIA IV",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10402,7 +10386,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH202",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
@@ -10628,7 +10612,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH201",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
@@ -10910,7 +10894,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH204",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
@@ -10983,8 +10967,8 @@ let profesores={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2414,
-    "n": 174,
+    "general": 8.2514,
+    "n": 175,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -11743,74 +11727,6 @@ let profesores={
           "fin": "11:00"
         }
       ],
-      "EST-11101-PROBABILIDAD": [
-        {
-          "grupo": "006",
-          "nombre": "EST-11101-PROBABILIDAD",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "08:00-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-1",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:00"
-        }
-      ],
-      "EST-11102-INFERENCIA ESTADISTICA": [
-        {
-          "grupo": "004",
-          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "17:30-19:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHPB2",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
-        }
-      ],
-      "EST-11103-ECONOMETRIA I": [
-        {
-          "grupo": "005",
-          "nombre": "EST-11103-ECONOMETRIA I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ],
-      "EST-11104-ECONOMETRIA": [
-        {
-          "grupo": "005",
-          "nombre": "EST-11104-ECONOMETRIA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ],
       "LEN-10204-COM. PROFESIONAL PARA ECONOMIA": [
         {
           "grupo": "001",
@@ -12012,7 +11928,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH304",
+          "salon": "RH305",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -12298,7 +12214,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH112",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
@@ -12426,6 +12342,47 @@ let profesores={
       ]
     }
   },
+  "AIRAM ASERET BLANCAS BENITEZ": {
+    "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
+    "general": 5.875,
+    "n": 8,
+    "grupos": {
+      "EST-11101-PROBABILIDAD": [
+        {
+          "grupo": "006",
+          "nombre": "EST-11101-PROBABILIDAD",
+          "profesor": "AIRAM ASERET BLANCAS BENITEZ",
+          "creditos": "8",
+          "horario": "08:00-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "10:00"
+        }
+      ],
+      "EST-14107-PROCESOS ESTOCASTICOS,I": [
+        {
+          "grupo": "002",
+          "nombre": "EST-14107-PROCESOS ESTOCASTICOS,I",
+          "profesor": "AIRAM ASERET BLANCAS BENITEZ",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
     "general": 7.0952,
@@ -12504,6 +12461,47 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "MIGUEL ANGEL MENDEZ ANTONIO": {
+    "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
+    "general": 5.8472,
+    "n": 72,
+    "grupos": {
+      "EST-11102-INFERENCIA ESTADISTICA": [
+        {
+          "grupo": "004",
+          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
+          "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
+          "creditos": "8",
+          "horario": "17:30-19:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHPB2",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:30"
+        }
+      ],
+      "EST-14107-PROCESOS ESTOCASTICOS,I": [
+        {
+          "grupo": "001",
+          "nombre": "EST-14107-PROCESOS ESTOCASTICOS,I",
+          "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHPB2",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -12781,6 +12779,81 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
+    "general": 3.5833,
+    "n": 12,
+    "grupos": {
+      "EST-11103-ECONOMETRIA I": [
+        {
+          "grupo": "005",
+          "nombre": "EST-11103-ECONOMETRIA I",
+          "profesor": "CARLOS VLADIMIR RODRIGUEZ CABALLERO",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
+      "EST-11104-ECONOMETRIA": [
+        {
+          "grupo": "005",
+          "nombre": "EST-11104-ECONOMETRIA",
+          "profesor": "CARLOS VLADIMIR RODRIGUEZ CABALLERO",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
+      "EST-24105-ESTADISTICA APLICADA, II": [
+        {
+          "grupo": "003",
+          "nombre": "EST-24105-ESTADISTICA APLICADA, II",
+          "profesor": "CARLOS VLADIMIR RODRIGUEZ CABALLERO",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "EST-24124-METODOS LINEALES": [
+        {
+          "grupo": "003",
+          "nombre": "EST-24124-METODOS LINEALES",
+          "profesor": "CARLOS VLADIMIR RODRIGUEZ CABALLERO",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -13117,9 +13190,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -13277,54 +13350,6 @@ let profesores={
       ]
     }
   },
-  "MIGUEL ANGEL MENDEZ ANTONIO": {
-    "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.8472,
-    "n": 72,
-    "grupos": {
-      "EST-14107-PROCESOS ESTOCASTICOS,I": [
-        {
-          "grupo": "001",
-          "nombre": "EST-14107-PROCESOS ESTOCASTICOS,I",
-          "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHPB2",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ]
-    }
-  },
-  "AIRAM ASERET BLANCAS BENITEZ": {
-    "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 5.875,
-    "n": 8,
-    "grupos": {
-      "EST-14107-PROCESOS ESTOCASTICOS,I": [
-        {
-          "grupo": "002",
-          "nombre": "EST-14107-PROCESOS ESTOCASTICOS,I",
-          "profesor": "AIRAM ASERET BLANCAS BENITEZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-2",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
   "JORGE FRANCISCO DE LA VEGA GONGORA": {
     "grupos": {
       "EST-24101-ESTADISTICA NO PARAMETRICA": [
@@ -13342,47 +13367,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
-    "general": 3.5833,
-    "n": 12,
-    "grupos": {
-      "EST-24105-ESTADISTICA APLICADA, II": [
-        {
-          "grupo": "003",
-          "nombre": "EST-24105-ESTADISTICA APLICADA, II",
-          "profesor": "CARLOS VLADIMIR RODRIGUEZ CABALLERO",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "EST-24124-METODOS LINEALES": [
-        {
-          "grupo": "003",
-          "nombre": "EST-24124-METODOS LINEALES",
-          "profesor": "CARLOS VLADIMIR RODRIGUEZ CABALLERO",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ]
     }
@@ -14827,6 +14811,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
+        }
+      ],
+      "LEN-12756-COMUN. PROF. PARA C.P Y E.F.": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12756-COMUN. PROF. PARA C.P Y E.F.",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ],
+      "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
         }
       ],
       "LEN-12759-COMUNIC. PROFES. PARA MAT. APL": [
@@ -17764,7 +17780,6 @@ let mejoresPorDepto={
     "TOUFIK CHAIBAT",
     "MARCELA RABADAN GALLARDO",
     "JOSE FRANCISCO CASTILLO NAVARRETE",
-    "ARMANDO VERDIN GALAN",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "SANDRA LORENA VILLALOBOS OROZCO",
     "MARIA MONICA CUELLAR AYALA"
@@ -17797,12 +17812,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -17863,7 +17878,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA"
+    "ERICK MIER MORENO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",

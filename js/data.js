@@ -1,4 +1,4 @@
-let actualizado="1673269573311.4346";
+let actualizado="1673355993028.8528";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -49,7 +49,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHPB2",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -1612,7 +1612,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH315",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2117,7 +2117,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH306",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2203,7 +2203,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH306",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2314,32 +2314,6 @@ let clases={
   "CLE-10311": {
     "nombre": "CLE-10311-FRANCES, I",
     "clave": "CLE-10311",
-    "grupos": []
-  },
-  "CLE-10331-LAB": {
-    "nombre": "CLE-10331-ALEMAN, I-LAB",
-    "clave": "CLE-10331",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "CLE-10331-ALEMAN, I-LAB",
-        "profesor": "ARMANDO VERDIN GALAN",
-        "creditos": "4",
-        "horario": "13:00-15:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "PF108",
-        "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "15:00"
-      }
-    ]
-  },
-  "CLE-10331": {
-    "nombre": "CLE-10331-ALEMAN, I",
-    "clave": "CLE-10331",
     "grupos": []
   },
   "CLE-10516-LAB": {
@@ -3535,7 +3509,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA4",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -4251,7 +4225,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH302",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -4319,7 +4293,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH302",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -9045,7 +9019,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "TETSUYA HOSHINO",
         "creditos": "6",
         "horario": "08:00-09:30",
         "dias": [
@@ -9272,7 +9246,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH202",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
@@ -9390,7 +9364,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH201",
+        "salon": "RH204",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
@@ -9588,7 +9562,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH204",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
@@ -10411,7 +10385,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH304",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -10744,7 +10718,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH112",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "10:00"
@@ -10848,7 +10822,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "EST-11101-PROBABILIDAD",
-        "profesor": "",
+        "profesor": "AIRAM ASERET BLANCAS BENITEZ",
         "creditos": "8",
         "horario": "08:00-10:00",
         "dias": [
@@ -10899,7 +10873,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-        "profesor": "",
+        "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
         "creditos": "8",
         "horario": "17:30-19:30",
         "dias": [
@@ -11010,7 +10984,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EST-11103-ECONOMETRIA I",
-        "profesor": "",
+        "profesor": "CARLOS VLADIMIR RODRIGUEZ CABALLERO",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -11076,7 +11050,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EST-11104-ECONOMETRIA",
-        "profesor": "",
+        "profesor": "CARLOS VLADIMIR RODRIGUEZ CABALLERO",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -13443,6 +13417,46 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:00"
+      }
+    ]
+  },
+  "LEN-12756": {
+    "nombre": "LEN-12756-COMUN. PROF. PARA C.P Y E.F.",
+    "clave": "LEN-12756",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "LEN-12756-COMUN. PROF. PARA C.P Y E.F.",
+        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+        "creditos": "2",
+        "horario": "07:00-08:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:00"
+      }
+    ]
+  },
+  "LEN-12757": {
+    "nombre": "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN",
+    "clave": "LEN-12757",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN",
+        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+        "creditos": "2",
+        "horario": "12:00-13:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
       }
     ]
   },
@@ -16456,6 +16470,11 @@ let misProfesData={
     "general": 5.9327,
     "n": 208
   },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3
+  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4667,
@@ -16796,11 +16815,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -16847,9 +16861,14 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17483,8 +17502,8 @@ let misProfesData={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2414,
-    "n": 174
+    "general": 8.2514,
+    "n": 175
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
