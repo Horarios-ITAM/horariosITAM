@@ -1,4 +1,4 @@
-let actualizado="1673355993069.1023";
+let actualizado="1673442387070.3728";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -1968,8 +1968,8 @@ let profesores={
   },
   "JOSE MARIA BARRERO SANCLEMENTE": {
     "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
-    "general": 6.3571,
-    "n": 14,
+    "general": 6.5333,
+    "n": 15,
     "grupos": {
       "ADM-15532-FINANZAS CORPORATIVAS": [
         {
@@ -2038,8 +2038,8 @@ let profesores={
   },
   "MATHIAS JOSEF SCHNEIDER": {
     "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
-    "general": 7.1111,
-    "n": 9,
+    "general": 7.3,
+    "n": 10,
     "grupos": {
       "ADM-15533-MODELOS FINANCIEROS I": [
         {
@@ -3885,9 +3885,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5153,9 +5150,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -8776,8 +8770,8 @@ let profesores={
   },
   "IGNACIO NORBERTO LOBATO GARCIA MIJAN": {
     "link": "https://www.misprofesores.com/profesores/Ignacio-Norberto-Lobato-Garc\u00eda-Mij\u00e1n_10781",
-    "general": 7.4348,
-    "n": 23,
+    "general": 7.25,
+    "n": 24,
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
         {
@@ -9072,9 +9066,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -9925,8 +9919,8 @@ let profesores={
   },
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
-    "general": 7.2258,
-    "n": 31,
+    "general": 7.0938,
+    "n": 32,
     "grupos": {
       "ECO-15101-FINANZAS PUBLICAS": [
         {
@@ -10352,7 +10346,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH210",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -11725,70 +11719,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
-        }
-      ],
-      "LEN-10204-COM. PROFESIONAL PARA ECONOMIA": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-10204-COM. PROFESIONAL PARA ECONOMIA",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
-      "LEN-12755-COMUN. PROFESIONAL PARA C. POL": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12755-COMUN. PROFESIONAL PARA C. POL",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "19:00-20:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:00"
-        }
-      ],
-      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
-      "LEN-17042-COM. PROFESIONAL PARA C. POL.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-17042-COM. PROFESIONAL PARA C. POL.",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "19:00-20:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:00"
         }
       ]
     }
@@ -13190,9 +13120,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -14963,6 +14893,42 @@ let profesores={
       ]
     }
   },
+  "HANAKO TANIGUCHI PONCIANO": {
+    "grupos": {
+      "LEN-10204-COM. PROFESIONAL PARA ECONOMIA": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-10204-COM. PROFESIONAL PARA ECONOMIA",
+          "profesor": "HANAKO TANIGUCHI PONCIANO",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ],
+      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "HANAKO TANIGUCHI PONCIANO",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ]
+    }
+  },
   "FEDERICO VALLE OCHOA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
     "general": 10.0,
@@ -15288,6 +15254,42 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "VIANEY OMECIHUATL ESQUINCA MONTA\u00d1O": {
+    "grupos": {
+      "LEN-12755-COMUN. PROFESIONAL PARA C. POL": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12755-COMUN. PROFESIONAL PARA C. POL",
+          "profesor": "VIANEY OMECIHUATL ESQUINCA MONTA\u00d1O",
+          "creditos": "2",
+          "horario": "19:00-20:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:00"
+        }
+      ],
+      "LEN-17042-COM. PROFESIONAL PARA C. POL.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-17042-COM. PROFESIONAL PARA C. POL.",
+          "profesor": "VIANEY OMECIHUATL ESQUINCA MONTA\u00d1O",
+          "creditos": "2",
+          "horario": "19:00-20:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHPB4",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -17047,7 +17049,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -17064,7 +17066,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -17812,12 +17814,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -17833,7 +17835,6 @@ let mejoresPorDepto={
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
-    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
@@ -17842,7 +17843,8 @@ let mejoresPorDepto={
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "MENEY DE LA PEZA GANDARA"
+    "MENEY DE LA PEZA GANDARA",
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -17878,7 +17880,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "ERICK MIER MORENO"
+    "EDUARDO SELIM MARTINEZ MAYORGA"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",

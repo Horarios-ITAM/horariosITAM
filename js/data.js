@@ -1,4 +1,4 @@
-let actualizado="1673355993028.8528";
+let actualizado="1673442387023.8933";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -9208,7 +9208,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH210",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -12556,7 +12556,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-10204-COM. PROFESIONAL PARA ECONOMIA",
-        "profesor": "",
+        "profesor": "HANAKO TANIGUCHI PONCIANO",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -13407,7 +13407,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12755-COMUN. PROFESIONAL PARA C. POL",
-        "profesor": "",
+        "profesor": "VIANEY OMECIHUATL ESQUINCA MONTA\u00d1O",
         "creditos": "2",
         "horario": "19:00-20:00",
         "dias": [
@@ -13467,7 +13467,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-        "profesor": "",
+        "profesor": "HANAKO TANIGUCHI PONCIANO",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -13751,7 +13751,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-17042-COM. PROFESIONAL PARA C. POL.",
-        "profesor": "",
+        "profesor": "VIANEY OMECIHUATL ESQUINCA MONTA\u00d1O",
         "creditos": "2",
         "horario": "19:00-20:00",
         "dias": [
@@ -15026,7 +15026,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -15128,7 +15128,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -16127,6 +16127,11 @@ let clases={
         "fin": "13:00"
       }
     ]
+  },
+  "SDI-25916": {
+    "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+    "clave": "SDI-25916",
+    "grupos": []
   }
 };
 let misProfesData={
@@ -16222,8 +16227,8 @@ let misProfesData={
   },
   "JOSE MARIA BARRERO SANCLEMENTE": {
     "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
-    "general": 6.3571,
-    "n": 14
+    "general": 6.5333,
+    "n": 15
   },
   "ERNESTO JUVENAL BARRIOS ZAMUDIO": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Juvenal-Barrios-Zamudio_10689",
@@ -16470,11 +16475,6 @@ let misProfesData={
     "general": 5.9327,
     "n": 208
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4667,
@@ -16502,8 +16502,8 @@ let misProfesData={
   },
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
-    "general": 7.2258,
-    "n": 31
+    "general": 7.0938,
+    "n": 32
   },
   "ALEXANDROS FAKOS": {
     "link": "https://www.misprofesores.com/profesores/Alexandros-Fakos_73366",
@@ -16807,8 +16807,8 @@ let misProfesData={
   },
   "IGNACIO NORBERTO LOBATO GARCIA MIJAN": {
     "link": "https://www.misprofesores.com/profesores/Ignacio-Norberto-Lobato-Garc\u00eda-Mij\u00e1n_10781",
-    "general": 7.4348,
-    "n": 23
+    "general": 7.25,
+    "n": 24
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
@@ -16829,6 +16829,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.8182,
     "n": 11
+  },
+  "IRMA LOZANO MENDICUTI": {
+    "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
+    "general": 8.5294,
+    "n": 34
   },
   "ADRIAN LUCARDI": {
     "link": "https://www.misprofesores.com/profesores/Adrian-Lucardi_82586",
@@ -16861,14 +16866,9 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17231,9 +17231,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -17337,8 +17337,8 @@ let misProfesData={
   },
   "MATHIAS JOSEF SCHNEIDER": {
     "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
-    "general": 7.1111,
-    "n": 9
+    "general": 7.3,
+    "n": 10
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
