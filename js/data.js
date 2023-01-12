@@ -1,4 +1,4 @@
-let actualizado="1673442387023.8933";
+let actualizado="1673528787450.1426";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -1221,7 +1221,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH303",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -1803,7 +1803,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH306",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -2616,7 +2616,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHLMAC",
+        "salon": "RHCC102",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -2650,7 +2650,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHLMAC",
+        "salon": "RHCC102",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10961,7 +10961,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH209",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -11027,7 +11027,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH209",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -11381,8 +11381,7 @@ let clases={
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
-          "MI",
-          "VI"
+          "MI"
         ],
         "salon": "RH309",
         "campus": "RIO HONDO",
@@ -11495,10 +11494,9 @@ let clases={
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
-          "MA",
-          "JU"
+          "MA"
         ],
-        "salon": "RH311",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -11543,6 +11541,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
+      }
+    ]
+  },
+  "EST-24123": {
+    "nombre": "EST-24123-TEMAS SELECTOS DE MUESTREO",
+    "clave": "EST-24123",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EST-24123-TEMAS SELECTOS DE MUESTREO",
+        "profesor": "ALFREDO GARBUNO I\u00d1IGO",
+        "creditos": "6",
+        "horario": "17:30-19:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH211",
+        "campus": "RIO HONDO",
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -11761,10 +11780,9 @@ let clases={
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
-          "MA",
-          "JU"
+          "MA"
         ],
-        "salon": "RH311",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -13851,10 +13869,9 @@ let clases={
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "MA",
-          "JU"
+          "MA"
         ],
-        "salon": "RH315",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -16094,7 +16111,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
+        "profesor": "STEFANO STRAULINO TORRE",
         "creditos": "4",
         "horario": "17:30-19:30",
         "dias": [
@@ -16104,6 +16121,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+        "profesor": "",
+        "creditos": "4",
+        "horario": "15:30-17:30",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "15:30",
+        "fin": "17:30"
       }
     ]
   },
@@ -16192,8 +16223,8 @@ let misProfesData={
   },
   "HECTOR DE JESUS ARGUETA VILLAMAR": {
     "link": "https://www.misprofesores.com/profesores/Hector-de-Jesus-Argueta-Villamar_99143",
-    "general": 8.0,
-    "n": 12
+    "general": 7.9231,
+    "n": 13
   },
   "LUIS ARIAS OSOYO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Arias-Osoyo_130021",
@@ -16475,6 +16506,11 @@ let misProfesData={
     "general": 5.9327,
     "n": 208
   },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3
+  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4667,
@@ -16482,8 +16518,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.6774,
-    "n": 31
+    "general": 7.8182,
+    "n": 33
   },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
@@ -16815,6 +16851,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -16866,9 +16907,14 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -16912,8 +16958,8 @@ let misProfesData={
   },
   "ENRIQUE MELROSE AGUILAR": {
     "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
-    "general": 7.5882,
-    "n": 17
+    "general": 7.6667,
+    "n": 18
   },
   "EDUARDO MENACHE VARELA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
@@ -17207,8 +17253,8 @@ let misProfesData={
   },
   "PAVEL REAL PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
-    "general": 9.5,
-    "n": 20
+    "general": 9.4762,
+    "n": 21
   },
   "SILVIA RIOS MAGOS": {
     "link": "https://www.misprofesores.com/profesores/Silvia-r\u00edos-magos_41283",
@@ -17231,9 +17277,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -17287,8 +17333,8 @@ let misProfesData={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7722,
-    "n": 79
+    "general": 8.7531,
+    "n": 81
   },
   "IRMA BEATRIZ RUMBOS PELLICER": {
     "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",

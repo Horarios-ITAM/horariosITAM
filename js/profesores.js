@@ -1,4 +1,4 @@
-let actualizado="1673442387070.3728";
+let actualizado="1673528787496.7861";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -1158,7 +1158,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH306",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -1535,7 +1535,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH303",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -3097,7 +3097,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHLMAC",
+          "salon": "RHCC102",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -3113,7 +3113,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHLMAC",
+          "salon": "RHCC102",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -3204,6 +3204,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3885,6 +3888,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5150,6 +5156,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -9066,9 +9075,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10717,6 +10726,22 @@ let profesores={
           "inicio": "13:00",
           "fin": "14:00"
         }
+      ],
+      "SDI-15816-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+          "profesor": "STEFANO STRAULINO TORRE",
+          "creditos": "4",
+          "horario": "17:30-19:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH211",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:30"
+        }
       ]
     }
   },
@@ -10832,8 +10857,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.6774,
-    "n": 31,
+    "general": 7.8182,
+    "n": 33,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11336,22 +11361,6 @@ let profesores={
           "inicio": "17:00",
           "fin": "18:00"
         }
-      ],
-      "SDI-15816-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-          "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
-          "creditos": "4",
-          "horario": "17:30-19:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH211",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
-        }
       ]
     }
   },
@@ -11719,6 +11728,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
+        }
+      ],
+      "SDI-15816-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "002",
+          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+          "profesor": "",
+          "creditos": "4",
+          "horario": "15:30-17:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "15:30",
+          "fin": "17:30"
         }
       ]
     }
@@ -12613,7 +12638,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH209",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -12630,7 +12655,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH209",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -13120,9 +13145,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -13211,10 +13236,9 @@ let profesores={
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
-            "MA",
-            "JU"
+            "MA"
           ],
-          "salon": "RH311",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -13290,8 +13314,7 @@ let profesores={
           "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
-            "MI",
-            "VI"
+            "MI"
           ],
           "salon": "RH309",
           "campus": "RIO HONDO",
@@ -13326,6 +13349,23 @@ let profesores={
     "general": 6.6667,
     "n": 3,
     "grupos": {
+      "EST-24123-TEMAS SELECTOS DE MUESTREO": [
+        {
+          "grupo": "001",
+          "nombre": "EST-24123-TEMAS SELECTOS DE MUESTREO",
+          "profesor": "ALFREDO GARBUNO I\u00d1IGO",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH211",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
       "EST-25134-APRENDIZAJE ESTADISTICO": [
         {
           "grupo": "001",
@@ -13334,10 +13374,9 @@ let profesores={
           "creditos": "6",
           "horario": "10:00-11:30",
           "dias": [
-            "MA",
-            "JU"
+            "MA"
           ],
-          "salon": "RH311",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -15304,10 +15343,9 @@ let profesores={
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
-            "MA",
-            "JU"
+            "MA"
           ],
-          "salon": "RH315",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -16110,8 +16148,8 @@ let profesores={
   },
   "HECTOR DE JESUS ARGUETA VILLAMAR": {
     "link": "https://www.misprofesores.com/profesores/Hector-de-Jesus-Argueta-Villamar_99143",
-    "general": 8.0,
-    "n": 12,
+    "general": 7.9231,
+    "n": 13,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -16226,8 +16264,8 @@ let profesores={
   },
   "PAVEL REAL PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
-    "general": 9.5,
-    "n": 20,
+    "general": 9.4762,
+    "n": 21,
     "grupos": {
       "MAT-14051-PROPEDEUTICO MATEM.- UNIDAD I": [
         {
@@ -16833,8 +16871,8 @@ let profesores={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7722,
-    "n": 79,
+    "general": 8.7531,
+    "n": 81,
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
         {
@@ -17727,8 +17765,8 @@ let profesores={
   },
   "ENRIQUE MELROSE AGUILAR": {
     "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
-    "general": 7.5882,
-    "n": 17,
+    "general": 7.6667,
+    "n": 18,
     "grupos": {
       "SDI-14105-INTRODUCCION A LA INGENIERIA": [
         {
@@ -17814,12 +17852,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -17835,6 +17873,7 @@ let mejoresPorDepto={
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
+    "MARTA ROBLES CARTES",
     "ISAAC GUZMAN VALDIVIA TOVAR",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
@@ -17843,8 +17882,7 @@ let mejoresPorDepto={
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "MENEY DE LA PEZA GANDARA",
-    "CHRISTIANE FABREGA CHIMALI"
+    "MENEY DE LA PEZA GANDARA"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -17880,7 +17918,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA"
+    "ERICK MIER MORENO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
