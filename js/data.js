@@ -1,4 +1,4 @@
-let actualizado="1673528787450.1426";
+let actualizado="1673615185116.3176";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -6946,7 +6946,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF105",
+        "salon": "PF102",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -14329,7 +14329,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH307",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "15:00",
         "fin": "17:00"
@@ -14425,7 +14425,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH307",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "15:00",
         "fin": "17:00"
@@ -14521,7 +14521,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH307",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "15:00",
         "fin": "17:00"
@@ -16707,9 +16707,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.65,
-    "n": 20
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17403,8 +17403,8 @@ let misProfesData={
   },
   "ANURAG SINGH": {
     "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
-    "general": 5.2941,
-    "n": 17
+    "general": 5.5,
+    "n": 18
   },
   "MAX AMERICO SOLDEVILLA CANALES": {
     "link": "https://www.misprofesores.com/profesores/Max-Americo-Soldevilla-Canales_67167",
@@ -17427,9 +17427,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

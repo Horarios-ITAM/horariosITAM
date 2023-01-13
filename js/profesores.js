@@ -1,4 +1,4 @@
-let actualizado="1673528787496.7861";
+let actualizado="1673615185203.9517";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -1931,8 +1931,8 @@ let profesores={
   },
   "ANURAG SINGH": {
     "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
-    "general": 5.2941,
-    "n": 17,
+    "general": 5.5,
+    "n": 18,
     "grupos": {
       "ADM-15531-MERCADOS E INSTITUCS. FINANCS.": [
         {
@@ -4129,9 +4129,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.65,
-    "n": 20,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -7844,7 +7844,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "PF105",
+          "salon": "PF102",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -13981,9 +13981,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -16278,7 +16278,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH307",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "15:00",
           "fin": "17:00"
@@ -16295,7 +16295,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH307",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "15:00",
           "fin": "17:00"
@@ -16312,7 +16312,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH307",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "15:00",
           "fin": "17:00"
@@ -17941,8 +17941,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ANA TAMARIT AMIEVA",
-    "ALEJANDRA SOLIS GONZALEZ"
+    "ALEJANDRA SOLIS GONZALEZ",
+    "ANA TAMARIT AMIEVA"
   ],
   "MATEMATICAS": [
     "PAVEL REAL PEREZ",
