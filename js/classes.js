@@ -1,5 +1,17 @@
-//De datos
+/**
+ * Contiene las classes que contienen los datos de profesores, clases, grupos y
+ * horarios al igual que funciones que permiten crear los objetos correspondientes
+ * de datos contenidos en JSON.
+ */
+
 class Profesor{
+    /**
+     * Construye objeto que representa a un profesor.
+     * @param {String} nombre del profesor
+     * @param {Float} misProfesGeneral Promedio general de evaluaciones
+     * @param {Int} misProfesN Numero de evaluaciones
+     * @param {String} misProfesLink Link a su pagina de MisProfes.com
+     */
     constructor(nombre,misProfesGeneral,misProfesN,misProfesLink){
         this.nombre=nombre;
         this.misProfesGeneral=misProfesGeneral;
@@ -15,26 +27,45 @@ function profesorFromJSON(json){
         json["misProfesLink"]
     );
 }
-//De datos
+
 class Clase{
+    /**
+     * Construye a objeto que representa una clase.
+     * @param {String} nombre de la materia
+     * @param {String} clave de la materia
+     * @param {[Grupo]} grupos Lista de objs. Grupo que corresponden a la clase
+     */
     constructor(nombre,clave,grupos){
         this.nombre=nombre;
         this.clave=clave;
         this.grupos=grupos;
     }
 }
-//De datos
+
 class Grupo{
+    /**
+     * Construye objeto que representa a un grupo de una clase.
+     * @param {String} numero El id del grupo i.e '001'
+     * @param {String} claveClase La clave de la clase a la que pertenece el grupo
+     * @param {Profesor} profesor El obj. Profesor del que imparte el grupo
+     * @param {String} salon El salon correspondiente
+     * @param {[String]} dias Lista de dias en los que se imparte
+     * @param {String} inicio Cadena de inicio de la sesion i.e '07:00'
+     * @param {String} fin Cadena de fin de la sesion i.e '09:00'
+     * @param {Date} dtInicio Obj. Date correspondiente a inicio
+     * @param {Date} dtFin Obj. Date correspondiente a fin
+     * @param {String} horario Cadena de la forma 07:00-09:00
+     */
     constructor(numero,claveClase,profesor,salon,dias,inicio,fin,dtInicio,dtFin,horario){
-        this.numero=numero; //string
-        this.claveClase=claveClase; //string
-        this.profesor=profesor; //clase Profesor
-        this.salon=salon; //string
-        this.dias=dias; //[string,string,...]
-        this.inicio=inicio; //string eg. "7:00"
-        this.fin=fin; //string eg. "7:00"
-        this.dtInicio=dtInicio; //Date
-        this.dtFin=dtFin; //Date
+        this.numero=numero;
+        this.claveClase=claveClase;
+        this.profesor=profesor;
+        this.salon=salon;
+        this.dias=dias;
+        this.inicio=inicio;
+        this.fin=fin; 
+        this.dtInicio=dtInicio; 
+        this.dtFin=dtFin;
         this.horario=horario;
     }
 }
@@ -55,6 +86,25 @@ function grupoFromJSON(json){
 }
 
 class Preferencias{
+    /**
+     * Construye objeto que representa las preferencias del usuario.
+     * Los argumentos 'peso' se refieren a cuanto pesa esa parte de la
+     * funcion que evalua a los horarios generados (i.e. cuanta importancia se le da).
+     * 
+     * @param {Boolean} misProfes Si tomar en cuenta o no las calificaciones de profesores en MisProfes
+     * @param {Float} misProfesPeso Cuanto pesan las calificaciones de MisProfes
+     * @param {Boolean} juntas Si se selecciono Juntas en "Clases: Juntas/Separadas"
+     * @param {Float} juntasPeso El peso que se le da a que las clases esten juntas/separadas
+     * @param {String} rangoStart Cadena de inicio del rango de "Rango de horario"
+     * @param {String} rangoEnd Cadena de fin del rango de "Rango de horario"
+     * @param {Float} rangoPeso Peso que se le da a que se respete el "Rango de horario"
+     * @param {String} diaMenos Cadena que indica que dia prefiere tener menos clases
+     * @param {Float} diaMenosPeso El peso de respetar el dia con menos clases
+     * @param {Map<String,[String]>} gruposSeleccionados Dict. Clave Materia -> Lista de claves de grupos seleccionados
+     * @param {Int} nGruposSeleccionados Numero de grupos seleccionados
+     * @param {String} generacion Cadena que indica como generar los horarios ("todos" por defecto)
+     * @param {Boolean} mismoGrupo Mismo grupo teoría y lab (ingenierías)
+     */
     constructor(misProfes,misProfesPeso,juntas,juntasPeso,rangoStart,
         rangoEnd,rangoPeso,diaMenos,diaMenosPeso,gruposSeleccionados,nGruposSeleccionados,generacion,mismoGrupo){
             this.misProfes=misProfes;
@@ -72,8 +122,14 @@ class Preferencias{
             this.mismoGrupo=mismoGrupo;
         }
 }
-//A construir
+// TODO preferenciasFromJSON()
+
 class Horario{
+    /**
+     * Construye objeto que representa a un horario
+     * @param {[Grupo]} grupos Lista de objs. Grupo
+     * @param {Float} puntaje El puntaje calculado con las preferencias del usuario
+     */
     constructor(grupos,puntaje){
         this.grupos=grupos;
         this.puntaje=puntaje;
