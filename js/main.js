@@ -1,9 +1,17 @@
-//LOADS
-//Convierte strings como "07:00" a objectos Date con la misma fecha
+/**
+ * Convierte strings como "07:00" a objectos Date con la misma fecha
+ * @param {String} strHora El string de la forma "07:00"
+ * @returns {Date} Obj. Date con la hora. 
+ */
 function strToDateHora(strHora){
     return new Date('1970-01-01T'+strHora +'-06:00');
 }
-//Lee y construye una clase en las clases de data.js
+
+/**
+ * Lee y construye una clase en las clases de data.js
+ * @param {String} clave La clave de la clase a cargar.
+ * @returns {Clase} La clase cargada como obj. Clase.
+ */
 function loadClase(clave){
     let clase=clases[clave];
     let c=new Clase(
@@ -14,11 +22,15 @@ function loadClase(clave){
     return c;
 }
 
-//Lee grupos de datos, construye sus clases los regresa en lista
-//"grupo": "001", "nombre": "ACT-11300-CALCULO ACTUARIAL I", "profesor": "SERGIO GARCIA ALQUICIRA", "creditos": "6", "horario": "19:00-20:30", "dias": ["MA", "JU"], "salon": "RH108", "campus": "RIO HONDO"}
-function loadGrupos(gruposList,claveClase){
+/**
+ * Dado el dict. de 'grupos' de una clase (data.js), construye sus objectos los regresa en lista.
+ * @param {*} gruposDict 
+ * @param {String} claveClase 
+ * @returns {[Grupo]} Lista de objs. Grupo.
+ */
+function loadGrupos(gruposDict,claveClase){
     let out={};
-    for(grupo of gruposList){
+    for(grupo of gruposDict){
         let inicio=grupo['inicio'];
         let dtInicio=strToDateHora(inicio);
         let fin=grupo['fin'];
@@ -39,7 +51,14 @@ function loadGrupos(gruposList,claveClase){
     }
     return out;
 }
-//Carga profesor con variables globales en data.js
+
+/**
+ * Lee datos (data.js) y construye obj. de Profesor dado su nombre. 
+ * Si no se encuentra al profesor en misProfesData, se asignan NaNs a
+ * 'general','n' y 'link'.
+ * @param {String} nombreProfesor 
+ * @returns {Profesor} Obj. del profesor.
+ */
 function loadProfesor(nombreProfesor){
     if(nombreProfesor in misProfesData)
         return new Profesor(
@@ -56,8 +75,13 @@ function loadProfesor(nombreProfesor){
     );
 }
 
-//UTILS
-//Regresa un diccionario de la forma {'LU':[grupos con clases en lunes],...}
+// UTILS
+/**
+ * Regresa un diccionario de la forma {'LU':[grupos con clases en lunes], etc.}
+ * NOTA: Solo incluye dias que tienen alguna clase.
+ * @param {[Grupo]} grupos Lista de objs. Grupo.
+ * @returns {Map<String,[Grupo]>} Dict. dia -> [objs. grupo]
+ */
 function gruposEnDias(grupos){
     let out={};
     for(let grupo of grupos){
@@ -70,22 +94,35 @@ function gruposEnDias(grupos){
     }
     return out;
 }
-//Regresa el numero de empalmes de grupos [lista] asumiendo que comparten dia.
-//Usado como subrutina en empalmes().
+
+/**
+ * Regresa el numero de empalmes de una lista de grupos ASUMIENDO que comparten dia. 
+ * (Es decir, todos los grupos se asumen son del mismo dia)
+ * Usado como subrutina en empalmes().
+ * @param {[Grupo]} grupos Lista de objs. Grupo. 
+ * @returns {Int} El no. de empalmes detectados. 
+ */
 function empalmesMismoDia(grupos){ //TODO no toma en cuenta dias!!!!
+    // Hacemos copia local
     let gruposOrdenados=grupos.slice();
-    //Ordena los grupos por hr de inicio
+    // Ordena los grupos por hora de inicio
     gruposOrdenados.sort((a,b)=> a.dtInicio.getTime()-b.dtInicio.getTime());
     let count=0;
+    // Recorremos la lista ordenada
     for(let i=0;i<grupos.length-1;i++){
+        // Si se cumple que la i-esima clase termina despues del inicio de la (i+1)-esima hay empalme.
         if(gruposOrdenados[i].dtFin.getTime()>gruposOrdenados[i+1].dtInicio.getTime()){
             count++;
-            //console.log(grupos[i],grupos[i+1]);
         }
     }
-    return count; //TODO podriamos regresar cuales empalman para feedback al usuario.
+    return count; // TODO podriamos regresar cuales empalman para feedback al usuario.
 }
-//Regresa el numero de empalmes de grupos [lista]
+
+/**
+ * Regresa el numero de empalmes entre una lista de grupos.
+ * @param {[Grupo]} grupos Lista de objs. Grupo.
+ * @returns {Int} El no. de empalmes detectados.
+ */
 function empalmes(grupos){
     let count=0;
     let gruposDias=gruposEnDias(grupos);
@@ -95,9 +132,19 @@ function empalmes(grupos){
     }
     return count;
 }
-//----FUNCION DE EVALUACION DE HORARIO-----
-//Regresa el promedio de las evaluaciones de los profesores de los grupos en el horario.
-//Normaliza el promedio para que viva en 0-1.
+
+// ----FUNCION DE EVALUACION DE HORARIO-----
+/**
+ * NOTA: Todas las componentes de la f. evaluadora deben regresar valores
+ * en [0,1] y entre mas alto mejor.
+*/
+
+/**
+ * Regresa el promedio normalizado [0-1] de las evaluaciones de los profesores de los grupos en el horario.
+ * Mayor promedio general de profesores implica mayor puntaje.
+ * @param {Horario} horario Obj. Horario al que calificar
+ * @returns {Float} Puntaje correspondiente
+ */
 function misProfesPuntaje(horario){
     let suma=0;
     let conGeneral=0;
@@ -109,15 +156,19 @@ function misProfesPuntaje(horario){
         }
     }
     if(conGeneral>0){
-        let promedio=suma/conGeneral; //Vive en 0-10
-        return promedio/10; //Normalizamos
+        let promedio=suma/conGeneral; // Vive en 0-10
+        return promedio/10; // Normalizamos
     }else{
         return 0;
     }
-
 }
-//Regresa la proporcion de clases que no se encuentran en dia.
-//Normalizado 0-1.
+
+/**
+ * Penaliza de acuerdo a la proporcion de clases en 'dia'.
+ * @param {Horario} horario Obj. Horario al que calificar
+ * @param {String} dia Dia para evaluar
+ * @returns {Float} Puntaje correspondiente
+ */
 function diaConMenosPuntaje(horario,dia){
     let gruposDias=gruposEnDias(horario.grupos);
     let gruposEnDia=0;
@@ -127,48 +178,83 @@ function diaConMenosPuntaje(horario,dia){
     return 1-(gruposEnDia/totalGrupos);
 }
 
-//Regresa la proporcion de grupos en el horario que caen en el rango
-//Un grupos cae en el rango si rango.inicio<=inicio y grupo.fin<=rango.fin
+/**
+ * Penaliza de acuerdo a la proporcion de dias que tiene que asistir. 
+ * @param {Horario} horario Obj. Horario a evaluar.
+ * @returns {Float} Puntaje correspondiente.
+ */
+function menosDiasPuntaje(horario){
+    // Numero de dias que tiene que ir
+    let nDias=gruposEnDias(horario.grupos).length;
+    return 1-(nDias/6);
+}
+
+/**
+ * Regresa la proporcion de grupos que caen dentro el rango indicado por el usuario.
+ * @param {Horario} horario Obj. Horario a evaluar
+ * @param {String} inicioRango Inicio del rango '07:00'
+ * @param {String} finRango Fin del rando '09:00'
+ * @returns {Float} Puntaje correspondiente
+ */
 function rangoPuntaje(horario,inicioRango,finRango){
+    // Convertimos a objs. Date 
     let inicio=strToDateHora(inicioRango);
     let fin=strToDateHora(finRango);
-    let totalGrupos=horario.grupos.length;
+
+    // Calculamos cuantos caen dentro del rango
     let caenEnRango=0;
     for(let grupo of horario.grupos){
+        // Cae dentro del rango si su hora de inicio es mayor a la del rango
+        // y si su hora de fin es menor a la del rango.
         if(inicio.getTime()<=grupo.dtInicio.getTime() && grupo.dtFin.getTime()<=fin.getTime())
             caenEnRango+=1;
     }
+    // Calculamos la proporcion
+    let totalGrupos=horario.grupos.length;
     if(totalGrupos>0)
         return caenEnRango/totalGrupos;
     return 0;
 }
 
-//Regresa el tiempo entre clases total en hrs
-//Para cada dia checa que grupos tienen clase ese dia y calcula el tiempo entre clases.
-//Se repite esto para cada dia de la sema
+/**
+ * Regresa el tiempo entre clases total en horas.
+ * Para cada dia se checan los grupos del dia y calcula el tiempo entre clases.
+ * Usado como subrutina en puntajeJuntasSeparadas().
+ * @param {Horario} horario Obj. Horario que contiene los grupos.
+ * @returns {Float} El no. de horas entre clases.
+ */
 function tiempoEntreClases(horario){
+    // Dia -> [Grupos que tienen clase]
     let gruposDia=gruposEnDias(horario.grupos);
-    let tiempo={}; //por dia
+    // Dia -> hrs entre clases
+    let tiempo={};
     let total=0;
+    // Para cada dia
     for(let dia in gruposDia){
         let grupos=gruposDia[dia];
         if(!(dia in tiempo))
             tiempo[dia]=0;
-        //Ordena por hr de inicio
+
+        // Ordenamos los grupos del dia por hr de inicio
         grupos.sort((a,b)=> a.dtInicio.getTime()-b.dtInicio.getTime());
+
+        // Sumamos la diferencia en horas entre el comienzo de la (i+1)-esima clase y el fin de la i-esima.
         for(let i=0;i<grupos.length-1;i++){
-            let dif=(grupos[i+1].dtInicio-grupos[i].dtFin)/36e5; //36e5=60*60*1000 para pasar a hrs
+            // Para convertir de milisegundos a hrs divide entre 60*60*1000=36e5
+            let dif=(grupos[i+1].dtInicio-grupos[i].dtFin)/36e5;
             tiempo[dia]+=dif; 
             total+=dif;
         }
     }
-    //console.log(tiempo);
-    return total;
-    
+    return total; 
 }
 
-//puntaje Juntas. El minimo de tiempo que puede haber es 0. El maximo? (22:00-07:00)5=135?
-//Usa tiempoEntreClases y juntas [bool] para calcular un puntaje
+/**
+ * TODO
+ * @param {*} horario 
+ * @param {*} juntas 
+ * @returns 
+ */
 function puntajeJuntasSeparadas(horario,juntas){
     let tiempo=tiempoEntreClases(horario);
     let prop=tiempo/135; //(22:00-07:00)5 - TODO ver si tiene sentido
@@ -177,46 +263,84 @@ function puntajeJuntasSeparadas(horario,juntas){
     return prop;
 }
 
-//Promedio ponderado de preferencias con importancias
+
+/**
+ * Calcula la evaluacion total de un horario usando las preferencias del usuario.
+ * Es un peso ponderado usando los pesos en preferencias.
+ * El resultado vive en [0,100]. 
+ * @param {Horario} horario Obj. Horario a evaluar
+ * @param {Preferencias} preferencias Obj. Preferencias que corresponden al usuario.
+ * @returns {Float} El puntaje correspondiente en [0,100].
+ */
 function evaluaHorario(horario,preferencias){
-    //Promedio de las evaluaciones de los profesores de los grupos en el horario
+    // Promedio de las evaluaciones de los profesores de los grupos en el horario
     let promedioMisProfes=misProfesPuntaje(horario)*preferencias.misProfesPeso;
-    //Proporcion de clases que no se encuentran en dia con menos clases preferido
+
+    // Proporcion de clases que no se encuentran en dia con menos clases preferido
     let diaConMenos=diaConMenosPuntaje(horario,preferencias.diaMenos)*preferencias.diaMenosPeso;
-    //Rango horario
+
+    // Rango horario
     let rangoHorario=rangoPuntaje(horario,preferencias.rangoStart,preferencias.rangoEnd)*preferencias.rangoPeso;
-    //Clases Juntas/Separadas TODO
+
+    // Clases Juntas/Separadas TODO
     let juntasSeparadas=puntajeJuntasSeparadas(horario,preferencias.juntas);
-    //console.log(promedioMisProfes);
-    //console.log(diaConMenos);
-    //console.log(rangoHorario);
-    //console.log(juntasSeparadas);
-    //Sumas
+
+    /**
+    console.log(promedioMisProfes);
+    console.log(diaConMenos);
+    console.log(rangoHorario);
+    console.log(juntasSeparadas);
+    */
+
     let sumaPesos=preferencias.misProfesPeso+preferencias.diaMenosPeso+preferencias.rangoPeso;
-    let sumaPonderada=(promedioMisProfes+diaConMenos+rangoHorario)/sumaPesos;
-    //console.log(sumaPonderada);
-    if(sumaPesos>0)
+    if(sumaPesos>0){
+        // Vive en [0,100]
+        let sumaPonderada=(promedioMisProfes+diaConMenos+rangoHorario)/sumaPesos;
         return sumaPonderada*100;
-    return 0;
+    }else{
+        return 0;
+    }
 }
 
-//GENERADORES
+// GENERADORES
 
-//TODOS
-//Ayudador recursivo
+// Ayudador recursivo
+/**
+ * Genera horario recursivamente. Usado como subrutina en generarTodosHorarios().
+ * Guarda los horarios generados en la lista referenciada 'horarios'.
+ * 
+ * NOTA: Asume que listaDeClases es tal que grupos con -LAB aparecen despues de su
+ * grupo de teoria.
+ * 
+ * @param {[Clase]} listaDeClases 
+ * @param {Int} i 
+ * @param {Horario} horarioTemp 
+ * @param {[Horario]} horarios 
+ * @param {Bool} mismoGrupo Corresponde a preferencias.mismoGrupo.
+ * Indica si tomar el mismo grupo de teoria y laboratorio en caso de tener.
+ * @returns {null}
+ */
 function _generarTodosHorarios(listaDeClases,i,horarioTemp,horarios,mismoGrupo){
+    // Si ya recorrimos toda la lista
     if(i>=listaDeClases.length){
-        if(empalmes(horarioTemp.grupos)==0){ //grupos es lista? si
+        // Y no hay empalmes en el horario que armamos
+        if(empalmes(horarioTemp.grupos)==0){
+            // Guardamos el horario
             horarios.push(horarioTemp);    
         }
         return;
     }
-    // Si clase es lab y mismoGrupo teoria y lab
+    // Si clase es lab y mismoGrupo=true agregamos el lab y recursamos
     if(mismoGrupo && listaDeClases[i].nombre.indexOf('-LAB')>=0){
+        // Buscamos su grupo de teoria
         for(let numeroGrupo in horarioTemp.grupos){
+            // Si la clave de la clase actual empieza con la clave del grupo
             if(listaDeClases[i].clave.startsWith(horarioTemp.grupos[numeroGrupo].claveClase)){
+                // El numero de grupo con L al final para distinguirlo como LAB. 
                 let n=horarioTemp.grupos[numeroGrupo].numero+'L';
                 let grupo=listaDeClases[i].grupos[n];
+
+                // Igual que normal (ver for de abajo)
                 let nuevosGrupos=horarioTemp.grupos.slice();
                 nuevosGrupos.push(grupo);
                 let h=new Horario(nuevosGrupos,0);
@@ -227,44 +351,48 @@ function _generarTodosHorarios(listaDeClases,i,horarioTemp,horarios,mismoGrupo){
             }
         }
     }
+    // Para cada grupo en la clase actual
     for(let numeroGrupo in listaDeClases[i].grupos){
         let grupo=listaDeClases[i].grupos[numeroGrupo];
+        // Le hacemos una copia a horarioTemp.grupos
         let nuevosGrupos=horarioTemp.grupos.slice();
+        // A la cual le agregamos el grupo
         nuevosGrupos.push(grupo);
-        let h=new Horario(nuevosGrupos,0); //TODO checar por que no puedo hacer push pop en vez de crear copia
+        // Creamos nuevo horarioTemp con nuevosGrupos
+        let h=new Horario(nuevosGrupos,0);
+        // Llamada recursiva
         _generarTodosHorarios(listaDeClases,i+1,h,horarios,mismoGrupo);
     }
 }
-//Genera todas las combinaciones de grupos que no se empalman y regresa una lista de objectos Horario
+
+/**
+ * Genera todas las combinaciones de grupos que no se empalman y regresa una lista
+ * de objectos Horario ordenada descendientemente por su puntaje.
+ * 
+ * @param {Map<String,Clase>} clasesSeleccionadas Las clases seleccionadas por el usuario
+ * @param {Preferencias} preferencias Obj. de Preferencias correspondiente al usuario.
+ * @returns {[Horario]} Lista de horarios ordenada descendientemente por puntaje.
+ */
 function generarTodosHorarios(clasesSeleccionadas,preferencias){
-    let horarios=[];
-    //Convertimos clasesSeleccionadas (dict) a lista para usar en recursion
+    // Convertimos clasesSeleccionadas (dict) a lista para usar en recursion
     let listaDeClases=[];
     for(let clave in clasesSeleccionadas)
         listaDeClases.push(clasesSeleccionadas[clave]);
-    //Ordenamos para que labs siempre esten despues de teoria
+
+    // Ordenamos para que labs siempre esten despues de teoria
     listaDeClases.sort((a,b)=> a.clave.indexOf('LAB')-b.clave.indexOf('LAB'));
 
+    // Horarios generados
+    let horarios=[];
+
+    // Llamamos al generador recursivo
     _generarTodosHorarios(listaDeClases,0,new Horario([],0),horarios,preferencias.mismoGrupo);
 
-    //Evaluamos y ordenamos descendientemente
+    // Evaluamos y ordenamos descendientemente
     for(let horario of horarios)
         horario.puntaje=evaluaHorario(horario,preferencias);
     horarios.sort((a,b)=> b.puntaje-a.puntaje);
+
     return horarios;
 }
-
-/**
- * Funcion asociada al boton "Generar".
- * Obtiene las preferencias y grupos ingresados por el usario,
- * genera y ordena los horarios validos y muestra el panel de "Resultados".
- */
-//function generar(){
-    //preferencias=getPreferencias()
-    //gruposSeleccionados=getGruposSeleccionados()
-    //horarios=getHorarios() ?
-    //display resultados
-
-//}
-
 
