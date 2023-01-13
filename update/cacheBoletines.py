@@ -1,6 +1,8 @@
 import os,itertools,requests,string,time,sys
 import utils
 
+BASE_DIR='assets/boletines'
+
 def fuerza_bruta(URL):
     prod=itertools.product(
         string.ascii_uppercase,
@@ -12,19 +14,19 @@ def fuerza_bruta(URL):
         programa=f'{i}{j}{k}-{letra}'
         try:
             print(f'{URL}{programa}.pdf')
-            utils.descargaArchivo(f'boletines/{programa}.pdf',f'{URL}{programa}.pdf')
+            utils.descargaArchivo(f'{BASE_DIR}/{programa}.pdf',f'{URL}{programa}.pdf')
             print('Encontrado y descargado!')
         except:continue
 
 def actualiza_ya_encontrados(URL):
     # Para cada archivo PDF en boletines/
-    for fname in os.listdir('boletines'):
+    for fname in os.listdir(BASE_DIR):
         if '.pdf' not in fname: continue
         print(fname)
 
         # Intenta descargarlo
         try:
-            utils.descargaArchivo(f'boletines/{fname}',f'{URL}{fname}')
+            utils.descargaArchivo(f'{BASE_DIR}/{fname}',f'{URL}{fname}')
         except:
             print('No se pudo descargar {fname}')
 
@@ -32,13 +34,13 @@ def actualiza_ya_encontrados(URL):
 def agregaLinksDoc():
     sHTML=''
     # Para cada archivo PDF en boletines/
-    for fname in sorted(os.listdir('boletines')):
+    for fname in sorted(os.listdir(BASE_DIR)):
         if '.pdf' not in fname: continue
         # Agrega un link a sHTML de la forma:
-        sHTML+=f'<a href=boletines/{fname} target=_blank>{fname.split(".")[0]}</a><br>\n'
+        sHTML+=f'<a href={BASE_DIR}/{fname} target=_blank>{fname.split(".")[0]}</a><br>\n'
 
     # Lee el template
-    with open('boletines/boletinesTemplate.html', 'r') as f:
+    with open(f'{BASE_DIR}/boletinesTemplate.html', 'r') as f:
         template=f.read()
     
     # Y reemplaza la lista de ligas en su lugar

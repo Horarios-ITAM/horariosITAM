@@ -4,12 +4,14 @@ from urllib.parse import urljoin
 import os,time
 import utils
 
+BASE_DIR='assets/calendarios'
+
 def agregaLinksDoc(conseguidos):
     sHTML=''
     for text,ligas in conseguidos.items():
         sHTML+=f'<a href={ligas["urlCache"]} target=_blank>{text}</a><br>\n'
 
-    with open('calendarios/calendariosTemplate.html', 'r') as f:
+    with open(f'{BASE_DIR}/calendariosTemplate.html', 'r') as f:
         template=f.read()
     
     return template.replace('<!--Lista de links-->',sHTML)
@@ -28,7 +30,7 @@ if __name__=='__main__':
     conseguidos={}
     for hit in b.find_all("a", {"class": "enlace"}):
         urlDoc=urljoin(url,hit['href'])
-        utils.descargaArchivo(hit['href'],urlDoc)
+        utils.descargaArchivo('assets/'+hit['href'],urlDoc)
         print(hit.string)
         conseguidos[hit.string]={'urlCache':hit['href'],'urlITAM':urlDoc}
 
