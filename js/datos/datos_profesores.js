@@ -1,4 +1,4 @@
-let actualizado="1673615185203.9517";
+let actualizado="1673649490446.065";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3204,9 +3204,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4129,9 +4126,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -11730,6 +11727,22 @@ let profesores={
           "fin": "11:00"
         }
       ],
+      "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ],
       "SDI-15816-SEMINARIO DE TITULACION": [
         {
           "grupo": "002",
@@ -13981,9 +13994,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -15879,6 +15892,23 @@ let profesores={
           "fin": "11:30"
         }
       ],
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS",
+          "creditos": "0",
+          "horario": "13:00-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
+      ],
       "MAT-14102-CALCULO DIF. E INT., III": [
         {
           "grupo": "001",
@@ -16320,6 +16350,270 @@ let profesores={
       ]
     }
   },
+  "MARTA CABO NODAR": {
+    "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
+    "general": 4.225,
+    "n": 80,
+    "grupos": {
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "09:00-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "10:00-11:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "MAT-14100-CALCULO DIF. E INT., I": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "8",
+          "horario": "12:00-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "ABIMAEL JAVIER BENGOCHEA CRUZ": {
+    "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
+    "general": 6.0357,
+    "n": 28,
+    "grupos": {
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
+        {
+          "grupo": "003",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "ABIMAEL JAVIER BENGOCHEA CRUZ",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14100-CALCULO DIF. E INT., I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
+          "profesor": "ABIMAEL JAVIER BENGOCHEA CRUZ",
+          "creditos": "8",
+          "horario": "09:00-11:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
+  "EDUARDO TOMAS ARELLANO ARJONA": {
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
+    "general": 6.4711,
+    "n": 121,
+    "grupos": {
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
+        {
+          "grupo": "005",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+          "creditos": "0",
+          "horario": "17:00-18:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH207",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "18:00"
+        },
+        {
+          "grupo": "006",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+          "creditos": "0",
+          "horario": "18:00-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH207",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "PABLO CASTA\u00d1EDA RIVERA": {
+    "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
+    "general": 6.0455,
+    "n": 22,
+    "grupos": {
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
+        {
+          "grupo": "007",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "PABLO CASTA\u00d1EDA RIVERA",
+          "creditos": "0",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        },
+        {
+          "grupo": "008",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "PABLO CASTA\u00d1EDA RIVERA",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14390-MATEMATICA COMPUTACIONAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14390-MATEMATICA COMPUTACIONAL",
+          "profesor": "PABLO CASTA\u00d1EDA RIVERA",
+          "creditos": "8",
+          "horario": "09:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
+  "MARTHA LORENA ZOGAIB ACHCAR": {
+    "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
+    "general": 8.0366,
+    "n": 164,
+    "grupos": {
+      "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
+        {
+          "grupo": "009",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
+          "creditos": "0",
+          "horario": "16:00-17:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:00"
+        },
+        {
+          "grupo": "010",
+          "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+          "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
+          "creditos": "0",
+          "horario": "17:00-18:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "18:00"
+        }
+      ],
+      "MAT-14101-CALCULO DIF. E INT., II": [
+        {
+          "grupo": "006",
+          "nombre": "MAT-14101-CALCULO DIF. E INT., II",
+          "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
+          "creditos": "8",
+          "horario": "13:00-15:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH111",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "15:00"
+        }
+      ],
+      "MAT-24630-MATEM. APLICADAS A LA ECONOMIA": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-24630-MATEM. APLICADAS A LA ECONOMIA",
+          "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ]
+    }
+  },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
     "general": 8.1739,
@@ -16361,30 +16655,6 @@ let profesores={
       ]
     }
   },
-  "ABIMAEL JAVIER BENGOCHEA CRUZ": {
-    "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
-    "general": 6.0357,
-    "n": 28,
-    "grupos": {
-      "MAT-14100-CALCULO DIF. E INT., I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-          "profesor": "ABIMAEL JAVIER BENGOCHEA CRUZ",
-          "creditos": "8",
-          "horario": "09:00-11:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
-      ]
-    }
-  },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
     "general": 7.0238,
@@ -16422,30 +16692,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
-        }
-      ]
-    }
-  },
-  "MARTA CABO NODAR": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
-    "general": 4.225,
-    "n": 80,
-    "grupos": {
-      "MAT-14100-CALCULO DIF. E INT., I": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-          "profesor": "MARTA CABO NODAR",
-          "creditos": "8",
-          "horario": "12:00-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-1",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
         }
       ]
     }
@@ -16610,47 +16856,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "MARTHA LORENA ZOGAIB ACHCAR": {
-    "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
-    "general": 8.0366,
-    "n": 164,
-    "grupos": {
-      "MAT-14101-CALCULO DIF. E INT., II": [
-        {
-          "grupo": "006",
-          "nombre": "MAT-14101-CALCULO DIF. E INT., II",
-          "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
-          "creditos": "8",
-          "horario": "13:00-15:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "15:00"
-        }
-      ],
-      "MAT-24630-MATEM. APLICADAS A LA ECONOMIA": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-24630-MATEM. APLICADAS A LA ECONOMIA",
-          "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
         }
       ]
     }
@@ -17210,29 +17415,6 @@ let profesores={
       ]
     }
   },
-  "PABLO CASTA\u00d1EDA RIVERA": {
-    "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
-    "general": 6.0455,
-    "n": 22,
-    "grupos": {
-      "MAT-14390-MATEMATICA COMPUTACIONAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14390-MATEMATICA COMPUTACIONAL",
-          "profesor": "PABLO CASTA\u00d1EDA RIVERA",
-          "creditos": "8",
-          "horario": "09:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
-      ]
-    }
-  },
   "ANDREAS WACHTEL": {
     "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",
     "general": 6.4,
@@ -17636,7 +17818,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHPB1",
+          "salon": "RH306",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -17941,8 +18123,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ALEJANDRA SOLIS GONZALEZ",
-    "ANA TAMARIT AMIEVA"
+    "ANA TAMARIT AMIEVA",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "PAVEL REAL PEREZ",

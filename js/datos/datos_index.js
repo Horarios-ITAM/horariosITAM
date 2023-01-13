@@ -1,4 +1,4 @@
-let actualizado="1673615185116.3176";
+let actualizado="1673649490434.867";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -13418,6 +13418,26 @@ let clases={
       }
     ]
   },
+  "LEN-12753": {
+    "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
+    "clave": "LEN-12753",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
+        "profesor": "",
+        "creditos": "2",
+        "horario": "07:00-08:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH202",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:00"
+      }
+    ]
+  },
   "LEN-12755": {
     "nombre": "LEN-12755-COMUN. PROFESIONAL PARA C. POL",
     "clave": "LEN-12755",
@@ -14525,6 +14545,162 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "15:00",
         "fin": "17:00"
+      }
+    ]
+  },
+  "MAT-14061": {
+    "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+    "clave": "MAT-14061",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "09:00-10:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH209",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "10:00-11:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH209",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "ABIMAEL JAVIER BENGOCHEA CRUZ",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH205",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS",
+        "creditos": "0",
+        "horario": "13:00-14:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH206",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+        "creditos": "0",
+        "horario": "17:00-18:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH207",
+        "campus": "RIO HONDO",
+        "inicio": "17:00",
+        "fin": "18:00"
+      },
+      {
+        "grupo": "006",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+        "creditos": "0",
+        "horario": "18:00-19:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH207",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "19:00"
+      },
+      {
+        "grupo": "007",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "PABLO CASTA\u00d1EDA RIVERA",
+        "creditos": "0",
+        "horario": "11:00-12:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH203",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "12:00"
+      },
+      {
+        "grupo": "008",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "PABLO CASTA\u00d1EDA RIVERA",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH203",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "009",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
+        "creditos": "0",
+        "horario": "16:00-17:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH202",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:00"
+      },
+      {
+        "grupo": "010",
+        "nombre": "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1",
+        "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
+        "creditos": "0",
+        "horario": "17:00-18:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH202",
+        "campus": "RIO HONDO",
+        "inicio": "17:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -15855,7 +16031,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHPB1",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -16220,6 +16396,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Luis-Mart\u00edn-Arciniega-Ruiz-de-Esparza_10724",
     "general": 8.7419,
     "n": 31
+  },
+  "EDUARDO TOMAS ARELLANO ARJONA": {
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
+    "general": 6.4711,
+    "n": 121
   },
   "HECTOR DE JESUS ARGUETA VILLAMAR": {
     "link": "https://www.misprofesores.com/profesores/Hector-de-Jesus-Argueta-Villamar_99143",
@@ -16707,9 +16888,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -16850,11 +17031,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -17427,9 +17603,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

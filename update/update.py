@@ -56,8 +56,8 @@ def mejoresProfesPorDepartamento(profesores,n=10):
 if __name__=="__main__":
     # -------- CONTROL --------
     credsFile="update/creds.json"
-    dataFile="js/data.js"
-    profesoresDataFile="js/profesores.js"
+    dataFile="js/datos/datos_index.js"
+    profesoresDataFile="js/datos/datos_profesores.js"
     misProfesUrl="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003"
     profesoresMatchRate=0.9
     scrappearMisProfes=True
