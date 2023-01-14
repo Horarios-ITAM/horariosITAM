@@ -300,13 +300,21 @@ function setPreferencias(preferencias){
     // Grupos seleccionados:
     // Para cada clase seleccionada
     for(let claveClase in preferencias.gruposSeleccionados){
+
+        // Todo need to uncheck those not selected
+        for(let grupo of clases[claveClase].grupos){
+            let numeroGrupo=grupo.grupo;
+            console.log(claveClase+numeroGrupo);
+            document.getElementById(claveClase+numeroGrupo).checked=false;
+        }
+
         // Para cada grupo en la clase
         for(let numeroGrupo of preferencias.gruposSeleccionados[claveClase]){
             // Selecciona al grupo en el UI
             console.log(claveClase+numeroGrupo);
-            console.log(numeroGrupo);
             document.getElementById(claveClase+numeroGrupo).checked=true;
         }
+        
     }
 
     return preferencias;
