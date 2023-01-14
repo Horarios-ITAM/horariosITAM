@@ -301,7 +301,7 @@ function setPreferencias(preferencias){
     // Para cada clase seleccionada
     for(let claveClase in preferencias.gruposSeleccionados){
 
-        // Todo need to uncheck those not selected
+        // Deseleccionamos todos los grupos
         for(let grupo of clases[claveClase].grupos){
             let numeroGrupo=grupo.grupo;
             console.log(claveClase+numeroGrupo);
