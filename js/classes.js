@@ -122,7 +122,10 @@ class Preferencias{
             this.mismoGrupo=mismoGrupo;
         }
 }
-// TODO preferenciasFromJSON()
+function preferenciasFromJSON(json){
+    // TODO test for other browsers
+    return Object.setPrototypeOf(JSON.parse(json),Preferencias.prototype)
+}
 
 class Horario{
     /**

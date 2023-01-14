@@ -66,18 +66,18 @@
                     <div id="main_form">
                         <form id="clases_form">
                             <input list="clases_datalist" placeholder="Buscar Clase" size="35" id="a" onfocus="this.value=''" autofocus>
-                                <!--Datalist con la lista de clases-->
+                                <!-- Datalist con la lista de clases -->
                                 <datalist id="clases_datalist"></datalist>
-                                <!--Boton de Agregar-->
+                                <!-- Boton de Agregar -->
                                 <input type=button value="Agregar" id="agregar_button" class="custom-button" onclick="agregar(document.getElementById('a').value)"/>
-                                <!--Tabla y inputs de preferencias-->
+                                <!-- Tabla y inputs de preferencias -->
                                 <br>
                                 <table border="0">
                                     <tr>
                                         <td><center><b>Preferencias</b></center></td>
                                         <td><center><b>Importancia</b></center></td>
                                     </tr>
-                                    <!--Preferencia: MisProfes-->
+                                    <!-- Preferencia: MisProfes -->
                                     <tr>
                                         <td>
                                             <input type="checkbox" name="mis_profes_score" id="mis_profes_box" onclick="document.getElementsByName('mis_profes_peso')[0].value=(this.checked?'50':'0');" checked>Rankear con <a target="_blank" href="https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003">MisProfes.com</a>
@@ -86,7 +86,7 @@
                                             <input type="range" class="slider" name="mis_profes_peso" min="0" max="100">
                                         </td>
                                     </tr>
-                                    <!--Preferencia: Clases Juntas o Separadas-->
+                                    <!-- Preferencia: Clases Juntas o Separadas -->
                                     <br>
                                     <tr>
                                         <td>
@@ -97,7 +97,7 @@
                                             <input type="range" class="slider" name="juntas_peso" min="0" max="100">
                                         </td>
                                     </tr>
-                                    <!--Preferencia: Rango de Hoario-->
+                                    <!-- Preferencia: Rango de Hoario -->
                                     <tr>
                                         <td>
                                             Rango de horario: <select name="start_rango" size="1"><option value="07:00">7:00</option><option value="07:30">7:30</option><option value="08:00">8:00</option><option value="08:30">8:30</option><option value="09:00" selected>9:00</option><option value="09:30">9:30</option><option value="10:00">10:00</option><option value="10:30">10:30</option><option value="11:00">11:00</option><option value="11:30">11:30</option><option value="12:00">12:00</option><option value="12:30">12:30</option><option value="13:00">13:00</option><option value="13:30">13:30</option><option value="14:00">14:00</option><option value="14:30">14:30</option><option value="15:00">15:00</option><option value="15:30">15:30</option><option value="16:00">16:00</option><option value="16:30">16:30</option><option value="17:00">17:00</option><option value="17:30">17:30</option><option value="18:00">18:00</option><option value="18:30">18:30</option><option value="19:00">19:00</option><option value="19:30">19:30</option><option value="20:00">20:00</option><option value="20:30">20:30</option><option value="21:00">21:00</option><option value="21:30">21:30</option></select>
@@ -107,7 +107,7 @@
                                             <input type="range" class="slider" name="peso_rango" min="0" max="100">
                                         </td>
                                     </tr>
-                                    <!--Preferencia: Dia con menos clases-->
+                                    <!-- Preferencia: Dia con menos clases -->
                                     <tr>
                                         <td>
                                             Día con menos clases: <select name="dia" size="1"><option value="LU">LU</option><option value="MA">MA</option><option value="MI">MI</option><option value="JU">JU</option><option value="VI" selected>VI</option><option value="SA">SA</option></select>
@@ -116,34 +116,15 @@
                                             <input type="range" class="slider" name="peso_dia" min="0" max="100">
                                         </td>
                                     </tr>
-                                    <!--Preferencia: Mismo grupo teoria y lab-->
+                                    <!-- Preferencia: Mismo grupo teoria y lab -->
                                     <tr>
                                         
                                         <td>
                                             <input type="checkbox" name="mismo_grupo_teoria_lab" id="mismo_grupo_box" checked>Mismo grupo teoría y lab (ingenierías)    </input>
                                         </td>
                                     </tr>
-                                    <!--Espacio?-->
-                                   
-                                    <!--Opcion de generado-->
-                                    <!--
-                                    <tr>
-                                        <td>
-                                            <b>Generar: </b>
-                                            <select name="metodoGeneracion" onchange="document.getElementById('sampleo_count').disabled=!document.getElementById('sampleo_count').disabled" size="1">
-                                                <option value="sampleo">Sampleo</option>
-                                                <option value="todos" selected>Todos (tardado)</option>
-                                            </select>
-                                        </td>
-                                        <td>
-                                            <center>
-                                            <input type="number" width="10" min="1" id="sampleo_count" max="1000000" value="1000" disabled/>
-                                            </center>
-                                        </td>
-                                    </tr>
-                                     -->
                                 </table>
-                                <!--Boton de Generar-->
+                                <!-- Boton de Generar -->
                                 <br><input type=button class="custom-button" value="Generar" id="botonGenerar" onclick="generar()"/>
                             </input>
                         </form>
@@ -152,12 +133,14 @@
                     <center>
                         <center>
                         <table border=0 style="padding:0px;">
+                            <!-- Opciones guardadas -->
                             <tr style="padding:0px">
                                 <td style="padding:0px">
                                     </center>
                                     <div id='favoritos' style="padding:0px;"></div>
                                 </td>
                             </tr>
+                            <!-- Clases seleccionadas -->
                             <tr style="padding:0px">
                                 <td style="padding:0px">
                                     </center>
@@ -169,25 +152,28 @@
                         </table>
                     </div>
                 </td>
-                <td id="space"></td> <!--Espacio entre menu principal y la columna "Resultados" (en escritorio)-->
+                <!-- Espacio entre menu principal y la columna "Resultados" (en escritorio) -->
+                <td id="space"></td> 
                 <td style="vertical-align:top">
                     <div id="resultados"></div>
                 </td>
             </tr>
             <tr>
                 <td>
+                    <!-- Espacio entre menu principal y la columna "Resultados" (en movil) -->
                     <center><div id="resultados_mobile"></div></center>
                 </td>
             </tr>
         </table>
-        <div id="para_imprimir" style="display:none"></div> <!--TODO Se usa?-->
-        <!--Forma para "Ver en Horarios ITAM"-->
-        <!--TODO cargar valores dinamicamente desde js e incluir s= en datos.js -->
+        <div id="para_imprimir" style="display:none"></div>
+
+        <!-- Forma para "Ver en Horarios ITAM" si se scrapearon de Servicios No Personalizados -->
         <form name="detalles" style="" target="_blank" action="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2" method="post">
           <input type="hidden" name="s" value="1995"><br>
           <input type="hidden" value="" name="txt_materia"><br>
         </form>
 
+        <!-- Forma para "Ver en Horarios ITAM" si se scrapearon de Secure Area -->
         <form name="detalles-secure" target="_blank" action="https://serviciosweb.itam.mx/EDSUP/bwskfcls.P_GetCrse" method="post">
             <input type="hidden" name="term_in" value="202301" >
             <INPUT TYPE="hidden" NAME="sel_subj" VALUE="dummy">
@@ -223,12 +209,12 @@
 
 
         <script>
-            //Cargar constantes ubicadas en data.js
-            //"Datos [Semestre] [Año]"
+            // Cargar constantes ubicadas en data.js
+            // "Datos [Semestre] [Año]"
             document.getElementById("datosSemestre").innerHTML='Datos '+periodo;
             document.getElementById("actualizadoHace").innerHTML='Actualizados hace '+timeSince(new Date(parseInt(actualizado)));
             
-            //Valores para links a grace
+            // Rellenamos las formas para "Ver en Horarios ITAM"
             if(secure){
                 document.getElementsByName("detalles-secure")[0].action=formPostUrl;
                 document.getElementsByName("SEL_CRSE")[0].value=sGrace;
@@ -239,30 +225,39 @@
             }
 
 
-            //Llenamos datalist de "Buscar Clase"
+            // Llenamos datalist de "Buscar Clase"
             llenaDatalist();
 
-            //Variables globales para navegacion
-            let clasesSeleccionadas={};
-            let mobile=window.innerWidth <= 800;
-            let horariosGenerados=[];
-            let horariosFavoritos=[];
-            let resultado=0; //el horarioGenerado desplegado actualmente 
+            // Variables globales para navegacion
+            let clasesSeleccionadas={};             // Map<Clave materia -> Clase (obj)> para las clases seleccionadas 
+            let mobile=window.innerWidth <= 800;    // (Boolean) si la pantalla corresponde a movil
+            let horariosGenerados=[];               // Ultimos horarios generados
+            let horariosFavoritos=[];               // Horarios en "Opciones Guardadas"
+            let resultado=0;                        // El indice del horarioGenerado desplegado actualmente 
 
-            //Cargamos datos guardados en cookies
-            if((getCookie("favoritos").length>0 || getCookie("clasesSeleccionadas").length>0)&& confirm("Usar información guardada?")){
-                cargaDeCookies(); //TODO checa si tienen que aceptar cookies legalmente
+            // Cargamos datos guardados en cookies si existen
+            if((getCookie("favoritos").length>0 || getCookie("clasesSeleccionadas").length>0) && confirm("Usar información guardada?")){
+                cargaDeCookies(); // TODO checa si tienen que aceptar cookies legalmente
                 cargaHorariosFavoritos();
             }
+            // Si se cargaron cookies actualizamos el UI
             if(horariosGenerados.length>0){
                 mostrar();
                 actualizarResultado(0);
             }
 
-            //Regresa clasesSeleccionadas pero solo con grupos seleccionados
+            /**
+             * Regresa clasesSeleccionadas pero solo con grupos seleccionados
+             * 
+             * @param {Map<String,Clase>} clasesSeleccionadas Las clases seleccionadas por el usuario
+             * @param {Preferencias} preferencias Obj. de Preferencias correspondiente al usuario.
+             * @returns {Map<String,Clase>} 
+             */
             function clasesSeleccionadasFiltradas(clasesSeleccionadas,preferencias){
-                let clasesSeleccionadasCopy={...clasesSeleccionadas}; //copia local
-                let out={}; //ClaveClase: Clase() con grupos filtrados
+                // Hacemos una copia local
+                let clasesSeleccionadasCopy={...clasesSeleccionadas};
+                // La version a regresar
+                let out={};
                 for(let claveClase in preferencias.gruposSeleccionados){
                     let numerosGrupos=preferencias.gruposSeleccionados[claveClase];
                     let grupos={};
@@ -274,11 +269,16 @@
                 }
                 return out;
             }
-            //Cuando se oprime el boton de Generar
+
+            /**
+             * Callback para el boton de Generar
+            */
             function generar(){
+                // Conseguimos las preferencias y los grupos seleccionados
                 let preferencias=getPreferencias();
                 let conGruposFiltrados=clasesSeleccionadasFiltradas(clasesSeleccionadas,preferencias);
-                //Chequeos entradas
+
+                // Checamos que tengamos por lo menos un grupo seleccionado
                 if(Object.keys(conGruposFiltrados).length==0){
                     alert("Agrega tus clases para generar tus horarios");
                     return;
@@ -287,13 +287,16 @@
                     alert("Selecciona por lo menos un grupo de tus clases para generar tus horarios");
                     return;
                 }
-                //Guarda Cookies
+
+                // Guardamos cookie de clasesSeleccionadas
                 let nombresClasesSeleccionadas=[];
                 for(let clase of Object.values(conGruposFiltrados))
                     nombresClasesSeleccionadas.push(clase.nombre);
+
+                // Se guardan los nombres de las clases separadas por *, por 30 dias
                 setCookie("clasesSeleccionadas",nombresClasesSeleccionadas.join("*"),30);
 
-                //Generacion
+                // Generacion
                 let horarios=[];
                 if(preferencias.generacion=="todos"){
                     console.log("Generando todos");
@@ -302,32 +305,39 @@
                         alert("Imposible generar horarios con los grupos ingresados.");
                         return;
                     }
+                    // Incluimos horarios favoritos antes que los recien generados
                     horariosGenerados=[];
                     horariosGenerados.push(...horariosFavoritos);
                     horariosGenerados.push(...horarios);
                 }else{
+                    // Para otros posibles metodos de generacion (i.e sampleo, etc.)
                     //horarios=sampleo();
                 }
-                //Mostramos
+                // Mostramos
                 mostrar();
-                actualizarResultado(horariosFavoritos.length);
-                
+                actualizarResultado(horariosFavoritos.length);  
             }
-            // Muestra la tabla de resultados
+
+            /**
+             * Muestra la tabla de resultados
+            */
             function mostrar(){
+                // Si hay opciones guardadas recorremos el indice para mostrar los recien generados
                 let index=(horariosFavoritos.length>0 && horariosGenerados.length>horariosFavoritos.length)?horariosFavoritos.length:0;
                 if(!mobile){
                     document.getElementById("space").style="width:60px;";
                     document.getElementById("resultados").innerHTML=resultadosHTML(horariosGenerados[index],horariosGenerados.length,mobile);
                 }else{
                     document.getElementById("resultados_mobile").innerHTML=resultadosHTML(horariosGenerados[index],horariosGenerados.length,mobile);
-                    //Saltar a resultados
+                    // Saltar a resultados
                     scrollToResultados();
                 }
                 actualizaBotonGuardar();
             }
 
-            // Enfoca la tabla de resultados para movil
+            /**
+             * Enfoca la tabla de resultados para movil
+            */ 
             function scrollToResultados(){
                 document.getElementById("resultados_mobile").scrollIntoView(true);
             }
