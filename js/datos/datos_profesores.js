@@ -1,4 +1,4 @@
-let actualizado="1673649490446.065";
+let actualizado="1673701592341.131";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3204,6 +3204,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -10829,8 +10832,8 @@ let profesores={
   },
   "VICTOR HUGO RIVAS CALDERON": {
     "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.675,
-    "n": 80,
+    "general": 7.679,
+    "n": 81,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -16698,8 +16701,8 @@ let profesores={
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
-    "general": 7.2264,
-    "n": 53,
+    "general": 7.2593,
+    "n": 54,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {

@@ -1,4 +1,4 @@
-let actualizado="1673649490434.867";
+let actualizado="1673701592289.1309";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -16819,8 +16819,8 @@ let misProfesData={
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
-    "general": 7.2264,
-    "n": 53
+    "general": 7.2593,
+    "n": 54
   },
   "ROSARIO EDITH GARCIA MENDIOLA": {
     "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
@@ -17031,6 +17031,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -17444,8 +17449,8 @@ let misProfesData={
   },
   "VICTOR HUGO RIVAS CALDERON": {
     "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.675,
-    "n": 80
+    "general": 7.679,
+    "n": 81
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
