@@ -207,29 +207,6 @@ function actualizaCookieFavoritos(){
     setCookie("favoritos",JSON.stringify(horariosFavoritos),30);
 }
 
-/**
- * Checa si existe cookie "favoritos".
- * Si es el caso crea los objetos Horarios y actualiza las variables globales.
- */
-function cargaHorariosFavoritos(){
-    let favs=getCookie("favoritos");
-    if(favs.length>0){
-        // Cargamos el JSON
-        let json=JSON.parse(favs);
-
-        // Creamos los objetos Horario
-        let out=[];
-        for(let horarioJSON of json)
-            out.push(horarioFromJSON(horarioJSON));
-
-        // Setteamos variables globales    
-        horariosFavoritos=out.slice();
-        horariosGenerados=out.slice();
-
-        // Actualiza el HTML de 'Opciones guardadas' 
-        actualizarGuardadosHTML();
-    }
-}
 
 /**
  * Lee valores de la forma de preferencias y los usa para construir un objecto de Preferencias
@@ -293,6 +270,47 @@ function getPreferencias(){
     console.log(preferencias);
     return preferencias;
 }   
+
+/**
+ * Dado un obj. preferencias modifica los inputs de la forma para reflejarlas.
+ * @param {Preferencias} preferencias Las preferencias a 'settear'
+ */
+function setPreferencias(preferencias){
+    // Preferencias:
+    // MisProfes
+    document.getElementsByName("mis_profes_score")[0].checked=preferencias.misProfes;
+    document.getElementsByName('mis_profes_peso')[0].value=preferencias.misProfesPeso*100;
+
+    // Juntas/Separadas -> Leemos solo juntas
+    document.getElementById('juntas').checked=preferencias.juntas;
+    document.getElementsByName('juntas_peso')[0].value=preferencias.juntasPeso*100;
+
+    // Rango de Horario
+    document.getElementsByName('start_rango')[0].value=preferencias.rangoStart
+    document.getElementsByName('end_rango')[0].value=preferencias.rangoEnd;
+    document.getElementsByName('peso_rango')[0].value=preferencias.rangoPeso*100;
+
+    // Dia con menos clases
+    document.getElementsByName('dia')[0].value=preferencias.diaMenos
+    document.getElementsByName('peso_dia')[0].value=preferencias.diaMenosPeso*100;
+
+    // Mismo grupo teoria y lab
+    document.getElementById('mismo_grupo_box').checked=preferencias.mismoGrupo;
+
+    // Grupos seleccionados:
+    // Para cada clase seleccionada
+    for(let claveClase in preferencias.gruposSeleccionados){
+        // Para cada grupo en la clase
+        for(let numeroGrupo of preferencias.gruposSeleccionados[claveClase]){
+            // Selecciona al grupo en el UI
+            console.log(claveClase+numeroGrupo);
+            console.log(numeroGrupo);
+            document.getElementById(claveClase+numeroGrupo).checked=true;
+        }
+    }
+
+    return preferencias;
+}
 
 
 /**
@@ -530,7 +548,7 @@ function imprimir(){
 /**
  * TODO checar
  */
-function cargaDeCookies(){
+function cargaCookieClassesSeleccionadas(){
     // Carga clases guardadas
     let nombresClases=getCookie("clasesSeleccionadas");
     if(nombresClases.length>0){  
@@ -541,9 +559,45 @@ function cargaDeCookies(){
             }
         }
     }
-    // TODO carga preferencias guardadas
 }
 
+/**
+ * Checa si existe cookie "favoritos".
+ * Si es el caso crea los objetos Horarios y actualiza las variables globales.
+ */
+function cargaCookieHorariosFavoritos(){
+    let favs=getCookie("favoritos");
+    if(favs.length>0){
+        // Cargamos el JSON
+        let json=JSON.parse(favs);
+
+        // Creamos los objetos Horario
+        let out=[];
+        for(let horarioJSON of json)
+            out.push(horarioFromJSON(horarioJSON));
+
+        // Setteamos variables globales    
+        horariosFavoritos=out.slice();
+        horariosGenerados=out.slice();
+
+        // Actualiza el HTML de 'Opciones guardadas' 
+        actualizarGuardadosHTML();
+    }
+}
+
+/**
+ * Checa si existe cookie "preferencias".
+ * Si es el caso crea el objeto Preferencias correspondiente y llama a setPreferencias.
+ */
+function cargaCookiePreferencias(){
+    let prefs=getCookie("preferencias");
+    if(prefs.length>0){
+        // Obtenemos al objeto del JSON
+        preferencias=preferenciasFromJSON(JSON.parse(prefs))
+        console.log('Got preferencias: ',preferencias);
+        setPreferencias(preferencias);
+    }
+}
 
 /**
  * Regresa valor de cookie. Si no existe regresa "".

@@ -237,8 +237,9 @@
 
             // Cargamos datos guardados en cookies si existen
             if((getCookie("favoritos").length>0 || getCookie("clasesSeleccionadas").length>0) && confirm("Usar información guardada?")){
-                cargaDeCookies(); // TODO checa si tienen que aceptar cookies legalmente
-                cargaHorariosFavoritos();
+                cargaCookieClassesSeleccionadas(); // TODO checa si tienen que aceptar cookies legalmente
+                cargaCookieHorariosFavoritos();
+                cargaCookiePreferencias();
             }
             // Si se cargaron cookies actualizamos el UI
             if(horariosGenerados.length>0){
@@ -295,6 +296,7 @@
 
                 // Se guardan los nombres de las clases separadas por *, por 30 dias
                 setCookie("clasesSeleccionadas",nombresClasesSeleccionadas.join("*"),30);
+                setCookie("preferencias",JSON.stringify(preferencias),30);
 
                 // Generacion
                 let horarios=[];
