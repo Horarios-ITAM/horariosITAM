@@ -593,7 +593,7 @@ function cargaCookiePreferencias(){
     let prefs=getCookie("preferencias");
     if(prefs.length>0){
         // Obtenemos al objeto del JSON
-        preferencias=preferenciasFromJSON(JSON.parse(prefs))
+        preferencias=preferenciasFromJSON(prefs);
         console.log('Got preferencias: ',preferencias);
         setPreferencias(preferencias);
     }
