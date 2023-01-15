@@ -304,14 +304,14 @@ function setPreferencias(preferencias){
         // Deseleccionamos todos los grupos
         for(let grupo of clases[claveClase].grupos){
             let numeroGrupo=grupo.grupo;
-            console.log(claveClase+numeroGrupo);
+            // console.log(claveClase+numeroGrupo);
             document.getElementById(claveClase+numeroGrupo).checked=false;
         }
 
         // Para cada grupo en la clase
         for(let numeroGrupo of preferencias.gruposSeleccionados[claveClase]){
             // Selecciona al grupo en el UI
-            console.log(claveClase+numeroGrupo);
+            // console.log(claveClase+numeroGrupo);
             document.getElementById(claveClase+numeroGrupo).checked=true;
         }
         

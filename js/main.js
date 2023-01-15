@@ -282,11 +282,10 @@ function evaluaHorario(horario,preferencias){
     // Rango horario
     let rangoHorario=rangoPuntaje(horario,preferencias.rangoStart,preferencias.rangoEnd)*preferencias.rangoPeso;
 
-
-    console.log(promedioMisProfes);
-    console.log(menosDias);
-    console.log(horasMuertas);
-    console.log(rangoHorario);
+    // console.log(promedioMisProfes);
+    // console.log(menosDias);
+    // console.log(horasMuertas);
+    // console.log(rangoHorario);
 
     
 
