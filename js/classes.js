@@ -93,29 +93,29 @@ class Preferencias{
      * 
      * @param {Boolean} misProfes Si tomar en cuenta o no las calificaciones de profesores en MisProfes
      * @param {Float} misProfesPeso Cuanto pesan las calificaciones de MisProfes
-     * @param {Boolean} juntas Si se selecciono Juntas en "Clases: Juntas/Separadas"
-     * @param {Float} juntasPeso El peso que se le da a que las clases esten juntas/separadas
+     * @param {Boolean} menosDias Si intentar o no minimizar los dias en que se atiende clase
+     * @param {Float} menosDiasPeso El peso que se le da a minimizar los dias a atender
      * @param {String} rangoStart Cadena de inicio del rango de "Rango de horario"
      * @param {String} rangoEnd Cadena de fin del rango de "Rango de horario"
      * @param {Float} rangoPeso Peso que se le da a que se respete el "Rango de horario"
-     * @param {String} diaMenos Cadena que indica que dia prefiere tener menos clases
-     * @param {Float} diaMenosPeso El peso de respetar el dia con menos clases
+     * @param {Boolean} horasMuertas Si intentar o no minimizar horas muertas
+     * @param {Float} horasMuertasPeso El peso de minimizar horas muertas
      * @param {Map<String,[String]>} gruposSeleccionados Dict. Clave Materia -> Lista de claves de grupos seleccionados
      * @param {Int} nGruposSeleccionados Numero de grupos seleccionados
      * @param {String} generacion Cadena que indica como generar los horarios ("todos" por defecto)
      * @param {Boolean} mismoGrupo Mismo grupo teoría y lab (ingenierías)
      */
-    constructor(misProfes,misProfesPeso,juntas,juntasPeso,rangoStart,
-        rangoEnd,rangoPeso,diaMenos,diaMenosPeso,gruposSeleccionados,nGruposSeleccionados,generacion,mismoGrupo){
+    constructor(misProfes,misProfesPeso,menosDias,menosDiasPeso,rangoStart,
+        rangoEnd,rangoPeso,horasMuertas,horasMuertasPeso,gruposSeleccionados,nGruposSeleccionados,generacion,mismoGrupo){
             this.misProfes=misProfes;
             this.misProfesPeso=misProfesPeso;
-            this.juntas=juntas;
-            this.juntasPeso=juntasPeso;
+            this.menosDias=menosDias;
+            this.menosDiasPeso=menosDiasPeso;
             this.rangoStart=rangoStart;
             this.rangoEnd=rangoEnd;
             this.rangoPeso=rangoPeso;
-            this.diaMenos=diaMenos;
-            this.diaMenosPeso=diaMenosPeso;
+            this.horasMuertas=horasMuertas;
+            this.horasMuertasPeso=horasMuertasPeso;
             this.gruposSeleccionados=gruposSeleccionados;
             this.nGruposSeleccionados=nGruposSeleccionados;
             this.generacion=generacion;

@@ -71,7 +71,7 @@
                                 <!-- Boton de Agregar -->
                                 <input type=button value="Agregar" id="agregar_button" class="custom-button" onclick="agregar(document.getElementById('a').value)"/>
                                 <!-- Tabla y inputs de preferencias -->
-                                <br>
+                                <br><br>
                                 <table border="0">
                                     <tr>
                                         <td><center><b>Preferencias</b></center></td>
@@ -86,17 +86,27 @@
                                             <input type="range" class="slider" name="mis_profes_peso" min="0" max="100">
                                         </td>
                                     </tr>
-                                    <!-- Preferencia: Clases Juntas o Separadas -->
-                                    <br>
+
+                                    <!-- Preferencia: Ir menos días posibles -->
                                     <tr>
                                         <td>
-                                            Clases: <input type="radio" name="juntas_separadas" id="juntas" checked/> Juntas
-                                            <input type="radio" name="juntas_separadas" id="separadas"/> Separadas
+                                            <input type="checkbox" name="menos_dias_score" id="menos_dias_box" onclick="document.getElementsByName('menos_dias_peso')[0].value=(this.checked?'50':'0');" checked>Ir menos días posibles
                                         </td>
                                         <td>
-                                            <input type="range" class="slider" name="juntas_peso" min="0" max="100">
+                                            <input type="range" class="slider" name="menos_dias_peso" min="0" max="100">
                                         </td>
                                     </tr>
+
+                                    <!-- Preferencia: Evitar horas muertas -->
+                                    <tr>
+                                        <td>
+                                            <input type="checkbox" name="horas_muertas_score" id="horas_muertas_box" onclick="document.getElementsByName('horas_muertas_peso')[0].value=(this.checked?'50':'0');" checked>Evitar horas muertas
+                                        </td>
+                                        <td>
+                                            <input type="range" class="slider" name="horas_muertas_peso" min="0" max="100">
+                                        </td>
+                                    </tr>
+ 
                                     <!-- Preferencia: Rango de Hoario -->
                                     <tr>
                                         <td>
@@ -107,15 +117,7 @@
                                             <input type="range" class="slider" name="peso_rango" min="0" max="100">
                                         </td>
                                     </tr>
-                                    <!-- Preferencia: Dia con menos clases -->
-                                    <tr>
-                                        <td>
-                                            Día con menos clases: <select name="dia" size="1"><option value="LU">LU</option><option value="MA">MA</option><option value="MI">MI</option><option value="JU">JU</option><option value="VI" selected>VI</option><option value="SA">SA</option></select>
-                                        </td>
-                                        <td>
-                                            <input type="range" class="slider" name="peso_dia" min="0" max="100">
-                                        </td>
-                                    </tr>
+
                                     <!-- Preferencia: Mismo grupo teoria y lab -->
                                     <tr>
                                         

@@ -185,7 +185,7 @@ function diaConMenosPuntaje(horario,dia){
  */
 function menosDiasPuntaje(horario){
     // Numero de dias que tiene que ir
-    let nDias=gruposEnDias(horario.grupos).length;
+    let nDias=Object.keys(gruposEnDias(horario.grupos)).length;
     return 1-(nDias/6);
 }
 
@@ -255,12 +255,9 @@ function tiempoEntreClases(horario){
  * @param {*} juntas 
  * @returns 
  */
-function puntajeJuntasSeparadas(horario,juntas){
+function horasMuertasPuntaje(horario){
     let tiempo=tiempoEntreClases(horario);
-    let prop=tiempo/135; //(22:00-07:00)5 - TODO ver si tiene sentido
-    if(juntas)
-        return 1-prop;
-    return prop;
+    return 1-(tiempo/(1+tiempo));
 }
 
 
@@ -276,26 +273,27 @@ function evaluaHorario(horario,preferencias){
     // Promedio de las evaluaciones de los profesores de los grupos en el horario
     let promedioMisProfes=misProfesPuntaje(horario)*preferencias.misProfesPeso;
 
-    // Proporcion de clases que no se encuentran en dia con menos clases preferido
-    let diaConMenos=diaConMenosPuntaje(horario,preferencias.diaMenos)*preferencias.diaMenosPeso;
+    // Penaliza entre mas dias de la semana se tenga que atender
+    let menosDias=menosDiasPuntaje(horario)*preferencias.menosDiasPeso;
+
+    // Penaliza entre mas horas muertas entre clase
+    let horasMuertas=horasMuertasPuntaje(horario)*preferencias.horasMuertasPeso
 
     // Rango horario
     let rangoHorario=rangoPuntaje(horario,preferencias.rangoStart,preferencias.rangoEnd)*preferencias.rangoPeso;
 
-    // Clases Juntas/Separadas TODO
-    let juntasSeparadas=puntajeJuntasSeparadas(horario,preferencias.juntas);
 
-    /**
     console.log(promedioMisProfes);
-    console.log(diaConMenos);
+    console.log(menosDias);
+    console.log(horasMuertas);
     console.log(rangoHorario);
-    console.log(juntasSeparadas);
-    */
 
-    let sumaPesos=preferencias.misProfesPeso+preferencias.diaMenosPeso+preferencias.rangoPeso;
+    
+
+    let sumaPesos=preferencias.misProfesPeso+preferencias.menosDiasPeso+preferencias.horasMuertasPeso+preferencias.rangoPeso;
     if(sumaPesos>0){
         // Vive en [0,100]
-        let sumaPonderada=(promedioMisProfes+diaConMenos+rangoHorario)/sumaPesos;
+        let sumaPonderada=(promedioMisProfes+menosDias+horasMuertas+rangoHorario)/sumaPesos;
         return sumaPonderada*100;
     }else{
         return 0;

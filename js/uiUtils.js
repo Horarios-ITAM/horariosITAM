@@ -218,18 +218,18 @@ function getPreferencias(){
     let mis_profes=document.getElementsByName("mis_profes_score")[0].checked;
     let mis_profes_peso=parseFloat(document.getElementsByName('mis_profes_peso')[0].value)/100;
 
-    // Juntas/Separadas -> Leemos solo juntas
-    let juntas=document.getElementById('juntas').checked;
-    let juntas_peso=parseFloat(document.getElementsByName('juntas_peso')[0].value)/100;
+    // Ir menos dias posibles
+    let menos_dias=document.getElementsByName("menos_dias_score")[0].checked;
+    let menos_dias_peso=parseFloat(document.getElementsByName('menos_dias_peso')[0].value)/100;
+
+    // Evitar horas muertas
+    let horas_muertas=document.getElementsByName("horas_muertas_score")[0].checked;
+    let horas_muertas_peso=parseFloat(document.getElementsByName('horas_muertas_peso')[0].value)/100;
 
     // Rango de Horario
     let start_rango=document.getElementsByName('start_rango')[0].value;
     let end_rango=document.getElementsByName('end_rango')[0].value;
     let peso_rango=parseFloat(document.getElementsByName('peso_rango')[0].value)/100;
-
-    // Dia con menos clases
-    let dia=document.getElementsByName('dia')[0].value;
-    let peso_dia=parseFloat(document.getElementsByName('peso_dia')[0].value)/100;
 
     // Mismo grupo teoria y lab
     let mismoGrupo=document.getElementById('mismo_grupo_box').checked;
@@ -259,9 +259,9 @@ function getPreferencias(){
     // Construye objecto
     let preferencias=new Preferencias(
         mis_profes, mis_profes_peso,
-        juntas,juntas_peso,
+        menos_dias,menos_dias_peso,
         start_rango,end_rango,peso_rango,
-        dia,peso_dia,
+        horas_muertas,horas_muertas_peso,
         gruposSeleccionados,
         nGruposSeleccionados,
         generacion,
@@ -281,18 +281,18 @@ function setPreferencias(preferencias){
     document.getElementsByName("mis_profes_score")[0].checked=preferencias.misProfes;
     document.getElementsByName('mis_profes_peso')[0].value=preferencias.misProfesPeso*100;
 
-    // Juntas/Separadas -> Leemos solo juntas
-    document.getElementById('juntas').checked=preferencias.juntas;
-    document.getElementsByName('juntas_peso')[0].value=preferencias.juntasPeso*100;
+    // Ir menos dias posibles
+    document.getElementById('menos_dias_box').checked=preferencias.menosDias;
+    document.getElementsByName('menos_dias_peso')[0].value=preferencias.menosDiasPeso*100;
+
+    // Evitar horas muertas
+    document.getElementsByName("horas_muertas_score")[0].checked=preferencias.horasMuertas;
+    document.getElementsByName('horas_muertas_peso')[0].value=preferencias.horasMuertasPeso*100;
 
     // Rango de Horario
     document.getElementsByName('start_rango')[0].value=preferencias.rangoStart
     document.getElementsByName('end_rango')[0].value=preferencias.rangoEnd;
     document.getElementsByName('peso_rango')[0].value=preferencias.rangoPeso*100;
-
-    // Dia con menos clases
-    document.getElementsByName('dia')[0].value=preferencias.diaMenos
-    document.getElementsByName('peso_dia')[0].value=preferencias.diaMenosPeso*100;
 
     // Mismo grupo teoria y lab
     document.getElementById('mismo_grupo_box').checked=preferencias.mismoGrupo;
