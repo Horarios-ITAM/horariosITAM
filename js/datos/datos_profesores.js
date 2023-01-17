@@ -1,4 +1,4 @@
-let actualizado="1673874391653.5186";
+let actualizado="1673960802515.7031";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -13748,7 +13748,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH306",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -13763,7 +13763,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH306",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -17892,14 +17892,14 @@ let profesores={
           "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
           "profesor": "JOSE DE JESUS MORALES ROMERO",
           "creditos": "8",
-          "horario": "16:30-19:30",
+          "horario": "15:30-18:30",
           "dias": [
             "VI"
           ],
-          "salon": "RHLI2",
+          "salon": "RH112",
           "campus": "RIO HONDO",
-          "inicio": "16:30",
-          "fin": "19:30"
+          "inicio": "15:30",
+          "fin": "18:30"
         }
       ]
     }
