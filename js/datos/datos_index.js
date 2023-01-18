@@ -1,4 +1,4 @@
-let actualizado="1673960802477.1973";
+let actualizado="1674047172717.3408";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -292,7 +292,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-5",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -544,7 +544,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF103",
+        "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -1242,7 +1242,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH107",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -1391,7 +1391,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH107",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -6286,7 +6286,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHPB3",
+        "salon": "RH316",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -7145,7 +7145,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHPB1",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -12293,21 +12293,6 @@ let clases={
         "fin": "14:30"
       },
       {
-        "grupo": "006",
-        "nombre": "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT",
-        "profesor": "ALEJANDRA SOLIS GONZALEZ",
-        "creditos": "6",
-        "horario": "07:00-08:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RHACERV",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
-      },
-      {
         "grupo": "011",
         "nombre": "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT",
         "profesor": "ANA TAMARIT AMIEVA",
@@ -12460,7 +12445,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHPB4",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -12544,26 +12529,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
-      }
-    ]
-  },
-  "LEN-10147": {
-    "nombre": "LEN-10147-COMUNIC. PROFE. PARA ING. COMP",
-    "clave": "LEN-10147",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "LEN-10147-COMUNIC. PROFE. PARA ING. COMP",
-        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
-        "creditos": "2",
-        "horario": "07:00-08:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "RHACERV",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:00"
       }
     ]
   },
@@ -13384,40 +13349,6 @@ let clases={
       }
     ]
   },
-  "LEN-12751": {
-    "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
-    "clave": "LEN-12751",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
-        "profesor": "FEDERICO VALLE OCHOA",
-        "creditos": "2",
-        "horario": "07:00-08:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "RHASHAK",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
-        "profesor": "FEDERICO VALLE OCHOA",
-        "creditos": "2",
-        "horario": "18:00-19:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "RHASHAK",
-        "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:00"
-      }
-    ]
-  },
   "LEN-12753": {
     "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
     "clave": "LEN-12753",
@@ -13425,7 +13356,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
-        "profesor": "",
+        "profesor": "GABRIELA MEDINA HERNANDEZ",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -13531,7 +13462,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHPB4",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -13779,26 +13710,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
-      }
-    ]
-  },
-  "LEN-17042": {
-    "nombre": "LEN-17042-COM. PROFESIONAL PARA C. POL.",
-    "clave": "LEN-17042",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "LEN-17042-COM. PROFESIONAL PARA C. POL.",
-        "profesor": "VIANEY OMECIHUATL ESQUINCA MONTA\u00d1O",
-        "creditos": "2",
-        "horario": "19:00-20:00",
-        "dias": [
-          "MI"
-        ],
-        "salon": "RHPB4",
-        "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "20:00"
       }
     ]
   },
@@ -15799,7 +15710,6 @@ let clases={
         "creditos": "6",
         "horario": "18:30-20:00",
         "dias": [
-          "MA",
           "JU"
         ],
         "salon": "RH209",
@@ -16687,11 +16597,6 @@ let misProfesData={
     "general": 5.9327,
     "n": 208
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4667,
@@ -16888,9 +16793,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17032,11 +16937,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8056,
@@ -17088,14 +16988,9 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17458,9 +17353,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -17534,8 +17429,8 @@ let misProfesData={
   },
   "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
     "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
-    "general": 5.1,
-    "n": 10
+    "general": 5.0,
+    "n": 11
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
@@ -17608,9 +17503,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -17674,8 +17569,8 @@ let misProfesData={
   },
   "ISAAC GUZMAN VALDIVIA TOVAR": {
     "link": "https://www.misprofesores.com/profesores/Isaac-Guzman-Valdivia-Tovar_109516",
-    "general": 10.0,
-    "n": 1
+    "general": 9.5,
+    "n": 2
   },
   "FEDERICO VALLE OCHOA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",

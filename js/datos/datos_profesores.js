@@ -1,4 +1,4 @@
-let actualizado="1673960802515.7031";
+let actualizado="1674047172755.1787";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -354,7 +354,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-5",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -766,7 +766,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "PF103",
+          "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -1559,7 +1559,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH107",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -1576,7 +1576,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH107",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -3204,9 +3204,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3888,9 +3885,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4129,9 +4123,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5156,9 +5150,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -7267,7 +7258,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHPB3",
+          "salon": "RH316",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -8088,7 +8079,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHPB1",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -8471,8 +8462,8 @@ let profesores={
   },
   "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
     "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
-    "general": 5.1,
-    "n": 10,
+    "general": 5.0,
+    "n": 11,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
@@ -9075,9 +9066,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -9478,8 +9469,8 @@ let profesores={
   },
   "ISAAC GUZMAN VALDIVIA TOVAR": {
     "link": "https://www.misprofesores.com/profesores/Isaac-Guzman-Valdivia-Tovar_109516",
-    "general": 10.0,
-    "n": 1,
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -11730,22 +11721,6 @@ let profesores={
           "fin": "11:00"
         }
       ],
-      "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH202",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
       "SDI-15816-SEMINARIO DE TITULACION": [
         {
           "grupo": "002",
@@ -13161,9 +13136,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -13940,66 +13915,10 @@ let profesores={
       ]
     }
   },
-  "ALEJANDRA SOLIS GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
-    "general": 6.8,
-    "n": 25,
-    "grupos": {
-      "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
-        {
-          "grupo": "006",
-          "nombre": "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT",
-          "profesor": "ALEJANDRA SOLIS GONZALEZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "006",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "ALEJANDRA SOLIS GONZALEZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        },
-        {
-          "grupo": "007",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "ALEJANDRA SOLIS GONZALEZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -14730,7 +14649,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHPB4",
+          "salon": "RH112",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
@@ -14750,22 +14669,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
-        }
-      ],
-      "LEN-10147-COMUNIC. PROFE. PARA ING. COMP": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-10147-COMUNIC. PROFE. PARA ING. COMP",
-          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
         }
       ],
       "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
@@ -14840,7 +14743,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHPB4",
+          "salon": "RH112",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
@@ -15018,35 +14921,44 @@ let profesores={
           "inicio": "18:00",
           "fin": "19:00"
         }
-      ],
-      "LEN-12751-COMUNIC. PROFESIONAL PARA DER.": [
+      ]
+    }
+  },
+  "ALEJANDRA SOLIS GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
+    "general": 6.8,
+    "n": 25,
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
-          "grupo": "001",
-          "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
-          "profesor": "FEDERICO VALLE OCHOA",
-          "creditos": "2",
-          "horario": "07:00-08:00",
+          "grupo": "006",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "ALEJANDRA SOLIS GONZALEZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
           "dias": [
-            "MA"
+            "MA",
+            "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RHACERV",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "08:00"
+          "fin": "08:30"
         },
         {
-          "grupo": "002",
-          "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
-          "profesor": "FEDERICO VALLE OCHOA",
-          "creditos": "2",
-          "horario": "18:00-19:00",
+          "grupo": "007",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "ALEJANDRA SOLIS GONZALEZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
           "dias": [
-            "MA"
+            "MA",
+            "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RHACERV",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -15313,28 +15225,32 @@ let profesores={
       ]
     }
   },
+  "GABRIELA MEDINA HERNANDEZ": {
+    "grupos": {
+      "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
+          "profesor": "GABRIELA MEDINA HERNANDEZ",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ]
+    }
+  },
   "VIANEY OMECIHUATL ESQUINCA MONTA\u00d1O": {
     "grupos": {
       "LEN-12755-COMUN. PROFESIONAL PARA C. POL": [
         {
           "grupo": "001",
           "nombre": "LEN-12755-COMUN. PROFESIONAL PARA C. POL",
-          "profesor": "VIANEY OMECIHUATL ESQUINCA MONTA\u00d1O",
-          "creditos": "2",
-          "horario": "19:00-20:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHPB4",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:00"
-        }
-      ],
-      "LEN-17042-COM. PROFESIONAL PARA C. POL.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-17042-COM. PROFESIONAL PARA C. POL.",
           "profesor": "VIANEY OMECIHUATL ESQUINCA MONTA\u00d1O",
           "creditos": "2",
           "horario": "19:00-20:00",
@@ -17630,7 +17546,6 @@ let profesores={
           "creditos": "6",
           "horario": "18:30-20:00",
           "dias": [
-            "MA",
             "JU"
           ],
           "salon": "RH209",
@@ -18037,12 +17952,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -18058,16 +17973,16 @@ let mejoresPorDepto={
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
-    "MARTA ROBLES CARTES",
-    "ISAAC GUZMAN VALDIVIA TOVAR",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
     "JAAKKO PEKKA MERILAINEN",
+    "ISAAC GUZMAN VALDIVIA TOVAR",
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "MENEY DE LA PEZA GANDARA"
+    "MENEY DE LA PEZA GANDARA",
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -18103,7 +18018,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "ERICK MIER MORENO"
+    "EDUARDO SELIM MARTINEZ MAYORGA"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
@@ -18126,8 +18041,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ALEJANDRA SOLIS GONZALEZ",
-    "ANA TAMARIT AMIEVA"
+    "ANA TAMARIT AMIEVA",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "PAVEL REAL PEREZ",
