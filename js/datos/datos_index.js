@@ -1,4 +1,4 @@
-let actualizado="1674047172717.3408";
+let actualizado="1674133573470.473";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -2233,36 +2233,7 @@ let clases={
   "CEB-10001": {
     "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
     "clave": "CEB-10001",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-        "profesor": "MARGARITA TARRAGONA SAEZ",
-        "creditos": "6",
-        "horario": "08:00-11:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "PF108",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "11:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-        "profesor": "MARGARITA TARRAGONA SAEZ",
-        "creditos": "6",
-        "horario": "11:00-14:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "PF104",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "14:00"
-      }
-    ]
+    "grupos": []
   },
   "CLE-10201-LAB": {
     "nombre": "CLE-10201-INGLES INTENSIVO-LAB",
@@ -10733,7 +10704,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "19:30",
         "fin": "21:30"
@@ -10880,7 +10851,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHPB2",
+        "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
@@ -11075,10 +11046,9 @@ let clases={
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
-          "MA",
           "JU"
         ],
-        "salon": "RH308",
+        "salon": "RHCC201",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -11312,7 +11282,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHPB2",
+        "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -11537,7 +11507,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHB-1",
+        "salon": "RHPB1",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"

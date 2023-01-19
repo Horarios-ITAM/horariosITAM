@@ -1,4 +1,4 @@
-let actualizado="1674047172755.1787";
+let actualizado="1674133573535.2463";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -2515,40 +2515,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "MARGARITA TARRAGONA SAEZ": {
-    "grupos": {
-      "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO": [
-        {
-          "grupo": "001",
-          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-          "profesor": "MARGARITA TARRAGONA SAEZ",
-          "creditos": "6",
-          "horario": "08:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-          "profesor": "MARGARITA TARRAGONA SAEZ",
-          "creditos": "6",
-          "horario": "11:00-14:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
         }
       ]
     }
@@ -12184,7 +12150,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH313",
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "21:30"
@@ -12427,7 +12393,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHPB2",
+          "salon": "PF106",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
@@ -12444,7 +12410,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHPB2",
+          "salon": "PF106",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -12817,10 +12783,9 @@ let profesores={
           "creditos": "8",
           "horario": "19:00-21:00",
           "dias": [
-            "MA",
             "JU"
           ],
-          "salon": "RH308",
+          "salon": "RHCC201",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -13327,7 +13292,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHB-1",
+          "salon": "RHPB1",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -17912,9 +17877,6 @@ let mejoresPorDepto={
     "PEDRO ANGEL GARCIA ARES",
     "ALEXANDROS FAKOS",
     "JUAN JOSE FERNANDEZ DURAN"
-  ],
-  "CTRO DE ESTUDIO DEL BIENESTAR": [
-    "MARGARITA TARRAGONA SAEZ"
   ],
   "LENGUAS (CLE)": [
     "TOUFIK CHAIBAT",
