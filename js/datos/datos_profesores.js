@@ -1,4 +1,4 @@
-let actualizado="1674133573535.2463";
+let actualizado="1674219974581.322";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3851,6 +3851,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -7069,7 +7072,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF105",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -7575,7 +7578,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF105",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "19:00"
@@ -7889,7 +7892,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHPB3",
+          "salon": "RH316",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -7976,7 +7979,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF105",
+          "salon": "RH306",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -13101,9 +13104,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -17980,7 +17983,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA"
+    "ERICK MIER MORENO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",

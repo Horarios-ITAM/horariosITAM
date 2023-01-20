@@ -1,4 +1,4 @@
-let actualizado="1674133573470.473";
+let actualizado="1674219974511.1902";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -6134,7 +6134,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF105",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -6634,7 +6634,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "19:00"
@@ -6993,7 +6993,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHPB3",
+        "salon": "RH316",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -7059,7 +7059,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -16567,6 +16567,11 @@ let misProfesData={
     "general": 5.9327,
     "n": 208
   },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3
+  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4667,
@@ -16958,9 +16963,9 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
