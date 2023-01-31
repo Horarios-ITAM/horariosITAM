@@ -1,4 +1,4 @@
-let actualizado="1675083973439.9058";
+let actualizado="1675170370528.8047";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -8288,6 +8288,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-12105-ECONOMIA, V",
+        "profesor": "GUILLERMO ORTIZ MARTINEZ",
+        "creditos": "6",
+        "horario": "08:00-11:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH104",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "11:00"
       }
     ]
   },
@@ -14859,7 +14873,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH111",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "15:00"

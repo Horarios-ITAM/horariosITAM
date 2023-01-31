@@ -1,4 +1,4 @@
-let actualizado="1675083973516.3303";
+let actualizado="1675170370589.7266";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -9620,6 +9620,26 @@ let profesores={
       ]
     }
   },
+  "GUILLERMO ORTIZ MARTINEZ": {
+    "grupos": {
+      "ECO-12105-ECONOMIA, V": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-12105-ECONOMIA, V",
+          "profesor": "GUILLERMO ORTIZ MARTINEZ",
+          "creditos": "6",
+          "horario": "08:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "MIGUEL MESSMACHER LINARTAS": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Messmacher-Linartas_118897",
     "general": 9.0,
@@ -16565,7 +16585,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH111",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "15:00"
