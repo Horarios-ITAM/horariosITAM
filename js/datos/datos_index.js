@@ -1,4 +1,4 @@
-let actualizado="1675256783983.9265";
+let actualizado="1675343182769.7212";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -10332,7 +10332,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH304",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -16284,7 +16284,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "",
+        "profesor": "ENRIQUE MELROSE AGUILAR",
         "creditos": "4",
         "horario": "15:30-17:30",
         "dias": [
@@ -17014,6 +17014,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",

@@ -1,4 +1,4 @@
-let actualizado="1675256784053.2332";
+let actualizado="1675343182844.2188";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3170,6 +3170,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -11789,26 +11792,10 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH304",
+          "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
-        }
-      ],
-      "SDI-15816-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "002",
-          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "15:30-17:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "15:30",
-          "fin": "17:30"
         }
       ]
     }
@@ -17957,6 +17944,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ],
+      "SDI-15816-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "002",
+          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+          "profesor": "ENRIQUE MELROSE AGUILAR",
+          "creditos": "4",
+          "horario": "15:30-17:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "15:30",
+          "fin": "17:30"
         }
       ]
     }
