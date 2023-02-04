@@ -1,4 +1,4 @@
-let actualizado="1675429569964.1628";
+let actualizado="1675515971047.3591";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -4989,6 +4989,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
+      }
+    ]
+  },
+  "CSO-19077": {
+    "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+    "clave": "CSO-19077",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+        "profesor": "ALEXANDRA URIBE COUGHLAN",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -17015,6 +17035,11 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.7671,
@@ -17069,6 +17094,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
     "general": 5.0,
     "n": 1
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17431,9 +17461,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
