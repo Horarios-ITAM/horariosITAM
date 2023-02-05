@@ -1,4 +1,4 @@
-let actualizado="1675515971047.3591";
+let actualizado="1675602362157.633";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -17107,8 +17107,8 @@ let misProfesData={
   },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
-    "general": 8.1222,
-    "n": 90
+    "general": 8.1429,
+    "n": 91
   },
   "JOSE MATUK VILLAZON": {
     "link": "https://www.misprofesores.com/profesores/Jose-Matuk-Villaz\u00f3n_138003",

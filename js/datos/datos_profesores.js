@@ -1,4 +1,4 @@
-let actualizado="1675515971114.5269";
+let actualizado="1675602362222.3188";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -15604,8 +15604,8 @@ let profesores={
   },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
-    "general": 8.1222,
-    "n": 90,
+    "general": 8.1429,
+    "n": 91,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
