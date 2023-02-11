@@ -1,4 +1,4 @@
-let actualizado="1676034357274.2705";
+let actualizado="1676120764668.4329";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3851,9 +3851,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5119,9 +5116,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -13209,9 +13203,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -13265,7 +13259,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
@@ -13989,9 +13983,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -18039,12 +18033,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -18105,7 +18099,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "ERICK MIER MORENO"
+    "EDUARDO SELIM MARTINEZ MAYORGA"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
@@ -18128,8 +18122,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ALEJANDRA SOLIS GONZALEZ",
-    "ANA TAMARIT AMIEVA"
+    "ANA TAMARIT AMIEVA",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "PAVEL REAL PEREZ",

@@ -1,4 +1,4 @@
-let actualizado="1676034357222.9841";
+let actualizado="1676120764592.9536";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -11338,7 +11338,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -16690,11 +16690,6 @@ let misProfesData={
     "general": 5.9282,
     "n": 209
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4667,
@@ -17086,14 +17081,9 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17606,9 +17596,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
