@@ -1,4 +1,4 @@
-let actualizado="1676120764592.9536";
+let actualizado="1676207187067.6536";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -16387,8 +16387,8 @@ let misProfesData={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.4797,
-    "n": 123
+    "general": 6.4677,
+    "n": 124
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
