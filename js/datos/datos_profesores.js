@@ -1,4 +1,4 @@
-let actualizado="1676207187142.7825";
+let actualizado="1676293581008.0994";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3851,6 +3851,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -13983,9 +13986,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -18122,8 +18125,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ANA TAMARIT AMIEVA",
-    "ALEJANDRA SOLIS GONZALEZ"
+    "ALEJANDRA SOLIS GONZALEZ",
+    "ANA TAMARIT AMIEVA"
   ],
   "MATEMATICAS": [
     "PAVEL REAL PEREZ",
