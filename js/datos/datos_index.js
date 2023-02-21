@@ -1,4 +1,4 @@
-let actualizado="1676898381201.0864";
+let actualizado="1676984781060.6074";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -16702,8 +16702,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.8182,
-    "n": 33
+    "general": 7.8824,
+    "n": 34
   },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
@@ -17047,8 +17047,8 @@ let misProfesData={
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
-    "general": 4.8182,
-    "n": 11
+    "general": 4.5833,
+    "n": 12
   },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
@@ -17086,9 +17086,9 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17601,9 +17601,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

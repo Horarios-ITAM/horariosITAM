@@ -1,4 +1,4 @@
-let actualizado="1676898381287.4595";
+let actualizado="1676984781128.3567";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -10967,8 +10967,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.8182,
-    "n": 33,
+    "general": 7.8824,
+    "n": 34,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -13206,9 +13206,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -13986,9 +13986,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -15035,8 +15035,8 @@ let profesores={
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
-    "general": 4.8182,
-    "n": 11,
+    "general": 4.5833,
+    "n": 12,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18102,7 +18102,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA"
+    "ERICK MIER MORENO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
@@ -18125,8 +18125,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ALEJANDRA SOLIS GONZALEZ",
-    "ANA TAMARIT AMIEVA"
+    "ANA TAMARIT AMIEVA",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "PAVEL REAL PEREZ",
