@@ -1,4 +1,4 @@
-let actualizado="1677157570948.2944";
+let actualizado="1677243959172.7727";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3170,6 +3170,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4092,9 +4095,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.65,
-    "n": 20,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -13989,9 +13992,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -17168,8 +17171,8 @@ let profesores={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.3407,
-    "n": 91,
+    "general": 7.3696,
+    "n": 92,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -17611,6 +17614,9 @@ let profesores={
     }
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "MAT-24430-ANALISIS APLICADO, I": [
         {
@@ -18128,10 +18134,11 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ANA TAMARIT AMIEVA",
-    "ALEJANDRA SOLIS GONZALEZ"
+    "ALEJANDRA SOLIS GONZALEZ",
+    "ANA TAMARIT AMIEVA"
   ],
   "MATEMATICAS": [
+    "JOSE EZEQUIEL SOTO SANCHEZ",
     "PAVEL REAL PEREZ",
     "MAYRA NU\u00d1EZ LOPEZ",
     "LYSETTE FELIX FELIX",
@@ -18140,8 +18147,7 @@ let mejoresPorDepto={
     "LEON FELIPE VILLALOBOS SANCHEZ",
     "CONCEPCION RUIZ RUIZ FUNES",
     "JORGE ALCALDE MARTIN DEL CAMPO",
-    "IRMA BEATRIZ RUMBOS PELLICER",
-    "SHARON MAGALI VALVERDE ESPARZA"
+    "IRMA BEATRIZ RUMBOS PELLICER"
   ],
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER VILLA LOPEZ",
