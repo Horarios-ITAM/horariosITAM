@@ -1,4 +1,4 @@
-let actualizado="1677243959099.914";
+let actualizado="1677330359538.8127";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -14708,6 +14708,162 @@ let clases={
       }
     ]
   },
+  "MAT-14062": {
+    "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+    "clave": "MAT-14062",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "09:00-10:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH209",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTA CABO NODAR",
+        "creditos": "0",
+        "horario": "10:00-11:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH209",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "ABIMAEL JAVIER BENGOCHEA CRUZ",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH205",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS",
+        "creditos": "0",
+        "horario": "13:00-14:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH206",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+        "creditos": "0",
+        "horario": "17:00-18:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH207",
+        "campus": "RIO HONDO",
+        "inicio": "17:00",
+        "fin": "18:00"
+      },
+      {
+        "grupo": "006",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+        "creditos": "0",
+        "horario": "18:00-19:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH207",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "19:00"
+      },
+      {
+        "grupo": "007",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "PABLO CASTA\u00d1EDA RIVERA",
+        "creditos": "0",
+        "horario": "11:00-12:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH203",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "12:00"
+      },
+      {
+        "grupo": "008",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "PABLO CASTA\u00d1EDA RIVERA",
+        "creditos": "0",
+        "horario": "12:00-13:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH203",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "009",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
+        "creditos": "0",
+        "horario": "16:00-17:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH202",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:00"
+      },
+      {
+        "grupo": "010",
+        "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+        "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
+        "creditos": "0",
+        "horario": "17:00-18:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH202",
+        "campus": "RIO HONDO",
+        "inicio": "17:00",
+        "fin": "18:00"
+      }
+    ]
+  },
   "MAT-14100": {
     "nombre": "MAT-14100-CALCULO DIF. E INT., I",
     "clave": "MAT-14100",
@@ -16891,9 +17047,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17035,11 +17191,6 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.7297,
@@ -17091,14 +17242,9 @@ let misProfesData={
     "n": 15
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17461,9 +17607,9 @@ let misProfesData={
     "n": 18
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
