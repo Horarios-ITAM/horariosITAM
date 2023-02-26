@@ -1,4 +1,4 @@
-let actualizado="1677330359583.222";
+let actualizado="1677416760849.4092";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -16031,8 +16031,8 @@ let profesores={
   },
   "HERICA SANCHEZ LARIOS": {
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
-    "general": 7.65,
-    "n": 20,
+    "general": 7.7143,
+    "n": 21,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {

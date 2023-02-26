@@ -1,4 +1,4 @@
-let actualizado="1677330359538.8127";
+let actualizado="1677416760777.2573";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -17678,8 +17678,8 @@ let misProfesData={
   },
   "HERICA SANCHEZ LARIOS": {
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
-    "general": 7.65,
-    "n": 20
+    "general": 7.7143,
+    "n": 21
   },
   "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
     "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
