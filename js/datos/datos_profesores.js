@@ -1,4 +1,4 @@
-let actualizado="1677945487700.0256";
+let actualizado="1678199874768.857";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3719,6 +3719,21 @@ let profesores={
       ],
       "CON-10002-CONTABILIDAD INTERMEDIA, I": [
         {
+          "grupo": "003",
+          "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
+          "profesor": "ROSARIO EDITH GARCIA MENDIOLA",
+          "creditos": "8",
+          "horario": "10:00-12:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA4",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
+        },
+        {
           "grupo": "004",
           "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
           "profesor": "ROSARIO EDITH GARCIA MENDIOLA",
@@ -4214,16 +4229,13 @@ let profesores={
       ]
     }
   },
-  "ANNAPAOLA LLANAS MEJIA": {
-    "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
-    "general": 8.3108,
-    "n": 74,
+  "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ": {
     "grupos": {
       "CON-10002-CONTABILIDAD INTERMEDIA, I": [
         {
           "grupo": "002",
           "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-          "profesor": "ANNAPAOLA LLANAS MEJIA",
+          "profesor": "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ",
           "creditos": "8",
           "horario": "08:00-10:00",
           "dias": [
@@ -4234,21 +4246,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
-        },
+        }
+      ],
+      "CON-10100-CONTABILIDAD, I": [
         {
           "grupo": "003",
-          "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-          "profesor": "ANNAPAOLA LLANAS MEJIA",
-          "creditos": "8",
-          "horario": "10:00-12:00",
+          "nombre": "CON-10100-CONTABILIDAD, I",
+          "profesor": "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ",
+          "creditos": "6",
+          "horario": "10:00-11:30",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RHSA4",
+          "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "10:00",
-          "fin": "12:00"
+          "fin": "11:30"
         }
       ]
     }
@@ -4480,27 +4494,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
-        }
-      ]
-    }
-  },
-  "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ": {
-    "grupos": {
-      "CON-10100-CONTABILIDAD, I": [
-        {
-          "grupo": "003",
-          "nombre": "CON-10100-CONTABILIDAD, I",
-          "profesor": "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -4754,7 +4747,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH314",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -4771,7 +4764,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH314",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -4788,7 +4781,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH314",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -10096,8 +10089,8 @@ let profesores={
   },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
-    "general": 6.16,
-    "n": 25,
+    "general": 6.1538,
+    "n": 26,
     "grupos": {
       "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
         {
@@ -12490,8 +12483,8 @@ let profesores={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.8082,
-    "n": 73,
+    "general": 5.7568,
+    "n": 74,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -16210,40 +16203,6 @@ let profesores={
           "inicio": "07:00",
           "fin": "09:00"
         }
-      ],
-      "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
-          "profesor": "HECTOR DE JESUS ARGUETA VILLAMAR",
-          "creditos": "2.7",
-          "horario": "07:00-09:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ],
-      "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
-          "profesor": "HECTOR DE JESUS ARGUETA VILLAMAR",
-          "creditos": "2.7",
-          "horario": "07:00-09:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
       ]
     }
   },
@@ -16359,6 +16318,44 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "15:00",
           "fin": "17:00"
+        }
+      ]
+    }
+  },
+  "MARISOL VILLANUEVA CASTILLO": {
+    "grupos": {
+      "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
+          "profesor": "MARISOL VILLANUEVA CASTILLO",
+          "creditos": "2.7",
+          "horario": "07:00-09:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
+          "profesor": "MARISOL VILLANUEVA CASTILLO",
+          "creditos": "2.7",
+          "horario": "07:00-09:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -16815,8 +16812,8 @@ let profesores={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 6.907,
-    "n": 43,
+    "general": 6.9773,
+    "n": 44,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -18198,10 +18195,10 @@ let mejoresPorDepto={
     "ROSA ELENA MIRANDA SANSORES",
     "MARIA LUISA GRUNBERGER STERN",
     "VIRGINIA KALIS LETAYF",
-    "ANNAPAOLA LLANAS MEJIA",
     "CLAUDIA EMILIA DE LEON PEREZ",
     "YANIRA ROSALBA PETRIDES JIMENEZ",
-    "BERNARDO RAMIREZ FIGUEROA"
+    "BERNARDO RAMIREZ FIGUEROA",
+    "MARIA CANDELAS RAMIREZ"
   ],
   "CIENCIA POLITICA": [
     "FELIPE CURCO COBOS",

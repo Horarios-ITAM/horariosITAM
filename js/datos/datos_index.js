@@ -1,4 +1,4 @@
-let actualizado="1677945487684.943";
+let actualizado="1678199874754.139";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3524,7 +3524,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-        "profesor": "ANNAPAOLA LLANAS MEJIA",
+        "profesor": "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ",
         "creditos": "8",
         "horario": "08:00-10:00",
         "dias": [
@@ -3539,7 +3539,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-        "profesor": "ANNAPAOLA LLANAS MEJIA",
+        "profesor": "ROSARIO EDITH GARCIA MENDIOLA",
         "creditos": "8",
         "horario": "10:00-12:00",
         "dias": [
@@ -4001,7 +4001,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH314",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -4071,7 +4071,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH314",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -4107,7 +4107,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH314",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -14382,7 +14382,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-14052-PROPEDEUTICO MATEM.- UNIDAD II",
-        "profesor": "HECTOR DE JESUS ARGUETA VILLAMAR",
+        "profesor": "MARISOL VILLANUEVA CASTILLO",
         "creditos": "2.7",
         "horario": "07:00-09:00",
         "dias": [
@@ -14478,7 +14478,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-14053-PROPEDEUTICO MATE.- UNIDAD III",
-        "profesor": "HECTOR DE JESUS ARGUETA VILLAMAR",
+        "profesor": "MARISOL VILLANUEVA CASTILLO",
         "creditos": "2.7",
         "horario": "07:00-09:00",
         "dias": [
@@ -17171,11 +17171,6 @@ let misProfesData={
     "general": 8.9322,
     "n": 59
   },
-  "ANNAPAOLA LLANAS MEJIA": {
-    "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
-    "general": 8.3108,
-    "n": 74
-  },
   "ANTONIO RODOLFO LLORET CARRILLO": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Rodolfo-Lloret-Carrillo_10731",
     "general": 6.0857,
@@ -17233,8 +17228,8 @@ let misProfesData={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 6.907,
-    "n": 43
+    "general": 6.9773,
+    "n": 44
   },
   "JORGE ALCALDE MARTIN DEL CAMPO": {
     "link": "https://www.misprofesores.com/profesores/JORGE-ALCALDE-MARTIN-DEL-CAMPO_81055",
@@ -17308,8 +17303,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.8082,
-    "n": 73
+    "general": 5.7568,
+    "n": 74
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
@@ -17873,8 +17868,8 @@ let misProfesData={
   },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
-    "general": 6.16,
-    "n": 25
+    "general": 6.1538,
+    "n": 26
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
