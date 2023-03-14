@@ -1,4 +1,4 @@
-let actualizado="1678199874754.139";
+let actualizado="1678812821562.428";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -17047,9 +17047,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.65,
-    "n": 20
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17413,8 +17413,8 @@ let misProfesData={
   },
   "MARIO MU\u00d1OZ ORTEGA SAAVEDRA": {
     "link": "https://www.misprofesores.com/profesores/Mario-Mu\u00f1oz-Ortega-Saavedra_129188",
-    "general": 9.75,
-    "n": 4
+    "general": 9.8,
+    "n": 5
   },
   "LUIS ENRIQUE NIETO BARAJAS": {
     "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Nieto-Barajas_10685",
@@ -17767,9 +17767,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

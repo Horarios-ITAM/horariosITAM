@@ -1,4 +1,4 @@
-let actualizado="1678199874768.857";
+let actualizado="1678812821577.2717";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -4110,9 +4110,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.65,
-    "n": 20,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -8243,8 +8243,8 @@ let profesores={
   },
   "MARIO MU\u00d1OZ ORTEGA SAAVEDRA": {
     "link": "https://www.misprofesores.com/profesores/Mario-Mu\u00f1oz-Ortega-Saavedra_129188",
-    "general": 9.75,
-    "n": 4,
+    "general": 9.8,
+    "n": 5,
     "grupos": {
       "DER-19602-DERECHO LABORAL II": [
         {
@@ -13985,9 +13985,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -18293,8 +18293,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ANA TAMARIT AMIEVA",
-    "ALEJANDRA SOLIS GONZALEZ"
+    "ALEJANDRA SOLIS GONZALEZ",
+    "ANA TAMARIT AMIEVA"
   ],
   "MATEMATICAS": [
     "JOSE EZEQUIEL SOTO SANCHEZ",
