@@ -1,8 +1,8 @@
 jobs:
   on:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '2 * * * *'
+    schedule:
+      # * is a special character in YAML so you have to quote this string
+      - cron:  '5 * * * *'
 
   build:
     runs-on: ubuntu-latest
