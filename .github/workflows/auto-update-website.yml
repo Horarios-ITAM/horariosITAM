@@ -11,7 +11,7 @@ jobs:
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
     - name: Create local changes
       run: |
-        pip install -r requirements.txt
+        pip install -r update/requirements.txt
         python3 update/update.py >> README.md
     - name: Commit files
       run: |
