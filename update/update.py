@@ -1,7 +1,7 @@
 
 from graceScrapper import GraceScrapper
 from misProfesScrapper import MisProfesScrapper
-import json,time
+import json,time,sys
 from graceScrapperSecure import GraceScrapperSecureArea,courseUrl
 from utils import claveToDepto,periodoMasReciente,dic2js
 
@@ -67,8 +67,12 @@ if __name__=="__main__":
     # Scrapeamos Grace entrando a Secure Area
 
     # Leer usuario y passwd de grace
-    with open(credsFile,"r") as f:
-        loginData=json.loads(f.read())
+    if len(sys.argv)==1:
+        with open(credsFile,"r") as f:
+            loginData=json.loads(f.read())
+    elif len(sys.argv)==3:
+        loginData={'sid':sys.argv[1],'PIN':sys.argv[2]}
+
     secure=GraceScrapperSecureArea(loginData['sid'],loginData['PIN'])
 
     # Scrapeamos Grace en Servicios No Personalizados
