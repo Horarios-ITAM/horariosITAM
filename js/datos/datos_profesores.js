@@ -1,4 +1,4 @@
-let actualizado="1678812821577.2717";
+let actualizado="1679158478269.745";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -12685,8 +12685,8 @@ let profesores={
   },
   "VICTOR MANUEL GUERRERO GUZMAN": {
     "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Guerrero-Guzm\u00e1n_10688",
-    "general": 6.875,
-    "n": 24,
+    "general": 6.72,
+    "n": 25,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -17017,8 +17017,8 @@ let profesores={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.963,
-    "n": 54,
+    "general": 6.8727,
+    "n": 55,
     "grupos": {
       "MAT-14102-CALCULO DIF. E INT., III": [
         {
