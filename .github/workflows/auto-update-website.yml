@@ -2,7 +2,7 @@ name: auto-scrapping-data
 run-name: Auto scrapping and pushing new data
 on:
   schedule:
-    - cron: '13 11 * * *'
+    - cron: '15 17 * * *'
 
 jobs:
   build:
