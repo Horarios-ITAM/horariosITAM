@@ -1,7 +1,8 @@
+name: auto-update-website
+run-name: ${{ github.actor }} is learning GitHub Actions
+on: [push]
+
 jobs:
-  name: auto-update-website
-  run-name: ${{ github.actor }} is learning GitHub Actions
-  on: [push]
   build:
     runs-on: ubuntu-latest
     steps:
