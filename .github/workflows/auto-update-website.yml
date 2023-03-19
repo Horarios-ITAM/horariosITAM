@@ -2,7 +2,7 @@ name: auto-scrapping-data
 run-name: Auto scrapping and pushing new data
 on:
   schedule: # Se scrappean datos periodicamente - NOTA: todos los tiempos en UTC.
-    - cron: '57 15 * * *'
+    - cron: '10 16 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
