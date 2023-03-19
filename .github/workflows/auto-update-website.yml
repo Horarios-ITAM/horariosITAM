@@ -2,7 +2,7 @@ name: auto-scrapping-data
 run-name: Auto scrapping and pushing new data
 on:
   schedule: # Se scrappean datos periodicamente - NOTA: todos los tiempos en UTC.
-    - cron: '30 14 * * *'
+    - cron: '47 15 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,7 +23,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git commit -a -m "Add changes"
     - name: Push changes # Y push - que a su vez triggea la accion de Pages.
-      uses: ad-m/github-push-action@main
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
