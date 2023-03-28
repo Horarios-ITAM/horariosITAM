@@ -1,4 +1,4 @@
-let actualizado="1679928229122.7234";
+let actualizado="1680014219958.5059";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3170,6 +3170,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4107,9 +4110,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.65,
-    "n": 20,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -9113,9 +9116,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -15912,6 +15915,23 @@ let profesores={
           "fin": "14:00"
         }
       ],
+      "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3",
+          "profesor": "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS",
+          "creditos": "0",
+          "horario": "13:00-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
+      ],
       "MAT-14102-CALCULO DIF. E INT., III": [
         {
           "grupo": "001",
@@ -16426,6 +16446,38 @@ let profesores={
           "fin": "11:00"
         }
       ],
+      "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "09:00-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3",
+          "profesor": "MARTA CABO NODAR",
+          "creditos": "0",
+          "horario": "10:00-11:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
           "grupo": "004",
@@ -16471,6 +16523,23 @@ let profesores={
         {
           "grupo": "003",
           "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "ABIMAEL JAVIER BENGOCHEA CRUZ",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3": [
+        {
+          "grupo": "003",
+          "nombre": "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3",
           "profesor": "ABIMAEL JAVIER BENGOCHEA CRUZ",
           "creditos": "0",
           "horario": "12:00-13:00",
@@ -16571,6 +16640,38 @@ let profesores={
           "inicio": "18:00",
           "fin": "19:00"
         }
+      ],
+      "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3": [
+        {
+          "grupo": "005",
+          "nombre": "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3",
+          "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+          "creditos": "0",
+          "horario": "17:00-18:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH207",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "18:00"
+        },
+        {
+          "grupo": "006",
+          "nombre": "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3",
+          "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+          "creditos": "0",
+          "horario": "18:00-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH207",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:00"
+        }
       ]
     }
   },
@@ -16630,6 +16731,38 @@ let profesores={
         {
           "grupo": "008",
           "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "PABLO CASTA\u00d1EDA RIVERA",
+          "creditos": "0",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3": [
+        {
+          "grupo": "007",
+          "nombre": "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3",
+          "profesor": "PABLO CASTA\u00d1EDA RIVERA",
+          "creditos": "0",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        },
+        {
+          "grupo": "008",
+          "nombre": "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3",
           "profesor": "PABLO CASTA\u00d1EDA RIVERA",
           "creditos": "0",
           "horario": "12:00-13:00",
@@ -16717,6 +16850,38 @@ let profesores={
         {
           "grupo": "010",
           "nombre": "MAT-14062-TUTORIA MATEMATICAS UNIDAD 2",
+          "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
+          "creditos": "0",
+          "horario": "17:00-18:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "18:00"
+        }
+      ],
+      "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3": [
+        {
+          "grupo": "009",
+          "nombre": "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3",
+          "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
+          "creditos": "0",
+          "horario": "16:00-17:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:00"
+        },
+        {
+          "grupo": "010",
+          "nombre": "MAT-14063-TUTORIA MATEMATICAS UNIDAD 3",
           "profesor": "MARTHA LORENA ZOGAIB ACHCAR",
           "creditos": "0",
           "horario": "17:00-18:00",
@@ -18222,6 +18387,7 @@ let mejoresPorDepto={
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
+    "MARTA ROBLES CARTES",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -18230,8 +18396,7 @@ let mejoresPorDepto={
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "MENEY DE LA PEZA GANDARA",
-    "CHRISTIANE FABREGA CHIMALI"
+    "MENEY DE LA PEZA GANDARA"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
