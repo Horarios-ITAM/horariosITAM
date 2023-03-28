@@ -21,4 +21,8 @@ Las fuentes de datos son:
 - ["Registration > Look-up Classes to Add" (Grace/ITAM)]("https://serviciosweb.itam.mx/EDSUP/bwskfcls.p_sel_crse_search") si los horarios no están disponibles en "Servicios No Personalizados".
 - [Sección dedicada a profesores del ITAM](https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003) en [MisProfes.com](https://www.misprofesores.com/). 
 
-Como los nombres de profesores pueden ser ingresados de formas distintas en MisProfes y en Grace, se usa una [similitud de Levenshtein](https://en.wikipedia.org/wiki/Levenshtein_distance) de 90% para ligarle sus evaluaciones a cada profesor/a.
+
+## Por mejorar/hacer
+
+- Mejorar el [fuzzy name matching](https://www.rosette.com/name-matching-algorithms/) (MisProfesScrapper > [match](https://github.com/emiliocantuc/horariosITAM/blob/9f12960e16f29bd48e4fbda1258b83c88ef037db/update/misProfesScrapper.py#L53)) que se hace para ligar a profesores obtenidos de Grace y de MisProfes.
+- Mejorar y probar detalladamente la función que rankea los horarios (main.js > [evaluaHorario](https://github.com/emiliocantuc/horariosITAM/blob/9f12960e16f29bd48e4fbda1258b83c88ef037db/js/main.js#L272)).
