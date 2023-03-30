@@ -1,4 +1,4 @@
-let actualizado="1680102575276.6602";
+let actualizado="1680186955928.9082";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -4229,13 +4229,16 @@ let profesores={
       ]
     }
   },
-  "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ": {
+  "VIRGINIA KALIS LETAYF": {
+    "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
+    "general": 8.4079,
+    "n": 76,
     "grupos": {
       "CON-10002-CONTABILIDAD INTERMEDIA, I": [
         {
           "grupo": "002",
           "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-          "profesor": "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ",
+          "profesor": "VIRGINIA KALIS LETAYF",
           "creditos": "8",
           "horario": "08:00-10:00",
           "dias": [
@@ -4248,71 +4251,6 @@ let profesores={
           "fin": "10:00"
         }
       ],
-      "CON-10100-CONTABILIDAD, I": [
-        {
-          "grupo": "003",
-          "nombre": "CON-10100-CONTABILIDAD, I",
-          "profesor": "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ]
-    }
-  },
-  "MARIA CANDELAS RAMIREZ": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Candelas-Ram\u00edrez_10751",
-    "general": 7.807,
-    "n": 57,
-    "grupos": {
-      "CON-10003-CONTABILIDAD INTERMEDIA, II": [
-        {
-          "grupo": "001",
-          "nombre": "CON-10003-CONTABILIDAD INTERMEDIA, II",
-          "profesor": "MARIA CANDELAS RAMIREZ",
-          "creditos": "8",
-          "horario": "10:00-12:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
-        }
-      ],
-      "CON-10004-COMBINACION DE NEGOCIOS": [
-        {
-          "grupo": "003",
-          "nombre": "CON-10004-COMBINACION DE NEGOCIOS",
-          "profesor": "MARIA CANDELAS RAMIREZ",
-          "creditos": "6",
-          "horario": "12:00-13:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:30"
-        }
-      ]
-    }
-  },
-  "VIRGINIA KALIS LETAYF": {
-    "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
-    "general": 8.4079,
-    "n": 76,
-    "grupos": {
       "CON-10003-CONTABILIDAD INTERMEDIA, II": [
         {
           "grupo": "002",
@@ -4360,6 +4298,47 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "MARIA CANDELAS RAMIREZ": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Candelas-Ram\u00edrez_10751",
+    "general": 7.807,
+    "n": 57,
+    "grupos": {
+      "CON-10003-CONTABILIDAD INTERMEDIA, II": [
+        {
+          "grupo": "001",
+          "nombre": "CON-10003-CONTABILIDAD INTERMEDIA, II",
+          "profesor": "MARIA CANDELAS RAMIREZ",
+          "creditos": "8",
+          "horario": "10:00-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
+        }
+      ],
+      "CON-10004-COMBINACION DE NEGOCIOS": [
+        {
+          "grupo": "003",
+          "nombre": "CON-10004-COMBINACION DE NEGOCIOS",
+          "profesor": "MARIA CANDELAS RAMIREZ",
+          "creditos": "6",
+          "horario": "12:00-13:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:30"
         }
       ]
     }
@@ -4494,6 +4473,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
+        }
+      ]
+    }
+  },
+  "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ": {
+    "grupos": {
+      "CON-10100-CONTABILIDAD, I": [
+        {
+          "grupo": "003",
+          "nombre": "CON-10100-CONTABILIDAD, I",
+          "profesor": "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -6106,8 +6106,8 @@ let profesores={
   },
   "LUIS ENRIQUE PEREDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
-    "general": 9.0,
-    "n": 1,
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "DER-10015-DERECHO EMPRESARIAL": [
         {
@@ -18383,8 +18383,8 @@ let mejoresPorDepto={
     "FRANCO ALBERTO DEL VALLE PRADO",
     "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
     "IRVIN ARTURO CASTILLO CESAREO",
-    "MARIANA CALDERON ARAMBURU",
-    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
+    "LUIS ENRIQUE PEREDA TREJO",
+    "MARIANA CALDERON ARAMBURU"
   ],
   "ECONOMIA": [
     "MARTA ROBLES CARTES",

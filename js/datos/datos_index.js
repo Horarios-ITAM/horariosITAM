@@ -1,4 +1,4 @@
-let actualizado="1680102575256.5525";
+let actualizado="1680186955908.4275";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3524,7 +3524,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-        "profesor": "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ",
+        "profesor": "VIRGINIA KALIS LETAYF",
         "creditos": "8",
         "horario": "08:00-10:00",
         "dias": [
@@ -17644,8 +17644,8 @@ let misProfesData={
   },
   "LUIS ENRIQUE PEREDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
-    "general": 9.0,
-    "n": 1
+    "general": 9.5,
+    "n": 2
   },
   "ROXANA PEREZ ARCE VALLE": {
     "link": "https://www.misprofesores.com/profesores/Roxana-Perez-Arce-Valle_80746",
