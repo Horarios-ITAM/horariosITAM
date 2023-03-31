@@ -1,4 +1,4 @@
-let actualizado="1680186955908.4275";
+let actualizado="1680273336674.7896";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -17203,9 +17203,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.65,
-    "n": 20
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17923,9 +17923,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
