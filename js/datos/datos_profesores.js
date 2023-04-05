@@ -1,4 +1,4 @@
-let actualizado="1680618951347.3713";
+let actualizado="1680705406486.7576";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3170,6 +3170,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -9113,9 +9116,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -13982,9 +13985,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -17633,8 +17636,8 @@ let profesores={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.8085,
-    "n": 47,
+    "general": 4.75,
+    "n": 48,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -18384,6 +18387,7 @@ let mejoresPorDepto={
     "MARIANA CALDERON ARAMBURU"
   ],
   "ECONOMIA": [
+    "MARTA ROBLES CARTES",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -18392,8 +18396,7 @@ let mejoresPorDepto={
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "MENEY DE LA PEZA GANDARA",
-    "CHRISTIANE FABREGA CHIMALI"
+    "MENEY DE LA PEZA GANDARA"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -18452,8 +18455,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ALEJANDRA SOLIS GONZALEZ",
-    "ANA TAMARIT AMIEVA"
+    "ANA TAMARIT AMIEVA",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "JOSE EZEQUIEL SOTO SANCHEZ",
