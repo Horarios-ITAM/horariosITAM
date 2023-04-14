@@ -1,4 +1,4 @@
-let actualizado="1681310137498.1382";
+let actualizado="1681482940993.385";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -17002,6 +17002,11 @@ let misProfesData={
     "general": 5.9282,
     "n": 209
   },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3
+  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4737,
@@ -17930,7 +17935,7 @@ let misProfesData={
   "PAUL RENATO TOPPO RAIMONDO": {
     "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
     "general": 7.0,
-    "n": 9
+    "n": 10
   },
   "JAEN DANAE TORRES DE LA ROSA": {
     "link": "https://www.misprofesores.com/profesores/Ja\u00e9n-Dana\u00e9-Torres-de-la-Rosa_74693",
@@ -18004,8 +18009,8 @@ let misProfesData={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 8.9444,
-    "n": 18
+    "general": 9.0,
+    "n": 19
   },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
@@ -18019,8 +18024,8 @@ let misProfesData={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 5.0,
-    "n": 2
+    "general": 4.0,
+    "n": 3
   },
   "FRANCISCO JAVIER VILLA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/FRANCISCO-JAVIER-VILLA-LOPEZ_159928",

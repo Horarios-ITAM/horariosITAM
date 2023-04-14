@@ -1,4 +1,4 @@
-let actualizado="1681310137517.4119";
+let actualizado="1681482941013.1875";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3866,6 +3866,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -10507,8 +10510,8 @@ let profesores={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 8.9444,
-    "n": 18,
+    "general": 9.0,
+    "n": 19,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -15664,8 +15667,8 @@ let profesores={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 5.0,
-    "n": 2,
+    "general": 4.0,
+    "n": 3,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
@@ -15706,7 +15709,7 @@ let profesores={
   "PAUL RENATO TOPPO RAIMONDO": {
     "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
     "general": 7.0,
-    "n": 9,
+    "n": 10,
     "grupos": {
       "MAT-12101-CALCULO, II": [
         {
