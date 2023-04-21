@@ -1,4 +1,4 @@
-let actualizado="1682001328498.4375";
+let actualizado="1682087740544.1138";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3170,9 +3170,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3869,9 +3866,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 3,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4110,9 +4104,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5115,9 +5109,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -7393,14 +7384,14 @@ let profesores={
           "nombre": "DER-14607-JUICIO ORAL PENAL-LAB",
           "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
           "creditos": "2",
-          "horario": "16:00-18:00",
+          "horario": "16:00-22:00",
           "dias": [
             "MI"
           ],
-          "salon": "PF104",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "16:00",
-          "fin": "18:00"
+          "fin": "22:00"
         }
       ]
     }
@@ -9116,9 +9107,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -9512,8 +9503,8 @@ let profesores={
   },
   "ERNESTO BLANCAS BARRAGAN": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
-    "general": 5.5,
-    "n": 2,
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -13205,9 +13196,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
-    "general": 5.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -13985,9 +13976,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -18366,12 +18357,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
@@ -18387,7 +18378,6 @@ let mejoresPorDepto={
     "MARIANA CALDERON ARAMBURU"
   ],
   "ECONOMIA": [
-    "MARTA ROBLES CARTES",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -18396,7 +18386,8 @@ let mejoresPorDepto={
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "MENEY DE LA PEZA GANDARA"
+    "MENEY DE LA PEZA GANDARA",
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -18432,7 +18423,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "ERICK MIER MORENO"
+    "EDUARDO SELIM MARTINEZ MAYORGA"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
@@ -18455,8 +18446,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ALEJANDRA SOLIS GONZALEZ",
-    "ANA TAMARIT AMIEVA"
+    "ANA TAMARIT AMIEVA",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "JOSE EZEQUIEL SOTO SANCHEZ",
