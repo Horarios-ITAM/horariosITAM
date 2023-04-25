@@ -1,4 +1,4 @@
-let actualizado="1682346947192.683";
+let actualizado="1682433328971.2014";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3170,6 +3170,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.65,
+    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4187,8 +4190,8 @@ let profesores={
   },
   "ANA MARIA BERNARDETTE DIAZ BONNET": {
     "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Bernardette-Diaz-Bonnet_10748",
-    "general": 6.4571,
-    "n": 35,
+    "general": 6.5,
+    "n": 36,
     "grupos": {
       "CON-10002-CONTABILIDAD INTERMEDIA, I": [
         {
@@ -9113,9 +9116,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -9532,8 +9535,8 @@ let profesores={
   },
   "ISAAC GUZMAN VALDIVIA TOVAR": {
     "link": "https://www.misprofesores.com/profesores/Isaac-Guzman-Valdivia-Tovar_109516",
-    "general": 9.5,
-    "n": 2,
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -10674,8 +10677,8 @@ let profesores={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.181,
-    "n": 116,
+    "general": 7.1538,
+    "n": 117,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -13202,9 +13205,9 @@ let profesores={
     }
   },
   "EDUARDO SELIM MARTINEZ MAYORGA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145361",
-    "general": 8.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/EDUARDO-SELIM-MARTINEZ-MAYORGA_145360",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -13982,9 +13985,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -15594,8 +15597,8 @@ let profesores={
   },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
-    "general": 8.1429,
-    "n": 91,
+    "general": 8.163,
+    "n": 92,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
@@ -18384,6 +18387,7 @@ let mejoresPorDepto={
     "MARIANA CALDERON ARAMBURU"
   ],
   "ECONOMIA": [
+    "MARTA ROBLES CARTES",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -18392,8 +18396,7 @@ let mejoresPorDepto={
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "MENEY DE LA PEZA GANDARA",
-    "CHRISTIANE FABREGA CHIMALI"
+    "MENEY DE LA PEZA GANDARA"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -18429,7 +18432,7 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
-    "EDUARDO SELIM MARTINEZ MAYORGA"
+    "ERICK MIER MORENO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
@@ -18452,8 +18455,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ALEJANDRA SOLIS GONZALEZ",
-    "ANA TAMARIT AMIEVA"
+    "ANA TAMARIT AMIEVA",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "JOSE EZEQUIEL SOTO SANCHEZ",
