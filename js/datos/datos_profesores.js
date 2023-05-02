@@ -1,4 +1,4 @@
-let actualizado="1682951747561.599";
+let actualizado="1683038148165.3447";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -3170,9 +3170,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
