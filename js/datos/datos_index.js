@@ -1,4 +1,4 @@
-let actualizado="1683124519068.885";
+let actualizado="1683210893120.3413";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -6421,14 +6421,14 @@ let clases={
         "nombre": "DER-14607-JUICIO ORAL PENAL-LAB",
         "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
         "creditos": "2",
-        "horario": "16:00-22:00",
+        "horario": "16:00-18:00",
         "dias": [
           "MI"
         ],
-        "salon": "RH204",
+        "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "22:00"
+        "fin": "18:00"
       }
     ]
   },
@@ -17203,9 +17203,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17919,8 +17919,8 @@ let misProfesData={
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
-    "general": 10.0,
-    "n": 1
+    "general": 6.0,
+    "n": 2
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
@@ -17928,9 +17928,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

@@ -1,4 +1,4 @@
-let actualizado="1683124519087.769";
+let actualizado="1683210893140.5208";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -4110,9 +4110,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -7393,14 +7393,14 @@ let profesores={
           "nombre": "DER-14607-JUICIO ORAL PENAL-LAB",
           "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
           "creditos": "2",
-          "horario": "16:00-22:00",
+          "horario": "16:00-18:00",
           "dias": [
             "MI"
           ],
-          "salon": "RH204",
+          "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "16:00",
-          "fin": "22:00"
+          "fin": "18:00"
         }
       ]
     }
@@ -13988,9 +13988,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -17939,8 +17939,8 @@ let profesores={
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
-    "general": 10.0,
-    "n": 1,
+    "general": 6.0,
+    "n": 2,
     "grupos": {
       "MAT-24430-ANALISIS APLICADO, I": [
         {
@@ -18458,11 +18458,10 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ALEJANDRA SOLIS GONZALEZ",
-    "ANA TAMARIT AMIEVA"
+    "ANA TAMARIT AMIEVA",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
-    "JOSE EZEQUIEL SOTO SANCHEZ",
     "PAVEL REAL PEREZ",
     "MAYRA NU\u00d1EZ LOPEZ",
     "LYSETTE FELIX FELIX",
@@ -18471,7 +18470,8 @@ let mejoresPorDepto={
     "LEON FELIPE VILLALOBOS SANCHEZ",
     "CONCEPCION RUIZ RUIZ FUNES",
     "JORGE ALCALDE MARTIN DEL CAMPO",
-    "IRMA BEATRIZ RUMBOS PELLICER"
+    "IRMA BEATRIZ RUMBOS PELLICER",
+    "SHARON MAGALI VALVERDE ESPARZA"
   ],
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER VILLA LOPEZ",
