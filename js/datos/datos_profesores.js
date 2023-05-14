@@ -1,4 +1,4 @@
-let actualizado="1683988544193.2966";
+let actualizado="1684074940338.4934";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -10609,8 +10609,8 @@ let profesores={
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 6.7826,
-    "n": 46,
+    "general": 6.766,
+    "n": 47,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -16680,8 +16680,8 @@ let profesores={
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
-    "general": 6.0455,
-    "n": 22,
+    "general": 6.1739,
+    "n": 23,
     "grupos": {
       "MAT-14061-TUTORIA MATEMATICAS UNIDAD 1": [
         {

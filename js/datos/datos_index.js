@@ -1,4 +1,4 @@
-let actualizado="1683988544169.8362";
+let actualizado="1684074940314.0928";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -16859,8 +16859,8 @@ let misProfesData={
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
-    "general": 6.0455,
-    "n": 22
+    "general": 6.1739,
+    "n": 23
   },
   "IRVIN ARTURO CASTILLO CESAREO": {
     "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
@@ -17379,8 +17379,8 @@ let misProfesData={
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 6.7826,
-    "n": 46
+    "general": 6.766,
+    "n": 47
   },
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
