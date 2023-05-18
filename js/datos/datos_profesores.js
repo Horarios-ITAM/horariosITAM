@@ -1,4 +1,4 @@
-let actualizado="1684247695546.4204";
+let actualizado="1684420539517.7244";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -4110,9 +4110,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -7223,8 +7223,8 @@ let profesores={
   },
   "GUSTAVO CARDENAS SORIANO": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
-    "general": 10.0,
-    "n": 2,
+    "general": 8.3333,
+    "n": 3,
     "grupos": {
       "DER-13607-PROCE. CIVILES Y MERCANTILES": [
         {
@@ -11811,8 +11811,8 @@ let profesores={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 8.5,
-    "n": 18,
+    "general": 8.3684,
+    "n": 19,
     "grupos": {
       "EIN-11101-INT. A LAS R. INTERNACIONALES": [
         {
@@ -12801,8 +12801,8 @@ let profesores={
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
-    "general": 3.5833,
-    "n": 12,
+    "general": 3.7692,
+    "n": 13,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -13988,9 +13988,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10131-ESTRATEGIAS DE COMUNIC. ESCRIT": [
         {
@@ -17495,8 +17495,8 @@ let profesores={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.3696,
-    "n": 92,
+    "general": 7.3118,
+    "n": 93,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -18378,7 +18378,6 @@ let mejoresPorDepto={
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
-    "GUSTAVO CARDENAS SORIANO",
     "DENISE MEJAN GANEM",
     "ANA MARIA ZORRILLA NORIEGA",
     "JOSE OMAR HERNANDEZ SALGADO",
@@ -18387,7 +18386,8 @@ let mejoresPorDepto={
     "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
     "IRVIN ARTURO CASTILLO CESAREO",
     "LUIS ENRIQUE PEREDA TREJO",
-    "MARIANA CALDERON ARAMBURU"
+    "MARIANA CALDERON ARAMBURU",
+    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
     "MARTA ROBLES CARTES",
@@ -18458,8 +18458,8 @@ let mejoresPorDepto={
     "JAEN DANAE TORRES DE LA ROSA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "ALEJANDRA SOLIS GONZALEZ",
-    "ANA TAMARIT AMIEVA"
+    "ANA TAMARIT AMIEVA",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "PAVEL REAL PEREZ",

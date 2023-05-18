@@ -1,4 +1,4 @@
-let actualizado="1684247695521.961";
+let actualizado="1684420539498.782";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -16844,8 +16844,8 @@ let misProfesData={
   },
   "GUSTAVO CARDENAS SORIANO": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
-    "general": 10.0,
-    "n": 2
+    "general": 8.3333,
+    "n": 3
   },
   "LUZ DEL CARMEN CARRILLO CAREAGA": {
     "link": "https://www.misprofesores.com/profesores/Luz-del-Carmen-Carrillo-Careaga_70187",
@@ -17079,8 +17079,8 @@ let misProfesData={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 8.5,
-    "n": 18
+    "general": 8.3684,
+    "n": 19
   },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
@@ -17203,9 +17203,9 @@ let misProfesData={
     "n": 29
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.65,
+    "n": 20
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17779,8 +17779,8 @@ let misProfesData={
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
-    "general": 3.5833,
-    "n": 12
+    "general": 3.7692,
+    "n": 13
   },
   "FERNANDO RODRIGUEZ DOVAL": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
@@ -17928,9 +17928,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -18089,8 +18089,8 @@ let misProfesData={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.3696,
-    "n": 92
+    "general": 7.3118,
+    "n": 93
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
