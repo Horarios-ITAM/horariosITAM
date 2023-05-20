@@ -1,4 +1,4 @@
-let actualizado="1684420539517.7244";
+let actualizado="1684593327670.5942";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -577,8 +577,8 @@ let profesores={
   },
   "JOHN BRADFORD MCBRIDE PITTS": {
     "link": "https://www.misprofesores.com/profesores/John-Bradford-McBride-Pitts_10734",
-    "general": 7.7333,
-    "n": 30,
+    "general": 7.7742,
+    "n": 31,
     "grupos": {
       "ADM-11013-ADMON. INTERNACIONAL": [
         {
@@ -3170,9 +3170,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3914,8 +3911,8 @@ let profesores={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.525,
-    "n": 40,
+    "general": 6.5122,
+    "n": 41,
     "grupos": {
       "COM-23101-INTELIGENCIA ARTIFICIAL": [
         {
@@ -4231,8 +4228,8 @@ let profesores={
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
-    "general": 8.4079,
-    "n": 76,
+    "general": 8.4026,
+    "n": 77,
     "grupos": {
       "CON-10002-CONTABILIDAD INTERMEDIA, I": [
         {
@@ -5115,9 +5112,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -5552,8 +5546,8 @@ let profesores={
   },
   "JEFFREY ALLEN WELDON": {
     "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",
-    "general": 6.0405,
-    "n": 74,
+    "general": 6.0267,
+    "n": 75,
     "grupos": {
       "CSO-15021-ELECCION PUBLICA,I": [
         {
@@ -9094,8 +9088,8 @@ let profesores={
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.7778,
-    "n": 9,
+    "general": 9.8,
+    "n": 10,
     "grupos": {
       "ECO-11103-ECONOMIA, III": [
         {
@@ -18269,8 +18263,8 @@ let profesores={
   },
   "ENRIQUE MELROSE AGUILAR": {
     "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
-    "general": 7.6667,
-    "n": 18,
+    "general": 7.6316,
+    "n": 19,
     "grupos": {
       "SDI-14105-INTRODUCCION A LA INGENIERIA": [
         {
@@ -18369,12 +18363,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [

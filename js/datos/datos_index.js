@@ -1,4 +1,4 @@
-let actualizado="1684420539498.782";
+let actualizado="1684593327650.4844";
 let periodo="PRIMAVERA 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2242";
@@ -16929,8 +16929,8 @@ let misProfesData={
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.7778,
-    "n": 9
+    "general": 9.8,
+    "n": 10
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
@@ -17169,8 +17169,8 @@ let misProfesData={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.525,
-    "n": 40
+    "general": 6.5122,
+    "n": 41
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
@@ -17299,8 +17299,8 @@ let misProfesData={
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
-    "general": 8.4079,
-    "n": 76
+    "general": 8.4026,
+    "n": 77
   },
   "PABLO KALMANOVITZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Kalmanovitz-Gonz\u00e1lez_153830",
@@ -17346,11 +17346,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.619,
     "n": 21
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.65,
-    "n": 40
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -17407,11 +17402,6 @@ let misProfesData={
     "general": 5.0,
     "n": 1
   },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
-  },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
     "general": 8.3333,
@@ -17429,8 +17419,8 @@ let misProfesData={
   },
   "JOHN BRADFORD MCBRIDE PITTS": {
     "link": "https://www.misprofesores.com/profesores/John-Bradford-McBride-Pitts_10734",
-    "general": 7.7333,
-    "n": 30
+    "general": 7.7742,
+    "n": 31
   },
   "JOSE JAVIER MEDRANO PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
@@ -17454,8 +17444,8 @@ let misProfesData={
   },
   "ENRIQUE MELROSE AGUILAR": {
     "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
-    "general": 7.6667,
-    "n": 18
+    "general": 7.6316,
+    "n": 19
   },
   "EDUARDO MENACHE VARELA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
@@ -18079,8 +18069,8 @@ let misProfesData={
   },
   "JEFFREY ALLEN WELDON": {
     "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",
-    "general": 6.0405,
-    "n": 74
+    "general": 6.0267,
+    "n": 75
   },
   "GUILLERMO ZAMARRIPA ESCAMILLA": {
     "link": "https://www.misprofesores.com/profesores/Guillermo-Zamarripa-Escamilla_37101",
