@@ -77,7 +77,8 @@ class GraceScrapper:
                 p=re.findall(".*\((.*)\)",link.string)[0]
                 if utils.periodoValido(p):
                     urls[p]=link["href"]
-
+                    
+        self._print(f'Se encontraron urls:{urls}')
         periodo=utils.periodoMasReciente(list(urls.keys()))
         dropDownURL=urljoin(urlServiciosNoPersonalizados,urls[periodo])
 
@@ -176,7 +177,7 @@ class GraceScrapper:
 
 
 if __name__=="__main__":
-    g=GraceScrapper()
+    g=GraceScrapper(verbose=True)
     #g.scrap()
     
 

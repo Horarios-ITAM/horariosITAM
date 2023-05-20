@@ -113,7 +113,7 @@ def rankPeriodo(periodo):
 
 
 def periodoMasReciente(periodos):
-    return sorted(periodos,key=rankPeriodo,reverse=True)[0]
+    return sorted(periodos,key=rankPeriodo,reverse=True)[-1]
 
 def periodoValido(periodo):
     periodos=['PRIMAVERA','VERANO','OTOÑO']
@@ -144,6 +144,9 @@ if __name__=="__main__":
     assert ordenados==periodos
     for p in periodos:
         assert periodoValido(p)
+
+    i=['PRIMAVERA 2023 LICENCIATURA','VERANO 2023 LICENCIATURA']
+    print(sorted(i,key=rankPeriodo,reverse=True))
     
 
     
