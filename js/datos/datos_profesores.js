@@ -1,4 +1,4 @@
-let actualizado="1684610020575.17";
+let actualizado="1684766043352.1506";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1111,8 +1111,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 8.6,
-    "n": 5,
+    "general": 6.2222,
+    "n": 9,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -1974,11 +1974,11 @@ let mejoresPorDepto={
     "GERARDO RAFAEL VALENZUELA CUBILLAS"
   ],
   "ESTADISTICA": [
-    "HUGO CUEVAS BRAVO",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "JOSE MANUEL LECUANDA ONTIVEROS",
     "ILEANA GARCIA CONDE",
     "JOSE DAVID SANTOS SALAZAR",
+    "HUGO CUEVAS BRAVO",
     "MIGUEL ANGEL MENDEZ ANTONIO"
   ],
   "LENGUAS (LEN)": [
