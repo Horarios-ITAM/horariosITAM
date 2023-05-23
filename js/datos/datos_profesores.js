@@ -1,4 +1,4 @@
-let actualizado="1684766043352.1506";
+let actualizado="1684852444695.9534";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -868,8 +868,8 @@ let profesores={
   },
   "FERNANDO BUENO AJA": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
-    "general": 8.75,
-    "n": 4,
+    "general": 7.8,
+    "n": 5,
     "grupos": {
       "DER-17703-DERECHO FISCAL I": [
         {
@@ -1111,8 +1111,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 6.2222,
-    "n": 9,
+    "general": 5.8,
+    "n": 10,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {

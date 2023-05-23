@@ -1,4 +1,4 @@
-let actualizado="1684766043349.636";
+let actualizado="1684852444692.941";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1854,8 +1854,8 @@ let misProfesData={
   },
   "FERNANDO BUENO AJA": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
-    "general": 8.75,
-    "n": 4
+    "general": 7.8,
+    "n": 5
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
@@ -1884,8 +1884,8 @@ let misProfesData={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 6.2222,
-    "n": 9
+    "general": 5.8,
+    "n": 10
   },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
