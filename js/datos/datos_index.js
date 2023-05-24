@@ -1,4 +1,4 @@
-let actualizado="1684852444692.941";
+let actualizado="1684938820081.3052";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1232,6 +1232,29 @@ let clases={
       }
     ]
   },
+  "EST-24104": {
+    "nombre": "EST-24104-ESTADISTICA APLICADA, I",
+    "clave": "EST-24104",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EST-24104-ESTADISTICA APLICADA, I",
+        "profesor": "DANTE GABRIEL CAMPOS SALIDO",
+        "creditos": "6",
+        "horario": "10:00-12:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH211",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "12:00"
+      }
+    ]
+  },
   "EST-24126": {
     "nombre": "EST-24126-CALCULO DE PROBABILIDADES I",
     "clave": "EST-24126",
@@ -1854,8 +1877,13 @@ let misProfesData={
   },
   "FERNANDO BUENO AJA": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
-    "general": 7.8,
-    "n": 5
+    "general": 6.8333,
+    "n": 6
+  },
+  "DANTE GABRIEL CAMPOS SALIDO": {
+    "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
+    "general": 9.1739,
+    "n": 92
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
@@ -1884,8 +1912,8 @@ let misProfesData={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 5.8,
-    "n": 10
+    "general": 5.4545,
+    "n": 11
   },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
@@ -1939,8 +1967,8 @@ let misProfesData={
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
-    "general": 7.76,
-    "n": 75
+    "general": 7.7895,
+    "n": 76
   },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
@@ -2034,8 +2062,8 @@ let misProfesData={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.3118,
-    "n": 93
+    "general": 7.3085,
+    "n": 94
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",

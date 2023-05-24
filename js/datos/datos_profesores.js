@@ -1,4 +1,4 @@
-let actualizado="1684852444695.9534";
+let actualizado="1684938820083.8284";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -868,8 +868,8 @@ let profesores={
   },
   "FERNANDO BUENO AJA": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
-    "general": 7.8,
-    "n": 5,
+    "general": 6.8333,
+    "n": 6,
     "grupos": {
       "DER-17703-DERECHO FISCAL I": [
         {
@@ -1111,8 +1111,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 5.8,
-    "n": 10,
+    "general": 5.4545,
+    "n": 11,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -1298,6 +1298,32 @@ let profesores={
             "JU"
           ],
           "salon": "RH212",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "DANTE GABRIEL CAMPOS SALIDO": {
+    "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
+    "general": 9.1739,
+    "n": 92,
+    "grupos": {
+      "EST-24104-ESTADISTICA APLICADA, I": [
+        {
+          "grupo": "001",
+          "nombre": "EST-24104-ESTADISTICA APLICADA, I",
+          "profesor": "DANTE GABRIEL CAMPOS SALIDO",
+          "creditos": "6",
+          "horario": "10:00-12:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
@@ -1568,8 +1594,8 @@ let profesores={
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
-    "general": 7.76,
-    "n": 75,
+    "general": 7.7895,
+    "n": 76,
     "grupos": {
       "MAT-12101-CALCULO, II": [
         {
@@ -1830,8 +1856,8 @@ let profesores={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.3118,
-    "n": 93,
+    "general": 7.3085,
+    "n": 94,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -1974,12 +2000,13 @@ let mejoresPorDepto={
     "GERARDO RAFAEL VALENZUELA CUBILLAS"
   ],
   "ESTADISTICA": [
+    "DANTE GABRIEL CAMPOS SALIDO",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "JOSE MANUEL LECUANDA ONTIVEROS",
     "ILEANA GARCIA CONDE",
     "JOSE DAVID SANTOS SALAZAR",
-    "HUGO CUEVAS BRAVO",
-    "MIGUEL ANGEL MENDEZ ANTONIO"
+    "MIGUEL ANGEL MENDEZ ANTONIO",
+    "HUGO CUEVAS BRAVO"
   ],
   "LENGUAS (LEN)": [
     "CRISTINA ARAGON VELASCO",
