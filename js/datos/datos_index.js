@@ -1,4 +1,4 @@
-let actualizado="1685025226975.7305";
+let actualizado="1685111636441.4136";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -871,6 +871,29 @@ let clases={
       }
     ]
   },
+  "ECO-10301": {
+    "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
+    "clave": "ECO-10301",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
+        "profesor": "MARIA CRISTINA RIOS ESPINOSA",
+        "creditos": "6",
+        "horario": "11:00-14:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH110",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "14:00"
+      }
+    ]
+  },
   "ECO-11121": {
     "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
     "clave": "ECO-11121",
@@ -926,7 +949,7 @@ let clases={
         "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
         "profesor": "ALEJANDRO DIAZ HERRERA",
         "creditos": "6",
-        "horario": "10:00-12:00",
+        "horario": "10:00-13:00",
         "dias": [
           "LU",
           "MA",
@@ -936,7 +959,7 @@ let clases={
         "salon": "RH307",
         "campus": "RIO HONDO",
         "inicio": "10:00",
-        "fin": "12:00"
+        "fin": "13:00"
       }
     ]
   },
@@ -1006,6 +1029,29 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
+      }
+    ]
+  },
+  "ECO-18109": {
+    "nombre": "ECO-18109-POLITICAS DE COMPETENCIA ECONO",
+    "clave": "ECO-18109",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-18109-POLITICAS DE COMPETENCIA ECONO",
+        "profesor": "DAVID LAMB DE VALDES",
+        "creditos": "6",
+        "horario": "08:00-10:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH312",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "10:00"
       }
     ]
   },

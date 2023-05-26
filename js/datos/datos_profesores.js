@@ -1,4 +1,4 @@
-let actualizado="1685025226978.0757";
+let actualizado="1685111636443.7307";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -891,6 +891,29 @@ let profesores={
       ]
     }
   },
+  "MARIA CRISTINA RIOS ESPINOSA": {
+    "grupos": {
+      "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
+          "profesor": "MARIA CRISTINA RIOS ESPINOSA",
+          "creditos": "6",
+          "horario": "11:00-14:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
   "RICARDO ENRIQUE MIRANDA MONTERO": {
     "grupos": {
       "ECO-11121-MICROECONOMIA AVANZADA I": [
@@ -948,7 +971,7 @@ let profesores={
           "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
           "profesor": "ALEJANDRO DIAZ HERRERA",
           "creditos": "6",
-          "horario": "10:00-12:00",
+          "horario": "10:00-13:00",
           "dias": [
             "LU",
             "MA",
@@ -958,7 +981,7 @@ let profesores={
           "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "10:00",
-          "fin": "12:00"
+          "fin": "13:00"
         }
       ]
     }
@@ -1034,6 +1057,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "DAVID LAMB DE VALDES": {
+    "grupos": {
+      "ECO-18109-POLITICAS DE COMPETENCIA ECONO": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18109-POLITICAS DE COMPETENCIA ECONO",
+          "profesor": "DAVID LAMB DE VALDES",
+          "creditos": "6",
+          "horario": "08:00-10:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH312",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -1992,9 +2038,11 @@ let mejoresPorDepto={
     "RICARDO SERGIO FADL KURI",
     "FELIX VELEZ FERNANDEZ VARELA",
     "ALBERTO RAMIREZ DE AGUILAR WILLE",
+    "MARIA CRISTINA RIOS ESPINOSA",
     "RICARDO ENRIQUE MIRANDA MONTERO",
     "ALEJANDRO DIAZ HERRERA",
-    "GUILLERMO BENAVIDES PERALES"
+    "GUILLERMO BENAVIDES PERALES",
+    "DAVID LAMB DE VALDES"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "GERARDO RAFAEL VALENZUELA CUBILLAS"
