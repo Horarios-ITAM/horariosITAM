@@ -1,4 +1,4 @@
-let actualizado="1685111636441.4136";
+let actualizado="1685198024003.9104";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1923,8 +1923,8 @@ let misProfesData={
   },
   "FERNANDO BUENO AJA": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
-    "general": 6.8333,
-    "n": 6
+    "general": 6.1429,
+    "n": 7
   },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
@@ -2055,6 +2055,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Bernardo-Ram\u00edrez-Figueroa_125410",
     "general": 8.0,
     "n": 1
+  },
+  "MARIA CRISTINA RIOS ESPINOSA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
+    "general": 6.3333,
+    "n": 12
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",

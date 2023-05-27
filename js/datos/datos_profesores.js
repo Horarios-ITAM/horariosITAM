@@ -1,4 +1,4 @@
-let actualizado="1685111636443.7307";
+let actualizado="1685198024006.2969";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -868,8 +868,8 @@ let profesores={
   },
   "FERNANDO BUENO AJA": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
-    "general": 6.8333,
-    "n": 6,
+    "general": 6.1429,
+    "n": 7,
     "grupos": {
       "DER-17703-DERECHO FISCAL I": [
         {
@@ -892,6 +892,9 @@ let profesores={
     }
   },
   "MARIA CRISTINA RIOS ESPINOSA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
+    "general": 6.3333,
+    "n": 12,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
@@ -2036,9 +2039,9 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "RICARDO SERGIO FADL KURI",
+    "MARIA CRISTINA RIOS ESPINOSA",
     "FELIX VELEZ FERNANDEZ VARELA",
     "ALBERTO RAMIREZ DE AGUILAR WILLE",
-    "MARIA CRISTINA RIOS ESPINOSA",
     "RICARDO ENRIQUE MIRANDA MONTERO",
     "ALEJANDRO DIAZ HERRERA",
     "GUILLERMO BENAVIDES PERALES",
