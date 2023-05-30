@@ -1,4 +1,4 @@
-let actualizado="1685370829074.837";
+let actualizado="1685457242560.6472";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -60,7 +60,7 @@ let clases={
         "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
         "profesor": "MARGARET KATHRYN  SLOAN",
         "creditos": "6",
-        "horario": "15:00-19:00",
+        "horario": "16:00-20:00",
         "dias": [
           "LU",
           "MA",
@@ -69,8 +69,8 @@ let clases={
         ],
         "salon": "RH313",
         "campus": "RIO HONDO",
-        "inicio": "15:00",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "20:00"
       },
       {
         "grupo": "002",
