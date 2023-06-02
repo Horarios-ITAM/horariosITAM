@@ -1,4 +1,4 @@
-let actualizado="1685630026240.985";
+let actualizado="1685716432015.676";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -913,6 +913,32 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "DAVID RUELAS RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
+    "general": 9.1639,
+    "n": 61,
+    "grupos": {
+      "ECO-10517-MACROECONOMETRIA APLICADA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
+          "profesor": "DAVID RUELAS RODRIGUEZ",
+          "creditos": "7",
+          "horario": "07:00-09:00",
+          "dias": [
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -1834,8 +1860,8 @@ let profesores={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7683,
-    "n": 82,
+    "general": 8.7831,
+    "n": 83,
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
         {
@@ -2038,6 +2064,7 @@ let mejoresPorDepto={
     "ALEJANDRO LASTRA BARBA"
   ],
   "ECONOMIA": [
+    "DAVID RUELAS RODRIGUEZ",
     "RICARDO SERGIO FADL KURI",
     "MARIA CRISTINA RIOS ESPINOSA",
     "FELIX VELEZ FERNANDEZ VARELA",

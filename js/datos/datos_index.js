@@ -1,4 +1,4 @@
-let actualizado="1685630026238.7734";
+let actualizado="1685716432012.3044";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -891,6 +891,29 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "14:00"
+      }
+    ]
+  },
+  "ECO-10517": {
+    "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
+    "clave": "ECO-10517",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
+        "profesor": "DAVID RUELAS RODRIGUEZ",
+        "creditos": "7",
+        "horario": "07:00-09:00",
+        "dias": [
+          "MA",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "RH110",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -2061,10 +2084,15 @@ let misProfesData={
     "general": 6.3333,
     "n": 12
   },
+  "DAVID RUELAS RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
+    "general": 9.1639,
+    "n": 61
+  },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7683,
-    "n": 82
+    "general": 8.7831,
+    "n": 83
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
