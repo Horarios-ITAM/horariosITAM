@@ -1,4 +1,4 @@
-let actualizado="1685975641582.2546";
+let actualizado="1686062037760.9785";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1528,8 +1528,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.7436,
-    "n": 39,
+    "general": 6.725,
+    "n": 40,
     "grupos": {
       "MAT-11100-MATEMATICAS, I": [
         {

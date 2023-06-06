@@ -1,4 +1,4 @@
-let actualizado="1685975641579.85";
+let actualizado="1686062037758.5908";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1956,8 +1956,8 @@ let misProfesData={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.7436,
-    "n": 39
+    "general": 6.725,
+    "n": 40
   },
   "TOUFIK CHAIBAT": {
     "link": "https://www.misprofesores.com/profesores/Toufik-Chaibat_90020",
