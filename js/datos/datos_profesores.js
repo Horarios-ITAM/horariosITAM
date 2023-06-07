@@ -1,4 +1,4 @@
-let actualizado="1686062037760.9785";
+let actualizado="1686148444959.771";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1040,8 +1040,8 @@ let profesores={
   },
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
-    "general": 7.0938,
-    "n": 32,
+    "general": 7.1818,
+    "n": 33,
     "grupos": {
       "ECO-15101-FINANZAS PUBLICAS": [
         {
@@ -1186,8 +1186,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 5.8333,
-    "n": 12,
+    "general": 5.5385,
+    "n": 13,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -1210,8 +1210,8 @@ let profesores={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.0952,
-    "n": 21,
+    "general": 7.0,
+    "n": 22,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -2083,8 +2083,8 @@ let mejoresPorDepto={
     "JOSE MANUEL LECUANDA ONTIVEROS",
     "ILEANA GARCIA CONDE",
     "JOSE DAVID SANTOS SALAZAR",
-    "HUGO CUEVAS BRAVO",
-    "MIGUEL ANGEL MENDEZ ANTONIO"
+    "MIGUEL ANGEL MENDEZ ANTONIO",
+    "HUGO CUEVAS BRAVO"
   ],
   "LENGUAS (LEN)": [
     "CRISTINA ARAGON VELASCO",

@@ -1,4 +1,4 @@
-let actualizado="1686062037758.5908";
+let actualizado="1686148444956.95";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1981,8 +1981,8 @@ let misProfesData={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 5.8333,
-    "n": 12
+    "general": 5.5385,
+    "n": 13
   },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
@@ -1996,8 +1996,8 @@ let misProfesData={
   },
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
-    "general": 7.0938,
-    "n": 32
+    "general": 7.1818,
+    "n": 33
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
@@ -2096,8 +2096,8 @@ let misProfesData={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.0952,
-    "n": 21
+    "general": 7.0,
+    "n": 22
   },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
