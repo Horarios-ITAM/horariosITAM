@@ -1,4 +1,4 @@
-let actualizado="1686148444959.771";
+let actualizado="1686234826677.0999";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1186,8 +1186,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 5.5385,
-    "n": 13,
+    "general": 5.7143,
+    "n": 14,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
