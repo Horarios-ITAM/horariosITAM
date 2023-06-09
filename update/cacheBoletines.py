@@ -1,46 +1,64 @@
-import os,itertools,requests,string,time,sys
+import os,itertools,requests,string,time,sys,argparse
 import utils
 
-BASE_DIR='assets/boletines'
 
-def fuerza_bruta(URL):
+def fuerza_bruta(url,base_dir):
+    """
+    Intenta encontrar y descargar boletines por fuerza bruta.
+    I.e. asume que no se conocen las claves de los programas ('COM-H')
+    y los intenta encontrar.
+
+    Intenta todas las combinaciones del formato AA-A, AAA-A, ..., ZZ-Z, ZZZ-Z.
+
+    Se recomienda usar muy infrecuentemente.
+    """
+
+    # El producto cruz 
     prod=itertools.product(
         string.ascii_uppercase,
         string.ascii_uppercase,
         ['']+list(string.ascii_uppercase),
         string.ascii_uppercase,
     )
+    # Para cada combinacion
     for i,j,k,letra in prod:
         programa=f'{i}{j}{k}-{letra}'
         try:
-            print(f'{URL}{programa}.pdf')
-            utils.descargaArchivo(f'{BASE_DIR}/{programa}.pdf',f'{URL}{programa}.pdf')
+            # Intentamos descargar - solo es exitoso si el programa existe.
+            print(f'{url}{programa}.pdf')
+            utils.descargaArchivo(f'{base_dir}/{programa}.pdf',f'{url}{programa}.pdf')
             print('Encontrado y descargado!')
         except:continue
 
-def actualiza_ya_encontrados(URL):
+def actualiza_ya_encontrados(url,base_dir):
+    """
+    Asume que ya existen programas en el directorio 'base_dir'
+    e intenta actualizarlos descargando el archivo con el mismo nombre.
+    """
+
     # Para cada archivo PDF en boletines/
-    for fname in os.listdir(BASE_DIR):
+    for fname in os.listdir(base_dir):
         if '.pdf' not in fname: continue
-        print(fname)
+        
+        print(f'Intentando descargar {fname}')
 
         # Intenta descargarlo
         try:
-            utils.descargaArchivo(f'{BASE_DIR}/{fname}',f'{URL}{fname}')
+            utils.descargaArchivo(f'{base_dir}/{fname}',f'{url}{fname}')
         except:
             print('No se pudo descargar {fname}')
 
 
-def agregaLinksDoc():
+def agregaLinksDoc(base_dir):
     sHTML=''
     # Para cada archivo PDF en boletines/
-    for fname in sorted(os.listdir(BASE_DIR)):
+    for fname in sorted(os.listdir(base_dir)):
         if '.pdf' not in fname: continue
         # Agrega un link a sHTML de la forma:
-        sHTML+=f'<a href={BASE_DIR}/{fname} target=_blank>{fname.split(".")[0]}</a><br>\n'
+        sHTML+=f'<a href={base_dir}/{fname} target=_blank>{fname.split(".")[0]}</a><br>\n'
 
     # Lee el template
-    with open(f'{BASE_DIR}/boletinesTemplate.html', 'r') as f:
+    with open(f'{base_dir}/boletinesTemplate.html', 'r') as f:
         template=f.read()
     
     # Y reemplaza la lista de ligas en su lugar
@@ -52,20 +70,42 @@ def agregarActualizado(html):
 
 
 if __name__=='__main__':
-    # Direccion base de boletines
-    URL='http://escolar.itam.mx/licenciaturas/boletines/'
+
+    # Parseador de argumentos
+    parser=argparse.ArgumentParser(
+        prog='Cache Boletines',
+        description='Intenta descargar/actualizar copias de los programas academicos del ITAM.'
+    )
+    parser.add_argument(
+        '--url_boletines',
+        default='http://escolar.itam.mx/licenciaturas/boletines/',
+        help='La URL donde se encuentran los boletines publicados. Por ejemplo "[url_boletines]/COM-H.pdf".'
+    )
+    parser.add_argument(
+        '--modo',
+        choices=['actualiza','encuentra','html'],
+        default='actualiza',
+        help='Actualiza los boletines ya encontrados y que vivien en --dir (actualiza),\
+            encuentra boletines con fuerza bruta (encuentra) o solo actualiza el archivo boletines.html (html).'
+    )
+    parser.add_argument(
+        '--dir',
+        default='assets/boletines',
+        help='Directorio en el cual se encuentran/guardan los boletines descargados.'
+    )
+    args=vars(parser.parse_args())
 
 
-    if len(sys.argv)>1 and sys.argv[1]=='bruta':
+    if 'encuentra' in args['modo']:
         print('Obteniendo boletines por fuerza bruta')
-        fuerza_bruta(URL)
+        fuerza_bruta(args['url_boletines'],args['dir'])
 
-    else:
+    elif 'actualiza' in args['modo']:
         print('Actualizando boletines ya encontrados')
-        actualiza_ya_encontrados(URL)
+        actualiza_ya_encontrados(args['url_boletines'],args['dir'])
     
     # Agregamos links a template y regresamos el html
-    conLinks=agregaLinksDoc()
+    conLinks=agregaLinksDoc(args['dir'])
     # Agregamos la fecha de actualizacion
     conActualizado=agregarActualizado(conLinks)
 

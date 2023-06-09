@@ -4,7 +4,9 @@ on:
   schedule: # Se scrappean datos periodicamente - NOTA: todos los tiempos en UTC.
     - cron: '30 14 * * *' # Actualizamos los horarios todos los dias (aprox 8:30 hr Mexico)
     - cron: '45 14 * * *' # Actualizamos los calendatios todos los dias (aprox 8:45 hr Mexico)
-    - cron: '15 14 1 * *' # Actualizamos los boletines el primero de cada mes (aprox 8:45 hr Mexico)
+    - cron: '0 0 * * 5'   # Actualizamos los boletines todos los viernes
+    - cron: '15 14 1 * *' # Encontramos por fuerza bruta boletines los primeros de cada mes.
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,9 +31,14 @@ jobs:
         python3 update/cacheCalendarios.py
 
     - name: Run update.py # Actualizamos boletines
-      if: github.event.schedule == '15 14 1 * *'
+      if: github.event.schedule == '0 0 * * 5'
       run: |
         python3 update/cacheBoletines.py
+    
+    - name: Run update.py # Actualizamos boletines por fuerza bruta
+      if: github.event.schedule == '15 14 1 * *'
+      run: |
+        python3 update/cacheBoletines.py --modo encuentra
 
     - name: Commit files # Hacemos commit de los cambios.
       run: |
