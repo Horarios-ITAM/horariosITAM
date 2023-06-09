@@ -1,4 +1,4 @@
-let actualizado="1686234826674.8262";
+let actualizado="1686321215218.155";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -230,99 +230,6 @@ let clases={
       }
     ]
   },
-  "CLE-10201": {
-    "nombre": "CLE-10201-INGLES INTENSIVO",
-    "clave": "CLE-10201",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CLE-10201-INGLES INTENSIVO",
-        "profesor": "JOSE FRANCISCO CASTILLO NAVARRETE",
-        "creditos": "6",
-        "horario": "11:00-14:30",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "RHSA3",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "14:30"
-      }
-    ]
-  },
-  "CLE-10202": {
-    "nombre": "CLE-10202-INGLES AVANZADO",
-    "clave": "CLE-10202",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CLE-10202-INGLES AVANZADO",
-        "profesor": "",
-        "creditos": "4",
-        "horario": "11:00-14:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RHSA4",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "14:00"
-      }
-    ]
-  },
-  "CLE-10311": {
-    "nombre": "CLE-10311-FRANCES, I",
-    "clave": "CLE-10311",
-    "grupos": [
-      {
-        "grupo": "01",
-        "nombre": "CLE-10311-FRANCES, I",
-        "profesor": "TOUFIK CHAIBAT",
-        "creditos": "4",
-        "horario": "12:00-15:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH310",
-        "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "15:00"
-      }
-    ]
-  },
-  "CLE-10312": {
-    "nombre": "CLE-10312-FRANCES II",
-    "clave": "CLE-10312",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CLE-10312-FRANCES II",
-        "profesor": "TOUFIK CHAIBAT",
-        "creditos": "4",
-        "horario": "12:00-15:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH310",
-        "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "15:00"
-      }
-    ]
-  },
   "COM-11302": {
     "nombre": "COM-11302-ALGORITMICA Y PROGRAMACION",
     "clave": "COM-11302",
@@ -368,6 +275,24 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
+        "profesor": "JOSE CALIXTO CANO",
+        "creditos": "7",
+        "horario": "07:00-09:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "RHCC302",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -389,6 +314,24 @@ let clases={
           "VI"
         ],
         "salon": "RHCC101",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "11:35"
+      },
+      {
+        "grupo": "002",
+        "nombre": "COM-16303-MODELADO COMPUT. PARA NEGOCIOS",
+        "profesor": "JAVIER TERRES ARIAS",
+        "creditos": "9",
+        "horario": "09:00-11:35",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:35"
@@ -440,29 +383,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:35"
-      }
-    ]
-  },
-  "COM-23111": {
-    "nombre": "COM-23111-SISTEMAS DE INFO. GEOGRAFICA",
-    "clave": "COM-23111",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "COM-23111-SISTEMAS DE INFO. GEOGRAFICA",
-        "profesor": "JAVIER TERRES ARIAS",
-        "creditos": "6",
-        "horario": "07:00-09:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RHCC202",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
       }
     ]
   },
@@ -528,6 +448,24 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
+      },
+      {
+        "grupo": "003",
+        "nombre": "CON-10100-CONTABILIDAD, I",
+        "profesor": "MONICA GARCIA CEREZO",
+        "creditos": "6",
+        "horario": "11:00-13:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "RH312",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "13:00"
       }
     ]
   },
@@ -551,30 +489,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
-      }
-    ]
-  },
-  "CON-14100": {
-    "nombre": "CON-14100-CONTABILIDAD ADMINISTRATIVA, I",
-    "clave": "CON-14100",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CON-14100-CONTABILIDAD ADMINISTRATIVA, I",
-        "profesor": "MONICA GARCIA CEREZO",
-        "creditos": "9",
-        "horario": "11:00-14:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "RH312",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "14:00"
       }
     ]
   },
@@ -647,28 +561,6 @@ let clases={
       }
     ]
   },
-  "CSO-14033": {
-    "nombre": "CSO-14033-POPULISMO EN AMERICA LATINA",
-    "clave": "CSO-14033",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CSO-14033-POPULISMO EN AMERICA LATINA",
-        "profesor": "HORACIO VIVES SEGL",
-        "creditos": "6",
-        "horario": "09:00-13:00",
-        "dias": [
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH209",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "13:00"
-      }
-    ]
-  },
   "CSO-16046": {
     "nombre": "CSO-16046-POL. PUBLICAS DE EDUCAC Y DESA",
     "clave": "CSO-16046",
@@ -710,52 +602,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "14:00",
         "fin": "17:00"
-      }
-    ]
-  },
-  "DER-15078": {
-    "nombre": "DER-15078-POPULISMO, CONST, PODER JUDIC.",
-    "clave": "DER-15078",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "DER-15078-POPULISMO, CONST, PODER JUDIC.",
-        "profesor": "DIEGO DE GUADALUPE ROMERO RIVERO",
-        "creditos": "6",
-        "horario": "07:00-09:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH209",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
-      }
-    ]
-  },
-  "DER-15079": {
-    "nombre": "DER-15079-POPULISMO, CONST, PODER JUDIC",
-    "clave": "DER-15079",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "DER-15079-POPULISMO, CONST, PODER JUDIC",
-        "profesor": "DIEGO DE GUADALUPE ROMERO RIVERO",
-        "creditos": "4",
-        "horario": "07:00-09:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH209",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
       }
     ]
   },
@@ -868,29 +714,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:40"
-      }
-    ]
-  },
-  "ECO-10301": {
-    "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
-    "clave": "ECO-10301",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
-        "profesor": "MARIA CRISTINA RIOS ESPINOSA",
-        "creditos": "6",
-        "horario": "11:00-14:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH110",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "14:00"
       }
     ]
   },
@@ -1075,29 +898,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "10:00"
-      }
-    ]
-  },
-  "EIN-19137": {
-    "nombre": "EIN-19137-PROCESOS Y MEDIOS DE COMUNICAC",
-    "clave": "EIN-19137",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "EIN-19137-PROCESOS Y MEDIOS DE COMUNICAC",
-        "profesor": "GERARDO RAFAEL VALENZUELA CUBILLAS",
-        "creditos": "6",
-        "horario": "11:30-13:30",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH313",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:30"
       }
     ]
   },
@@ -1450,29 +1250,6 @@ let clases={
       }
     ]
   },
-  "MAT-10101": {
-    "nombre": "MAT-10101-MET. CUANTITATIVOS PARA DER.",
-    "clave": "MAT-10101",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-10101-MET. CUANTITATIVOS PARA DER.",
-        "profesor": "SHARON MAGALI VALVERDE ESPARZA",
-        "creditos": "6",
-        "horario": "12:00-14:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH112",
-        "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "14:00"
-      }
-    ]
-  },
   "MAT-11100": {
     "nombre": "MAT-11100-MATEMATICAS, I",
     "clave": "MAT-11100",
@@ -1516,27 +1293,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "14:00"
-      }
-    ]
-  },
-  "MAT-11310": {
-    "nombre": "MAT-11310-MATEMATICAS, III",
-    "clave": "MAT-11310",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-11310-MATEMATICAS, III",
-        "profesor": "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE",
-        "creditos": "8",
-        "horario": "08:00-11:00",
-        "dias": [
-          "LU",
-          "MA"
-        ],
-        "salon": "RH111",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "11:00"
       }
     ]
   },
@@ -1619,31 +1375,10 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH308",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "12:00"
-      }
-    ]
-  },
-  "MAT-12310": {
-    "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-    "clave": "MAT-12310",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-        "profesor": "ANGEL PEREZ JUAREZ",
-        "creditos": "8",
-        "horario": "08:00-10:00",
-        "dias": [
-          "LU",
-          "MA"
-        ],
-        "salon": "RH309",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "10:00"
       }
     ]
   },
@@ -1738,29 +1473,6 @@ let clases={
       }
     ]
   },
-  "MAT-14200": {
-    "nombre": "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)",
-    "clave": "MAT-14200",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)",
-        "profesor": "CONCEPCION RUIZ RUIZ FUNES",
-        "creditos": "6",
-        "horario": "16:30-18:30",
-        "dias": [
-          "LU",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "RH315",
-        "campus": "RIO HONDO",
-        "inicio": "16:30",
-        "fin": "18:30"
-      }
-    ]
-  },
   "MAT-14201": {
     "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
     "clave": "MAT-14201",
@@ -1781,29 +1493,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
-      }
-    ]
-  },
-  "MAT-14250": {
-    "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
-    "clave": "MAT-14250",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
-        "profesor": "CONCEPCION RUIZ RUIZ FUNES",
-        "creditos": "6",
-        "horario": "16:30-18:30",
-        "dias": [
-          "LU",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "RH315",
-        "campus": "RIO HONDO",
-        "inicio": "16:30",
-        "fin": "18:30"
       }
     ]
   },
@@ -1919,6 +1608,23 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "15:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-24630-MATEM. APLICADAS A LA ECONOMIA",
+        "profesor": "ANGEL PEREZ JUAREZ",
+        "creditos": "6",
+        "horario": "13:00-15:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH314",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "15:00"
       }
     ]
   }
@@ -1949,6 +1655,11 @@ let misProfesData={
     "general": 6.1429,
     "n": 7
   },
+  "JOSE CALIXTO CANO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
+    "general": 6.375,
+    "n": 32
+  },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
     "general": 9.1739,
@@ -1958,11 +1669,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
     "general": 6.725,
     "n": 40
-  },
-  "TOUFIK CHAIBAT": {
-    "link": "https://www.misprofesores.com/profesores/Toufik-Chaibat_90020",
-    "general": 9.6667,
-    "n": 9
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
@@ -2079,20 +1785,10 @@ let misProfesData={
     "general": 8.0,
     "n": 1
   },
-  "MARIA CRISTINA RIOS ESPINOSA": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-R\u00edos-Espinosa_70233",
-    "general": 6.3333,
-    "n": 12
-  },
   "DAVID RUELAS RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
     "general": 9.1639,
     "n": 61
-  },
-  "CONCEPCION RUIZ RUIZ FUNES": {
-    "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7831,
-    "n": 83
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
@@ -2114,11 +1810,6 @@ let misProfesData={
     "general": 7.0,
     "n": 10
   },
-  "SHARON MAGALI VALVERDE ESPARZA": {
-    "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.3,
-    "n": 30
-  },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
     "general": 6.1538,
@@ -2133,11 +1824,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
     "general": 8.8039,
     "n": 51
-  },
-  "HORACIO VIVES SEGL": {
-    "link": "https://www.misprofesores.com/profesores/Horacio-Vives-Segl_138570",
-    "general": 9.0,
-    "n": 2
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
