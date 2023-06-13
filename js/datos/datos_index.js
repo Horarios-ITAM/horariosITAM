@@ -1,4 +1,4 @@
-let actualizado="1686580441810.8418";
+let actualizado="1686666827012.5671";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -21,7 +21,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH314",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -605,6 +605,52 @@ let clases={
       }
     ]
   },
+  "DER-15078": {
+    "nombre": "DER-15078-POPULISMO, CONST, PODER JUDIC.",
+    "clave": "DER-15078",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15078-POPULISMO, CONST, PODER JUDIC.",
+        "profesor": "DIEGO DE GUADALUPE ROMERO RIVERO",
+        "creditos": "6",
+        "horario": "07:00-09:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH102",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
+      }
+    ]
+  },
+  "DER-15079": {
+    "nombre": "DER-15079-POPULISMO, CONST, PODER JUDIC",
+    "clave": "DER-15079",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-15079-POPULISMO, CONST, PODER JUDIC",
+        "profesor": "DIEGO DE GUADALUPE ROMERO RIVERO",
+        "creditos": "4",
+        "horario": "07:00-09:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH102",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
+      }
+    ]
+  },
   "DER-16023": {
     "nombre": "DER-16023-ARBITRAJE COMERCIAL (OP)",
     "clave": "DER-16023",
@@ -620,7 +666,7 @@ let clases={
           "MA",
           "MI"
         ],
-        "salon": "RH209",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:40"
@@ -710,7 +756,7 @@ let clases={
           "MA",
           "MI"
         ],
-        "salon": "RH209",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:40"
@@ -779,7 +825,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH309",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:30"
@@ -936,7 +982,7 @@ let clases={
           "LU",
           "MA"
         ],
-        "salon": "RHSA1",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:20"
@@ -1094,7 +1140,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "10:00"

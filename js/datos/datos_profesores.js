@@ -1,4 +1,4 @@
-let actualizado="1686580441812.9878";
+let actualizado="1686666827015.1248";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -20,7 +20,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH314",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -651,6 +651,48 @@ let profesores={
       ]
     }
   },
+  "DIEGO DE GUADALUPE ROMERO RIVERO": {
+    "grupos": {
+      "DER-15078-POPULISMO, CONST, PODER JUDIC.": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15078-POPULISMO, CONST, PODER JUDIC.",
+          "profesor": "DIEGO DE GUADALUPE ROMERO RIVERO",
+          "creditos": "6",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "DER-15079-POPULISMO, CONST, PODER JUDIC": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15079-POPULISMO, CONST, PODER JUDIC",
+          "profesor": "DIEGO DE GUADALUPE ROMERO RIVERO",
+          "creditos": "4",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "HECTOR FLORES SENTIES": {
     "grupos": {
       "DER-16023-ARBITRAJE COMERCIAL (OP)": [
@@ -665,7 +707,7 @@ let profesores={
             "MA",
             "MI"
           ],
-          "salon": "RH209",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:40"
@@ -683,7 +725,7 @@ let profesores={
             "MA",
             "MI"
           ],
-          "salon": "RH209",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:40"
@@ -825,7 +867,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH309",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:30"
@@ -994,7 +1036,7 @@ let profesores={
             "LU",
             "MA"
           ],
-          "salon": "RHSA1",
+          "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:20"
@@ -1171,7 +1213,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
@@ -1782,6 +1824,7 @@ let mejoresPorDepto={
   "DERECHO": [
     "FERNANDO BUENO AJA",
     "TATIANA ANDREA ALFONSO SIERRA",
+    "DIEGO DE GUADALUPE ROMERO RIVERO",
     "HECTOR FLORES SENTIES",
     "ALEJANDRO LASTRA BARBA"
   ],
