@@ -1,4 +1,4 @@
-let actualizado="1686666827012.5671";
+let actualizado="1686753227817.67";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -848,7 +848,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH307",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -1023,7 +1023,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:40"
@@ -1163,7 +1163,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH211",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -1375,7 +1375,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH306",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "14:00"
@@ -1398,7 +1398,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH305",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -1475,7 +1475,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH313",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "11:10"
@@ -1688,8 +1688,8 @@ let misProfesData={
   },
   "EDUARDO TOMAS ARELLANO ARJONA": {
     "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.4711,
-    "n": 121
+    "general": 6.5,
+    "n": 122
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
