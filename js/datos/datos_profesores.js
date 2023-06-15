@@ -1,4 +1,4 @@
-let actualizado="1686753227819.7214";
+let actualizado="1686839624609.4019";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -826,6 +826,82 @@ let profesores={
       ]
     }
   },
+  "": {
+    "grupos": {
+      "ECO-10517-MACROECONOMETRIA APLICADA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
+          "profesor": "",
+          "creditos": "7",
+          "horario": "19:00-21:39",
+          "dias": [
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "ST",
+          "campus": "ST. TERESA",
+          "inicio": "19:00",
+          "fin": "21:39"
+        }
+      ],
+      "ECO-10518-TOPICOS DE ECONOMETRIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:00-21:40",
+          "dias": [
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "19:00",
+          "fin": "21:40"
+        }
+      ],
+      "ECO-14206-ECONOM. Y DERECHO DEL CRIMEN": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14206-ECONOM. Y DERECHO DEL CRIMEN",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-09:39",
+          "dias": [
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "07:00",
+          "fin": "09:39"
+        }
+      ],
+      "ECO-20514-MACROECONOMETRIA AVANZADA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-20514-MACROECONOMETRIA AVANZADA",
+          "profesor": "",
+          "creditos": "7",
+          "horario": "19:00-21:39",
+          "dias": [
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "ST",
+          "campus": "ST. TERESA",
+          "inicio": "19:00",
+          "fin": "21:39"
+        }
+      ]
+    }
+  },
   "RICARDO ENRIQUE MIRANDA MONTERO": {
     "grupos": {
       "ECO-11121-MICROECONOMIA AVANZADA I": [
@@ -1060,7 +1136,7 @@ let profesores={
             "LU",
             "MA"
           ],
-          "salon": "RHSA1",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:20"
@@ -1833,6 +1909,7 @@ let mejoresPorDepto={
     "RICARDO SERGIO FADL KURI",
     "FELIX VELEZ FERNANDEZ VARELA",
     "ALBERTO RAMIREZ DE AGUILAR WILLE",
+    "",
     "RICARDO ENRIQUE MIRANDA MONTERO",
     "ALEJANDRO DIAZ HERRERA",
     "GUILLERMO BENAVIDES PERALES",

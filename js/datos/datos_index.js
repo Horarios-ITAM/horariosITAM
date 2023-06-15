@@ -1,4 +1,4 @@
-let actualizado="1686753227817.67";
+let actualizado="1686839624607.1873";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -783,6 +783,44 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
+        "profesor": "",
+        "creditos": "7",
+        "horario": "19:00-21:39",
+        "dias": [
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "ST",
+        "campus": "ST. TERESA",
+        "inicio": "19:00",
+        "fin": "21:39"
+      }
+    ]
+  },
+  "ECO-10518": {
+    "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
+    "clave": "ECO-10518",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "19:00-21:40",
+        "dias": [
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "21:40"
       }
     ]
   },
@@ -829,6 +867,28 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:30"
+      }
+    ]
+  },
+  "ECO-14206": {
+    "nombre": "ECO-14206-ECONOM. Y DERECHO DEL CRIMEN",
+    "clave": "ECO-14206",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-14206-ECONOM. Y DERECHO DEL CRIMEN",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "07:00-09:39",
+        "dias": [
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "09:39"
       }
     ]
   },
@@ -947,6 +1007,28 @@ let clases={
       }
     ]
   },
+  "ECO-20514": {
+    "nombre": "ECO-20514-MACROECONOMETRIA AVANZADA",
+    "clave": "ECO-20514",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-20514-MACROECONOMETRIA AVANZADA",
+        "profesor": "",
+        "creditos": "7",
+        "horario": "19:00-21:39",
+        "dias": [
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "ST",
+        "campus": "ST. TERESA",
+        "inicio": "19:00",
+        "fin": "21:39"
+      }
+    ]
+  },
   "EST-10101": {
     "nombre": "EST-10101-ESTADISTICA.,I",
     "clave": "EST-10101",
@@ -1003,7 +1085,7 @@ let clases={
           "LU",
           "MA"
         ],
-        "salon": "RHSA1",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:20"
