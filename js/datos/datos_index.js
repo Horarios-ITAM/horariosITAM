@@ -1,4 +1,4 @@
-let actualizado="1686839624607.1873";
+let actualizado="1686926029357.9656";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -402,7 +402,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH317",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "14:15"
@@ -485,7 +485,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH317",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -508,7 +508,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH317",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -531,7 +531,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH317",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -787,7 +787,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
-        "profesor": "",
+        "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
         "creditos": "7",
         "horario": "19:00-21:39",
         "dias": [
@@ -809,7 +809,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
-        "profesor": "",
+        "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
         "creditos": "6",
         "horario": "19:00-21:40",
         "dias": [
@@ -877,7 +877,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-14206-ECONOM. Y DERECHO DEL CRIMEN",
-        "profesor": "",
+        "profesor": "DANIEL ALEJANDRO HERNANDEZ ALDACO",
         "creditos": "6",
         "horario": "07:00-09:39",
         "dias": [
@@ -1014,7 +1014,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-20514-MACROECONOMETRIA AVANZADA",
-        "profesor": "",
+        "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
         "creditos": "7",
         "horario": "19:00-21:39",
         "dias": [
@@ -1822,6 +1822,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
     "general": 8.1714,
     "n": 35
+  },
+  "ALEJANDRO DIAZ HERRERA": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-D\u00edas-Herrera_165773",
+    "general": 10.0,
+    "n": 1
   },
   "POLUX ERNESTO DIAZ RUIZ": {
     "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",

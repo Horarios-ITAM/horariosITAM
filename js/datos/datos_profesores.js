@@ -1,4 +1,4 @@
-let actualizado="1686839624609.4019";
+let actualizado="1686926029360.3733";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -447,7 +447,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH317",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "14:15"
@@ -466,7 +466,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH317",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -485,7 +485,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH317",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -504,7 +504,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH317",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -826,13 +826,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "GUSTAVO ANTONIO LEYVA JIMENEZ": {
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
         {
           "grupo": "002",
           "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
-          "profesor": "",
+          "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
           "creditos": "7",
           "horario": "19:00-21:39",
           "dias": [
@@ -850,7 +850,7 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
-          "profesor": "",
+          "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
           "creditos": "6",
           "horario": "19:00-21:40",
           "dias": [
@@ -864,29 +864,11 @@ let profesores={
           "fin": "21:40"
         }
       ],
-      "ECO-14206-ECONOM. Y DERECHO DEL CRIMEN": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14206-ECONOM. Y DERECHO DEL CRIMEN",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-09:39",
-          "dias": [
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "",
-          "campus": "",
-          "inicio": "07:00",
-          "fin": "09:39"
-        }
-      ],
       "ECO-20514-MACROECONOMETRIA AVANZADA": [
         {
           "grupo": "001",
           "nombre": "ECO-20514-MACROECONOMETRIA AVANZADA",
-          "profesor": "",
+          "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
           "creditos": "7",
           "horario": "19:00-21:39",
           "dias": [
@@ -951,7 +933,32 @@ let profesores={
       ]
     }
   },
+  "DANIEL ALEJANDRO HERNANDEZ ALDACO": {
+    "grupos": {
+      "ECO-14206-ECONOM. Y DERECHO DEL CRIMEN": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14206-ECONOM. Y DERECHO DEL CRIMEN",
+          "profesor": "DANIEL ALEJANDRO HERNANDEZ ALDACO",
+          "creditos": "6",
+          "horario": "07:00-09:39",
+          "dias": [
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "07:00",
+          "fin": "09:39"
+        }
+      ]
+    }
+  },
   "ALEJANDRO DIAZ HERRERA": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-D\u00edas-Herrera_165773",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-14301-ORGANIZACION INDUSTRIAL": [
         {
@@ -1905,13 +1912,14 @@ let mejoresPorDepto={
     "ALEJANDRO LASTRA BARBA"
   ],
   "ECONOMIA": [
+    "ALEJANDRO DIAZ HERRERA",
     "DAVID RUELAS RODRIGUEZ",
     "RICARDO SERGIO FADL KURI",
     "FELIX VELEZ FERNANDEZ VARELA",
     "ALBERTO RAMIREZ DE AGUILAR WILLE",
-    "",
+    "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "RICARDO ENRIQUE MIRANDA MONTERO",
-    "ALEJANDRO DIAZ HERRERA",
+    "DANIEL ALEJANDRO HERNANDEZ ALDACO",
     "GUILLERMO BENAVIDES PERALES",
     "DAVID LAMB DE VALDES"
   ],
