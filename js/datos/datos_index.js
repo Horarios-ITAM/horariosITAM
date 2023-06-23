@@ -1,4 +1,4 @@
-let actualizado="1687444422435.3093";
+let actualizado="1687530896840.1504";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1905,8 +1905,8 @@ let misProfesData={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3627,
-    "n": 102
+    "general": 6.3689,
+    "n": 103
   },
   "ALBERTO RAMIREZ DE AGUILAR WILLE": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Ram\u00edrez-de-Aguilar-Wille_130993",

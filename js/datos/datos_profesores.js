@@ -1,4 +1,4 @@
-let actualizado="1687444422437.728";
+let actualizado="1687530896842.245";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -1848,8 +1848,8 @@ let profesores={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3627,
-    "n": 102,
+    "general": 6.3689,
+    "n": 103,
     "grupos": {
       "MAT-24630-MATEM. APLICADAS A LA ECONOMIA": [
         {
