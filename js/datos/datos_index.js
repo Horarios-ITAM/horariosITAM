@@ -1,4 +1,4 @@
-let actualizado="1687530896840.1504";
+let actualizado="1687617299722.4128";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -210,25 +210,7 @@ let clases={
   "ADM-16601": {
     "nombre": "ADM-16601-MERCADOTECNIA, I",
     "clave": "ADM-16601",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-16601-MERCADOTECNIA, I",
-        "profesor": "BRUCE PETER  MCWILLIAMS",
-        "creditos": "6",
-        "horario": "09:00-12:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH107",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "12:00"
-      }
-    ]
+    "grupos": []
   },
   "COM-11302": {
     "nombre": "COM-11302-ALGORITMICA Y PROGRAMACION",
@@ -1753,6 +1735,29 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "15:00"
+      }
+    ]
+  },
+  "SDI-15977": {
+    "nombre": "SDI-15977-FISICA DEL UNIVERSO",
+    "clave": "SDI-15977",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-15977-FISICA DEL UNIVERSO",
+        "profesor": "FRANCISCO JAVIER BLANCO RIVERA",
+        "creditos": "6",
+        "horario": "11:00-13:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH207",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "13:00"
       }
     ]
   }

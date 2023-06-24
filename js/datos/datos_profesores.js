@@ -1,4 +1,4 @@
-let actualizado="1687530896842.245";
+let actualizado="1687617299725.3164";
 let periodo="VERANO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2290";
@@ -216,29 +216,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "BRUCE PETER  MCWILLIAMS": {
-    "grupos": {
-      "ADM-16601-MERCADOTECNIA, I": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16601-MERCADOTECNIA, I",
-          "profesor": "BRUCE PETER  MCWILLIAMS",
-          "creditos": "6",
-          "horario": "09:00-12:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "12:00"
         }
       ]
     }
@@ -1871,6 +1848,29 @@ let profesores={
         }
       ]
     }
+  },
+  "FRANCISCO JAVIER BLANCO RIVERA": {
+    "grupos": {
+      "SDI-15977-FISICA DEL UNIVERSO": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15977-FISICA DEL UNIVERSO",
+          "profesor": "FRANCISCO JAVIER BLANCO RIVERA",
+          "creditos": "6",
+          "horario": "11:00-13:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH207",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "13:00"
+        }
+      ]
+    }
   }
 };
 let mejoresPorDepto={
@@ -1883,8 +1883,7 @@ let mejoresPorDepto={
     "ANTONIO RODOLFO LLORET CARRILLO",
     "JULIETA IRMA GUIZA PEREZ",
     "POLUX ERNESTO DIAZ RUIZ",
-    "MARGARET KATHRYN  SLOAN",
-    "BRUCE PETER  MCWILLIAMS"
+    "MARGARET KATHRYN  SLOAN"
   ],
   "COMPUTACION": [
     "JAVIER TERRES ARIAS",
@@ -1948,5 +1947,8 @@ let mejoresPorDepto={
     "JOEL ZAMORA RAMOS",
     "PAUL RENATO TOPPO RAIMONDO",
     "MARIANA CASILLAS CASILLAS"
+  ],
+  "SISTEMAS DIGITALES": [
+    "FRANCISCO JAVIER BLANCO RIVERA"
   ]
 };
