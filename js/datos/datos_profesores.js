@@ -1,4 +1,4 @@
-let actualizado="1688999915099.2988";
+let actualizado="1689086320296.94";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -89,8 +89,8 @@ let profesores={
   },
   "ERIKA GEORGINA CHAVEZ PIEDRA BUENA": {
     "link": "https://www.misprofesores.com/profesores/Erika-Georgina-Ch\u00e1vez-Piedra-Buena_79956",
-    "general": 7.1429,
-    "n": 14,
+    "general": 7.2667,
+    "n": 15,
     "grupos": {
       "ACT-11301-CALCULO ACTUARIAL II": [
         {
@@ -1232,6 +1232,54 @@ let profesores={
           "fin": "19:00"
         }
       ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "006",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "08:30-11:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "11:30"
+        }
+      ],
+      "ECO-11227-DISE\u00d1O DE MERCADOS": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "09:00-12:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHLI1",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "12:00"
+        }
+      ],
+      "ECO-13102-ECONOMIA INTERNACIONAL, II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "08:30-09:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH314",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:30"
+        }
+      ],
       "ECO-18101-DESARROLLO ECONOMICO I": [
         {
           "grupo": "002",
@@ -1406,7 +1454,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "09:30"
@@ -1576,7 +1624,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "09:30"
@@ -3753,6 +3801,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4700,9 +4751,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.65,
-    "n": 20,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5818,6 +5869,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -7538,6 +7592,42 @@ let profesores={
       ]
     }
   },
+  "CHRISTOPH KARABO WINTER": {
+    "grupos": {
+      "DER-11119-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
+          "profesor": "CHRISTOPH KARABO WINTER",
+          "creditos": "9",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "DER-11805-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+          "profesor": "CHRISTOPH KARABO WINTER",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
   "LUIS REY RAIGOSA SOTELO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Rey-Raigosa-Sotelo_10783",
     "general": 7.9412,
@@ -8861,6 +8951,22 @@ let profesores={
     "general": 5.0,
     "n": 11,
     "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
+          "creditos": "6",
+          "horario": "10:00-13:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ],
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
         {
           "grupo": "001",
@@ -8990,6 +9096,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "REYES RUIZ GONZALEZ": {
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "005",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "REYES RUIZ GONZALEZ",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -10137,10 +10263,10 @@ let profesores={
     "general": 6.8824,
     "n": 17,
     "grupos": {
-      "ECO-13102-ECONOMIA INTERNACIONAL, II": [
+      "ECO-13101-ECONOMIA INTERNACIONAL, I": [
         {
-          "grupo": "001",
-          "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
+          "grupo": "003",
+          "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
           "profesor": "TIAGO GOMES DA SILVA TAVARES",
           "creditos": "6",
           "horario": "17:30-19:00",
@@ -10313,26 +10439,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "REYES RUIZ GONZALEZ": {
-    "grupos": {
-      "ECO-15101-FINANZAS PUBLICAS": [
-        {
-          "grupo": "003",
-          "nombre": "ECO-15101-FINANZAS PUBLICAS",
-          "profesor": "REYES RUIZ GONZALEZ",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ]
     }
@@ -12751,8 +12857,8 @@ let profesores={
   },
   "ERIKA BURGOS PADILLA": {
     "link": "https://www.misprofesores.com/profesores/Erika-Burgos-Padilla_67467",
-    "general": 9.2414,
-    "n": 29,
+    "general": 9.2667,
+    "n": 30,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -13027,8 +13133,8 @@ let profesores={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.7568,
-    "n": 74,
+    "general": 5.7467,
+    "n": 75,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -15832,9 +15938,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17017,8 +17123,8 @@ let profesores={
   },
   "EDUARDO TOMAS ARELLANO ARJONA": {
     "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.5,
-    "n": 122,
+    "general": 6.5285,
+    "n": 123,
     "grupos": {
       "MAT-12102-CALCULO, III": [
         {
@@ -17100,8 +17206,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1667,
-    "n": 60,
+    "general": 7.1803,
+    "n": 61,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -18099,8 +18205,8 @@ let profesores={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.6863,
-    "n": 51,
+    "general": 4.6346,
+    "n": 52,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -18892,11 +18998,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON",
-    "PETER MATTHEW  HILLS"
+    "JEFFREY ALLEN WELDON"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
