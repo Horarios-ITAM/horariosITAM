@@ -1,4 +1,4 @@
-let actualizado="1689086320270.068";
+let actualizado="1689172743132.0217";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -3969,16 +3969,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-10005-ANAL. FINANCIERO DE LA EMPRESA",
-        "profesor": "VICTOR MANUEL FERNANDEZ GONZALEZ ANGULO",
+        "profesor": "",
         "creditos": "6",
-        "horario": "07:00-10:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "VI"
+          "MI"
         ],
-        "salon": "RHB-5",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       }
     ]
   },
@@ -8098,17 +8098,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "profesor": "",
         "creditos": "6",
-        "horario": "09:00-10:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU"
         ],
-        "salon": "RH310",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "10:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "002",
@@ -8141,16 +8140,16 @@ let clases={
       {
         "grupo": "004",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "CHRISTIANE FABREGA CHIMALI",
+        "profesor": "",
         "creditos": "6",
-        "horario": "16:00-17:00",
+        "horario": "14:00-16:00",
         "dias": [
           "LU"
         ],
         "salon": "",
         "campus": "",
-        "inicio": "16:00",
-        "fin": "17:00"
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "005",
@@ -8338,47 +8337,44 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-11104-ECONOMIA, IV",
-        "profesor": "MENEY DE LA PEZA GANDARA",
+        "profesor": "",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "14:00-16:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RH101",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "002",
         "nombre": "ECO-11104-ECONOMIA, IV",
-        "profesor": "DAVID LAMB DE VALDES",
+        "profesor": "",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH105",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "003",
         "nombre": "ECO-11104-ECONOMIA, IV",
-        "profesor": "CARLOS MANDUJANO FERREIRO",
+        "profesor": "",
         "creditos": "6",
-        "horario": "07:00-08:30",
+        "horario": "14:00-16:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH109",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       }
     ]
   },
@@ -8501,77 +8497,72 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12102-ECONOMIA, II",
-        "profesor": "CHRISTIANE FABREGA CHIMALI",
+        "profesor": "",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "14:00-16:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH113",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "002",
         "nombre": "ECO-12102-ECONOMIA, II",
-        "profesor": "VICTOR HUGO GOMEZ AYALA",
+        "profesor": "",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH113",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "003",
         "nombre": "ECO-12102-ECONOMIA, II",
-        "profesor": "ERNESTO BLANCAS BARRAGAN",
+        "profesor": "",
         "creditos": "6",
-        "horario": "07:00-08:30",
+        "horario": "14:00-16:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RH113",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "004",
         "nombre": "ECO-12102-ECONOMIA, II",
-        "profesor": "ALEJANDRO DE LA BORBOLLA MONGE",
+        "profesor": "",
         "creditos": "6",
-        "horario": "07:00-08:30",
+        "horario": "14:00-16:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RH109",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "005",
         "nombre": "ECO-12102-ECONOMIA, II",
-        "profesor": "RODRIGO NU\u00d1EZ SANCHEZ",
+        "profesor": "",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RH109",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       }
     ]
   },
@@ -9220,47 +9211,44 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-21103-ECONOMIA III",
-        "profesor": "BARBARA CARRILLO FLORES",
+        "profesor": "",
         "creditos": "6",
-        "horario": "11:30-13:30",
+        "horario": "14:30-16:00",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
-        "salon": "RH113",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       },
       {
         "grupo": "002",
         "nombre": "ECO-21103-ECONOMIA III",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "",
         "creditos": "6",
-        "horario": "08:00-10:00",
+        "horario": "14:30-16:00",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "10:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       },
       {
         "grupo": "003",
         "nombre": "ECO-21103-ECONOMIA III",
-        "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+        "profesor": "",
         "creditos": "6",
-        "horario": "10:00-12:00",
+        "horario": "14:30-16:00",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
-        "salon": "RH103",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "12:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       }
     ]
   },
@@ -9271,47 +9259,44 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "MAURICIO TOMAS ROMERO LONDO\u00d1O",
+        "profesor": "",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "14:30-16:00",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
-        "salon": "RH105",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       },
       {
         "grupo": "002",
         "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "TETSUYA HOSHINO",
+        "profesor": "",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "14:30-16:00",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       },
       {
         "grupo": "003",
         "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "TETSUYA HOSHINO",
+        "profesor": "",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "14:30-16:00",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       }
     ]
   },
@@ -12184,15 +12169,15 @@ let clases={
         "nombre": "EST-24127-CALCULO DE PROBABILIDADES II",
         "profesor": "JOSE DAVID SANTOS SALAZAR",
         "creditos": "6",
-        "horario": "20:30-22:00",
+        "horario": "07:00-08:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH103",
+        "salon": "RH314",
         "campus": "RIO HONDO",
-        "inicio": "20:30",
-        "fin": "22:00"
+        "inicio": "07:00",
+        "fin": "08:30"
       },
       {
         "grupo": "003",
@@ -17459,11 +17444,6 @@ let clases={
   }
 };
 let misProfesData={
-  "CLAUDIA ABURTO RANCA\u00d1O": {
-    "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
-    "general": 8.9324,
-    "n": 74
-  },
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
     "general": 6.52,
@@ -17516,8 +17496,8 @@ let misProfesData={
   },
   "CRISTINA ARAGON VELASCO": {
     "link": "https://www.misprofesores.com/profesores/Cristina-Arag\u00f3n-Velasco_103060",
-    "general": 7.1667,
-    "n": 12
+    "general": 7.3077,
+    "n": 13
   },
   "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Luis-Mart\u00edn-Arciniega-Ruiz-de-Esparza_10724",
@@ -17561,8 +17541,8 @@ let misProfesData={
   },
   "JOSE MARIA BARRERO SANCLEMENTE": {
     "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
-    "general": 6.5333,
-    "n": 15
+    "general": 6.75,
+    "n": 16
   },
   "ERNESTO JUVENAL BARRIOS ZAMUDIO": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Juvenal-Barrios-Zamudio_10689",
@@ -17578,11 +17558,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
     "general": 6.0345,
     "n": 29
-  },
-  "ERNESTO BLANCAS BARRAGAN": {
-    "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
-    "general": 7.75,
-    "n": 4
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -17774,11 +17749,6 @@ let misProfesData={
     "general": 6.5,
     "n": 36
   },
-  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
-    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
-    "general": 6.8235,
-    "n": 102
-  },
   "FEDERICO GUILLERMO DURAND GUEVARA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
     "general": 5.9476,
@@ -17813,11 +17783,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Carlos-Fernando-Esponda-Darlington_10851",
     "general": 7.8,
     "n": 25
-  },
-  "CHRISTIANE FABREGA CHIMALI": {
-    "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
-    "general": 8.819,
-    "n": 116
   },
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
@@ -17959,11 +17924,6 @@ let misProfesData={
     "general": 6.8824,
     "n": 17
   },
-  "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29
-  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.4651,
@@ -17986,8 +17946,8 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4769,
-    "n": 216
+    "general": 6.4885,
+    "n": 217
   },
   "ANA LAURA GONZALEZ ENRIQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Laura-Gonzalez-Enriquez_159822",
@@ -18056,13 +18016,8 @@ let misProfesData={
   },
   "RENATA HERRERIAS FRANCO": {
     "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
-    "general": 6.1818,
-    "n": 22
-  },
-  "TETSUYA HOSHINO": {
-    "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
-    "general": 7.0,
-    "n": 9
+    "general": 6.2609,
+    "n": 23
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -18226,8 +18181,8 @@ let misProfesData={
   },
   "SYLVIA MELJEM ENRIQUEZ DE RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Sylvia-Meljem-Enriquez-de-Rivera_10756",
-    "general": 7.5745,
-    "n": 47
+    "general": 7.5833,
+    "n": 48
   },
   "ENRIQUE MELROSE AGUILAR": {
     "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
@@ -18421,8 +18376,8 @@ let misProfesData={
   },
   "YANIRA ROSALBA PETRIDES JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Yanira-Rosalba-Petrides-Jimenez_10757",
-    "general": 8.1429,
-    "n": 14
+    "general": 8.0,
+    "n": 15
   },
   "LUCIA PI CHOLULA": {
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
@@ -18766,8 +18721,8 @@ let misProfesData={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.6346,
-    "n": 52
+    "general": 4.7358,
+    "n": 53
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
@@ -18781,8 +18736,8 @@ let misProfesData={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.25,
-    "n": 176
+    "general": 8.2316,
+    "n": 177
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
