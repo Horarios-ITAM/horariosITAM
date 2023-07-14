@@ -1,4 +1,4 @@
-let actualizado="1689259063678.3293";
+let actualizado="1689345464289.9604";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -17431,8 +17431,8 @@ let misProfesData={
   },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
-    "general": 9.0667,
-    "n": 15
+    "general": 8.8125,
+    "n": 16
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
@@ -17446,8 +17446,8 @@ let misProfesData={
   },
   "CRISTINA ARAGON VELASCO": {
     "link": "https://www.misprofesores.com/profesores/Cristina-Arag\u00f3n-Velasco_103060",
-    "general": 7.3077,
-    "n": 13
+    "general": 7.5,
+    "n": 14
   },
   "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Luis-Mart\u00edn-Arciniega-Ruiz-de-Esparza_10724",
@@ -18054,6 +18054,11 @@ let misProfesData={
     "general": 9.1875,
     "n": 16
   },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
+  },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
     "general": 8.3333,
@@ -18515,9 +18520,9 @@ let misProfesData={
     "n": 59
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
