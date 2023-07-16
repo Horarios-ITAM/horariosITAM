@@ -1,4 +1,4 @@
-let actualizado="1689345464289.9604";
+let actualizado="1689518135899.3586";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -5431,44 +5431,44 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10015-DERECHO EMPRESARIAL",
-        "profesor": "CLEMENTE ROMERO OLMEDO",
+        "profesor": "",
         "creditos": "9",
-        "horario": "07:00-09:30",
+        "horario": "14:30-16:00",
         "dias": [
-          "MI"
+          "JU"
         ],
-        "salon": "PF104",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       },
       {
         "grupo": "003",
         "nombre": "DER-10015-DERECHO EMPRESARIAL",
-        "profesor": "ALEJANDRO ISAAC BEAS",
+        "profesor": "",
         "creditos": "9",
-        "horario": "07:00-09:30",
+        "horario": "14:30-16:00",
         "dias": [
-          "MI"
+          "JU"
         ],
-        "salon": "RH310",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       },
       {
         "grupo": "004",
         "nombre": "DER-10015-DERECHO EMPRESARIAL",
-        "profesor": "FRANCO ALBERTO DEL VALLE PRADO",
+        "profesor": "",
         "creditos": "9",
-        "horario": "09:00-11:30",
+        "horario": "14:30-16:00",
         "dias": [
           "JU"
         ],
-        "salon": "RH211",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       }
     ]
   },
@@ -5662,7 +5662,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "JOYCE CAROL  SADKA",
+        "profesor": "LUIS ENRIQUE PEREDA TREJO",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -5676,16 +5676,16 @@ let clases={
       {
         "grupo": "003",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "SEBASTIAN GARCIA CANO",
+        "profesor": "",
         "creditos": "9",
-        "horario": "07:00-08:30",
+        "horario": "14:30-16:00",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "RH307",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       }
     ]
   },
@@ -5744,44 +5744,44 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
-        "profesor": "MARIA ANTONIETA YARRINGTON MORALES",
+        "profesor": "",
         "creditos": "2",
-        "horario": "07:00-09:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "MA"
+          "MI"
         ],
-        "salon": "RHB-1",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "002L",
         "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
-        "profesor": "ANA MARIA ZORRILLA NORIEGA",
+        "profesor": "",
         "creditos": "2",
-        "horario": "11:00-13:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "MA"
+          "MI"
         ],
-        "salon": "RH313",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "13:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "003L",
         "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
-        "profesor": "SOFIA FLORES SENTIES",
+        "profesor": "",
         "creditos": "2",
-        "horario": "11:00-13:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "MA"
+          "MI"
         ],
-        "salon": "RHB-1",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "13:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       }
     ]
   },
@@ -6986,17 +6986,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
-        "profesor": "RODRIGO CAMARENA GONZALEZ",
+        "profesor": "",
         "creditos": "6",
-        "horario": "10:30-12:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RH110",
-        "campus": "RIO HONDO",
-        "inicio": "10:30",
-        "fin": "12:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       },
       {
         "grupo": "002",
@@ -9344,13 +9343,13 @@ let clases={
         "nombre": "ECO-22105-ECONOMIA V",
         "profesor": "",
         "creditos": "8",
-        "horario": "14:00-16:00",
+        "horario": "13:30-16:00",
         "dias": [
           "VI"
         ],
         "salon": "",
         "campus": "",
-        "inicio": "14:00",
+        "inicio": "13:30",
         "fin": "16:00"
       }
     ]
@@ -17436,8 +17435,8 @@ let misProfesData={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.456,
-    "n": 125
+    "general": 6.4762,
+    "n": 126
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
@@ -17668,11 +17667,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/LUIS-ARTURO-DEL-CASTILLO-MUZQUIZ_40780",
     "general": 7.1515,
     "n": 66
-  },
-  "FRANCO ALBERTO DEL VALLE PRADO": {
-    "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.8333,
-    "n": 6
   },
   "ANA MARIA BERNARDETTE DIAZ BONNET": {
     "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Bernardette-Diaz-Bonnet_10748",

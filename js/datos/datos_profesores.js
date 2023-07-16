@@ -1,4 +1,4 @@
-let actualizado="1689345464311.4873";
+let actualizado="1689518135919.1829";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -1576,6 +1576,126 @@ let profesores={
           "fin": "16:00"
         }
       ],
+      "DER-10015-DERECHO EMPRESARIAL": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10015-DERECHO EMPRESARIAL",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "14:30-16:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "14:30",
+          "fin": "16:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "DER-10015-DERECHO EMPRESARIAL",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "14:30-16:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "14:30",
+          "fin": "16:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "DER-10015-DERECHO EMPRESARIAL",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "14:30-16:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "14:30",
+          "fin": "16:00"
+        }
+      ],
+      "DER-10113-DERECHO PUBLICO": [
+        {
+          "grupo": "003",
+          "nombre": "DER-10113-DERECHO PUBLICO",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "14:30-16:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "14:30",
+          "fin": "16:00"
+        }
+      ],
+      "DER-11104-CULTURA DE LA LEGALIDAD-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "14:00-16:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "14:00",
+          "fin": "16:00"
+        },
+        {
+          "grupo": "002L",
+          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "14:00-16:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "14:00",
+          "fin": "16:00"
+        },
+        {
+          "grupo": "003L",
+          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "14:00-16:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "14:00",
+          "fin": "16:00"
+        }
+      ],
+      "DER-15504-DERECHO CONSTITUCIONAL II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "14:00-16:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "14:00",
+          "fin": "16:00"
+        }
+      ],
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
         {
           "grupo": "006",
@@ -2008,13 +2128,13 @@ let profesores={
           "nombre": "ECO-22105-ECONOMIA V",
           "profesor": "",
           "creditos": "8",
-          "horario": "14:00-16:00",
+          "horario": "13:30-16:00",
           "dias": [
             "VI"
           ],
           "salon": "",
           "campus": "",
-          "inicio": "14:00",
+          "inicio": "13:30",
           "fin": "16:00"
         }
       ],
@@ -7247,69 +7367,6 @@ let profesores={
       ]
     }
   },
-  "CLEMENTE ROMERO OLMEDO": {
-    "grupos": {
-      "DER-10015-DERECHO EMPRESARIAL": [
-        {
-          "grupo": "002",
-          "nombre": "DER-10015-DERECHO EMPRESARIAL",
-          "profesor": "CLEMENTE ROMERO OLMEDO",
-          "creditos": "9",
-          "horario": "07:00-09:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:30"
-        }
-      ]
-    }
-  },
-  "ALEJANDRO ISAAC BEAS": {
-    "grupos": {
-      "DER-10015-DERECHO EMPRESARIAL": [
-        {
-          "grupo": "003",
-          "nombre": "DER-10015-DERECHO EMPRESARIAL",
-          "profesor": "ALEJANDRO ISAAC BEAS",
-          "creditos": "9",
-          "horario": "07:00-09:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:30"
-        }
-      ]
-    }
-  },
-  "FRANCO ALBERTO DEL VALLE PRADO": {
-    "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.8333,
-    "n": 6,
-    "grupos": {
-      "DER-10015-DERECHO EMPRESARIAL": [
-        {
-          "grupo": "004",
-          "nombre": "DER-10015-DERECHO EMPRESARIAL",
-          "profesor": "FRANCO ALBERTO DEL VALLE PRADO",
-          "creditos": "9",
-          "horario": "09:00-11:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH211",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:30"
-        }
-      ]
-    }
-  },
   "MARIO LEONARDO PETRICIOLI RUIZ": {
     "grupos": {
       "DER-10016-INTROD. AL DERECHO CORPORATIVO": [
@@ -7583,13 +7640,16 @@ let profesores={
       ]
     }
   },
-  "JOYCE CAROL  SADKA": {
+  "LUIS ENRIQUE PEREDA TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "DER-10113-DERECHO PUBLICO": [
         {
           "grupo": "002",
           "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "JOYCE CAROL  SADKA",
+          "profesor": "LUIS ENRIQUE PEREDA TREJO",
           "creditos": "9",
           "horario": "08:30-10:00",
           "dias": [
@@ -7601,41 +7661,21 @@ let profesores={
           "fin": "10:00"
         }
       ],
-      "ECO-14208-ANAL. ECON. DEL DER. II": [
+      "DER-15504-DERECHO CONSTITUCIONAL II": [
         {
-          "grupo": "001",
-          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
-          "profesor": "JOYCE CAROL  SADKA",
+          "grupo": "002",
+          "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
+          "profesor": "LUIS ENRIQUE PEREDA TREJO",
           "creditos": "6",
-          "horario": "07:00-08:30",
+          "horario": "20:30-22:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH102",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "SEBASTIAN GARCIA CANO": {
-    "grupos": {
-      "DER-10113-DERECHO PUBLICO": [
-        {
-          "grupo": "003",
-          "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "SEBASTIAN GARCIA CANO",
-          "creditos": "9",
-          "horario": "07:00-08:30",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
+          "inicio": "20:30",
+          "fin": "22:00"
         }
       ]
     }
@@ -7682,85 +7722,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
-        }
-      ]
-    }
-  },
-  "MARIA ANTONIETA YARRINGTON MORALES": {
-    "grupos": {
-      "DER-11104-CULTURA DE LA LEGALIDAD-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
-          "profesor": "MARIA ANTONIETA YARRINGTON MORALES",
-          "creditos": "2",
-          "horario": "07:00-09:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHB-1",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ]
-    }
-  },
-  "ANA MARIA ZORRILLA NORIEGA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
-    "general": 10.0,
-    "n": 2,
-    "grupos": {
-      "DER-11104-CULTURA DE LA LEGALIDAD-LAB": [
-        {
-          "grupo": "002L",
-          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
-          "profesor": "ANA MARIA ZORRILLA NORIEGA",
-          "creditos": "2",
-          "horario": "11:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "13:00"
-        }
-      ],
-      "DER-17044-CLINICA EN DERECHO Y POL PUBL.": [
-        {
-          "grupo": "001",
-          "nombre": "DER-17044-CLINICA EN DERECHO Y POL PUBL.",
-          "profesor": "ANA MARIA ZORRILLA NORIEGA",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "SOFIA FLORES SENTIES": {
-    "grupos": {
-      "DER-11104-CULTURA DE LA LEGALIDAD-LAB": [
-        {
-          "grupo": "003L",
-          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
-          "profesor": "SOFIA FLORES SENTIES",
-          "creditos": "2",
-          "horario": "11:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHB-1",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "13:00"
         }
       ]
     }
@@ -8862,47 +8823,6 @@ let profesores={
           "inicio": "12:30",
           "fin": "14:00"
         }
-      ],
-      "DER-15504-DERECHO CONSTITUCIONAL II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
-          "profesor": "RODRIGO CAMARENA GONZALEZ",
-          "creditos": "6",
-          "horario": "10:30-12:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH110",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:00"
-        }
-      ]
-    }
-  },
-  "LUIS ENRIQUE PEREDA TREJO": {
-    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
-    "general": 9.5,
-    "n": 2,
-    "grupos": {
-      "DER-15504-DERECHO CONSTITUCIONAL II": [
-        {
-          "grupo": "002",
-          "nombre": "DER-15504-DERECHO CONSTITUCIONAL II",
-          "profesor": "LUIS ENRIQUE PEREDA TREJO",
-          "creditos": "6",
-          "horario": "20:30-22:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-1",
-          "campus": "RIO HONDO",
-          "inicio": "20:30",
-          "fin": "22:00"
-        }
       ]
     }
   },
@@ -9162,6 +9082,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "ANA MARIA ZORRILLA NORIEGA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
+    "general": 10.0,
+    "n": 2,
+    "grupos": {
+      "DER-17044-CLINICA EN DERECHO Y POL PUBL.": [
+        {
+          "grupo": "001",
+          "nombre": "DER-17044-CLINICA EN DERECHO Y POL PUBL.",
+          "profesor": "ANA MARIA ZORRILLA NORIEGA",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
         }
       ]
     }
@@ -10500,6 +10443,27 @@ let profesores={
       ]
     }
   },
+  "JOYCE CAROL  SADKA": {
+    "grupos": {
+      "ECO-14208-ANAL. ECON. DEL DER. II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
+          "profesor": "JOYCE CAROL  SADKA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "SHAUN DAVID MCRAE": {
     "grupos": {
       "ECO-14301-ORGANIZACION INDUSTRIAL": [
@@ -10997,8 +10961,8 @@ let profesores={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.456,
-    "n": 125,
+    "general": 6.4762,
+    "n": 126,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -18696,16 +18660,16 @@ let mejoresPorDepto={
     "JEFFREY ALLEN WELDON"
   ],
   "DERECHO": [
-    "ANA MARIA ZORRILLA NORIEGA",
     "DENISE MEJAN GANEM",
+    "ANA MARIA ZORRILLA NORIEGA",
     "JOSE OMAR HERNANDEZ SALGADO",
     "JOSE LUIS CABALLERO RODRIGUEZ",
-    "FRANCO ALBERTO DEL VALLE PRADO",
     "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
     "MARIANA CALDERON ARAMBURU",
     "LUIS ENRIQUE PEREDA TREJO",
     "AMRITA BAHRI",
-    "JOSE ANGEL FERNANDEZ URIA"
+    "JOSE ANGEL FERNANDEZ URIA",
+    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
     "CHRISTINA CORNEJO VAN LUIT",
