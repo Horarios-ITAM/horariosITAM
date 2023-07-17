@@ -1,4 +1,4 @@
-let actualizado="1689518135919.1829";
+let actualizado="1689604724333.009";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -4947,9 +4947,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -6554,9 +6551,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -15979,9 +15973,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18474,8 +18468,8 @@ let profesores={
   },
   "JOSE CALIXTO CANO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
-    "general": 6.375,
-    "n": 32,
+    "general": 6.4545,
+    "n": 33,
     "grupos": {
       "SDI-13760-REDES DE COMPUTADORAS-LAB": [
         {
@@ -18653,11 +18647,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON"
+    "JEFFREY ALLEN WELDON",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "DENISE MEJAN GANEM",
@@ -18760,8 +18754,8 @@ let mejoresPorDepto={
     "RAFAEL CISNEROS MONTOYA",
     "ENRIQUE MELROSE AGUILAR",
     "JOSE GUADALUPE ROMERO VELAZQUEZ",
-    "ANTE SALCEDO GONZALEZ",
     "JOSE CALIXTO CANO",
+    "ANTE SALCEDO GONZALEZ",
     "MARIA OFELIA RODRIGUEZ DURAN",
     "CARLOS ALBERTO MUNIVE VAZQUEZ",
     "ROMEO SALVADOR ORTEGA MARTINEZ",
