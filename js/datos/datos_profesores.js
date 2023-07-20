@@ -1,4 +1,4 @@
-let actualizado="1689777315910.9985";
+let actualizado="1689863738909.5447";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -5192,7 +5192,7 @@ let profesores={
   "JAVIER TERRES ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Javier-Terr\u00e9s-Arias_138402",
     "general": 10.0,
-    "n": 1,
+    "n": 2,
     "grupos": {
       "COM-16203-DES. DE APLICACS. INFORMATICAS": [
         {

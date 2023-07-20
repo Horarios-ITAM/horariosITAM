@@ -1,4 +1,4 @@
-let actualizado="1689777315885.3027";
+let actualizado="1689863738887.1252";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -18516,7 +18516,7 @@ let misProfesData={
   "JAVIER TERRES ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Javier-Terr\u00e9s-Arias_138402",
     "general": 10.0,
-    "n": 1
+    "n": 2
   },
   "PAUL RENATO TOPPO RAIMONDO": {
     "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
