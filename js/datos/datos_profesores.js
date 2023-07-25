@@ -1,4 +1,4 @@
-let actualizado="1690209370222.7766";
+let actualizado="1690295751024.819";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -341,7 +341,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA4",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -1696,6 +1696,22 @@ let profesores={
           "fin": "16:00"
         }
       ],
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "006",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "08:30-11:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "11:30"
+        }
+      ],
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
         {
           "grupo": "006",
@@ -2008,14 +2024,14 @@ let profesores={
           "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
           "profesor": "",
           "creditos": "6",
-          "horario": "08:30-09:30",
+          "horario": "08:30-11:30",
           "dias": [
             "MA"
           ],
-          "salon": "RH314",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "08:30",
-          "fin": "09:30"
+          "fin": "11:30"
         }
       ],
       "ECO-18101-DESARROLLO ECONOMICO I": [
@@ -3968,30 +3984,6 @@ let profesores={
             "MI"
           ],
           "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "JOSE JAVIER MEDRANO PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
-    "general": 9.0,
-    "n": 3,
-    "grupos": {
-      "ADM-16720-MERCADOTECNIA PARA E-COMMERCE": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16720-MERCADOTECNIA PARA E-COMMERCE",
-          "profesor": "JOSE JAVIER MEDRANO PEREZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -6851,7 +6843,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH304",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -9454,63 +9446,24 @@ let profesores={
       ]
     }
   },
-  "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
-    "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
-    "general": 5.0,
-    "n": 11,
+  "CARLO EDUARDO ALCARAZ PRIBAZ": {
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
-          "grupo": "001",
+          "grupo": "002",
           "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
-          "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
+          "profesor": "CARLO EDUARDO ALCARAZ PRIBAZ",
           "creditos": "6",
-          "horario": "10:00-13:00",
+          "horario": "07:00-10:00",
           "dias": [
-            "LU"
+            "MA"
           ],
-          "salon": "RH309",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ],
-      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
-          "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
-          "creditos": "9",
-          "horario": "10:00-13:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
-        }
-      ],
-      "ECO-24306-ORG. INDUSTRIAL EMPIRICA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-24306-ORG. INDUSTRIAL EMPIRICA",
-          "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "ST208",
-          "campus": "ST. TERESA",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "CARLO EDUARDO ALCARAZ PRIBAZ": {
-    "grupos": {
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
         {
           "grupo": "002",
@@ -9534,6 +9487,23 @@ let profesores={
     "general": 6.1538,
     "n": 26,
     "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "FELIX VELEZ FERNANDEZ VARELA",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
         {
           "grupo": "003",
@@ -9574,6 +9544,22 @@ let profesores={
     "general": 8.0,
     "n": 14,
     "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
         {
           "grupo": "004",
@@ -9610,6 +9596,22 @@ let profesores={
   },
   "REYES RUIZ GONZALEZ": {
     "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "005",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "REYES RUIZ GONZALEZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
         {
           "grupo": "005",
@@ -10715,7 +10717,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -15979,9 +15981,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16942,8 +16944,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1803,
-    "n": 61,
+    "general": 7.2258,
+    "n": 62,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -18603,12 +18605,12 @@ let mejoresPorDepto={
     "DANIELA RUIZ MASSIEU SALINAS",
     "ADRIAN RUBLI ORNELAS",
     "SANTIAGO ALBERICO LEZAMA",
-    "JOSE JAVIER MEDRANO PEREZ",
     "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
     "JUAN JOSE FERNANDEZ DURAN",
     "JANKO HERNANDEZ CORTES",
     "CARLOS GONZALEZ HERNANDEZ",
-    "CLAUDIA NOEMI GONZALEZ BRAMBILA"
+    "CLAUDIA NOEMI GONZALEZ BRAMBILA",
+    "JOHN BRADFORD MCBRIDE PITTS"
   ],
   "CTRO DE ESTUDIO DEL BIENESTAR": [
     "MARGARITA TARRAGONA SAEZ"

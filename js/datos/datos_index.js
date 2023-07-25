@@ -1,4 +1,4 @@
-let actualizado="1690209370203.3564";
+let actualizado="1690295750998.6355";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2196,27 +2196,6 @@ let clases={
           "MI"
         ],
         "salon": "RH111",
-        "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
-      }
-    ]
-  },
-  "ADM-16720": {
-    "nombre": "ADM-16720-MERCADOTECNIA PARA E-COMMERCE",
-    "clave": "ADM-16720",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-16720-MERCADOTECNIA PARA E-COMMERCE",
-        "profesor": "JOSE JAVIER MEDRANO PEREZ",
-        "creditos": "6",
-        "horario": "17:30-19:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -5050,7 +5029,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH304",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -7796,18 +7775,75 @@ let clases={
     "clave": "ECO-10202",
     "grupos": [
       {
-        "grupo": "001",
+        "grupo": "002",
         "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
-        "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
+        "profesor": "CARLO EDUARDO ALCARAZ PRIBAZ",
         "creditos": "6",
-        "horario": "10:00-13:00",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHSA3",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "FELIX VELEZ FERNANDEZ VARELA",
+        "creditos": "6",
+        "horario": "19:00-20:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH109",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+        "creditos": "6",
+        "horario": "07:00-10:00",
         "dias": [
           "LU"
         ],
-        "salon": "RH309",
+        "salon": "RH107",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "13:00"
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "REYES RUIZ GONZALEZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH102",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "006",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "08:30-11:30",
+        "dias": [
+          "MI"
+        ],
+        "salon": "PF108",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "11:30"
       }
     ]
   },
@@ -7815,20 +7851,6 @@ let clases={
     "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
     "clave": "ECO-10204",
     "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
-        "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
-        "creditos": "9",
-        "horario": "10:00-13:00",
-        "dias": [
-          "LU"
-        ],
-        "salon": "RH309",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "13:00"
-      },
       {
         "grupo": "002",
         "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
@@ -8716,14 +8738,14 @@ let clases={
         "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
         "profesor": "",
         "creditos": "6",
-        "horario": "08:30-09:30",
+        "horario": "08:30-11:30",
         "dias": [
           "MA"
         ],
-        "salon": "RH314",
+        "salon": "RH204",
         "campus": "RIO HONDO",
         "inicio": "08:30",
-        "fin": "09:30"
+        "fin": "11:30"
       },
       {
         "grupo": "002",
@@ -9140,7 +9162,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -9372,26 +9394,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:30",
         "fin": "11:00"
-      }
-    ]
-  },
-  "ECO-24306": {
-    "nombre": "ECO-24306-ORG. INDUSTRIAL EMPIRICA",
-    "clave": "ECO-24306",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ECO-24306-ORG. INDUSTRIAL EMPIRICA",
-        "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
-        "creditos": "6",
-        "horario": "16:00-19:00",
-        "dias": [
-          "LU"
-        ],
-        "salon": "ST208",
-        "campus": "ST. TERESA",
-        "inicio": "16:00",
-        "fin": "19:00"
       }
     ]
   },
@@ -16501,7 +16503,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA4",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -18068,11 +18070,6 @@ let misProfesData={
     "general": 7.7742,
     "n": 31
   },
-  "JOSE JAVIER MEDRANO PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
-    "general": 9.0,
-    "n": 3
-  },
   "DENISE MEJAN GANEM": {
     "link": "https://www.misprofesores.com/profesores/Denise-Mejan-Ganem_140466",
     "general": 10.0,
@@ -18290,8 +18287,8 @@ let misProfesData={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1803,
-    "n": 61
+    "general": 7.2258,
+    "n": 62
   },
   "JESUS PUENTE TREVI\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Jesus-Puente-Trevi\u00f1o_89712",
@@ -18443,11 +18440,6 @@ let misProfesData={
     "general": 5.7857,
     "n": 14
   },
-  "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
-    "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
-    "general": 5.0,
-    "n": 11
-  },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
     "general": 7.0,
@@ -18514,9 +18506,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
