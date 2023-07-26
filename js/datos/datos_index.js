@@ -1,4 +1,4 @@
-let actualizado="1690295750998.6355";
+let actualizado="1690382143316.239";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -8117,13 +8117,13 @@ let clases={
         "nombre": "ECO-11101-ECONOMIA, I",
         "profesor": "",
         "creditos": "6",
-        "horario": "14:30-16:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "JU"
+          "VI"
         ],
         "salon": "",
         "campus": "",
-        "inicio": "14:30",
+        "inicio": "14:00",
         "fin": "16:00"
       },
       {
@@ -15886,7 +15886,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
-        "profesor": "CESAR LUIS GARCIA GARCIA",
+        "profesor": "",
         "creditos": "8",
         "horario": "07:00-09:00",
         "dias": [
@@ -15961,7 +15961,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
-        "profesor": "ZEFERINO PARADA GARCIA",
+        "profesor": "",
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [

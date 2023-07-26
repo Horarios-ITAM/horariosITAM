@@ -1,4 +1,4 @@
-let actualizado="1690295751024.819";
+let actualizado="1690382143338.7314";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -1734,13 +1734,13 @@ let profesores={
           "nombre": "ECO-11101-ECONOMIA, I",
           "profesor": "",
           "creditos": "6",
-          "horario": "14:30-16:00",
+          "horario": "14:00-16:00",
           "dias": [
-            "JU"
+            "VI"
           ],
           "salon": "",
           "campus": "",
-          "inicio": "14:30",
+          "inicio": "14:00",
           "fin": "16:00"
         },
         {
@@ -2790,6 +2790,38 @@ let profesores={
           "campus": "",
           "inicio": "14:00",
           "fin": "16:00"
+        }
+      ],
+      "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "07:00-09:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF101",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        },
+        {
+          "grupo": "006",
+          "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ],
       "MAT-14390-MATEMATICA COMPUTACIONAL": [
@@ -17573,47 +17605,6 @@ let profesores={
       ]
     }
   },
-  "CESAR LUIS GARCIA GARCIA": {
-    "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
-    "general": 7.2593,
-    "n": 54,
-    "grupos": {
-      "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
-          "profesor": "CESAR LUIS GARCIA GARCIA",
-          "creditos": "8",
-          "horario": "07:00-09:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF101",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ],
-      "MAT-15001-INTRODUCCION A LA MODELACION": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-15001-INTRODUCCION A LA MODELACION",
-          "profesor": "CESAR LUIS GARCIA GARCIA",
-          "creditos": "6",
-          "horario": "09:00-10:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF101",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:30"
-        }
-      ]
-    }
-  },
   "MARTA CABO NODAR": {
     "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
     "general": 4.225,
@@ -17690,62 +17681,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
-        }
-      ]
-    }
-  },
-  "ZEFERINO PARADA GARCIA": {
-    "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
-    "general": 6.4,
-    "n": 35,
-    "grupos": {
-      "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
-        {
-          "grupo": "006",
-          "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
-          "profesor": "ZEFERINO PARADA GARCIA",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "MAT-14400-CALCULO  NUMERICO,I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14400-CALCULO  NUMERICO,I",
-          "profesor": "ZEFERINO PARADA GARCIA",
-          "creditos": "8",
-          "horario": "18:00-20:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
-        }
-      ],
-      "MAT-24410-PROGRAMACION LINEAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-24410-PROGRAMACION LINEAL",
-          "profesor": "ZEFERINO PARADA GARCIA",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -17967,6 +17902,69 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
+        }
+      ]
+    }
+  },
+  "ZEFERINO PARADA GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
+    "general": 6.4,
+    "n": 35,
+    "grupos": {
+      "MAT-14400-CALCULO  NUMERICO,I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14400-CALCULO  NUMERICO,I",
+          "profesor": "ZEFERINO PARADA GARCIA",
+          "creditos": "8",
+          "horario": "18:00-20:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "20:00"
+        }
+      ],
+      "MAT-24410-PROGRAMACION LINEAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-24410-PROGRAMACION LINEAL",
+          "profesor": "ZEFERINO PARADA GARCIA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "CESAR LUIS GARCIA GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
+    "general": 7.2593,
+    "n": 54,
+    "grupos": {
+      "MAT-15001-INTRODUCCION A LA MODELACION": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-15001-INTRODUCCION A LA MODELACION",
+          "profesor": "CESAR LUIS GARCIA GARCIA",
+          "creditos": "6",
+          "horario": "09:00-10:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF101",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:30"
         }
       ]
     }
