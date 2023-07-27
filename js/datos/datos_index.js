@@ -1,4 +1,4 @@
-let actualizado="1690382143316.239";
+let actualizado="1690468558093.9019";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -9125,7 +9125,7 @@ let clases={
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
-          "MI"
+          "MA"
         ],
         "salon": "RHLI1",
         "campus": "RIO HONDO",
@@ -9312,9 +9312,9 @@ let clases={
         "creditos": "6",
         "horario": "17:00-20:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "ST204",
+        "salon": "STISOPC",
         "campus": "ST. TERESA",
         "inicio": "17:00",
         "fin": "20:00"
@@ -9330,14 +9330,14 @@ let clases={
         "nombre": "ECO-21112-EQUILIBRIO GENERAL",
         "profesor": "XINYANG WANG",
         "creditos": "6",
-        "horario": "10:30-13:30",
+        "horario": "12:00-15:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "ST202",
+        "salon": "STISOPC",
         "campus": "ST. TERESA",
-        "inicio": "10:30",
-        "fin": "13:30"
+        "inicio": "12:00",
+        "fin": "15:00"
       }
     ]
   },
@@ -16582,6 +16582,27 @@ let clases={
       }
     ]
   },
+  "MAT-24130": {
+    "nombre": "MAT-24130-TEORIA DE LA MEDIDA (OP)",
+    "clave": "MAT-24130",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-24130-TEORIA DE LA MEDIDA (OP)",
+        "profesor": "CESAR LUIS GARCIA GARCIA",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH107",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      }
+    ]
+  },
   "MAT-24150": {
     "nombre": "MAT-24150-TEMAS SELECTOS DE ANALISIS I",
     "clave": "MAT-24150",
@@ -16747,12 +16768,26 @@ let clases={
         "creditos": "8",
         "horario": "10:00-12:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH307",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-24431-OPTIMIZACION NUMERICA, I",
+        "profesor": "ZEFERINO PARADA GARCIA",
+        "creditos": "8",
+        "horario": "16:00-18:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHCC202",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -18005,15 +18040,10 @@ let misProfesData={
     "general": 7.619,
     "n": 21
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
-    "general": 7.7895,
-    "n": 76
+    "general": 7.8182,
+    "n": 77
   },
   "MARISOL LOPEZ ROMERO": {
     "link": "https://www.misprofesores.com/profesores/Marisol-Lopez-Romero_107554",

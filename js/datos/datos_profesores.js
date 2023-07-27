@@ -1,4 +1,4 @@
-let actualizado="1690382143338.7314";
+let actualizado="1690468558113.8457";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -4971,9 +4971,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -10723,7 +10720,7 @@ let profesores={
           "creditos": "6",
           "horario": "10:00-13:00",
           "dias": [
-            "MI"
+            "MA"
           ],
           "salon": "RHLI1",
           "campus": "RIO HONDO",
@@ -10794,9 +10791,9 @@ let profesores={
           "creditos": "6",
           "horario": "17:00-20:00",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "ST204",
+          "salon": "STISOPC",
           "campus": "ST. TERESA",
           "inicio": "17:00",
           "fin": "20:00"
@@ -10808,14 +10805,14 @@ let profesores={
           "nombre": "ECO-21112-EQUILIBRIO GENERAL",
           "profesor": "XINYANG WANG",
           "creditos": "6",
-          "horario": "10:30-13:30",
+          "horario": "12:00-15:00",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "ST202",
+          "salon": "STISOPC",
           "campus": "ST. TERESA",
-          "inicio": "10:30",
-          "fin": "13:30"
+          "inicio": "12:00",
+          "fin": "15:00"
         }
       ]
     }
@@ -11563,8 +11560,8 @@ let profesores={
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
-    "general": 7.7895,
-    "n": 76,
+    "general": 7.8182,
+    "n": 77,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -17675,9 +17672,9 @@ let profesores={
           "creditos": "8",
           "horario": "10:00-12:00",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "RHCC302",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
@@ -17942,6 +17939,22 @@ let profesores={
           "inicio": "16:00",
           "fin": "17:30"
         }
+      ],
+      "MAT-24431-OPTIMIZACION NUMERICA, I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-24431-OPTIMIZACION NUMERICA, I",
+          "profesor": "ZEFERINO PARADA GARCIA",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
       ]
     }
   },
@@ -17965,6 +17978,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:30"
+        }
+      ],
+      "MAT-24130-TEORIA DE LA MEDIDA (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-24130-TEORIA DE LA MEDIDA (OP)",
+          "profesor": "CESAR LUIS GARCIA GARCIA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
