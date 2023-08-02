@@ -1,7 +1,6 @@
 name: auto-scrapping-data
 run-name: Auto scrapping and pushing new data
 on:
-  push:
   schedule: # Se scrappean datos periodicamente - NOTA: todos los tiempos en UTC.
     - cron: '30 14 * * *' # Actualizamos los horarios todos los dias (aprox 8:30 hr Mexico)
     - cron: '45 14 * * *' # Actualizamos los calendatios todos los dias (aprox 8:45 hr Mexico)
@@ -21,22 +20,22 @@ jobs:
       run: |
         pip install -r update/requirements.txt
 
-    - name: Run update.py # Actualizamos horarios
+    - name: Scrapeo de horarios
       if: github.event.schedule == '30 14 * * *'
       run: |
         python3 update/update.py ${{ secrets.GRACE_USR }} ${{ secrets.GRACE_PASSWD }}
 
-    - name: Run update.py # Actualizamos calendarios
+    - name: Scrapeo de calendarios
       if: github.event.schedule == '45 14 * * *'
       run: |
         python3 update/cacheCalendarios.py
 
-    - name: Run update.py # Actualizamos boletines
+    - name: Scrapeo de boletines existentes
       if: github.event.schedule == '0 0 * * 5'
       run: |
         python3 update/cacheBoletines.py
     
-    - name: Run update.py # Actualizamos boletines por fuerza bruta
+    - name: Scrapeo de boletines fbruta
       if: github.event.schedule == '15 14 1 * *'
       run: |
         python3 update/cacheBoletines.py --modo encuentra
