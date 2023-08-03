@@ -1,4 +1,4 @@
-let actualizado="1690814144017.5134";
+let actualizado="1691073359547.7725";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -192,7 +192,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA4",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -209,7 +209,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA4",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -1215,6 +1215,24 @@ let profesores={
           "fin": "14:00"
         }
       ],
+      "COM-11101-ALGORITMOS Y PROGRAMAS": [
+        {
+          "grupo": "006",
+          "nombre": "COM-11101-ALGORITMOS Y PROGRAMAS",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
           "grupo": "003",
@@ -1696,38 +1714,6 @@ let profesores={
           "fin": "16:00"
         }
       ],
-      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
-        {
-          "grupo": "006",
-          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-11:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "11:30"
-        }
-      ],
-      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
-        {
-          "grupo": "006",
-          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "08:30-11:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "11:30"
-        }
-      ],
       "ECO-11101-ECONOMIA, I": [
         {
           "grupo": "002",
@@ -1930,6 +1916,22 @@ let profesores={
           "fin": "16:00"
         }
       ],
+      "ECO-11122-MICROECONOMIA AVANZADA II": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "09:00-12:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHLI1",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "12:00"
+        }
+      ],
       "ECO-11227-DISE\u00d1O DE MERCADOS": [
         {
           "grupo": "001",
@@ -2016,22 +2018,6 @@ let profesores={
           "campus": "",
           "inicio": "14:30",
           "fin": "16:00"
-        }
-      ],
-      "ECO-13102-ECONOMIA INTERNACIONAL, II": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-11:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH204",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "11:30"
         }
       ],
       "ECO-18101-DESARROLLO ECONOMICO I": [
@@ -2494,13 +2480,13 @@ let profesores={
           "nombre": "MAT-11100-MATEMATICAS, I",
           "profesor": "",
           "creditos": "9",
-          "horario": "14:00-16:00",
+          "horario": "14:30-16:00",
           "dias": [
-            "MI"
+            "MA"
           ],
           "salon": "",
           "campus": "",
-          "inicio": "14:00",
+          "inicio": "14:30",
           "fin": "16:00"
         },
         {
@@ -2508,13 +2494,13 @@ let profesores={
           "nombre": "MAT-11100-MATEMATICAS, I",
           "profesor": "",
           "creditos": "9",
-          "horario": "14:00-16:00",
+          "horario": "14:30-16:00",
           "dias": [
-            "MI"
+            "MA"
           ],
           "salon": "",
           "campus": "",
-          "inicio": "14:00",
+          "inicio": "14:30",
           "fin": "16:00"
         },
         {
@@ -2524,7 +2510,7 @@ let profesores={
           "creditos": "9",
           "horario": "14:00-16:00",
           "dias": [
-            "MI"
+            "MA"
           ],
           "salon": "",
           "campus": "",
@@ -2674,6 +2660,21 @@ let profesores={
           "campus": "",
           "inicio": "14:00",
           "fin": "16:00"
+        },
+        {
+          "grupo": "007",
+          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH314",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ],
       "MAT-14101-CALCULO DIF. E INT., II": [
@@ -2854,6 +2855,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
+        }
+      ],
+      "SDI-14105-INTRODUCCION A LA INGENIERIA": [
+        {
+          "grupo": "002",
+          "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "09:30-11:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHPACE",
+          "campus": "RIO HONDO",
+          "inicio": "09:30",
+          "fin": "11:00"
         }
       ]
     }
@@ -3500,16 +3518,13 @@ let profesores={
       ]
     }
   },
-  "SANTIAGO ALBERICO LEZAMA": {
-    "link": "https://www.misprofesores.com/profesores/Santiago-Alberico-Lezama_140280",
-    "general": 9.0,
-    "n": 1,
+  "MAURICIO SANCHEZ LEON ORANTES": {
     "grupos": {
       "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
         {
           "grupo": "001",
           "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-          "profesor": "SANTIAGO ALBERICO LEZAMA",
+          "profesor": "MAURICIO SANCHEZ LEON ORANTES",
           "creditos": "6",
           "horario": "19:00-22:00",
           "dias": [
@@ -4551,16 +4566,13 @@ let profesores={
       ]
     }
   },
-  "ANA LIDIA FRANZONI VELAZQUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Lidia-Franzoni-Vel\u00e1zquez_10856",
-    "general": 8.1569,
-    "n": 51,
+  "MARIA DE LOURDES ALICIA DOMENZAIN ORTEGA": {
     "grupos": {
       "COM-11101-ALGORITMOS Y PROGRAMAS": [
         {
           "grupo": "003",
           "nombre": "COM-11101-ALGORITMOS Y PROGRAMAS",
-          "profesor": "ANA LIDIA FRANZONI VELAZQUEZ",
+          "profesor": "MARIA DE LOURDES ALICIA DOMENZAIN ORTEGA",
           "creditos": "9",
           "horario": "10:00-11:30",
           "dias": [
@@ -4572,6 +4584,31 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "ANA LIDIA FRANZONI VELAZQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Lidia-Franzoni-Vel\u00e1zquez_10856",
+    "general": 8.1569,
+    "n": 51,
+    "grupos": {
+      "COM-11101-ALGORITMOS Y PROGRAMAS": [
+        {
+          "grupo": "004",
+          "nombre": "COM-11101-ALGORITMOS Y PROGRAMAS",
+          "profesor": "ANA LIDIA FRANZONI VELAZQUEZ",
+          "creditos": "9",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RHCC101",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ],
       "COM-16203-DES. DE APLICACS. INFORMATICAS": [
@@ -4589,45 +4626,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
-        }
-      ]
-    }
-  },
-  "MARCELO CARLOS MEJIA OLVERA": {
-    "grupos": {
-      "COM-11101-ALGORITMOS Y PROGRAMAS": [
-        {
-          "grupo": "004",
-          "nombre": "COM-11101-ALGORITMOS Y PROGRAMAS",
-          "profesor": "MARCELO CARLOS MEJIA OLVERA",
-          "creditos": "9",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RHCC101",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "COM-14105-ALGORITMOS NUM. POR COMPU.": [
-        {
-          "grupo": "001",
-          "nombre": "COM-14105-ALGORITMOS NUM. POR COMPU.",
-          "profesor": "MARCELO CARLOS MEJIA OLVERA",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHCC101",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -4670,28 +4668,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
-        }
-      ]
-    }
-  },
-  "MARIA DE LOURDES ALICIA DOMENZAIN ORTEGA": {
-    "grupos": {
-      "COM-11101-ALGORITMOS Y PROGRAMAS": [
-        {
-          "grupo": "006",
-          "nombre": "COM-11101-ALGORITMOS Y PROGRAMAS",
-          "profesor": "MARIA DE LOURDES ALICIA DOMENZAIN ORTEGA",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -5099,6 +5075,57 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "MARCELO CARLOS MEJIA OLVERA": {
+    "grupos": {
+      "COM-14105-ALGORITMOS NUM. POR COMPU.": [
+        {
+          "grupo": "001",
+          "nombre": "COM-14105-ALGORITMOS NUM. POR COMPU.",
+          "profesor": "MARCELO CARLOS MEJIA OLVERA",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC101",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "SDI-15816-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+          "profesor": "MARCELO CARLOS MEJIA OLVERA",
+          "creditos": "4",
+          "horario": "17:30-19:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH211",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+          "profesor": "MARCELO CARLOS MEJIA OLVERA",
+          "creditos": "4",
+          "horario": "18:00-20:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH204",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -5518,8 +5545,8 @@ let profesores={
   },
   "ROSARIO EDITH GARCIA MENDIOLA": {
     "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
-    "general": 8.3333,
-    "n": 60,
+    "general": 8.3607,
+    "n": 61,
     "grupos": {
       "COM-16401-COMPUTACION I, INTENSIVA": [
         {
@@ -5636,7 +5663,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH301",
+          "salon": "RHLI1",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -6380,7 +6407,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH304",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -6843,7 +6870,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH304",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -6858,7 +6885,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH316",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -7346,8 +7373,8 @@ let profesores={
   },
   "MARIANA CALDERON ARAMBURU": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Calder\u00f3n-Aramburu_140257",
-    "general": 9.5,
-    "n": 2,
+    "general": 7.0,
+    "n": 3,
     "grupos": {
       "DER-10011-REGIMEN FISCAL MEXICANO (CP)": [
         {
@@ -9634,14 +9661,15 @@ let profesores={
           "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
           "profesor": "REYES RUIZ GONZALEZ",
           "creditos": "6",
-          "horario": "07:00-10:00",
+          "horario": "07:00-08:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
-          "salon": "RH102",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "10:00"
+          "fin": "08:30"
         }
       ],
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
@@ -9650,14 +9678,67 @@ let profesores={
           "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
           "profesor": "REYES RUIZ GONZALEZ",
           "creditos": "9",
-          "horario": "07:00-10:00",
+          "horario": "07:00-08:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
-          "salon": "RH102",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "10:00"
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "VICTORIA NUGUER": {
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "006",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "VICTORIA NUGUER",
+          "creditos": "6",
+          "horario": "08:30-11:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "11:30"
+        }
+      ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "006",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "VICTORIA NUGUER",
+          "creditos": "9",
+          "horario": "08:30-11:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "11:30"
+        }
+      ],
+      "ECO-13102-ECONOMIA INTERNACIONAL, II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
+          "profesor": "VICTORIA NUGUER",
+          "creditos": "6",
+          "horario": "08:30-11:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH204",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "11:30"
         }
       ]
     }
@@ -12709,8 +12790,8 @@ let profesores={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.4865,
-    "n": 37,
+    "general": 8.5263,
+    "n": 38,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -13910,22 +13991,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
-        }
-      ],
-      "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-          "profesor": "YARAI ELIZABETH TLATELPA OSORIO",
-          "creditos": "10",
-          "horario": "16:00-18:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLSIST",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
         }
       ]
     }
@@ -16609,8 +16674,8 @@ let profesores={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 9.25,
-    "n": 4,
+    "general": 9.4,
+    "n": 5,
     "grupos": {
       "MAT-11101-MATEMATICAS, II": [
         {
@@ -17151,30 +17216,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        }
-      ]
-    }
-  },
-  "PAVEL REAL PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
-    "general": 9.5,
-    "n": 22,
-    "grupos": {
-      "MAT-14100-CALCULO DIF. E INT., I": [
-        {
-          "grupo": "007",
-          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-          "profesor": "PAVEL REAL PEREZ",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH314",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
         }
       ]
     }
@@ -17728,8 +17769,8 @@ let profesores={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.8333,
-    "n": 54,
+    "general": 4.7818,
+    "n": 55,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -18420,16 +18461,33 @@ let profesores={
       ]
     }
   },
-  "JOSE GUADALUPE ROMERO VELAZQUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Guadalupe-Romero-Velasquez_81677",
-    "general": 7.5,
-    "n": 2,
+  "SERGIO HERNANDEZ SANCHEZ": {
+    "grupos": {
+      "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
+          "profesor": "SERGIO HERNANDEZ SANCHEZ",
+          "creditos": "10",
+          "horario": "16:00-18:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLSIST",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ]
+    }
+  },
+  "HUGO RODRIGUEZ CORTES": {
     "grupos": {
       "SDI-11561-PRINCIPIOS DE MECATRONICA": [
         {
           "grupo": "001",
           "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
-          "profesor": "JOSE GUADALUPE ROMERO VELAZQUEZ",
+          "profesor": "HUGO RODRIGUEZ CORTES",
           "creditos": "10",
           "horario": "12:00-14:00",
           "dias": [
@@ -18442,6 +18500,29 @@ let profesores={
           "fin": "14:00"
         }
       ],
+      "SDI-15777-SISTS. AERONAVES NO TRIPULADAS": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15777-SISTS. AERONAVES NO TRIPULADAS",
+          "profesor": "HUGO RODRIGUEZ CORTES",
+          "creditos": "6",
+          "horario": "11:00-14:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLSIST",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "JOSE GUADALUPE ROMERO VELAZQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Guadalupe-Romero-Velasquez_81677",
+    "general": 7.5,
+    "n": 2,
+    "grupos": {
       "SDI-11911-ROBOTICA": [
         {
           "grupo": "001",
@@ -18457,6 +18538,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:30"
+        }
+      ],
+      "SDI-14105-INTRODUCCION A LA INGENIERIA": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
+          "profesor": "JOSE GUADALUPE ROMERO VELAZQUEZ",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHPACE",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -18477,7 +18575,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH112",
+          "salon": "RHLI2",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -18541,81 +18639,6 @@ let profesores={
         }
       ]
     }
-  },
-  "ENRIQUE MELROSE AGUILAR": {
-    "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
-    "general": 7.6316,
-    "n": 19,
-    "grupos": {
-      "SDI-14105-INTRODUCCION A LA INGENIERIA": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
-          "profesor": "ENRIQUE MELROSE AGUILAR",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHPACE",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
-          "profesor": "ENRIQUE MELROSE AGUILAR",
-          "creditos": "6",
-          "horario": "09:30-11:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHPACE",
-          "campus": "RIO HONDO",
-          "inicio": "09:30",
-          "fin": "11:00"
-        }
-      ],
-      "SDI-15816-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-          "profesor": "ENRIQUE MELROSE AGUILAR",
-          "creditos": "4",
-          "horario": "17:30-19:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH211",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
-        }
-      ]
-    }
-  },
-  "HUGO RODRIGUEZ CORTES": {
-    "grupos": {
-      "SDI-15777-SISTS. AERONAVES NO TRIPULADAS": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-15777-SISTS. AERONAVES NO TRIPULADAS",
-          "profesor": "HUGO RODRIGUEZ CORTES",
-          "creditos": "6",
-          "horario": "11:00-14:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLSIST",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
-        }
-      ]
-    }
   }
 };
 let mejoresPorDepto={
@@ -18635,13 +18658,13 @@ let mejoresPorDepto={
     "MARIANA CONTRERAS AREVALO",
     "DANIELA RUIZ MASSIEU SALINAS",
     "ADRIAN RUBLI ORNELAS",
-    "SANTIAGO ALBERICO LEZAMA",
     "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
     "JUAN JOSE FERNANDEZ DURAN",
     "JANKO HERNANDEZ CORTES",
     "CARLOS GONZALEZ HERNANDEZ",
     "CLAUDIA NOEMI GONZALEZ BRAMBILA",
-    "JOHN BRADFORD MCBRIDE PITTS"
+    "JOHN BRADFORD MCBRIDE PITTS",
+    "FRANCO ZECCHETTO TOLEDO"
   ],
   "CTRO DE ESTUDIO DEL BIENESTAR": [
     "MARGARITA TARRAGONA SAEZ"
@@ -18698,11 +18721,11 @@ let mejoresPorDepto={
     "JOSE OMAR HERNANDEZ SALGADO",
     "JOSE LUIS CABALLERO RODRIGUEZ",
     "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
-    "MARIANA CALDERON ARAMBURU",
     "LUIS ENRIQUE PEREDA TREJO",
     "AMRITA BAHRI",
     "JOSE ANGEL FERNANDEZ URIA",
-    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
+    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
+    "JAIME PERALES CONTRERAS"
   ],
   "ECONOMIA": [
     "CHRISTINA CORNEJO VAN LUIT",
@@ -18777,7 +18800,6 @@ let mejoresPorDepto={
     "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
-    "PAVEL REAL PEREZ",
     "MAYRA NU\u00d1EZ LOPEZ",
     "LYSETTE FELIX FELIX",
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
@@ -18786,18 +18808,19 @@ let mejoresPorDepto={
     "CONCEPCION RUIZ RUIZ FUNES",
     "IRMA BEATRIZ RUMBOS PELLICER",
     "SHARON MAGALI VALVERDE ESPARZA",
-    "LEOBARDO FERNANDEZ ROMAN"
+    "LEOBARDO FERNANDEZ ROMAN",
+    "MARTHA LORENA ZOGAIB ACHCAR"
   ],
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER VILLA LOPEZ",
     "RAFAEL CISNEROS MONTOYA",
-    "ENRIQUE MELROSE AGUILAR",
     "JOSE GUADALUPE ROMERO VELAZQUEZ",
     "JOSE CALIXTO CANO",
     "ANTE SALCEDO GONZALEZ",
     "MARIA OFELIA RODRIGUEZ DURAN",
     "CARLOS ALBERTO MUNIVE VAZQUEZ",
     "ROMEO SALVADOR ORTEGA MARTINEZ",
-    "JOSE DE JESUS MORALES ROMERO"
+    "JOSE DE JESUS MORALES ROMERO",
+    "SERGIO HERNANDEZ SANCHEZ"
   ]
 };

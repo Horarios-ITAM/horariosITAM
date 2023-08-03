@@ -1,4 +1,4 @@
-let actualizado="1690814143997.934";
+let actualizado="1691073359525.6272";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -127,7 +127,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHSA4",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -148,7 +148,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHSA4",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -1404,7 +1404,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-        "profesor": "SANTIAGO ALBERICO LEZAMA",
+        "profesor": "MAURICIO SANCHEZ LEON ORANTES",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -2647,7 +2647,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "COM-11101-ALGORITMOS Y PROGRAMAS",
-        "profesor": "ANA LIDIA FRANZONI VELAZQUEZ",
+        "profesor": "MARIA DE LOURDES ALICIA DOMENZAIN ORTEGA",
         "creditos": "9",
         "horario": "10:00-11:30",
         "dias": [
@@ -2663,7 +2663,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "COM-11101-ALGORITMOS Y PROGRAMAS",
-        "profesor": "MARCELO CARLOS MEJIA OLVERA",
+        "profesor": "ANA LIDIA FRANZONI VELAZQUEZ",
         "creditos": "9",
         "horario": "11:30-13:00",
         "dias": [
@@ -2695,7 +2695,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "COM-11101-ALGORITMOS Y PROGRAMAS",
-        "profesor": "MARIA DE LOURDES ALICIA DOMENZAIN ORTEGA",
+        "profesor": "",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -3445,7 +3445,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH301",
+        "salon": "RHLI1",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -4875,7 +4875,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH304",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -4973,7 +4973,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH304",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -4988,7 +4988,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH316",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -7822,19 +7822,20 @@ let clases={
         "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
         "profesor": "REYES RUIZ GONZALEZ",
         "creditos": "6",
-        "horario": "07:00-10:00",
+        "horario": "07:00-08:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "RH102",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "10:00"
+        "fin": "08:30"
       },
       {
         "grupo": "006",
         "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
-        "profesor": "",
+        "profesor": "VICTORIA NUGUER",
         "creditos": "6",
         "horario": "08:30-11:30",
         "dias": [
@@ -7899,19 +7900,20 @@ let clases={
         "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
         "profesor": "REYES RUIZ GONZALEZ",
         "creditos": "9",
-        "horario": "07:00-10:00",
+        "horario": "07:00-08:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "RH102",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "10:00"
+        "fin": "08:30"
       },
       {
         "grupo": "006",
         "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
-        "profesor": "",
+        "profesor": "VICTORIA NUGUER",
         "creditos": "9",
         "horario": "08:30-11:30",
         "dias": [
@@ -8448,6 +8450,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "09:00-12:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RHLI1",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "12:00"
       }
     ]
   },
@@ -8736,7 +8752,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
-        "profesor": "",
+        "profesor": "VICTORIA NUGUER",
         "creditos": "6",
         "horario": "08:30-11:30",
         "dias": [
@@ -15076,13 +15092,13 @@ let clases={
         "nombre": "MAT-11100-MATEMATICAS, I",
         "profesor": "",
         "creditos": "9",
-        "horario": "14:00-16:00",
+        "horario": "14:30-16:00",
         "dias": [
-          "MI"
+          "MA"
         ],
         "salon": "",
         "campus": "",
-        "inicio": "14:00",
+        "inicio": "14:30",
         "fin": "16:00"
       },
       {
@@ -15090,13 +15106,13 @@ let clases={
         "nombre": "MAT-11100-MATEMATICAS, I",
         "profesor": "",
         "creditos": "9",
-        "horario": "14:00-16:00",
+        "horario": "14:30-16:00",
         "dias": [
-          "MI"
+          "MA"
         ],
         "salon": "",
         "campus": "",
-        "inicio": "14:00",
+        "inicio": "14:30",
         "fin": "16:00"
       },
       {
@@ -15106,7 +15122,7 @@ let clases={
         "creditos": "9",
         "horario": "14:00-16:00",
         "dias": [
-          "MI"
+          "MA"
         ],
         "salon": "",
         "campus": "",
@@ -15585,7 +15601,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-        "profesor": "PAVEL REAL PEREZ",
+        "profesor": "",
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
@@ -17086,7 +17102,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-        "profesor": "YARAI ELIZABETH TLATELPA OSORIO",
+        "profesor": "SERGIO HERNANDEZ SANCHEZ",
         "creditos": "10",
         "horario": "16:00-18:00",
         "dias": [
@@ -17106,7 +17122,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
-        "profesor": "JOSE GUADALUPE ROMERO VELAZQUEZ",
+        "profesor": "HUGO RODRIGUEZ CORTES",
         "creditos": "10",
         "horario": "12:00-14:00",
         "dias": [
@@ -17175,7 +17191,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RHLI2",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -17317,7 +17333,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
-        "profesor": "ENRIQUE MELROSE AGUILAR",
+        "profesor": "JOSE GUADALUPE ROMERO VELAZQUEZ",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -17332,7 +17348,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
-        "profesor": "ENRIQUE MELROSE AGUILAR",
+        "profesor": "",
         "creditos": "6",
         "horario": "09:30-11:00",
         "dias": [
@@ -17373,7 +17389,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "ENRIQUE MELROSE AGUILAR",
+        "profesor": "MARCELO CARLOS MEJIA OLVERA",
         "creditos": "4",
         "horario": "17:30-19:30",
         "dias": [
@@ -17383,6 +17399,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+        "profesor": "MARCELO CARLOS MEJIA OLVERA",
+        "creditos": "4",
+        "horario": "18:00-20:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RH204",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "20:00"
       }
     ]
   },
@@ -17455,11 +17485,6 @@ let misProfesData={
     "general": 8.7872,
     "n": 47
   },
-  "SANTIAGO ALBERICO LEZAMA": {
-    "link": "https://www.misprofesores.com/profesores/Santiago-Alberico-Lezama_140280",
-    "general": 9.0,
-    "n": 1
-  },
   "JORGE ALONSO ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
     "general": 6.963,
@@ -17507,8 +17532,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.4865,
-    "n": 37
+    "general": 8.5263,
+    "n": 38
   },
   "OMAR AVILA GARCIA SAGREDO": {
     "link": "https://www.misprofesores.com/profesores/Omar-\u00c1vila-Garc\u00eda-Sagredo_57486",
@@ -17572,8 +17597,8 @@ let misProfesData={
   },
   "MARIANA CALDERON ARAMBURU": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Calder\u00f3n-Aramburu_140257",
-    "general": 9.5,
-    "n": 2
+    "general": 7.0,
+    "n": 3
   },
   "JOSE CALIXTO CANO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
@@ -17747,8 +17772,8 @@ let misProfesData={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 9.25,
-    "n": 4
+    "general": 9.4,
+    "n": 5
   },
   "RAUL FERNANDEZ BRISE\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Raul-Fernandez-Brise\u00f1o_51347",
@@ -17862,8 +17887,8 @@ let misProfesData={
   },
   "ROSARIO EDITH GARCIA MENDIOLA": {
     "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
-    "general": 8.3333,
-    "n": 60
+    "general": 8.3607,
+    "n": 61
   },
   "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO": {
     "link": "https://www.misprofesores.com/profesores/HUGO-ALEJANDRO-GARDU\u00d1O-ARREDONDO_103934",
@@ -18120,11 +18145,6 @@ let misProfesData={
     "general": 7.5833,
     "n": 48
   },
-  "ENRIQUE MELROSE AGUILAR": {
-    "link": "https://www.misprofesores.com/profesores/Enrique-Melrose-Aguilar_59753",
-    "general": 7.6316,
-    "n": 19
-  },
   "EDUARDO MENACHE VARELA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
     "general": 9.75,
@@ -18364,11 +18384,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
     "general": 8.1111,
     "n": 18
-  },
-  "PAVEL REAL PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Pavel-Real-P\u00e9rez_100310",
-    "general": 9.5,
-    "n": 22
   },
   "EDUARDO REVILLA MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Revilla-Martinez_50314",
@@ -18632,8 +18647,8 @@ let misProfesData={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.8333,
-    "n": 54
+    "general": 4.7818,
+    "n": 55
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
