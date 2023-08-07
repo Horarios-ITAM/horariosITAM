@@ -1,4 +1,4 @@
-let actualizado="1691332513652.7927";
+let actualizado="1691418977264.8704";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -17064,9 +17064,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17695,8 +17695,8 @@ let misProfesData={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.7818,
-    "n": 55
+    "general": 4.7321,
+    "n": 56
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
