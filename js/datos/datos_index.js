@@ -1,4 +1,4 @@
-let actualizado="1691418977264.8704";
+let actualizado="1691505336508.9998";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2259,32 +2259,6 @@ let clases={
   "CLE-10201": {
     "nombre": "CLE-10201-INGLES INTENSIVO",
     "clave": "CLE-10201",
-    "grupos": []
-  },
-  "CLE-10331-LAB": {
-    "nombre": "CLE-10331-ALEMAN, I-LAB",
-    "clave": "CLE-10331",
-    "grupos": [
-      {
-        "grupo": "002L",
-        "nombre": "CLE-10331-ALEMAN, I-LAB",
-        "profesor": "ARMANDO VERDIN GALAN",
-        "creditos": "4",
-        "horario": "12:00-14:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH203",
-        "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "14:00"
-      }
-    ]
-  },
-  "CLE-10331": {
-    "nombre": "CLE-10331-ALEMAN, I",
-    "clave": "CLE-10331",
     "grupos": []
   },
   "CLE-10516-LAB": {
@@ -6329,6 +6303,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-13406-TEORIA GENERAL DEL PROCESO",
+        "profesor": "GILBERTO NAVA HERNANDEZ",
+        "creditos": "8",
+        "horario": "07:00-09:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH209",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -8532,7 +8521,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF101",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "11:30"
@@ -8630,7 +8619,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -8645,7 +8634,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8828,7 +8817,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
-        "profesor": "MARISOL LOPEZ ROMERO",
+        "profesor": "FELIX VELEZ FERNANDEZ VARELA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -10234,21 +10223,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
-      },
-      {
-        "grupo": "007",
-        "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "19:00-20:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH208",
-        "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "20:30"
       }
     ]
   },
@@ -10961,7 +10935,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH302",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -12970,7 +12944,7 @@ let clases={
       {
         "grupo": "017",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+        "profesor": "BERNARDO RAMIREZ LOPEZ",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -13015,7 +12989,7 @@ let clases={
       {
         "grupo": "020",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "ANAYELI HERNANDEZ CRUZ",
+        "profesor": "ELSA VIVIANA OROPEZA GRACIA",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -13030,7 +13004,7 @@ let clases={
       {
         "grupo": "021",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "ANAYELI HERNANDEZ CRUZ",
+        "profesor": "ELSA VIVIANA OROPEZA GRACIA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -13045,7 +13019,7 @@ let clases={
       {
         "grupo": "022",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "LUCIA GONZALEZ GALLARDO",
+        "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -15777,6 +15751,27 @@ let clases={
       }
     ]
   },
+  "MAT-24151": {
+    "nombre": "MAT-24151-TEMAS SELECTOS DE ANALISIS II",
+    "clave": "MAT-24151",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-24151-TEMAS SELECTOS DE ANALISIS II",
+        "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
+        "creditos": "6",
+        "horario": "18:00-19:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH306",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "19:30"
+      }
+    ]
+  },
   "MAT-24210": {
     "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
     "clave": "MAT-24210",
@@ -15957,7 +15952,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH205",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:30"
@@ -16788,11 +16783,6 @@ let misProfesData={
     "general": 5.9476,
     "n": 210
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4675,
@@ -17118,20 +17108,10 @@ let misProfesData={
     "general": 7.7273,
     "n": 22
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8182,
     "n": 77
-  },
-  "MARISOL LOPEZ ROMERO": {
-    "link": "https://www.misprofesores.com/profesores/Marisol-Lopez-Romero_107554",
-    "general": 6.6364,
-    "n": 11
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
@@ -17162,11 +17142,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.1875,
     "n": 16
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17313,6 +17288,11 @@ let misProfesData={
     "general": 9.4545,
     "n": 11
   },
+  "ELSA VIVIANA OROPEZA GRACIA": {
+    "link": "https://www.misprofesores.com/profesores/Elsa-Viviana-Oropeza-Gracia_93911",
+    "general": 7.5833,
+    "n": 12
+  },
   "JOSE MANUEL OROZCO GARIBAY": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
     "general": 5.6832,
@@ -17390,8 +17370,8 @@ let misProfesData={
   },
   "LUCIA PI CHOLULA": {
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
-    "general": 8.0556,
-    "n": 18
+    "general": 7.8421,
+    "n": 19
   },
   "ERNESTO PIEDRAS FERIA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Piedras-Feria_74696",
@@ -17460,8 +17440,8 @@ let misProfesData={
   },
   "VICTOR HUGO RIVAS CALDERON": {
     "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.679,
-    "n": 81
+    "general": 7.6341,
+    "n": 82
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",

@@ -1,4 +1,4 @@
-let actualizado="1691418977304.3342";
+let actualizado="1691505336546.2961";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2071,23 +2071,6 @@ let profesores={
           "fin": "16:00"
         }
       ],
-      "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
-        {
-          "grupo": "007",
-          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ],
       "EIN-11101-INT. A LAS R. INTERNACIONALES-LAB": [
         {
           "grupo": "001L",
@@ -3792,27 +3775,6 @@ let profesores={
       ]
     }
   },
-  "ARMANDO VERDIN GALAN": {
-    "grupos": {
-      "CLE-10331-ALEMAN, I-LAB": [
-        {
-          "grupo": "002L",
-          "nombre": "CLE-10331-ALEMAN, I-LAB",
-          "profesor": "ARMANDO VERDIN GALAN",
-          "creditos": "4",
-          "horario": "12:00-14:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH203",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
-      ]
-    }
-  },
   "EMILIO ENRIQUE NAVARRO HERNANDEZ": {
     "grupos": {
       "CLE-10516-COMMUNICATION IN SPANISH I-LAB": [
@@ -3866,19 +3828,19 @@ let profesores={
           "fin": "08:30"
         },
         {
-          "grupo": "017",
+          "grupo": "022",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
           "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "07:00-08:30",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
           "salon": "RHASHAK",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -4586,9 +4548,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5264,9 +5223,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -6173,9 +6129,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -8025,6 +7978,27 @@ let profesores={
       ]
     }
   },
+  "GILBERTO NAVA HERNANDEZ": {
+    "grupos": {
+      "DER-13406-TEORIA GENERAL DEL PROCESO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-13406-TEORIA GENERAL DEL PROCESO",
+          "profesor": "GILBERTO NAVA HERNANDEZ",
+          "creditos": "8",
+          "horario": "07:00-09:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "LUIS ASALI HARFUCH": {
     "grupos": {
       "DER-13504-CONTRATOS": [
@@ -9075,6 +9049,21 @@ let profesores={
       ],
       "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
         {
+          "grupo": "003",
+          "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
+          "profesor": "FELIX VELEZ FERNANDEZ VARELA",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        },
+        {
           "grupo": "004",
           "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
           "profesor": "FELIX VELEZ FERNANDEZ VARELA",
@@ -9228,7 +9217,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF101",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "11:30"
@@ -10064,7 +10053,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF107",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -10079,7 +10068,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF107",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10215,30 +10204,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "MARISOL LOPEZ ROMERO": {
-    "link": "https://www.misprofesores.com/profesores/Marisol-Lopez-Romero_107554",
-    "general": 6.6364,
-    "n": 11,
-    "grupos": {
-      "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
-        {
-          "grupo": "003",
-          "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
-          "profesor": "MARISOL LOPEZ ROMERO",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ]
     }
@@ -10834,8 +10799,8 @@ let profesores={
   },
   "VICTOR HUGO RIVAS CALDERON": {
     "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.679,
-    "n": 81,
+    "general": 7.6341,
+    "n": 82,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -12422,7 +12387,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH302",
+          "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -15048,6 +15013,27 @@ let profesores={
       ]
     }
   },
+  "BERNARDO RAMIREZ LOPEZ": {
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "017",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "BERNARDO RAMIREZ LOPEZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "MARIA GABRIELA  MAZZUCHINO": {
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
@@ -15100,13 +15086,16 @@ let profesores={
       ]
     }
   },
-  "ANAYELI HERNANDEZ CRUZ": {
+  "ELSA VIVIANA OROPEZA GRACIA": {
+    "link": "https://www.misprofesores.com/profesores/Elsa-Viviana-Oropeza-Gracia_93911",
+    "general": 7.5833,
+    "n": 12,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
           "grupo": "020",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "ANAYELI HERNANDEZ CRUZ",
+          "profesor": "ELSA VIVIANA OROPEZA GRACIA",
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
@@ -15121,7 +15110,7 @@ let profesores={
         {
           "grupo": "021",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "ANAYELI HERNANDEZ CRUZ",
+          "profesor": "ELSA VIVIANA OROPEZA GRACIA",
           "creditos": "6",
           "horario": "17:30-19:00",
           "dias": [
@@ -15132,27 +15121,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "LUCIA GONZALEZ GALLARDO": {
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "022",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "LUCIA GONZALEZ GALLARDO",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -15372,8 +15340,8 @@ let profesores={
   },
   "LUCIA PI CHOLULA": {
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
-    "general": 8.0556,
-    "n": 18,
+    "general": 7.8421,
+    "n": 19,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -16518,6 +16486,23 @@ let profesores={
           "inicio": "18:00",
           "fin": "19:30"
         }
+      ],
+      "MAT-24151-TEMAS SELECTOS DE ANALISIS II": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-24151-TEMAS SELECTOS DE ANALISIS II",
+          "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
+        }
       ]
     }
   },
@@ -16840,7 +16825,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHCC302",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:30"
@@ -17772,7 +17757,6 @@ let mejoresPorDepto={
   "LENGUAS (CLE)": [
     "MARCELA RABADAN GALLARDO",
     "JOSE FRANCISCO CASTILLO NAVARRETE",
-    "ARMANDO VERDIN GALAN",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "SANDRA LORENA VILLALOBOS OROZCO",
     "MARIA MONICA CUELLAR AYALA"
@@ -17807,11 +17791,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON"
+    "JEFFREY ALLEN WELDON",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "DENISE MEJAN GANEM",
