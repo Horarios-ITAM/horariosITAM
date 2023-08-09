@@ -1,4 +1,4 @@
-let actualizado="1691505336546.2961";
+let actualizado="1691591880473.306";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -1212,23 +1212,6 @@ let profesores={
           "fin": "16:00"
         }
       ],
-      "CLE-10517-COMMUNICATION IN SPANISH II": [
-        {
-          "grupo": "002",
-          "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "16:30-17:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "16:30",
-          "fin": "17:00"
-        }
-      ],
       "CON-10001-PROCESO CONTABLE": [
         {
           "grupo": "001",
@@ -1547,14 +1530,14 @@ let profesores={
           "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
           "profesor": "",
           "creditos": "6",
-          "horario": "07:00-10:00",
+          "horario": "14:00-16:00",
           "dias": [
-            "MI"
+            "VI"
           ],
-          "salon": "RH312",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
+          "salon": "",
+          "campus": "",
+          "inicio": "14:00",
+          "fin": "16:00"
         }
       ],
       "CON-15002-IMPUESTOS CORPORATIVOS, II": [
@@ -13598,8 +13581,8 @@ let profesores={
   },
   "ALEJANDRO TERAN CASTELLANOS": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",
-    "general": 7.0,
-    "n": 35,
+    "general": 6.8611,
+    "n": 36,
     "grupos": {
       "IIO-13160-MODELADO Y OPTIMIZACION II": [
         {
@@ -14546,16 +14529,16 @@ let profesores={
       ]
     }
   },
-  "ROSA MARGARITA GALAN VELEZ": {
-    "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
-    "general": 5.6857,
-    "n": 35,
+  "LUCIA PI CHOLULA": {
+    "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
+    "general": 7.8421,
+    "n": 19,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
           "grupo": "018",
           "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-          "profesor": "ROSA MARGARITA GALAN VELEZ",
+          "profesor": "LUCIA PI CHOLULA",
           "creditos": "2",
           "horario": "10:00-11:00",
           "dias": [
@@ -14569,23 +14552,23 @@ let profesores={
       ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
-          "grupo": "007",
+          "grupo": "004",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "ROSA MARGARITA GALAN VELEZ",
+          "profesor": "LUCIA PI CHOLULA",
           "creditos": "2",
-          "horario": "13:00-14:00",
+          "horario": "10:00-11:00",
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "PF106",
           "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
+          "inicio": "10:00",
+          "fin": "11:00"
         },
         {
           "grupo": "018",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "ROSA MARGARITA GALAN VELEZ",
+          "profesor": "LUCIA PI CHOLULA",
           "creditos": "2",
           "horario": "10:00-11:00",
           "dias": [
@@ -14595,6 +14578,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
+        }
+      ],
+      "LEN-12711-COMUNIC. ESCRITA PARA DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12711-COMUNIC. ESCRITA PARA DERECHO",
+          "profesor": "LUCIA PI CHOLULA",
+          "creditos": "2",
+          "horario": "09:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        }
+      ],
+      "LEN-14208-COMUNICA. ESCRITA PARA DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-14208-COMUNICA. ESCRITA PARA DERECHO",
+          "profesor": "LUCIA PI CHOLULA",
+          "creditos": "2",
+          "horario": "09:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -15177,6 +15192,38 @@ let profesores={
           "inicio": "16:00",
           "fin": "17:00"
         }
+      ],
+      "LEN-12715-COMUNIC. ESCRITA PARA C. POL.": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-12715-COMUNIC. ESCRITA PARA C. POL.",
+          "profesor": "JAVIER MARTINEZ VILLARROYA",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "LEN-14051-COMUNIC. ESCRITA PARA C. POL.": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-14051-COMUNIC. ESCRITA PARA C. POL.",
+          "profesor": "JAVIER MARTINEZ VILLARROYA",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
       ]
     }
   },
@@ -15338,57 +15385,25 @@ let profesores={
       ]
     }
   },
-  "LUCIA PI CHOLULA": {
-    "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
-    "general": 7.8421,
-    "n": 19,
+  "ROSA MARGARITA GALAN VELEZ": {
+    "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
+    "general": 5.6857,
+    "n": 35,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
-          "grupo": "004",
+          "grupo": "007",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "LUCIA PI CHOLULA",
+          "profesor": "ROSA MARGARITA GALAN VELEZ",
           "creditos": "2",
-          "horario": "10:00-11:00",
+          "horario": "13:00-14:00",
           "dias": [
             "MA"
           ],
-          "salon": "PF106",
+          "salon": "PF107",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-12711-COMUNIC. ESCRITA PARA DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12711-COMUNIC. ESCRITA PARA DERECHO",
-          "profesor": "LUCIA PI CHOLULA",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ],
-      "LEN-14208-COMUNICA. ESCRITA PARA DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-14208-COMUNICA. ESCRITA PARA DERECHO",
-          "profesor": "LUCIA PI CHOLULA",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
+          "inicio": "13:00",
+          "fin": "14:00"
         }
       ]
     }

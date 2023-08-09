@@ -1,4 +1,4 @@
-let actualizado="1691505336508.9998";
+let actualizado="1691591880448.9993";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2342,21 +2342,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "15:00",
         "fin": "16:30"
-      },
-      {
-        "grupo": "002",
-        "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
-        "profesor": "",
-        "creditos": "7",
-        "horario": "16:30-17:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH210",
-        "campus": "RIO HONDO",
-        "inicio": "16:30",
-        "fin": "17:00"
       }
     ]
   },
@@ -4186,14 +4171,14 @@ let clases={
         "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
         "profesor": "",
         "creditos": "6",
-        "horario": "07:00-10:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "MI"
+          "VI"
         ],
-        "salon": "RH312",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       }
     ]
   },
@@ -12586,7 +12571,7 @@ let clases={
       {
         "grupo": "018",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "ROSA MARGARITA GALAN VELEZ",
+        "profesor": "LUCIA PI CHOLULA",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -13326,7 +13311,7 @@ let clases={
       {
         "grupo": "018",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "ROSA MARGARITA GALAN VELEZ",
+        "profesor": "LUCIA PI CHOLULA",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -13508,6 +13493,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "09:30"
+      }
+    ]
+  },
+  "LEN-12715": {
+    "nombre": "LEN-12715-COMUNIC. ESCRITA PARA C. POL.",
+    "clave": "LEN-12715",
+    "grupos": [
+      {
+        "grupo": "003",
+        "nombre": "LEN-12715-COMUNIC. ESCRITA PARA C. POL.",
+        "profesor": "JAVIER MARTINEZ VILLARROYA",
+        "creditos": "2",
+        "horario": "10:00-11:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH305",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:00"
       }
     ]
   },
@@ -14040,6 +14045,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "09:30"
+      }
+    ]
+  },
+  "LEN-14051": {
+    "nombre": "LEN-14051-COMUNIC. ESCRITA PARA C. POL.",
+    "clave": "LEN-14051",
+    "grupos": [
+      {
+        "grupo": "003",
+        "nombre": "LEN-14051-COMUNIC. ESCRITA PARA C. POL.",
+        "profesor": "JAVIER MARTINEZ VILLARROYA",
+        "creditos": "2",
+        "horario": "10:00-11:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH305",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:00"
       }
     ]
   },
@@ -16510,6 +16535,11 @@ let clases={
         "fin": "12:00"
       }
     ]
+  },
+  "SDI-25916": {
+    "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+    "clave": "SDI-25916",
+    "grupos": []
   }
 };
 let misProfesData={
@@ -17595,8 +17625,8 @@ let misProfesData={
   },
   "ALEJANDRO TERAN CASTELLANOS": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",
-    "general": 7.0,
-    "n": 35
+    "general": 6.8611,
+    "n": 36
   },
   "JAVIER TERRES ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Javier-Terr\u00e9s-Arias_138402",
