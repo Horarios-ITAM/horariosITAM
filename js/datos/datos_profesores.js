@@ -1,4 +1,4 @@
-let actualizado="1691591880473.306";
+let actualizado="1691678231116.4333";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2130,38 +2130,6 @@ let profesores={
           "fin": "09:30"
         }
       ],
-      "LEN-12756-COMUN. PROF. PARA C.P Y E.F.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12756-COMUN. PROF. PARA C.P Y E.F.",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
-      "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
       "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
         {
           "grupo": "002",
@@ -2176,22 +2144,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:30",
           "fin": "08:30"
-        }
-      ],
-      "LEN-12764-COM. PROFES. PARA ING. EN COMP": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
         }
       ],
       "LEN-12766-COM. PROFES. PARA ING. EN NEG.": [
@@ -3146,7 +3098,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -4531,6 +4483,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5206,6 +5161,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.75,
+    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -6112,6 +6070,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -6826,7 +6787,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH112",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -9611,7 +9572,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH101",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -9933,7 +9894,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH101",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -10256,9 +10217,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -10331,7 +10289,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF101",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -12549,7 +12507,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH112",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
@@ -15409,9 +15367,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15630,6 +15588,62 @@ let profesores={
       ]
     }
   },
+  "EDUARDO PORTAS RUIZ": {
+    "grupos": {
+      "LEN-12756-COMUN. PROF. PARA C.P Y E.F.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12756-COMUN. PROF. PARA C.P Y E.F.",
+          "profesor": "EDUARDO PORTAS RUIZ",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ],
+      "LEN-12764-COM. PROFES. PARA ING. EN COMP": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
+          "profesor": "EDUARDO PORTAS RUIZ",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "JORGE NEME SANCHEZ": {
+    "grupos": {
+      "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN",
+          "profesor": "JORGE NEME SANCHEZ",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ]
+    }
+  },
   "HANAKO TANIGUCHI PONCIANO": {
     "grupos": {
       "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
@@ -15835,7 +15849,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH303",
+          "salon": "RH112",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -15942,7 +15956,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH303",
+          "salon": "RH112",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -17806,11 +17820,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON",
-    "PETER MATTHEW  HILLS"
+    "JEFFREY ALLEN WELDON"
   ],
   "DERECHO": [
     "DENISE MEJAN GANEM",
@@ -17889,12 +17903,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA",
-    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
