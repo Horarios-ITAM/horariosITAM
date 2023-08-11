@@ -1,4 +1,4 @@
-let actualizado="1691678231095.4968";
+let actualizado="1691764562310.0583";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -13469,7 +13469,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12714-COMUNICA. ESCRITA PARA ADMON.",
-        "profesor": "",
+        "profesor": "YTZEL MAYA JIMENEZ",
         "creditos": "2",
         "horario": "08:30-09:30",
         "dias": [
@@ -13483,7 +13483,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12714-COMUNICA. ESCRITA PARA ADMON.",
-        "profesor": "",
+        "profesor": "YTZEL MAYA JIMENEZ",
         "creditos": "2",
         "horario": "08:30-09:30",
         "dias": [
@@ -14021,7 +14021,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.",
-        "profesor": "",
+        "profesor": "YTZEL MAYA JIMENEZ",
         "creditos": "2",
         "horario": "08:30-09:30",
         "dias": [
@@ -14035,7 +14035,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.",
-        "profesor": "",
+        "profesor": "YTZEL MAYA JIMENEZ",
         "creditos": "2",
         "horario": "08:30-09:30",
         "dias": [
@@ -15916,7 +15916,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-24430-ANALISIS APLICADO, I",
-        "profesor": "",
+        "profesor": "MARIA VICTORIA CHAVEZ HERNANDEZ",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -16567,6 +16567,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.7872,
     "n": 47
+  },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
   },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
@@ -17624,9 +17629,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

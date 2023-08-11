@@ -1,4 +1,4 @@
-let actualizado="1691678231116.4333";
+let actualizado="1691764562328.4429";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2100,36 +2100,6 @@ let profesores={
           "fin": "14:00"
         }
       ],
-      "LEN-12714-COMUNICA. ESCRITA PARA ADMON.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12714-COMUNICA. ESCRITA PARA ADMON.",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "08:30-09:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH302",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "09:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-12714-COMUNICA. ESCRITA PARA ADMON.",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "08:30-09:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "09:30"
-        }
-      ],
       "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
         {
           "grupo": "002",
@@ -2160,36 +2130,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
-        }
-      ],
-      "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "08:30-09:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH302",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "09:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "08:30-09:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "09:30"
         }
       ],
       "MAT-11100-MATEMATICAS, I": [
@@ -2466,23 +2406,6 @@ let profesores={
           "campus": "",
           "inicio": "14:00",
           "fin": "16:00"
-        }
-      ],
-      "MAT-24430-ANALISIS APLICADO, I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-24430-ANALISIS APLICADO, I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA4",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -10217,6 +10140,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -15186,9 +15112,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15418,6 +15344,70 @@ let profesores={
             "LU"
           ],
           "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:30"
+        }
+      ]
+    }
+  },
+  "YTZEL MAYA JIMENEZ": {
+    "grupos": {
+      "LEN-12714-COMUNICA. ESCRITA PARA ADMON.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12714-COMUNICA. ESCRITA PARA ADMON.",
+          "profesor": "YTZEL MAYA JIMENEZ",
+          "creditos": "2",
+          "horario": "08:30-09:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12714-COMUNICA. ESCRITA PARA ADMON.",
+          "profesor": "YTZEL MAYA JIMENEZ",
+          "creditos": "2",
+          "horario": "08:30-09:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH111",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:30"
+        }
+      ],
+      "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.",
+          "profesor": "YTZEL MAYA JIMENEZ",
+          "creditos": "2",
+          "horario": "08:30-09:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.",
+          "profesor": "YTZEL MAYA JIMENEZ",
+          "creditos": "2",
+          "horario": "08:30-09:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "09:30"
@@ -17099,6 +17089,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
+        }
+      ],
+      "MAT-24430-ANALISIS APLICADO, I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-24430-ANALISIS APLICADO, I",
+          "profesor": "MARIA VICTORIA CHAVEZ HERNANDEZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA4",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
