@@ -1,4 +1,4 @@
-let actualizado="1691764562328.4429";
+let actualizado="1691850909711.253";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -261,10 +261,10 @@ let profesores={
           "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
-            "MI",
-            "VI"
+            "LU",
+            "MI"
           ],
-          "salon": "RH317",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -2902,7 +2902,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "PF104",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
@@ -3404,7 +3404,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH305",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "20:30"
@@ -3424,7 +3424,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH305",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "20:30"
@@ -3604,7 +3604,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH109",
+          "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
@@ -10140,9 +10140,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -13885,14 +13882,14 @@ let profesores={
           "nombre": "IIO-15161-MANUFACTURA DE COMPONENTES-LAB",
           "profesor": "JOSE ANTONIO SOUZA JIMENEZ",
           "creditos": "9",
-          "horario": "08:30-11:00",
+          "horario": "08:30-11:30",
           "dias": [
             "VI"
           ],
           "salon": "RHLMINT",
           "campus": "RIO HONDO",
           "inicio": "08:30",
-          "fin": "11:00"
+          "fin": "11:30"
         }
       ]
     }
@@ -15112,9 +15109,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {

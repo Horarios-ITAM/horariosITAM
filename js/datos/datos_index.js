@@ -1,4 +1,4 @@
-let actualizado="1691764562310.0583";
+let actualizado="1691850909683.9092";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -1107,7 +1107,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF104",
+        "salon": "RH205",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -1838,7 +1838,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RH305",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "20:30"
@@ -1915,7 +1915,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RH305",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "20:30"
@@ -2228,7 +2228,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RH109",
+        "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "14:00"
@@ -11471,10 +11471,10 @@ let clases={
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
-          "MI",
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "RH317",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -12332,14 +12332,14 @@ let clases={
         "nombre": "IIO-15161-MANUFACTURA DE COMPONENTES-LAB",
         "profesor": "JOSE ANTONIO SOUZA JIMENEZ",
         "creditos": "9",
-        "horario": "08:30-11:00",
+        "horario": "08:30-11:30",
         "dias": [
           "VI"
         ],
         "salon": "RHLMINT",
         "campus": "RIO HONDO",
         "inicio": "08:30",
-        "fin": "11:00"
+        "fin": "11:30"
       }
     ]
   },
@@ -16568,11 +16568,6 @@ let misProfesData={
     "general": 8.7872,
     "n": 47
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
     "general": 8.8125,
@@ -17629,9 +17624,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
