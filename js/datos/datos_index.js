@@ -1,4 +1,4 @@
-let actualizado="1692023753550.6301";
+let actualizado="1692110154421.5781";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -5250,14 +5250,28 @@ let clases={
         "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
         "profesor": "MARIO LEONARDO PETRICIOLI RUIZ",
         "creditos": "9",
-        "horario": "19:00-21:00",
+        "horario": "19:00-21:30",
         "dias": [
-          "LU"
+          "MI"
         ],
         "salon": "RHB-4",
         "campus": "RIO HONDO",
         "inicio": "19:00",
-        "fin": "21:00"
+        "fin": "21:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
+        "profesor": "",
+        "creditos": "9",
+        "horario": "14:30-16:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "14:30",
+        "fin": "16:00"
       }
     ]
   },
@@ -13123,7 +13137,7 @@ let clases={
       {
         "grupo": "030",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "",
+        "profesor": "ROSA MARIA MONTSERRAT ZABAL FERNANDEZ",
         "creditos": "6",
         "horario": "11:00-14:00",
         "dias": [
@@ -13981,7 +13995,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12766-COM. PROFES. PARA ING. EN NEG.",
-        "profesor": "",
+        "profesor": "DAVID GARCIA ESCAMILLA",
         "creditos": "2",
         "horario": "08:00-09:00",
         "dias": [
@@ -16825,8 +16839,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.8857,
-    "n": 35
+    "general": 7.8889,
+    "n": 36
   },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
@@ -17143,11 +17157,6 @@ let misProfesData={
     "general": 7.7273,
     "n": 22
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8182,
@@ -17182,11 +17191,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.1875,
     "n": 16
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",

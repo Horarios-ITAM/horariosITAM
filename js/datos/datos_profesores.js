@@ -1,4 +1,4 @@
-let actualizado="1692023753572.9937";
+let actualizado="1692110154442.564";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -1600,6 +1600,22 @@ let profesores={
           "fin": "16:00"
         }
       ],
+      "DER-10016-INTROD. AL DERECHO CORPORATIVO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "14:30-16:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "14:30",
+          "fin": "16:00"
+        }
+      ],
       "DER-10113-DERECHO PUBLICO": [
         {
           "grupo": "003",
@@ -2084,22 +2100,6 @@ let profesores={
           "fin": "14:00"
         }
       ],
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "030",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "11:00-14:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
-        }
-      ],
       "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
         {
           "grupo": "002",
@@ -2114,22 +2114,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:30",
           "fin": "08:30"
-        }
-      ],
-      "LEN-12766-COM. PROFES. PARA ING. EN NEG.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12766-COM. PROFES. PARA ING. EN NEG.",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "08:00-09:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
         }
       ],
       "MAT-11100-MATEMATICAS, I": [
@@ -4406,9 +4390,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5993,9 +5974,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -6794,14 +6772,14 @@ let profesores={
           "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
           "profesor": "MARIO LEONARDO PETRICIOLI RUIZ",
           "creditos": "9",
-          "horario": "19:00-21:00",
+          "horario": "19:00-21:30",
           "dias": [
-            "LU"
+            "MI"
           ],
           "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "19:00",
-          "fin": "21:00"
+          "fin": "21:30"
         }
       ]
     }
@@ -10609,8 +10587,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.8857,
-    "n": 35,
+    "general": 7.8889,
+    "n": 36,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -15180,6 +15158,26 @@ let profesores={
       ]
     }
   },
+  "ROSA MARIA MONTSERRAT ZABAL FERNANDEZ": {
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "030",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "ROSA MARIA MONTSERRAT ZABAL FERNANDEZ",
+          "creditos": "6",
+          "horario": "11:00-14:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
   "MARCIA AMARANTA GAMEZ MENDIVIL": {
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
@@ -15650,6 +15648,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
+        }
+      ]
+    }
+  },
+  "DAVID GARCIA ESCAMILLA": {
+    "grupos": {
+      "LEN-12766-COM. PROFES. PARA ING. EN NEG.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12766-COM. PROFES. PARA ING. EN NEG.",
+          "profesor": "DAVID GARCIA ESCAMILLA",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -17827,11 +17845,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON"
+    "JEFFREY ALLEN WELDON",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "DENISE MEJAN GANEM",
