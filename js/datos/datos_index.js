@@ -1,4 +1,4 @@
-let actualizado="1692110154421.5781";
+let actualizado="1692196503587.276";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2583,6 +2583,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS-LAB",
+        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "creditos": "6",
+        "horario": "11:30-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHCC201",
+        "campus": "RIO HONDO",
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -2600,6 +2615,20 @@ let clases={
           "VI"
         ],
         "salon": "RHCC102",
+        "campus": "RIO HONDO",
+        "inicio": "11:30",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS",
+        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "creditos": "6",
+        "horario": "11:30-13:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCC201",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -4868,7 +4897,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH304",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -6298,7 +6327,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -7140,7 +7169,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH305",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -7613,6 +7642,35 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "11:30"
+      },
+      {
+        "grupo": "007",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
+        "creditos": "6",
+        "horario": "12:30-14:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH109",
+        "campus": "RIO HONDO",
+        "inicio": "12:30",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "008",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "CARLOS ALFONSO CEBREROS ZURITA",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "ST",
+        "campus": "ST. TERESA",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -7719,6 +7777,49 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:30",
         "fin": "09:00"
+      },
+      {
+        "grupo": "009",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
+        "creditos": "9",
+        "horario": "12:30-14:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH109",
+        "campus": "RIO HONDO",
+        "inicio": "12:30",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "010",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH314",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "011",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "VIVIAN GARCIACANO BARBA",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH105",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -7755,6 +7856,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:30"
+      }
+    ]
+  },
+  "ECO-10511": {
+    "nombre": "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I",
+    "clave": "ECO-10511",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I",
+        "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+        "creditos": "7",
+        "horario": "19:00-20:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH303",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -7805,6 +7927,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:30",
         "fin": "13:30"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-10516-MICROECONOMETRIA APLICADA",
+        "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+        "creditos": "7",
+        "horario": "19:00-20:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH303",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -8266,6 +8403,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "12:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
+        "profesor": "TRIDIB  SHARMA",
+        "creditos": "6",
+        "horario": "08:30-10:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH105",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -8756,6 +8908,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      }
+    ]
+  },
+  "ECO-15201": {
+    "nombre": "ECO-15201-ECONOMIA DE LA SALUD (OP)",
+    "clave": "ECO-15201",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-15201-ECONOMIA DE LA SALUD (OP)",
+        "profesor": "MANETT ROCIO VARGAS GARCIA",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "STISOPB",
+        "campus": "ST. TERESA",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -11266,8 +11438,7 @@ let clases={
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
-          "LU",
-          "MI"
+          "LU"
         ],
         "salon": "RH314",
         "campus": "RIO HONDO",
@@ -11578,10 +11749,9 @@ let clases={
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "MI",
           "VI"
         ],
-        "salon": "RH309",
+        "salon": "RHCC202",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -17103,9 +17273,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17191,6 +17361,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.1875,
     "n": 16
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17633,9 +17808,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -17724,8 +17899,8 @@ let misProfesData={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.7321,
-    "n": 56
+    "general": 4.6842,
+    "n": 57
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",

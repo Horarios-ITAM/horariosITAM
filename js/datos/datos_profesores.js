@@ -1,4 +1,4 @@
-let actualizado="1692110154442.564";
+let actualizado="1692196503609.4004";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -4258,6 +4258,39 @@ let profesores={
     "general": 7.8,
     "n": 25,
     "grupos": {
+      "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS-LAB",
+          "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC201",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS": [
+        {
+          "grupo": "002",
+          "nombre": "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS",
+          "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCC201",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
       "COM-11112-ESTRUCTURAS DE DATOS AVANZADAS-LAB": [
         {
           "grupo": "001L",
@@ -5974,6 +6007,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -6309,7 +6345,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH304",
+          "salon": "RH105",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -7815,7 +7851,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -8468,7 +8504,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH305",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -9070,6 +9106,101 @@ let profesores={
       ]
     }
   },
+  "DANIEL ISAAC CHIQUIAR CIKUREL": {
+    "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
+    "general": 9.0,
+    "n": 1,
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "007",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
+          "creditos": "6",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
+        }
+      ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "009",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
+          "creditos": "9",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
+        }
+      ],
+      "ECO-13101-ECONOMIA INTERNACIONAL, I": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
+          "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
+          "creditos": "6",
+          "horario": "10:30-12:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "12:00"
+        }
+      ],
+      "ECO-13111-TOPICOS EN COM. INTERNACIONAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-13111-TOPICOS EN COM. INTERNACIONAL",
+          "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
+          "creditos": "6",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "CARLOS ALFONSO CEBREROS ZURITA": {
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "008",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "CARLOS ALFONSO CEBREROS ZURITA",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "ST",
+          "campus": "ST. TERESA",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "ERNESTO PIEDRAS FERIA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Piedras-Feria_74696",
     "general": 7.0,
@@ -9112,6 +9243,78 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:30",
           "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "HORACIO ALEJANDRO LARREGUY ARBESU": {
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "010",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH314",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-10516-MICROECONOMETRIA APLICADA": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-10516-MICROECONOMETRIA APLICADA",
+          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+          "creditos": "7",
+          "horario": "10:30-13:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH213",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "13:30"
+        }
+      ],
+      "ECO-10521-INFERENCIA CAUSAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10521-INFERENCIA CAUSAL",
+          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+          "creditos": "6",
+          "horario": "10:30-13:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH213",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "13:30"
+        }
+      ]
+    }
+  },
+  "VIVIAN GARCIACANO BARBA": {
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "011",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "VIVIAN GARCIACANO BARBA",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -9218,6 +9421,23 @@ let profesores={
     "general": 8.6429,
     "n": 14,
     "grupos": {
+      "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I",
+          "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+          "creditos": "7",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
       "ECO-10516-MICROECONOMETRIA APLICADA": [
         {
           "grupo": "001",
@@ -9233,6 +9453,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "ECO-10516-MICROECONOMETRIA APLICADA",
+          "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+          "creditos": "7",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
         }
       ]
     }
@@ -9274,42 +9509,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "HORACIO ALEJANDRO LARREGUY ARBESU": {
-    "grupos": {
-      "ECO-10516-MICROECONOMETRIA APLICADA": [
-        {
-          "grupo": "003",
-          "nombre": "ECO-10516-MICROECONOMETRIA APLICADA",
-          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
-          "creditos": "7",
-          "horario": "10:30-13:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "13:30"
-        }
-      ],
-      "ECO-10521-INFERENCIA CAUSAL": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-10521-INFERENCIA CAUSAL",
-          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
-          "creditos": "6",
-          "horario": "10:30-13:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "13:30"
         }
       ]
     }
@@ -9550,6 +9749,23 @@ let profesores={
           "inicio": "10:00",
           "fin": "11:30"
         }
+      ],
+      "ECO-11227-DISE\u00d1O DE MERCADOS": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
+          "profesor": "TRIDIB  SHARMA",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
       ]
     }
   },
@@ -9734,47 +9950,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:30",
           "fin": "18:00"
-        }
-      ]
-    }
-  },
-  "DANIEL ISAAC CHIQUIAR CIKUREL": {
-    "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
-    "general": 9.0,
-    "n": 1,
-    "grupos": {
-      "ECO-13101-ECONOMIA INTERNACIONAL, I": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
-          "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
-          "creditos": "6",
-          "horario": "10:30-12:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:00"
-        }
-      ],
-      "ECO-13111-TOPICOS EN COM. INTERNACIONAL": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-13111-TOPICOS EN COM. INTERNACIONAL",
-          "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
-          "creditos": "6",
-          "horario": "12:30-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
         }
       ]
     }
@@ -10033,6 +10208,42 @@ let profesores={
       ]
     }
   },
+  "MANETT ROCIO VARGAS GARCIA": {
+    "grupos": {
+      "ECO-15201-ECONOMIA DE LA SALUD (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15201-ECONOMIA DE LA SALUD (OP)",
+          "profesor": "MANETT ROCIO VARGAS GARCIA",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "STISOPB",
+          "campus": "ST. TERESA",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-18101-DESARROLLO ECONOMICO I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+          "profesor": "MANETT ROCIO VARGAS GARCIA",
+          "creditos": "6",
+          "horario": "10:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHLI1",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
   "LOUIS ZALTZMAN KORNHAUSER": {
     "grupos": {
       "ECO-15491-ECO. EXPERIM. Y DE LA CONDUCTA": [
@@ -10049,26 +10260,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "MANETT ROCIO VARGAS GARCIA": {
-    "grupos": {
-      "ECO-18101-DESARROLLO ECONOMICO I": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
-          "profesor": "MANETT ROCIO VARGAS GARCIA",
-          "creditos": "6",
-          "horario": "10:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHLI1",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
         }
       ]
     }
@@ -12755,8 +12946,7 @@ let profesores={
           "creditos": "8",
           "horario": "19:00-21:00",
           "dias": [
-            "LU",
-            "MI"
+            "LU"
           ],
           "salon": "RH314",
           "campus": "RIO HONDO",
@@ -13080,10 +13270,9 @@ let profesores={
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
-            "MI",
             "VI"
           ],
-          "salon": "RH309",
+          "salon": "RHCC202",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -15090,9 +15279,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15291,9 +15480,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -16953,8 +17142,8 @@ let profesores={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.7321,
-    "n": 56,
+    "general": 4.6842,
+    "n": 57,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -17845,11 +18034,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON",
-    "PETER MATTHEW  HILLS"
+    "JEFFREY ALLEN WELDON"
   ],
   "DERECHO": [
     "DENISE MEJAN GANEM",
@@ -17866,8 +18055,8 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "CHRISTINA CORNEJO VAN LUIT",
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
-    "MIGUEL MESSMACHER LINARTAS",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
+    "MIGUEL MESSMACHER LINARTAS",
     "MENEY DE LA PEZA GANDARA",
     "ARTURO ALBERTO AGUILAR ESTEVA",
     "MAURICIO TOMAS ROMERO LONDO\u00d1O",
@@ -17928,12 +18117,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA"
+    "LUCIA PI CHOLULA",
+    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
