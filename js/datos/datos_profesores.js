@@ -1,4 +1,4 @@
-let actualizado="1692196503609.4004";
+let actualizado="1692282962328.202";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2791,7 +2791,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH301",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -2872,7 +2872,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH307",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -2968,7 +2968,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF101",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -2985,7 +2985,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF101",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -3150,7 +3150,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH312",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -3432,7 +3432,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH309",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -3464,7 +3464,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH309",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -3500,7 +3500,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH111",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -3517,7 +3517,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH312",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -3534,7 +3534,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH111",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -4423,6 +4423,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4654,7 +4657,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH308",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -6684,7 +6687,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH315",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -6701,7 +6704,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH315",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -6812,7 +6815,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHB-4",
+          "salon": "RH108",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:30"
@@ -8939,7 +8942,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH102",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -11990,7 +11993,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -12014,7 +12017,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH106",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -12091,7 +12094,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH302",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -15279,9 +15282,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15480,9 +15483,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -16089,7 +16092,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RHB-4",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -18117,12 +18120,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA",
-    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

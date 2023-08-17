@@ -1,4 +1,4 @@
-let actualizado="1692196503587.276";
+let actualizado="1692282962309.701";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -1045,7 +1045,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH301",
+        "salon": "RH307",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -1093,7 +1093,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH307",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -1239,7 +1239,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF101",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -1560,7 +1560,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH312",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -1895,7 +1895,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF101",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -2004,7 +2004,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH309",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2068,7 +2068,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH111",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2089,7 +2089,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH309",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2139,7 +2139,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH312",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -2174,7 +2174,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH111",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2901,7 +2901,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RH308",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -5283,7 +5283,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:30"
@@ -7349,7 +7349,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH315",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -8995,7 +8995,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH102",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -10721,7 +10721,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH106",
+        "salon": "RH204",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10763,7 +10763,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH302",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -10840,7 +10840,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10937,7 +10937,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH315",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -14702,7 +14702,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RHB-4",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -17273,9 +17273,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17326,6 +17326,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.7273,
     "n": 22
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -17808,9 +17813,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
