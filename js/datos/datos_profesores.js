@@ -1,4 +1,4 @@
-let actualizado="1692282962328.202";
+let actualizado="1692369380521.789";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -4138,7 +4138,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHCC101",
+          "salon": "RHCC201",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -4702,7 +4702,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHCC201",
+          "salon": "RHCC101",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -4726,7 +4726,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHCC201",
+          "salon": "RHCC101",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -6010,9 +6010,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -9370,7 +9367,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH206",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -15282,9 +15279,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15483,9 +15480,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18037,11 +18034,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON"
+    "JEFFREY ALLEN WELDON",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "DENISE MEJAN GANEM",
@@ -18120,12 +18117,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA"
+    "LUCIA PI CHOLULA",
+    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
