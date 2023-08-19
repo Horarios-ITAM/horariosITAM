@@ -1,4 +1,4 @@
-let actualizado="1692369380496.7612";
+let actualizado="1692455728297.2732";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -3539,7 +3539,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "19:00"
@@ -3589,17 +3589,16 @@ let clases={
       {
         "grupo": "006",
         "nombre": "CON-10001-PROCESO CONTABLE",
-        "profesor": "MONICA GARCIA CEREZO",
+        "profesor": "",
         "creditos": "8",
-        "horario": "12:00-14:00",
+        "horario": "14:00-16:00",
         "dias": [
-          "MA",
-          "JU"
+          "MI"
         ],
-        "salon": "RHSA2",
-        "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "14:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "14:00",
+        "fin": "16:00"
       }
     ]
   },
@@ -3975,7 +3974,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-5",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -3995,7 +3994,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH111",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -5024,6 +5023,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
+      }
+    ]
+  },
+  "CSO-19077": {
+    "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+    "clave": "CSO-19077",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+        "profesor": "ALEXANDRA URIBE COUGHLAN",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -11527,7 +11546,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH314",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -12001,7 +12020,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH314",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -12627,7 +12646,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-        "profesor": "SERGIO ROMERO HERNANDEZ",
+        "profesor": "STEFANO STRAULINO TORRE",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -12642,7 +12661,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-        "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
+        "profesor": "STEFANO STRAULINO TORRE",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -12795,7 +12814,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:00"
@@ -12815,7 +12834,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:00"
@@ -12855,7 +12874,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH205",
         "campus": "RIO HONDO",
         "inicio": "20:00",
         "fin": "21:00"
@@ -13639,7 +13658,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:00"
@@ -13843,7 +13862,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:00"
@@ -13903,7 +13922,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:00"
@@ -13923,7 +13942,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH205",
         "campus": "RIO HONDO",
         "inicio": "20:00",
         "fin": "21:00"
@@ -14313,7 +14332,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:00"
@@ -15845,7 +15864,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -16672,7 +16691,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "MARCELO CARLOS MEJIA OLVERA",
+        "profesor": "STEFANO STRAULINO TORRE",
         "creditos": "4",
         "horario": "17:30-19:30",
         "dias": [
@@ -16751,11 +16770,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.7872,
     "n": 47
-  },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
   },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
@@ -16971,11 +16985,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
     "general": 8.0,
     "n": 14
-  },
-  "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
-    "general": 8.0476,
-    "n": 21
   },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
@@ -17273,9 +17282,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17366,6 +17375,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.1875,
     "n": 16
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17808,9 +17822,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

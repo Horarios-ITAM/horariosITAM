@@ -1,4 +1,4 @@
-let actualizado="1692369380521.789";
+let actualizado="1692455728317.614";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -1257,6 +1257,20 @@ let profesores={
         },
         {
           "grupo": "005",
+          "nombre": "CON-10001-PROCESO CONTABLE",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "14:00-16:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "14:00",
+          "fin": "16:00"
+        },
+        {
+          "grupo": "006",
           "nombre": "CON-10001-PROCESO CONTABLE",
           "profesor": "",
           "creditos": "8",
@@ -4561,20 +4575,6 @@ let profesores={
       ],
       "SDI-15816-SEMINARIO DE TITULACION": [
         {
-          "grupo": "001",
-          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-          "profesor": "MARCELO CARLOS MEJIA OLVERA",
-          "creditos": "4",
-          "horario": "17:30-19:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH211",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
-        },
-        {
           "grupo": "002",
           "nombre": "SDI-15816-SEMINARIO DE TITULACION",
           "profesor": "MARCELO CARLOS MEJIA OLVERA",
@@ -5241,47 +5241,10 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-4",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "MONICA GARCIA CEREZO": {
-    "grupos": {
-      "CON-10001-PROCESO CONTABLE": [
-        {
-          "grupo": "006",
-          "nombre": "CON-10001-PROCESO CONTABLE",
-          "profesor": "MONICA GARCIA CEREZO",
-          "creditos": "8",
-          "horario": "12:00-14:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
-      ],
-      "CON-14100-CONTABILIDAD ADMINISTRATIVA, I": [
-        {
-          "grupo": "001",
-          "nombre": "CON-14100-CONTABILIDAD ADMINISTRATIVA, I",
-          "profesor": "MONICA GARCIA CEREZO",
-          "creditos": "9",
-          "horario": "11:30-14:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "14:00"
         }
       ]
     }
@@ -5491,7 +5454,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-5",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -5514,7 +5477,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH111",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -5593,6 +5556,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "MONICA GARCIA CEREZO": {
+    "grupos": {
+      "CON-14100-CONTABILIDAD ADMINISTRATIVA, I": [
+        {
+          "grupo": "001",
+          "nombre": "CON-14100-CONTABILIDAD ADMINISTRATIVA, I",
+          "profesor": "MONICA GARCIA CEREZO",
+          "creditos": "9",
+          "horario": "11:30-14:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "14:00"
         }
       ]
     }
@@ -5759,6 +5742,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ],
+      "CSO-19077-SEMIN. DE TITULACION POR CASO": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+          "profesor": "ALEXANDRA URIBE COUGHLAN",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -6010,6 +6009,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -10309,9 +10311,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -10954,6 +10953,54 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
+        }
+      ],
+      "IIO-16180-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
+          "profesor": "STEFANO STRAULINO TORRE",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
+          "profesor": "STEFANO STRAULINO TORRE",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "SDI-15816-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+          "profesor": "STEFANO STRAULINO TORRE",
+          "creditos": "4",
+          "horario": "17:30-19:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH211",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:30"
         }
       ]
     }
@@ -12677,7 +12724,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH314",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -12694,7 +12741,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH314",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -13545,23 +13592,6 @@ let profesores={
           "inicio": "12:30",
           "fin": "14:00"
         }
-      ],
-      "IIO-16180-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-          "profesor": "SERGIO ROMERO HERNANDEZ",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
       ]
     }
   },
@@ -14060,30 +14090,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "11:30"
-        }
-      ]
-    }
-  },
-  "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
-    "general": 8.0476,
-    "n": 21,
-    "grupos": {
-      "IIO-16180-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "002",
-          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-          "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ]
     }
@@ -14680,7 +14686,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:00"
@@ -14696,7 +14702,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "PF107",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:00"
@@ -14728,7 +14734,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:00"
@@ -14744,7 +14750,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:00"
@@ -14776,7 +14782,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "PF107",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:00"
@@ -14792,7 +14798,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:00"
@@ -14815,7 +14821,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "21:00"
@@ -14831,7 +14837,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "21:00"
@@ -15279,9 +15285,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15480,9 +15486,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17425,7 +17431,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -18025,8 +18031,8 @@ let mejoresPorDepto={
     "SYLVIA MELJEM ENRIQUEZ DE RIVERA",
     "ANA MARIA BERNARDETTE DIAZ BONNET",
     "SANDRA PATRICIA MINABURO VILLAR",
-    "MONICA GARCIA CEREZO",
-    "HAICAL JOSE BESIL SHAADI"
+    "HAICAL JOSE BESIL SHAADI",
+    "LIDIA VALLEJO BALDERRABANO"
   ],
   "CIENCIA POLITICA": [
     "JULIO ANTONIO RIOS FIGUEROA",
@@ -18034,11 +18040,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON",
-    "PETER MATTHEW  HILLS"
+    "JEFFREY ALLEN WELDON"
   ],
   "DERECHO": [
     "DENISE MEJAN GANEM",
@@ -18102,7 +18108,6 @@ let mejoresPorDepto={
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
-    "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
     "SERGIO ROMERO HERNANDEZ",
     "LUIS ANTONIO MONCAYO MARTINEZ",
     "ALEJANDRO TERAN CASTELLANOS",
@@ -18110,19 +18115,20 @@ let mejoresPorDepto={
     "DAVID FERNANDO MU\u00d1OZ NEGRON",
     "MARIA CRISTINA GIGOLA PAGLIALUNGA",
     "ENRIQUE JAIME LIMA MU\u00d1OZ",
-    "YARAI ELIZABETH TLATELPA OSORIO"
+    "YARAI ELIZABETH TLATELPA OSORIO",
+    "THOMAS MARTIN RUDOLF"
   ],
   "LENGUAS (LEN)": [
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA",
-    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
