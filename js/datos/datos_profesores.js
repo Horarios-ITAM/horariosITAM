@@ -1,4 +1,4 @@
-let actualizado="1692628619775.7566";
+let actualizado="1692714946601.3076";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -7131,23 +7131,6 @@ let profesores={
           "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
           "profesor": "BRADLY JOHN  CONDON",
           "creditos": "4",
-          "horario": "17:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "17:30"
-        }
-      ],
-      "DER-11114-HABILIDADES JURID. GLOBALES II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
-          "profesor": "BRADLY JOHN  CONDON",
-          "creditos": "4",
           "horario": "16:00-17:00",
           "dias": [
             "MA",
@@ -7157,6 +7140,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:00"
+        }
+      ],
+      "DER-11114-HABILIDADES JURID. GLOBALES II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
+          "profesor": "BRADLY JOHN  CONDON",
+          "creditos": "4",
+          "horario": "17:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "17:30"
         }
       ],
       "DER-11304-ARGUMENTAC. ORAL Y ESCRITA": [
