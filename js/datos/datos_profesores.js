@@ -1,4 +1,4 @@
-let actualizado="1692714946601.3076";
+let actualizado="1692801361026.0676";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -7292,7 +7292,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHB-1",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -7447,7 +7447,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF104",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -7940,7 +7940,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF105",
+          "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "20:30",
           "fin": "22:00"
@@ -7957,7 +7957,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF105",
+          "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -8106,7 +8106,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF105",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -8120,7 +8120,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF105",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -8244,7 +8244,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -8441,7 +8441,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF106",
+          "salon": "RH306",
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "22:00"
@@ -8593,7 +8593,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF104",
+          "salon": "RH311",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -8617,7 +8617,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -10311,6 +10311,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -12305,7 +12308,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "21:30"
@@ -12535,7 +12538,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-2",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -12552,7 +12555,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-2",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -12765,7 +12768,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH314",
+          "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
@@ -12789,7 +12792,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH202",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
@@ -13033,7 +13036,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-2",
+          "salon": "RH105",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:30"
@@ -15486,9 +15489,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17355,7 +17358,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF101",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
@@ -18123,12 +18126,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA"
+    "LUCIA PI CHOLULA",
+    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

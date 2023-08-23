@@ -1,4 +1,4 @@
-let actualizado="1692714946580.3518";
+let actualizado="1692801361004.4094";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -5688,7 +5688,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHB-1",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -5873,7 +5873,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF104",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -6433,7 +6433,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "20:30",
         "fin": "22:00"
@@ -6582,7 +6582,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF105",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -6596,7 +6596,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -6869,7 +6869,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -6884,7 +6884,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -7116,7 +7116,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF106",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "20:00",
         "fin": "22:00"
@@ -7260,7 +7260,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF104",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -7275,7 +7275,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -11038,7 +11038,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "19:30",
         "fin": "21:30"
@@ -11236,7 +11236,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH314",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -11251,7 +11251,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH202",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "10:00"
@@ -11495,7 +11495,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-2",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -11597,7 +11597,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-2",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:30"
@@ -11969,7 +11969,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-2",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -16071,7 +16071,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF101",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:30"
@@ -16771,6 +16771,11 @@ let misProfesData={
     "general": 8.7872,
     "n": 47
   },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
+  },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
     "general": 8.8125,
@@ -17282,9 +17287,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17650,11 +17655,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
     "general": 7.3667,
     "n": 30
-  },
-  "PABLO ARIEL RAPETTI": {
-    "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.1111,
-    "n": 18
   },
   "EDUARDO REVILLA MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Revilla-Martinez_50314",
