@@ -1,4 +1,4 @@
-let actualizado="1692801361026.0676";
+let actualizado="1692887789255.9873";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -6675,6 +6675,23 @@ let profesores={
           "fin": "10:00"
         }
       ],
+      "DER-10007-DERECHO INTERNACIONAL PRIVADO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10007-DERECHO INTERNACIONAL PRIVADO",
+          "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH212",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
       "DER-18041-CDNIA. GLOBAL Y DH EN CONTEXTO": [
         {
           "grupo": "001",
@@ -7345,7 +7362,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH107",
+          "salon": "PF105",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -7467,7 +7484,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -15489,9 +15506,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17509,8 +17526,8 @@ let profesores={
   },
   "ABIMAEL JAVIER BENGOCHEA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
-    "general": 6.0345,
-    "n": 29,
+    "general": 6.1333,
+    "n": 30,
     "grupos": {
       "MAT-24211-SISTEMAS DINAMICOS,II": [
         {
@@ -18126,12 +18143,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA",
-    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

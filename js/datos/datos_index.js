@@ -1,4 +1,4 @@
-let actualizado="1692801361004.4094";
+let actualizado="1692887789231.1406";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -5164,6 +5164,27 @@ let clases={
       }
     ]
   },
+  "DER-10007": {
+    "nombre": "DER-10007-DERECHO INTERNACIONAL PRIVADO",
+    "clave": "DER-10007",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-10007-DERECHO INTERNACIONAL PRIVADO",
+        "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH212",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
+      }
+    ]
+  },
   "DER-10008": {
     "nombre": "DER-10008-REGIMEN LABORAL MEXICANO",
     "clave": "DER-10008",
@@ -5714,7 +5735,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH107",
+        "salon": "PF105",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -5940,7 +5961,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RH307",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -16853,8 +16874,8 @@ let misProfesData={
   },
   "ABIMAEL JAVIER BENGOCHEA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
-    "general": 6.0345,
-    "n": 29
+    "general": 6.1333,
+    "n": 30
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -17287,9 +17308,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
