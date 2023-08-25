@@ -1,4 +1,4 @@
-let actualizado="1692887789231.1406";
+let actualizado="1692974160406.2197";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -14145,7 +14145,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
-        "profesor": "",
+        "profesor": "ALEJANDRA GUTIERREZ VALDEZ",
         "creditos": "2",
         "horario": "07:30-08:30",
         "dias": [
@@ -16792,11 +16792,6 @@ let misProfesData={
     "general": 8.7872,
     "n": 47
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
     "general": 8.8125,
@@ -17589,8 +17584,8 @@ let misProfesData={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.1513,
-    "n": 119
+    "general": 7.1583,
+    "n": 120
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",

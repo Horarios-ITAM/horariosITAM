@@ -1,4 +1,4 @@
-let actualizado="1692887789255.9873";
+let actualizado="1692974160429.2983";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2112,22 +2112,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
-        }
-      ],
-      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:30-08:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "07:30",
-          "fin": "08:30"
         }
       ],
       "MAT-11100-MATEMATICAS, I": [
@@ -10328,9 +10312,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -11083,8 +11064,8 @@ let profesores={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.1513,
-    "n": 119,
+    "general": 7.1583,
+    "n": 120,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -15863,6 +15844,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
+        }
+      ]
+    }
+  },
+  "ALEJANDRA GUTIERREZ VALDEZ": {
+    "grupos": {
+      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
+          "profesor": "ALEJANDRA GUTIERREZ VALDEZ",
+          "creditos": "2",
+          "horario": "07:30-08:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "07:30",
+          "fin": "08:30"
         }
       ]
     }
