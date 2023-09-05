@@ -1,4 +1,4 @@
-let actualizado="1693838149989.4268";
+let actualizado="1693924541005.2236";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -9083,7 +9083,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH105",
+        "salon": "RH207",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -17259,8 +17259,8 @@ let misProfesData={
   },
   "VICTOR MANUEL GUERRERO GUZMAN": {
     "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Guerrero-Guzm\u00e1n_10688",
-    "general": 6.5769,
-    "n": 26
+    "general": 6.4074,
+    "n": 27
   },
   "JOSE OCTAVIO GUTIERREZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Octavio-Gutierrez-Garcia_129405",
@@ -17361,11 +17361,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.7273,
     "n": 22
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",

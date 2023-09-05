@@ -1,4 +1,4 @@
-let actualizado="1693838150007.252";
+let actualizado="1693924541024.35";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -4421,9 +4421,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -10179,7 +10176,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH105",
+          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
@@ -13374,8 +13371,8 @@ let profesores={
   },
   "VICTOR MANUEL GUERRERO GUZMAN": {
     "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Guerrero-Guzm\u00e1n_10688",
-    "general": 6.5769,
-    "n": 26,
+    "general": 6.4074,
+    "n": 27,
     "grupos": {
       "EST-24105-ESTADISTICA APLICADA, II": [
         {
