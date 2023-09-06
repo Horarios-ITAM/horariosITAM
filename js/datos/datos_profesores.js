@@ -1,4 +1,4 @@
-let actualizado="1693924541024.35";
+let actualizado="1694010960021.141";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -5082,9 +5082,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5990,9 +5987,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -9201,6 +9195,29 @@ let profesores={
       ]
     }
   },
+  "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
+    "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
+    "general": 5.0,
+    "n": 11,
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "009",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
   "ERNESTO PIEDRAS FERIA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Piedras-Feria_74696",
     "general": 7.0,
@@ -9315,6 +9332,43 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "012",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+          "creditos": "9",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ECO-22105-ECONOMIA V": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-22105-ECONOMIA V",
+          "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ]
     }
@@ -10371,27 +10425,6 @@ let profesores={
       ]
     }
   },
-  "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
-    "grupos": {
-      "ECO-22105-ECONOMIA V": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-22105-ECONOMIA V",
-          "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ]
-    }
-  },
   "VICTOR ALBERTO VILLAVICENCIO NAVARRO": {
     "grupos": {
       "EGN-11163-NEW HISTORIC PERSPECT. OF MEX.": [
@@ -11064,8 +11097,8 @@ let profesores={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.1583,
-    "n": 120,
+    "general": 7.1818,
+    "n": 121,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -15286,9 +15319,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15487,9 +15520,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -16048,7 +16081,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH302",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -16379,8 +16412,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.2258,
-    "n": 62,
+    "general": 7.2063,
+    "n": 63,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -17346,8 +17379,8 @@ let profesores={
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
-    "general": 6.1667,
-    "n": 24,
+    "general": 6.16,
+    "n": 25,
     "grupos": {
       "MAT-14400-CALCULO  NUMERICO,I": [
         {
@@ -18061,11 +18094,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON"
+    "JEFFREY ALLEN WELDON",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "DENISE MEJAN GANEM",
@@ -18144,12 +18177,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA"
+    "LUCIA PI CHOLULA",
+    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

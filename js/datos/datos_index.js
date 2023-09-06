@@ -1,4 +1,4 @@
-let actualizado="1693924541005.2236";
+let actualizado="1694010959999.548";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -7711,6 +7711,20 @@ let clases={
         "campus": "ST. TERESA",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "009",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "CRISTIAN ANDRES SANCHEZ MONTESINOS",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -7860,6 +7874,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "012",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+        "creditos": "9",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -14710,7 +14738,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH302",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -16939,8 +16967,8 @@ let misProfesData={
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
-    "general": 6.1667,
-    "n": 24
+    "general": 6.16,
+    "n": 25
   },
   "JORGE ARTURO CERDIO HERRAN": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Arturo-Cerdio-Herr\u00e1n_10792",
@@ -17031,11 +17059,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
     "general": 5.9476,
     "n": 210
-  },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
@@ -17308,9 +17331,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17396,11 +17419,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.1875,
     "n": 16
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17584,8 +17602,8 @@ let misProfesData={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.1583,
-    "n": 120
+    "general": 7.1818,
+    "n": 121
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
@@ -17639,8 +17657,8 @@ let misProfesData={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.2258,
-    "n": 62
+    "general": 7.2063,
+    "n": 63
   },
   "JESUS PUENTE TREVI\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Jesus-Puente-Trevi\u00f1o_89712",
@@ -17772,6 +17790,11 @@ let misProfesData={
     "general": 8.0455,
     "n": 44
   },
+  "CRISTIAN ANDRES SANCHEZ MONTESINOS": {
+    "link": "https://www.misprofesores.com/profesores/Cristi\u00e1n-Andr\u00e9s-S\u00e1nchez-Montesinos_114935",
+    "general": 5.0,
+    "n": 11
+  },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
     "general": 7.0,
@@ -17838,9 +17861,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
