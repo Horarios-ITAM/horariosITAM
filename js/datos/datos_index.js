@@ -1,4 +1,4 @@
-let actualizado="1694270147356.7773";
+let actualizado="1694356505568.0127";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -16790,6 +16790,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.7872,
     "n": 47
+  },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
   },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
