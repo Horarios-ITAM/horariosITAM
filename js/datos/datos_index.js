@@ -1,4 +1,4 @@
-let actualizado="1694702150542.2227";
+let actualizado="1694788565658.8823";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -5646,7 +5646,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH313",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -6042,7 +6042,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH313",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -17798,8 +17798,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9568,
-    "n": 278
+    "general": 4.9498,
+    "n": 279
   },
   "SERGIO SILVA CASTA\u00d1EDA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Silva-Casta\u00f1eda_50663",
@@ -17837,9 +17837,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

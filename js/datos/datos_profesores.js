@@ -1,4 +1,4 @@
-let actualizado="1694702150561.1062";
+let actualizado="1694788565683.5415";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2414,8 +2414,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9568,
-    "n": 278,
+    "general": 4.9498,
+    "n": 279,
     "grupos": {
       "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL": [
         {
@@ -7203,7 +7203,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH313",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -7219,7 +7219,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH313",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -15288,9 +15288,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
