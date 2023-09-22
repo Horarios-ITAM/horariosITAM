@@ -1,4 +1,4 @@
-let actualizado="1695306975550.7212";
+let actualizado="1695393353267.8608";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -6636,7 +6636,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -6653,7 +6653,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -6670,7 +6670,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -7987,7 +7987,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
