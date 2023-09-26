@@ -1,4 +1,4 @@
-let actualizado="1695652560031.3804";
+let actualizado="1695739051874.72";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2894,8 +2894,8 @@ let profesores={
   },
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
-    "general": 6.52,
-    "n": 25,
+    "general": 6.5769,
+    "n": 26,
     "grupos": {
       "ADM-15503-FINANZAS.,III": [
         {
@@ -3158,8 +3158,8 @@ let profesores={
   },
   "AURELIO VASQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
-    "general": 3.84,
-    "n": 25,
+    "general": 3.7692,
+    "n": 26,
     "grupos": {
       "ADM-15533-MODELOS FINANCIEROS I": [
         {
@@ -10335,6 +10335,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -15480,7 +15483,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
