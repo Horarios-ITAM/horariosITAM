@@ -1,4 +1,4 @@
-let actualizado="1695739051849.8765";
+let actualizado="1695825374469.0017";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -17307,9 +17307,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17395,11 +17395,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.1875,
     "n": 16
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17783,8 +17778,8 @@ let misProfesData={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.0,
-    "n": 22
+    "general": 7.1304,
+    "n": 23
   },
   "SERGIO MIGUEL SARMIENTO SERRANO": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
