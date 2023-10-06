@@ -1,4 +1,4 @@
-let actualizado="1696516625293.1277";
+let actualizado="1696602971285.0115";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -130,8 +130,8 @@ let profesores={
   },
   "DAVID RUELAS RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
-    "general": 9.1639,
-    "n": 61,
+    "general": 9.1774,
+    "n": 62,
     "grupos": {
       "ACT-11302-CALCULO ACTUARIAL III": [
         {
@@ -4596,6 +4596,9 @@ let profesores={
     }
   },
   "JUAN SALVADOR MARMOL YAHYA": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Salvador-M\u00e1rmol-Yahya_169926",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "COM-15111-TEO. DEL CEREBRO Y NEUROINFORM": [
         {
@@ -10845,6 +10848,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6341,
+    "n": 82,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -15294,9 +15300,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15495,9 +15501,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -16568,8 +16574,8 @@ let profesores={
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
-    "general": 7.2593,
-    "n": 54,
+    "general": 7.2364,
+    "n": 55,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -18037,6 +18043,7 @@ let mejoresPorDepto={
     "MARIA MONICA CUELLAR AYALA"
   ],
   "COMPUTACION": [
+    "JUAN SALVADOR MARMOL YAHYA",
     "JOSE OCTAVIO GUTIERREZ GARCIA",
     "JAVIER TERRES ARIAS",
     "XOCHITL CHAVARRIA CRUZ",
@@ -18045,8 +18052,7 @@ let mejoresPorDepto={
     "ALBERTO ISAAC RAMIREZ PEREZ",
     "SILVIA DEL CARMEN GUARDATI BUEMO",
     "SILVIA RIOS MAGOS",
-    "MIROSLAVA MENDOZA VIDAL",
-    "IRMA LOZANO MENDICUTI"
+    "MIROSLAVA MENDOZA VIDAL"
   ],
   "CONTABILIDAD": [
     "MANUEL TAMEZ ZENDEJAS",
@@ -18149,12 +18155,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA"
+    "LUCIA PI CHOLULA",
+    "CRISTINA ARAGON VELASCO"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
