@@ -1,4 +1,4 @@
-let actualizado="1696948631379.9111";
+let actualizado="1697035086836.252";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -2817,6 +2817,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ],
+      "ECO-13132-FINANZAS INTERNACIONALES": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-13132-FINANZAS INTERNACIONALES",
+          "profesor": "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -10344,6 +10360,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {

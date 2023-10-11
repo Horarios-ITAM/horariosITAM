@@ -1,4 +1,4 @@
-let actualizado="1696948631358.7449";
+let actualizado="1697035086813.6013";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -8754,6 +8754,26 @@ let clases={
       }
     ]
   },
+  "ECO-13132": {
+    "nombre": "ECO-13132-FINANZAS INTERNACIONALES",
+    "clave": "ECO-13132",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "ECO-13132-FINANZAS INTERNACIONALES",
+        "profesor": "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
   "ECO-14207": {
     "nombre": "ECO-14207-ANAL. ECONOMICO DEL DERECHO I",
     "clave": "ECO-14207",
@@ -16790,6 +16810,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.7872,
     "n": 47
+  },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
   },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
