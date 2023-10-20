@@ -1,4 +1,4 @@
-let actualizado="1697726160382.0833";
+let actualizado="1697812544353.0486";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -4403,9 +4403,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -15310,9 +15307,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16337,8 +16334,8 @@ let profesores={
   },
   "EDUARDO TOMAS ARELLANO ARJONA": {
     "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.5285,
-    "n": 123,
+    "general": 6.5161,
+    "n": 124,
     "grupos": {
       "MAT-12102-CALCULO, III": [
         {

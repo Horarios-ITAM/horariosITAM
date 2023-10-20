@@ -1,4 +1,4 @@
-let actualizado="1697726160359.627";
+let actualizado="1697812544334.4788";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -16838,8 +16838,8 @@ let misProfesData={
   },
   "EDUARDO TOMAS ARELLANO ARJONA": {
     "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.5285,
-    "n": 123
+    "general": 6.5161,
+    "n": 124
   },
   "RODRIGO ALFONSO ASCENCIO LUCIO": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Alfonso-Ascencio-Lucio_112372",
@@ -17381,11 +17381,6 @@ let misProfesData={
     "general": 7.7273,
     "n": 22
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.8182,
@@ -17872,9 +17867,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
