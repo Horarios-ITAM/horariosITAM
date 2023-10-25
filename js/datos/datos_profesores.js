@@ -1,4 +1,4 @@
-let actualizado="1698158189189.4067";
+let actualizado="1698244557720.3206";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -10360,9 +10360,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -15313,9 +15310,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17295,8 +17292,8 @@ let profesores={
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 9.1875,
-    "n": 16,
+    "general": 9.2353,
+    "n": 17,
     "grupos": {
       "MAT-14310-ALG. LINEAL, II (ALG. LINEAL)": [
         {
