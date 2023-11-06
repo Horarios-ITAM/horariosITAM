@@ -1,4 +1,4 @@
-let actualizado="1699194918306.677";
+let actualizado="1699281455961.9412";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -5975,6 +5975,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -15310,9 +15313,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18082,11 +18085,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON",
-    "PETER MATTHEW  HILLS"
+    "JEFFREY ALLEN WELDON"
   ],
   "DERECHO": [
     "DENISE MEJAN GANEM",
