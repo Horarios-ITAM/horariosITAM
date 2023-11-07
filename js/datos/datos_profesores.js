@@ -1,4 +1,4 @@
-let actualizado="1699281455961.9412";
+let actualizado="1699367749426.404";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -4403,6 +4403,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -10861,9 +10864,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6341,
-    "n": 82,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -16340,8 +16340,8 @@ let profesores={
   },
   "EDUARDO TOMAS ARELLANO ARJONA": {
     "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.5161,
-    "n": 124,
+    "general": 6.48,
+    "n": 125,
     "grupos": {
       "MAT-12102-CALCULO, III": [
         {

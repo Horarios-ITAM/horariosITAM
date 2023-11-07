@@ -1,4 +1,4 @@
-let actualizado="1699281455945.68";
+let actualizado="1699367749411.1626";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -16843,8 +16843,8 @@ let misProfesData={
   },
   "EDUARDO TOMAS ARELLANO ARJONA": {
     "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.5161,
-    "n": 124
+    "general": 6.48,
+    "n": 125
   },
   "RODRIGO ALFONSO ASCENCIO LUCIO": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Alfonso-Ascencio-Lucio_112372",
@@ -17386,6 +17386,11 @@ let misProfesData={
     "general": 7.7273,
     "n": 22
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41
+  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.7564,
@@ -17725,11 +17730,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
     "general": 8.125,
     "n": 16
-  },
-  "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6341,
-    "n": 82
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
