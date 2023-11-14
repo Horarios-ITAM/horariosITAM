@@ -1,4 +1,4 @@
-let actualizado="1699886203573.674";
+let actualizado="1699972561241.3481";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -4403,6 +4403,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5975,9 +5978,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12041-HISTORIA DE MEXICO, I": [
         {
@@ -9369,8 +9369,8 @@ let profesores={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.5306,
-    "n": 147,
+    "general": 9.5068,
+    "n": 148,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
@@ -10858,9 +10858,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6341,
-    "n": 82,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -15511,9 +15508,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18082,11 +18079,11 @@ let mejoresPorDepto={
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "RODOLFO DARIO VAZQUEZ CARDOZO",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON"
+    "JEFFREY ALLEN WELDON",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "DENISE MEJAN GANEM",
@@ -18165,12 +18162,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA",
-    "CRISTINA ARAGON VELASCO"
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
