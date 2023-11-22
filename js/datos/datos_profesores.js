@@ -1,4 +1,4 @@
-let actualizado="1700577458838.5305";
+let actualizado="1700663836091.2634";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -4403,9 +4403,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -10864,6 +10861,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6341,
+    "n": 82,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -11957,8 +11957,8 @@ let profesores={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 8.3684,
-    "n": 19,
+    "general": 8.45,
+    "n": 20,
     "grupos": {
       "EIN-11101-INT. A LAS R. INTERNACIONALES": [
         {
@@ -15313,9 +15313,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15514,9 +15514,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18129,8 +18129,8 @@ let mejoresPorDepto={
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
-    "RODRIGO CHACON AGUIRRE",
     "ISABEL FLORES ALCAZAR",
+    "RODRIGO CHACON AGUIRRE",
     "NATALIA SALTALAMACCHIA ZICCARDI",
     "GABRIEL GOODLIFFE",
     "ATHANASIOS  HRISTOULAS",
@@ -18168,12 +18168,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA"
+    "LUCIA PI CHOLULA",
+    "CRISTINA ARAGON VELASCO"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
