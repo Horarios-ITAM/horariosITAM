@@ -1,4 +1,4 @@
-let actualizado="1701355018289.075";
+let actualizado="1701441369569.743";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -17068,8 +17068,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.9459,
-    "n": 37
+    "general": 7.7895,
+    "n": 38
   },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
@@ -17385,11 +17385,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.7273,
     "n": 22
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -17877,9 +17872,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

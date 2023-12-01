@@ -1,4 +1,4 @@
-let actualizado="1701355018304.6028";
+let actualizado="1701441369585.2478";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -4403,9 +4403,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -10808,8 +10805,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.9459,
-    "n": 37,
+    "general": 7.7895,
+    "n": 38,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -15313,9 +15310,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18125,7 +18122,7 @@ let mejoresPorDepto={
     "VALERIA ZEPEDA TREJO",
     "STEFANO STRAULINO TORRE",
     "DAVID MORENO GUINEA",
-    "JAVIER ESPINO MARTIN"
+    "PAVEL JIMENEZ VAZQUEZ"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
