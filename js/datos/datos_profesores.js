@@ -1,4 +1,4 @@
-let actualizado="1701873402330.15";
+let actualizado="1701959811000.9883";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -10867,6 +10867,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6265,
+    "n": 83,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -11301,8 +11304,8 @@ let profesores={
   },
   "SERGIO MIGUEL SARMIENTO SERRANO": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
-    "general": 7.3165,
-    "n": 79,
+    "general": 7.35,
+    "n": 80,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12914,8 +12917,8 @@ let profesores={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 8.0,
-    "n": 3,
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -17199,8 +17202,8 @@ let profesores={
   },
   "RIGOBERTO VERA MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Rigoberto-Vera-Mendoza_83645",
-    "general": 4.6842,
-    "n": 57,
+    "general": 4.6379,
+    "n": 58,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -18149,10 +18152,10 @@ let mejoresPorDepto={
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "JOSE MANUEL LECUANDA ONTIVEROS",
     "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
-    "ERICK ULISES MENDOZA ARIAS",
     "LILIANA DE LA TORRE DESENTIS",
     "ERICK MIER MORENO",
-    "ILEANA GARCIA CONDE"
+    "ILEANA GARCIA CONDE",
+    "TRINIDAD GONZALEZ BONILLA"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
