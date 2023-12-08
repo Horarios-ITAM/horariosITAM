@@ -1,4 +1,4 @@
-let actualizado="1701959810985.6855";
+let actualizado="1702046162811.8398";
 let periodo="OTOÑO 2023 LICENCIATURA";
 let secure=false;
 let sGrace="2317";
@@ -16823,8 +16823,8 @@ let misProfesData={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.4803,
-    "n": 127
+    "general": 6.5,
+    "n": 128
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
@@ -17061,11 +17061,6 @@ let misProfesData={
     "general": 5.9476,
     "n": 210
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4675,
@@ -17253,8 +17248,8 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4885,
-    "n": 217
+    "general": 6.4679,
+    "n": 218
   },
   "ANA LAURA GONZALEZ ENRIQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Laura-Gonzalez-Enriquez_159822",
@@ -17337,9 +17332,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17391,11 +17386,6 @@ let misProfesData={
     "general": 7.7273,
     "n": 22
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41
-  },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
     "general": 7.7564,
@@ -17435,11 +17425,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17598,8 +17583,8 @@ let misProfesData={
   },
   "JOSE MANUEL OROZCO GARIBAY": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
-    "general": 5.6402,
-    "n": 164
+    "general": 5.6364,
+    "n": 165
   },
   "ROMEO SALVADOR ORTEGA MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Romeo-Salvador-Ortega-Martinez_129225",
@@ -17887,9 +17872,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -17983,8 +17968,8 @@ let misProfesData={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 4.0,
-    "n": 3
+    "general": 4.5,
+    "n": 4
   },
   "FRANCISCO JAVIER VILLA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/FRANCISCO-JAVIER-VILLA-LOPEZ_159928",
