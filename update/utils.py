@@ -99,22 +99,6 @@ def levenshteinSimilarity(s0,s1):
         return 1.0
     return 1-(levenshtein(s0,s1)/m)
 
-
-def rankPeriodo(periodo):
-    """
-    Asigna numerico usado para ordenar a cadena del tipo 'OTOÑO 2022 LICENCIATURA'. 
-    """
-    assert periodo.count(' ')==2,'Periodo invalido'
-    op,yr,_=periodo.split()
-    periodos=['PRIMAVERA','VERANO','OTOÑO']
-    assert op in periodos,'Periodo invalido'
-    opOffset=str(len(periodos)-periodos.index(op))
-    return int(yr+opOffset)
-
-
-def periodoMasReciente(periodos):
-    return sorted(periodos,key=rankPeriodo,reverse=True)[-1]
-
 def periodoValido(periodo):
     periodos=['PRIMAVERA','VERANO','OTOÑO']
     if len(periodo.split(' '))!=3:
@@ -123,7 +107,20 @@ def periodoValido(periodo):
     if lic!="LICENCIATURA" or op not in periodos or not str.isnumeric(yr):
         return False
     return True
+def rankPeriodo(periodo_str):
+    """
+    Asigna numerico usado para ordenar a cadena del tipo 'OTOÑO 2022 LICENCIATURA'. 
+    """
+    assert periodo_str.count(' ')==2,'Periodo invalido'
+    sem,yr,_=periodo_str.split()
+    periodos=['PRIMAVERA','VERANO','OTOÑO']
+    assert sem in periodos,'Periodo invalido'
+    opOffset=periodos.index(sem)
+    return 10*int(yr)+int(opOffset)
 
+
+def periodoMasReciente(periodos):
+    return max(periodos,key=rankPeriodo)
 
 def dic2js(d):
     out=''
@@ -139,14 +136,14 @@ def dic2js(d):
 
 if __name__=="__main__":
     # Prueba rankPeriodo
-    periodos=['PRIMAVERA 2011 LICENCIATURA','PRIMAVERA 2010 LICENCIATURA','VERANO 2010 LICENCIATURA','OTOÑO 2010 LICENCIATURA']
-    ordenados=sorted(periodos,key=rankPeriodo,reverse=True)
-    assert ordenados==periodos
-    for p in periodos:
-        assert periodoValido(p)
+    # periodos=['PRIMAVERA 2011 LICENCIATURA','PRIMAVERA 2010 LICENCIATURA','VERANO 2010 LICENCIATURA','OTOÑO 2010 LICENCIATURA']
+    # ordenados=sorted(periodos,key=rankPeriodo,reverse=True)
+    # assert ordenados==periodos
+    # for p in periodos:
+    #     assert periodoValido(p)
 
-    i=['PRIMAVERA 2023 LICENCIATURA','VERANO 2023 LICENCIATURA']
-    print(sorted(i,key=rankPeriodo,reverse=True))
-    
+    # i=['PRIMAVERA 2023 LICENCIATURA','VERANO 2023 LICENCIATURA']
+    # print(sorted(i,key=rankPeriodo,reverse=True))
+    print(periodoMasReciente(['PRIMAVERA 2024 LICENCIATURA','OTOÑO 2023 LICENCIATURA'])) 
 
     

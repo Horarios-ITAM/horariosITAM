@@ -80,6 +80,7 @@ class GraceScrapper:
                     
         self._print(f'Se encontraron urls:{urls}')
         periodo=utils.periodoMasReciente(list(urls.keys()))
+        self._print(f'Periodo mas reciente: {periodo}')
         dropDownURL=urljoin(urlServiciosNoPersonalizados,urls[periodo])
 
         # Extraer formUrl y s
