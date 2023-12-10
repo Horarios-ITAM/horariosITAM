@@ -1,6 +1,7 @@
 name: auto-scrapping-data
 run-name: Auto scrapping and pushing new data
 on:
+  push:
   schedule: # Se scrappean datos periodicamente - NOTA: todos los tiempos en UTC.
     - cron: '30 14 * * *' # Actualizamos los horarios todos los dias (aprox 8:30 hr Mexico)
     - cron: '45 14 * * *' # Actualizamos los calendatios todos los dias (aprox 8:45 hr Mexico)
