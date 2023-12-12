@@ -1,4 +1,4 @@
-let actualizado="1702305473768.338";
+let actualizado="1702391822404.1326";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -130,8 +130,8 @@ let profesores={
   },
   "DAVID RUELAS RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
-    "general": 9.1774,
-    "n": 62,
+    "general": 9.1746,
+    "n": 63,
     "grupos": {
       "ACT-11302-CALCULO ACTUARIAL III": [
         {
@@ -3849,6 +3849,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4488,6 +4491,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.75,
+    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4752,9 +4758,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5926,6 +5932,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -6682,8 +6691,8 @@ let profesores={
   },
   "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
-    "general": 9.3333,
-    "n": 3,
+    "general": 9.5,
+    "n": 4,
     "grupos": {
       "DER-10018-DERECHO EMPRESARIAL I": [
         {
@@ -10913,9 +10922,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6265,
-    "n": 83,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11030,8 +11036,8 @@ let profesores={
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
-    "general": 7.2,
-    "n": 15,
+    "general": 7.0,
+    "n": 16,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -14688,9 +14694,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17673,13 +17679,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO",
-    "PETER MATTHEW  HILLS"
+    "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -17763,7 +17769,7 @@ let mejoresPorDepto={
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
     "LUCIA PI CHOLULA",
-    "ANA TAMARIT AMIEVA"
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
