@@ -1,4 +1,4 @@
-let actualizado="1702391822388.622";
+let actualizado="1702478230176.5996";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -4464,7 +4464,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
-        "profesor": "",
+        "profesor": "LUIS ANTHAR GONZALEZ RODRIGUEZ",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -8935,14 +8935,14 @@ let clases={
         "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
         "profesor": "EMILIO GUTIERREZ FERNANDEZ",
         "creditos": "6",
-        "horario": "17:30-20:30",
+        "horario": "16:00-19:00",
         "dias": [
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH104",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "20:30"
+        "inicio": "16:00",
+        "fin": "19:00"
       },
       {
         "grupo": "002",
@@ -9340,7 +9340,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "CECILIA GALAVIZ ALVAREZ",
+        "profesor": "MARIA ARIETTE ALVAREZ KURI",
         "creditos": "6",
         "horario": "09:00-10:00",
         "dias": [
@@ -9490,7 +9490,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "MARIA ARIETTE ALVAREZ KURI",
+        "profesor": "CECILIA GALAVIZ ALVAREZ",
         "creditos": "6",
         "horario": "09:00-10:00",
         "dias": [
@@ -9522,7 +9522,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "CECILIA GALAVIZ ALVAREZ",
+        "profesor": "JOSE RAFAEL GONZALEZ DIAZ",
         "creditos": "6",
         "horario": "10:00-11:00",
         "dias": [
@@ -9538,7 +9538,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "CARLOS GUTIERREZ LOZANO",
+        "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -9570,7 +9570,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "",
+        "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
         "creditos": "6",
         "horario": "13:00-14:00",
         "dias": [
@@ -9656,7 +9656,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "",
+        "profesor": "MARIA ARIETTE ALVAREZ KURI",
         "creditos": "6",
         "horario": "07:00-08:00",
         "dias": [
@@ -9672,7 +9672,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "MARIA ARIETTE ALVAREZ KURI",
+        "profesor": "CECILIA GALAVIZ ALVAREZ",
         "creditos": "6",
         "horario": "08:00-09:00",
         "dias": [
@@ -9720,7 +9720,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "",
+        "profesor": "CARLOS GUTIERREZ LOZANO",
         "creditos": "6",
         "horario": "12:00-13:00",
         "dias": [
@@ -9988,7 +9988,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "JOSE RAFAEL GONZALEZ DIAZ",
+        "profesor": "GERARDO FERNANDEZ FERNANDEZ",
         "creditos": "6",
         "horario": "09:00-10:00",
         "dias": [
@@ -10198,7 +10198,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+        "profesor": "JOSE MANUEL OROZCO GARIBAY",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -10213,7 +10213,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+        "profesor": "MARIA DE LOURDES IBARRA HERRERIAS",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -12007,14 +12007,14 @@ let clases={
         "nombre": "IIO-14186-ING. DE PROYECTOS SOSTENIBLES",
         "profesor": "SERGIO ROMERO HERNANDEZ",
         "creditos": "6",
-        "horario": "08:00-09:30",
+        "horario": "07:00-09:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "PF104",
+        "salon": "PF107",
         "campus": "RIO HONDO",
-        "inicio": "08:00",
+        "inicio": "07:00",
         "fin": "09:30"
       }
     ]
@@ -12432,7 +12432,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "EDUARDO MENACHE VARELA",
+        "profesor": "ANA TAMARIT AMIEVA",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -12828,7 +12828,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "EDUARDO MENACHE VARELA",
+        "profesor": "ANA TAMARIT AMIEVA",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -12884,7 +12884,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "MARIA GABRIELA  MAZZUCHINO",
+        "profesor": "MARIA TERESA JIMENEZ ANDREU",
         "creditos": "2",
         "horario": "08:00-09:00",
         "dias": [
@@ -13332,14 +13332,14 @@ let clases={
         "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
         "profesor": "EDUARDO MENACHE VARELA",
         "creditos": "2",
-        "horario": "10:00-11:00",
+        "horario": "08:00-09:00",
         "dias": [
-          "MA"
+          "MI"
         ],
         "salon": "PF108",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:00"
+        "inicio": "08:00",
+        "fin": "09:00"
       },
       {
         "grupo": "002",
@@ -13966,14 +13966,14 @@ let clases={
         "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
         "profesor": "EDUARDO MENACHE VARELA",
         "creditos": "2",
-        "horario": "10:00-11:00",
+        "horario": "08:00-09:00",
         "dias": [
-          "MA"
+          "MI"
         ],
         "salon": "PF108",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:00"
+        "inicio": "08:00",
+        "fin": "09:00"
       },
       {
         "grupo": "002",
@@ -16426,8 +16426,8 @@ let misProfesData={
   },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
-    "general": 8.6667,
-    "n": 48
+    "general": 8.6735,
+    "n": 49
   },
   "JORGE ALONSO ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
@@ -16686,8 +16686,8 @@ let misProfesData={
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.8,
-    "n": 10
+    "general": 9.8182,
+    "n": 11
   },
   "JOSEFINA CORTES CAMPOS": {
     "link": "https://www.misprofesores.com/profesores/Josefina-Cort\u00e9s-Campos_10790",
@@ -16909,11 +16909,6 @@ let misProfesData={
     "general": 6.8824,
     "n": 17
   },
-  "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29
-  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.4651,
@@ -16950,9 +16945,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17034,6 +17029,11 @@ let misProfesData={
     "general": 5.7794,
     "n": 68
   },
+  "MARIA TERESA JIMENEZ ANDREU": {
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
+  },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
     "general": 7.8571,
@@ -17091,8 +17091,8 @@ let misProfesData={
   },
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
-    "general": 7.5,
-    "n": 2
+    "general": 8.0,
+    "n": 3
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
@@ -17113,11 +17113,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
@@ -17394,6 +17389,11 @@ let misProfesData={
     "general": 8.125,
     "n": 16
   },
+  "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6265,
+    "n": 83
+  },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
     "general": 7.7222,
@@ -17418,6 +17418,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Tania-Gabriela-Rodr\u00edguez-Huerta_10785",
     "general": 7.1923,
     "n": 26
+  },
+  "EDGAR FRANCISCO ROMAN RANGEL": {
+    "link": "https://www.misprofesores.com/profesores/Edgar-Francisco-Rom\u00e1n-Rangel_171638",
+    "general": 10.0,
+    "n": 1
   },
   "SERGIO ROMERO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
@@ -17536,8 +17541,8 @@ let misProfesData={
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
-    "general": 7.3333,
-    "n": 3
+    "general": 7.75,
+    "n": 4
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
@@ -17545,9 +17550,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",

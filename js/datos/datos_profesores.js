@@ -1,4 +1,4 @@
-let actualizado="1702391822404.1326";
+let actualizado="1702478230191.0552";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -478,22 +478,6 @@ let profesores={
           "fin": "14:00"
         }
       ],
-      "CON-15002-IMPUESTOS CORPORATIVOS, II": [
-        {
-          "grupo": "002",
-          "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHB-5",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
       "DER-10015-DERECHO EMPRESARIAL": [
         {
           "grupo": "002",
@@ -625,57 +609,7 @@ let profesores={
           "fin": "18:00"
         }
       ],
-      "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
-        {
-          "grupo": "010",
-          "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "13:00-14:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH202",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        }
-      ],
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
-        {
-          "grupo": "001",
-          "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH204",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        },
-        {
-          "grupo": "005",
-          "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "12:00-13:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH202",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        },
         {
           "grupo": "007",
           "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
@@ -4514,6 +4448,9 @@ let profesores={
     }
   },
   "EDGAR FRANCISCO ROMAN RANGEL": {
+    "link": "https://www.misprofesores.com/profesores/Edgar-Francisco-Rom\u00e1n-Rangel_171638",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "COM-22108-MINERIA Y ANALISIS DE DATOS": [
         {
@@ -4758,9 +4695,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5577,6 +5514,26 @@ let profesores={
       ]
     }
   },
+  "LUIS ANTHAR GONZALEZ RODRIGUEZ": {
+    "grupos": {
+      "CON-15002-IMPUESTOS CORPORATIVOS, II": [
+        {
+          "grupo": "002",
+          "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
+          "profesor": "LUIS ANTHAR GONZALEZ RODRIGUEZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "ADRIAN URBINA GALICIA": {
     "grupos": {
       "CON-15003-IMPUESTOS P/ PERSONAS FISICAS": [
@@ -5932,9 +5889,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -9098,14 +9052,14 @@ let profesores={
           "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
           "profesor": "EMILIO GUTIERREZ FERNANDEZ",
           "creditos": "6",
-          "horario": "17:30-20:30",
+          "horario": "16:00-19:00",
           "dias": [
             "MI"
           ],
-          "salon": "RH101",
+          "salon": "RH104",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "20:30"
+          "inicio": "16:00",
+          "fin": "19:00"
         }
       ]
     }
@@ -9170,8 +9124,8 @@ let profesores={
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.8,
-    "n": 10,
+    "general": 9.8182,
+    "n": 11,
     "grupos": {
       "ECO-11103-ECONOMIA, III": [
         {
@@ -9612,9 +9566,6 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -10504,13 +10455,16 @@ let profesores={
       ]
     }
   },
-  "CECILIA GALAVIZ ALVAREZ": {
+  "MARIA ARIETTE ALVAREZ KURI": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
+    "general": 6.5116,
+    "n": 129,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
           "grupo": "003",
           "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-          "profesor": "CECILIA GALAVIZ ALVAREZ",
+          "profesor": "MARIA ARIETTE ALVAREZ KURI",
           "creditos": "6",
           "horario": "09:00-10:00",
           "dias": [
@@ -10524,22 +10478,22 @@ let profesores={
           "fin": "10:00"
         }
       ],
-      "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
+      "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
-          "grupo": "007",
-          "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-          "profesor": "CECILIA GALAVIZ ALVAREZ",
+          "grupo": "001",
+          "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
+          "profesor": "MARIA ARIETTE ALVAREZ KURI",
           "creditos": "6",
-          "horario": "10:00-11:00",
+          "horario": "07:00-08:00",
           "dias": [
             "LU",
             "MI",
             "VI"
           ],
-          "salon": "RH201",
+          "salon": "RH204",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
+          "inicio": "07:00",
+          "fin": "08:00"
         }
       ]
     }
@@ -10750,16 +10704,13 @@ let profesores={
       ]
     }
   },
-  "MARIA ARIETTE ALVAREZ KURI": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.5116,
-    "n": 129,
+  "CECILIA GALAVIZ ALVAREZ": {
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
           "grupo": "005",
           "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-          "profesor": "MARIA ARIETTE ALVAREZ KURI",
+          "profesor": "CECILIA GALAVIZ ALVAREZ",
           "creditos": "6",
           "horario": "09:00-10:00",
           "dias": [
@@ -10777,7 +10728,7 @@ let profesores={
         {
           "grupo": "002",
           "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-          "profesor": "MARIA ARIETTE ALVAREZ KURI",
+          "profesor": "CECILIA GALAVIZ ALVAREZ",
           "creditos": "6",
           "horario": "08:00-09:00",
           "dias": [
@@ -10793,16 +10744,72 @@ let profesores={
       ]
     }
   },
-  "CARLOS GUTIERREZ LOZANO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7708,
-    "n": 96,
+  "JOSE RAFAEL GONZALEZ DIAZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
+    "general": 6.4679,
+    "n": 218,
+    "grupos": {
+      "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
+        {
+          "grupo": "007",
+          "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
+          "profesor": "JOSE RAFAEL GONZALEZ DIAZ",
+          "creditos": "6",
+          "horario": "10:00-11:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
+        {
+          "grupo": "005",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "JOSE RAFAEL GONZALEZ DIAZ",
+          "creditos": "6",
+          "horario": "11:00-12:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        },
+        {
+          "grupo": "006",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "JOSE RAFAEL GONZALEZ DIAZ",
+          "creditos": "6",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "ALFREDO GERARDO MARTINEZ OJEDA": {
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
           "grupo": "008",
           "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-          "profesor": "CARLOS GUTIERREZ LOZANO",
+          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
           "creditos": "6",
           "horario": "11:00-12:00",
           "dias": [
@@ -10814,24 +10821,39 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
-        }
-      ],
-      "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
+        },
         {
-          "grupo": "006",
-          "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-          "profesor": "CARLOS GUTIERREZ LOZANO",
+          "grupo": "010",
+          "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
+          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
           "creditos": "6",
-          "horario": "16:00-17:00",
+          "horario": "13:00-14:00",
           "dias": [
             "LU",
             "MI",
             "VI"
           ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
+      ],
+      "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
+        {
+          "grupo": "009",
+          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
+          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
           "salon": "RH207",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:00"
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -10922,6 +10944,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6265,
+    "n": 83,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11055,6 +11080,47 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "CARLOS GUTIERREZ LOZANO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
+    "general": 6.7708,
+    "n": 96,
+    "grupos": {
+      "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
+        {
+          "grupo": "005",
+          "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
+          "profesor": "CARLOS GUTIERREZ LOZANO",
+          "creditos": "6",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        },
+        {
+          "grupo": "006",
+          "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
+          "profesor": "CARLOS GUTIERREZ LOZANO",
+          "creditos": "6",
+          "horario": "16:00-17:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH207",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:00"
         }
       ]
     }
@@ -11261,65 +11327,6 @@ let profesores={
       ]
     }
   },
-  "JOSE RAFAEL GONZALEZ DIAZ": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4679,
-    "n": 218,
-    "grupos": {
-      "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
-        {
-          "grupo": "005",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "JOSE RAFAEL GONZALEZ DIAZ",
-          "creditos": "6",
-          "horario": "11:00-12:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH203",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        },
-        {
-          "grupo": "006",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "JOSE RAFAEL GONZALEZ DIAZ",
-          "creditos": "6",
-          "horario": "12:00-13:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH203",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        }
-      ],
-      "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
-        {
-          "grupo": "005",
-          "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-          "profesor": "JOSE RAFAEL GONZALEZ DIAZ",
-          "creditos": "6",
-          "horario": "09:00-10:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH206",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
   "FEDERICO GUILLERMO DURAND GUEVARA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
     "general": 5.9476,
@@ -11351,6 +11358,22 @@ let profesores={
     "n": 46,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
+        {
+          "grupo": "005",
+          "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
+          "profesor": "GERARDO FERNANDEZ FERNANDEZ",
+          "creditos": "6",
+          "horario": "09:00-10:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        },
         {
           "grupo": "006",
           "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
@@ -11507,17 +11530,11 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "ALFREDO GERARDO MARTINEZ OJEDA": {
-    "grupos": {
-      "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
+        },
         {
           "grupo": "005",
           "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+          "profesor": "JOSE MANUEL OROZCO GARIBAY",
           "creditos": "6",
           "horario": "10:00-11:30",
           "dias": [
@@ -11528,11 +11545,17 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        },
+        }
+      ]
+    }
+  },
+  "MARIA DE LOURDES IBARRA HERRERIAS": {
+    "grupos": {
+      "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
           "grupo": "006",
           "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+          "profesor": "MARIA DE LOURDES IBARRA HERRERIAS",
           "creditos": "6",
           "horario": "11:30-13:00",
           "dias": [
@@ -11543,21 +11566,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
-        },
+        }
+      ],
+      "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
-          "grupo": "009",
-          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
+          "grupo": "003",
+          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+          "profesor": "MARIA DE LOURDES IBARRA HERRERIAS",
           "creditos": "6",
-          "horario": "17:30-19:00",
+          "horario": "10:00-11:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH207",
+          "salon": "RH210",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -11660,27 +11685,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "MARIA DE LOURDES IBARRA HERRERIAS": {
-    "grupos": {
-      "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
-        {
-          "grupo": "003",
-          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-          "profesor": "MARIA DE LOURDES IBARRA HERRERIAS",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -12759,8 +12763,8 @@ let profesores={
   },
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
-    "general": 7.5,
-    "n": 2,
+    "general": 8.0,
+    "n": 3,
     "grupos": {
       "EST-14101-CALCULO DE PROBABILIDADES.,I": [
         {
@@ -13112,8 +13116,8 @@ let profesores={
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
-    "general": 7.3333,
-    "n": 3,
+    "general": 7.75,
+    "n": 4,
     "grupos": {
       "EST-24109-TEMAS SELECTOS DE ESTADISTICA": [
         {
@@ -13473,14 +13477,14 @@ let profesores={
           "nombre": "IIO-14186-ING. DE PROYECTOS SOSTENIBLES",
           "profesor": "SERGIO ROMERO HERNANDEZ",
           "creditos": "6",
-          "horario": "08:00-09:30",
+          "horario": "07:00-09:30",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "PF104",
+          "salon": "PF107",
           "campus": "RIO HONDO",
-          "inicio": "08:00",
+          "inicio": "07:00",
           "fin": "09:30"
         }
       ],
@@ -13853,16 +13857,16 @@ let profesores={
       ]
     }
   },
-  "EDUARDO MENACHE VARELA": {
-    "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
-    "general": 9.75,
-    "n": 20,
+  "ANA TAMARIT AMIEVA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
           "grupo": "003",
           "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-          "profesor": "EDUARDO MENACHE VARELA",
+          "profesor": "ANA TAMARIT AMIEVA",
           "creditos": "2",
           "horario": "11:00-12:00",
           "dias": [
@@ -13876,9 +13880,23 @@ let profesores={
       ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
+          "grupo": "001",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "ANA TAMARIT AMIEVA",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        },
+        {
           "grupo": "003",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "EDUARDO MENACHE VARELA",
+          "profesor": "ANA TAMARIT AMIEVA",
           "creditos": "2",
           "horario": "11:00-12:00",
           "dias": [
@@ -13888,66 +13906,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
-        }
-      ],
-      "LEN-12721-COMUNIC. ESCRITA PARA REL. INT": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
-          "profesor": "EDUARDO MENACHE VARELA",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
-          "profesor": "EDUARDO MENACHE VARELA",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-16403-COMUNIC. ESCRITA PARA REL. INT": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
-          "profesor": "EDUARDO MENACHE VARELA",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
-          "profesor": "EDUARDO MENACHE VARELA",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -14501,8 +14459,8 @@ let profesores={
   },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
-    "general": 8.6667,
-    "n": 48,
+    "general": 8.6735,
+    "n": 49,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -14586,22 +14544,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
-        }
-      ],
-      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
-        {
-          "grupo": "007",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "MARIA GABRIELA  MAZZUCHINO",
-          "creditos": "2",
-          "horario": "08:00-09:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
         }
       ]
     }
@@ -14693,29 +14635,6 @@ let profesores={
       ]
     }
   },
-  "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
-    "grupos": {
-      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "ANA TAMARIT AMIEVA",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
   "LUCIA PI CHOLULA": {
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
     "general": 7.8421,
@@ -14781,6 +14700,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "MARIA TERESA JIMENEZ ANDREU": {
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
+    "grupos": {
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "007",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "MARIA TERESA JIMENEZ ANDREU",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -14973,6 +14915,73 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "09:30"
+        }
+      ]
+    }
+  },
+  "EDUARDO MENACHE VARELA": {
+    "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
+    "general": 9.75,
+    "n": 20,
+    "grupos": {
+      "LEN-12721-COMUNIC. ESCRITA PARA REL. INT": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
+          "profesor": "EDUARDO MENACHE VARELA",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
+          "profesor": "EDUARDO MENACHE VARELA",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "LEN-16403-COMUNIC. ESCRITA PARA REL. INT": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
+          "profesor": "EDUARDO MENACHE VARELA",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
+          "profesor": "EDUARDO MENACHE VARELA",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -17653,6 +17662,7 @@ let mejoresPorDepto={
   ],
   "COMPUTACION": [
     "JOSE OCTAVIO GUTIERREZ GARCIA",
+    "EDGAR FRANCISCO ROMAN RANGEL",
     "XOCHITL CHAVARRIA CRUZ",
     "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
     "MONICA ZAVALA ESTRADA",
@@ -17660,8 +17670,7 @@ let mejoresPorDepto={
     "SILVIA DEL CARMEN GUARDATI BUEMO",
     "SILVIA RIOS MAGOS",
     "RODOLFO CONDE MARTINEZ",
-    "MIROSLAVA MENDOZA VIDAL",
-    "MERCEDES NELLY MELENDEZ FELIX"
+    "MIROSLAVA MENDOZA VIDAL"
   ],
   "CONTABILIDAD": [
     "MANUEL TAMEZ ZENDEJAS",
@@ -17679,13 +17688,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -17742,10 +17751,10 @@ let mejoresPorDepto={
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "JOSE MATUK VILLAZON",
     "LILIANA DE LA TORRE DESENTIS",
+    "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
-    "ILEANA GARCIA CONDE",
-    "TRINIDAD GONZALEZ BONILLA",
-    "ERICK ULISES MENDOZA ARIAS"
+    "JOSE EZEQUIEL SOTO SANCHEZ",
+    "ILEANA GARCIA CONDE"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
@@ -17762,14 +17771,14 @@ let mejoresPorDepto={
   "LENGUAS (LEN)": [
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
-    "EDUARDO MENACHE VARELA",
     "JESUS ADRIAN FERNANDEZ REYES",
+    "EDUARDO MENACHE VARELA",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
     "LUCIA PI CHOLULA",
-    "ALEJANDRA SOLIS GONZALEZ"
+    "ANA TAMARIT AMIEVA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
