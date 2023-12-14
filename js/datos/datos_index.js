@@ -1,4 +1,4 @@
-let actualizado="1702478230176.5996";
+let actualizado="1702564620296.5425";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -5414,7 +5414,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10015-DERECHO EMPRESARIAL",
-        "profesor": "",
+        "profesor": "SANTIAGO ALESSIO ROBLES SEGUI",
         "creditos": "9",
         "horario": "18:00-20:30",
         "dias": [
@@ -5687,7 +5687,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
-        "profesor": "",
+        "profesor": "ANDRES HERNANDEZ BARRERA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -5702,7 +5702,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
-        "profesor": "",
+        "profesor": "GUILLERMO MOAD VALENZUELA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -6008,7 +6008,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III-LAB",
-        "profesor": "MIGUEL ANTONIO NU\u00d1EZ VALADEZ",
+        "profesor": "GERARDO FELIPE LAVEAGA RENDON",
         "creditos": "2",
         "horario": "19:00-21:00",
         "dias": [
@@ -6198,7 +6198,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
-        "profesor": "",
+        "profesor": "ANDRES HERNANDEZ BARRERA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -6213,7 +6213,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
-        "profesor": "",
+        "profesor": "GUILLERMO MOAD VALENZUELA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -6574,16 +6574,16 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
-        "profesor": "SERGIO HUGO MONTA\u00d1O REYES",
+        "profesor": "MOISES TORRESCANO CRUZ",
         "creditos": "2",
-        "horario": "18:00-19:00",
+        "horario": "16:00-18:00",
         "dias": [
-          "LU"
+          "VI"
         ],
-        "salon": "RH309",
+        "salon": "RH316",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -6641,13 +6641,13 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-14603-DERECHO PROCESAL PENAL",
-        "profesor": "",
+        "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -6676,7 +6676,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-14606-DERECHO PROCESAL PENAL",
-        "profesor": "",
+        "profesor": "JESUS ADRIAN CRESPO FARRERA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -13500,14 +13500,14 @@ let clases={
         "nombre": "LEN-12754-COMUNIC PROFESIONAL PARA ADMON",
         "profesor": "DIANA LUCIA ALVAREZ MACIAS",
         "creditos": "2",
-        "horario": "18:00-19:00",
+        "horario": "16:00-17:00",
         "dias": [
           "JU"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH202",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "17:00"
       }
     ]
   },
@@ -16581,8 +16581,8 @@ let misProfesData={
   },
   "MARIA CANDELAS RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Candelas-Ram\u00edrez_10751",
-    "general": 7.7931,
-    "n": 58
+    "general": 7.7627,
+    "n": 59
   },
   "GUSTAVO CARDENAS SORIANO": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
@@ -16926,8 +16926,8 @@ let misProfesData={
   },
   "TRINIDAD GONZALEZ BONILLA": {
     "link": "https://www.misprofesores.com/profesores/Trinidad-Gonzales-Bonilla_147541",
-    "general": 7.5,
-    "n": 4
+    "general": 8.0,
+    "n": 5
   },
   "CLAUDIA NOEMI GONZALEZ BRAMBILA": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Noem\u00ed-Gonz\u00e1lez-Brambila_10719",
@@ -16936,8 +16936,8 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4679,
-    "n": 218
+    "general": 6.4658,
+    "n": 219
   },
   "CARLOS GONZALEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
@@ -16966,8 +16966,8 @@ let misProfesData={
   },
   "SILVIA DEL CARMEN GUARDATI BUEMO": {
     "link": "https://www.misprofesores.com/profesores/Silvia-del-Carmen-Guardati-Buemo_10847",
-    "general": 8.9216,
-    "n": 51
+    "general": 8.9038,
+    "n": 52
   },
   "JULIANA GUDI\u00d1O ANTILLON": {
     "link": "https://www.misprofesores.com/profesores/Juliana-Gudi\u00f1o-Antill\u00f3n_10720",
@@ -17030,9 +17030,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17048,6 +17048,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Pablo-Kalmanovitz-Gonz\u00e1lez_153830",
     "general": 9.5,
     "n": 2
+  },
+  "GERARDO FELIPE LAVEAGA RENDON": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Felipe-Laveaga-Rend\u00f3n_85767",
+    "general": 5.7143,
+    "n": 7
   },
   "JOSE MANUEL LECUANDA ONTIVEROS": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Lecuanda-Ontiveros_86804",
@@ -17113,6 +17118,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
@@ -17231,8 +17241,8 @@ let misProfesData={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.4194,
-    "n": 31
+    "general": 7.3438,
+    "n": 32
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
@@ -17389,11 +17399,6 @@ let misProfesData={
     "general": 8.125,
     "n": 16
   },
-  "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6265,
-    "n": 83
-  },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
     "general": 7.7222,
@@ -17436,8 +17441,8 @@ let misProfesData={
   },
   "ADRIAN RUBLI ORNELAS": {
     "link": "https://www.misprofesores.com/profesores/Adri\u00e1n-Rubl\u00ed-Ornelas_109506",
-    "general": 9.0769,
-    "n": 13
+    "general": 9.1429,
+    "n": 14
   },
   "DAVID RUELAS RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
@@ -17656,8 +17661,8 @@ let misProfesData={
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 9.8571,
-    "n": 7
+    "general": 9.875,
+    "n": 8
   },
   "HORACIO VIVES SEGL": {
     "link": "https://www.misprofesores.com/profesores/Horacio-Vives-Segl_138570",

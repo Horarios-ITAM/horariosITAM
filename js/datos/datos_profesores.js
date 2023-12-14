@@ -1,4 +1,4 @@
-let actualizado="1702478230191.0552";
+let actualizado="1702564620311.6946";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -476,119 +476,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
-        }
-      ],
-      "DER-10015-DERECHO EMPRESARIAL": [
-        {
-          "grupo": "002",
-          "nombre": "DER-10015-DERECHO EMPRESARIAL",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "18:00-20:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:30"
-        }
-      ],
-      "DER-11105-ESCR. Y ARG. JURID EN INGLES I": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "DER-11304-ARGUMENTAC. ORAL Y ESCRITA": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "DER-14603-DERECHO PROCESAL PENAL": [
-        {
-          "grupo": "002",
-          "nombre": "DER-14603-DERECHO PROCESAL PENAL",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH112",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "DER-14606-DERECHO PROCESAL PENAL": [
-        {
-          "grupo": "002",
-          "nombre": "DER-14606-DERECHO PROCESAL PENAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH112",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ],
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
@@ -1307,8 +1194,8 @@ let profesores={
   },
   "ADRIAN RUBLI ORNELAS": {
     "link": "https://www.misprofesores.com/profesores/Adri\u00e1n-Rubl\u00ed-Ornelas_109506",
-    "general": 9.0769,
-    "n": 13,
+    "general": 9.1429,
+    "n": 14,
     "grupos": {
       "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
         {
@@ -3397,8 +3284,8 @@ let profesores={
   },
   "SILVIA DEL CARMEN GUARDATI BUEMO": {
     "link": "https://www.misprofesores.com/profesores/Silvia-del-Carmen-Guardati-Buemo_10847",
-    "general": 8.9216,
-    "n": 51,
+    "general": 8.9038,
+    "n": 52,
     "grupos": {
       "COM-11101-ALGORITMOS Y PROGRAMAS": [
         {
@@ -4853,8 +4740,8 @@ let profesores={
   },
   "MARIA CANDELAS RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Candelas-Ram\u00edrez_10751",
-    "general": 7.7931,
-    "n": 58,
+    "general": 7.7627,
+    "n": 59,
     "grupos": {
       "CON-10003-CONTABILIDAD INTERMEDIA, II": [
         {
@@ -5889,6 +5776,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -6553,6 +6443,26 @@ let profesores={
       ]
     }
   },
+  "SANTIAGO ALESSIO ROBLES SEGUI": {
+    "grupos": {
+      "DER-10015-DERECHO EMPRESARIAL": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10015-DERECHO EMPRESARIAL",
+          "profesor": "SANTIAGO ALESSIO ROBLES SEGUI",
+          "creditos": "9",
+          "horario": "18:00-20:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
     "general": 9.8333,
@@ -6891,6 +6801,82 @@ let profesores={
       ]
     }
   },
+  "ANDRES HERNANDEZ BARRERA": {
+    "grupos": {
+      "DER-11105-ESCR. Y ARG. JURID EN INGLES I": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
+          "profesor": "ANDRES HERNANDEZ BARRERA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "DER-11304-ARGUMENTAC. ORAL Y ESCRITA": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
+          "profesor": "ANDRES HERNANDEZ BARRERA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "GUILLERMO MOAD VALENZUELA": {
+    "grupos": {
+      "DER-11105-ESCR. Y ARG. JURID EN INGLES I": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
+          "profesor": "GUILLERMO MOAD VALENZUELA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "DER-11304-ARGUMENTAC. ORAL Y ESCRITA": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
+          "profesor": "GUILLERMO MOAD VALENZUELA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "ROMAIN SYLVAIN JEAN GENIEZ": {
     "grupos": {
       "DER-11106-METODOL. DE LA DISERTAC JURID.": [
@@ -7218,13 +7204,16 @@ let profesores={
       ]
     }
   },
-  "MIGUEL ANTONIO NU\u00d1EZ VALADEZ": {
+  "GERARDO FELIPE LAVEAGA RENDON": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Felipe-Laveaga-Rend\u00f3n_85767",
+    "general": 5.7143,
+    "n": 7,
     "grupos": {
       "DER-11115-TALLER DISERT. JUR. CONST. III-LAB": [
         {
           "grupo": "002L",
           "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III-LAB",
-          "profesor": "MIGUEL ANTONIO NU\u00d1EZ VALADEZ",
+          "profesor": "GERARDO FELIPE LAVEAGA RENDON",
           "creditos": "2",
           "horario": "19:00-21:00",
           "dias": [
@@ -7771,22 +7760,22 @@ let profesores={
       ]
     }
   },
-  "SERGIO HUGO MONTA\u00d1O REYES": {
+  "MOISES TORRESCANO CRUZ": {
     "grupos": {
       "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB": [
         {
           "grupo": "001L",
           "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
-          "profesor": "SERGIO HUGO MONTA\u00d1O REYES",
+          "profesor": "MOISES TORRESCANO CRUZ",
           "creditos": "2",
-          "horario": "18:00-19:00",
+          "horario": "16:00-18:00",
           "dias": [
-            "LU"
+            "VI"
           ],
-          "salon": "RH309",
+          "salon": "RH316",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ]
     }
@@ -7833,29 +7822,24 @@ let profesores={
       ]
     }
   },
-  "IBETT ESTRADA GAZGA": {
-    "grupos": {
-      "DER-14606-DERECHO PROCESAL PENAL": [
-        {
-          "grupo": "001",
-          "nombre": "DER-14606-DERECHO PROCESAL PENAL",
-          "profesor": "IBETT ESTRADA GAZGA",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ]
-    }
-  },
   "ROSA GABRIELA GONZALEZ PULIDO": {
     "grupos": {
+      "DER-14603-DERECHO PROCESAL PENAL": [
+        {
+          "grupo": "002",
+          "nombre": "DER-14603-DERECHO PROCESAL PENAL",
+          "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ],
       "DER-14607-JUICIO ORAL PENAL-LAB": [
         {
           "grupo": "001L",
@@ -7884,6 +7868,48 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
+        }
+      ]
+    }
+  },
+  "IBETT ESTRADA GAZGA": {
+    "grupos": {
+      "DER-14606-DERECHO PROCESAL PENAL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-14606-DERECHO PROCESAL PENAL",
+          "profesor": "IBETT ESTRADA GAZGA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "JESUS ADRIAN CRESPO FARRERA": {
+    "grupos": {
+      "DER-14606-DERECHO PROCESAL PENAL": [
+        {
+          "grupo": "002",
+          "nombre": "DER-14606-DERECHO PROCESAL PENAL",
+          "profesor": "JESUS ADRIAN CRESPO FARRERA",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH112",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -9870,8 +9896,8 @@ let profesores={
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 9.8571,
-    "n": 7,
+    "general": 9.875,
+    "n": 8,
     "grupos": {
       "ECO-14501-ECONOMIA DE LA EMPRESA": [
         {
@@ -10746,8 +10772,8 @@ let profesores={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4679,
-    "n": 218,
+    "general": 6.4658,
+    "n": 219,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -10944,9 +10970,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6265,
-    "n": 83,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -12437,8 +12460,8 @@ let profesores={
   },
   "TRINIDAD GONZALEZ BONILLA": {
     "link": "https://www.misprofesores.com/profesores/Trinidad-Gonzales-Bonilla_147541",
-    "general": 7.5,
-    "n": 4,
+    "general": 8.0,
+    "n": 5,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -14705,9 +14728,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15013,14 +15036,14 @@ let profesores={
           "nombre": "LEN-12754-COMUNIC PROFESIONAL PARA ADMON",
           "profesor": "DIANA LUCIA ALVAREZ MACIAS",
           "creditos": "2",
-          "horario": "18:00-19:00",
+          "horario": "16:00-17:00",
           "dias": [
             "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH202",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
+          "inicio": "16:00",
+          "fin": "17:00"
         }
       ],
       "LEN-12759-COMUNIC. PROFES. PARA MAT. APL": [
@@ -16813,8 +16836,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.4194,
-    "n": 31,
+    "general": 7.3438,
+    "n": 32,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -17667,8 +17690,8 @@ let mejoresPorDepto={
     "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
     "MONICA ZAVALA ESTRADA",
     "ALBERTO ISAAC RAMIREZ PEREZ",
-    "SILVIA DEL CARMEN GUARDATI BUEMO",
     "SILVIA RIOS MAGOS",
+    "SILVIA DEL CARMEN GUARDATI BUEMO",
     "RODOLFO CONDE MARTINEZ",
     "MIROSLAVA MENDOZA VIDAL"
   ],
@@ -17688,13 +17711,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO",
-    "PETER MATTHEW  HILLS"
+    "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -17750,11 +17773,11 @@ let mejoresPorDepto={
     "DANTE GABRIEL CAMPOS SALIDO",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "JOSE MATUK VILLAZON",
+    "TRINIDAD GONZALEZ BONILLA",
     "LILIANA DE LA TORRE DESENTIS",
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
-    "JOSE EZEQUIEL SOTO SANCHEZ",
-    "ILEANA GARCIA CONDE"
+    "JOSE EZEQUIEL SOTO SANCHEZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
@@ -17773,12 +17796,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "EDUARDO MENACHE VARELA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA",
-    "ANA TAMARIT AMIEVA"
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
