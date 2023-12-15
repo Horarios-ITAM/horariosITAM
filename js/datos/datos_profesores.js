@@ -1,4 +1,4 @@
-let actualizado="1702564620311.6946";
+let actualizado="1702650982729.5874";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -89,8 +89,8 @@ let profesores={
   },
   "ERIKA GEORGINA CHAVEZ PIEDRA BUENA": {
     "link": "https://www.misprofesores.com/profesores/Erika-Georgina-Ch\u00e1vez-Piedra-Buena_79956",
-    "general": 7.2667,
-    "n": 15,
+    "general": 7.1875,
+    "n": 16,
     "grupos": {
       "ACT-11301-CALCULO ACTUARIAL II": [
         {
@@ -4052,8 +4052,8 @@ let profesores={
   },
   "CARLOS EMILIO GALINDO FLORES": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
-    "general": 7.7627,
-    "n": 59,
+    "general": 7.6667,
+    "n": 60,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -4582,9 +4582,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -4740,8 +4740,8 @@ let profesores={
   },
   "MARIA CANDELAS RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Candelas-Ram\u00edrez_10751",
-    "general": 7.7627,
-    "n": 59,
+    "general": 7.75,
+    "n": 60,
     "grupos": {
       "CON-10003-CONTABILIDAD INTERMEDIA, II": [
         {
@@ -6995,8 +6995,8 @@ let profesores={
   },
   "MIGUEL ANGEL CASTRO TORRESLANDA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Castro-Torreslanda_170976",
-    "general": 4.0,
-    "n": 1,
+    "general": 6.5,
+    "n": 2,
     "grupos": {
       "DER-11107-TALLER EN BIENES Y DER REALES-LAB": [
         {
@@ -7154,15 +7154,15 @@ let profesores={
           "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
           "profesor": "BRADLY JOHN  CONDON",
           "creditos": "4",
-          "horario": "10:00-11:00",
+          "horario": "16:00-17:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RHSA1",
+          "salon": "RH112",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
+          "inicio": "16:00",
+          "fin": "17:00"
         }
       ],
       "DER-11114-HABILIDADES JURID. GLOBALES II": [
@@ -7171,15 +7171,15 @@ let profesores={
           "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
           "profesor": "BRADLY JOHN  CONDON",
           "creditos": "4",
-          "horario": "11:00-11:30",
+          "horario": "17:00-17:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RHSA1",
+          "salon": "RH112",
           "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "11:30"
+          "inicio": "17:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -7600,8 +7600,8 @@ let profesores={
   },
   "ALFONSO PASAPERA MORA": {
     "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
-    "general": 7.7846,
-    "n": 65,
+    "general": 7.8182,
+    "n": 66,
     "grupos": {
       "DER-13403-OBLIGACIONES": [
         {
@@ -9592,6 +9592,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -13881,9 +13884,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -14482,8 +14485,8 @@ let profesores={
   },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
-    "general": 8.6735,
-    "n": 49,
+    "general": 8.68,
+    "n": 50,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16482,8 +16485,8 @@ let profesores={
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
-    "general": 6.16,
-    "n": 25,
+    "general": 6.0,
+    "n": 26,
     "grupos": {
       "MAT-14101-CALCULO DIF. E INT., II": [
         {
@@ -17381,15 +17384,15 @@ let profesores={
           "nombre": "SDI-11120-ELEMENTOS DE FISICA",
           "profesor": "ANTE SALCEDO GONZALEZ",
           "creditos": "10",
-          "horario": "09:00-11:00",
+          "horario": "08:00-10:00",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RHLI2",
+          "salon": "PF104",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
+          "inicio": "08:00",
+          "fin": "10:00"
         }
       ],
       "SDI-12629-TEORIA ELECTROMAGNETICA": [
