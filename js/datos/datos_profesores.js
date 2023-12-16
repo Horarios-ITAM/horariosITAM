@@ -1,4 +1,4 @@
-let actualizado="1702650982729.5874";
+let actualizado="1702737330261.2917";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -390,6 +390,9 @@ let profesores={
     }
   },
   "SILVIA CECILIA HERNANDEZ VARGAS": {
+    "link": "https://www.misprofesores.com/profesores/Silvia-Cecilia-Hern\u00e1ndez-Vargas_171816",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "ACT-22305-MATEMATICAS FINANCIERAS I": [
         {
@@ -2543,6 +2546,26 @@ let profesores={
       ]
     }
   },
+  "MOISES EDUARDO RAMOS DE LA CAJIGA": {
+    "grupos": {
+      "ADM-15610-INV.  EN ACTIVOS ALTERNATIVOS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15610-INV.  EN ACTIVOS ALTERNATIVOS",
+          "profesor": "MOISES EDUARDO RAMOS DE LA CAJIGA",
+          "creditos": "6",
+          "horario": "17:30-20:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
   "BRUCE PETER  MCWILLIAMS": {
     "grupos": {
       "ADM-16601-MERCADOTECNIA, I": [
@@ -2803,6 +2826,9 @@ let profesores={
     }
   },
   "MARGARITA TARRAGONA SAEZ": {
+    "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO": [
         {
@@ -5475,15 +5501,15 @@ let profesores={
           "nombre": "CSO-10001-INTRO. A LA CIENCIA POLITICA",
           "profesor": "JUAN PABLO MICOZZI",
           "creditos": "6",
-          "horario": "16:00-17:30",
+          "horario": "08:30-10:00",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH302",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ],
       "CSO-14041-POLITICA COMPARADA,II": [
@@ -5492,15 +5518,15 @@ let profesores={
           "nombre": "CSO-14041-POLITICA COMPARADA,II",
           "profesor": "JUAN PABLO MICOZZI",
           "creditos": "6",
-          "horario": "17:30-19:00",
+          "horario": "13:00-14:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH303",
+          "salon": "RH305",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
+          "inicio": "13:00",
+          "fin": "14:30"
         }
       ]
     }
@@ -8418,8 +8444,8 @@ let profesores={
   },
   "FERNANDO BUENO AJA": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
-    "general": 6.1429,
-    "n": 7,
+    "general": 6.5,
+    "n": 8,
     "grupos": {
       "DER-17703-DERECHO FISCAL I": [
         {
@@ -10088,9 +10114,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -10330,15 +10353,15 @@ let profesores={
           "nombre": "ECO-22105-ECONOMIA V",
           "profesor": "ALEJANDRO HERNANDEZ DELGADO",
           "creditos": "8",
-          "horario": "10:00-12:00",
+          "horario": "12:00-14:00",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH101",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
+          "inicio": "12:00",
+          "fin": "14:00"
         }
       ]
     }
@@ -10463,13 +10486,16 @@ let profesores={
       ]
     }
   },
-  "REGINA PALACIOS DOMENGE": {
+  "JUAN CARLOS MANSUR GARDA": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Mansur-Garda_10820",
+    "general": 7.3129,
+    "n": 147,
     "grupos": {
       "EGN-11166-HABITAR LA CIUDAD": [
         {
           "grupo": "001",
           "nombre": "EGN-11166-HABITAR LA CIUDAD",
-          "profesor": "REGINA PALACIOS DOMENGE",
+          "profesor": "JUAN CARLOS MANSUR GARDA",
           "creditos": "6",
           "horario": "12:00-13:30",
           "dias": [
@@ -10653,8 +10679,8 @@ let profesores={
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.2549,
-    "n": 51,
+    "general": 6.2885,
+    "n": 52,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -10694,8 +10720,8 @@ let profesores={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4675,
-    "n": 77,
+    "general": 9.4744,
+    "n": 78,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11296,8 +11322,8 @@ let profesores={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2303,
-    "n": 178,
+    "general": 8.2402,
+    "n": 179,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -11756,8 +11782,8 @@ let profesores={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 8.45,
-    "n": 20,
+    "general": 8.381,
+    "n": 21,
     "grupos": {
       "EIN-11101-INT. A LAS R. INTERNACIONALES": [
         {
@@ -12152,8 +12178,8 @@ let profesores={
   },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
-    "general": 9.1739,
-    "n": 92,
+    "general": 9.1828,
+    "n": 93,
     "grupos": {
       "EST-10102-ESTADISTICA.,II": [
         {
@@ -12299,8 +12325,8 @@ let profesores={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.1304,
-    "n": 23,
+    "general": 7.0833,
+    "n": 24,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -13797,8 +13823,8 @@ let profesores={
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
-    "general": 8.9333,
-    "n": 45,
+    "general": 8.9565,
+    "n": 46,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -17654,12 +17680,12 @@ let mejoresPorDepto={
     "DIEGO HERNANDEZ RANGEL",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
     "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
+    "SILVIA CECILIA HERNANDEZ VARGAS",
     "SERGIO GARCIA ALQUICIRA",
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
     "PEDRO DANIEL TREJO SOLIS",
-    "GABRIELA MELENDEZ VARGAS",
-    "ROBERTO ANTONIO YGLESIAS GALEANA"
+    "GABRIELA MELENDEZ VARGAS"
   ],
   "ADMINISTRACION": [
     "FELIPE BRUGUES RODRIGUEZ",
@@ -17760,8 +17786,8 @@ let mejoresPorDepto={
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
-    "ISABEL FLORES ALCAZAR",
     "RODRIGO CHACON AGUIRRE",
+    "ISABEL FLORES ALCAZAR",
     "NATALIA SALTALAMACCHIA ZICCARDI",
     "GABRIEL GOODLIFFE",
     "ATHANASIOS  HRISTOULAS",
