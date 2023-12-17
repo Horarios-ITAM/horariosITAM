@@ -1,4 +1,4 @@
-let actualizado="1702737330245.1626";
+let actualizado="1702823738901.206";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -16449,6 +16449,11 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
+  },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
     "general": 8.8125,
@@ -16656,8 +16661,8 @@ let misProfesData={
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
-    "general": 9.75,
-    "n": 12
+    "general": 9.6923,
+    "n": 13
   },
   "MANUEL ADRIAN CHAVEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Adrian-Ch\u00e1vez-P\u00e9rez_104157",
@@ -16965,9 +16970,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17201,8 +17206,8 @@ let misProfesData={
   },
   "EDUARDO MENACHE VARELA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
-    "general": 9.75,
-    "n": 20
+    "general": 9.5238,
+    "n": 21
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
@@ -17287,7 +17292,7 @@ let misProfesData={
   "JESUS ALEJANDRO MORENO ALVAREZ": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Moreno-Alvarez_10800",
     "general": 9.0,
-    "n": 19
+    "n": 20
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
@@ -17406,8 +17411,8 @@ let misProfesData={
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
-    "general": 9.0769,
-    "n": 13
+    "general": 9.0,
+    "n": 14
   },
   "ARTURO RAMIREZ VERDUGO": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
@@ -17436,8 +17441,8 @@ let misProfesData={
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
-    "general": 4.2143,
-    "n": 14
+    "general": 4.6,
+    "n": 15
   },
   "FERNANDO RODRIGUEZ DOVAL": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
@@ -17566,8 +17571,8 @@ let misProfesData={
   },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
-    "general": 6.8,
-    "n": 25
+    "general": 6.9231,
+    "n": 26
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
@@ -17585,9 +17590,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -17666,8 +17671,8 @@ let misProfesData={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.0952,
-    "n": 21
+    "general": 9.1739,
+    "n": 23
   },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
@@ -17686,8 +17691,8 @@ let misProfesData={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2402,
-    "n": 179
+    "general": 8.25,
+    "n": 180
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",

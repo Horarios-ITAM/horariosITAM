@@ -1,4 +1,4 @@
-let actualizado="1702737330261.2917";
+let actualizado="1702823738916.4602";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -3982,8 +3982,8 @@ let profesores={
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
-    "general": 9.0769,
-    "n": 13,
+    "general": 9.0,
+    "n": 14,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -4173,8 +4173,8 @@ let profesores={
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
-    "general": 9.75,
-    "n": 12,
+    "general": 9.6923,
+    "n": 13,
     "grupos": {
       "COM-16401-COMPUTACION I, INTENSIVA": [
         {
@@ -4608,9 +4608,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5956,7 +5956,7 @@ let profesores={
   "JESUS ALEJANDRO MORENO ALVAREZ": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Moreno-Alvarez_10800",
     "general": 9.0,
-    "n": 19,
+    "n": 20,
     "grupos": {
       "CSO-14021-POLITICA COMPARADA,I": [
         {
@@ -10114,6 +10114,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -10595,8 +10598,8 @@ let profesores={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.0952,
-    "n": 21,
+    "general": 9.1739,
+    "n": 23,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -11322,8 +11325,8 @@ let profesores={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2402,
-    "n": 179,
+    "general": 8.25,
+    "n": 180,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12624,8 +12627,8 @@ let profesores={
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
-    "general": 4.2143,
-    "n": 14,
+    "general": 4.6,
+    "n": 15,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -13910,9 +13913,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -14319,8 +14322,8 @@ let profesores={
   },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
-    "general": 6.8,
-    "n": 25,
+    "general": 6.9231,
+    "n": 26,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -14973,8 +14976,8 @@ let profesores={
   },
   "EDUARDO MENACHE VARELA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
-    "general": 9.75,
-    "n": 20,
+    "general": 9.5238,
+    "n": 21,
     "grupos": {
       "LEN-12721-COMUNIC. ESCRITA PARA REL. INT": [
         {
@@ -17824,9 +17827,9 @@ let mejoresPorDepto={
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
-    "EDUARDO MENACHE VARELA",
     "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "EDUARDO MENACHE VARELA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
