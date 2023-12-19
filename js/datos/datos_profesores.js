@@ -1,4 +1,4 @@
-let actualizado="1702910241274.7231";
+let actualizado="1702996566294.3513";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -333,8 +333,8 @@ let profesores={
   },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
-    "general": 8.0,
-    "n": 5,
+    "general": 8.3333,
+    "n": 6,
     "grupos": {
       "ACT-15361-BLOCKCHAIN EN SEGUROS Y FINANZ": [
         {
@@ -1780,8 +1780,8 @@ let profesores={
   },
   "JULIETA MARIA SARRALDE VERA": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Mar\u00eda-Sarralde-Vera_10718",
-    "general": 7.2097,
-    "n": 62,
+    "general": 7.2381,
+    "n": 63,
     "grupos": {
       "ADM-15501-FINANZAS, I": [
         {
@@ -2024,8 +2024,8 @@ let profesores={
   },
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
-    "general": 6.5769,
-    "n": 26,
+    "general": 6.7037,
+    "n": 27,
     "grupos": {
       "ADM-15503-FINANZAS.,III": [
         {
@@ -3696,6 +3696,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4605,9 +4608,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5489,8 +5492,8 @@ let profesores={
   },
   "JUAN PABLO MICOZZI": {
     "link": "https://www.misprofesores.com/profesores/Juan-Pablo-Micozzi_59705",
-    "general": 6.9615,
-    "n": 26,
+    "general": 7.0741,
+    "n": 27,
     "grupos": {
       "CSO-10001-INTRO. A LA CIENCIA POLITICA": [
         {
@@ -5587,8 +5590,8 @@ let profesores={
   },
   "FELIPE CURCO COBOS": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Curco-Cobos_10798",
-    "general": 9.274,
-    "n": 73,
+    "general": 9.2568,
+    "n": 74,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -9615,6 +9618,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -10007,8 +10013,8 @@ let profesores={
   },
   "JOSE EFRAIN GALA PALACIOS": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Efrain-Gala-Palacios_22831",
-    "general": 8.0789,
-    "n": 38,
+    "general": 8.0769,
+    "n": 39,
     "grupos": {
       "ECO-15110-EVALUACION DE PROYECTOS": [
         {
@@ -10386,8 +10392,8 @@ let profesores={
   },
   "VALERIA ZEPEDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",
-    "general": 8.1919,
-    "n": 99,
+    "general": 8.21,
+    "n": 100,
     "grupos": {
       "EGN-11163-NEW HISTORIC PERSPECT. OF MEX.": [
         {
@@ -10592,8 +10598,8 @@ let profesores={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.1739,
-    "n": 23,
+    "general": 9.2083,
+    "n": 24,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -10996,9 +11002,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6429,
-    "n": 84,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -12202,8 +12205,8 @@ let profesores={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 5.875,
-    "n": 8,
+    "general": 5.4444,
+    "n": 9,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -12325,8 +12328,8 @@ let profesores={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.0833,
-    "n": 24,
+    "general": 7.16,
+    "n": 25,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -13910,9 +13913,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -14757,9 +14760,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17678,8 +17681,8 @@ let mejoresPorDepto={
   "ACTUARIA Y SEGUROS": [
     "DAVID RUELAS RODRIGUEZ",
     "DIEGO HERNANDEZ RANGEL",
-    "MARIA MERCEDES GREGORIO DOMINGUEZ",
     "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
+    "MARIA MERCEDES GREGORIO DOMINGUEZ",
     "SILVIA CECILIA HERNANDEZ VARGAS",
     "SERGIO GARCIA ALQUICIRA",
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
@@ -17824,13 +17827,13 @@ let mejoresPorDepto={
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
+    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "EDUARDO MENACHE VARELA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA",
-    "ANA TAMARIT AMIEVA"
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
