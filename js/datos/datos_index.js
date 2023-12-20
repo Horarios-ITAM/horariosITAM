@@ -1,4 +1,4 @@
-let actualizado="1702996566278.3289";
+let actualizado="1703082929976.1396";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -4450,16 +4450,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
-        "profesor": "ALBERTO ORTIZ ENRIQUEZ",
+        "profesor": "FRANCISCO DE PAULA CHABAUD LOPEZ",
         "creditos": "6",
-        "horario": "07:00-10:00",
+        "horario": "19:00-22:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RH107",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -7701,6 +7701,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "creditos": "6",
+        "horario": "16:00-19:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RH203",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "19:00"
       }
     ]
   },
@@ -7762,6 +7776,34 @@ let clases={
           "LU"
         ],
         "salon": "RHB-3",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "creditos": "9",
+        "horario": "16:00-19:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RH203",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "19:00"
+      },
+      {
+        "grupo": "006",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "CARLO EDUARDO ALCARAZ PRIBAZ",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -7908,130 +7950,137 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
         "creditos": "6",
-        "horario": "10:00-11:00",
+        "horario": "10:30-12:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH310",
+        "salon": "RH312",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:00"
+        "inicio": "10:30",
+        "fin": "12:00"
       },
       {
         "grupo": "002",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "profesor": "CHRISTINA CORNEJO VAN LUIT",
         "creditos": "6",
-        "horario": "13:00-14:00",
-        "dias": [
-          "LU"
-        ],
-        "salon": "RH305",
-        "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:00"
-      },
-      {
-        "grupo": "003",
-        "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
-        "creditos": "6",
-        "horario": "12:00-13:00",
+        "horario": "10:00-11:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH103",
+        "salon": "RH104",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-11101-ECONOMIA, I",
+        "profesor": "CHRISTINA CORNEJO VAN LUIT",
+        "creditos": "6",
+        "horario": "12:00-13:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "12:00",
-        "fin": "13:00"
+        "fin": "13:30"
       },
       {
         "grupo": "004",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "profesor": "MAGDALENA SOFIA BARBA FERNANDEZ",
         "creditos": "6",
-        "horario": "13:00-14:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
         "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       },
       {
         "grupo": "005",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "profesor": "SOFIA CORONA VERDUZCO",
         "creditos": "6",
-        "horario": "13:00-14:00",
+        "horario": "11:00-12:30",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
-        "salon": "RHSA3",
+        "salon": "RH308",
         "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:00"
+        "inicio": "11:00",
+        "fin": "12:30"
       },
       {
         "grupo": "006",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "profesor": "DAVID LAMB DE VALDES",
         "creditos": "6",
-        "horario": "13:00-14:00",
+        "horario": "11:30-13:00",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
-        "salon": "RHSA4",
+        "salon": "RH102",
         "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:00"
+        "inicio": "11:30",
+        "fin": "13:00"
       },
       {
         "grupo": "007",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "profesor": "ANTONIO VIVANCO CASAMADRID",
         "creditos": "6",
-        "horario": "13:00-14:00",
+        "horario": "07:30-09:00",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
-        "salon": "RH204",
+        "salon": "RH213",
         "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:00"
+        "inicio": "07:30",
+        "fin": "09:00"
       },
       {
         "grupo": "008",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "profesor": "ANTONIO VIVANCO CASAMADRID",
         "creditos": "6",
-        "horario": "13:00-14:00",
+        "horario": "09:00-10:30",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
-        "salon": "RH207",
+        "salon": "RH213",
         "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:00"
+        "inicio": "09:00",
+        "fin": "10:30"
       },
       {
         "grupo": "009",
         "nombre": "ECO-11101-ECONOMIA, I",
         "profesor": "ROBERTO GONZALEZ TELLEZ",
         "creditos": "6",
-        "horario": "13:00-14:00",
+        "horario": "08:00-09:30",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
-        "salon": "RH210",
+        "salon": "RH301",
         "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:00"
+        "inicio": "08:00",
+        "fin": "09:30"
       }
     ]
   },
@@ -8276,6 +8325,26 @@ let clases={
       }
     ]
   },
+  "ECO-11231": {
+    "nombre": "ECO-11231-ECONOMIA DE LA CONDUCTA",
+    "clave": "ECO-11231",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-11231-ECONOMIA DE LA CONDUCTA",
+        "profesor": "GUILLERMO ZAMARRIPA ESCAMILLA",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
   "ECO-12102": {
     "nombre": "ECO-12102-ECONOMIA, II",
     "clave": "ECO-12102",
@@ -8483,6 +8552,34 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+        "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
+        "creditos": "6",
+        "horario": "16:00-19:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH304",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "19:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+        "profesor": "JAIME DAVID CAMPOSECO PAULSEN",
+        "creditos": "6",
+        "horario": "17:00-20:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RH108",
+        "campus": "RIO HONDO",
+        "inicio": "17:00",
+        "fin": "20:00"
       }
     ]
   },
@@ -8823,8 +8920,8 @@ let clases={
         "creditos": "6",
         "horario": "12:00-13:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
         "salon": "RHB-3",
         "campus": "RIO HONDO",
@@ -8923,6 +9020,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+        "profesor": "ALAIN IZE LAMACHE",
+        "creditos": "6",
+        "horario": "08:00-11:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHB-3",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "11:00"
       }
     ]
   },
@@ -9016,26 +9127,6 @@ let clases={
       }
     ]
   },
-  "ECO-19220": {
-    "nombre": "ECO-19220-ECONOMIA DEL MEDIO AMBIENTE",
-    "clave": "ECO-19220",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ECO-19220-ECONOMIA DEL MEDIO AMBIENTE",
-        "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
-        "creditos": "6",
-        "horario": "08:00-11:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "RHB-3",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "11:00"
-      }
-    ]
-  },
   "ECO-20513": {
     "nombre": "ECO-20513-MICROECONOMETRIA AVANZADA",
     "clave": "ECO-20513",
@@ -9094,14 +9185,14 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ECO-21103-ECONOMIA III",
-        "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
         "creditos": "6",
         "horario": "10:00-12:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH312",
+        "salon": "PF102",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -16441,8 +16532,8 @@ let misProfesData={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.8727,
-    "n": 55
+    "general": 6.9107,
+    "n": 56
   },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
@@ -16491,8 +16582,8 @@ let misProfesData={
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
-    "general": 8.9565,
-    "n": 46
+    "general": 8.9787,
+    "n": 47
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
@@ -16503,6 +16594,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Omar-\u00c1vila-Garc\u00eda-Sagredo_57486",
     "general": 7.875,
     "n": 16
+  },
+  "MAGDALENA SOFIA BARBA FERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Magdalena-Sof\u00eda-Barba-Fern\u00e1ndez_10775",
+    "general": 8.3617,
+    "n": 141
   },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
@@ -16599,6 +16695,11 @@ let misProfesData={
     "general": 9.1828,
     "n": 93
   },
+  "JAIME DAVID CAMPOSECO PAULSEN": {
+    "link": "https://www.misprofesores.com/profesores/Jaime-David-Camposeco-Paulsen_67019",
+    "general": 7.1724,
+    "n": 29
+  },
   "MARIA CANDELAS RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Candelas-Ram\u00edrez_10751",
     "general": 7.75,
@@ -16636,8 +16737,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL CASTRO TORRESLANDA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Castro-Torreslanda_170976",
-    "general": 6.5,
-    "n": 2
+    "general": 7.3333,
+    "n": 3
   },
   "JORGE ARTURO CERDIO HERRAN": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Arturo-Cerdio-Herr\u00e1n_10792",
@@ -16716,8 +16817,8 @@ let misProfesData={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 6.0,
-    "n": 15
+    "general": 6.125,
+    "n": 16
   },
   "FELIPE CURCO COBOS": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Curco-Cobos_10798",
@@ -16768,11 +16869,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
     "general": 5.9476,
     "n": 210
-  },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
@@ -16836,8 +16932,8 @@ let misProfesData={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.5714,
-    "n": 56
+    "general": 6.614,
+    "n": 57
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
@@ -16896,8 +16992,8 @@ let misProfesData={
   },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
-    "general": 7.5806,
-    "n": 31
+    "general": 7.625,
+    "n": 32
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
@@ -16970,9 +17066,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17060,9 +17156,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17109,11 +17205,6 @@ let misProfesData={
     "general": 7.8261,
     "n": 23
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41
-  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.5833,
@@ -17153,11 +17244,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
@@ -17256,8 +17342,8 @@ let misProfesData={
   },
   "SANDRA PATRICIA MINABURO VILLAR": {
     "link": "https://www.misprofesores.com/profesores/Sandra-Patricia-Minaburo-Villar_10747",
-    "general": 5.7297,
-    "n": 37
+    "general": 5.8421,
+    "n": 38
   },
   "ANA KARINA MIRANDA FLORES": {
     "link": "https://www.misprofesores.com/profesores/Ana-Karina-Miranda-Flores_150364",
@@ -17311,8 +17397,8 @@ let misProfesData={
   },
   "MAYRA NU\u00d1EZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
-    "general": 9.5,
-    "n": 12
+    "general": 9.3846,
+    "n": 13
   },
   "MARGARITA OLMEDO DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Olmedo-de-la-Pe\u00f1a_36749",
@@ -17433,6 +17519,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
     "general": 8.125,
     "n": 16
+  },
+  "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6429,
+    "n": 84
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
@@ -17590,9 +17681,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -17656,8 +17747,8 @@ let misProfesData={
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",
-    "general": 6.4,
-    "n": 20
+    "general": 6.381,
+    "n": 21
   },
   "AURELIO VASQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
@@ -17718,6 +17809,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",
     "general": 6.0267,
     "n": 75
+  },
+  "GUILLERMO ZAMARRIPA ESCAMILLA": {
+    "link": "https://www.misprofesores.com/profesores/Guillermo-Zamarripa-Escamilla_37101",
+    "general": 7.2222,
+    "n": 9
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",

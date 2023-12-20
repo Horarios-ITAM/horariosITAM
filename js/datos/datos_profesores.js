@@ -1,4 +1,4 @@
-let actualizado="1702996566294.3513";
+let actualizado="1703082929991.8535";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -3696,9 +3696,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4338,9 +4335,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4608,9 +4602,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -4726,8 +4720,8 @@ let profesores={
   },
   "SANDRA PATRICIA MINABURO VILLAR": {
     "link": "https://www.misprofesores.com/profesores/Sandra-Patricia-Minaburo-Villar_10747",
-    "general": 5.7297,
-    "n": 37,
+    "general": 5.8421,
+    "n": 38,
     "grupos": {
       "CON-10002-CONTABILIDAD INTERMEDIA, I": [
         {
@@ -5387,22 +5381,22 @@ let profesores={
       ]
     }
   },
-  "ALBERTO ORTIZ ENRIQUEZ": {
+  "FRANCISCO DE PAULA CHABAUD LOPEZ": {
     "grupos": {
       "CON-15001-IMPUESTOS CORPORATIVOS, I": [
         {
           "grupo": "002",
           "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
-          "profesor": "ALBERTO ORTIZ ENRIQUEZ",
+          "profesor": "FRANCISCO DE PAULA CHABAUD LOPEZ",
           "creditos": "6",
-          "horario": "07:00-10:00",
+          "horario": "19:00-22:00",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH107",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -5802,9 +5796,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -7021,8 +7012,8 @@ let profesores={
   },
   "MIGUEL ANGEL CASTRO TORRESLANDA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Castro-Torreslanda_170976",
-    "general": 6.5,
-    "n": 2,
+    "general": 7.3333,
+    "n": 3,
     "grupos": {
       "DER-11107-TALLER EN BIENES Y DER REALES-LAB": [
         {
@@ -8819,6 +8810,78 @@ let profesores={
       ]
     }
   },
+  "EMILIO GUTIERREZ FERNANDEZ": {
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "005",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "005",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "creditos": "9",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ],
+      "ECO-18101-DESARROLLO ECONOMICO I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "CARLO EDUARDO ALCARAZ PRIBAZ": {
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "006",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "CARLO EDUARDO ALCARAZ PRIBAZ",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
     "general": 9.5068,
@@ -8841,6 +8904,38 @@ let profesores={
           "fin": "11:30"
         }
       ],
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "CHRISTINA CORNEJO VAN LUIT",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "CHRISTINA CORNEJO VAN LUIT",
+          "creditos": "6",
+          "horario": "12:00-13:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:30"
+        }
+      ],
       "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
         {
           "grupo": "001",
@@ -8849,8 +8944,8 @@ let profesores={
           "creditos": "6",
           "horario": "12:00-13:00",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
           "salon": "RHB-3",
           "campus": "RIO HONDO",
@@ -8980,138 +9075,219 @@ let profesores={
       ]
     }
   },
-  "EMILIO GUTIERREZ FERNANDEZ": {
+  "CLAUDIA ABURTO RANCA\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
+    "general": 8.9067,
+    "n": 75,
     "grupos": {
       "ECO-11101-ECONOMIA, I": [
         {
           "grupo": "001",
           "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
           "creditos": "6",
-          "horario": "10:00-11:00",
+          "horario": "10:30-12:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH310",
+          "salon": "RH312",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
+          "inicio": "10:30",
+          "fin": "12:00"
+        }
+      ],
+      "ECO-21103-ECONOMIA III": [
         {
           "grupo": "002",
-          "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "nombre": "ECO-21103-ECONOMIA III",
+          "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
           "creditos": "6",
-          "horario": "13:00-14:00",
+          "horario": "08:00-10:00",
           "dias": [
-            "LU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH305",
+          "salon": "RH312",
           "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
-          "creditos": "6",
-          "horario": "12:00-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        },
+          "inicio": "08:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "MAGDALENA SOFIA BARBA FERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Magdalena-Sof\u00eda-Barba-Fern\u00e1ndez_10775",
+    "general": 8.3617,
+    "n": 141,
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
         {
           "grupo": "004",
           "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "profesor": "MAGDALENA SOFIA BARBA FERNANDEZ",
           "creditos": "6",
-          "horario": "13:00-14:00",
+          "horario": "10:00-11:30",
           "dias": [
-            "LU"
+            "MA",
+            "JU"
           ],
           "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        },
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "SOFIA CORONA VERDUZCO": {
+    "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
+    "general": 9.8182,
+    "n": 11,
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
         {
           "grupo": "005",
           "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "profesor": "SOFIA CORONA VERDUZCO",
           "creditos": "6",
-          "horario": "13:00-14:00",
+          "horario": "11:00-12:30",
           "dias": [
-            "LU"
+            "MA",
+            "JU"
           ],
-          "salon": "RHSA3",
+          "salon": "RH308",
           "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        },
+          "inicio": "11:00",
+          "fin": "12:30"
+        }
+      ],
+      "ECO-11103-ECONOMIA, III": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11103-ECONOMIA, III",
+          "profesor": "SOFIA CORONA VERDUZCO",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "DAVID LAMB DE VALDES": {
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
         {
           "grupo": "006",
           "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "profesor": "DAVID LAMB DE VALDES",
           "creditos": "6",
-          "horario": "13:00-14:00",
+          "horario": "11:30-13:00",
           "dias": [
-            "LU"
+            "MA",
+            "JU"
           ],
-          "salon": "RHSA4",
+          "salon": "RH102",
           "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        },
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "ECO-11104-ECONOMIA, IV": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11104-ECONOMIA, IV",
+          "profesor": "DAVID LAMB DE VALDES",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH113",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "ECO-15111-ECONOMIA POLITICA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15111-ECONOMIA POLITICA",
+          "profesor": "DAVID LAMB DE VALDES",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH207",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "ANTONIO VIVANCO CASAMADRID": {
+    "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
+    "general": 9.875,
+    "n": 8,
+    "grupos": {
+      "ECO-11101-ECONOMIA, I": [
         {
           "grupo": "007",
           "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "profesor": "ANTONIO VIVANCO CASAMADRID",
           "creditos": "6",
-          "horario": "13:00-14:00",
+          "horario": "07:30-09:00",
           "dias": [
-            "LU"
+            "MA",
+            "JU"
           ],
-          "salon": "RH204",
+          "salon": "RH213",
           "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
+          "inicio": "07:30",
+          "fin": "09:00"
         },
         {
           "grupo": "008",
           "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "profesor": "ANTONIO VIVANCO CASAMADRID",
           "creditos": "6",
-          "horario": "13:00-14:00",
+          "horario": "09:00-10:30",
           "dias": [
-            "LU"
+            "MA",
+            "JU"
           ],
-          "salon": "RH207",
+          "salon": "RH213",
           "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
+          "inicio": "09:00",
+          "fin": "10:30"
         }
       ],
-      "ECO-18101-DESARROLLO ECONOMICO I": [
+      "ECO-14501-ECONOMIA DE LA EMPRESA": [
         {
           "grupo": "001",
-          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
+          "profesor": "ANTONIO VIVANCO CASAMADRID",
           "creditos": "6",
-          "horario": "16:00-19:00",
+          "horario": "12:30-14:00",
           "dias": [
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "RH104",
+          "salon": "RH209",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
+          "inicio": "12:30",
+          "fin": "14:00"
         }
       ]
     }
@@ -9124,14 +9300,15 @@ let profesores={
           "nombre": "ECO-11101-ECONOMIA, I",
           "profesor": "ROBERTO GONZALEZ TELLEZ",
           "creditos": "6",
-          "horario": "13:00-14:00",
+          "horario": "08:00-09:30",
           "dias": [
-            "LU"
+            "MA",
+            "JU"
           ],
-          "salon": "RH210",
+          "salon": "RH301",
           "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
+          "inicio": "08:00",
+          "fin": "09:30"
         }
       ]
     }
@@ -9170,30 +9347,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:30"
-        }
-      ]
-    }
-  },
-  "SOFIA CORONA VERDUZCO": {
-    "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.8182,
-    "n": 11,
-    "grupos": {
-      "ECO-11103-ECONOMIA, III": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-11103-ECONOMIA, III",
-          "profesor": "SOFIA CORONA VERDUZCO",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -9253,44 +9406,6 @@ let profesores={
             "JU"
           ],
           "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ]
-    }
-  },
-  "DAVID LAMB DE VALDES": {
-    "grupos": {
-      "ECO-11104-ECONOMIA, IV": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-11104-ECONOMIA, IV",
-          "profesor": "DAVID LAMB DE VALDES",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH113",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "ECO-15111-ECONOMIA POLITICA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-15111-ECONOMIA POLITICA",
-          "profesor": "DAVID LAMB DE VALDES",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -9449,6 +9564,23 @@ let profesores={
           "fin": "10:00"
         }
       ],
+      "ECO-21103-ECONOMIA III": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-21103-ECONOMIA III",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "6",
+          "horario": "10:00-12:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
+        }
+      ],
       "ECO-21104-ECONOMIA IV": [
         {
           "grupo": "003",
@@ -9484,6 +9616,29 @@ let profesores={
             "VI"
           ],
           "salon": "RH304",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "GUILLERMO ZAMARRIPA ESCAMILLA": {
+    "link": "https://www.misprofesores.com/profesores/Guillermo-Zamarripa-Escamilla_37101",
+    "general": 7.2222,
+    "n": 9,
+    "grupos": {
+      "ECO-11231-ECONOMIA DE LA CONDUCTA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11231-ECONOMIA DE LA CONDUCTA",
+          "profesor": "GUILLERMO ZAMARRIPA ESCAMILLA",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -9765,6 +9920,49 @@ let profesores={
       ]
     }
   },
+  "GUSTAVO ANTONIO LEYVA JIMENEZ": {
+    "grupos": {
+      "ECO-12201-TEORIA Y POLITICA MONETARIA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+          "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH304",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "JAIME DAVID CAMPOSECO PAULSEN": {
+    "link": "https://www.misprofesores.com/profesores/Jaime-David-Camposeco-Paulsen_67019",
+    "general": 7.1724,
+    "n": 29,
+    "grupos": {
+      "ECO-12201-TEORIA Y POLITICA MONETARIA": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+          "profesor": "JAIME DAVID CAMPOSECO PAULSEN",
+          "creditos": "6",
+          "horario": "17:00-20:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH108",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "20:00"
+        }
+      ]
+    }
+  },
   "ARTURO MANUEL FERNANDEZ PEREZ": {
     "grupos": {
       "ECO-13101-ECONOMIA INTERNACIONAL, I": [
@@ -9923,30 +10121,6 @@ let profesores={
       ]
     }
   },
-  "ANTONIO VIVANCO CASAMADRID": {
-    "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 9.875,
-    "n": 8,
-    "grupos": {
-      "ECO-14501-ECONOMIA DE LA EMPRESA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
-          "profesor": "ANTONIO VIVANCO CASAMADRID",
-          "creditos": "6",
-          "horario": "12:30-14:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
-        }
-      ]
-    }
-  },
   "ARTURO RAMIREZ VERDUGO": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
     "general": 7.3667,
@@ -10073,6 +10247,26 @@ let profesores={
       ]
     }
   },
+  "ALAIN IZE LAMACHE": {
+    "grupos": {
+      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+          "profesor": "ALAIN IZE LAMACHE",
+          "creditos": "6",
+          "horario": "08:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "MOISES TIKTIN NICKIN": {
     "grupos": {
       "ECO-17201-HISTORIA ECO. DEL SIGLO XX(OP)": [
@@ -10171,61 +10365,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "CLAUDIA ABURTO RANCA\u00d1O": {
-    "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
-    "general": 8.9067,
-    "n": 75,
-    "grupos": {
-      "ECO-19220-ECONOMIA DEL MEDIO AMBIENTE": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-19220-ECONOMIA DEL MEDIO AMBIENTE",
-          "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
-          "creditos": "6",
-          "horario": "08:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHB-3",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
-        }
-      ],
-      "ECO-21103-ECONOMIA III": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-21103-ECONOMIA III",
-          "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
-          "creditos": "6",
-          "horario": "08:00-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH312",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "ECO-21103-ECONOMIA III",
-          "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
-          "creditos": "6",
-          "horario": "10:00-12:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH312",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
         }
       ]
     }
@@ -11002,6 +11141,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6429,
+    "n": 84,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -12263,8 +12405,8 @@ let profesores={
   },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
-    "general": 7.5806,
-    "n": 31,
+    "general": 7.625,
+    "n": 32,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -12287,8 +12429,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 6.0,
-    "n": 15,
+    "general": 6.125,
+    "n": 16,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -13826,8 +13968,8 @@ let profesores={
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
-    "general": 8.9565,
-    "n": 46,
+    "general": 8.9787,
+    "n": 47,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -13913,9 +14055,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -14760,9 +14902,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15552,8 +15694,8 @@ let profesores={
   },
   "MAYRA NU\u00d1EZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
-    "general": 9.5,
-    "n": 12,
+    "general": 9.3846,
+    "n": 13,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
@@ -15941,8 +16083,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.5714,
-    "n": 56,
+    "general": 6.614,
+    "n": 57,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -16592,8 +16734,8 @@ let profesores={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.8727,
-    "n": 55,
+    "general": 6.9107,
+    "n": 56,
     "grupos": {
       "MAT-14102-CALCULO DIF. E INT., III": [
         {
@@ -17134,8 +17276,8 @@ let profesores={
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",
-    "general": 6.4,
-    "n": 20,
+    "general": 6.381,
+    "n": 21,
     "grupos": {
       "MAT-14310-ALG. LINEAL, II (ALG. LINEAL)": [
         {
@@ -17743,13 +17885,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -17827,17 +17969,17 @@ let mejoresPorDepto={
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
-    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "EDUARDO MENACHE VARELA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA"
+    "LUCIA PI CHOLULA",
+    "ANA TAMARIT AMIEVA"
   ],
   "MATEMATICAS": [
-    "MAYRA NU\u00d1EZ LOPEZ",
     "LYSETTE FELIX FELIX",
+    "MAYRA NU\u00d1EZ LOPEZ",
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "LEON FELIPE VILLALOBOS SANCHEZ",
