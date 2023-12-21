@@ -1,4 +1,4 @@
-let actualizado="1703082929976.1396";
+let actualizado="1703169344241.1626";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -16870,6 +16870,11 @@ let misProfesData={
     "general": 5.9476,
     "n": 210
   },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.75,
+    "n": 4
+  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4744,
@@ -17066,9 +17071,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17156,9 +17161,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 9.6667,
+    "n": 3
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17205,6 +17210,11 @@ let misProfesData={
     "general": 7.8261,
     "n": 23
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41
+  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.5833,
@@ -17244,6 +17254,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
@@ -17472,8 +17487,8 @@ let misProfesData={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.2063,
-    "n": 63
+    "general": 7.125,
+    "n": 64
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
@@ -17587,8 +17602,8 @@ let misProfesData={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7831,
-    "n": 83
+    "general": 8.7976,
+    "n": 84
   },
   "IRMA BEATRIZ RUMBOS PELLICER": {
     "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",
@@ -17597,8 +17612,8 @@ let misProfesData={
   },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
-    "general": 6.375,
-    "n": 24
+    "general": 6.48,
+    "n": 25
   },
   "NATALIA SALTALAMACCHIA ZICCARDI": {
     "link": "https://www.misprofesores.com/profesores/Natalia-Saltalamacchia-Ziccardi_10835",
@@ -17681,9 +17696,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -17782,8 +17797,8 @@ let misProfesData={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.25,
-    "n": 180
+    "general": 8.2597,
+    "n": 181
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
@@ -17842,8 +17857,8 @@ let misProfesData={
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
-    "general": 8.0602,
-    "n": 166
+    "general": 8.0719,
+    "n": 167
   },
   "ANA MARIA ZORRILLA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
