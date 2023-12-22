@@ -1,4 +1,4 @@
-let actualizado="1703169344257.5942";
+let actualizado="1703255736449.0515";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -479,6 +479,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
+        }
+      ],
+      "ECO-14501-ECONOMIA DE LA EMPRESA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "09:00-12:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "12:00"
         }
       ],
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
@@ -3696,9 +3712,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4338,9 +4351,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4608,9 +4618,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5802,9 +5812,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -9281,23 +9288,6 @@ let profesores={
           "inicio": "09:00",
           "fin": "10:30"
         }
-      ],
-      "ECO-14501-ECONOMIA DE LA EMPRESA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
-          "profesor": "ANTONIO VIVANCO CASAMADRID",
-          "creditos": "6",
-          "horario": "12:30-14:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
-        }
       ]
     }
   },
@@ -9551,83 +9541,64 @@ let profesores={
       ]
     }
   },
-  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
-    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
-    "general": 6.8235,
-    "n": 102,
+  "TETSUYA HOSHINO": {
+    "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
+    "general": 7.0,
+    "n": 9,
     "grupos": {
       "ECO-11122-MICROECONOMIA AVANZADA II": [
         {
           "grupo": "003",
           "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "profesor": "TETSUYA HOSHINO",
           "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-21103-ECONOMIA III": [
-        {
-          "grupo": "003",
-          "nombre": "ECO-21103-ECONOMIA III",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
-          "creditos": "6",
-          "horario": "10:00-12:00",
+          "horario": "11:30-13:00",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "PF102",
+          "salon": "RH304",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ],
       "ECO-21104-ECONOMIA IV": [
         {
-          "grupo": "003",
+          "grupo": "001",
           "nombre": "ECO-21104-ECONOMIA IV",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "profesor": "TETSUYA HOSHINO",
           "creditos": "6",
-          "horario": "10:30-12:00",
+          "horario": "10:00-11:30",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH312",
+          "salon": "RH304",
           "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:00"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
   },
-  "JOSE MANUEL LECUANDA ONTIVEROS": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Lecuanda-Ontiveros_86804",
-    "general": 8.2424,
-    "n": 33,
+  "JOSE RODRIGO SIRVENT BRAVO AHUJA": {
     "grupos": {
       "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE": [
         {
           "grupo": "001",
           "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
-          "profesor": "JOSE MANUEL LECUANDA ONTIVEROS",
+          "profesor": "JOSE RODRIGO SIRVENT BRAVO AHUJA",
           "creditos": "6",
-          "horario": "07:00-10:00",
+          "horario": "07:00-08:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
           "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "10:00"
+          "fin": "08:30"
         }
       ]
     }
@@ -10419,41 +10390,58 @@ let profesores={
       ]
     }
   },
-  "TETSUYA HOSHINO": {
-    "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
-    "general": 7.0,
-    "n": 9,
+  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
+    "general": 6.8235,
+    "n": 102,
     "grupos": {
-      "ECO-21104-ECONOMIA IV": [
+      "ECO-21103-ECONOMIA III": [
         {
-          "grupo": "001",
-          "nombre": "ECO-21104-ECONOMIA IV",
-          "profesor": "TETSUYA HOSHINO",
+          "grupo": "003",
+          "nombre": "ECO-21103-ECONOMIA III",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "10:00-12:00",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RH304",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "10:00",
-          "fin": "11:30"
-        },
+          "fin": "12:00"
+        }
+      ],
+      "ECO-21104-ECONOMIA IV": [
         {
           "grupo": "002",
           "nombre": "ECO-21104-ECONOMIA IV",
-          "profesor": "TETSUYA HOSHINO",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "08:30-10:00",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "RH304",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "inicio": "08:30",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ECO-21104-ECONOMIA IV",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "6",
+          "horario": "10:30-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH312",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "12:00"
         }
       ]
     }
@@ -10525,15 +10513,15 @@ let profesores={
           "nombre": "ECO-22105-ECONOMIA V",
           "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
           "creditos": "8",
-          "horario": "10:00-12:00",
+          "horario": "16:00-18:00",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RH101",
+          "salon": "RH107",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ]
     }
@@ -14064,9 +14052,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -14911,9 +14899,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15418,8 +15406,8 @@ let profesores={
   },
   "SHARON MAGALI VALVERDE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.3,
-    "n": 30,
+    "general": 8.2903,
+    "n": 31,
     "grupos": {
       "MAT-10101-MET. CUANTITATIVOS PARA DER.": [
         {
@@ -17894,13 +17882,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -17978,13 +17966,13 @@ let mejoresPorDepto={
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
-    "MARIA TERESA JIMENEZ ANDREU",
     "DIANA LUCIA ALVAREZ MACIAS",
     "EDUARDO MENACHE VARELA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA"
+    "LUCIA PI CHOLULA",
+    "ANA TAMARIT AMIEVA"
   ],
   "MATEMATICAS": [
     "LYSETTE FELIX FELIX",

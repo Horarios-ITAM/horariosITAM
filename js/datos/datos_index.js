@@ -1,4 +1,4 @@
-let actualizado="1703169344241.1626";
+let actualizado="1703255736433.5413";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -8257,17 +8257,17 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "TETSUYA HOSHINO",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "11:30-13:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RHSA2",
+        "salon": "RH304",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -8278,16 +8278,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
-        "profesor": "JOSE MANUEL LECUANDA ONTIVEROS",
+        "profesor": "JOSE RODRIGO SIRVENT BRAVO AHUJA",
         "creditos": "6",
-        "horario": "07:00-10:00",
+        "horario": "07:00-08:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
         "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "10:00"
+        "fin": "08:30"
       }
     ]
   },
@@ -8817,17 +8818,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
-        "profesor": "ANTONIO VIVANCO CASAMADRID",
+        "profesor": "",
         "creditos": "6",
-        "horario": "12:30-14:00",
+        "horario": "09:00-12:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RH209",
+        "salon": "RH105",
         "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
+        "inicio": "09:00",
+        "fin": "12:00"
       }
     ]
   },
@@ -9192,7 +9192,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF102",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -9221,17 +9221,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "TETSUYA HOSHINO",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH304",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "08:30",
+        "fin": "10:00"
       },
       {
         "grupo": "003",
@@ -9316,15 +9316,15 @@ let clases={
         "nombre": "ECO-22105-ECONOMIA V",
         "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
         "creditos": "8",
-        "horario": "10:00-12:00",
+        "horario": "16:00-18:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH107",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "12:00"
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -16870,11 +16870,6 @@ let misProfesData={
     "general": 5.9476,
     "n": 210
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4744,
@@ -17071,9 +17066,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17161,9 +17156,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 9.6667,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17185,11 +17180,6 @@ let misProfesData={
     "general": 5.7143,
     "n": 7
   },
-  "JOSE MANUEL LECUANDA ONTIVEROS": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Lecuanda-Ontiveros_86804",
-    "general": 8.2424,
-    "n": 33
-  },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
     "general": 8.9322,
@@ -17209,11 +17199,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.8261,
     "n": 23
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.561,
-    "n": 41
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
@@ -17254,11 +17239,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
@@ -17696,9 +17676,9 @@ let misProfesData={
     "n": 60
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -17752,8 +17732,8 @@ let misProfesData={
   },
   "SHARON MAGALI VALVERDE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.3,
-    "n": 30
+    "general": 8.2903,
+    "n": 31
   },
   "INES VARGAS CHRISTLIEB": {
     "link": "https://www.misprofesores.com/profesores/INES-VARGAS-CHRISTLIEB_99471",
