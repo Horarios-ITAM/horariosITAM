@@ -1,4 +1,4 @@
-let actualizado="1703687735706.21";
+let actualizado="1703774143313.038";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -17405,6 +17405,11 @@ let misProfesData={
     "general": 9.8,
     "n": 5
   },
+  "VICTORIA NUGUER": {
+    "link": "https://www.misprofesores.com/profesores/Victoria-Nuguer_172046",
+    "general": 7.0,
+    "n": 1
+  },
   "MAYRA NU\u00d1EZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
     "general": 9.3846,
@@ -17637,8 +17642,8 @@ let misProfesData={
   },
   "MATHIAS JOSEF SCHNEIDER": {
     "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
-    "general": 7.3,
-    "n": 10
+    "general": 7.3636,
+    "n": 11
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
@@ -17647,8 +17652,8 @@ let misProfesData={
   },
   "SERGIO SILVA CASTA\u00d1EDA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Silva-Casta\u00f1eda_50663",
-    "general": 7.9167,
-    "n": 12
+    "general": 8.0,
+    "n": 13
   },
   "LUZ MARIA SILVA ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Silva-Ortiz_10823",
@@ -17682,8 +17687,8 @@ let misProfesData={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.15,
-    "n": 60
+    "general": 8.1803,
+    "n": 61
   },
   "ANA TAMARIT AMIEVA": {
     "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",

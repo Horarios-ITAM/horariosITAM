@@ -1,4 +1,4 @@
-let actualizado="1703687735721.867";
+let actualizado="1703774143329.3677";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -2418,8 +2418,8 @@ let profesores={
   },
   "MATHIAS JOSEF SCHNEIDER": {
     "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
-    "general": 7.3,
-    "n": 10,
+    "general": 7.3636,
+    "n": 11,
     "grupos": {
       "ADM-15533-MODELOS FINANCIEROS I": [
         {
@@ -8613,6 +8613,9 @@ let profesores={
     }
   },
   "VICTORIA NUGUER": {
+    "link": "https://www.misprofesores.com/profesores/Victoria-Nuguer_172046",
+    "general": 7.0,
+    "n": 1,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
@@ -8997,8 +9000,8 @@ let profesores={
   },
   "SERGIO SILVA CASTA\u00d1EDA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Silva-Casta\u00f1eda_50663",
-    "general": 7.9167,
-    "n": 12,
+    "general": 8.0,
+    "n": 13,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
@@ -11170,8 +11173,8 @@ let profesores={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.15,
-    "n": 60,
+    "general": 8.1803,
+    "n": 61,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
