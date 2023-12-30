@@ -1,4 +1,4 @@
-let actualizado="1703860519950.355";
+let actualizado="1703946938365.4294";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -2266,8 +2266,8 @@ let profesores={
   },
   "JANKO HERNANDEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
-    "general": 8.1429,
-    "n": 7,
+    "general": 8.25,
+    "n": 8,
     "grupos": {
       "ADM-15528-INSTRUMENTOS FINANCIEROS": [
         {
@@ -2395,8 +2395,8 @@ let profesores={
   },
   "AURELIO VASQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
-    "general": 3.7692,
-    "n": 26,
+    "general": 3.8148,
+    "n": 27,
     "grupos": {
       "ADM-15533-MODELOS FINANCIEROS I": [
         {
@@ -2418,8 +2418,8 @@ let profesores={
   },
   "MATHIAS JOSEF SCHNEIDER": {
     "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
-    "general": 7.3636,
-    "n": 11,
+    "general": 7.5,
+    "n": 12,
     "grupos": {
       "ADM-15533-MODELOS FINANCIEROS I": [
         {
@@ -3712,6 +3712,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.561,
+    "n": 41,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4351,6 +4354,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.75,
+    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4618,9 +4624,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5812,6 +5818,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -7028,8 +7037,8 @@ let profesores={
   },
   "MIGUEL ANGEL CASTRO TORRESLANDA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Castro-Torreslanda_170976",
-    "general": 7.3333,
-    "n": 3,
+    "general": 8.0,
+    "n": 4,
     "grupos": {
       "DER-11107-TALLER EN BIENES Y DER REALES-LAB": [
         {
@@ -11141,9 +11150,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6429,
-    "n": 84,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -14055,9 +14061,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -14902,9 +14908,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15334,6 +15340,9 @@ let profesores={
     }
   },
   "JORGE NEME SANCHEZ": {
+    "link": "https://www.misprofesores.com/profesores/JORGE-NEME-SANCHEZ_172075",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN": [
         {
@@ -16321,8 +16330,8 @@ let profesores={
   },
   "EDUARDO TOMAS ARELLANO ARJONA": {
     "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.48,
-    "n": 125,
+    "general": 6.4603,
+    "n": 126,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -17885,13 +17894,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO",
-    "PETER MATTHEW  HILLS"
+    "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -17973,9 +17982,9 @@ let mejoresPorDepto={
     "EDUARDO MENACHE VARELA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
-    "LUCIA PI CHOLULA",
-    "ANA TAMARIT AMIEVA"
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "LYSETTE FELIX FELIX",
