@@ -1,4 +1,4 @@
-let actualizado="1703946938365.4294";
+let actualizado="1704033342504.4258";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -3326,8 +3326,8 @@ let profesores={
   },
   "SILVIA DEL CARMEN GUARDATI BUEMO": {
     "link": "https://www.misprofesores.com/profesores/Silvia-del-Carmen-Guardati-Buemo_10847",
-    "general": 8.9038,
-    "n": 52,
+    "general": 8.9057,
+    "n": 53,
     "grupos": {
       "COM-11101-ALGORITMOS Y PROGRAMAS": [
         {
@@ -11150,6 +11150,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6429,
+    "n": 84,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11173,8 +11176,8 @@ let profesores={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.1803,
-    "n": 61,
+    "general": 8.2097,
+    "n": 62,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -16607,8 +16610,8 @@ let profesores={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.1277,
-    "n": 47,
+    "general": 7.1875,
+    "n": 48,
     "grupos": {
       "MAT-14101-CALCULO DIF. E INT., II": [
         {
@@ -16882,8 +16885,8 @@ let profesores={
   },
   "MARTA CABO NODAR": {
     "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
-    "general": 4.225,
-    "n": 80,
+    "general": 4.2716,
+    "n": 81,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -17873,8 +17876,8 @@ let mejoresPorDepto={
     "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
     "MONICA ZAVALA ESTRADA",
     "ALBERTO ISAAC RAMIREZ PEREZ",
-    "SILVIA RIOS MAGOS",
     "SILVIA DEL CARMEN GUARDATI BUEMO",
+    "SILVIA RIOS MAGOS",
     "RODOLFO CONDE MARTINEZ",
     "MIROSLAVA MENDOZA VIDAL"
   ],
