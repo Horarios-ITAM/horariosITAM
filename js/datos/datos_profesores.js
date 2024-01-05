@@ -1,4 +1,4 @@
-let actualizado="1704206133905.7888";
+let actualizado="1704465323033.8677";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -7,8 +7,8 @@ let formPostUrl="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2";
 let profesores={
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
-    "general": 7.3448,
-    "n": 29,
+    "general": 7.3,
+    "n": 30,
     "grupos": {
       "ACT-11300-CALCULO ACTUARIAL I": [
         {
@@ -481,6 +481,57 @@ let profesores={
           "fin": "14:00"
         }
       ],
+      "CON-12110-CONTABILIDAD DE COSTOS P/ING.": [
+        {
+          "grupo": "002",
+          "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH315",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
+      "CON-14101-CONTABILIDAD ADMINISTRATIVA,II": [
+        {
+          "grupo": "002",
+          "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH315",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
+      "CON-14109-CONTABILIDAD GERENCIAL": [
+        {
+          "grupo": "002",
+          "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH315",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
       "ECO-14501-ECONOMIA DE LA EMPRESA": [
         {
           "grupo": "001",
@@ -671,14 +722,14 @@ let profesores={
           "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
           "profesor": "",
           "creditos": "2",
-          "horario": "07:30-08:30",
+          "horario": "09:00-10:00",
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
-          "inicio": "07:30",
-          "fin": "08:30"
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ],
       "LEN-12765-COM. PROFES. PARA ING. EN MECA": [
@@ -3855,15 +3906,15 @@ let profesores={
           "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES",
           "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
           "creditos": "8",
-          "horario": "12:00-13:30",
+          "horario": "12:30-14:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RHSA1",
+          "salon": "RH209",
           "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:30"
+          "inicio": "12:30",
+          "fin": "14:00"
         }
       ]
     }
@@ -4351,9 +4402,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5267,64 +5315,6 @@ let profesores={
       ]
     }
   },
-  "MARIA ELOISA MARTINEZ PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
-    "general": 6.6,
-    "n": 10,
-    "grupos": {
-      "CON-12110-CONTABILIDAD DE COSTOS P/ING.": [
-        {
-          "grupo": "002",
-          "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
-          "profesor": "MARIA ELOISA MARTINEZ PEREZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "CON-14101-CONTABILIDAD ADMINISTRATIVA,II": [
-        {
-          "grupo": "002",
-          "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
-          "profesor": "MARIA ELOISA MARTINEZ PEREZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "CON-14109-CONTABILIDAD GERENCIAL": [
-        {
-          "grupo": "002",
-          "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
-          "profesor": "MARIA ELOISA MARTINEZ PEREZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
   "MONICA GARCIA CEREZO": {
     "grupos": {
       "CON-14100-CONTABILIDAD ADMINISTRATIVA, I": [
@@ -5483,7 +5473,7 @@ let profesores={
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
     "general": 10.0,
-    "n": 2,
+    "n": 3,
     "grupos": {
       "CON-15125-CONTABILIDAD FISCAL": [
         {
@@ -9839,8 +9829,8 @@ let profesores={
   },
   "MIGUEL MESSMACHER LINARTAS": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Messmacher-Linartas_118897",
-    "general": 9.0,
-    "n": 3,
+    "general": 8.75,
+    "n": 4,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -12260,8 +12250,8 @@ let profesores={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.5263,
-    "n": 38,
+    "general": 8.5641,
+    "n": 39,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -12655,21 +12645,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
-        },
-        {
-          "grupo": "006",
-          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-          "profesor": "TRINIDAD GONZALEZ BONILLA",
-          "creditos": "8",
-          "horario": "10:30-12:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:30"
         }
       ]
     }
@@ -12728,6 +12703,30 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "21:00"
+        }
+      ]
+    }
+  },
+  "GERMAN SINUHE AYALA FUENTES": {
+    "link": "https://www.misprofesores.com/profesores/Germ\u00e1n-Sinuhe-Ayala-Fuentes_109376",
+    "general": 5.9286,
+    "n": 14,
+    "grupos": {
+      "EST-11102-INFERENCIA ESTADISTICA": [
+        {
+          "grupo": "006",
+          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
+          "profesor": "GERMAN SINUHE AYALA FUENTES",
+          "creditos": "8",
+          "horario": "19:30-21:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH213",
+          "campus": "RIO HONDO",
+          "inicio": "19:30",
+          "fin": "21:30"
         }
       ]
     }
@@ -12964,7 +12963,7 @@ let profesores={
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
     "general": 8.0,
-    "n": 3,
+    "n": 4,
     "grupos": {
       "EST-14101-CALCULO DE PROBABILIDADES.,I": [
         {
@@ -14033,7 +14032,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH203",
+          "salon": "RHACERV",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -14745,6 +14744,38 @@ let profesores={
           "inicio": "11:30",
           "fin": "13:00"
         }
+      ],
+      "LEN-12721-COMUNIC. ESCRITA PARA REL. INT": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
+          "profesor": "MARIA GABRIELA  MAZZUCHINO",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH211",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        }
+      ],
+      "LEN-16403-COMUNIC. ESCRITA PARA REL. INT": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
+          "profesor": "MARIA GABRIELA  MAZZUCHINO",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH211",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        }
       ]
     }
   },
@@ -14905,9 +14936,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15115,73 +15146,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "09:30"
-        }
-      ]
-    }
-  },
-  "EDUARDO MENACHE VARELA": {
-    "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
-    "general": 9.5238,
-    "n": 21,
-    "grupos": {
-      "LEN-12721-COMUNIC. ESCRITA PARA REL. INT": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
-          "profesor": "EDUARDO MENACHE VARELA",
-          "creditos": "2",
-          "horario": "08:00-09:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
-          "profesor": "EDUARDO MENACHE VARELA",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-16403-COMUNIC. ESCRITA PARA REL. INT": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
-          "profesor": "EDUARDO MENACHE VARELA",
-          "creditos": "2",
-          "horario": "08:00-09:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
-          "profesor": "EDUARDO MENACHE VARELA",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -15700,8 +15664,8 @@ let profesores={
   },
   "MAYRA NU\u00d1EZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
-    "general": 9.3846,
-    "n": 13,
+    "general": 9.2857,
+    "n": 14,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
@@ -16353,15 +16317,15 @@ let profesores={
           "nombre": "MAT-14102-CALCULO DIF. E INT., III",
           "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
           "creditos": "8",
-          "horario": "07:00-09:00",
+          "horario": "11:00-13:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH209",
+          "salon": "RH205",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
+          "inicio": "11:00",
+          "fin": "13:00"
         }
       ]
     }
@@ -16879,8 +16843,8 @@ let profesores={
   },
   "MARTA CABO NODAR": {
     "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
-    "general": 4.2716,
-    "n": 81,
+    "general": 4.2927,
+    "n": 82,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -17577,7 +17541,7 @@ let profesores={
           "grupo": "001",
           "nombre": "SDI-12629-TEORIA ELECTROMAGNETICA",
           "profesor": "ANTE SALCEDO GONZALEZ",
-          "creditos": "8",
+          "creditos": "6",
           "horario": "11:00-12:30",
           "dias": [
             "LU",
@@ -17917,10 +17881,10 @@ let mejoresPorDepto={
     "CHRISTINA CORNEJO VAN LUIT",
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
     "CHRISTIANE FABREGA CHIMALI",
+    "MIGUEL MESSMACHER LINARTAS",
     "ARTURO ALBERTO AGUILAR ESTEVA"
   ],
   "ESTUDIOS GENERALES": [
@@ -17976,12 +17940,12 @@ let mejoresPorDepto={
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "EDUARDO MENACHE VARELA",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
-    "JORGE NEME SANCHEZ"
+    "JORGE NEME SANCHEZ",
+    "LUCIA PI CHOLULA",
+    "ANA TAMARIT AMIEVA"
   ],
   "MATEMATICAS": [
     "LYSETTE FELIX FELIX",

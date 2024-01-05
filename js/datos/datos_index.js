@@ -1,4 +1,4 @@
-let actualizado="1704206133889.745";
+let actualizado="1704465323018.8152";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -4288,17 +4288,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
-        "profesor": "MARIA ELOISA MARTINEZ PEREZ",
+        "profesor": "",
         "creditos": "6",
-        "horario": "17:30-19:00",
+        "horario": "19:00-20:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH301",
+        "salon": "RH315",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -4358,17 +4358,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
-        "profesor": "MARIA ELOISA MARTINEZ PEREZ",
+        "profesor": "",
         "creditos": "6",
-        "horario": "17:30-19:00",
+        "horario": "19:00-20:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH301",
+        "salon": "RH315",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -4394,17 +4394,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
-        "profesor": "MARIA ELOISA MARTINEZ PEREZ",
+        "profesor": "",
         "creditos": "6",
-        "horario": "17:30-19:00",
+        "horario": "19:00-20:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH301",
+        "salon": "RH315",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -11161,17 +11161,17 @@ let clases={
       {
         "grupo": "006",
         "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-        "profesor": "TRINIDAD GONZALEZ BONILLA",
+        "profesor": "GERMAN SINUHE AYALA FUENTES",
         "creditos": "8",
-        "horario": "10:30-12:30",
+        "horario": "19:30-21:30",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RH213",
         "campus": "RIO HONDO",
-        "inicio": "10:30",
-        "fin": "12:30"
+        "inicio": "19:30",
+        "fin": "21:30"
       }
     ]
   },
@@ -12931,7 +12931,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH203",
+        "salon": "RHACERV",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -13441,30 +13441,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
-        "profesor": "EDUARDO MENACHE VARELA",
+        "profesor": "MARIA GABRIELA  MAZZUCHINO",
         "creditos": "2",
         "horario": "08:00-09:00",
         "dias": [
-          "MI"
+          "VI"
         ],
-        "salon": "PF108",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "LEN-12721-COMUNIC. ESCRITA PARA REL. INT",
-        "profesor": "EDUARDO MENACHE VARELA",
-        "creditos": "2",
-        "horario": "10:00-11:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "PF104",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:00"
       }
     ]
   },
@@ -13773,14 +13759,14 @@ let clases={
         "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
         "profesor": "",
         "creditos": "2",
-        "horario": "07:30-08:30",
+        "horario": "09:00-10:00",
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
-        "inicio": "07:30",
-        "fin": "08:30"
+        "inicio": "09:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -14075,30 +14061,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
-        "profesor": "EDUARDO MENACHE VARELA",
+        "profesor": "MARIA GABRIELA  MAZZUCHINO",
         "creditos": "2",
         "horario": "08:00-09:00",
         "dias": [
-          "MI"
+          "VI"
         ],
-        "salon": "PF108",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "LEN-16403-COMUNIC. ESCRITA PARA REL. INT",
-        "profesor": "EDUARDO MENACHE VARELA",
-        "creditos": "2",
-        "horario": "10:00-11:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "PF104",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:00"
       }
     ]
   },
@@ -14888,15 +14860,15 @@ let clases={
         "nombre": "MAT-14102-CALCULO DIF. E INT., III",
         "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
         "creditos": "8",
-        "horario": "07:00-09:00",
+        "horario": "11:00-13:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH209",
+        "salon": "RH205",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
+        "inicio": "11:00",
+        "fin": "13:00"
       },
       {
         "grupo": "002",
@@ -16320,7 +16292,7 @@ let clases={
         "grupo": "001",
         "nombre": "SDI-12629-TEORIA ELECTROMAGNETICA",
         "profesor": "ANTE SALCEDO GONZALEZ",
-        "creditos": "8",
+        "creditos": "6",
         "horario": "11:00-12:30",
         "dias": [
           "LU",
@@ -16403,15 +16375,15 @@ let clases={
         "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES",
         "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
         "creditos": "8",
-        "horario": "12:00-13:30",
+        "horario": "12:30-14:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RHSA1",
+        "salon": "RH209",
         "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "13:30"
+        "inicio": "12:30",
+        "fin": "14:00"
       }
     ]
   },
@@ -16587,13 +16559,13 @@ let misProfesData={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.5263,
-    "n": 38
+    "general": 8.5641,
+    "n": 39
   },
-  "OMAR AVILA GARCIA SAGREDO": {
-    "link": "https://www.misprofesores.com/profesores/Omar-\u00c1vila-Garc\u00eda-Sagredo_57486",
-    "general": 7.875,
-    "n": 16
+  "GERMAN SINUHE AYALA FUENTES": {
+    "link": "https://www.misprofesores.com/profesores/Germ\u00e1n-Sinuhe-Ayala-Fuentes_109376",
+    "general": 5.9286,
+    "n": 14
   },
   "MAGDALENA SOFIA BARBA FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Magdalena-Sof\u00eda-Barba-Fern\u00e1ndez_10775",
@@ -16667,8 +16639,8 @@ let misProfesData={
   },
   "MARTA CABO NODAR": {
     "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
-    "general": 4.2716,
-    "n": 81
+    "general": 4.2927,
+    "n": 82
   },
   "MARIANA CALDERON ARAMBURU": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Calder\u00f3n-Aramburu_140257",
@@ -16870,11 +16842,6 @@ let misProfesData={
     "general": 5.9476,
     "n": 210
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4744,
@@ -16982,8 +16949,8 @@ let misProfesData={
   },
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
-    "general": 7.3448,
-    "n": 29
+    "general": 7.3,
+    "n": 30
   },
   "PEDRO ANGEL GARCIA ARES": {
     "link": "https://www.misprofesores.com/profesores/pedro-\u00e1ngel-garc\u00eda-ares_130183",
@@ -17161,9 +17128,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17218,7 +17185,7 @@ let misProfesData={
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
     "general": 8.0,
-    "n": 3
+    "n": 4
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
@@ -17244,11 +17211,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "MARIA ELOISA MARTINEZ PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
-    "general": 6.6,
-    "n": 10
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17290,11 +17252,6 @@ let misProfesData={
     "general": 7.5833,
     "n": 48
   },
-  "EDUARDO MENACHE VARELA": {
-    "link": "https://www.misprofesores.com/profesores/Eduardo-Menache-Varela_94237",
-    "general": 9.5238,
-    "n": 21
-  },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
     "general": 5.7895,
@@ -17322,8 +17279,8 @@ let misProfesData={
   },
   "MIGUEL MESSMACHER LINARTAS": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Messmacher-Linartas_118897",
-    "general": 9.0,
-    "n": 3
+    "general": 8.75,
+    "n": 4
   },
   "FELIPE MEZA GOIZ": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Meza-Goiz_10761",
@@ -17407,8 +17364,8 @@ let misProfesData={
   },
   "MAYRA NU\u00d1EZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
-    "general": 9.3846,
-    "n": 13
+    "general": 9.2857,
+    "n": 14
   },
   "MARGARITA OLMEDO DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Olmedo-de-la-Pe\u00f1a_36749",
@@ -17698,7 +17655,7 @@ let misProfesData={
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
     "general": 10.0,
-    "n": 2
+    "n": 3
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
