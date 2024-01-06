@@ -1,4 +1,4 @@
-let actualizado="1704465323018.8152";
+let actualizado="1704551722798.9863";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -301,41 +301,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
-      }
-    ]
-  },
-  "ACT-22305": {
-    "nombre": "ACT-22305-MATEMATICAS FINANCIERAS I",
-    "clave": "ACT-22305",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ACT-22305-MATEMATICAS FINANCIERAS I",
-        "profesor": "SILVIA CECILIA HERNANDEZ VARGAS",
-        "creditos": "6",
-        "horario": "07:00-10:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "PF101",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "ACT-22305-MATEMATICAS FINANCIERAS I",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "12:30-14:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH112",
-        "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
       }
     ]
   },
@@ -5793,14 +5758,14 @@ let clases={
         "nombre": "DER-11107-TALLER EN BIENES Y DER REALES-LAB",
         "profesor": "MIGUEL ANGEL CASTRO TORRESLANDA",
         "creditos": "2",
-        "horario": "19:00-21:00",
+        "horario": "19:30-21:30",
         "dias": [
           "LU"
         ],
         "salon": "RH111",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "21:00"
+        "inicio": "19:30",
+        "fin": "21:30"
       }
     ]
   },
@@ -7693,14 +7658,14 @@ let clases={
         "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
         "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
         "creditos": "6",
-        "horario": "07:00-10:00",
+        "horario": "11:00-14:00",
         "dias": [
           "LU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH306",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "11:00",
+        "fin": "14:00"
       },
       {
         "grupo": "005",
@@ -7771,14 +7736,14 @@ let clases={
         "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
         "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
         "creditos": "9",
-        "horario": "07:00-10:00",
+        "horario": "11:00-14:00",
         "dias": [
           "LU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH306",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "11:00",
+        "fin": "14:00"
       },
       {
         "grupo": "005",
@@ -7885,6 +7850,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-10516-MICROECONOMETRIA APLICADA",
+        "profesor": "ERNESTO JAVIER CORDERO ARROYO",
+        "creditos": "7",
+        "horario": "10:00-13:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH104",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "13:00"
       }
     ]
   },
@@ -8500,7 +8479,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
-        "profesor": "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+        "profesor": "ABRAHAM EVERARDO VELA DIB",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -8549,7 +8528,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH103",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -9127,6 +9106,27 @@ let clases={
       }
     ]
   },
+  "ECO-19221": {
+    "nombre": "ECO-19221-DISE\u00d1O DE PROY ECO. SOSTENIBLE",
+    "clave": "ECO-19221",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-19221-DISE\u00d1O DE PROY ECO. SOSTENIBLE",
+        "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+        "creditos": "6",
+        "horario": "08:00-10:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHLI2",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "10:30"
+      }
+    ]
+  },
   "ECO-20513": {
     "nombre": "ECO-20513-MICROECONOMETRIA AVANZADA",
     "clave": "ECO-20513",
@@ -9325,6 +9325,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-22105-ECONOMIA V",
+        "profesor": "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
+        "creditos": "8",
+        "horario": "07:00-09:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH103",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -12116,17 +12131,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-14186-ING. DE PROYECTOS SOSTENIBLES",
-        "profesor": "SERGIO ROMERO HERNANDEZ",
+        "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
         "creditos": "6",
-        "horario": "07:00-09:30",
+        "horario": "08:00-10:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RHLI2",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:30"
+        "inicio": "08:00",
+        "fin": "10:30"
       }
     ]
   },
@@ -12543,7 +12558,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "ANA TAMARIT AMIEVA",
+        "profesor": "ALEJANDRA SOLIS GONZALEZ",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -12785,7 +12800,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -12901,6 +12916,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
+      },
+      {
+        "grupo": "012",
+        "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+        "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "PF106",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -12939,7 +12969,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "ANA TAMARIT AMIEVA",
+        "profesor": "ALEJANDRA SOLIS GONZALEZ",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -12967,7 +12997,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "MARCELA RABADAN GALLARDO",
+        "profesor": "MARIA TERESA JIMENEZ ANDREU",
         "creditos": "2",
         "horario": "13:00-14:00",
         "dias": [
@@ -12995,7 +13025,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "MARIA TERESA JIMENEZ ANDREU",
+        "profesor": "ALEJANDRA SOLIS GONZALEZ",
         "creditos": "2",
         "horario": "08:00-09:00",
         "dias": [
@@ -13361,14 +13391,14 @@ let clases={
         "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
         "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "2",
-        "horario": "11:00-12:00",
+        "horario": "12:00-13:00",
         "dias": [
           "MA"
         ],
-        "salon": "RHASHAK",
+        "salon": "PF108",
         "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "12:00"
+        "inicio": "12:00",
+        "fin": "13:00"
       },
       {
         "grupo": "003",
@@ -13387,7 +13417,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+        "profesor": "RAUL ENRIQUE BRAVO ADUNA",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -13819,14 +13849,14 @@ let clases={
         "nombre": "LEN-12765-COM. PROFES. PARA ING. EN MECA",
         "profesor": "",
         "creditos": "2",
-        "horario": "11:00-13:00",
+        "horario": "08:00-09:00",
         "dias": [
           "JU"
         ],
-        "salon": "PF108",
+        "salon": "RH202",
         "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "13:00"
+        "inicio": "08:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -14097,14 +14127,14 @@ let clases={
         "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
         "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "2",
-        "horario": "11:00-12:00",
+        "horario": "12:00-13:00",
         "dias": [
           "MA"
         ],
-        "salon": "RHASHAK",
+        "salon": "PF108",
         "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "12:00"
+        "inicio": "12:00",
+        "fin": "13:00"
       },
       {
         "grupo": "003",
@@ -14123,7 +14153,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
+        "profesor": "RAUL ENRIQUE BRAVO ADUNA",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -16632,6 +16662,11 @@ let misProfesData={
     "general": 9.2667,
     "n": 30
   },
+  "PAULINA BUSTOS ARELLANO": {
+    "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
+    "general": 10.0,
+    "n": 1
+  },
   "JOSE LUIS CABALLERO RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Luis-Caballero-Rodr\u00edguez_129801",
     "general": 10.0,
@@ -16842,6 +16877,11 @@ let misProfesData={
     "general": 5.9476,
     "n": 210
   },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.75,
+    "n": 4
+  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4744,
@@ -17038,9 +17078,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17128,9 +17168,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17172,6 +17212,11 @@ let misProfesData={
     "general": 7.8261,
     "n": 23
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
+  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.5833,
@@ -17211,6 +17256,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17407,6 +17457,11 @@ let misProfesData={
     "general": 8.6508,
     "n": 63
   },
+  "WILMER EFREN PEREIRA GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Wilmer-Efr\u00e9n-Pereira-Gonz\u00e1lez_142587",
+    "general": 10.0,
+    "n": 1
+  },
   "ROXANA PEREZ ARCE VALLE": {
     "link": "https://www.misprofesores.com/profesores/Roxana-Perez-Arce-Valle_80746",
     "general": 7.5,
@@ -17484,13 +17539,8 @@ let misProfesData={
   },
   "JOSE RAMON RIOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
-    "general": 8.125,
-    "n": 16
-  },
-  "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6429,
-    "n": 84
+    "general": 8.2353,
+    "n": 17
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
@@ -17614,8 +17664,8 @@ let misProfesData={
   },
   "LUZ MARIA SILVA ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Silva-Ortiz_10823",
-    "general": 6.9054,
-    "n": 74
+    "general": 6.9467,
+    "n": 75
   },
   "ALBERTO SIMPSER MONDLAK": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
@@ -17648,9 +17698,9 @@ let misProfesData={
     "n": 62
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
