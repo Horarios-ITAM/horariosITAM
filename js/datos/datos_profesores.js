@@ -1,4 +1,4 @@
-let actualizado="1704551722813.024";
+let actualizado="1704638126854.3752";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -2052,8 +2052,8 @@ let profesores={
   },
   "AURELIO VASQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
-    "general": 3.8148,
-    "n": 27,
+    "general": 3.8929,
+    "n": 28,
     "grupos": {
       "ADM-15533-MODELOS FINANCIEROS I": [
         {
@@ -3680,9 +3680,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4598,9 +4595,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5734,9 +5731,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -10263,9 +10257,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -12250,8 +12241,8 @@ let profesores={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.5641,
-    "n": 39,
+    "general": 8.6,
+    "n": 40,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -14843,9 +14834,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17914,13 +17905,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",

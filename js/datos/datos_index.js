@@ -1,4 +1,4 @@
-let actualizado="1704551722798.9863";
+let actualizado="1704638126839.345";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -16542,11 +16542,6 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
     "general": 8.8125,
@@ -16589,8 +16584,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.5641,
-    "n": 39
+    "general": 8.6,
+    "n": 40
   },
   "GERMAN SINUHE AYALA FUENTES": {
     "link": "https://www.misprofesores.com/profesores/Germ\u00e1n-Sinuhe-Ayala-Fuentes_109376",
@@ -17078,9 +17073,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -17212,11 +17207,6 @@ let misProfesData={
     "general": 7.8261,
     "n": 23
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42
-  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.5833,
@@ -17256,11 +17246,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -17698,9 +17683,9 @@ let misProfesData={
     "n": 62
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 7.5,
+    "n": 4
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -17769,8 +17754,8 @@ let misProfesData={
   },
   "AURELIO VASQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Aurelio-Vasquez_35317",
-    "general": 3.8148,
-    "n": 27
+    "general": 3.8929,
+    "n": 28
   },
   "BRUNO VELAZQUEZ DELGADO": {
     "link": "https://www.misprofesores.com/profesores/Bruno-Velazquez-Delgado_74531",
