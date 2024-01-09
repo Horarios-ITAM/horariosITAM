@@ -1,4 +1,4 @@
-let actualizado="1704724603694.7043";
+let actualizado="1704810989705.126";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -1009,8 +1009,8 @@ let profesores={
   },
   "JULIANA GUDI\u00d1O ANTILLON": {
     "link": "https://www.misprofesores.com/profesores/Juliana-Gudi\u00f1o-Antill\u00f3n_10720",
-    "general": 7.3462,
-    "n": 52,
+    "general": 7.283,
+    "n": 53,
     "grupos": {
       "ADM-12301-TOPICOS DE NEGOCIOS I": [
         {
@@ -2347,6 +2347,9 @@ let profesores={
     }
   },
   "MARION TANGASSI URBY": {
+    "link": "https://www.misprofesores.com/profesores/MARION-TANGASSI-URBY_172187",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "ADM-16602-MERCADOTECNIA, II": [
         {
@@ -2696,6 +2699,22 @@ let profesores={
           "fin": "20:30"
         }
       ],
+      "CSO-17042-METODOL. POL. AVANZADA": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-17042-METODOL. POL. AVANZADA",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "10:00-13:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ],
       "ECO-14501-ECONOMIA DE LA EMPRESA": [
         {
           "grupo": "001",
@@ -2902,14 +2921,14 @@ let profesores={
           "nombre": "LEN-12765-COM. PROFES. PARA ING. EN MECA",
           "profesor": "",
           "creditos": "2",
-          "horario": "08:00-09:00",
+          "horario": "09:00-10:00",
           "dias": [
             "JU"
           ],
           "salon": "RH202",
           "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ],
       "LEN-12767-COM. PROFES. PARA ING. INDUS.": [
@@ -3429,8 +3448,8 @@ let profesores={
   },
   "RAFAEL GREGORIO GAMBOA HIRALES": {
     "link": "https://www.misprofesores.com/profesores/Rafael-Gregorio-Gamboa-Hirales_10855",
-    "general": 7.1852,
-    "n": 27,
+    "general": 7.1786,
+    "n": 28,
     "grupos": {
       "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS-LAB": [
         {
@@ -4322,9 +4341,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5731,9 +5747,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -6097,26 +6110,6 @@ let profesores={
       ]
     }
   },
-  "JUAN CARLOS CAMPOS": {
-    "grupos": {
-      "CSO-17042-METODOL. POL. AVANZADA": [
-        {
-          "grupo": "001",
-          "nombre": "CSO-17042-METODOL. POL. AVANZADA",
-          "profesor": "JUAN CARLOS CAMPOS",
-          "creditos": "9",
-          "horario": "10:00-13:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHCC202",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
   "MARCOS PERAFAN GOMEZ": {
     "grupos": {
       "DER-10003-INST. DE DERECHO PUB. MEX.,I": [
@@ -6155,8 +6148,8 @@ let profesores={
   },
   "HANNAH BIRKENKOTTER": {
     "link": "https://www.misprofesores.com/profesores/Hannah-Birkenkotter_169901",
-    "general": 6.0,
-    "n": 1,
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "DER-10005-DER. INTERNACIONAL PUBLICO,I": [
         {
@@ -6420,8 +6413,8 @@ let profesores={
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.8333,
-    "n": 6,
+    "general": 9.8571,
+    "n": 7,
     "grupos": {
       "DER-10015-DERECHO EMPRESARIAL": [
         {
@@ -7531,8 +7524,8 @@ let profesores={
   },
   "IRVIN ARTURO CASTILLO CESAREO": {
     "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
-    "general": 9.6,
-    "n": 5,
+    "general": 9.7143,
+    "n": 7,
     "grupos": {
       "DER-13203-NEGOCIO JURIDICO Y PERSONAS": [
         {
@@ -9173,6 +9166,9 @@ let profesores={
     }
   },
   "DAVID LAMB DE VALDES": {
+    "link": "https://www.misprofesores.com/profesores/David-Lamb-de-Valdes_171622",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11101-ECONOMIA, I": [
         {
@@ -9728,6 +9724,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -9891,8 +9890,8 @@ let profesores={
   },
   "JAIME DAVID CAMPOSECO PAULSEN": {
     "link": "https://www.misprofesores.com/profesores/Jaime-David-Camposeco-Paulsen_67019",
-    "general": 7.1724,
-    "n": 29,
+    "general": 7.1667,
+    "n": 30,
     "grupos": {
       "ECO-12201-TEORIA Y POLITICA MONETARIA": [
         {
@@ -10257,6 +10256,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -10518,8 +10520,8 @@ let profesores={
   },
   "VALERIA ZEPEDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",
-    "general": 8.21,
-    "n": 100,
+    "general": 8.2277,
+    "n": 101,
     "grupos": {
       "EGN-11163-NEW HISTORIC PERSPECT. OF MEX.": [
         {
@@ -11938,8 +11940,8 @@ let profesores={
   },
   "PABLO KALMANOVITZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Kalmanovitz-Gonz\u00e1lez_153830",
-    "general": 9.5,
-    "n": 2,
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "EIN-12201-HIST. DE LAS RELACS. INTER. I": [
         {
@@ -12334,8 +12336,8 @@ let profesores={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 5.4444,
-    "n": 9,
+    "general": 5.1,
+    "n": 10,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -16015,8 +16017,8 @@ let profesores={
   },
   "FERNANDO CORNEJO MONTA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo-Monta\u00f1o_67406",
-    "general": 7.6056,
-    "n": 71,
+    "general": 7.625,
+    "n": 72,
     "grupos": {
       "MAT-12102-CALCULO, III": [
         {
@@ -16955,14 +16957,14 @@ let profesores={
           "nombre": "MAT-24431-OPTIMIZACION NUMERICA, I",
           "profesor": "ZEFERINO PARADA GARCIA",
           "creditos": "8",
-          "horario": "10:00-12:00",
+          "horario": "18:00-20:00",
           "dias": [
             "LU"
           ],
-          "salon": "RH313",
+          "salon": "RH311",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -17864,7 +17866,7 @@ let mejoresPorDepto={
     "PEDRO ANGEL GARCIA ARES",
     "JANKO HERNANDEZ CORTES",
     "JUAN JOSE FERNANDEZ DURAN",
-    "CARLOS GONZALEZ HERNANDEZ"
+    "MARION TANGASSI URBY"
   ],
   "CTRO DE ESTUDIO DEL BIENESTAR": [
     "MARGARITA TARRAGONA SAEZ"
@@ -17908,13 +17910,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -17929,6 +17931,7 @@ let mejoresPorDepto={
     "CARLOS EDUARDO SCHLESKE JUAREZ"
   ],
   "ECONOMIA": [
+    "DAVID LAMB DE VALDES",
     "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -17937,8 +17940,7 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
     "CHRISTIANE FABREGA CHIMALI",
-    "MIGUEL MESSMACHER LINARTAS",
-    "ARTURO ALBERTO AGUILAR ESTEVA"
+    "MIGUEL MESSMACHER LINARTAS"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
