@@ -1,4 +1,4 @@
-let actualizado="1704810989705.126";
+let actualizado="1704897397352.1865";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -2593,11 +2593,17 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
-        },
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "CLE-10202-INGLES AVANZADO-LAB": [
         {
           "grupo": "002L",
           "nombre": "CLE-10202-INGLES AVANZADO-LAB",
-          "profesor": "MARIA GRACE  NOBILE",
+          "profesor": "",
           "creditos": "4",
           "horario": "16:00-18:00",
           "dias": [
@@ -2609,11 +2615,7 @@ let profesores={
           "inicio": "16:00",
           "fin": "18:00"
         }
-      ]
-    }
-  },
-  "": {
-    "grupos": {
+      ],
       "CLE-10251-INGLES TOEFL-LAB": [
         {
           "grupo": "001L",
@@ -2697,22 +2699,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
-        }
-      ],
-      "CSO-17042-METODOL. POL. AVANZADA": [
-        {
-          "grupo": "001",
-          "nombre": "CSO-17042-METODOL. POL. AVANZADA",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "10:00-13:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHCC202",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
         }
       ],
       "ECO-14501-ECONOMIA DE LA EMPRESA": [
@@ -3094,7 +3080,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "16:30",
           "fin": "17:00"
@@ -3111,7 +3097,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "15:00",
           "fin": "16:30"
@@ -3555,8 +3541,8 @@ let profesores={
   },
   "CARLOS FERNANDO ESPONDA DARLINGTON": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Fernando-Esponda-Darlington_10851",
-    "general": 7.8,
-    "n": 25,
+    "general": 7.7692,
+    "n": 26,
     "grupos": {
       "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS-LAB": [
         {
@@ -3699,6 +3685,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4081,8 +4070,8 @@ let profesores={
   },
   "CARLOS EMILIO GALINDO FLORES": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
-    "general": 7.6667,
-    "n": 60,
+    "general": 7.6066,
+    "n": 61,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -4341,6 +4330,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.75,
+    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4611,9 +4603,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5056,8 +5048,8 @@ let profesores={
   },
   "ELIZABETH GEORGINA URRUTIA LEZAMA": {
     "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
-    "general": 7.4242,
-    "n": 33,
+    "general": 7.4412,
+    "n": 34,
     "grupos": {
       "CON-10100-CONTABILIDAD, I": [
         {
@@ -5747,6 +5739,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -6105,6 +6100,26 @@ let profesores={
           "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "ALMA LILIA JUAREZ ARMENTA": {
+    "grupos": {
+      "CSO-17042-METODOL. POL. AVANZADA": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-17042-METODOL. POL. AVANZADA",
+          "profesor": "ALMA LILIA JUAREZ ARMENTA",
+          "creditos": "9",
+          "horario": "10:00-13:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
           "fin": "13:00"
         }
       ]
@@ -8633,8 +8648,8 @@ let profesores={
   },
   "DANIEL ISAAC CHIQUIAR CIKUREL": {
     "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
-    "general": 9.0,
-    "n": 1,
+    "general": 8.0,
+    "n": 3,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
@@ -10071,8 +10086,8 @@ let profesores={
   },
   "ARTURO RAMIREZ VERDUGO": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
-    "general": 7.4516,
-    "n": 31,
+    "general": 7.5,
+    "n": 32,
     "grupos": {
       "ECO-15101-FINANZAS PUBLICAS": [
         {
@@ -10520,8 +10535,8 @@ let profesores={
   },
   "VALERIA ZEPEDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",
-    "general": 8.2277,
-    "n": 101,
+    "general": 8.2353,
+    "n": 102,
     "grupos": {
       "EGN-11163-NEW HISTORIC PERSPECT. OF MEX.": [
         {
@@ -10561,8 +10576,8 @@ let profesores={
   },
   "ROBERTO ZOCCO": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Zocco-Pasimeni_35000",
-    "general": 8.9196,
-    "n": 112,
+    "general": 8.9292,
+    "n": 113,
     "grupos": {
       "EGN-11164-EL ARTE DE VIVIR": [
         {
@@ -11106,8 +11121,8 @@ let profesores={
   },
   "BRUNO VELAZQUEZ DELGADO": {
     "link": "https://www.misprofesores.com/profesores/Bruno-Velazquez-Delgado_74531",
-    "general": 7.7636,
-    "n": 55,
+    "general": 7.8036,
+    "n": 56,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11130,9 +11145,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6429,
-    "n": 84,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11456,8 +11468,8 @@ let profesores={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2597,
-    "n": 181,
+    "general": 8.2692,
+    "n": 182,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14477,8 +14489,8 @@ let profesores={
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
-    "general": 4.5833,
-    "n": 12,
+    "general": 4.3846,
+    "n": 13,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -14782,7 +14794,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RHASHAK",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -14839,9 +14851,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 7.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -14862,9 +14874,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15244,7 +15256,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:00"
@@ -16874,8 +16886,8 @@ let profesores={
   },
   "MARTA CABO NODAR": {
     "link": "https://www.misprofesores.com/profesores/Marta-Cabo-Nodar_22725",
-    "general": 4.2927,
-    "n": 82,
+    "general": 4.3133,
+    "n": 83,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -17910,13 +17922,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO",
-    "PETER MATTHEW  HILLS"
+    "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -17936,11 +17948,11 @@ let mejoresPorDepto={
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
-    "DANIEL ISAAC CHIQUIAR CIKUREL",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
     "CHRISTIANE FABREGA CHIMALI",
-    "MIGUEL MESSMACHER LINARTAS"
+    "MIGUEL MESSMACHER LINARTAS",
+    "ARTURO ALBERTO AGUILAR ESTEVA"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -17997,10 +18009,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "JORGE NEME SANCHEZ",
-    "LUCIA PI CHOLULA",
-    "ANA TAMARIT AMIEVA"
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "LYSETTE FELIX FELIX",
