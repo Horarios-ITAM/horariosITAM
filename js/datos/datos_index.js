@@ -1,4 +1,4 @@
-let actualizado="1705070167323.7742";
+let actualizado="1705156520170.861";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -133,7 +133,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -985,7 +985,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
-        "profesor": "",
+        "profesor": "MARGARET KATHRYN  SLOAN",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -2078,26 +2078,6 @@ let clases={
       }
     ]
   },
-  "CLE-10103": {
-    "nombre": "CLE-10103-REDACCION AVANZADA",
-    "clave": "CLE-10103",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CLE-10103-REDACCION AVANZADA",
-        "profesor": "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-        "creditos": "4",
-        "horario": "19:00-21:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "RHCUBIC",
-        "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "21:00"
-      }
-    ]
-  },
   "CLE-10201-LAB": {
     "nombre": "CLE-10201-INGLES INTENSIVO-LAB",
     "clave": "CLE-10201",
@@ -2148,32 +2128,6 @@ let clases={
   "CLE-10202": {
     "nombre": "CLE-10202-INGLES AVANZADO",
     "clave": "CLE-10202",
-    "grupos": []
-  },
-  "CLE-10311-LAB": {
-    "nombre": "CLE-10311-FRANCES, I-LAB",
-    "clave": "CLE-10311",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "CLE-10311-FRANCES, I-LAB",
-        "profesor": "TOUFIK CHAIBAT",
-        "creditos": "4",
-        "horario": "12:00-14:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH211",
-        "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "14:00"
-      }
-    ]
-  },
-  "CLE-10311": {
-    "nombre": "CLE-10311-FRANCES, I",
-    "clave": "CLE-10311",
     "grupos": []
   },
   "CLE-10516-LAB": {
@@ -3978,7 +3932,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHSA3",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -5993,6 +5947,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-13504-CONTRATOS",
+        "profesor": "GUILLERMO CARRANCO ROMERO",
+        "creditos": "8",
+        "horario": "19:00-21:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHSA4",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -7092,7 +7061,7 @@ let clases={
         "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
         "profesor": "FELIPE MEZA GOIZ",
         "creditos": "6",
-        "horario": "09:30-11:30",
+        "horario": "09:30-11:00",
         "dias": [
           "LU",
           "MI"
@@ -7100,7 +7069,7 @@ let clases={
         "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "09:30",
-        "fin": "11:30"
+        "fin": "11:00"
       },
       {
         "grupo": "003",
@@ -8169,7 +8138,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF105",
+        "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -8184,7 +8153,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -10151,27 +10120,6 @@ let clases={
       }
     ]
   },
-  "EIN-19315": {
-    "nombre": "EIN-19315-MIGRACION INTERNACIONAL (OP)",
-    "clave": "EIN-19315",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "EIN-19315-MIGRACION INTERNACIONAL (OP)",
-        "profesor": "JAIME RUIZ DE SANTIAGO Y SIERRA",
-        "creditos": "6",
-        "horario": "10:00-11:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH107",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
-      }
-    ]
-  },
   "EIN-19317": {
     "nombre": "EIN-19317-RELACIONES CONTEMPORA.MEX-E.U.",
     "clave": "EIN-19317",
@@ -10877,6 +10825,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "EST-24104-ESTADISTICA APLICADA, I",
+        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
+        "creditos": "6",
+        "horario": "08:30-10:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH313",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -11470,7 +11433,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
-        "profesor": "JOSE ALFREDO LOPEZ OLVERA",
+        "profesor": "EVA MARIA DE JESUS MARTINEZ AHUMADA",
         "creditos": "11",
         "horario": "08:00-11:00",
         "dias": [
@@ -11504,7 +11467,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA",
-        "profesor": "JOSE ALFREDO LOPEZ OLVERA",
+        "profesor": "EVA MARIA DE JESUS MARTINEZ AHUMADA",
         "creditos": "11",
         "horario": "12:00-14:00",
         "dias": [
@@ -11519,7 +11482,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA",
-        "profesor": "JOSE ALFREDO LOPEZ OLVERA",
+        "profesor": "EVA MARIA DE JESUS MARTINEZ AHUMADA",
         "creditos": "11",
         "horario": "12:00-14:00",
         "dias": [
@@ -11799,7 +11762,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "GABRIEL ASTEY WOOD",
+        "profesor": "MARIA GABRIELA  MAZZUCHINO",
         "creditos": "2",
         "horario": "13:00-14:00",
         "dias": [
@@ -11827,7 +11790,7 @@ let clases={
       {
         "grupo": "013",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
+        "profesor": "MARCELA RABADAN GALLARDO",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -11841,7 +11804,7 @@ let clases={
       {
         "grupo": "015",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "2",
         "horario": "09:00-10:00",
         "dias": [
@@ -12146,7 +12109,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "GABRIEL ASTEY WOOD",
+        "profesor": "MARIA GABRIELA  MAZZUCHINO",
         "creditos": "2",
         "horario": "13:00-14:00",
         "dias": [
@@ -12188,7 +12151,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "LUCIA PI CHOLULA",
+        "profesor": "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
         "creditos": "2",
         "horario": "17:00-18:00",
         "dias": [
@@ -12230,7 +12193,7 @@ let clases={
       {
         "grupo": "013",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "MANUEL ADRIAN CHAVEZ PEREZ",
+        "profesor": "MARCELA RABADAN GALLARDO",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -12258,7 +12221,7 @@ let clases={
       {
         "grupo": "015",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+        "profesor": "SANDRA LORENA VILLALOBOS OROZCO",
         "creditos": "2",
         "horario": "09:00-10:00",
         "dias": [
@@ -12272,7 +12235,7 @@ let clases={
       {
         "grupo": "016",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+        "profesor": "ALEJANDRA SOLIS GONZALEZ",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -12510,7 +12473,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-        "profesor": "RAUL ENRIQUE BRAVO ADUNA",
+        "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -12854,7 +12817,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-        "profesor": "",
+        "profesor": "MARIA LUISA DIAZ DE LEON RASCON",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -12955,26 +12918,6 @@ let clases={
       }
     ]
   },
-  "LEN-12764": {
-    "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-    "clave": "LEN-12764",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-        "profesor": "EDUARDO PORTAS RUIZ",
-        "creditos": "2",
-        "horario": "09:00-10:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "RHCUBIC",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "10:00"
-      }
-    ]
-  },
   "LEN-12765": {
     "nombre": "LEN-12765-COM. PROFES. PARA ING. EN MECA",
     "clave": "LEN-12765",
@@ -13027,20 +12970,6 @@ let clases={
         "horario": "08:30-09:30",
         "dias": [
           "MA"
-        ],
-        "salon": "PF108",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "09:30"
-      },
-      {
-        "grupo": "002",
-        "nombre": "LEN-13101-COMUNICAC. ESCRITA PARA ADMON.",
-        "profesor": "",
-        "creditos": "2",
-        "horario": "08:30-09:30",
-        "dias": [
-          "JU"
         ],
         "salon": "PF108",
         "campus": "RIO HONDO",
@@ -13268,7 +13197,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-        "profesor": "RAUL ENRIQUE BRAVO ADUNA",
+        "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -13549,7 +13478,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "MAT-12100-CALCULO I",
-        "profesor": "",
+        "profesor": "PABLO CASTA\u00d1EDA RIVERA",
         "creditos": "9",
         "horario": "11:30-13:00",
         "dias": [
@@ -13625,7 +13554,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-12102-CALCULO, III",
-        "profesor": "",
+        "profesor": "ANGEL PEREZ JUAREZ",
         "creditos": "9",
         "horario": "07:00-08:30",
         "dias": [
@@ -13673,7 +13602,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "MAT-12102-CALCULO, III",
-        "profesor": "",
+        "profesor": "JORGE MONROY JIMENEZ",
         "creditos": "9",
         "horario": "16:00-17:30",
         "dias": [
@@ -15093,7 +15022,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
-        "profesor": "",
+        "profesor": "MARIA OFELIA RODRIGUEZ DURAN",
         "creditos": "10",
         "horario": "07:00-09:00",
         "dias": [
@@ -15114,20 +15043,6 @@ let clases={
           "JU"
         ],
         "salon": "RHLFIEL",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
-      },
-      {
-        "grupo": "003L",
-        "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
-        "profesor": "MARIA OFELIA RODRIGUEZ DURAN",
-        "creditos": "10",
-        "horario": "09:00-11:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "RHLSIST",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -15155,21 +15070,6 @@ let clases={
       },
       {
         "grupo": "002",
-        "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
-        "profesor": "RAFAEL CISNEROS MONTOYA",
-        "creditos": "10",
-        "horario": "16:00-18:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RHSA3",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "18:00"
-      },
-      {
-        "grupo": "003",
         "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
         "profesor": "RAFAEL CISNEROS MONTOYA",
         "creditos": "10",
@@ -15642,6 +15542,11 @@ let misProfesData={
     "general": 8.3333,
     "n": 3
   },
+  "GUILLERMO CARRANCO ROMERO": {
+    "link": "https://www.misprofesores.com/profesores/Guillermo-Carranco-Romero_50321",
+    "general": 8.7917,
+    "n": 24
+  },
   "LUZ DEL CARMEN CARRILLO CAREAGA": {
     "link": "https://www.misprofesores.com/profesores/Luz-del-Carmen-Carrillo-Careaga_70187",
     "general": 7.4167,
@@ -15669,18 +15574,13 @@ let misProfesData={
   },
   "JORGE ARTURO CERDIO HERRAN": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Arturo-Cerdio-Herr\u00e1n_10792",
-    "general": 6.9386,
-    "n": 114
+    "general": 6.9565,
+    "n": 115
   },
   "RODRIGO CHACON AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Chac\u00f3n-Aguirre_78222",
     "general": 8.4,
     "n": 25
-  },
-  "TOUFIK CHAIBAT": {
-    "link": "https://www.misprofesores.com/profesores/Toufik-Chaibat_90020",
-    "general": 9.7,
-    "n": 10
   },
   "ANA SOFIA CHARVEL OROZCO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Sof\u00eda-Charvel-Orozco_10791",
@@ -15952,11 +15852,6 @@ let misProfesData={
     "general": 6.8824,
     "n": 17
   },
-  "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29
-  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.4651,
@@ -16117,6 +16012,11 @@ let misProfesData={
     "general": 7.8261,
     "n": 23
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
+  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.3846,
@@ -16151,6 +16051,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -16209,8 +16114,8 @@ let misProfesData={
   },
   "MIROSLAVA MENDOZA VIDAL": {
     "link": "https://www.misprofesores.com/profesores/Miroslava-Mendoza-Vidal_30732",
-    "general": 8.6429,
-    "n": 14
+    "general": 8.7333,
+    "n": 15
   },
   "MARIA CRUZ MERINO SANZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cruz-Merino-Sanz_10744",
@@ -16279,8 +16184,8 @@ let misProfesData={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 7.925,
-    "n": 40
+    "general": 7.9756,
+    "n": 41
   },
   "DAVID FERNANDO MU\u00d1OZ NEGRON": {
     "link": "https://www.misprofesores.com/profesores/David-Fernando-Mu\u00f1oz-Negr\u00f3n_10865",
@@ -16329,8 +16234,8 @@ let misProfesData={
   },
   "ALFONSO PASAPERA MORA": {
     "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
-    "general": 7.8182,
-    "n": 66
+    "general": 7.791,
+    "n": 67
   },
   "JOSE GUILLERMO PASTOR JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Guillermo-Pastor-Jim\u00e9nez_10716",
