@@ -1,4 +1,4 @@
-let actualizado="1705329392274.333";
+let actualizado="1705415790846.3035";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -21,7 +21,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH212",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:30"
@@ -4498,7 +4498,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHB-2",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -4566,13 +4566,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "DANIEL ADRIAN GUADARRAMA CUNA": {
     "grupos": {
       "CON-15002-IMPUESTOS CORPORATIVOS, II": [
         {
           "grupo": "003",
           "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
-          "profesor": "",
+          "profesor": "DANIEL ADRIAN GUADARRAMA CUNA",
           "creditos": "6",
           "horario": "07:00-10:00",
           "dias": [
@@ -4582,84 +4582,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ],
-      "EIN-11101-INT. A LAS R. INTERNACIONALES-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES-LAB",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "12:00-13:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "19:00-21:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
-        }
-      ],
-      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
-        {
-          "grupo": "003",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH211",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH203",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
-      "LEN-12759-COMUNIC. PROFES. PARA MAT. APL": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12759-COMUNIC. PROFES. PARA MAT. APL",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "13:00-14:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH204",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
         }
       ]
     }
@@ -7656,7 +7578,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA1",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -7756,10 +7678,9 @@ let profesores={
           "creditos": "6",
           "horario": "09:30-11:00",
           "dias": [
-            "LU",
             "MI"
           ],
-          "salon": "RHSA2",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "09:30",
           "fin": "11:00"
@@ -7773,7 +7694,6 @@ let profesores={
           "creditos": "9",
           "horario": "09:30-11:00",
           "dias": [
-            "LU",
             "MI"
           ],
           "salon": "RHSA2",
@@ -11045,6 +10965,56 @@ let profesores={
       ]
     }
   },
+  "": {
+    "grupos": {
+      "EIN-11101-INT. A LAS R. INTERNACIONALES-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES-LAB",
+          "profesor": "",
+          "creditos": "7",
+          "horario": "12:00-13:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH211",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ]
+    }
+  },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
     "general": 8.3636,
@@ -14177,6 +14147,40 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
+          "profesor": "GABRIELA MEDINA HERNANDEZ",
+          "creditos": "2",
+          "horario": "07:00-09:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "ISRAEL ALVAREZ MACIAS": {
+    "grupos": {
+      "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
+          "profesor": "ISRAEL ALVAREZ MACIAS",
+          "creditos": "2",
+          "horario": "19:00-21:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
         }
       ]
     }
@@ -14294,6 +14298,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
+        }
+      ]
+    }
+  },
+  "ALEXANDRA LEMUS RODRIGUEZ": {
+    "grupos": {
+      "LEN-12759-COMUNIC. PROFES. PARA MAT. APL": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12759-COMUNIC. PROFES. PARA MAT. APL",
+          "profesor": "ALEXANDRA LEMUS RODRIGUEZ",
+          "creditos": "2",
+          "horario": "13:00-14:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH204",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
         }
       ]
     }
@@ -16009,7 +16033,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH309",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "18:30",
           "fin": "20:00"
@@ -16043,7 +16067,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH309",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "18:30",
           "fin": "20:00"
@@ -16462,7 +16486,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA3",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -16477,7 +16501,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA3",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -16762,11 +16786,11 @@ let mejoresPorDepto={
     "ISABEL FLORES ALCAZAR",
     "NATALIA SALTALAMACCHIA ZICCARDI",
     "GABRIEL GOODLIFFE",
+    "",
     "ATHANASIOS  HRISTOULAS",
     "GISELA ADRIANA CARMONA RODRIGUEZ",
     "RODRIGO PE\u00d1A GONZALEZ",
-    "ALLERT RAGNAR BROWN GORT",
-    "FILIBERTO VICTOR KERBER PALMA"
+    "ALLERT RAGNAR BROWN GORT"
   ],
   "ESTADISTICA": [
     "GUSTAVO ALVAREZ PELAEZ",

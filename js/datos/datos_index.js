@@ -1,4 +1,4 @@
-let actualizado="1705329392259.9407";
+let actualizado="1705415790831.1294";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -19,7 +19,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH212",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:30"
@@ -3932,7 +3932,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHB-2",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -3988,7 +3988,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
-        "profesor": "",
+        "profesor": "DANIEL ADRIAN GUADARRAMA CUNA",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -7016,7 +7016,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHSA1",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -7063,10 +7063,9 @@ let clases={
         "creditos": "6",
         "horario": "09:30-11:00",
         "dias": [
-          "LU",
           "MI"
         ],
-        "salon": "RHSA2",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "09:30",
         "fin": "11:00"
@@ -7141,7 +7140,6 @@ let clases={
         "creditos": "9",
         "horario": "09:30-11:00",
         "dias": [
-          "LU",
           "MI"
         ],
         "salon": "RHSA2",
@@ -12689,7 +12687,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
-        "profesor": "",
+        "profesor": "ISRAEL ALVAREZ MACIAS",
         "creditos": "2",
         "horario": "19:00-21:00",
         "dias": [
@@ -12699,6 +12697,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
+        "profesor": "GABRIELA MEDINA HERNANDEZ",
+        "creditos": "2",
+        "horario": "07:00-09:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "PF107",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -12865,7 +12877,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12759-COMUNIC. PROFES. PARA MAT. APL",
-        "profesor": "",
+        "profesor": "ALEXANDRA LEMUS RODRIGUEZ",
         "creditos": "2",
         "horario": "13:00-14:00",
         "dias": [
@@ -14360,7 +14372,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH309",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "18:30",
         "fin": "20:00"
@@ -14477,7 +14489,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH309",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "18:30",
         "fin": "20:00"
@@ -15063,7 +15075,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA3",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -15078,7 +15090,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA3",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
