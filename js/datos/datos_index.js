@@ -1,4 +1,4 @@
-let actualizado="1705415790831.1294";
+let actualizado="1705502148622.5781";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -76,7 +76,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH307",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -3411,7 +3411,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH301",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -15704,11 +15704,6 @@ let misProfesData={
     "general": 5.9476,
     "n": 210
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4744,
@@ -15905,9 +15900,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -16029,15 +16024,10 @@ let misProfesData={
     "general": 7.8261,
     "n": 23
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42
-  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
-    "general": 4.3846,
-    "n": 13
+    "general": 4.4286,
+    "n": 14
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
@@ -16068,11 +16058,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -16349,6 +16334,11 @@ let misProfesData={
     "general": 8.2353,
     "n": 17
   },
+  "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6628,
+    "n": 86
+  },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
     "general": 7.7222,
@@ -16501,8 +16491,8 @@ let misProfesData={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.2097,
-    "n": 62
+    "general": 8.2222,
+    "n": 63
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -16601,8 +16591,8 @@ let misProfesData={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2787,
-    "n": 183
+    "general": 8.288,
+    "n": 184
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",

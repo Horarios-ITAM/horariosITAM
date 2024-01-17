@@ -1,4 +1,4 @@
-let actualizado="1705415790846.3035";
+let actualizado="1705502148636.566";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -127,7 +127,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH307",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -2947,9 +2947,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3559,9 +3556,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -3810,9 +3804,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -3842,7 +3836,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH301",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
@@ -4907,9 +4901,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -10184,6 +10175,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6628,
+    "n": 86,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -10207,8 +10201,8 @@ let profesores={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.2097,
-    "n": 62,
+    "general": 8.2222,
+    "n": 63,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -10507,8 +10501,8 @@ let profesores={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2787,
-    "n": 183,
+    "general": 8.288,
+    "n": 184,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -13490,8 +13484,8 @@ let profesores={
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
-    "general": 4.3846,
-    "n": 13,
+    "general": 4.4286,
+    "n": 14,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16736,13 +16730,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
