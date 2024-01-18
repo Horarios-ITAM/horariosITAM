@@ -1,4 +1,4 @@
-let actualizado="1705502148636.566";
+let actualizado="1705588576907.6113";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -38,7 +38,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH212",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "21:00"
@@ -498,8 +498,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9498,
-    "n": 279,
+    "general": 4.9502,
+    "n": 281,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -1565,8 +1565,8 @@ let profesores={
   },
   "FRANCO ZECCHETTO TOLEDO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
-    "general": 7.4615,
-    "n": 13,
+    "general": 7.5,
+    "n": 14,
     "grupos": {
       "ADM-15507-FUNDAMENTOS DE FINANZAS": [
         {
@@ -1812,8 +1812,8 @@ let profesores={
   },
   "JOSE MARIA BARRERO SANCLEMENTE": {
     "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
-    "general": 6.75,
-    "n": 16,
+    "general": 6.7647,
+    "n": 17,
     "grupos": {
       "ADM-15532-FINANZAS CORPORATIVAS": [
         {
@@ -2124,7 +2124,7 @@ let profesores={
   "JOSE JAVIER MEDRANO PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
     "general": 9.0,
-    "n": 3,
+    "n": 4,
     "grupos": {
       "ADM-16603-MERCADOTECNIA.,III": [
         {
@@ -2947,6 +2947,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3556,6 +3559,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.75,
+    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -3804,9 +3810,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -4003,8 +4009,8 @@ let profesores={
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
-    "general": 8.4026,
-    "n": 77,
+    "general": 8.4231,
+    "n": 78,
     "grupos": {
       "CON-10003-CONTABILIDAD INTERMEDIA, II": [
         {
@@ -4901,6 +4907,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -5520,8 +5529,8 @@ let profesores={
   },
   "MARIANA CALDERON ARAMBURU": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Calder\u00f3n-Aramburu_140257",
-    "general": 7.0,
-    "n": 3,
+    "general": 7.75,
+    "n": 4,
     "grupos": {
       "DER-10011-REGIMEN FISCAL MEXICANO (CP)": [
         {
@@ -6455,15 +6464,14 @@ let profesores={
           "nombre": "DER-12202-HISTORIA DEL DERECHO MEXICANO",
           "profesor": "LUIS REY RAIGOSA SOTELO",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "16:00-19:00",
           "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
           "salon": "RHSA4",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "16:00",
+          "fin": "19:00"
         }
       ]
     }
@@ -10175,9 +10183,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6628,
-    "n": 86,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -10820,8 +10825,8 @@ let profesores={
   },
   "LUZ MARIA SILVA ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Silva-Ortiz_10823",
-    "general": 6.9467,
-    "n": 75,
+    "general": 6.9868,
+    "n": 76,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -11554,8 +11559,8 @@ let profesores={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.16,
-    "n": 25,
+    "general": 7.1538,
+    "n": 26,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -16730,13 +16735,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO",
-    "PETER MATTHEW  HILLS"
+    "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
