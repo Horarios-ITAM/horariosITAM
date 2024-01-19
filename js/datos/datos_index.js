@@ -1,4 +1,4 @@
-let actualizado="1705588576893.6401";
+let actualizado="1705674973051.64";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -115,6 +115,26 @@ let clases={
         "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "19:30",
+        "fin": "21:00"
+      }
+    ]
+  },
+  "ACT-11304": {
+    "nombre": "ACT-11304-MODELOS ACTUARIALES.,II",
+    "clave": "ACT-11304",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ACT-11304-MODELOS ACTUARIALES.,II",
+        "profesor": "DAVID RUELAS RODRIGUEZ",
+        "creditos": "6",
+        "horario": "18:00-21:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH202",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
         "fin": "21:00"
       }
     ]
@@ -298,6 +318,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ACT-25354-ADMON. CUANTITATIVA DE RIESGOS",
+        "profesor": "LEONARDO ROJAS NANDAYAPA",
+        "creditos": "6",
+        "horario": "18:00-21:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH201",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "21:00"
       },
       {
         "grupo": "003",
@@ -10909,6 +10943,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "EST-24106-ESTADISTICA APLICADA, III",
+        "profesor": "LEONARDO ROJAS NANDAYAPA",
+        "creditos": "6",
+        "horario": "18:00-21:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH201",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -11182,6 +11230,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:30",
         "fin": "12:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "EST-25146-ECONOMET. FINANCIERA ACTUARIAL",
+        "profesor": "DAVID RUELAS RODRIGUEZ",
+        "creditos": "6",
+        "horario": "18:00-21:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH202",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -12842,7 +12904,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-        "profesor": "",
+        "profesor": "ALEJANDRA CESAR GIL",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -12856,7 +12918,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-        "profesor": "",
+        "profesor": "OCTAVIO ORTEGA VELIO MEJIA",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -13589,7 +13651,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH313",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:30"
@@ -15863,11 +15925,6 @@ let misProfesData={
     "general": 6.8824,
     "n": 17
   },
-  "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29
-  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.4651,
@@ -15904,9 +15961,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -16067,11 +16124,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -16347,6 +16399,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
     "general": 8.2353,
     "n": 17
+  },
+  "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6628,
+    "n": 86
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
