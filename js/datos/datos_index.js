@@ -1,4 +1,4 @@
-let actualizado="1705674973051.64";
+let actualizado="1705761332537.4084";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -4826,7 +4826,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH111",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -4882,7 +4882,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH302",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -5349,7 +5349,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHSA3",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -7236,6 +7236,55 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "007",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+        "creditos": "9",
+        "horario": "18:30-20:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH208",
+        "campus": "RIO HONDO",
+        "inicio": "18:30",
+        "fin": "20:00"
+      },
+      {
+        "grupo": "008",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "ST201",
+        "campus": "ST. TERESA",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "ECO-10210": {
+    "nombre": "ECO-10210-SEM. DE ECONOMIA APLICADA (OP)",
+    "clave": "ECO-10210",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10210-SEM. DE ECONOMIA APLICADA (OP)",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "ST201",
+        "campus": "ST. TERESA",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -7293,6 +7342,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      }
+    ]
+  },
+  "ECO-10511": {
+    "nombre": "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I",
+    "clave": "ECO-10511",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I",
+        "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+        "creditos": "7",
+        "horario": "19:00-20:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH201",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -7957,6 +8027,42 @@ let clases={
       }
     ]
   },
+  "ECO-12125": {
+    "nombre": "ECO-12125-TOP. SELECTOS DE MACROECONOMIA",
+    "clave": "ECO-12125",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-12125-TOP. SELECTOS DE MACROECONOMIA",
+        "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+        "creditos": "6",
+        "horario": "18:30-20:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH208",
+        "campus": "RIO HONDO",
+        "inicio": "18:30",
+        "fin": "20:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-12125-TOP. SELECTOS DE MACROECONOMIA",
+        "profesor": "FELIPE MEZA GOIZ",
+        "creditos": "6",
+        "horario": "09:30-11:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHSA2",
+        "campus": "RIO HONDO",
+        "inicio": "09:30",
+        "fin": "11:00"
+      }
+    ]
+  },
   "ECO-12133": {
     "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
     "clave": "ECO-12133",
@@ -8127,7 +8233,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH103",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -8198,7 +8304,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH113",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -8503,6 +8609,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+        "profesor": "MANETT ROCIO VARGAS GARCIA",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "ST201",
+        "campus": "ST. TERESA",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -8560,6 +8680,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "10:30"
+      }
+    ]
+  },
+  "ECO-19501": {
+    "nombre": "ECO-19501-ECONOMIA REGIONAL (OP)",
+    "clave": "ECO-19501",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-19501-ECONOMIA REGIONAL (OP)",
+        "profesor": "ISAC ANTONIO OLAVE CRUZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -15412,6 +15552,11 @@ let clases={
         "fin": "20:00"
       }
     ]
+  },
+  "SDI-25916": {
+    "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+    "clave": "SDI-25916",
+    "grupos": []
   }
 };
 let misProfesData={
@@ -15439,11 +15584,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.68,
     "n": 50
-  },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
   },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
@@ -16125,6 +16265,11 @@ let misProfesData={
     "general": 9.2353,
     "n": 17
   },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
+  },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
     "general": 8.3333,
@@ -16399,11 +16544,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
     "general": 8.2353,
     "n": 17
-  },
-  "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6628,
-    "n": 86
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",

@@ -1,4 +1,4 @@
-let actualizado="1705674973065.6357";
+let actualizado="1705761332553.643";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -4990,6 +4990,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -5555,7 +5558,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH111",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -5623,7 +5626,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH302",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -6241,7 +6244,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHSA3",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -7781,6 +7784,23 @@ let profesores={
           "fin": "11:00"
         }
       ],
+      "ECO-12125-TOP. SELECTOS DE MACROECONOMIA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-12125-TOP. SELECTOS DE MACROECONOMIA",
+          "profesor": "FELIPE MEZA GOIZ",
+          "creditos": "6",
+          "horario": "09:30-11:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "09:30",
+          "fin": "11:00"
+        }
+      ],
       "ECO-13102-ECONOMIA INTERNACIONAL, II": [
         {
           "grupo": "001",
@@ -8003,6 +8023,97 @@ let profesores={
       ]
     }
   },
+  "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "007",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+          "creditos": "9",
+          "horario": "18:30-20:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "18:30",
+          "fin": "20:00"
+        }
+      ],
+      "ECO-12125-TOP. SELECTOS DE MACROECONOMIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12125-TOP. SELECTOS DE MACROECONOMIA",
+          "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+          "creditos": "6",
+          "horario": "18:30-20:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "18:30",
+          "fin": "20:00"
+        }
+      ],
+      "ECO-22105-ECONOMIA V": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-22105-ECONOMIA V",
+          "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ]
+    }
+  },
+  "HORACIO ALEJANDRO LARREGUY ARBESU": {
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "008",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ST201",
+          "campus": "ST. TERESA",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-10210-SEM. DE ECONOMIA APLICADA (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10210-SEM. DE ECONOMIA APLICADA (OP)",
+          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "ST201",
+          "campus": "ST. TERESA",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
     "general": 9.5068,
@@ -8120,6 +8231,23 @@ let profesores={
     "general": 8.6429,
     "n": 14,
     "grupos": {
+      "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I",
+          "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+          "creditos": "7",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
       "ECO-10516-MICROECONOMETRIA APLICADA": [
         {
           "grupo": "001",
@@ -9115,7 +9243,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH103",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -9192,7 +9320,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH113",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -9422,14 +9550,25 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+          "profesor": "MANETT ROCIO VARGAS GARCIA",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "ST201",
+          "campus": "ST. TERESA",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -9483,6 +9622,26 @@ let profesores={
           "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "ISAC ANTONIO OLAVE CRUZ": {
+    "grupos": {
+      "ECO-19501-ECONOMIA REGIONAL (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-19501-ECONOMIA REGIONAL (OP)",
+          "profesor": "ISAC ANTONIO OLAVE CRUZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
           "fin": "10:00"
         }
       ]
@@ -9640,27 +9799,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
-        }
-      ]
-    }
-  },
-  "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
-    "grupos": {
-      "ECO-22105-ECONOMIA V": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-22105-ECONOMIA V",
-          "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
         }
       ]
     }
@@ -10260,9 +10398,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6628,
-    "n": 86,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -16804,13 +16939,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO",
-    "PETER MATTHEW  HILLS"
+    "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
