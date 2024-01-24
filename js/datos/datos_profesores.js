@@ -1,4 +1,4 @@
-let actualizado="1706020623958.0093";
+let actualizado="1706107053934.9314";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -3030,9 +3030,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4435,7 +4432,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH316",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -4452,7 +4449,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH316",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -4469,7 +4466,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH316",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -6715,8 +6712,8 @@ let profesores={
   },
   "IRVIN ARTURO CASTILLO CESAREO": {
     "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
-    "general": 9.7143,
-    "n": 7,
+    "general": 9.75,
+    "n": 8,
     "grupos": {
       "DER-13203-NEGOCIO JURIDICO Y PERSONAS": [
         {
@@ -7575,7 +7572,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH302",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -7592,7 +7589,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH302",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -9572,9 +9569,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -10867,7 +10861,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH205",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -15385,8 +15379,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.125,
-    "n": 64,
+    "general": 7.1538,
+    "n": 65,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {

@@ -1,4 +1,4 @@
-let actualizado="1706020623943.935";
+let actualizado="1706107053920.8503";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -3839,7 +3839,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH316",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -3895,7 +3895,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH316",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -3931,7 +3931,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH316",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -6847,7 +6847,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH302",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -6868,7 +6868,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH302",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -9709,7 +9709,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH205",
+        "salon": "RH204",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -15585,11 +15585,6 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
     "general": 8.8125,
@@ -15782,8 +15777,8 @@ let misProfesData={
   },
   "IRVIN ARTURO CASTILLO CESAREO": {
     "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
-    "general": 9.7143,
-    "n": 7
+    "general": 9.75,
+    "n": 8
   },
   "MIGUEL ANGEL CASTRO TORRESLANDA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Castro-Torreslanda_170976",
@@ -16235,11 +16230,6 @@ let misProfesData={
     "general": 7.8261,
     "n": 23
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42
-  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.4286,
@@ -16507,8 +16497,8 @@ let misProfesData={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.125,
-    "n": 64
+    "general": 7.1538,
+    "n": 65
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
