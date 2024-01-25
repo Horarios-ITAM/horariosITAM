@@ -1,4 +1,4 @@
-let actualizado="1706107053934.9314";
+let actualizado="1706193444012.5286";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -810,7 +810,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-2",
+          "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -908,7 +908,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHB-2",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -1315,7 +1315,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH311",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -1739,7 +1739,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -1754,7 +1754,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -1793,7 +1793,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -3030,6 +3030,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3890,9 +3893,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.4286,
+    "n": 21,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -4135,7 +4138,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH316",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -4155,7 +4158,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH301",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -4175,7 +4178,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHB-5",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -4987,9 +4990,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -9002,9 +9002,6 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -9569,6 +9566,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -10398,6 +10398,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6628,
+    "n": 86,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -13332,7 +13335,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHACERV",
+          "salon": "RH112",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -13922,7 +13925,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
@@ -13938,7 +13941,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
@@ -15196,8 +15199,8 @@ let profesores={
   },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
-    "general": 6.6566,
-    "n": 99,
+    "general": 6.69,
+    "n": 100,
     "grupos": {
       "MAT-12102-CALCULO, III": [
         {
@@ -16939,13 +16942,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
