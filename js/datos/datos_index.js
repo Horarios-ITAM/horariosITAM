@@ -1,4 +1,4 @@
-let actualizado="1706193443998.3167";
+let actualizado="1706279726573.194";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -132,7 +132,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH202",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -328,7 +328,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH201",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -1039,7 +1039,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -3496,7 +3496,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH111",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:30"
@@ -5487,7 +5487,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF107",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -6109,22 +6109,7 @@ let clases={
   "DER-14603": {
     "nombre": "DER-14603-DERECHO PROCESAL PENAL",
     "clave": "DER-14603",
-    "grupos": [
-      {
-        "grupo": "002",
-        "nombre": "DER-14603-DERECHO PROCESAL PENAL",
-        "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
-        "creditos": "8",
-        "horario": "16:00-18:00",
-        "dias": [
-          "MI"
-        ],
-        "salon": "RH201",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "18:00"
-      }
-    ]
+    "grupos": []
   },
   "DER-14606": {
     "nombre": "DER-14606-DERECHO PROCESAL PENAL",
@@ -6417,7 +6402,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -6647,7 +6632,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF106",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -6667,7 +6652,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF106",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -10563,7 +10548,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-5",
+        "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "18:30",
         "fin": "20:30"
@@ -10623,7 +10608,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH213",
+        "salon": "RH307",
         "campus": "RIO HONDO",
         "inicio": "19:30",
         "fin": "21:30"
@@ -10743,10 +10728,9 @@ let clases={
         "creditos": "8",
         "horario": "19:30-21:30",
         "dias": [
-          "MA",
-          "JU"
+          "MA"
         ],
-        "salon": "RH105",
+        "salon": "RHCC201",
         "campus": "RIO HONDO",
         "inicio": "19:30",
         "fin": "21:30"
@@ -11058,7 +11042,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "20:30",
         "fin": "22:00"
@@ -11079,7 +11063,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -11093,7 +11077,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH201",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -11114,7 +11098,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -11207,7 +11191,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "20:30",
         "fin": "22:00"
@@ -11228,7 +11212,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -11380,7 +11364,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH202",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -15456,7 +15440,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH302",
+        "salon": "RHLI2",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:30"
@@ -15511,7 +15495,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH209",
+        "salon": "RH206",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -15526,7 +15510,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH209",
+        "salon": "RH206",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -15910,11 +15894,6 @@ let misProfesData={
     "general": 5.9476,
     "n": 210
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4744,
@@ -16069,6 +16048,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Tiago-Gomes-da-Silva-Tavares_94106",
     "general": 6.8824,
     "n": 17
+  },
+  "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
@@ -16229,11 +16213,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.8261,
     "n": 23
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",

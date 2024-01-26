@@ -1,4 +1,4 @@
-let actualizado="1706193444012.5286";
+let actualizado="1706279726588.0818";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -143,7 +143,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH202",
+          "salon": "RH311",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -174,7 +174,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH202",
+          "salon": "RH311",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -394,7 +394,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH201",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -427,7 +427,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH201",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -1338,7 +1338,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHB-2",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
@@ -3030,9 +3030,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3168,7 +3165,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH209",
+          "salon": "RH206",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -3183,7 +3180,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH209",
+          "salon": "RH206",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -3642,9 +3639,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4001,7 +3995,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH111",
+          "salon": "RH313",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:30"
@@ -6356,7 +6350,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF107",
+          "salon": "RH112",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -6665,7 +6659,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF106",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -6681,7 +6675,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF106",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -6958,56 +6952,6 @@ let profesores={
       ]
     }
   },
-  "ROSA GABRIELA GONZALEZ PULIDO": {
-    "grupos": {
-      "DER-14603-DERECHO PROCESAL PENAL": [
-        {
-          "grupo": "002",
-          "nombre": "DER-14603-DERECHO PROCESAL PENAL",
-          "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "DER-14607-JUICIO ORAL PENAL-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-14607-JUICIO ORAL PENAL-LAB",
-          "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
-          "creditos": "2",
-          "horario": "16:00-18:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        },
-        {
-          "grupo": "002L",
-          "nombre": "DER-14607-JUICIO ORAL PENAL-LAB",
-          "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
-          "creditos": "2",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ]
-    }
-  },
   "IBETT ESTRADA GAZGA": {
     "grupos": {
       "DER-14606-DERECHO PROCESAL PENAL": [
@@ -7046,6 +6990,40 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "ROSA GABRIELA GONZALEZ PULIDO": {
+    "grupos": {
+      "DER-14607-JUICIO ORAL PENAL-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-14607-JUICIO ORAL PENAL-LAB",
+          "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
+          "creditos": "2",
+          "horario": "16:00-18:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        },
+        {
+          "grupo": "002L",
+          "nombre": "DER-14607-JUICIO ORAL PENAL-LAB",
+          "profesor": "ROSA GABRIELA GONZALEZ PULIDO",
+          "creditos": "2",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ]
     }
@@ -7231,7 +7209,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF105",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -9002,6 +8980,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -11737,7 +11718,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-5",
+          "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "18:30",
           "fin": "20:30"
@@ -12007,7 +11988,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH213",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "21:30"
@@ -12103,10 +12084,9 @@ let profesores={
           "creditos": "8",
           "horario": "19:30-21:30",
           "dias": [
-            "MA",
-            "JU"
+            "MA"
           ],
-          "salon": "RH105",
+          "salon": "RHCC201",
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "21:30"
@@ -12571,7 +12551,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "20:30",
           "fin": "22:00"
@@ -12588,7 +12568,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "20:30",
           "fin": "22:00"
@@ -12609,7 +12589,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -12626,7 +12606,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -12643,7 +12623,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -16645,7 +16625,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH302",
+          "salon": "RHLI2",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
