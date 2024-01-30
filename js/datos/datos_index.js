@@ -1,4 +1,4 @@
-let actualizado="1706538944216.2788";
+let actualizado="1706625354012.121";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -3202,14 +3202,14 @@ let clases={
         "nombre": "COM-23115-CIENCIA DE DATOS APLICADA I",
         "profesor": "MANUEL ARAGONES MORA",
         "creditos": "4",
-        "horario": "17:00-20:00",
+        "horario": "17:00-19:00",
         "dias": [
           "MI"
         ],
         "salon": "RHLI1",
         "campus": "RIO HONDO",
         "inicio": "17:00",
-        "fin": "20:00"
+        "fin": "19:00"
       }
     ]
   },
@@ -3517,7 +3517,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH316",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:30"
@@ -15568,6 +15568,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.68,
     "n": 50
+  },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
   },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
