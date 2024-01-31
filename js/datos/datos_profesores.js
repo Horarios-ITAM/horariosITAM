@@ -1,4 +1,4 @@
-let actualizado="1706625354026.2751";
+let actualizado="1706711705754.662";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -3639,9 +3639,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.75,
-    "n": 4,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -3767,14 +3764,14 @@ let profesores={
           "nombre": "COM-23116-CIENCIA DE DATOS APLICADA II",
           "profesor": "ANDRES PONCE DE LEON ROSAS",
           "creditos": "6",
-          "horario": "18:00-20:00",
+          "horario": "17:30-20:30",
           "dias": [
-            "JU"
+            "MA"
           ],
-          "salon": "RHCC102",
+          "salon": "RHLMINT",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
+          "inicio": "17:30",
+          "fin": "20:30"
         }
       ]
     }
@@ -4987,9 +4984,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -8160,7 +8154,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -8175,7 +8169,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH312",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
@@ -8986,6 +8980,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -12444,7 +12441,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH313",
+          "salon": "RH208",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -12461,7 +12458,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH313",
+          "salon": "RH208",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -16925,13 +16922,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
