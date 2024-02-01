@@ -1,4 +1,4 @@
-let actualizado="1706711705740.6257";
+let actualizado="1706798104263.3584";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -2081,36 +2081,7 @@ let clases={
   "CEB-10001": {
     "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
     "clave": "CEB-10001",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-        "profesor": "MARGARITA TARRAGONA SAEZ",
-        "creditos": "6",
-        "horario": "08:00-11:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "PF104",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "11:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-        "profesor": "MARGARITA TARRAGONA SAEZ",
-        "creditos": "6",
-        "horario": "11:00-14:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "PF104",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "14:00"
-      }
-    ]
+    "grupos": []
   },
   "CLE-10201-LAB": {
     "nombre": "CLE-10201-INGLES INTENSIVO-LAB",
@@ -4735,6 +4706,26 @@ let clases={
       }
     ]
   },
+  "CSO-19077": {
+    "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+    "clave": "CSO-19077",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+        "profesor": "ALEXANDRA URIBE COUGHLAN",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
   "CSO-19084": {
     "nombre": "CSO-19084-SEMINARIO DE INV. POLITICA D",
     "clave": "CSO-19084",
@@ -6587,7 +6578,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH111",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -15894,6 +15885,11 @@ let misProfesData={
     "general": 5.9476,
     "n": 210
   },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.75,
+    "n": 4
+  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4744,
@@ -16048,11 +16044,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Tiago-Gomes-da-Silva-Tavares_94106",
     "general": 6.8824,
     "n": 17
-  },
-  "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
@@ -16214,6 +16205,11 @@ let misProfesData={
     "general": 7.8261,
     "n": 23
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
+  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.4286,
@@ -16248,6 +16244,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
