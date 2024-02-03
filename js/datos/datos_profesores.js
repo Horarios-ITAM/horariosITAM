@@ -1,4 +1,4 @@
-let actualizado="1706884506476.5222";
+let actualizado="1706971001235.1895";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -8965,9 +8965,6 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -9532,9 +9529,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -12533,10 +12527,9 @@ let profesores={
           "creditos": "6",
           "horario": "20:30-22:00",
           "dias": [
-            "MA",
             "JU"
           ],
-          "salon": "RH309",
+          "salon": "RHCC101",
           "campus": "RIO HONDO",
           "inicio": "20:30",
           "fin": "22:00"
@@ -12550,10 +12543,9 @@ let profesores={
           "creditos": "6",
           "horario": "20:30-22:00",
           "dias": [
-            "MA",
             "JU"
           ],
-          "salon": "RH309",
+          "salon": "RHCC101",
           "campus": "RIO HONDO",
           "inicio": "20:30",
           "fin": "22:00"
