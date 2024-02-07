@@ -1,4 +1,4 @@
-let actualizado="1707230116615.3115";
+let actualizado="1707316532455.8735";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -9532,6 +9532,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -10361,6 +10364,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6628,
+    "n": 86,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
