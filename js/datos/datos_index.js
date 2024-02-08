@@ -1,4 +1,4 @@
-let actualizado="1707316532441.9617";
+let actualizado="1707402965165.418";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -3259,7 +3259,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHLMAC",
+        "salon": "RHCC202",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -16043,6 +16043,11 @@ let misProfesData={
     "general": 6.8824,
     "n": 17
   },
+  "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29
+  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.4651,
@@ -16203,11 +16208,6 @@ let misProfesData={
     "general": 7.8261,
     "n": 23
   },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42
-  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.4286,
@@ -16215,8 +16215,8 @@ let misProfesData={
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 6.86,
-    "n": 50
+    "general": 6.8824,
+    "n": 51
   },
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
@@ -16235,18 +16235,13 @@ let misProfesData={
   },
   "LUIS FELIPE MANCERA DE ARRIGUNAGA": {
     "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Mancera-de-Arrigunada_78218",
-    "general": 7.3333,
-    "n": 3
+    "general": 6.0,
+    "n": 4
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -16735,8 +16730,8 @@ let misProfesData={
   },
   "SHARON MAGALI VALVERDE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.2903,
-    "n": 31
+    "general": 8.3438,
+    "n": 32
   },
   "INES VARGAS CHRISTLIEB": {
     "link": "https://www.misprofesores.com/profesores/INES-VARGAS-CHRISTLIEB_99471",

@@ -1,4 +1,4 @@
-let actualizado="1707316532455.8735";
+let actualizado="1707402965180.1929";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -2993,9 +2993,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3777,7 +3774,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHLMAC",
+          "salon": "RHCC202",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -4969,9 +4966,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -7249,8 +7243,8 @@ let profesores={
   },
   "LUIS FELIPE MANCERA DE ARRIGUNAGA": {
     "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Mancera-de-Arrigunada_78218",
-    "general": 7.3333,
-    "n": 3,
+    "general": 6.0,
+    "n": 4,
     "grupos": {
       "DER-16019-DERECHO DEL SIST. FINANCIERO": [
         {
@@ -8968,6 +8962,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -10590,8 +10587,8 @@ let profesores={
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 6.86,
-    "n": 50,
+    "general": 6.8824,
+    "n": 51,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14513,8 +14510,8 @@ let profesores={
   },
   "SHARON MAGALI VALVERDE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.2903,
-    "n": 31,
+    "general": 8.3438,
+    "n": 32,
     "grupos": {
       "MAT-10101-MET. CUANTITATIVOS PARA DER.": [
         {
@@ -16902,13 +16899,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
