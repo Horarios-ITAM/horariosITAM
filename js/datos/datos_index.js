@@ -1,4 +1,4 @@
-let actualizado="1707402965165.418";
+let actualizado="1707489330302.081";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -132,7 +132,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH311",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -328,7 +328,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF101",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -11067,7 +11067,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF101",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -11353,7 +11353,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH311",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -16340,8 +16340,8 @@ let misProfesData={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.04,
-    "n": 25
+    "general": 9.0769,
+    "n": 26
   },
   "LUIS ANTONIO MONCAYO MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Luis-Antonio-Moncayo-Mart\u00ednez_94297",
@@ -16795,8 +16795,8 @@ let misProfesData={
   },
   "ANDREAS WACHTEL": {
     "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",
-    "general": 6.4,
-    "n": 20
+    "general": 6.5238,
+    "n": 21
   },
   "JEFFREY ALLEN WELDON": {
     "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",

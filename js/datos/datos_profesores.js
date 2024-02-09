@@ -1,4 +1,4 @@
-let actualizado="1707402965180.1929";
+let actualizado="1707489330316.0974";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -143,7 +143,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH311",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -174,7 +174,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH311",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -394,7 +394,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF101",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -427,7 +427,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF101",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -3830,8 +3830,8 @@ let profesores={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.04,
-    "n": 25,
+    "general": 9.0769,
+    "n": 26,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -16029,8 +16029,8 @@ let profesores={
   },
   "ANDREAS WACHTEL": {
     "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",
-    "general": 6.4,
-    "n": 20,
+    "general": 6.5238,
+    "n": 21,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
