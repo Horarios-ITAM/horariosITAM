@@ -79,7 +79,7 @@ if __name__=="__main__":
     nonSecure=GraceScrapper()
 
     # Tomamos la fuente con datos mas recientes
-    if nonSecure.periodo==periodoMasReciente([secure.periodo,nonSecure.periodo]):
+    if not hasattr(secure,'periodo') or nonSecure.periodo==periodoMasReciente([secure.periodo,nonSecure.periodo]):
         # Si empatan le damos preferencia a nonSecure
         print("Tomando nonSecure como mas reciente")
         grace=nonSecure
