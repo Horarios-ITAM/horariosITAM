@@ -1,4 +1,4 @@
-let actualizado="1708007733582.648";
+let actualizado="1708439728527.2544";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -84,12 +84,12 @@ let clases={
     ]
   },
   "ACT-11303": {
-    "nombre": "ACT-11303-MODELOS ACTUARIALES",
+    "nombre": "ACT-11303-MODELOS ACTUARIALES I",
     "clave": "ACT-11303",
     "grupos": [
       {
         "grupo": "001",
-        "nombre": "ACT-11303-MODELOS ACTUARIALES",
+        "nombre": "ACT-11303-MODELOS ACTUARIALES I",
         "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
         "creditos": "6",
         "horario": "10:00-11:30",
@@ -104,7 +104,7 @@ let clases={
       },
       {
         "grupo": "002",
-        "nombre": "ACT-11303-MODELOS ACTUARIALES",
+        "nombre": "ACT-11303-MODELOS ACTUARIALES I",
         "profesor": "SERGIO GARCIA ALQUICIRA",
         "creditos": "6",
         "horario": "19:30-21:00",
@@ -10322,12 +10322,12 @@ let clases={
     ]
   },
   "EIN-19552": {
-    "nombre": "EIN-19552-CAMBIO CLIMAT Y JUSTIC. GLOBAL",
+    "nombre": "EIN-19552-CAMBIO CLIMATICO",
     "clave": "EIN-19552",
     "grupos": [
       {
         "grupo": "001",
-        "nombre": "EIN-19552-CAMBIO CLIMAT Y JUSTIC. GLOBAL",
+        "nombre": "EIN-19552-CAMBIO CLIMATICO",
         "profesor": "RODRIGO CHACON AGUIRRE",
         "creditos": "6",
         "horario": "18:00-21:00",
@@ -16056,6 +16056,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Tiago-Gomes-da-Silva-Tavares_94106",
     "general": 6.8824,
     "n": 17
+  },
+  "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",

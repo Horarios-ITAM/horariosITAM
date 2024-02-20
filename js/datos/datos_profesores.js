@@ -1,4 +1,4 @@
-let actualizado="1708007733597.241";
+let actualizado="1708439728541.696";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -27,10 +27,10 @@ let profesores={
           "fin": "19:30"
         }
       ],
-      "ACT-11303-MODELOS ACTUARIALES": [
+      "ACT-11303-MODELOS ACTUARIALES I": [
         {
           "grupo": "002",
-          "nombre": "ACT-11303-MODELOS ACTUARIALES",
+          "nombre": "ACT-11303-MODELOS ACTUARIALES I",
           "profesor": "SERGIO GARCIA ALQUICIRA",
           "creditos": "6",
           "horario": "19:30-21:00",
@@ -187,10 +187,10 @@ let profesores={
     "general": 8.25,
     "n": 12,
     "grupos": {
-      "ACT-11303-MODELOS ACTUARIALES": [
+      "ACT-11303-MODELOS ACTUARIALES I": [
         {
           "grupo": "001",
-          "nombre": "ACT-11303-MODELOS ACTUARIALES",
+          "nombre": "ACT-11303-MODELOS ACTUARIALES I",
           "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
           "creditos": "6",
           "horario": "10:00-11:30",
@@ -8962,6 +8962,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -11306,10 +11309,10 @@ let profesores={
           "fin": "17:30"
         }
       ],
-      "EIN-19552-CAMBIO CLIMAT Y JUSTIC. GLOBAL": [
+      "EIN-19552-CAMBIO CLIMATICO": [
         {
           "grupo": "001",
-          "nombre": "EIN-19552-CAMBIO CLIMAT Y JUSTIC. GLOBAL",
+          "nombre": "EIN-19552-CAMBIO CLIMATICO",
           "profesor": "RODRIGO CHACON AGUIRRE",
           "creditos": "6",
           "horario": "18:00-21:00",
