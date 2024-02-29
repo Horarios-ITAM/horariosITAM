@@ -1,4 +1,4 @@
-let actualizado="1709130898969.421";
+let actualizado="1709217359872.847";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -15779,8 +15779,8 @@ let misProfesData={
   },
   "JORGE ARTURO CERDIO HERRAN": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Arturo-Cerdio-Herr\u00e1n_10792",
-    "general": 6.9565,
-    "n": 115
+    "general": 6.9397,
+    "n": 116
   },
   "RODRIGO CHACON AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Chac\u00f3n-Aguirre_78222",
