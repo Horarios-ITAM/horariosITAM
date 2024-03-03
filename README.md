@@ -23,7 +23,6 @@ Las fuentes de datos son:
 
 
 ## Por mejorar/hacer
-- Workflows distintos para scrapeo de horarios/calendarios/boletines
 - Reescribir scrappers
 - Intentar usar datos de 'Grupos que continuan abiertos' para el periodo.
 - Limpiar/mejorar codigo de python.
