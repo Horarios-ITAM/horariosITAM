@@ -29,9 +29,10 @@ if __name__=='__main__':
     b=BeautifulSoup(r.text, "html.parser")
     conseguidos={}
     for hit in b.find_all("a", {"class": "enlace"}):
+        if hit.string is None or hit['href'] is None: continue
         urlDoc=urljoin(url,hit['href'])
         utils.descargaArchivo('assets/'+hit['href'],urlDoc)
-        print(hit.string)
+        print(hit, hit.string)
         conseguidos[hit.string]={'urlCache':hit['href'],'urlITAM':urlDoc}
 
     conLinks=agregaLinksDoc(conseguidos)
