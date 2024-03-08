@@ -1,4 +1,4 @@
-let actualizado="1709822112893.1436";
+let actualizado="1709908538858.5918";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -8965,9 +8965,6 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -13960,7 +13957,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF107",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -13974,7 +13971,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF107",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -14006,7 +14003,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF107",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -14020,7 +14017,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF107",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"

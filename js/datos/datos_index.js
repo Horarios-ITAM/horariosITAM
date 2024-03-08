@@ -1,4 +1,4 @@
-let actualizado="1709822112878.4077";
+let actualizado="1709908538844.0212";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -12589,7 +12589,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF107",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -12617,7 +12617,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -13293,7 +13293,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF107",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -13321,7 +13321,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -16056,11 +16056,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Tiago-Gomes-da-Silva-Tavares_94106",
     "general": 6.8824,
     "n": 17
-  },
-  "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
