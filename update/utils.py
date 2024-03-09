@@ -24,12 +24,12 @@ def getHTML(url):
     """
     Regresa el contenido HTML del url.
     """
-    # with urllib.request.urlopen(url) as u:
-    #     html=u.read().decode("utf-8","ignore")
-    # return html
-    response = requests.get(url, verify=False)
-    html = response.content.decode("utf-8", "ignore")
+    with urllib.request.urlopen(url) as u:
+        html=u.read().decode("utf-8","ignore")
     return html
+    # response = requests.get(url, verify=False)
+    # html = response.content.decode("utf-8", "ignore")
+    # return html
 
 def descargaArchivo(path,url):
     """

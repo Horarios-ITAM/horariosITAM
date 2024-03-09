@@ -62,7 +62,7 @@ class GraceScrapperSecureArea:
         s=self.session
         s.get(loginUrl)
         r=s.post(loginForm,loginData,allow_redirects=True)
-        if 'WELCOME' in r.text:
+        if 'welcome' in r.text.lower():
             b=BeautifulSoup(r.text, "html.parser")
             redir=b.find_all("meta")[0].attrs['content'].split("url=")[1]
             url=urljoin(loginUrl,redir)
