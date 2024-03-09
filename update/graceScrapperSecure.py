@@ -67,7 +67,7 @@ class GraceScrapperSecureArea:
             redir=b.find_all("meta")[0].attrs['content'].split("url=")[1]
             url=urljoin(loginUrl,redir)
             r=s.get(url)
-            if 'Admissions' in r.text:
+            if 'registration' in r.text.lower():
                 self._print(f'Sesion iniciada con cookies {s.cookies.get_dict()}')
                 return True
             else:
