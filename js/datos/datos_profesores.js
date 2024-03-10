@@ -1,4 +1,4 @@
-let actualizado="1709994920684.5627";
+let actualizado="1710081417516.2239";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -4966,9 +4966,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -8188,8 +8185,8 @@ let profesores={
   },
   "ARTURO ALBERTO AGUILAR ESTEVA": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
-    "general": 8.6429,
-    "n": 14,
+    "general": 8.2,
+    "n": 15,
     "grupos": {
       "ECO-10511-TOP. SELECTOS DE ECONOMETRIA,I": [
         {
@@ -8965,6 +8962,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -9549,6 +9549,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -16916,13 +16919,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -16946,7 +16949,7 @@ let mejoresPorDepto={
     "MENEY DE LA PEZA GANDARA",
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
-    "ARTURO ALBERTO AGUILAR ESTEVA"
+    "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
