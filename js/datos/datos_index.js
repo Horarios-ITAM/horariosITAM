@@ -1,4 +1,4 @@
-let actualizado="1710081417502.1296";
+let actualizado="1710167757446.6218";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -16057,11 +16057,6 @@ let misProfesData={
     "general": 6.8824,
     "n": 17
   },
-  "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29
-  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.4651,
@@ -16256,6 +16251,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -16709,8 +16709,8 @@ let misProfesData={
   },
   "PAUL RENATO TOPPO RAIMONDO": {
     "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
-    "general": 6.5455,
-    "n": 11
+    "general": 6.4167,
+    "n": 12
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
