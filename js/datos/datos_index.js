@@ -1,4 +1,4 @@
-let actualizado="1710426992947.5044";
+let actualizado="1710513402572.0435";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -15639,8 +15639,8 @@ let misProfesData={
   },
   "JOSE MARIA BARRERO SANCLEMENTE": {
     "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
-    "general": 6.7647,
-    "n": 17
+    "general": 6.5,
+    "n": 18
   },
   "ERNESTO JUVENAL BARRIOS ZAMUDIO": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Juvenal-Barrios-Zamudio_10689",
@@ -15680,7 +15680,7 @@ let misProfesData={
   "FELIPE BRUGUES RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Brugu\u00e9s-Rodr\u00edguez_160059",
     "general": 10.0,
-    "n": 1
+    "n": 2
   },
   "FERNANDO BUENO AJA": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
@@ -16541,6 +16541,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
     "general": 8.2353,
     "n": 17
+  },
+  "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6628,
+    "n": 86
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",

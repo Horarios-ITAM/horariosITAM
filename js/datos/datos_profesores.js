@@ -1,4 +1,4 @@
-let actualizado="1710426992962.1345";
+let actualizado="1710513402586.6707";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -821,7 +821,7 @@ let profesores={
   "FELIPE BRUGUES RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Brugu\u00e9s-Rodr\u00edguez_160059",
     "general": 10.0,
-    "n": 1,
+    "n": 2,
     "grupos": {
       "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
         {
@@ -1895,8 +1895,8 @@ let profesores={
   },
   "JOSE MARIA BARRERO SANCLEMENTE": {
     "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
-    "general": 6.7647,
-    "n": 17,
+    "general": 6.5,
+    "n": 18,
     "grupos": {
       "ADM-15532-FINANZAS CORPORATIVAS": [
         {
@@ -10387,6 +10387,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6628,
+    "n": 86,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
