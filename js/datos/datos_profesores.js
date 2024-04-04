@@ -1,4 +1,4 @@
-let actualizado="1712154938842.797";
+let actualizado="1712241312710.927";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -113,8 +113,8 @@ let profesores={
   },
   "DAVID RUELAS RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
-    "general": 9.1875,
-    "n": 64,
+    "general": 9.2,
+    "n": 65,
     "grupos": {
       "ACT-11302-CALCULO ACTUARIAL III": [
         {
@@ -1577,8 +1577,8 @@ let profesores={
   },
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
-    "general": 6.7037,
-    "n": 27,
+    "general": 6.6071,
+    "n": 28,
     "grupos": {
       "ADM-15503-FINANZAS.,III": [
         {
@@ -2993,9 +2993,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4969,9 +4966,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -8968,6 +8962,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -9552,6 +9549,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -10381,6 +10381,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6628,
+    "n": 86,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -16916,13 +16919,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO"
+    "ADRIANA ALFARO ALTAMIRANO",
+    "PETER MATTHEW  HILLS"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
