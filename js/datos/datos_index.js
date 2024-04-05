@@ -1,4 +1,4 @@
-let actualizado="1712241312696.4192";
+let actualizado="1712327722496.382";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -16089,8 +16089,8 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4658,
-    "n": 219
+    "general": 6.4545,
+    "n": 220
   },
   "CARLOS GONZALEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
@@ -16222,6 +16222,11 @@ let misProfesData={
     "general": 7.8261,
     "n": 23
   },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
+  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
     "general": 4.4286,
@@ -16239,8 +16244,8 @@ let misProfesData={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.1875,
-    "n": 48
+    "general": 7.0816,
+    "n": 49
   },
   "ERIC MAGAR MEURS": {
     "link": "https://www.misprofesores.com/profesores/Eric-Magar-Meurs_10805",
@@ -16256,6 +16261,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
@@ -16531,11 +16541,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
     "general": 8.2353,
     "n": 17
-  },
-  "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6628,
-    "n": 86
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",

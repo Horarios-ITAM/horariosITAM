@@ -1,4 +1,4 @@
-let actualizado="1712241312710.927";
+let actualizado="1712327722510.8801";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -2993,6 +2993,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4966,6 +4969,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -10200,8 +10206,8 @@ let profesores={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4658,
-    "n": 219,
+    "general": 6.4545,
+    "n": 220,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -10381,9 +10387,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6628,
-    "n": 86,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -15710,8 +15713,8 @@ let profesores={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.1875,
-    "n": 48,
+    "general": 7.0816,
+    "n": 49,
     "grupos": {
       "MAT-14101-CALCULO DIF. E INT., II": [
         {
@@ -16919,13 +16922,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO",
-    "PETER MATTHEW  HILLS"
+    "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
