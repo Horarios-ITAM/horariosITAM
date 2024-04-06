@@ -1,4 +1,4 @@
-let actualizado="1712327722510.8801";
+let actualizado="1712414179361.696";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -1816,7 +1816,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF102",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "20:30"
@@ -3856,9 +3856,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -10387,6 +10387,9 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6667,
+    "n": 87,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -15207,8 +15210,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.3438,
-    "n": 32,
+    "general": 7.4242,
+    "n": 33,
     "grupos": {
       "MAT-12102-CALCULO, III": [
         {
