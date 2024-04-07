@@ -1,4 +1,4 @@
-let actualizado="1712414179361.696";
+let actualizado="1712500543553.4766";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -10387,9 +10387,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6667,
-    "n": 87,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
