@@ -1,4 +1,4 @@
-let actualizado="1712500543553.4766";
+let actualizado="1713019450302.3958";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -113,8 +113,8 @@ let profesores={
   },
   "DAVID RUELAS RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
-    "general": 9.2,
-    "n": 65,
+    "general": 9.2121,
+    "n": 66,
     "grupos": {
       "ACT-11302-CALCULO ACTUARIAL III": [
         {
@@ -5973,6 +5973,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
+          "profesor": "ANDRES HERNANDEZ BARRERA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ],
       "DER-11304-ARGUMENTAC. ORAL Y ESCRITA": [
@@ -5987,44 +6002,6 @@ let profesores={
             "JU"
           ],
           "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "GUILLERMO MOAD VALENZUELA": {
-    "grupos": {
-      "DER-11105-ESCR. Y ARG. JURID EN INGLES I": [
-        {
-          "grupo": "002",
-          "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
-          "profesor": "GUILLERMO MOAD VALENZUELA",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "DER-11304-ARGUMENTAC. ORAL Y ESCRITA": [
-        {
-          "grupo": "002",
-          "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
-          "profesor": "GUILLERMO MOAD VALENZUELA",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -6478,6 +6455,27 @@ let profesores={
       ]
     }
   },
+  "GUILLERMO MOAD VALENZUELA": {
+    "grupos": {
+      "DER-11304-ARGUMENTAC. ORAL Y ESCRITA": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11304-ARGUMENTAC. ORAL Y ESCRITA",
+          "profesor": "GUILLERMO MOAD VALENZUELA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "CHRISTOPH KARABO WINTER": {
     "grupos": {
       "DER-11805-FILOSOFIA DEL DERECHO": [
@@ -6878,13 +6876,13 @@ let profesores={
       ]
     }
   },
-  "MOISES TORRESCANO CRUZ": {
+  "ALEJANDRO POSADAS URTUSUASTEGUI": {
     "grupos": {
       "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB": [
         {
           "grupo": "001L",
           "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
-          "profesor": "MOISES TORRESCANO CRUZ",
+          "profesor": "ALEJANDRO POSADAS URTUSUASTEGUI",
           "creditos": "2",
           "horario": "16:00-18:00",
           "dias": [

@@ -1,4 +1,4 @@
-let actualizado="1712500543538.7468";
+let actualizado="1713019450288.5146";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -5194,14 +5194,14 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
-        "profesor": "GUILLERMO MOAD VALENZUELA",
+        "profesor": "ANDRES HERNANDEZ BARRERA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RHSA3",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -6037,7 +6037,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
-        "profesor": "MOISES TORRESCANO CRUZ",
+        "profesor": "ALEJANDRO POSADAS URTUSUASTEGUI",
         "creditos": "2",
         "horario": "16:00-18:00",
         "dias": [
@@ -16589,8 +16589,8 @@ let misProfesData={
   },
   "DAVID RUELAS RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
-    "general": 9.2,
-    "n": 65
+    "general": 9.2121,
+    "n": 66
   },
   "JAIME RUIZ DE SANTIAGO Y SIERRA": {
     "link": "https://www.misprofesores.com/profesores/Jaime-Ruiz-de-Santiago-y-Sierra_21773",
