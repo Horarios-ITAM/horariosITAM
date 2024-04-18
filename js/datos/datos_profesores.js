@@ -1,4 +1,4 @@
-let actualizado="1713364518459.0469";
+let actualizado="1713450908539.8564";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -415,22 +415,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ],
-      "EST-24106-ESTADISTICA APLICADA, III": [
-        {
-          "grupo": "002",
-          "nombre": "EST-24106-ESTADISTICA APLICADA, III",
-          "profesor": "LEONARDO ROJAS NANDAYAPA",
-          "creditos": "6",
-          "horario": "18:00-21:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "21:00"
         }
       ]
     }
@@ -2993,6 +2977,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3853,9 +3840,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -8963,6 +8950,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -9547,6 +9537,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -10376,9 +10369,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6667,
-    "n": 87,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11761,6 +11751,22 @@ let profesores={
           "inicio": "19:00",
           "fin": "21:00"
         }
+      ],
+      "EST-24106-ESTADISTICA APLICADA, III": [
+        {
+          "grupo": "004",
+          "nombre": "EST-24106-ESTADISTICA APLICADA, III",
+          "profesor": "JOSE DAVID SANTOS SALAZAR",
+          "creditos": "6",
+          "horario": "18:30-21:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "18:30",
+          "fin": "21:30"
+        }
       ]
     }
   },
@@ -12622,6 +12628,43 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "OSCAR PERALTA GUTIERREZ": {
+    "grupos": {
+      "EST-24106-ESTADISTICA APLICADA, III": [
+        {
+          "grupo": "002",
+          "nombre": "EST-24106-ESTADISTICA APLICADA, III",
+          "profesor": "OSCAR PERALTA GUTIERREZ",
+          "creditos": "6",
+          "horario": "18:00-21:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH210",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "21:00"
+        }
+      ],
+      "MAT-22600-MATEMATICAS FINANCIERAS I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-22600-MATEMATICAS FINANCIERAS I",
+          "profesor": "OSCAR PERALTA GUTIERREZ",
+          "creditos": "6",
+          "horario": "12:30-14:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH112",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
         }
       ]
     }
@@ -16032,9 +16075,9 @@ let profesores={
           "creditos": "8",
           "horario": "18:00-20:00",
           "dias": [
-            "LU"
+            "MI"
           ],
-          "salon": "RH311",
+          "salon": "RHCC102",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -16414,27 +16457,6 @@ let profesores={
       ]
     }
   },
-  "OSCAR PERALTA GUTIERREZ": {
-    "grupos": {
-      "MAT-22600-MATEMATICAS FINANCIERAS I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-22600-MATEMATICAS FINANCIERAS I",
-          "profesor": "OSCAR PERALTA GUTIERREZ",
-          "creditos": "6",
-          "horario": "12:30-14:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH112",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
-        }
-      ]
-    }
-  },
   "CARLOS BOSCH GIRAL": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Bosch-Giral_10705",
     "general": 5.8777,
@@ -16496,6 +16518,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "FELIPE JAVIER MEDINA AGUAYO": {
+    "grupos": {
+      "MAT-24431-OPTIMIZACION NUMERICA, I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-24431-OPTIMIZACION NUMERICA, I",
+          "profesor": "FELIPE JAVIER MEDINA AGUAYO",
+          "creditos": "8",
+          "horario": "18:00-21:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "21:00"
         }
       ]
     }

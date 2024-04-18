@@ -1,4 +1,4 @@
-let actualizado="1713364518444.3884";
+let actualizado="1713450908524.4192";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -11075,7 +11075,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EST-24106-ESTADISTICA APLICADA, III",
-        "profesor": "LEONARDO ROJAS NANDAYAPA",
+        "profesor": "OSCAR PERALTA GUTIERREZ",
         "creditos": "6",
         "horario": "18:00-21:00",
         "dias": [
@@ -11085,6 +11085,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "EST-24106-ESTADISTICA APLICADA, III",
+        "profesor": "JOSE DAVID SANTOS SALAZAR",
+        "creditos": "6",
+        "horario": "18:30-21:30",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "18:30",
+        "fin": "21:30"
       }
     ]
   },
@@ -15094,12 +15108,26 @@ let clases={
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
-          "LU"
+          "MI"
         ],
-        "salon": "RH311",
+        "salon": "RHCC102",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-24431-OPTIMIZACION NUMERICA, I",
+        "profesor": "FELIPE JAVIER MEDINA AGUAYO",
+        "creditos": "8",
+        "horario": "18:00-21:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -15571,6 +15599,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.68,
     "n": 50
+  },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
   },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
@@ -16052,6 +16085,11 @@ let misProfesData={
     "general": 6.8824,
     "n": 17
   },
+  "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29
+  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.4651,
@@ -16088,9 +16126,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.4286,
-    "n": 21
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -16211,6 +16249,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.8261,
     "n": 23
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
@@ -16526,11 +16569,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
     "general": 8.2353,
     "n": 17
-  },
-  "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6667,
-    "n": 87
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
