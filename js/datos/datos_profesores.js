@@ -1,4 +1,4 @@
-let actualizado="1713796526760.786";
+let actualizado="1713882931821.1196";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -2977,9 +2977,6 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -3589,9 +3586,6 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 5,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -8947,6 +8941,9 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -11753,6 +11750,22 @@ let profesores={
         {
           "grupo": "004",
           "nombre": "EST-24106-ESTADISTICA APLICADA, III",
+          "profesor": "JOSE DAVID SANTOS SALAZAR",
+          "creditos": "6",
+          "horario": "18:30-21:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "18:30",
+          "fin": "21:30"
+        }
+      ],
+      "EST-24109-TEMAS SELECTOS DE ESTADISTICA": [
+        {
+          "grupo": "005",
+          "nombre": "EST-24109-TEMAS SELECTOS DE ESTADISTICA",
           "profesor": "JOSE DAVID SANTOS SALAZAR",
           "creditos": "6",
           "horario": "18:30-21:30",

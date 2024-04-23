@@ -1,4 +1,4 @@
-let actualizado="1713796526745.457";
+let actualizado="1713882931806.1597";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -11141,6 +11141,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "EST-24109-TEMAS SELECTOS DE ESTADISTICA",
+        "profesor": "JOSE DAVID SANTOS SALAZAR",
+        "creditos": "6",
+        "horario": "18:30-21:30",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "18:30",
+        "fin": "21:30"
       }
     ]
   },
@@ -15925,11 +15939,6 @@ let misProfesData={
     "general": 5.9476,
     "n": 210
   },
-  "MIGUEL ANGEL ESCALANTE SERRATO": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
-    "general": 5.0,
-    "n": 5
-  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4744,
@@ -16084,6 +16093,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Tiago-Gomes-da-Silva-Tavares_94106",
     "general": 6.8824,
     "n": 17
+  },
+  "VICTOR HUGO GOMEZ AYALA": {
+    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
+    "general": 7.6897,
+    "n": 29
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
@@ -16244,11 +16258,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.8261,
     "n": 23
-  },
-  "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
