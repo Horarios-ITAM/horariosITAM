@@ -1,4 +1,4 @@
-let actualizado="1714574150044.336";
+let actualizado="1714660563506.3987";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -16206,8 +16206,8 @@ let misProfesData={
   },
   "TETSUYA HOSHINO": {
     "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
-    "general": 7.0,
-    "n": 9
+    "general": 7.2,
+    "n": 10
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -16896,7 +16896,7 @@ let misProfesData={
   },
   "GERARDO ZORRILLA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
-    "general": 7.3019,
-    "n": 53
+    "general": 7.2222,
+    "n": 54
   }
 };

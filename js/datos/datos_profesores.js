@@ -1,4 +1,4 @@
-let actualizado="1714574150059.2996";
+let actualizado="1714660563521.7244";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -8731,8 +8731,8 @@ let profesores={
   },
   "TETSUYA HOSHINO": {
     "link": "https://www.misprofesores.com/profesores/Tetsuya-Hoshino_113159",
-    "general": 7.0,
-    "n": 9,
+    "general": 7.2,
+    "n": 10,
     "grupos": {
       "ECO-11122-MICROECONOMIA AVANZADA II": [
         {
@@ -11107,8 +11107,8 @@ let profesores={
   },
   "GERARDO ZORRILLA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
-    "general": 7.3019,
-    "n": 53,
+    "general": 7.2222,
+    "n": 54,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
