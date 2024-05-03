@@ -1,4 +1,4 @@
-let actualizado="1714660563521.7244";
+let actualizado="1714746912737.9695";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -3586,6 +3586,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 5,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
