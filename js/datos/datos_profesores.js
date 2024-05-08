@@ -1,4 +1,4 @@
-let actualizado="1715092547735.9526";
+let actualizado="1715179039899.212";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -16412,6 +16412,9 @@ let profesores={
     }
   },
   "MARIA VICTORIA CHAVEZ HERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Maria-Victoria-Ch\u00e1vez-Hern\u00e1ndez_175093",
+    "general": 2.0,
+    "n": 1,
     "grupos": {
       "MAT-14390-MATEMATICA COMPUTACIONAL": [
         {

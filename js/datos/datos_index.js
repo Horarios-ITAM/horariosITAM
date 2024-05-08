@@ -1,4 +1,4 @@
-let actualizado="1715092547720.764";
+let actualizado="1715179039884.0994";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -15838,6 +15838,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
     "general": 9.6923,
     "n": 13
+  },
+  "MARIA VICTORIA CHAVEZ HERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Maria-Victoria-Ch\u00e1vez-Hern\u00e1ndez_175093",
+    "general": 2.0,
+    "n": 1
   },
   "MANUEL ADRIAN CHAVEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Adrian-Ch\u00e1vez-P\u00e9rez_104157",
