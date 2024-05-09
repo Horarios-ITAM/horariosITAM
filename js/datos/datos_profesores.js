@@ -1,4 +1,4 @@
-let actualizado="1715179039899.212";
+let actualizado="1715265326265.4617";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -15413,8 +15413,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1538,
-    "n": 65,
+    "general": 7.1515,
+    "n": 66,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
