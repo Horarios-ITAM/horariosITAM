@@ -1,4 +1,4 @@
-let actualizado="1715610924567.1213";
+let actualizado="1715697337903.4565";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -15911,8 +15911,8 @@ let misProfesData={
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
-    "general": 8.0,
-    "n": 14
+    "general": 8.1333,
+    "n": 15
   },
   "LUIS ARTURO DEL CASTILLO MUZQUIZ": {
     "link": "https://www.misprofesores.com/profesores/LUIS-ARTURO-DEL-CASTILLO-MUZQUIZ_40780",
@@ -15943,6 +15943,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
     "general": 5.9476,
     "n": 210
+  },
+  "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 5
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
@@ -16098,11 +16103,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Tiago-Gomes-da-Silva-Tavares_94106",
     "general": 6.8824,
     "n": 17
-  },
-  "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
@@ -16299,6 +16299,11 @@ let misProfesData={
     "general": 9.2353,
     "n": 17
   },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
+  },
   "CARLOS EDUARDO MARTINEZ RICO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Eduardo-Martinez-Rico_147615",
     "general": 8.3333,
@@ -16346,8 +16351,8 @@ let misProfesData={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 7.5,
-    "n": 4
+    "general": 7.0,
+    "n": 5
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",

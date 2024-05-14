@@ -1,4 +1,4 @@
-let actualizado="1715610924581.8958";
+let actualizado="1715697337919.4192";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -3586,6 +3586,9 @@ let profesores={
     }
   },
   "MIGUEL ANGEL ESCALANTE SERRATO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Escalante-Serrato_129924",
+    "general": 5.0,
+    "n": 5,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -4947,6 +4950,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -8941,9 +8947,6 @@ let profesores={
     }
   },
   "VICTOR HUGO GOMEZ AYALA": {
-    "link": "https://www.misprofesores.com/profesores/V\u00edctor-Hugo-Gomez-Ayala_70615",
-    "general": 7.6897,
-    "n": 29,
     "grupos": {
       "ECO-12102-ECONOMIA, II": [
         {
@@ -11929,8 +11932,8 @@ let profesores={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 7.5,
-    "n": 4,
+    "general": 7.0,
+    "n": 5,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -12086,8 +12089,8 @@ let profesores={
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
-    "general": 8.0,
-    "n": 14,
+    "general": 8.1333,
+    "n": 15,
     "grupos": {
       "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.": [
         {
@@ -16969,13 +16972,13 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "ADRIANA ALFARO ALTAMIRANO",
-    "PETER MATTHEW  HILLS"
+    "ADRIANA ALFARO ALTAMIRANO"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -17031,8 +17034,8 @@ let mejoresPorDepto={
     "DANTE GABRIEL CAMPOS SALIDO",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "JOSE MATUK VILLAZON",
-    "TRINIDAD GONZALEZ BONILLA",
     "LILIANA DE LA TORRE DESENTIS",
+    "TRINIDAD GONZALEZ BONILLA",
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
     "JOSE EZEQUIEL SOTO SANCHEZ"
