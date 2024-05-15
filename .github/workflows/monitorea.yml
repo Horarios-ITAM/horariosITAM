@@ -18,6 +18,6 @@ jobs:
       run: |
         pip install -r update/requirements.txt
 
-    - name: Scrapeo de calendarios
+    - name: Correr monitor
       run: |
         python3 update/monitor.py --channel ${{ secrets.NTFY_CHANNEL }}

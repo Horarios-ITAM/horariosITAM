@@ -49,7 +49,7 @@ def checa_actualizado_hace(url, dias_max = 2):
 if __name__ == '__main__':
 
     argparser = argparse.ArgumentParser()
-    argparser.add_argument('--url', help = 'url del sitio', default = 'https://horariositam.com')
+    argparser.add_argument('--url', help = 'url del sitio', default = 'https://horariositam1.com')
     argparser.add_argument('--channel', help = 'ntfy channel for push notifications', required = True)
     args = argparser.parse_args()
 
