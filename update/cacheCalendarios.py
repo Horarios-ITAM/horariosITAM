@@ -9,7 +9,7 @@ BASE_DIR = 'assets/calendarios'
 def agregaLinksDoc(conseguidos):
     sHTML = ''
     for text,ligas in conseguidos.items():
-        sHTML += f'<a href={"assets/" + ligas["urlCache"]} target=_blank>{text}</a><br>\n'
+        sHTML += f'<a href={"assets/" + ligas["urlCache"]} class="linkCalendario" target=_blank>{text}</a><br>\n'
 
     with open(f'{BASE_DIR}/calendariosTemplate.html', 'r') as f:
         template = f.read()

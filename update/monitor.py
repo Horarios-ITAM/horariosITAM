@@ -1,0 +1,75 @@
+# Monitorea que el sitio funcione correctamente y notifica si algo esta raro
+# Corrido con cronjob (ver .github/workflows/monitorea.yml)
+
+import requests, argparse, time
+from bs4 import BeautifulSoup
+
+def notifica(msg, url, channel):
+
+    print(f'Notificando {msg}')
+    requests.post(
+        f"https://ntfy.sh/{channel}",
+        data = msg.encode('utf-8'),
+        headers = {
+            "Click": url,
+            "Tags": "warning,horariositam"
+    })
+
+def req(url):
+    r = None
+    try:
+        r = requests.get(url)
+        if r.status_code != 200:
+            raise Exception(f'Codigo de respuesta {r.status_code} para {url}')
+    except Exception as e:
+        print(f'Error al acceder a {url}: {e}')
+        notifica(f'Sitio inaccesible', url)
+        exit(1)
+    return r
+
+def checa_actualizado_hace(url, channel, dias_max = 2):
+
+    r = req(url)
+    pag = url.split('/')[-1]
+
+    # Debe ser primera linea en formato "var actualizado = 1620000000000;"
+    actualizado = r.text.split(';')[0].split('=')[1].replace('"', '').strip()
+    dias_desde = (time.time() - float(actualizado) / 1000) / 60 / 60 #/ 24
+
+    if dias_desde > dias_max:
+        print(f'{pag} actualizados hace {dias_desde:.2f} dias')
+        notifica(f'{pag} actualizados hace {dias_desde:.2f} dias', url, channel)
+
+
+if __name__ == '__main__':
+
+    argparser = argparse.ArgumentParser()
+    argparser.add_argument('--url', help = 'url del sitio', default = 'https://horariositam.com')
+    argparser.add_argument('--channel', help = 'ntfy channel for push notifications', required = True)
+    args = argparser.parse_args()
+
+    URL_BASE = args.url
+    channel = args.channel
+
+
+    # Checamos que el sitio este arriba
+    req(URL_BASE)
+
+    # Que datos (index y profesores) esten actualizados (no mas de 2 dias)
+    checa_actualizado_hace(URL_BASE + '/js/datos/datos_index.js', channel)
+    checa_actualizado_hace(URL_BASE + '/js/datos/datos_profesores.js', channel)
+
+    # Que tengamos ligas a calendarios
+    r = req(URL_BASE + '/calendarios.html')
+    b = BeautifulSoup(r.text, "html.parser")
+    if not b.find_all("a", {"class": "linkCalendario"}):
+        print('No hay ligas a calendarios')
+        notifica('No hay ligas a calendarios', URL_BASE + '/calendarios.html', channel)
+
+    # Y que funcionen
+    for hit in b.find_all("a", {"class": "linkCalendario"}):
+        req(URL_BASE + '/' + hit['href'])
+
+
+
+
