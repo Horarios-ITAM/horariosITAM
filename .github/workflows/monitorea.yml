@@ -1,0 +1,23 @@
+name: monitorea
+run-name: Monitor del sitio
+on:
+  workflow_dispatch: # Manual
+  schedule: # Run the action on a cron schedule
+    - cron: '45 16 * * *' # Todos los dias (aprox 10:45 hr Mexico)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+
+    - name: Install pip requirements # Instalamos las librerias de python que usamos.
+      run: |
+        pip install -r update/requirements.txt
+
+    - name: Scrapeo de calendarios
+      run: |
+        python3 update/monitor.py --channel ${{ secrets.NTFY_CHANNEL }}
