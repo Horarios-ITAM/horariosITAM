@@ -1,4 +1,4 @@
-let actualizado="1715697337919.4192";
+let actualizado="1715783765759.6152";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -15314,8 +15314,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.614,
-    "n": 57,
+    "general": 6.6207,
+    "n": 58,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {

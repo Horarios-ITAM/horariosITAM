@@ -1,4 +1,4 @@
-let actualizado="1715697337903.4565";
+let actualizado="1715783765744.5095";
 let periodo="PRIMAVERA 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2439";
@@ -16011,8 +16011,8 @@ let misProfesData={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.614,
-    "n": 57
+    "general": 6.6207,
+    "n": 58
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
