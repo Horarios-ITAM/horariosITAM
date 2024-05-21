@@ -1,4 +1,4 @@
-let actualizado="1716215693821.0898";
+let actualizado="1716302058959.0588";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -842,29 +842,6 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EST-10101-ESTADISTICA.,I",
-        "profesor": "LILIANA DE LA TORRE DESENTIS",
-        "creditos": "8",
-        "horario": "08:30-11:10",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH103",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "11:10"
-      }
-    ]
-  },
-  "EST-10102": {
-    "nombre": "EST-10102-ESTADISTICA.,II",
-    "clave": "EST-10102",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "EST-10102-ESTADISTICA.,II",
         "profesor": "MIGUEL ANGEL AVILA DEL BOSQUE",
         "creditos": "8",
         "horario": "10:00-12:40",
@@ -878,6 +855,29 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:40"
+      }
+    ]
+  },
+  "EST-10102": {
+    "nombre": "EST-10102-ESTADISTICA.,II",
+    "clave": "EST-10102",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EST-10102-ESTADISTICA.,II",
+        "profesor": "LILIANA DE LA TORRE DESENTIS",
+        "creditos": "8",
+        "horario": "08:30-11:10",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH103",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "11:10"
       }
     ]
   },
@@ -980,7 +980,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.",
-        "profesor": "LILIANA DE LA TORRE DESENTIS",
+        "profesor": "DANTE GABRIEL CAMPOS SALIDO",
         "creditos": "8",
         "horario": "11:20-14:00",
         "dias": [
@@ -1593,6 +1593,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
     "general": 6.5588,
     "n": 34
+  },
+  "DANTE GABRIEL CAMPOS SALIDO": {
+    "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
+    "general": 9.1828,
+    "n": 93
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",

@@ -1,4 +1,4 @@
-let actualizado="1716215693822.6746";
+let actualizado="1716302058960.5132";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -853,60 +853,15 @@ let profesores={
       ]
     }
   },
-  "LILIANA DE LA TORRE DESENTIS": {
-    "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
-    "general": 8.1333,
-    "n": 15,
-    "grupos": {
-      "EST-10101-ESTADISTICA.,I": [
-        {
-          "grupo": "001",
-          "nombre": "EST-10101-ESTADISTICA.,I",
-          "profesor": "LILIANA DE LA TORRE DESENTIS",
-          "creditos": "8",
-          "horario": "08:30-11:10",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "11:10"
-        }
-      ],
-      "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.": [
-        {
-          "grupo": "001",
-          "nombre": "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.",
-          "profesor": "LILIANA DE LA TORRE DESENTIS",
-          "creditos": "8",
-          "horario": "11:20-14:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "11:20",
-          "fin": "14:00"
-        }
-      ]
-    }
-  },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
     "general": 8.6,
     "n": 40,
     "grupos": {
-      "EST-10102-ESTADISTICA.,II": [
+      "EST-10101-ESTADISTICA.,I": [
         {
           "grupo": "001",
-          "nombre": "EST-10102-ESTADISTICA.,II",
+          "nombre": "EST-10101-ESTADISTICA.,I",
           "profesor": "MIGUEL ANGEL AVILA DEL BOSQUE",
           "creditos": "8",
           "horario": "10:00-12:40",
@@ -920,6 +875,32 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:40"
+        }
+      ]
+    }
+  },
+  "LILIANA DE LA TORRE DESENTIS": {
+    "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
+    "general": 8.1333,
+    "n": 15,
+    "grupos": {
+      "EST-10102-ESTADISTICA.,II": [
+        {
+          "grupo": "001",
+          "nombre": "EST-10102-ESTADISTICA.,II",
+          "profesor": "LILIANA DE LA TORRE DESENTIS",
+          "creditos": "8",
+          "horario": "08:30-11:10",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "11:10"
         }
       ]
     }
@@ -1055,6 +1036,32 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
+        }
+      ]
+    }
+  },
+  "DANTE GABRIEL CAMPOS SALIDO": {
+    "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
+    "general": 9.1828,
+    "n": 93,
+    "grupos": {
+      "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.": [
+        {
+          "grupo": "001",
+          "nombre": "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.",
+          "profesor": "DANTE GABRIEL CAMPOS SALIDO",
+          "creditos": "8",
+          "horario": "11:20-14:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "11:20",
+          "fin": "14:00"
         }
       ]
     }
@@ -1670,6 +1677,7 @@ let mejoresPorDepto={
     "ISABEL FLORES ALCAZAR"
   ],
   "ESTADISTICA": [
+    "DANTE GABRIEL CAMPOS SALIDO",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "LILIANA DE LA TORRE DESENTIS",
     "JOSE DAVID SANTOS SALAZAR",
