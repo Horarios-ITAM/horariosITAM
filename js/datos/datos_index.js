@@ -1,4 +1,4 @@
-let actualizado="1716388453896.8618";
+let actualizado="1716474852843.2732";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -681,7 +681,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
-        "profesor": "",
+        "profesor": "GUSTAVO HERNANDEZ MONROY",
         "creditos": "6",
         "horario": "09:30-11:30",
         "dias": [
@@ -727,7 +727,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
-        "profesor": "",
+        "profesor": "ALBERTO RAMIREZ DE AGUILAR WILLE",
         "creditos": "6",
         "horario": "07:00-09:00",
         "dias": [
@@ -750,7 +750,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
-        "profesor": "",
+        "profesor": "GUSTAVO HERNANDEZ MONROY",
         "creditos": "6",
         "horario": "12:00-14:00",
         "dias": [
@@ -1708,6 +1708,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
     "general": 6.3462,
     "n": 104
+  },
+  "ALBERTO RAMIREZ DE AGUILAR WILLE": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Ram\u00edrez-de-Aguilar-Wille_130993",
+    "general": 5.5,
+    "n": 6
   },
   "BERNARDO RAMIREZ FIGUEROA": {
     "link": "https://www.misprofesores.com/profesores/Bernardo-Ram\u00edrez-Figueroa_125410",

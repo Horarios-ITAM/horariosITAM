@@ -1,4 +1,4 @@
-let actualizado="1716388453898.4758";
+let actualizado="1716474852845.0232";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -184,63 +184,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:35"
-        }
-      ],
-      "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "09:30-11:30",
-          "dias": [
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "09:30",
-          "fin": "11:30"
-        }
-      ],
-      "ECO-12121-MACROECONOMIA AVANZADA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ],
-      "ECO-18101-DESARROLLO ECONOMICO I": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "12:00-14:00",
-          "dias": [
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
         }
       ],
       "EIN-19408-AFRICA": [
@@ -778,6 +721,48 @@ let profesores={
       ]
     }
   },
+  "GUSTAVO HERNANDEZ MONROY": {
+    "grupos": {
+      "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
+          "profesor": "GUSTAVO HERNANDEZ MONROY",
+          "creditos": "6",
+          "horario": "09:30-11:30",
+          "dias": [
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "09:30",
+          "fin": "11:30"
+        }
+      ],
+      "ECO-18101-DESARROLLO ECONOMICO I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+          "profesor": "GUSTAVO HERNANDEZ MONROY",
+          "creditos": "6",
+          "horario": "12:00-14:00",
+          "dias": [
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
   "ERICK FERNANDO MOLINA PEREZ": {
     "grupos": {
       "ECO-10516-MICROECONOMETRIA APLICADA": [
@@ -797,6 +782,32 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "11:00"
+        }
+      ]
+    }
+  },
+  "ALBERTO RAMIREZ DE AGUILAR WILLE": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Ram\u00edrez-de-Aguilar-Wille_130993",
+    "general": 5.5,
+    "n": 6,
+    "grupos": {
+      "ECO-12121-MACROECONOMIA AVANZADA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
+          "profesor": "ALBERTO RAMIREZ DE AGUILAR WILLE",
+          "creditos": "6",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -1671,6 +1682,8 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JORGE HERRERA JUAREZ",
+    "ALBERTO RAMIREZ DE AGUILAR WILLE",
+    "GUSTAVO HERNANDEZ MONROY",
     "ERICK FERNANDO MOLINA PEREZ"
   ],
   "ESTUDIOS INTERNACIONALES": [
