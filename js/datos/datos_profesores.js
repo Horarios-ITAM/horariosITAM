@@ -1,4 +1,4 @@
-let actualizado="1716474852845.0232";
+let actualizado="1716561244993.1995";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -1142,9 +1142,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1244,8 +1244,8 @@ let profesores={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 9.4,
-    "n": 5,
+    "general": 8.5,
+    "n": 6,
     "grupos": {
       "MAT-11101-MATEMATICAS, II": [
         {
@@ -1391,8 +1391,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.4242,
-    "n": 33,
+    "general": 7.4412,
+    "n": 34,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -1704,9 +1704,9 @@ let mejoresPorDepto={
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ"
   ],
   "MATEMATICAS": [
-    "LYSETTE FELIX FELIX",
     "LEON FELIPE VILLALOBOS SANCHEZ",
     "CONCEPCION RUIZ RUIZ FUNES",
+    "LYSETTE FELIX FELIX",
     "SHARON MAGALI VALVERDE ESPARZA",
     "LUZ MARIA MARVAN GARDU\u00d1O",
     "GLORIA LOPEZ CHAVEZ",

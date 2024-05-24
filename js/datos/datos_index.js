@@ -1,4 +1,4 @@
-let actualizado="1716474852843.2732";
+let actualizado="1716561244991.562";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -1641,8 +1641,8 @@ let misProfesData={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 9.4,
-    "n": 5
+    "general": 8.5,
+    "n": 6
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
@@ -1691,8 +1691,8 @@ let misProfesData={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.4242,
-    "n": 33
+    "general": 7.4412,
+    "n": 34
   },
   "ELSA VIVIANA OROPEZA GRACIA": {
     "link": "https://www.misprofesores.com/profesores/Elsa-Viviana-Oropeza-Gracia_93911",
@@ -1730,9 +1730,9 @@ let misProfesData={
     "n": 26
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "PAUL RENATO TOPPO RAIMONDO": {
     "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
