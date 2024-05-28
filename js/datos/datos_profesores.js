@@ -1,4 +1,4 @@
-let actualizado="1716820438184.463";
+let actualizado="1716906863574.7368";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -147,25 +147,6 @@ let profesores={
           "fin": "14:00"
         }
       ],
-      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
-        {
-          "grupo": "002",
-          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RHCC102",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ],
       "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
         {
           "grupo": "001",
@@ -287,6 +268,29 @@ let profesores={
             "VI"
           ],
           "salon": "RHCC101",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "JOSE ALEJANDRO JARDI RAMOS": {
+    "grupos": {
+      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
+        {
+          "grupo": "002",
+          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
+          "profesor": "JOSE ALEJANDRO JARDI RAMOS",
+          "creditos": "7",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RHCC102",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -1290,8 +1294,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.8444,
-    "n": 45,
+    "general": 6.8478,
+    "n": 46,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
@@ -1660,7 +1664,8 @@ let mejoresPorDepto={
     "MONICA ZAVALA ESTRADA",
     "JOSE CALIXTO CANO",
     "",
-    "ISRAEL LOPEZ AVILA"
+    "ISRAEL LOPEZ AVILA",
+    "JOSE ALEJANDRO JARDI RAMOS"
   ],
   "CONTABILIDAD": [
     "ROSARIO EDITH GARCIA MENDIOLA",

@@ -1,4 +1,4 @@
-let actualizado="1716820438182.8015";
+let actualizado="1716906863573.0703";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -205,7 +205,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-        "profesor": "",
+        "profesor": "JOSE ALEJANDRO JARDI RAMOS",
         "creditos": "7",
         "horario": "07:00-09:00",
         "dias": [
@@ -1601,8 +1601,8 @@ let misProfesData={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.8444,
-    "n": 45
+    "general": 6.8478,
+    "n": 46
   },
   "IRVIN ARTURO CASTILLO CESAREO": {
     "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
