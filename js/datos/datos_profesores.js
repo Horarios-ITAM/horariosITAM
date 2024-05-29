@@ -1,4 +1,4 @@
-let actualizado="1716906863574.7368";
+let actualizado="1716993287532.8967";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -125,13 +125,16 @@ let profesores={
       ]
     }
   },
-  "": {
+  "IRMA LOZANO MENDICUTI": {
+    "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
+    "general": 8.4286,
+    "n": 35,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
           "grupo": "001",
           "nombre": "COM-11302-ALGORITMICA Y PROGRAMACION",
-          "profesor": "",
+          "profesor": "IRMA LOZANO MENDICUTI",
           "creditos": "6",
           "horario": "12:00-14:00",
           "dias": [
@@ -145,61 +148,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
-        }
-      ],
-      "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
-        {
-          "grupo": "001",
-          "nombre": "COM-16303-MODELADO COMPUT. PARA NEGOCIOS",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "09:00-11:35",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RHCC202",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:35"
-        }
-      ],
-      "EIN-19408-AFRICA": [
-        {
-          "grupo": "001",
-          "nombre": "EIN-19408-AFRICA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ],
-      "MAT-12310-ALGEBRA MATRICIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "08:00-10:40",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:40"
         }
       ]
     }
@@ -320,6 +268,65 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
+        {
+          "grupo": "001",
+          "nombre": "COM-16303-MODELADO COMPUT. PARA NEGOCIOS",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "09:00-11:35",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:35"
+        }
+      ],
+      "EIN-19408-AFRICA": [
+        {
+          "grupo": "001",
+          "nombre": "EIN-19408-AFRICA",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "MAT-12310-ALGEBRA MATRICIAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12310-ALGEBRA MATRICIAL",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "08:00-10:40",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "10:40"
         }
       ]
     }
@@ -1609,8 +1616,8 @@ let profesores={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7976,
-    "n": 84,
+    "general": 8.8118,
+    "n": 85,
     "grupos": {
       "MAT-14281-MATEMATICAS DISCRETAS": [
         {
@@ -1662,10 +1669,11 @@ let mejoresPorDepto={
   "COMPUTACION": [
     "XOCHITL CHAVARRIA CRUZ",
     "MONICA ZAVALA ESTRADA",
+    "IRMA LOZANO MENDICUTI",
     "JOSE CALIXTO CANO",
-    "",
     "ISRAEL LOPEZ AVILA",
-    "JOSE ALEJANDRO JARDI RAMOS"
+    "JOSE ALEJANDRO JARDI RAMOS",
+    ""
   ],
   "CONTABILIDAD": [
     "ROSARIO EDITH GARCIA MENDIOLA",
@@ -1709,8 +1717,8 @@ let mejoresPorDepto={
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ"
   ],
   "MATEMATICAS": [
-    "LEON FELIPE VILLALOBOS SANCHEZ",
     "CONCEPCION RUIZ RUIZ FUNES",
+    "LEON FELIPE VILLALOBOS SANCHEZ",
     "LYSETTE FELIX FELIX",
     "SHARON MAGALI VALVERDE ESPARZA",
     "LUZ MARIA MARVAN GARDU\u00d1O",

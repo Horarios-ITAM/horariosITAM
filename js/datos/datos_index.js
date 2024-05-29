@@ -1,4 +1,4 @@
-let actualizado="1716906863573.0703";
+let actualizado="1716993287531.4219";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -139,7 +139,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-11302-ALGORITMICA Y PROGRAMACION",
-        "profesor": "",
+        "profesor": "IRMA LOZANO MENDICUTI",
         "creditos": "6",
         "horario": "12:00-14:00",
         "dias": [
@@ -1674,6 +1674,11 @@ let misProfesData={
     "general": 7.8193,
     "n": 83
   },
+  "IRMA LOZANO MENDICUTI": {
+    "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
+    "general": 8.4286,
+    "n": 35
+  },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
     "general": 8.163,
@@ -1721,8 +1726,8 @@ let misProfesData={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.7976,
-    "n": 84
+    "general": 8.8118,
+    "n": 85
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
