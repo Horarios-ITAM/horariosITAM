@@ -1,4 +1,4 @@
-let actualizado="1716993287532.8967";
+let actualizado="1717079668142.2068";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -1545,8 +1545,8 @@ let profesores={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.8261,
-    "n": 23,
+    "general": 7.625,
+    "n": 24,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -1571,8 +1571,8 @@ let profesores={
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
-    "general": 8.8039,
-    "n": 51,
+    "general": 8.75,
+    "n": 52,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -1722,8 +1722,8 @@ let mejoresPorDepto={
     "LYSETTE FELIX FELIX",
     "SHARON MAGALI VALVERDE ESPARZA",
     "LUZ MARIA MARVAN GARDU\u00d1O",
-    "GLORIA LOPEZ CHAVEZ",
     "LYDIA LOPEZ GUTIERREZ",
+    "GLORIA LOPEZ CHAVEZ",
     "JORGE MONROY JIMENEZ",
     "MARIANA CASILLAS CASILLAS",
     "EDUARDO TOMAS ARELLANO ARJONA"

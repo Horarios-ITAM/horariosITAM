@@ -1,4 +1,4 @@
-let actualizado="1716993287531.4219";
+let actualizado="1717079668140.557";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -1666,8 +1666,8 @@ let misProfesData={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.8261,
-    "n": 23
+    "general": 7.625,
+    "n": 24
   },
   "LYDIA LOPEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Lydia-Lopez-Gutierrez_19118",
@@ -1756,8 +1756,8 @@ let misProfesData={
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
-    "general": 8.8039,
-    "n": 51
+    "general": 8.75,
+    "n": 52
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
