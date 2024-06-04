@@ -1,10 +1,33 @@
-let actualizado="1717425315897.8862";
+let actualizado="1717511717552.3118";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
 let dropDownUrl="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2519";
 let formPostUrl="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2";
 let clases={
+  "ACT-15352": {
+    "nombre": "ACT-15352-PLANES DE BENEFICIOS",
+    "clave": "ACT-15352",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ACT-15352-PLANES DE BENEFICIOS",
+        "profesor": "PEDRO DANIEL TREJO SOLIS",
+        "creditos": "6",
+        "horario": "17:30-19:30",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH112",
+        "campus": "RIO HONDO",
+        "inicio": "17:30",
+        "fin": "19:30"
+      }
+    ]
+  },
   "ADM-14413": {
     "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
     "clave": "ADM-14413",
@@ -165,7 +188,7 @@ let clases={
         "nombre": "COM-12101-BASES DE DATOS",
         "profesor": "ISRAEL LOPEZ AVILA",
         "creditos": "8",
-        "horario": "17:30-19:45",
+        "horario": "17:30-19:35",
         "dias": [
           "LU",
           "MA",
@@ -176,7 +199,7 @@ let clases={
         "salon": "RHCC101",
         "campus": "RIO HONDO",
         "inicio": "17:30",
-        "fin": "19:45"
+        "fin": "19:35"
       }
     ]
   },
@@ -229,7 +252,8 @@ let clases={
           "LU",
           "MA",
           "MI",
-          "JU"
+          "JU",
+          "VI"
         ],
         "salon": "RHCC202",
         "campus": "RIO HONDO",
@@ -1741,6 +1765,11 @@ let misProfesData={
   },
   "PAUL RENATO TOPPO RAIMONDO": {
     "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
+    "general": 6.4167,
+    "n": 12
+  },
+  "PEDRO DANIEL TREJO SOLIS": {
+    "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
     "general": 6.4167,
     "n": 12
   },

@@ -1,10 +1,36 @@
-let actualizado="1717425315899.5867";
+let actualizado="1717511717554.001";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
 let dropDownUrl="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2519";
 let formPostUrl="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2";
 let profesores={
+  "PEDRO DANIEL TREJO SOLIS": {
+    "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
+    "general": 6.4167,
+    "n": 12,
+    "grupos": {
+      "ACT-15352-PLANES DE BENEFICIOS": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-15352-PLANES DE BENEFICIOS",
+          "profesor": "PEDRO DANIEL TREJO SOLIS",
+          "creditos": "6",
+          "horario": "17:30-19:30",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH112",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:30"
+        }
+      ]
+    }
+  },
   "MARGARET KATHRYN  SLOAN": {
     "grupos": {
       "ADM-14413-DESAR. DE HABILID. GERENCIALES": [
@@ -160,7 +186,7 @@ let profesores={
           "nombre": "COM-12101-BASES DE DATOS",
           "profesor": "ISRAEL LOPEZ AVILA",
           "creditos": "8",
-          "horario": "17:30-19:45",
+          "horario": "17:30-19:35",
           "dias": [
             "LU",
             "MA",
@@ -171,7 +197,7 @@ let profesores={
           "salon": "RHCC101",
           "campus": "RIO HONDO",
           "inicio": "17:30",
-          "fin": "19:45"
+          "fin": "19:35"
         }
       ],
       "COM-16412-HERR. COMP. Y PROD. EMPRESAR.": [
@@ -262,7 +288,8 @@ let profesores={
             "LU",
             "MA",
             "MI",
-            "JU"
+            "JU",
+            "VI"
           ],
           "salon": "RHCC202",
           "campus": "RIO HONDO",
@@ -1657,6 +1684,9 @@ let profesores={
   }
 };
 let mejoresPorDepto={
+  "ACTUARIA Y SEGUROS": [
+    "PEDRO DANIEL TREJO SOLIS"
+  ],
   "ADMINISTRACION": [
     "JULIETA IRMA GUIZA PEREZ",
     "MARGARET KATHRYN  SLOAN",
