@@ -1,4 +1,4 @@
-let actualizado="1717511717552.3118";
+let actualizado="1717598155832.0269";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -767,6 +767,30 @@ let clases={
       }
     ]
   },
+  "ECO-14301": {
+    "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+    "clave": "ECO-14301",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "09:00-11:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "RH303",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "11:00"
+      }
+    ]
+  },
   "ECO-18101": {
     "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
     "clave": "ECO-18101",
@@ -1351,7 +1375,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-        "profesor": "",
+        "profesor": "CLOTILDE GARCIA VILLA",
         "creditos": "8",
         "horario": "08:00-10:40",
         "dias": [
@@ -1678,6 +1702,11 @@ let misProfesData={
     "general": 8.3607,
     "n": 61
   },
+  "CLOTILDE GARCIA VILLA": {
+    "link": "https://www.misprofesores.com/profesores/Clotilde-Garc\u00eda-Villa_72016",
+    "general": 7.3,
+    "n": 20
+  },
   "JULIETA IRMA GUIZA PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
     "general": 5.3548,
@@ -1759,9 +1788,9 @@ let misProfesData={
     "n": 26
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "PAUL RENATO TOPPO RAIMONDO": {
     "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",

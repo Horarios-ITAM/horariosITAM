@@ -1,4 +1,4 @@
-let actualizado="1717511717554.001";
+let actualizado="1717598155833.6045";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -321,6 +321,26 @@ let profesores={
           "fin": "11:35"
         }
       ],
+      "ECO-14301-ORGANIZACION INDUSTRIAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "09:00-11:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ],
       "EIN-19408-AFRICA": [
         {
           "grupo": "001",
@@ -338,22 +358,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
-        }
-      ],
-      "MAT-12310-ALGEBRA MATRICIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "08:00-10:40",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:40"
         }
       ]
     }
@@ -1180,9 +1184,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1423,6 +1427,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "CLOTILDE GARCIA VILLA": {
+    "link": "https://www.misprofesores.com/profesores/Clotilde-Garc\u00eda-Villa_72016",
+    "general": 7.3,
+    "n": 20,
+    "grupos": {
+      "MAT-12310-ALGEBRA MATRICIAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12310-ALGEBRA MATRICIAL",
+          "profesor": "CLOTILDE GARCIA VILLA",
+          "creditos": "8",
+          "horario": "08:00-10:40",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "10:40"
         }
       ]
     }
@@ -1755,7 +1782,7 @@ let mejoresPorDepto={
     "LYDIA LOPEZ GUTIERREZ",
     "GLORIA LOPEZ CHAVEZ",
     "JORGE MONROY JIMENEZ",
-    "MARIANA CASILLAS CASILLAS",
-    "EDUARDO TOMAS ARELLANO ARJONA"
+    "CLOTILDE GARCIA VILLA",
+    "MARIANA CASILLAS CASILLAS"
   ]
 };
