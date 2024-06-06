@@ -1,4 +1,4 @@
-let actualizado="1717598155833.6045";
+let actualizado="1717684546161.7937";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -77,6 +77,51 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "POLUX ERNESTO DIAZ RUIZ": {
+    "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
+    "general": 5.2857,
+    "n": 35,
+    "grupos": {
+      "ADM-15502-FINANZAS, II": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15502-FINANZAS, II",
+          "profesor": "POLUX ERNESTO DIAZ RUIZ",
+          "creditos": "7",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ],
+      "ADM-15510-INVERSIONES": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15510-INVERSIONES",
+          "profesor": "POLUX ERNESTO DIAZ RUIZ",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
         }
       ]
     }
@@ -1184,9 +1229,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1716,6 +1761,7 @@ let mejoresPorDepto={
   ],
   "ADMINISTRACION": [
     "JULIETA IRMA GUIZA PEREZ",
+    "POLUX ERNESTO DIAZ RUIZ",
     "MARGARET KATHRYN  SLOAN",
     "BRUCE PETER  MCWILLIAMS"
   ],
