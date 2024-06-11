@@ -1,4 +1,4 @@
-let actualizado="1718030180221.5518";
+let actualizado="1718116514192.051";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -519,17 +519,17 @@ let clases={
         "nombre": "DER-10005-DER. INTERNACIONAL PUBLICO,I",
         "profesor": "JORGE AGUILERA SUAREZ",
         "creditos": "6",
-        "horario": "09:00-11:00",
+        "horario": "07:00-09:00",
         "dias": [
           "LU",
           "MA",
           "MI",
           "JU"
         ],
-        "salon": "RH105",
+        "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -707,17 +707,17 @@ let clases={
         "nombre": "DER-18600-DERECHO INTERNACIONAL I",
         "profesor": "JORGE AGUILERA SUAREZ",
         "creditos": "6",
-        "horario": "09:00-11:00",
+        "horario": "07:00-09:00",
         "dias": [
           "LU",
           "MA",
           "MI",
           "JU"
         ],
-        "salon": "RH105",
+        "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -730,17 +730,17 @@ let clases={
         "nombre": "DER-18701-DERECHO INTERNACIONAL PUBLICO",
         "profesor": "JORGE AGUILERA SUAREZ",
         "creditos": "6",
-        "horario": "09:00-11:00",
+        "horario": "07:00-09:00",
         "dias": [
           "LU",
           "MA",
           "MI",
           "JU"
         ],
-        "salon": "RH105",
+        "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -1839,9 +1839,9 @@ let misProfesData={
     "n": 26
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "PAUL RENATO TOPPO RAIMONDO": {
     "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",

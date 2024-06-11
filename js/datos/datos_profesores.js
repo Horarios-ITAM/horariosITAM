@@ -1,4 +1,4 @@
-let actualizado="1718030180223.0322";
+let actualizado="1718116514193.8218";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -590,17 +590,17 @@ let profesores={
           "nombre": "DER-10005-DER. INTERNACIONAL PUBLICO,I",
           "profesor": "JORGE AGUILERA SUAREZ",
           "creditos": "6",
-          "horario": "09:00-11:00",
+          "horario": "07:00-09:00",
           "dias": [
             "LU",
             "MA",
             "MI",
             "JU"
           ],
-          "salon": "RH105",
+          "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ],
       "DER-18600-DERECHO INTERNACIONAL I": [
@@ -609,17 +609,17 @@ let profesores={
           "nombre": "DER-18600-DERECHO INTERNACIONAL I",
           "profesor": "JORGE AGUILERA SUAREZ",
           "creditos": "6",
-          "horario": "09:00-11:00",
+          "horario": "07:00-09:00",
           "dias": [
             "LU",
             "MA",
             "MI",
             "JU"
           ],
-          "salon": "RH105",
+          "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ],
       "DER-18701-DERECHO INTERNACIONAL PUBLICO": [
@@ -628,17 +628,17 @@ let profesores={
           "nombre": "DER-18701-DERECHO INTERNACIONAL PUBLICO",
           "profesor": "JORGE AGUILERA SUAREZ",
           "creditos": "6",
-          "horario": "09:00-11:00",
+          "horario": "07:00-09:00",
           "dias": [
             "LU",
             "MA",
             "MI",
             "JU"
           ],
-          "salon": "RH105",
+          "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -1229,9 +1229,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
