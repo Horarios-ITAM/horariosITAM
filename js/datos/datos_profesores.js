@@ -1,4 +1,4 @@
-let actualizado="1718202882408.009";
+let actualizado="1718289344539.892";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -384,25 +384,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
-        }
-      ],
-      "EIN-19408-AFRICA": [
-        {
-          "grupo": "001",
-          "nombre": "EIN-19408-AFRICA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
         }
       ]
     }
@@ -951,6 +932,29 @@ let profesores={
       ]
     }
   },
+  "LUIS FERNANDO BALAGUERA SARMIENTO": {
+    "grupos": {
+      "EIN-19408-AFRICA": [
+        {
+          "grupo": "001",
+          "nombre": "EIN-19408-AFRICA",
+          "profesor": "LUIS FERNANDO BALAGUERA SARMIENTO",
+          "creditos": "6",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
     "general": 8.6,
@@ -1095,8 +1099,8 @@ let profesores={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 7.0,
-    "n": 5,
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -1140,8 +1144,8 @@ let profesores={
   },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
-    "general": 9.1828,
-    "n": 93,
+    "general": 9.1915,
+    "n": 94,
     "grupos": {
       "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.": [
         {
@@ -1229,9 +1233,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1670,8 +1674,8 @@ let profesores={
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
-    "general": 8.75,
-    "n": 52,
+    "general": 8.6415,
+    "n": 53,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -1803,7 +1807,8 @@ let mejoresPorDepto={
     "ERICK FERNANDO MOLINA PEREZ"
   ],
   "ESTUDIOS INTERNACIONALES": [
-    "ISABEL FLORES ALCAZAR"
+    "ISABEL FLORES ALCAZAR",
+    "LUIS FERNANDO BALAGUERA SARMIENTO"
   ],
   "ESTADISTICA": [
     "DANTE GABRIEL CAMPOS SALIDO",

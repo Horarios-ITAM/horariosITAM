@@ -1,4 +1,4 @@
-let actualizado="1718202882406.3052";
+let actualizado="1718289344538.3662";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -913,7 +913,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EIN-19408-AFRICA",
-        "profesor": "",
+        "profesor": "LUIS FERNANDO BALAGUERA SARMIENTO",
         "creditos": "6",
         "horario": "07:00-09:00",
         "dias": [
@@ -1690,8 +1690,8 @@ let misProfesData={
   },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
-    "general": 9.1828,
-    "n": 93
+    "general": 9.1915,
+    "n": 94
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
@@ -1795,8 +1795,8 @@ let misProfesData={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 7.0,
-    "n": 5
+    "general": 6.6667,
+    "n": 6
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
@@ -1839,9 +1839,9 @@ let misProfesData={
     "n": 26
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "PAUL RENATO TOPPO RAIMONDO": {
     "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
@@ -1865,8 +1865,8 @@ let misProfesData={
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
-    "general": 8.75,
-    "n": 52
+    "general": 8.6415,
+    "n": 53
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
