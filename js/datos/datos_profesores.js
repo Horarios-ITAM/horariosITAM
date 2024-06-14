@@ -1,4 +1,4 @@
-let actualizado="1718289344539.892";
+let actualizado="1718375737449.4211";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -50,6 +50,32 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "MARIANA CONTRERAS AREVALO": {
+    "link": "https://www.misprofesores.com/profesores/Mariana-Contreras-Ar\u00e9valo_120948",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "ADM-14413-DESAR. DE HABILID. GERENCIALES": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
+          "profesor": "MARIANA CONTRERAS AREVALO",
+          "creditos": "6",
+          "horario": "09:00-13:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "13:00"
         }
       ]
     }
@@ -145,53 +171,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "12:00"
-        }
-      ]
-    }
-  },
-  "JOSE FRANCISCO CASTILLO NAVARRETE": {
-    "grupos": {
-      "CLE-10201-INGLES INTENSIVO-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10201-INGLES INTENSIVO-LAB",
-          "profesor": "JOSE FRANCISCO CASTILLO NAVARRETE",
-          "creditos": "6",
-          "horario": "10:00-13:30",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RHSA4",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:30"
-        }
-      ]
-    }
-  },
-  "MARIA GRACE  NOBILE": {
-    "grupos": {
-      "CLE-10202-INGLES AVANZADO-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10202-INGLES AVANZADO-LAB",
-          "profesor": "MARIA GRACE  NOBILE",
-          "creditos": "4",
-          "horario": "11:00-14:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
         }
       ]
     }
@@ -294,29 +273,6 @@ let profesores={
       ]
     }
   },
-  "JOSE ALEJANDRO JARDI RAMOS": {
-    "grupos": {
-      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
-        {
-          "grupo": "002",
-          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "JOSE ALEJANDRO JARDI RAMOS",
-          "creditos": "7",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RHCC102",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ]
-    }
-  },
   "JOSE CALIXTO CANO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
     "general": 6.5588,
@@ -388,18 +344,18 @@ let profesores={
       ]
     }
   },
-  "XOCHITL CHAVARRIA CRUZ": {
-    "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
-    "general": 9.6923,
-    "n": 13,
+  "ALBERTO ESPINOSA GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
+    "general": 7.4118,
+    "n": 17,
     "grupos": {
-      "COM-16401-COMPUTACION I, INTENSIVA": [
+      "COM-16412-HERR. COMP. Y PROD. EMPRESAR.": [
         {
-          "grupo": "001",
-          "nombre": "COM-16401-COMPUTACION I, INTENSIVA",
-          "profesor": "XOCHITL CHAVARRIA CRUZ",
-          "creditos": "7",
-          "horario": "07:00-09:00",
+          "grupo": "002",
+          "nombre": "COM-16412-HERR. COMP. Y PROD. EMPRESAR.",
+          "profesor": "ALBERTO ESPINOSA GONZALEZ",
+          "creditos": "9",
+          "horario": "07:00-09:35",
           "dias": [
             "LU",
             "MA",
@@ -407,10 +363,10 @@ let profesores={
             "JU",
             "VI"
           ],
-          "salon": "RHCC201",
+          "salon": "RHCC102",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "09:00"
+          "fin": "09:35"
         }
       ]
     }
@@ -696,31 +652,6 @@ let profesores={
       ]
     }
   },
-  "IRVIN ARTURO CASTILLO CESAREO": {
-    "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
-    "general": 9.75,
-    "n": 8,
-    "grupos": {
-      "DER-13504-CONTRATOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-13504-CONTRATOS",
-          "profesor": "IRVIN ARTURO CASTILLO CESAREO",
-          "creditos": "8",
-          "horario": "19:15-22:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "19:15",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
   "JAIME PERALES CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Jaime-Perales-Contreras_118017",
     "general": 9.0909,
@@ -951,32 +882,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
-        }
-      ]
-    }
-  },
-  "MIGUEL ANGEL AVILA DEL BOSQUE": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.6,
-    "n": 40,
-    "grupos": {
-      "EST-10101-ESTADISTICA.,I": [
-        {
-          "grupo": "001",
-          "nombre": "EST-10101-ESTADISTICA.,I",
-          "profesor": "MIGUEL ANGEL AVILA DEL BOSQUE",
-          "creditos": "8",
-          "horario": "10:00-12:40",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:40"
         }
       ]
     }
@@ -1359,26 +1264,6 @@ let profesores={
       ]
     }
   },
-  "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE": {
-    "grupos": {
-      "MAT-11310-MATEMATICAS, III": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-11310-MATEMATICAS, III",
-          "profesor": "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE",
-          "creditos": "8",
-          "horario": "08:00-10:40",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:40"
-        }
-      ]
-    }
-  },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
     "general": 6.8478,
@@ -1480,29 +1365,6 @@ let profesores={
       ]
     }
   },
-  "CLOTILDE GARCIA VILLA": {
-    "link": "https://www.misprofesores.com/profesores/Clotilde-Garc\u00eda-Villa_72016",
-    "general": 7.3,
-    "n": 20,
-    "grupos": {
-      "MAT-12310-ALGEBRA MATRICIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-          "profesor": "CLOTILDE GARCIA VILLA",
-          "creditos": "8",
-          "horario": "08:00-10:40",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:40"
-        }
-      ]
-    }
-  },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
     "general": 7.4412,
@@ -1566,14 +1428,40 @@ let profesores={
           "nombre": "MAT-14101-CALCULO DIF. E INT., II",
           "profesor": "ANGEL PEREZ JUAREZ",
           "creditos": "8",
-          "horario": "08:00-10:40",
+          "horario": "08:00-10:00",
           "dias": [
-            "LU"
+            "MA",
+            "MI",
+            "JU",
+            "VI"
           ],
           "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "08:00",
-          "fin": "10:40"
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE": {
+    "grupos": {
+      "MAT-14101-CALCULO DIF. E INT., II": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14101-CALCULO DIF. E INT., II",
+          "profesor": "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE",
+          "creditos": "8",
+          "horario": "08:00-10:00",
+          "dias": [
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RH108",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -1597,51 +1485,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:40"
-        }
-      ]
-    }
-  },
-  "PAUL RENATO TOPPO RAIMONDO": {
-    "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
-    "general": 6.4167,
-    "n": 12,
-    "grupos": {
-      "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)",
-          "profesor": "PAUL RENATO TOPPO RAIMONDO",
-          "creditos": "6",
-          "horario": "08:00-10:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH212",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:00"
-        }
-      ],
-      "MAT-14250-GEOMETRIA VECTORIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
-          "profesor": "PAUL RENATO TOPPO RAIMONDO",
-          "creditos": "6",
-          "horario": "08:00-10:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH212",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:00"
         }
       ]
     }
@@ -1764,22 +1607,18 @@ let mejoresPorDepto={
     "PEDRO DANIEL TREJO SOLIS"
   ],
   "ADMINISTRACION": [
+    "MARIANA CONTRERAS AREVALO",
     "JULIETA IRMA GUIZA PEREZ",
     "POLUX ERNESTO DIAZ RUIZ",
     "MARGARET KATHRYN  SLOAN",
     "BRUCE PETER  MCWILLIAMS"
   ],
-  "LENGUAS (CLE)": [
-    "JOSE FRANCISCO CASTILLO NAVARRETE",
-    "MARIA GRACE  NOBILE"
-  ],
   "COMPUTACION": [
-    "XOCHITL CHAVARRIA CRUZ",
     "MONICA ZAVALA ESTRADA",
     "IRMA LOZANO MENDICUTI",
+    "ALBERTO ESPINOSA GONZALEZ",
     "JOSE CALIXTO CANO",
     "ISRAEL LOPEZ AVILA",
-    "JOSE ALEJANDRO JARDI RAMOS",
     ""
   ],
   "CONTABILIDAD": [
@@ -1792,7 +1631,6 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS"
   ],
   "DERECHO": [
-    "IRVIN ARTURO CASTILLO CESAREO",
     "JAIME PERALES CONTRERAS",
     "MIGUEL ANGEL CASTRO TORRESLANDA",
     "JORGE AGUILERA SUAREZ",
@@ -1812,7 +1650,6 @@ let mejoresPorDepto={
   ],
   "ESTADISTICA": [
     "DANTE GABRIEL CAMPOS SALIDO",
-    "MIGUEL ANGEL AVILA DEL BOSQUE",
     "LILIANA DE LA TORRE DESENTIS",
     "JOSE DAVID SANTOS SALAZAR",
     "ERICK ULISES MENDOZA ARIAS",
@@ -1833,7 +1670,7 @@ let mejoresPorDepto={
     "LYDIA LOPEZ GUTIERREZ",
     "GLORIA LOPEZ CHAVEZ",
     "JORGE MONROY JIMENEZ",
-    "CLOTILDE GARCIA VILLA",
-    "MARIANA CASILLAS CASILLAS"
+    "MARIANA CASILLAS CASILLAS",
+    "EDUARDO TOMAS ARELLANO ARJONA"
   ]
 };
