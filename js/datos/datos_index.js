@@ -1,4 +1,4 @@
-let actualizado="1718721317783.074";
+let actualizado="1718807671799.544";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -258,7 +258,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-16303-MODELADO COMPUT. PARA NEGOCIOS",
-        "profesor": "",
+        "profesor": "LETICIA RENTERIA FERRAN",
         "creditos": "9",
         "horario": "09:00-11:35",
         "dias": [
@@ -705,6 +705,29 @@ let clases={
       }
     ]
   },
+  "ECO-11104": {
+    "nombre": "ECO-11104-ECONOMIA, IV",
+    "clave": "ECO-11104",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-11104-ECONOMIA, IV",
+        "profesor": "CARLOS MANDUJANO FERREIRO",
+        "creditos": "6",
+        "horario": "07:00-09:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH302",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
+      }
+    ]
+  },
   "ECO-12121": {
     "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
     "clave": "ECO-12121",
@@ -722,6 +745,46 @@ let clases={
           "JU"
         ],
         "salon": "RH107",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "07:00-09:00",
+        "dias": [
+          "LU",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
+      }
+    ]
+  },
+  "ECO-12125": {
+    "nombre": "ECO-12125-TOP. SELECTOS DE MACROECONOMIA",
+    "clave": "ECO-12125",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-12125-TOP. SELECTOS DE MACROECONOMIA",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "07:00-09:00",
+        "dias": [
+          "LU",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "RHCUBIC",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -795,6 +858,28 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "11:00"
+      }
+    ]
+  },
+  "ECO-19301": {
+    "nombre": "ECO-19301-ECONOMIA URBANA (OP)",
+    "clave": "ECO-19301",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-19301-ECONOMIA URBANA (OP)",
+        "profesor": "JORGE EDUARDO PEREZ PEREZ",
+        "creditos": "6",
+        "horario": "19:00-21:40",
+        "dias": [
+          "LU",
+          "MA",
+          "JU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "21:40"
       }
     ]
   },
@@ -1302,7 +1387,7 @@ let clases={
           "JU",
           "VI"
         ],
-        "salon": "RH301",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -1446,7 +1531,7 @@ let clases={
           "LU",
           "JU"
         ],
-        "salon": "RH303",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "16:30",
         "fin": "19:00"
@@ -1490,7 +1575,7 @@ let clases={
           "LU",
           "JU"
         ],
-        "salon": "RH303",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "16:30",
         "fin": "19:00"
@@ -1655,9 +1740,9 @@ let misProfesData={
     "n": 26
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",

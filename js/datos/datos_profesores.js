@@ -1,4 +1,4 @@
-let actualizado="1718721317784.69";
+let actualizado="1718807671801.2102";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -300,13 +300,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "LETICIA RENTERIA FERRAN": {
     "grupos": {
       "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
         {
           "grupo": "001",
           "nombre": "COM-16303-MODELADO COMPUT. PARA NEGOCIOS",
-          "profesor": "",
+          "profesor": "LETICIA RENTERIA FERRAN",
           "creditos": "9",
           "horario": "09:00-11:35",
           "dias": [
@@ -320,26 +320,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:35"
-        }
-      ],
-      "ECO-14301-ORGANIZACION INDUSTRIAL": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "09:00-11:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -785,6 +765,29 @@ let profesores={
       ]
     }
   },
+  "CARLOS MANDUJANO FERREIRO": {
+    "grupos": {
+      "ECO-11104-ECONOMIA, IV": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11104-ECONOMIA, IV",
+          "profesor": "CARLOS MANDUJANO FERREIRO",
+          "creditos": "6",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "ALBERTO RAMIREZ DE AGUILAR WILLE": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Ram\u00edrez-de-Aguilar-Wille_130993",
     "general": 5.5,
@@ -811,6 +814,68 @@ let profesores={
       ]
     }
   },
+  "": {
+    "grupos": {
+      "ECO-12121-MACROECONOMIA AVANZADA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "ECO-12125-TOP. SELECTOS DE MACROECONOMIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12125-TOP. SELECTOS DE MACROECONOMIA",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "ECO-14301-ORGANIZACION INDUSTRIAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "09:00-11:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "JORGE HERRERA JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Herrera-Juarez_95615",
     "general": 9.0,
@@ -833,6 +898,28 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "11:00"
+        }
+      ]
+    }
+  },
+  "JORGE EDUARDO PEREZ PEREZ": {
+    "grupos": {
+      "ECO-19301-ECONOMIA URBANA (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-19301-ECONOMIA URBANA (OP)",
+          "profesor": "JORGE EDUARDO PEREZ PEREZ",
+          "creditos": "6",
+          "horario": "19:00-21:40",
+          "dias": [
+            "LU",
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:40"
         }
       ]
     }
@@ -1138,9 +1225,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1383,7 +1470,7 @@ let profesores={
             "JU",
             "VI"
           ],
-          "salon": "RH301",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -1576,7 +1663,7 @@ let profesores={
             "LU",
             "JU"
           ],
-          "salon": "RH303",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "16:30",
           "fin": "19:00"
@@ -1593,7 +1680,7 @@ let profesores={
             "LU",
             "JU"
           ],
-          "salon": "RH303",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "16:30",
           "fin": "19:00"
@@ -1619,7 +1706,7 @@ let mejoresPorDepto={
     "ALBERTO ESPINOSA GONZALEZ",
     "JOSE CALIXTO CANO",
     "ISRAEL LOPEZ AVILA",
-    ""
+    "LETICIA RENTERIA FERRAN"
   ],
   "CONTABILIDAD": [
     "ROSARIO EDITH GARCIA MENDIOLA",
@@ -1642,7 +1729,10 @@ let mejoresPorDepto={
     "JORGE HERRERA JUAREZ",
     "ALBERTO RAMIREZ DE AGUILAR WILLE",
     "GUSTAVO HERNANDEZ MONROY",
-    "ERICK FERNANDO MOLINA PEREZ"
+    "ERICK FERNANDO MOLINA PEREZ",
+    "CARLOS MANDUJANO FERREIRO",
+    "",
+    "JORGE EDUARDO PEREZ PEREZ"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "ISABEL FLORES ALCAZAR",
