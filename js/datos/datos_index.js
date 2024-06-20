@@ -1,4 +1,4 @@
-let actualizado="1718807671799.544";
+let actualizado="1718894062212.3992";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -141,25 +141,7 @@ let clases={
   "ADM-16601": {
     "nombre": "ADM-16601-MERCADOTECNIA, I",
     "clave": "ADM-16601",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-16601-MERCADOTECNIA, I",
-        "profesor": "BRUCE PETER  MCWILLIAMS",
-        "creditos": "6",
-        "horario": "09:00-12:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH307",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "12:00"
-      }
-    ]
+    "grupos": []
   },
   "COM-11302": {
     "nombre": "COM-11302-ALGORITMICA Y PROGRAMACION",
@@ -1740,9 +1722,9 @@ let misProfesData={
     "n": 26
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
