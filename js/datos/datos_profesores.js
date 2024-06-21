@@ -1,4 +1,4 @@
-let actualizado="1718894062214.0813";
+let actualizado="1718980461052.6494";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -692,7 +692,7 @@ let profesores={
             "JU",
             "VI"
           ],
-          "salon": "RH107",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "09:30",
           "fin": "11:30"
@@ -791,13 +791,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "AGUSTIN SAMANO PE\u00d1ALOZA": {
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
           "grupo": "002",
           "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
-          "profesor": "",
+          "profesor": "AGUSTIN SAMANO PE\u00d1ALOZA",
           "creditos": "6",
           "horario": "07:00-09:00",
           "dias": [
@@ -816,7 +816,7 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "ECO-12125-TOP. SELECTOS DE MACROECONOMIA",
-          "profesor": "",
+          "profesor": "AGUSTIN SAMANO PE\u00d1ALOZA",
           "creditos": "6",
           "horario": "07:00-09:00",
           "dias": [
@@ -830,7 +830,11 @@ let profesores={
           "inicio": "07:00",
           "fin": "09:00"
         }
-      ],
+      ]
+    }
+  },
+  "": {
+    "grupos": {
       "ECO-14301-ORGANIZACION INDUSTRIAL": [
         {
           "grupo": "001",
@@ -1707,6 +1711,7 @@ let mejoresPorDepto={
     "GUSTAVO HERNANDEZ MONROY",
     "ERICK FERNANDO MOLINA PEREZ",
     "CARLOS MANDUJANO FERREIRO",
+    "AGUSTIN SAMANO PE\u00d1ALOZA",
     "",
     "JORGE EDUARDO PEREZ PEREZ"
   ],

@@ -1,4 +1,4 @@
-let actualizado="1718894062212.3992";
+let actualizado="1718980461051.1284";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -657,7 +657,7 @@ let clases={
           "JU",
           "VI"
         ],
-        "salon": "RH107",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "09:30",
         "fin": "11:30"
@@ -734,7 +734,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
-        "profesor": "",
+        "profesor": "AGUSTIN SAMANO PE\u00d1ALOZA",
         "creditos": "6",
         "horario": "07:00-09:00",
         "dias": [
@@ -757,7 +757,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12125-TOP. SELECTOS DE MACROECONOMIA",
-        "profesor": "",
+        "profesor": "AGUSTIN SAMANO PE\u00d1ALOZA",
         "creditos": "6",
         "horario": "07:00-09:00",
         "dias": [
