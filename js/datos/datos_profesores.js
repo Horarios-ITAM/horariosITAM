@@ -1,4 +1,4 @@
-let actualizado="1718980461052.6494";
+let actualizado="1719066826631.7927";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -669,7 +669,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH106",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -956,8 +956,8 @@ let profesores={
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
-    "general": 8.1333,
-    "n": 15,
+    "general": 7.875,
+    "n": 16,
     "grupos": {
       "EST-10102-ESTADISTICA.,II": [
         {

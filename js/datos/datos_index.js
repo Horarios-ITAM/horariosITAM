@@ -1,4 +1,4 @@
-let actualizado="1718980461051.1284";
+let actualizado="1719066826630.1716";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -588,7 +588,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH106",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -1608,8 +1608,8 @@ let misProfesData={
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
-    "general": 8.1333,
-    "n": 15
+    "general": 7.875,
+    "n": 16
   },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
