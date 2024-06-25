@@ -1,4 +1,4 @@
-let actualizado="1719239729896.9338";
+let actualizado="1719326182258.0088";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -657,7 +657,7 @@ let clases={
           "JU",
           "VI"
         ],
-        "salon": "RH212",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "09:30",
         "fin": "11:30"
@@ -1722,9 +1722,9 @@ let misProfesData={
     "n": 26
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",

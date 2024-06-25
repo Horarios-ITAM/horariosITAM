@@ -1,4 +1,4 @@
-let actualizado="1719239729898.5803";
+let actualizado="1719326182259.4246";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -692,7 +692,7 @@ let profesores={
             "JU",
             "VI"
           ],
-          "salon": "RH212",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "09:30",
           "fin": "11:30"
@@ -1206,9 +1206,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
