@@ -1,4 +1,4 @@
-let actualizado="1719412482335.1348";
+let actualizado="1719498909230.2107";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -833,13 +833,16 @@ let profesores={
       ]
     }
   },
-  "": {
+  "ALEJANDRO DIAZ HERRERA": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-D\u00edaz-Herrera_166977",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "ECO-14301-ORGANIZACION INDUSTRIAL": [
         {
           "grupo": "001",
           "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
-          "profesor": "",
+          "profesor": "ALEJANDRO DIAZ HERRERA",
           "creditos": "6",
           "horario": "09:00-11:00",
           "dias": [
@@ -1707,12 +1710,12 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JORGE HERRERA JUAREZ",
+    "ALEJANDRO DIAZ HERRERA",
     "ALBERTO RAMIREZ DE AGUILAR WILLE",
     "GUSTAVO HERNANDEZ MONROY",
     "ERICK FERNANDO MOLINA PEREZ",
     "CARLOS MANDUJANO FERREIRO",
     "AGUSTIN SAMANO PE\u00d1ALOZA",
-    "",
     "JORGE EDUARDO PEREZ PEREZ"
   ],
   "ESTUDIOS INTERNACIONALES": [

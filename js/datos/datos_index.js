@@ -1,4 +1,4 @@
-let actualizado="1719412482333.4907";
+let actualizado="1719498909228.5957";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -780,7 +780,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
-        "profesor": "",
+        "profesor": "ALEJANDRO DIAZ HERRERA",
         "creditos": "6",
         "horario": "09:00-11:00",
         "dias": [
@@ -1615,6 +1615,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
     "general": 8.1714,
     "n": 35
+  },
+  "ALEJANDRO DIAZ HERRERA": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-D\u00edaz-Herrera_166977",
+    "general": 8.0,
+    "n": 1
   },
   "POLUX ERNESTO DIAZ RUIZ": {
     "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
