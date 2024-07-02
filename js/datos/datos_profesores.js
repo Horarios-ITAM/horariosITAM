@@ -1,4 +1,4 @@
-let actualizado="1719844507465.199";
+let actualizado="1719930870208.3096";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -761,6 +761,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "CARLOS MIGUEL ROCHA TORRES": {
+    "grupos": {
+      "ECO-11104-ECONOMIA, IV": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11104-ECONOMIA, IV",
+          "profesor": "CARLOS MIGUEL ROCHA TORRES",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -1715,6 +1735,7 @@ let mejoresPorDepto={
     "GUSTAVO HERNANDEZ MONROY",
     "ERICK FERNANDO MOLINA PEREZ",
     "CARLOS MANDUJANO FERREIRO",
+    "CARLOS MIGUEL ROCHA TORRES",
     "AGUSTIN SAMANO PE\u00d1ALOZA",
     "JORGE EDUARDO PEREZ PEREZ"
   ],

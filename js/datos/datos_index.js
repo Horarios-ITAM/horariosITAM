@@ -1,4 +1,4 @@
-let actualizado="1719844507463.54";
+let actualizado="1719930870206.6582";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -707,6 +707,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-11104-ECONOMIA, IV",
+        "profesor": "CARLOS MIGUEL ROCHA TORRES",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
