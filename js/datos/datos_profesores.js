@@ -1,4 +1,4 @@
-let actualizado="1720362846953.8398";
+let actualizado="1720449392184.9758";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -1166,8 +1166,8 @@ let profesores={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.1538,
-    "n": 26,
+    "general": 7.1786,
+    "n": 28,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {

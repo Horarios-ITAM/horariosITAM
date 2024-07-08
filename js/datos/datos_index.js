@@ -1,4 +1,4 @@
-let actualizado="1720362846952.2021";
+let actualizado="1720449392183.3274";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -1737,8 +1737,8 @@ let misProfesData={
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
-    "general": 7.1538,
-    "n": 26
+    "general": 7.1786,
+    "n": 28
   },
   "ANA TAMARIT AMIEVA": {
     "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
