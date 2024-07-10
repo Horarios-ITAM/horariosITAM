@@ -1,4 +1,4 @@
-let actualizado="1720535723583.9272";
+let actualizado="1720622049454.9268";
 let periodo="VERANO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2519";
@@ -1741,9 +1741,9 @@ let misProfesData={
     "n": 28
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
