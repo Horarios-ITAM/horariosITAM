@@ -1,4 +1,4 @@
-let actualizado="1721054188826.2295";
+let actualizado="1721140615422.5364";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -1612,15 +1612,15 @@ let clases={
         "nombre": "ADM-15522-TEORIA DE LAS FINANZAS",
         "profesor": "",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "07:00-08:30",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RH110",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "07:00",
+        "fin": "08:30"
       }
     ]
   },
@@ -8897,7 +8897,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9062,7 +9062,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH210",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:30"
@@ -9215,7 +9215,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH104",
+        "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -10107,7 +10107,7 @@ let clases={
         "nombre": "ECO-21103-ECONOMIA III",
         "profesor": "BARBARA CARRILLO FLORES",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "11:30-13:30",
         "dias": [
           "LU",
           "MI"
@@ -10115,7 +10115,7 @@ let clases={
         "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "11:30",
-        "fin": "13:00"
+        "fin": "13:30"
       }
     ]
   },
@@ -17586,11 +17586,6 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5267,
@@ -18052,9 +18047,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -18137,9 +18132,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18238,8 +18233,8 @@ let misProfesData={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.1111,
-    "n": 18
+    "general": 8.2105,
+    "n": 19
   },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
@@ -18313,8 +18308,8 @@ let misProfesData={
   },
   "SANDRA PATRICIA MINABURO VILLAR": {
     "link": "https://www.misprofesores.com/profesores/Sandra-Patricia-Minaburo-Villar_10747",
-    "general": 5.8421,
-    "n": 38
+    "general": 5.9487,
+    "n": 39
   },
   "ANA KARINA MIRANDA FLORES": {
     "link": "https://www.misprofesores.com/profesores/Ana-Karina-Miranda-Flores_150364",
@@ -18433,8 +18428,8 @@ let misProfesData={
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
-    "general": 8.6508,
-    "n": 63
+    "general": 8.6406,
+    "n": 64
   },
   "WILMER EFREN PEREIRA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Wilmer-Efr\u00e9n-Pereira-Gonz\u00e1lez_142587",
@@ -18513,8 +18508,8 @@ let misProfesData={
   },
   "PABLO ARIEL RAPETTI": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.1053,
-    "n": 19
+    "general": 8.2,
+    "n": 20
   },
   "JULIO ANTONIO RIOS FIGUEROA": {
     "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
@@ -18530,11 +18525,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
     "general": 8.3333,
     "n": 18
-  },
-  "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6667,
-    "n": 87
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
@@ -18558,8 +18548,8 @@ let misProfesData={
   },
   "FERNANDO RODRIGUEZ DOVAL": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
-    "general": 8.6774,
-    "n": 31
+    "general": 8.7188,
+    "n": 32
   },
   "MARIA OFELIA RODRIGUEZ DURAN": {
     "link": "https://www.misprofesores.com/profesores/MARIA-OFELIA-RODRIGUEZ-DURAN_159927",
@@ -18693,8 +18683,8 @@ let misProfesData={
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.2642,
-    "n": 53
+    "general": 6.2407,
+    "n": 54
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
@@ -18703,13 +18693,13 @@ let misProfesData={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.2222,
-    "n": 63
+    "general": 8.25,
+    "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
@@ -18788,8 +18778,8 @@ let misProfesData={
   },
   "BRUNO VELAZQUEZ DELGADO": {
     "link": "https://www.misprofesores.com/profesores/Bruno-Velazquez-Delgado_74531",
-    "general": 7.8036,
-    "n": 56
+    "general": 7.6552,
+    "n": 58
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
@@ -18818,8 +18808,8 @@ let misProfesData={
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
-    "general": 8.6415,
-    "n": 53
+    "general": 8.5741,
+    "n": 54
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",

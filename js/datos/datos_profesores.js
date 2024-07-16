@@ -1,4 +1,4 @@
-let actualizado="1721054188843.5454";
+let actualizado="1721140615438.7412";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -215,15 +215,15 @@ let profesores={
           "nombre": "ADM-15522-TEORIA DE LAS FINANZAS",
           "profesor": "",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "07:00-08:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH110",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ],
       "CLE-10251-INGLES TOEFL-LAB": [
@@ -5414,9 +5414,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5653,8 +5653,8 @@ let profesores={
   },
   "SANDRA PATRICIA MINABURO VILLAR": {
     "link": "https://www.misprofesores.com/profesores/Sandra-Patricia-Minaburo-Villar_10747",
-    "general": 5.8421,
-    "n": 38,
+    "general": 5.9487,
+    "n": 39,
     "grupos": {
       "CON-10002-CONTABILIDAD INTERMEDIA, I": [
         {
@@ -7835,8 +7835,8 @@ let profesores={
   },
   "PABLO ARIEL RAPETTI": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.1053,
-    "n": 19,
+    "general": 8.2,
+    "n": 20,
     "grupos": {
       "DER-11101-TEORIA DEL DERECHO, I": [
         {
@@ -10074,7 +10074,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF107",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10335,7 +10335,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH210",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:30"
@@ -10389,7 +10389,7 @@ let profesores={
           "nombre": "ECO-21103-ECONOMIA III",
           "profesor": "BARBARA CARRILLO FLORES",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "11:30-13:30",
           "dias": [
             "LU",
             "MI"
@@ -10397,7 +10397,7 @@ let profesores={
           "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "11:30",
-          "fin": "13:00"
+          "fin": "13:30"
         }
       ]
     }
@@ -10568,7 +10568,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH104",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10827,9 +10827,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -11455,8 +11452,8 @@ let profesores={
   },
   "FERNANDO RODRIGUEZ DOVAL": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
-    "general": 8.6774,
-    "n": 31,
+    "general": 8.7188,
+    "n": 32,
     "grupos": {
       "EGN-11167-VIDA Y PENSA MAUEL GOMEZ MORIN": [
         {
@@ -11602,9 +11599,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6667,
-    "n": 87,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -11710,8 +11704,8 @@ let profesores={
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.2642,
-    "n": 53,
+    "general": 6.2407,
+    "n": 54,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -11789,8 +11783,8 @@ let profesores={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.2222,
-    "n": 63,
+    "general": 8.25,
+    "n": 64,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -11830,8 +11824,8 @@ let profesores={
   },
   "BRUNO VELAZQUEZ DELGADO": {
     "link": "https://www.misprofesores.com/profesores/Bruno-Velazquez-Delgado_74531",
-    "general": 7.8036,
-    "n": 56,
+    "general": 7.6552,
+    "n": 58,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -12459,8 +12453,8 @@ let profesores={
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
-    "general": 8.6508,
-    "n": 63,
+    "general": 8.6406,
+    "n": 64,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -15500,9 +15494,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15569,8 +15563,8 @@ let profesores={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.1111,
-    "n": 18,
+    "general": 8.2105,
+    "n": 19,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16026,9 +16020,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18325,8 +18319,8 @@ let profesores={
   },
   "LEON FELIPE VILLALOBOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
-    "general": 8.6415,
-    "n": 53,
+    "general": 8.5741,
+    "n": 54,
     "grupos": {
       "MAT-14281-MATEMATICAS DISCRETAS": [
         {
@@ -18937,8 +18931,8 @@ let mejoresPorDepto={
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
     "ALFREDO VILLAFRANCA QUINTO",
-    "VALERIA ZEPEDA TREJO",
     "STEFANO STRAULINO TORRE",
+    "VALERIA ZEPEDA TREJO",
     "ANTONIO JESUS DIEZ QUESADA",
     "DAVID MORENO GUINEA"
   ],
@@ -18985,10 +18979,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ",
-    "ELSA VIVIANA OROPEZA GRACIA"
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
