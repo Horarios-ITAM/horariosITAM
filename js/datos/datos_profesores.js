@@ -1,4 +1,4 @@
-let actualizado="1721140615438.7412";
+let actualizado="1721227075298.1487";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -8946,9 +8946,9 @@ let profesores={
           "creditos": "4",
           "horario": "19:00-21:00",
           "dias": [
-            "MI"
+            "JU"
           ],
-          "salon": "PF107",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -10827,6 +10827,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -12413,9 +12416,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -13158,8 +13161,8 @@ let profesores={
   },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
-    "general": 7.697,
-    "n": 33,
+    "general": 7.7353,
+    "n": 34,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -18930,11 +18933,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
+    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "DAVID MORENO GUINEA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",

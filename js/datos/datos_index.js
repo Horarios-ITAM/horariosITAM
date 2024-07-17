@@ -1,4 +1,4 @@
-let actualizado="1721140615422.5364";
+let actualizado="1721227075281.248";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -7781,9 +7781,9 @@ let clases={
         "creditos": "4",
         "horario": "19:00-21:00",
         "dias": [
-          "MI"
+          "JU"
         ],
-        "salon": "PF107",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -17586,6 +17586,11 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
+  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5267,
@@ -17937,9 +17942,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17993,8 +17998,8 @@ let misProfesData={
   },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
-    "general": 7.697,
-    "n": 33
+    "general": 7.7353,
+    "n": 34
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
