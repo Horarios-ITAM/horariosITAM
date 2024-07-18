@@ -1,4 +1,4 @@
-let actualizado="1721227075298.1487";
+let actualizado="1721313447050.9966";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -5414,9 +5414,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3636,
+    "n": 22,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5472,8 +5472,8 @@ let profesores={
   },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
-    "general": 8.1714,
-    "n": 35,
+    "general": 8.2222,
+    "n": 36,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6723,9 +6723,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -10403,9 +10400,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10827,9 +10824,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -15050,14 +15044,14 @@ let profesores={
           "nombre": "LEN-12002-COM ESCRITA PARA C.P.Y EST FIN",
           "profesor": "GABRIEL ASTEY WOOD",
           "creditos": "2",
-          "horario": "09:00-10:00",
+          "horario": "08:00-09:00",
           "dias": [
             "MI"
           ],
-          "salon": "RHSA3",
+          "salon": "RH210",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
+          "inicio": "08:00",
+          "fin": "09:00"
         }
       ],
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
@@ -15098,14 +15092,14 @@ let profesores={
           "nombre": "LEN-12716-COMUNIC ESCRITA PARA C.P Y E.F",
           "profesor": "GABRIEL ASTEY WOOD",
           "creditos": "2",
-          "horario": "09:00-10:00",
+          "horario": "08:00-09:00",
           "dias": [
             "MI"
           ],
-          "salon": "RHSA3",
+          "salon": "RH210",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
+          "inicio": "08:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -15497,9 +15491,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18662,15 +18656,14 @@ let profesores={
           "nombre": "SDI-11911-ROBOTICA",
           "profesor": "JOSE GUADALUPE ROMERO VELAZQUEZ",
           "creditos": "6",
-          "horario": "18:00-19:30",
+          "horario": "18:00-22:00",
           "dias": [
-            "LU",
-            "MI"
+            "LU"
           ],
-          "salon": "RH309",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "18:00",
-          "fin": "19:30"
+          "fin": "22:00"
         }
       ],
       "SDI-17112-INTRODUCCION A LA INGENIERIA": [
@@ -18896,12 +18889,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
-    "ALBERTO SIMPSER MONDLAK"
+    "ALBERTO SIMPSER MONDLAK",
+    "JEFFREY ALLEN WELDON"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -18918,14 +18911,14 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "DAVID LAMB DE VALDES",
     "ROBERTO GONZALEZ TELLEZ",
-    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "CHRISTINA CORNEJO VAN LUIT",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
     "CHRISTIANE FABREGA CHIMALI",
-    "MIGUEL MESSMACHER LINARTAS"
+    "MIGUEL MESSMACHER LINARTAS",
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",

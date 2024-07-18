@@ -1,4 +1,4 @@
-let actualizado="1721227075281.248";
+let actualizado="1721313447032.5015";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -13469,14 +13469,14 @@ let clases={
         "nombre": "LEN-12002-COM ESCRITA PARA C.P.Y EST FIN",
         "profesor": "GABRIEL ASTEY WOOD",
         "creditos": "2",
-        "horario": "09:00-10:00",
+        "horario": "08:00-09:00",
         "dias": [
           "MI"
         ],
-        "salon": "RHSA3",
+        "salon": "RH210",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "10:00"
+        "inicio": "08:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -14376,14 +14376,14 @@ let clases={
         "nombre": "LEN-12716-COMUNIC ESCRITA PARA C.P Y E.F",
         "profesor": "GABRIEL ASTEY WOOD",
         "creditos": "2",
-        "horario": "09:00-10:00",
+        "horario": "08:00-09:00",
         "dias": [
           "MI"
         ],
-        "salon": "RHSA3",
+        "salon": "RH210",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "10:00"
+        "inicio": "08:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -17318,15 +17318,14 @@ let clases={
         "nombre": "SDI-11911-ROBOTICA",
         "profesor": "JOSE GUADALUPE ROMERO VELAZQUEZ",
         "creditos": "6",
-        "horario": "18:00-19:30",
+        "horario": "18:00-22:00",
         "dias": [
-          "LU",
-          "MI"
+          "LU"
         ],
-        "salon": "RH309",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "18:00",
-        "fin": "19:30"
+        "fin": "22:00"
       }
     ]
   },
@@ -17586,11 +17585,6 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5267,
@@ -17828,8 +17822,8 @@ let misProfesData={
   },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
-    "general": 8.1714,
-    "n": 35
+    "general": 8.2222,
+    "n": 36
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
@@ -18052,9 +18046,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3636,
+    "n": 22
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -18225,11 +18219,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
@@ -18537,9 +18526,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -18702,9 +18691,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
