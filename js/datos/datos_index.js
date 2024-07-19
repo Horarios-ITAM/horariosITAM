@@ -1,4 +1,4 @@
-let actualizado="1721313447032.5015";
+let actualizado="1721399859006.4617";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -1263,7 +1263,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHCC302",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -1509,32 +1509,18 @@ let clases={
     "clave": "ADM-15514",
     "grupos": [
       {
-        "grupo": "001",
-        "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "19:00-22:00",
-        "dias": [
-          "LU"
-        ],
-        "salon": "RHSA2",
-        "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "22:00"
-      },
-      {
         "grupo": "002",
         "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
         "profesor": "",
         "creditos": "6",
-        "horario": "19:00-22:00",
+        "horario": "16:00-19:00",
         "dias": [
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "22:00"
+        "inicio": "16:00",
+        "fin": "19:00"
       },
       {
         "grupo": "003",
@@ -6067,6 +6053,66 @@ let clases={
       }
     ]
   },
+  "CSO-19076": {
+    "nombre": "CSO-19076-SEMINARIO DE TITULACION, II",
+    "clave": "CSO-19076",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19076-SEMINARIO DE TITULACION, II",
+        "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RHB-1",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "CSO-19081": {
+    "nombre": "CSO-19081-SEMINARIO DE INV. POLITICA  A",
+    "clave": "CSO-19081",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19081-SEMINARIO DE INV. POLITICA  A",
+        "profesor": "ALBERTO SIMPSER MONDLAK",
+        "creditos": "9",
+        "horario": "16:00-19:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RH107",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "19:00"
+      }
+    ]
+  },
+  "CSO-19083": {
+    "nombre": "CSO-19083-SEMINARIO DE INV. POLITICA C",
+    "clave": "CSO-19083",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19083-SEMINARIO DE INV. POLITICA C",
+        "profesor": "JULIO ANTONIO RIOS FIGUEROA",
+        "creditos": "9",
+        "horario": "16:00-18:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RHB-1",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "18:00"
+      }
+    ]
+  },
   "CSO-19084": {
     "nombre": "CSO-19084-SEMINARIO DE INV. POLITICA D",
     "clave": "CSO-19084",
@@ -8880,6 +8926,192 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
+      }
+    ]
+  },
+  "ECO-11010": {
+    "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+    "clave": "ECO-11010",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH104",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+        "creditos": "6",
+        "horario": "12:30-14:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "PF107",
+        "campus": "RIO HONDO",
+        "inicio": "12:30",
+        "fin": "14:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "CHRISTINA CORNEJO VAN LUIT",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH111",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "CHRISTINA CORNEJO VAN LUIT",
+        "creditos": "6",
+        "horario": "12:00-13:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH109",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:30"
+      },
+      {
+        "grupo": "005",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "MAGDALENA SOFIA BARBA FERNANDEZ",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH106",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
+      },
+      {
+        "grupo": "006",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "SOFIA CORONA VERDUZCO",
+        "creditos": "6",
+        "horario": "11:30-13:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH103",
+        "campus": "RIO HONDO",
+        "inicio": "11:30",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "007",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "CHRISTIANE FABREGA CHIMALI",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH302",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
+      },
+      {
+        "grupo": "008",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "GUILLERMO IGNACIO GARCIA ALCOCER",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH109",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
+      },
+      {
+        "grupo": "009",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "ANTONIO VIVANCO CASAMADRID",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH103",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      },
+      {
+        "grupo": "010",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "ANTONIO VIVANCO CASAMADRID",
+        "creditos": "6",
+        "horario": "08:30-10:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH103",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "011",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "DAVID LAMB DE VALDES",
+        "creditos": "6",
+        "horario": "08:30-10:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH303",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "012",
+        "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+        "profesor": "ROBERTO GONZALEZ TELLEZ",
+        "creditos": "6",
+        "horario": "08:00-09:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH317",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "09:30"
       }
     ]
   },
@@ -17936,9 +18168,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -18097,8 +18329,8 @@ let misProfesData={
   },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
-    "general": 8.3333,
-    "n": 6
+    "general": 7.7143,
+    "n": 7
   },
   "JOSE OMAR HERNANDEZ SALGADO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Omar-Hern\u00e1ndez-Salgado_157835",
@@ -18131,9 +18363,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18219,6 +18451,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
@@ -18520,15 +18757,20 @@ let misProfesData={
     "general": 8.3333,
     "n": 18
   },
+  "VICTOR HUGO RIVAS CALDERON": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
+    "general": 7.6667,
+    "n": 87
+  },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
     "general": 7.6316,
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
