@@ -1,4 +1,4 @@
-let actualizado="1721572540396.8564";
+let actualizado="1721659074818.616";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -5857,8 +5857,8 @@ let profesores={
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
-    "general": 8.7895,
-    "n": 95,
+    "general": 8.8021,
+    "n": 96,
     "grupos": {
       "CON-10100-CONTABILIDAD, I": [
         {
@@ -11059,6 +11059,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
