@@ -1,4 +1,4 @@
-let actualizado="1721659074802.6958";
+let actualizado="1721745459489.969";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -10543,12 +10543,12 @@ let clases={
     ]
   },
   "EGN-11167": {
-    "nombre": "EGN-11167-VIDA Y PENSA MAUEL GOMEZ MORIN",
+    "nombre": "EGN-11167-VIDA Y PENS MANUEL GOMEZ MORIN",
     "clave": "EGN-11167",
     "grupos": [
       {
         "grupo": "001",
-        "nombre": "EGN-11167-VIDA Y PENSA MAUEL GOMEZ MORIN",
+        "nombre": "EGN-11167-VIDA Y PENS MANUEL GOMEZ MORIN",
         "profesor": "FERNANDO RODRIGUEZ DOVAL",
         "creditos": "6",
         "horario": "18:00-19:30",
@@ -18173,9 +18173,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -18368,9 +18368,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18704,8 +18704,8 @@ let misProfesData={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1515,
-    "n": 66
+    "general": 7.1791,
+    "n": 67
   },
   "ALBERTO PUPPO": {
     "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
@@ -18761,11 +18761,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
     "general": 8.3333,
     "n": 18
-  },
-  "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6667,
-    "n": 87
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",

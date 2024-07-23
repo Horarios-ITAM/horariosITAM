@@ -1,4 +1,4 @@
-let actualizado="1721659074818.616";
+let actualizado="1721745459506.2024";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -11690,10 +11690,10 @@ let profesores={
     "general": 8.7188,
     "n": 32,
     "grupos": {
-      "EGN-11167-VIDA Y PENSA MAUEL GOMEZ MORIN": [
+      "EGN-11167-VIDA Y PENS MANUEL GOMEZ MORIN": [
         {
           "grupo": "001",
-          "nombre": "EGN-11167-VIDA Y PENSA MAUEL GOMEZ MORIN",
+          "nombre": "EGN-11167-VIDA Y PENS MANUEL GOMEZ MORIN",
           "profesor": "FERNANDO RODRIGUEZ DOVAL",
           "creditos": "6",
           "horario": "18:00-19:30",
@@ -11834,9 +11834,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6667,
-    "n": 87,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -12651,9 +12648,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -16258,9 +16255,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18344,8 +18341,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1515,
-    "n": 66,
+    "general": 7.1791,
+    "n": 67,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -19167,11 +19164,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
+    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "DAVID MORENO GUINEA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -19216,10 +19213,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ",
-    "ELSA VIVIANA OROPEZA GRACIA"
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
