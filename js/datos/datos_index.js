@@ -1,4 +1,4 @@
-let actualizado="1722004603885.4077";
+let actualizado="1722090921158.254";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -1357,7 +1357,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15505-BANCA DE INVERSION (OP)",
-        "profesor": "JOSE ALEJANDRO ORTEGA AGUAYO",
+        "profesor": "JOSE CARLOS GILLY PAREJA",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -1813,7 +1813,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-        "profesor": "JANKO HERNANDEZ CORTES",
+        "profesor": "FRANCISCO PEREZ GONZALEZ",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -1828,7 +1828,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-        "profesor": "JANKO HERNANDEZ CORTES",
+        "profesor": "FRANCISCO PEREZ GONZALEZ",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -1843,7 +1843,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-        "profesor": "JANKO HERNANDEZ CORTES",
+        "profesor": "FRANCISCO PEREZ GONZALEZ",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -1878,7 +1878,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-15568-TRAYECT EN FINAN: PROP Y PROGR",
-        "profesor": "FERNANDO DIEGO PEREZ CERVANTES",
+        "profesor": "MARIA DE LA CRUZ TORRES MANTECON",
         "creditos": "2",
         "horario": "12:00-14:00",
         "dias": [
@@ -5658,14 +5658,14 @@ let clases={
         "nombre": "CSO-14016-JUECES Y POL. EN PERSPEC. COMP",
         "profesor": "JULIO ANTONIO RIOS FIGUEROA",
         "creditos": "6",
-        "horario": "16:00-18:00",
+        "horario": "16:00-17:00",
         "dias": [
-          "LU"
+          "MI"
         ],
         "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "18:00"
+        "fin": "17:00"
       }
     ]
   },
@@ -6102,14 +6102,14 @@ let clases={
         "nombre": "CSO-19083-SEMINARIO DE INV. POLITICA C",
         "profesor": "JULIO ANTONIO RIOS FIGUEROA",
         "creditos": "9",
-        "horario": "16:00-18:00",
+        "horario": "16:00-17:00",
         "dias": [
-          "LU"
+          "MI"
         ],
         "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "18:00"
+        "fin": "17:00"
       }
     ]
   },
@@ -6272,16 +6272,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "ALEJANDRO  RODILES BRETON",
+        "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "07:00-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "RH306",
+        "salon": "PF106",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -6342,14 +6342,14 @@ let clases={
         "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
         "profesor": "MARIO LEONARDO PETRICIOLI RUIZ",
         "creditos": "9",
-        "horario": "19:00-21:00",
+        "horario": "19:00-21:30",
         "dias": [
-          "LU"
+          "MI"
         ],
-        "salon": "RH111",
-        "campus": "RIO HONDO",
+        "salon": "",
+        "campus": "",
         "inicio": "19:00",
-        "fin": "21:00"
+        "fin": "21:30"
       }
     ]
   },
@@ -6493,7 +6493,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "JOYCE CAROL  SADKA",
+        "profesor": "LUIS ENRIQUE PEREDA TREJO",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -6507,13 +6507,14 @@ let clases={
       {
         "grupo": "003",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "SEBASTIAN GARCIA CANO",
+        "profesor": "LUIS FERNANDO COYOC TRUJILLO",
         "creditos": "9",
         "horario": "07:00-08:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "RH301",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -6561,7 +6562,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "ALBERTO PUPPO",
+        "profesor": "GERMAN  SUCAR",
         "creditos": "10",
         "horario": "18:00-20:00",
         "dias": [
@@ -6577,15 +6578,14 @@ let clases={
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "10",
-        "horario": "17:30-19:00",
+        "horario": "16:00-18:00",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
-        "salon": "RH317",
+        "salon": "RH112",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -7019,15 +7019,14 @@ let clases={
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
         "profesor": "JUAN JESUS GARZA ONOFRE",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "17:30-19:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA"
         ],
-        "salon": "RH107",
+        "salon": "RH311",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -7120,7 +7119,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-        "profesor": "ALBERTO PUPPO",
+        "profesor": "GERMAN  SUCAR",
         "creditos": "9",
         "horario": "18:00-19:30",
         "dias": [
@@ -7136,15 +7135,14 @@ let clases={
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
-        "salon": "RH317",
+        "salon": "RH112",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -7647,7 +7645,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-14606-DERECHO PROCESAL PENAL",
-        "profesor": "JAVIER SCH\u00dcTTE RICAUD",
+        "profesor": "JESUS ADRIAN CRESPO FARRERA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -7695,14 +7693,14 @@ let clases={
         "nombre": "DER-15063-JUECES Y POL. EN PERSP. COMPAR",
         "profesor": "JULIO ANTONIO RIOS FIGUEROA",
         "creditos": "6",
-        "horario": "16:00-18:00",
+        "horario": "16:00-17:00",
         "dias": [
-          "LU"
+          "MI"
         ],
         "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "18:00"
+        "fin": "17:00"
       }
     ]
   },
@@ -7915,7 +7913,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-15600-DERECHO CONSTITUCIONAL III",
-        "profesor": "DANIEL ANTONIO GARCIA HUERTA",
+        "profesor": "ANA MARIA IBARRA OLGUIN",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -8396,16 +8394,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-18041-CDNIA. GLOBAL Y DH EN CONTEXTO",
-        "profesor": "GISELA ADRIANA CARMONA RODRIGUEZ",
+        "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
         "creditos": "6",
-        "horario": "16:00-17:00",
+        "horario": "16:00-18:00",
         "dias": [
-          "LU"
+          "MI"
         ],
         "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "17:00"
+        "fin": "18:00"
       }
     ]
   },
@@ -9996,7 +9994,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-15110-EVALUACION DE PROYECTOS",
-        "profesor": "JOSE EFRAIN GALA PALACIOS",
+        "profesor": "JESUS GABRIEL ORTIZ DOMINGUEZ",
         "creditos": "6",
         "horario": "13:00-14:30",
         "dias": [
@@ -10265,7 +10263,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-18300-CRECIMIENTO ECONOMICO",
-        "profesor": "RAUL ALEJANDRO LIVAS ELIZONDO",
+        "profesor": "JESUS PUENTE TREVI\u00d1O",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -11958,7 +11956,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EIN-19414-MEDIO ORIENTE",
-        "profesor": "YOANNA SHUBICH GREEN",
+        "profesor": "RINA MUSSALI GALANTE",
         "creditos": "6",
         "horario": "17:30-20:30",
         "dias": [
@@ -13227,15 +13225,14 @@ let clases={
         "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA",
         "profesor": "EVA MARIA DE JESUS MARTINEZ AHUMADA",
         "creditos": "11",
-        "horario": "12:00-14:00",
+        "horario": "08:00-11:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RH112",
+        "salon": "RHLQUIM",
         "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "14:00"
+        "inicio": "08:00",
+        "fin": "11:00"
       },
       {
         "grupo": "002",
@@ -15783,7 +15780,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-12200-CALCULO UNIVARIADO",
-        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
+        "profesor": "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS",
         "creditos": "9",
         "horario": "07:00-08:30",
         "dias": [
@@ -15799,7 +15796,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-12200-CALCULO UNIVARIADO",
-        "profesor": "ABIMAEL JAVIER BENGOCHEA CRUZ",
+        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -15815,7 +15812,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "MAT-12200-CALCULO UNIVARIADO",
-        "profesor": "ERNESTO PEREZ CHAVELA",
+        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
         "creditos": "9",
         "horario": "10:00-11:30",
         "dias": [
@@ -15831,7 +15828,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "MAT-12200-CALCULO UNIVARIADO",
-        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
+        "profesor": "CARLOS BOSCH GIRAL",
         "creditos": "9",
         "horario": "11:30-13:00",
         "dias": [
@@ -15847,7 +15844,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "MAT-12200-CALCULO UNIVARIADO",
-        "profesor": "SHARON MAGALI VALVERDE ESPARZA",
+        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
         "creditos": "9",
         "horario": "16:00-17:30",
         "dias": [
@@ -15863,7 +15860,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "MAT-12200-CALCULO UNIVARIADO",
-        "profesor": "VICTOR FRANCISCO BRE\u00d1A MEDINA",
+        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
         "creditos": "9",
         "horario": "12:30-14:00",
         "dias": [
@@ -15987,7 +15984,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-12250-CALCULO APLICADO",
-        "profesor": "LUCIA RAMIREZ DAVID",
+        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -16019,7 +16016,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "MAT-12250-CALCULO APLICADO",
-        "profesor": "GLORIA LOPEZ CHAVEZ",
+        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
         "creditos": "9",
         "horario": "16:00-17:30",
         "dias": [
@@ -16888,9 +16885,9 @@ let clases={
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -17204,9 +17201,9 @@ let clases={
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RH313",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -17224,9 +17221,9 @@ let clases={
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RH313",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -17244,9 +17241,9 @@ let clases={
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
-          "LU"
+          "MI"
         ],
-        "salon": "RHCC302",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -17548,7 +17545,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-11911-ROBOTICA",
-        "profesor": "JOSE GUADALUPE ROMERO VELAZQUEZ",
+        "profesor": "ROMEO SALVADOR ORTEGA MARTINEZ",
         "creditos": "6",
         "horario": "18:00-21:00",
         "dias": [
@@ -18192,11 +18189,6 @@ let misProfesData={
     "general": 8.1923,
     "n": 52
   },
-  "JOSE EFRAIN GALA PALACIOS": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Efrain-Gala-Palacios_22831",
-    "general": 8.0769,
-    "n": 39
-  },
   "MARTHA ANGELICA GALICIA OSORIO": {
     "link": "https://www.misprofesores.com/profesores/Martha-Angelica-Galicia-Osorio_165772",
     "general": 9.0,
@@ -18357,6 +18349,11 @@ let misProfesData={
     "general": 7.2,
     "n": 10
   },
+  "ANA MARIA IBARRA OLGUIN": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Ibarra-Olgu\u00edn_153937",
+    "general": 6.0,
+    "n": 1
+  },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
     "general": 8.9333,
@@ -18368,9 +18365,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18662,6 +18659,11 @@ let misProfesData={
     "general": 8.6406,
     "n": 64
   },
+  "LUIS ENRIQUE PEREDA TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
+    "general": 8.3333,
+    "n": 3
+  },
   "WILMER EFREN PEREIRA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Wilmer-Efr\u00e9n-Pereira-Gonz\u00e1lez_142587",
     "general": 10.0,
@@ -18681,6 +18683,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Nitze-Nayeli-Perez-Fernandez_105762",
     "general": 6.5,
     "n": 4
+  },
+  "FRANCISCO PEREZ GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Perez-Gonzalez_78818",
+    "general": 6.9412,
+    "n": 17
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
@@ -18702,10 +18709,10 @@ let misProfesData={
     "general": 7.1791,
     "n": 67
   },
-  "ALBERTO PUPPO": {
-    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
-    "general": 8.3056,
-    "n": 36
+  "JESUS PUENTE TREVI\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Jesus-Puente-Trevi\u00f1o_89712",
+    "general": 4.8571,
+    "n": 7
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
@@ -18759,8 +18766,8 @@ let misProfesData={
   },
   "VICTOR HUGO RIVAS CALDERON": {
     "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6667,
-    "n": 87
+    "general": 7.6818,
+    "n": 88
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
@@ -18768,9 +18775,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -18876,11 +18883,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
     "general": 7.5,
     "n": 12
-  },
-  "JAVIER SCH\u00dcTTE RICAUD": {
-    "link": "https://www.misprofesores.com/profesores/Javier-Sch\u00fctte-Ricaud_155412",
-    "general": 8.0,
-    "n": 1
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
