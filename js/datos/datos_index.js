@@ -1,4 +1,4 @@
-let actualizado="1722177327623.4941";
+let actualizado="1722263847312.1897";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -17814,11 +17814,6 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5267,
@@ -18453,6 +18448,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",

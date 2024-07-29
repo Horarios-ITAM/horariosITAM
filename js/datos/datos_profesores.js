@@ -1,4 +1,4 @@
-let actualizado="1722177327639.344";
+let actualizado="1722263847328.111";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -6710,6 +6710,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -11009,9 +11012,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -19115,12 +19115,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "ADRIAN LUCARDI",
-    "JUAN PABLO MICOZZI",
-    "ALBERTO SIMPSER MONDLAK"
+    "JUAN PABLO MICOZZI"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
