@@ -1,4 +1,4 @@
-let actualizado="1722350133283.3508";
+let actualizado="1722436557726.2854";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -283,7 +283,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH306",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -298,7 +298,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH306",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -3350,7 +3350,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHB-5",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -5060,7 +5060,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH208",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "14:00"
@@ -5689,7 +5689,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH109",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -8671,6 +8671,35 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "CARLO EDUARDO ALCARAZ PRIBAZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RH204",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "006",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "DAVID LAMB DE VALDES",
+        "creditos": "6",
+        "horario": "08:30-10:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH303",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -8734,6 +8763,35 @@ let clases={
         "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "CARLO EDUARDO ALCARAZ PRIBAZ",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RH204",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "006",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "DAVID LAMB DE VALDES",
+        "creditos": "9",
+        "horario": "08:30-10:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH303",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
         "fin": "10:00"
       }
     ]
@@ -8818,15 +8876,15 @@ let clases={
         "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
         "profesor": "IGNACIO NORBERTO LOBATO GARCIA MIJAN",
         "creditos": "7",
-        "horario": "11:30-13:00",
+        "horario": "10:00-11:30",
         "dias": [
           "LU",
           "MI"
         ],
         "salon": "RHB-1",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       },
       {
         "grupo": "002",
@@ -9234,15 +9292,15 @@ let clases={
         "nombre": "ECO-11103-ECONOMIA, III",
         "profesor": "GUILLERMO IGNACIO GARCIA ALCOCER",
         "creditos": "6",
-        "horario": "17:30-19:00",
+        "horario": "16:00-17:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH109",
+        "salon": "RH103",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -9533,17 +9591,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
-        "profesor": "JORGE ALONSO ORTIZ",
+        "profesor": "",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "07:00-10:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU"
         ],
-        "salon": "RH106",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "07:00",
+        "fin": "10:00"
       },
       {
         "grupo": "002",
@@ -9817,6 +9874,26 @@ let clases={
       }
     ]
   },
+  "ECO-14501": {
+    "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
+    "clave": "ECO-14501",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
+        "profesor": "SERGIO RODRIGUEZ GARCIA",
+        "creditos": "6",
+        "horario": "09:00-12:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHB-1",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "12:00"
+      }
+    ]
+  },
   "ECO-15101": {
     "nombre": "ECO-15101-FINANZAS PUBLICAS",
     "clave": "ECO-15101",
@@ -9961,10 +10038,9 @@ let clases={
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
-          "LU",
-          "MI"
+          "LU"
         ],
-        "salon": "RH109",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -10131,15 +10207,15 @@ let clases={
         "nombre": "ECO-18300-CRECIMIENTO ECONOMICO",
         "profesor": "JORGE ALONSO ORTIZ",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "12:00-13:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RHSA1",
+        "salon": "RH110",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "12:00",
+        "fin": "13:30"
       },
       {
         "grupo": "002",
@@ -10167,15 +10243,15 @@ let clases={
         "nombre": "ECO-20514-MACROECONOMETRIA AVANZADA",
         "profesor": "IGNACIO NORBERTO LOBATO GARCIA MIJAN",
         "creditos": "7",
-        "horario": "10:00-11:30",
+        "horario": "11:30-13:00",
         "dias": [
           "LU",
           "MI"
         ],
         "salon": "RHB-1",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -10344,17 +10420,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-22105-ECONOMIA V",
-        "profesor": "",
+        "profesor": "JORGE ALONSO ORTIZ",
         "creditos": "8",
-        "horario": "07:00-09:00",
+        "horario": "10:00-12:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH109",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
+        "inicio": "10:00",
+        "fin": "12:00"
       }
     ]
   },
@@ -10367,15 +10443,15 @@ let clases={
         "nombre": "ECO-22113-MACROECONOMIA DINAMICA II",
         "profesor": "FELIPE MEZA GOIZ",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "09:30-11:00",
         "dias": [
           "LU",
           "MI"
         ],
         "salon": "PF104",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "09:30",
+        "fin": "11:00"
       }
     ]
   },
@@ -10465,7 +10541,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "",
+        "profesor": "JAVIER ARTURO VELAZQUEZ GALVAN",
         "creditos": "6",
         "horario": "17:00-18:00",
         "dias": [
@@ -10579,22 +10655,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:00"
-      },
-      {
-        "grupo": "007",
-        "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "11:00-12:00",
-        "dias": [
-          "LU",
-          "MI",
-          "VI"
-        ],
-        "salon": "RH202",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "12:00"
       }
     ]
   },
@@ -10709,7 +10769,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH201",
+        "salon": "RH205",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -10797,7 +10857,7 @@ let clases={
       {
         "grupo": "013",
         "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "",
+        "profesor": "ALFREDO GERARDO MARTINEZ OJEDA",
         "creditos": "6",
         "horario": "18:00-19:00",
         "dias": [
@@ -10809,22 +10869,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:00"
-      },
-      {
-        "grupo": "014",
-        "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "12:00-13:00",
-        "dias": [
-          "LU",
-          "MI",
-          "VI"
-        ],
-        "salon": "RH206",
-        "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "13:00"
       }
     ]
   },
@@ -10947,7 +10991,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "CARLOS JEFFREY MCCADDEN MARTINEZ",
+        "profesor": "JOSE RAFAEL GONZALEZ DIAZ",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -10963,7 +11007,7 @@ let clases={
       {
         "grupo": "009",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "",
+        "profesor": "CECILIA GALAVIZ ALVAREZ",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -11059,18 +11103,66 @@ let clases={
       {
         "grupo": "015",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "",
+        "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
         "creditos": "6",
-        "horario": "18:00-19:00",
+        "horario": "08:00-09:00",
         "dias": [
           "LU",
           "MI",
           "VI"
         ],
-        "salon": "RH202",
+        "salon": "RH208",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:00"
+        "inicio": "08:00",
+        "fin": "09:00"
+      },
+      {
+        "grupo": "016",
+        "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+        "profesor": "ANA REGINA LUEVANO CAYON",
+        "creditos": "6",
+        "horario": "09:00-10:00",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "RH206",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "017",
+        "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+        "profesor": "CARLOS JEFFREY MCCADDEN MARTINEZ",
+        "creditos": "6",
+        "horario": "12:00-13:00",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "RH208",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "018",
+        "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+        "profesor": "CARLOS JEFFREY MCCADDEN MARTINEZ",
+        "creditos": "6",
+        "horario": "13:00-14:00",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "RH208",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:00"
       }
     ]
   },
@@ -11301,21 +11393,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
-      },
-      {
-        "grupo": "007",
-        "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "11:30-13:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH205",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
       }
     ]
   },
@@ -11457,21 +11534,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
-      },
-      {
-        "grupo": "010",
-        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "10:00-11:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH205",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
       }
     ]
   },
@@ -11559,7 +11621,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH110",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -11747,7 +11809,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH110",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -12053,7 +12115,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH108",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -12389,7 +12451,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH108",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -13357,7 +13419,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH309",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -14989,14 +15051,14 @@ let clases={
         "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
         "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
         "creditos": "2",
-        "horario": "07:00-09:00",
+        "horario": "10:00-11:00",
         "dias": [
-          "VI"
+          "MA"
         ],
         "salon": "RH210",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
+        "inicio": "10:00",
+        "fin": "11:00"
       }
     ]
   },
@@ -17978,8 +18040,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.8205,
-    "n": 39
+    "general": 7.8,
+    "n": 40
   },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
@@ -18157,9 +18219,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3636,
+    "n": 22
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -18242,9 +18304,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18265,6 +18327,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Federico-Jos\u00e9-Kuhlmann-Rodr\u00edguez_10875",
     "general": 6.8108,
     "n": 37
+  },
+  "DAVID LAMB DE VALDES": {
+    "link": "https://www.misprofesores.com/profesores/David-Lamb-de-Valdes_171622",
+    "general": 10.0,
+    "n": 3
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
@@ -18308,13 +18375,13 @@ let misProfesData={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.0816,
-    "n": 49
+    "general": 7.02,
+    "n": 50
   },
   "ERIC MAGAR MEURS": {
     "link": "https://www.misprofesores.com/profesores/Eric-Magar-Meurs_10805",
-    "general": 8.04,
-    "n": 25
+    "general": 8.0769,
+    "n": 26
   },
   "JUAN SALVADOR MARMOL YAHYA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-M\u00e1rmol-Yahya_169926",
@@ -18325,11 +18392,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
@@ -18647,9 +18709,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -18713,8 +18775,8 @@ let misProfesData={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.8118,
-    "n": 85
+    "general": 8.8023,
+    "n": 86
   },
   "IRMA BEATRIZ RUMBOS PELLICER": {
     "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",
@@ -18783,8 +18845,8 @@ let misProfesData={
   },
   "ALBERTO SIMPSER MONDLAK": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
-    "general": 6.4167,
-    "n": 12
+    "general": 6.6923,
+    "n": 13
   },
   "ANURAG SINGH": {
     "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
@@ -18793,8 +18855,8 @@ let misProfesData={
   },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
-    "general": 7.037,
-    "n": 27
+    "general": 7.1071,
+    "n": 28
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
@@ -18803,8 +18865,8 @@ let misProfesData={
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
-    "general": 7.75,
-    "n": 4
+    "general": 8.2,
+    "n": 5
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
@@ -18812,9 +18874,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
@@ -18838,8 +18900,8 @@ let misProfesData={
   },
   "LEVENT ULKU": {
     "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
-    "general": 7.2813,
-    "n": 32
+    "general": 7.3636,
+    "n": 33
   },
   "ALEXANDRA URIBE COUGHLAN": {
     "link": "https://www.misprofesores.com/profesores/Alexandra-Uribe-Coughlan_10804",
@@ -18893,8 +18955,8 @@ let misProfesData={
   },
   "BRUNO VELAZQUEZ DELGADO": {
     "link": "https://www.misprofesores.com/profesores/Bruno-Velazquez-Delgado_74531",
-    "general": 7.6552,
-    "n": 58
+    "general": 7.5932,
+    "n": 59
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
@@ -18928,8 +18990,8 @@ let misProfesData={
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 9.8,
-    "n": 10
+    "general": 9.6364,
+    "n": 11
   },
   "HORACIO VIVES SEGL": {
     "link": "https://www.misprofesores.com/profesores/Horacio-Vives-Segl_138570",
@@ -18948,8 +19010,8 @@ let misProfesData={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.3085,
-    "n": 94
+    "general": 7.2947,
+    "n": 95
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
