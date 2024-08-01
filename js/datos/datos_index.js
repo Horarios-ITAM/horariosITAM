@@ -1,4 +1,4 @@
-let actualizado="1722436557726.2854";
+let actualizado="1722523055695.7468";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -3293,6 +3293,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
+      },
+      {
+        "grupo": "006",
+        "nombre": "COM-14113-FUNDAMENTOS DE PROGRAMACION",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "11:30-13:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHCC302",
+        "campus": "RIO HONDO",
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -9012,8 +9027,8 @@ let clases={
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
         "salon": "RH111",
         "campus": "RIO HONDO",
@@ -9318,7 +9333,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH113",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -10427,7 +10442,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH109",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -16282,7 +16297,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)",
-        "profesor": "",
+        "profesor": "GERARDO ACOSTA GARCIA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -16545,6 +16560,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:30",
         "fin": "20:00"
+      },
+      {
+        "grupo": "009",
+        "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
+        "profesor": "MARISOL VILLANUEVA CASTILLO",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH302",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -16611,6 +16641,36 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
+      },
+      {
+        "grupo": "005",
+        "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
+        "profesor": "GERARDO ACOSTA GARCIA",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH112",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      },
+      {
+        "grupo": "006",
+        "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHB-4",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -16621,7 +16681,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-14281-MATEMATICAS DISCRETAS",
-        "profesor": "LEON FELIPE VILLALOBOS SANCHEZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -16728,6 +16788,36 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
+      },
+      {
+        "grupo": "005",
+        "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
+        "profesor": "GERARDO ACOSTA GARCIA",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH112",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      },
+      {
+        "grupo": "006",
+        "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHB-4",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -16738,7 +16828,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-14301-ALGEBRA SUPERIOR, II",
-        "profesor": "LEON FELIPE VILLALOBOS SANCHEZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -17738,6 +17828,11 @@ let misProfesData={
     "general": 8.9359,
     "n": 78
   },
+  "GERARDO ACOSTA GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Acosta-Garcia_105240",
+    "general": 6.3333,
+    "n": 6
+  },
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
     "general": 6.6071,
@@ -17975,8 +18070,8 @@ let misProfesData={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 6.125,
-    "n": 16
+    "general": 6.2353,
+    "n": 17
   },
   "FELIPE CURCO COBOS": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Curco-Cobos_10798",
@@ -18109,9 +18204,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -18393,6 +18488,11 @@ let misProfesData={
     "general": 9.2353,
     "n": 17
   },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
+  },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
     "general": 6.6,
@@ -18490,8 +18590,8 @@ let misProfesData={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.4412,
-    "n": 34
+    "general": 7.5143,
+    "n": 35
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
@@ -18709,9 +18809,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -18982,11 +19082,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
     "general": 8.288,
     "n": 184
-  },
-  "LEON FELIPE VILLALOBOS SANCHEZ": {
-    "link": "https://www.misprofesores.com/profesores/Le\u00f3n-Felipe-Villalobos-S\u00e1nchez_62506",
-    "general": 8.5741,
-    "n": 54
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
