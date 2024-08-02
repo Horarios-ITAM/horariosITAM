@@ -1,4 +1,4 @@
-let actualizado="1722523055695.7468";
+let actualizado="1722609416292.356";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -3299,15 +3299,15 @@ let clases={
         "nombre": "COM-14113-FUNDAMENTOS DE PROGRAMACION",
         "profesor": "",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "12:00-13:30",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RHCC302",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "12:00",
+        "fin": "13:30"
       }
     ]
   },
@@ -6728,7 +6728,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11108-ESCR Y ARG JURID EN INGLES II",
-        "profesor": "",
+        "profesor": "WHITNEY CELESTE DE VOS",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -7659,7 +7659,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHSA3",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -13159,6 +13159,20 @@ let clases={
     "clave": "IIO-15130",
     "grupos": [
       {
+        "grupo": "001L",
+        "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
+        "profesor": "EVA MARIA DE JESUS MARTINEZ AHUMADA",
+        "creditos": "11",
+        "horario": "08:00-11:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHLQUIM",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "11:00"
+      },
+      {
         "grupo": "002L",
         "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
         "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
@@ -17853,11 +17867,6 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5267,
@@ -18314,9 +18323,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -18399,14 +18408,14 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
-    "general": 7.8571,
-    "n": 7
+    "general": 7.875,
+    "n": 8
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
@@ -18440,8 +18449,8 @@ let misProfesData={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.625,
-    "n": 24
+    "general": 7.64,
+    "n": 25
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
@@ -18540,8 +18549,8 @@ let misProfesData={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 6.6667,
-    "n": 6
+    "general": 7.1429,
+    "n": 7
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
@@ -18595,8 +18604,8 @@ let misProfesData={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 5.25,
-    "n": 16
+    "general": 5.2353,
+    "n": 17
   },
   "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ": {
     "link": "https://www.misprofesores.com/profesores/PAULINA-MORALES-LOPEZ-SANTIBA\u00d1EZ_99563",
@@ -18725,8 +18734,8 @@ let misProfesData={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3462,
-    "n": 104
+    "general": 6.381,
+    "n": 105
   },
   "YANIRA ROSALBA PETRIDES JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Yanira-Rosalba-Petrides-Jimenez_10757",
@@ -18797,11 +18806,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
     "general": 8.3333,
     "n": 18
-  },
-  "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6818,
-    "n": 88
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
@@ -18974,9 +18978,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",

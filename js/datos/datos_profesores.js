@@ -1,4 +1,4 @@
-let actualizado="1722523055712.376";
+let actualizado="1722609416308.8748";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -318,15 +318,15 @@ let profesores={
           "nombre": "COM-14113-FUNDAMENTOS DE PROGRAMACION",
           "profesor": "",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "12:00-13:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RHCC302",
           "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "inicio": "12:00",
+          "fin": "13:30"
         }
       ],
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
@@ -425,23 +425,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "20:30"
-        }
-      ],
-      "DER-11108-ESCR Y ARG JURID EN INGLES II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11108-ESCR Y ARG JURID EN INGLES II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ],
       "DER-13504-CONTRATOS": [
@@ -3739,8 +3722,8 @@ let profesores={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 5.25,
-    "n": 16,
+    "general": 5.2353,
+    "n": 17,
     "grupos": {
       "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS-LAB": [
         {
@@ -5256,9 +5239,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -8133,6 +8116,27 @@ let profesores={
       ]
     }
   },
+  "WHITNEY CELESTE DE VOS": {
+    "grupos": {
+      "DER-11108-ESCR Y ARG JURID EN INGLES II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11108-ESCR Y ARG JURID EN INGLES II",
+          "profesor": "WHITNEY CELESTE DE VOS",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "BRADLY JOHN  CONDON": {
     "grupos": {
       "DER-11111-HABILIDADES JURID. GLOBALES I": [
@@ -8854,7 +8858,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHSA3",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -11327,9 +11331,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -11719,9 +11720,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6818,
-    "n": 88,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -12426,8 +12424,8 @@ let profesores={
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
-    "general": 7.8571,
-    "n": 7,
+    "general": 7.875,
+    "n": 8,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -13594,8 +13592,8 @@ let profesores={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 6.6667,
-    "n": 6,
+    "general": 7.1429,
+    "n": 7,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -14368,28 +14366,24 @@ let profesores={
       ]
     }
   },
-  "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO": {
+  "EVA MARIA DE JESUS MARTINEZ AHUMADA": {
     "grupos": {
       "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB": [
         {
-          "grupo": "002L",
+          "grupo": "001L",
           "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
-          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+          "profesor": "EVA MARIA DE JESUS MARTINEZ AHUMADA",
           "creditos": "11",
-          "horario": "11:00-14:00",
+          "horario": "08:00-11:00",
           "dias": [
             "VI"
           ],
           "salon": "RHLQUIM",
           "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
+          "inicio": "08:00",
+          "fin": "11:00"
         }
-      ]
-    }
-  },
-  "EVA MARIA DE JESUS MARTINEZ AHUMADA": {
-    "grupos": {
+      ],
       "IIO-15130-FUNDAMENTOS DE QUIMICA": [
         {
           "grupo": "001",
@@ -14419,6 +14413,26 @@ let profesores={
           "salon": "RH112",
           "campus": "RIO HONDO",
           "inicio": "12:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO": {
+    "grupos": {
+      "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
+          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+          "creditos": "11",
+          "horario": "11:00-14:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLQUIM",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
           "fin": "14:00"
         }
       ]
@@ -15713,9 +15727,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16239,9 +16253,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17051,8 +17065,8 @@ let profesores={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3462,
-    "n": 104,
+    "general": 6.381,
+    "n": 105,
     "grupos": {
       "MAT-12102-CALCULO, III": [
         {
@@ -17556,8 +17570,8 @@ let profesores={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.625,
-    "n": 24,
+    "general": 7.64,
+    "n": 25,
     "grupos": {
       "MAT-12250-CALCULO APLICADO": [
         {
@@ -19253,10 +19267,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ",
-    "ELSA VIVIANA OROPEZA GRACIA"
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
