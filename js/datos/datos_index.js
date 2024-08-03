@@ -1,4 +1,4 @@
-let actualizado="1722609416292.356";
+let actualizado="1722695784300.0247";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -84,7 +84,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ACT-11302-CALCULO ACTUARIAL III",
-        "profesor": "",
+        "profesor": "DIEGO HERNANDEZ RANGEL",
         "creditos": "6",
         "horario": "18:00-19:30",
         "dias": [
@@ -333,7 +333,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-22306-MATEMATICAS FINANCIERAS II",
-        "profesor": "",
+        "profesor": "BARBARA MARTINEZ LICON",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -2760,10 +2760,11 @@ let clases={
         "creditos": "0",
         "horario": "16:00-18:00",
         "dias": [
-          "MA"
+          "MA",
+          "JU"
         ],
-        "salon": "RHCUBIC",
-        "campus": "RIO HONDO",
+        "salon": "",
+        "campus": "",
         "inicio": "16:00",
         "fin": "18:00"
       }
@@ -4418,7 +4419,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "CON-10001-PROCESO CONTABLE",
-        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "profesor": "",
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
@@ -4690,7 +4691,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-10100-CONTABILIDAD, I",
-        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "18:00-19:30",
         "dias": [
@@ -9896,16 +9897,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
-        "profesor": "SERGIO RODRIGUEZ GARCIA",
+        "profesor": "RAUL ALEJANDRO LIVAS ELIZONDO",
         "creditos": "6",
-        "horario": "09:00-12:00",
+        "horario": "19:00-22:00",
         "dias": [
-          "VI"
+          "LU"
         ],
-        "salon": "RHB-1",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "12:00"
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -12588,7 +12589,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EST-24105-ESTADISTICA APLICADA, II",
-        "profesor": "",
+        "profesor": "MARIA LAURA BATTAGLIOLA",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -12707,7 +12708,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EST-24124-METODOS LINEALES",
-        "profesor": "",
+        "profesor": "MARIA LAURA BATTAGLIOLA",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -12915,15 +12916,15 @@ let clases={
         "nombre": "IIO-12180-DISE\u00d1O Y DES. DE PRODUCTO",
         "profesor": "SERGIO ROMERO HERNANDEZ",
         "creditos": "6",
-        "horario": "11:00-12:30",
+        "horario": "19:00-20:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RHLMINT",
+        "salon": "RHPACE",
         "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "12:30"
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -17914,8 +17915,8 @@ let misProfesData={
   },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
-    "general": 7.45,
-    "n": 40
+    "general": 7.3902,
+    "n": 41
   },
   "JOSE MARIA BARRERO SANCLEMENTE": {
     "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
@@ -17949,8 +17950,8 @@ let misProfesData={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 4.3846,
-    "n": 13
+    "general": 4.3571,
+    "n": 14
   },
   "CARLOS BOSCH GIRAL": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Bosch-Giral_10705",
@@ -18114,8 +18115,8 @@ let misProfesData={
   },
   "ANA MARIA BERNARDETTE DIAZ BONNET": {
     "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Bernardette-Diaz-Bonnet_10748",
-    "general": 6.5,
-    "n": 36
+    "general": 6.4865,
+    "n": 37
   },
   "ANTONIO JESUS DIEZ QUESADA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Jes\u00fas-Diez-Quesada_10816",
@@ -18259,8 +18260,8 @@ let misProfesData={
   },
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
-    "general": 7.3548,
-    "n": 31
+    "general": 7.2813,
+    "n": 32
   },
   "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
@@ -18377,6 +18378,11 @@ let misProfesData={
     "general": 7.7143,
     "n": 7
   },
+  "DIEGO HERNANDEZ RANGEL": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Hern\u00e1ndez-Rangel_10679",
+    "general": 8.7222,
+    "n": 18
+  },
   "JOSE OMAR HERNANDEZ SALGADO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Omar-Hern\u00e1ndez-Salgado_157835",
     "general": 10.0,
@@ -18435,7 +18441,7 @@ let misProfesData={
   "DAVID LAMB DE VALDES": {
     "link": "https://www.misprofesores.com/profesores/David-Lamb-de-Valdes_171622",
     "general": 10.0,
-    "n": 3
+    "n": 4
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
@@ -18451,6 +18457,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
     "general": 7.64,
     "n": 25
+  },
+  "GUILLERMO LOPEZ CORRAL": {
+    "link": "https://www.misprofesores.com/profesores/Guillermo-L\u00f3pez-Corral_177716",
+    "general": 9.0,
+    "n": 1
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",

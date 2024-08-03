@@ -1,4 +1,4 @@
-let actualizado="1722609416308.8748";
+let actualizado="1722695784316.5854";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -7,8 +7,8 @@ let formPostUrl="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2";
 let profesores={
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
-    "general": 7.3548,
-    "n": 31,
+    "general": 7.2813,
+    "n": 32,
     "grupos": {
       "ACT-11300-CALCULO ACTUARIAL I": [
         {
@@ -63,23 +63,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ],
-      "ACT-11302-CALCULO ACTUARIAL III": [
-        {
-          "grupo": "002",
-          "nombre": "ACT-11302-CALCULO ACTUARIAL III",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "18:00-19:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH312",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:30"
         }
       ],
       "ACT-15352-PLANES DE BENEFICIOS": [
@@ -146,23 +129,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
-        }
-      ],
-      "ACT-22306-MATEMATICAS FINANCIERAS II": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-22306-MATEMATICAS FINANCIERAS II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ],
       "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
@@ -427,6 +393,40 @@ let profesores={
           "fin": "20:30"
         }
       ],
+      "CON-10001-PROCESO CONTABLE": [
+        {
+          "grupo": "004",
+          "nombre": "CON-10001-PROCESO CONTABLE",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ],
+      "CON-10100-CONTABILIDAD, I": [
+        {
+          "grupo": "001",
+          "nombre": "CON-10100-CONTABILIDAD, I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
+        }
+      ],
       "DER-13504-CONTRATOS": [
         {
           "grupo": "001",
@@ -591,23 +591,6 @@ let profesores={
           "fin": "13:00"
         }
       ],
-      "EST-24105-ESTADISTICA APLICADA, II": [
-        {
-          "grupo": "002",
-          "nombre": "EST-24105-ESTADISTICA APLICADA, II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
       "EST-24109-TEMAS SELECTOS DE ESTADISTICA": [
         {
           "grupo": "001",
@@ -622,23 +605,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
-        }
-      ],
-      "EST-24124-METODOS LINEALES": [
-        {
-          "grupo": "002",
-          "nombre": "EST-24124-METODOS LINEALES",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ],
       "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
@@ -876,6 +842,30 @@ let profesores={
       ]
     }
   },
+  "DIEGO HERNANDEZ RANGEL": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Hern\u00e1ndez-Rangel_10679",
+    "general": 8.7222,
+    "n": 18,
+    "grupos": {
+      "ACT-11302-CALCULO ACTUARIAL III": [
+        {
+          "grupo": "002",
+          "nombre": "ACT-11302-CALCULO ACTUARIAL III",
+          "profesor": "DIEGO HERNANDEZ RANGEL",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH312",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
+        }
+      ]
+    }
+  },
   "MARIA MERCEDES GREGORIO DOMINGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Mercedes-Gregorio-Dom\u00ednguez_10676",
     "general": 8.25,
@@ -1033,6 +1023,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "BARBARA MARTINEZ LICON": {
+    "grupos": {
+      "ACT-22306-MATEMATICAS FINANCIERAS II": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-22306-MATEMATICAS FINANCIERAS II",
+          "profesor": "BARBARA MARTINEZ LICON",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -3385,10 +3396,11 @@ let profesores={
           "creditos": "0",
           "horario": "16:00-18:00",
           "dias": [
-            "MA"
+            "MA",
+            "JU"
           ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
+          "salon": "",
+          "campus": "",
           "inicio": "16:00",
           "fin": "18:00"
         }
@@ -4987,8 +4999,8 @@ let profesores={
   },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
-    "general": 7.45,
-    "n": 40,
+    "general": 7.3902,
+    "n": 41,
     "grupos": {
       "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
         {
@@ -5291,64 +5303,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
-        }
-      ]
-    }
-  },
-  "CLAUDIA EMILIA DE LEON PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
-    "general": 8.2222,
-    "n": 36,
-    "grupos": {
-      "CON-10001-PROCESO CONTABLE": [
-        {
-          "grupo": "004",
-          "nombre": "CON-10001-PROCESO CONTABLE",
-          "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "CON-10100-CONTABILIDAD, I": [
-        {
-          "grupo": "001",
-          "nombre": "CON-10100-CONTABILIDAD, I",
-          "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
-          "creditos": "6",
-          "horario": "18:00-19:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:30"
-        }
-      ],
-      "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
-        {
-          "grupo": "001",
-          "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
-          "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
-          "creditos": "6",
-          "horario": "18:00-19:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:30"
         }
       ]
     }
@@ -5776,6 +5730,30 @@ let profesores={
       ]
     }
   },
+  "CLAUDIA EMILIA DE LEON PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
+    "general": 8.2222,
+    "n": 36,
+    "grupos": {
+      "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
+        {
+          "grupo": "001",
+          "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
+          "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
+        }
+      ]
+    }
+  },
   "BENITO REVAH MEYOHAS": {
     "grupos": {
       "CON-11001-AUDITORIA DE ESTADOS FINANCS.": [
@@ -5818,8 +5796,8 @@ let profesores={
   },
   "ANA MARIA BERNARDETTE DIAZ BONNET": {
     "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Bernardette-Diaz-Bonnet_10748",
-    "general": 6.5,
-    "n": 36,
+    "general": 6.4865,
+    "n": 37,
     "grupos": {
       "CON-12001-CONTABILIDAD DE COSTOS": [
         {
@@ -6141,6 +6119,9 @@ let profesores={
     }
   },
   "GUILLERMO LOPEZ CORRAL": {
+    "link": "https://www.misprofesores.com/profesores/Guillermo-L\u00f3pez-Corral_177716",
+    "general": 9.0,
+    "n": 1,
     "grupos": {
       "CON-15001-IMPUESTOS CORPORATIVOS, I": [
         {
@@ -9761,7 +9742,7 @@ let profesores={
   "DAVID LAMB DE VALDES": {
     "link": "https://www.misprofesores.com/profesores/David-Lamb-de-Valdes_171622",
     "general": 10.0,
-    "n": 3,
+    "n": 4,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
@@ -11107,22 +11088,39 @@ let profesores={
       ]
     }
   },
-  "SERGIO RODRIGUEZ GARCIA": {
+  "RAUL ALEJANDRO LIVAS ELIZONDO": {
     "grupos": {
       "ECO-14501-ECONOMIA DE LA EMPRESA": [
         {
           "grupo": "001",
           "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
-          "profesor": "SERGIO RODRIGUEZ GARCIA",
+          "profesor": "RAUL ALEJANDRO LIVAS ELIZONDO",
           "creditos": "6",
-          "horario": "09:00-12:00",
+          "horario": "19:00-22:00",
           "dias": [
-            "VI"
+            "LU"
           ],
-          "salon": "RHB-1",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "12:00"
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ECO-18300-CRECIMIENTO ECONOMICO": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-18300-CRECIMIENTO ECONOMICO",
+          "profesor": "RAUL ALEJANDRO LIVAS ELIZONDO",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -11364,27 +11362,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
-        }
-      ]
-    }
-  },
-  "RAUL ALEJANDRO LIVAS ELIZONDO": {
-    "grupos": {
-      "ECO-18300-CRECIMIENTO ECONOMICO": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-18300-CRECIMIENTO ECONOMICO",
-          "profesor": "RAUL ALEJANDRO LIVAS ELIZONDO",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -13293,8 +13270,8 @@ let profesores={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 4.3846,
-    "n": 13,
+    "general": 4.3571,
+    "n": 14,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -13984,6 +13961,44 @@ let profesores={
       ]
     }
   },
+  "MARIA LAURA BATTAGLIOLA": {
+    "grupos": {
+      "EST-24105-ESTADISTICA APLICADA, II": [
+        {
+          "grupo": "002",
+          "nombre": "EST-24105-ESTADISTICA APLICADA, II",
+          "profesor": "MARIA LAURA BATTAGLIOLA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "EST-24124-METODOS LINEALES": [
+        {
+          "grupo": "002",
+          "nombre": "EST-24124-METODOS LINEALES",
+          "profesor": "MARIA LAURA BATTAGLIOLA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
   "JORGE FRANCISCO DE LA VEGA GONGORA": {
     "grupos": {
       "EST-24107-SIMULACION": [
@@ -14074,15 +14089,15 @@ let profesores={
           "nombre": "IIO-12180-DISE\u00d1O Y DES. DE PRODUCTO",
           "profesor": "SERGIO ROMERO HERNANDEZ",
           "creditos": "6",
-          "horario": "11:00-12:30",
+          "horario": "19:00-20:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RHLMINT",
+          "salon": "RHPACE",
           "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:30"
+          "inicio": "19:00",
+          "fin": "20:30"
         }
       ],
       "IIO-15180-ENERGIA Y MEDIO AMBIENTE": [
@@ -19119,6 +19134,7 @@ let profesores={
 let mejoresPorDepto={
   "ACTUARIA Y SEGUROS": [
     "DAVID RUELAS RODRIGUEZ",
+    "DIEGO HERNANDEZ RANGEL",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
     "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
     "SERGIO GARCIA ALQUICIRA",
@@ -19126,8 +19142,7 @@ let mejoresPorDepto={
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
     "",
     "LEONARDO ROJAS NANDAYAPA",
-    "GERARDO HERNANDEZ DEL VALLE",
-    "ANTONIO LOPEZ VELARDE LOERA"
+    "BARBARA MARTINEZ LICON"
   ],
   "ADMINISTRACION": [
     "MARIANA CONTRERAS AREVALO",
@@ -19167,14 +19182,14 @@ let mejoresPorDepto={
   "CONTABILIDAD": [
     "MARCELA GONZALEZ MARTINEZ",
     "ROSA ELENA MIRANDA SANSORES",
+    "GUILLERMO LOPEZ CORRAL",
     "MARIA LUISA GRUNBERGER STERN",
     "VIRGINIA KALIS LETAYF",
     "CLAUDIA EMILIA DE LEON PEREZ",
     "YANIRA ROSALBA PETRIDES JIMENEZ",
     "MARIA CANDELAS RAMIREZ",
     "SYLVIA MELJEM ENRIQUEZ DE RIVERA",
-    "ELIZABETH GEORGINA URRUTIA LEZAMA",
-    "MARIA ELOISA MARTINEZ PEREZ"
+    "ELIZABETH GEORGINA URRUTIA LEZAMA"
   ],
   "CIENCIA POLITICA": [
     "JULIO ANTONIO RIOS FIGUEROA",
