@@ -1,4 +1,4 @@
-let actualizado="1722868663358.761";
+let actualizado="1722955053526.301";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -513,7 +513,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
-        "profesor": "DANIEL MARTINEZ VALLE",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:30-10:30",
         "dias": [
@@ -611,26 +611,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:30",
         "fin": "10:30"
-      }
-    ]
-  },
-  "ADM-12022": {
-    "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
-    "clave": "ADM-12022",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
-        "profesor": "JOSE LUIS RIVAS PEREZ",
-        "creditos": "6",
-        "horario": "11:00-14:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "RHSA4",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "14:00"
       }
     ]
   },
@@ -1461,7 +1441,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15511-SEMINARIO DE FINANZAS (OP)",
-        "profesor": "DANIEL MARTINEZ VALLE",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:30-10:30",
         "dias": [
@@ -12916,15 +12896,15 @@ let clases={
         "nombre": "IIO-12180-DISE\u00d1O Y DES. DE PRODUCTO",
         "profesor": "SERGIO ROMERO HERNANDEZ",
         "creditos": "6",
-        "horario": "19:00-20:30",
+        "horario": "11:00-12:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RHPACE",
+        "salon": "RHLMINT",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "20:30"
+        "inicio": "11:00",
+        "fin": "12:30"
       }
     ]
   },
@@ -13795,7 +13775,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+        "profesor": "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -18110,8 +18090,8 @@ let misProfesData={
   },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
-    "general": 8.2222,
-    "n": 36
+    "general": 8.2432,
+    "n": 37
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
@@ -18145,8 +18125,8 @@ let misProfesData={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.481,
-    "n": 79
+    "general": 9.4875,
+    "n": 80
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
@@ -18219,9 +18199,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -18329,9 +18309,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -18419,9 +18399,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18460,8 +18440,8 @@ let misProfesData={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.64,
-    "n": 25
+    "general": 7.6154,
+    "n": 26
   },
   "GUILLERMO LOPEZ CORRAL": {
     "link": "https://www.misprofesores.com/profesores/Guillermo-L\u00f3pez-Corral_177716",
@@ -18615,8 +18595,8 @@ let misProfesData={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.5143,
-    "n": 35
+    "general": 7.5,
+    "n": 36
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
@@ -18999,9 +18979,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",

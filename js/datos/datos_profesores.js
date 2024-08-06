@@ -1,4 +1,4 @@
-let actualizado="1722868663375.002";
+let actualizado="1722955053543.5774";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -129,6 +129,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
+        }
+      ],
+      "ADM-11018-SEMINARIO DE DIRECCION": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:30-10:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "07:30",
+          "fin": "10:30"
+        }
+      ],
+      "ADM-15511-SEMINARIO DE FINANZAS (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15511-SEMINARIO DE FINANZAS (OP)",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:30-10:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "07:30",
+          "fin": "10:30"
         }
       ],
       "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
@@ -1296,42 +1328,6 @@ let profesores={
       ]
     }
   },
-  "DANIEL MARTINEZ VALLE": {
-    "grupos": {
-      "ADM-11018-SEMINARIO DE DIRECCION": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
-          "profesor": "DANIEL MARTINEZ VALLE",
-          "creditos": "6",
-          "horario": "07:30-10:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "07:30",
-          "fin": "10:30"
-        }
-      ],
-      "ADM-15511-SEMINARIO DE FINANZAS (OP)": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15511-SEMINARIO DE FINANZAS (OP)",
-          "profesor": "DANIEL MARTINEZ VALLE",
-          "creditos": "6",
-          "horario": "07:30-10:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "07:30",
-          "fin": "10:30"
-        }
-      ]
-    }
-  },
   "JOSE JAVIER MEDRANO PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
     "general": 9.0,
@@ -1402,26 +1398,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "JOSE LUIS RIVAS PEREZ": {
-    "grupos": {
-      "ADM-12022-ESTRATEGIA GLOBAL": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
-          "profesor": "JOSE LUIS RIVAS PEREZ",
-          "creditos": "6",
-          "horario": "11:00-14:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHSA4",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
         }
       ]
     }
@@ -5251,9 +5227,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5732,8 +5708,8 @@ let profesores={
   },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
-    "general": 8.2222,
-    "n": 36,
+    "general": 8.2432,
+    "n": 37,
     "grupos": {
       "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
         {
@@ -12098,8 +12074,8 @@ let profesores={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.481,
-    "n": 79,
+    "general": 9.4875,
+    "n": 80,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12613,9 +12589,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -14095,15 +14071,15 @@ let profesores={
           "nombre": "IIO-12180-DISE\u00d1O Y DES. DE PRODUCTO",
           "profesor": "SERGIO ROMERO HERNANDEZ",
           "creditos": "6",
-          "horario": "19:00-20:30",
+          "horario": "11:00-12:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RHPACE",
+          "salon": "RHLMINT",
           "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
+          "inicio": "11:00",
+          "fin": "12:30"
         }
       ],
       "IIO-15180-ENERGIA Y MEDIO AMBIENTE": [
@@ -15486,21 +15462,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        },
-        {
-          "grupo": "008",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ],
       "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
@@ -15565,6 +15526,41 @@ let profesores={
       ]
     }
   },
+  "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "008",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "013",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.68,
@@ -15616,26 +15612,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:00"
-        }
-      ]
-    }
-  },
-  "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "013",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ]
     }
@@ -15748,9 +15724,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16274,9 +16250,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17591,8 +17567,8 @@ let profesores={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.64,
-    "n": 25,
+    "general": 7.6154,
+    "n": 26,
     "grupos": {
       "MAT-12250-CALCULO APLICADO": [
         {
@@ -18006,8 +17982,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.5143,
-    "n": 35,
+    "general": 7.5,
+    "n": 36,
     "grupos": {
       "MAT-14101-CALCULO DIF. E INT., II": [
         {
@@ -19239,11 +19215,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
+    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "DAVID MORENO GUINEA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -19288,10 +19264,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ",
-    "ELSA VIVIANA OROPEZA GRACIA"
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
