@@ -1,4 +1,4 @@
-let actualizado="1722955053526.301";
+let actualizado="1723041445475.5286";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -27,7 +27,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ACT-11300-CALCULO ACTUARIAL I",
-        "profesor": "",
+        "profesor": "PEDRO DANIEL TREJO SOLIS",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -177,7 +177,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-15352-PLANES DE BENEFICIOS",
-        "profesor": "",
+        "profesor": "PEDRO DANIEL TREJO SOLIS",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -198,7 +198,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-15353-PRACTICA ACTUAR. Y MARCO INST.",
-        "profesor": "",
+        "profesor": "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -276,7 +276,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-15360-INTRODUCCION A LA ACTUARIA",
-        "profesor": "",
+        "profesor": "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -291,7 +291,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ACT-15360-INTRODUCCION A LA ACTUARIA",
-        "profesor": "",
+        "profesor": "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -513,7 +513,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
-        "profesor": "",
+        "profesor": "JOSE LUIS RIVAS PEREZ",
         "creditos": "6",
         "horario": "07:30-10:30",
         "dias": [
@@ -1461,7 +1461,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-        "profesor": "",
+        "profesor": "JULIAN GOMEZ FAUSTINO",
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
@@ -7231,6 +7231,11 @@ let clases={
       }
     ]
   },
+  "DER-12102": {
+    "nombre": "DER-12102-INSTITUCS. DE DERECHO ROMANO",
+    "clave": "DER-12102",
+    "grupos": []
+  },
   "DER-12103": {
     "nombre": "DER-12103-HISTORIA DEL DERECHO",
     "clave": "DER-12103",
@@ -7253,6 +7258,27 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-12103-HISTORIA DEL DERECHO",
+        "profesor": "LUIS REY RAIGOSA SOTELO",
+        "creditos": "6",
+        "horario": "09:30-11:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH317",
+        "campus": "RIO HONDO",
+        "inicio": "09:30",
+        "fin": "11:00"
+      }
+    ]
+  },
+  "DER-12202": {
+    "nombre": "DER-12202-HISTORIA DEL DERECHO MEXICANO",
+    "clave": "DER-12202",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-12202-HISTORIA DEL DERECHO MEXICANO",
         "profesor": "LUIS REY RAIGOSA SOTELO",
         "creditos": "6",
         "horario": "09:30-11:00",
@@ -7494,7 +7520,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13504-CONTRATOS",
-        "profesor": "",
+        "profesor": "LUIS ASALI HARFUCH",
         "creditos": "8",
         "horario": "07:00-09:00",
         "dias": [
@@ -8153,7 +8179,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-16922-LAB. DERECHO PRIVADO (CLINICA)-LAB",
-        "profesor": "SEBASTIAN FERNANDEZ ALONSO MARQUEZ",
+        "profesor": "SANTIAGO TAMARIZ ACOSTA",
         "creditos": "2",
         "horario": "19:00-21:00",
         "dias": [
@@ -8675,7 +8701,7 @@ let clases={
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
-          "JU"
+          "MA"
         ],
         "salon": "RH204",
         "campus": "RIO HONDO",
@@ -8768,7 +8794,7 @@ let clases={
         "creditos": "9",
         "horario": "07:00-10:00",
         "dias": [
-          "JU"
+          "MA"
         ],
         "salon": "RH204",
         "campus": "RIO HONDO",
@@ -9927,7 +9953,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ECO-15101-FINANZAS PUBLICAS",
-        "profesor": "",
+        "profesor": "JOSE BERNARDO GONZALEZ ROSAS",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -10047,21 +10073,6 @@ let clases={
     "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
     "clave": "ECO-17100",
     "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
-        "profesor": "CHRISTINA CORNEJO VAN LUIT",
-        "creditos": "6",
-        "horario": "08:00-09:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH201",
-        "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "09:00"
-      },
       {
         "grupo": "002",
         "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
@@ -17855,8 +17866,8 @@ let misProfesData={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.5267,
-    "n": 131
+    "general": 6.5455,
+    "n": 132
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
@@ -17925,8 +17936,8 @@ let misProfesData={
   },
   "HANNAH BIRKENKOTTER": {
     "link": "https://www.misprofesores.com/profesores/Hannah-Birkenkotter_169901",
-    "general": 8.0,
-    "n": 2
+    "general": 8.3333,
+    "n": 3
   },
   "ERNESTO BLANCAS BARRAGAN": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
@@ -18309,9 +18320,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3636,
+    "n": 22
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -18399,9 +18410,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18465,8 +18476,8 @@ let misProfesData={
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 6.8824,
-    "n": 51
+    "general": 6.8654,
+    "n": 52
   },
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
@@ -18493,11 +18504,6 @@ let misProfesData={
     "general": 9.2353,
     "n": 17
   },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
-  },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
     "general": 6.6,
@@ -18505,8 +18511,8 @@ let misProfesData={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.2105,
-    "n": 19
+    "general": 8.3,
+    "n": 20
   },
   "LUZ MARIA MARVAN GARDU\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Marv\u00e1n-Gardu\u00f1o_15368",
@@ -18708,6 +18714,11 @@ let misProfesData={
     "general": 8.6406,
     "n": 64
   },
+  "RODRIGO PE\u00d1A GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Rodrigo-Pe\u00f1a-Gonz\u00e1lez_177870",
+    "general": 9.0,
+    "n": 1
+  },
   "WILMER EFREN PEREIRA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Wilmer-Efr\u00e9n-Pereira-Gonz\u00e1lez_142587",
     "general": 10.0,
@@ -18814,9 +18825,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -18905,8 +18916,8 @@ let misProfesData={
   },
   "SERGIO MIGUEL SARMIENTO SERRANO": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
-    "general": 7.3827,
-    "n": 81
+    "general": 7.3902,
+    "n": 82
   },
   "JULIETA MARIA SARRALDE VERA": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Mar\u00eda-Sarralde-Vera_10718",
@@ -18965,8 +18976,8 @@ let misProfesData={
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.2182,
-    "n": 55
+    "general": 6.1786,
+    "n": 56
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
@@ -18979,9 +18990,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
@@ -18995,6 +19006,11 @@ let misProfesData={
   },
   "PAUL RENATO TOPPO RAIMONDO": {
     "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
+    "general": 6.4167,
+    "n": 12
+  },
+  "PEDRO DANIEL TREJO SOLIS": {
+    "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
     "general": 6.4167,
     "n": 12
   },
@@ -19015,8 +19031,8 @@ let misProfesData={
   },
   "ELIZABETH GEORGINA URRUTIA LEZAMA": {
     "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
-    "general": 7.1579,
-    "n": 38
+    "general": 7.1,
+    "n": 40
   },
   "CESAR CLAUDIO URRUTIA ROMERO": {
     "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
@@ -19107,6 +19123,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",
     "general": 5.9737,
     "n": 76
+  },
+  "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-los-\u00c1ngeles-Ya\u00f1ez-Acosta_20034",
+    "general": 7.0,
+    "n": 9
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
