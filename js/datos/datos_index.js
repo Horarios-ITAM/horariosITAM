@@ -1,4 +1,4 @@
-let actualizado="1723041445475.5286";
+let actualizado="1723127762720.7388";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -4399,7 +4399,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "CON-10001-PROCESO CONTABLE",
-        "profesor": "",
+        "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
@@ -4671,7 +4671,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-10100-CONTABILIDAD, I",
-        "profesor": "",
+        "profesor": "MARIA LUISA GRUNBERGER STERN",
         "creditos": "6",
         "horario": "18:00-19:30",
         "dias": [
@@ -4788,7 +4788,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
-        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "profesor": "MARIA LUISA GRUNBERGER STERN",
         "creditos": "6",
         "horario": "18:00-19:30",
         "dias": [
@@ -6086,6 +6086,26 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CSO-19084-SEMINARIO DE INV. POLITICA D",
+        "profesor": "JUAN PABLO MICOZZI",
+        "creditos": "9",
+        "horario": "16:00-19:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH212",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "19:00"
+      }
+    ]
+  },
+  "CSO-19086": {
+    "nombre": "CSO-19086-SEMINARIO DE INV. POLITICA F",
+    "clave": "CSO-19086",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19086-SEMINARIO DE INV. POLITICA F",
         "profesor": "JUAN PABLO MICOZZI",
         "creditos": "9",
         "horario": "16:00-19:00",
@@ -9669,7 +9689,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
-        "profesor": "",
+        "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -12064,7 +12084,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "EST-11101-PROBABILIDAD",
-        "profesor": "",
+        "profesor": "MARTIN MAGRIS",
         "creditos": "8",
         "horario": "10:00-12:00",
         "dias": [
@@ -12241,7 +12261,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "EST-11103-ECONOMETRIA I",
-        "profesor": "",
+        "profesor": "MARTIN MAGRIS",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -12292,7 +12312,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "EST-11104-ECONOMETRIA",
-        "profesor": "",
+        "profesor": "MARTIN MAGRIS",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -13439,6 +13459,20 @@ let clases={
         "horario": "11:00-12:00",
         "dias": [
           "MI"
+        ],
+        "salon": "RH110",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "12:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "IIO-16111-TRAYEC DE NEG. I: ING Y TECNOL",
+        "profesor": "ANTE SALCEDO GONZALEZ",
+        "creditos": "2",
+        "horario": "11:00-12:00",
+        "dias": [
+          "LU"
         ],
         "salon": "RH110",
         "campus": "RIO HONDO",
@@ -15847,7 +15881,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-        "profesor": "LEOBARDO FERNANDEZ ROMAN",
+        "profesor": "SANTIAGO ORTOLANO GUISASOLA",
         "creditos": "9",
         "horario": "07:00-08:30",
         "dias": [
@@ -15863,7 +15897,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-        "profesor": "MAYRA NU\u00d1EZ LOPEZ",
+        "profesor": "SANTIAGO ORTOLANO GUISASOLA",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -15879,7 +15913,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-        "profesor": "FRANCISCO FERNANDO NORE\u00d1A VILLARIAS",
+        "profesor": "SANTIAGO ORTOLANO GUISASOLA",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -15895,7 +15929,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-        "profesor": "LYSETTE FELIX FELIX",
+        "profesor": "SANTIAGO ORTOLANO GUISASOLA",
         "creditos": "9",
         "horario": "10:00-11:30",
         "dias": [
@@ -15911,7 +15945,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-        "profesor": "",
+        "profesor": "SANTIAGO ORTOLANO GUISASOLA",
         "creditos": "9",
         "horario": "11:30-13:00",
         "dias": [
@@ -15927,7 +15961,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-        "profesor": "",
+        "profesor": "SANTIAGO ORTOLANO GUISASOLA",
         "creditos": "9",
         "horario": "16:00-17:30",
         "dias": [
@@ -15965,7 +15999,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-12250-CALCULO APLICADO",
-        "profesor": "CLAUDIA GUADALUPE GOMEZ WULSCHNER",
+        "profesor": "SANTIAGO ORTOLANO GUISASOLA",
         "creditos": "9",
         "horario": "10:00-11:30",
         "dias": [
@@ -17859,11 +17893,6 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -17911,8 +17940,8 @@ let misProfesData={
   },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
-    "general": 7.3902,
-    "n": 41
+    "general": 7.4524,
+    "n": 42
   },
   "JOSE MARIA BARRERO SANCLEMENTE": {
     "link": "https://www.misprofesores.com/profesores/Jose-Mar\u00eda-Barrero-Sanclemente_114805",
@@ -18001,8 +18030,8 @@ let misProfesData={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.8478,
-    "n": 46
+    "general": 6.766,
+    "n": 47
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
@@ -18099,11 +18128,6 @@ let misProfesData={
     "general": 8.0476,
     "n": 21
   },
-  "CLAUDIA EMILIA DE LEON PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
-    "general": 8.2432,
-    "n": 37
-  },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
     "general": 9.875,
@@ -18196,8 +18220,8 @@ let misProfesData={
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
-    "general": 9.75,
-    "n": 4
+    "general": 9.8,
+    "n": 5
   },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
@@ -18210,9 +18234,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -18320,9 +18344,9 @@ let misProfesData={
     "n": 32
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -18410,9 +18434,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18436,8 +18460,8 @@ let misProfesData={
   },
   "DAVID LAMB DE VALDES": {
     "link": "https://www.misprofesores.com/profesores/David-Lamb-de-Valdes_171622",
-    "general": 10.0,
-    "n": 4
+    "general": 9.6,
+    "n": 5
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
@@ -18446,8 +18470,8 @@ let misProfesData={
   },
   "IGNACIO NORBERTO LOBATO GARCIA MIJAN": {
     "link": "https://www.misprofesores.com/profesores/Ignacio-Norberto-Lobato-Garc\u00eda-Mij\u00e1n_10781",
-    "general": 6.8519,
-    "n": 27
+    "general": 6.8929,
+    "n": 28
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
@@ -18504,6 +18528,11 @@ let misProfesData={
     "general": 9.2353,
     "n": 17
   },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
+  },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
     "general": 6.6,
@@ -18551,8 +18580,8 @@ let misProfesData={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 7.1429,
-    "n": 7
+    "general": 7.0,
+    "n": 8
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
@@ -18814,20 +18843,15 @@ let misProfesData={
     "general": 8.3333,
     "n": 18
   },
-  "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6818,
-    "n": 88
-  },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
     "general": 7.6316,
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -18990,9 +19014,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",

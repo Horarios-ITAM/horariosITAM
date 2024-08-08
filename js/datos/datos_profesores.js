@@ -1,4 +1,4 @@
-let actualizado="1723041445491.6797";
+let actualizado="1723127762741.8604";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -2184,40 +2184,6 @@ let profesores={
           "fin": "20:30"
         }
       ],
-      "CON-10001-PROCESO CONTABLE": [
-        {
-          "grupo": "004",
-          "nombre": "CON-10001-PROCESO CONTABLE",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "CON-10100-CONTABILIDAD, I": [
-        {
-          "grupo": "001",
-          "nombre": "CON-10100-CONTABILIDAD, I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "18:00-19:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:30"
-        }
-      ],
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
           "grupo": "001",
@@ -2229,22 +2195,6 @@ let profesores={
             "LU"
           ],
           "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-12201-TEORIA Y POLITICA MONETARIA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -2297,57 +2247,6 @@ let profesores={
           "fin": "09:00"
         }
       ],
-      "EST-11101-PROBABILIDAD": [
-        {
-          "grupo": "003",
-          "nombre": "EST-11101-PROBABILIDAD",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "10:00-12:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH108",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
-        }
-      ],
-      "EST-11103-ECONOMETRIA I": [
-        {
-          "grupo": "003",
-          "nombre": "EST-11103-ECONOMETRIA I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-2",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "EST-11104-ECONOMETRIA": [
-        {
-          "grupo": "003",
-          "nombre": "EST-11104-ECONOMETRIA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-2",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
       "EST-24109-TEMAS SELECTOS DE ESTADISTICA": [
         {
           "grupo": "001",
@@ -2378,40 +2277,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
-        }
-      ],
-      "MAT-12220-CALCULO EN UNA VARIABLE": [
-        {
-          "grupo": "005",
-          "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        },
-        {
-          "grupo": "006",
-          "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ],
       "MAT-14280-PENSAMIENTO MATEMATICO": [
@@ -4965,8 +4830,8 @@ let profesores={
   },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
-    "general": 7.3902,
-    "n": 41,
+    "general": 7.4524,
+    "n": 42,
     "grupos": {
       "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
         {
@@ -5217,9 +5082,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5269,6 +5134,64 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "ELIZABETH GEORGINA URRUTIA LEZAMA": {
+    "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
+    "general": 7.1,
+    "n": 40,
+    "grupos": {
+      "CON-10001-PROCESO CONTABLE": [
+        {
+          "grupo": "004",
+          "nombre": "CON-10001-PROCESO CONTABLE",
+          "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ],
+      "CON-10100-CONTABILIDAD, I": [
+        {
+          "grupo": "004",
+          "nombre": "CON-10100-CONTABILIDAD, I",
+          "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF106",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
+        {
+          "grupo": "004",
+          "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
+          "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF106",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -5621,91 +5544,9 @@ let profesores={
     "grupos": {
       "CON-10100-CONTABILIDAD, I": [
         {
-          "grupo": "003",
-          "nombre": "CON-10100-CONTABILIDAD, I",
-          "profesor": "MARIA LUISA GRUNBERGER STERN",
-          "creditos": "6",
-          "horario": "17:00-18:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "18:30"
-        }
-      ],
-      "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
-        {
-          "grupo": "003",
-          "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
-          "profesor": "MARIA LUISA GRUNBERGER STERN",
-          "creditos": "6",
-          "horario": "17:00-18:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "18:30"
-        }
-      ]
-    }
-  },
-  "ELIZABETH GEORGINA URRUTIA LEZAMA": {
-    "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
-    "general": 7.1,
-    "n": 40,
-    "grupos": {
-      "CON-10100-CONTABILIDAD, I": [
-        {
-          "grupo": "004",
-          "nombre": "CON-10100-CONTABILIDAD, I",
-          "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF106",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
-        {
-          "grupo": "004",
-          "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
-          "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF106",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "CLAUDIA EMILIA DE LEON PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
-    "general": 8.2432,
-    "n": 37,
-    "grupos": {
-      "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
-        {
           "grupo": "001",
-          "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
-          "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+          "nombre": "CON-10100-CONTABILIDAD, I",
+          "profesor": "MARIA LUISA GRUNBERGER STERN",
           "creditos": "6",
           "horario": "18:00-19:30",
           "dias": [
@@ -5716,6 +5557,53 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:30"
+        },
+        {
+          "grupo": "003",
+          "nombre": "CON-10100-CONTABILIDAD, I",
+          "profesor": "MARIA LUISA GRUNBERGER STERN",
+          "creditos": "6",
+          "horario": "17:00-18:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "18:30"
+        }
+      ],
+      "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
+        {
+          "grupo": "001",
+          "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
+          "profesor": "MARIA LUISA GRUNBERGER STERN",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
+        },
+        {
+          "grupo": "003",
+          "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
+          "profesor": "MARIA LUISA GRUNBERGER STERN",
+          "creditos": "6",
+          "horario": "17:00-18:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "18:30"
         }
       ]
     }
@@ -6244,6 +6132,22 @@ let profesores={
           "inicio": "16:00",
           "fin": "19:00"
         }
+      ],
+      "CSO-19086-SEMINARIO DE INV. POLITICA F": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-19086-SEMINARIO DE INV. POLITICA F",
+          "profesor": "JUAN PABLO MICOZZI",
+          "creditos": "9",
+          "horario": "16:00-19:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH212",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
       ]
     }
   },
@@ -6495,6 +6399,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -9742,8 +9649,8 @@ let profesores={
   },
   "DAVID LAMB DE VALDES": {
     "link": "https://www.misprofesores.com/profesores/David-Lamb-de-Valdes_171622",
-    "general": 10.0,
-    "n": 4,
+    "general": 9.6,
+    "n": 5,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
@@ -9989,8 +9896,8 @@ let profesores={
   },
   "IGNACIO NORBERTO LOBATO GARCIA MIJAN": {
     "link": "https://www.misprofesores.com/profesores/Ignacio-Norberto-Lobato-Garc\u00eda-Mij\u00e1n_10781",
-    "general": 6.8519,
-    "n": 27,
+    "general": 6.8929,
+    "n": 28,
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
         {
@@ -10454,9 +10361,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10894,6 +10801,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "GUSTAVO ANTONIO LEYVA JIMENEZ": {
+    "grupos": {
+      "ECO-12201-TEORIA Y POLITICA MONETARIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+          "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -11336,9 +11263,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -11707,9 +11631,6 @@ let profesores={
     }
   },
   "VICTOR HUGO RIVAS CALDERON": {
-    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Rivas-Calder\u00f3n_67448",
-    "general": 7.6818,
-    "n": 88,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -12620,9 +12541,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -13366,6 +13287,61 @@ let profesores={
       ]
     }
   },
+  "MARTIN MAGRIS": {
+    "grupos": {
+      "EST-11101-PROBABILIDAD": [
+        {
+          "grupo": "003",
+          "nombre": "EST-11101-PROBABILIDAD",
+          "profesor": "MARTIN MAGRIS",
+          "creditos": "8",
+          "horario": "10:00-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
+        }
+      ],
+      "EST-11103-ECONOMETRIA I": [
+        {
+          "grupo": "003",
+          "nombre": "EST-11103-ECONOMETRIA I",
+          "profesor": "MARTIN MAGRIS",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "EST-11104-ECONOMETRIA": [
+        {
+          "grupo": "003",
+          "nombre": "EST-11104-ECONOMETRIA",
+          "profesor": "MARTIN MAGRIS",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
     "general": 7.7353,
@@ -13585,8 +13561,8 @@ let profesores={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 7.1429,
-    "n": 7,
+    "general": 7.0,
+    "n": 8,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -14656,6 +14632,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "IIO-16111-TRAYEC DE NEG. I: ING Y TECNOL",
+          "profesor": "ANTE SALCEDO GONZALEZ",
+          "creditos": "2",
+          "horario": "11:00-12:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
         }
       ],
       "SDI-11120-ELEMENTOS DE FISICA": [
@@ -15133,8 +15123,8 @@ let profesores={
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
-    "general": 9.75,
-    "n": 4,
+    "general": 9.8,
+    "n": 5,
     "grupos": {
       "LEN-10135-COM. ESCRITA PARA MAT. APL.": [
         {
@@ -15758,9 +15748,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16284,9 +16274,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -16803,24 +16793,6 @@ let profesores={
           "inicio": "11:30",
           "fin": "13:00"
         }
-      ],
-      "MAT-12220-CALCULO EN UNA VARIABLE": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-          "profesor": "LYSETTE FELIX FELIX",
-          "creditos": "9",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH316",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
       ]
     }
   },
@@ -16867,8 +16839,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.8478,
-    "n": 46,
+    "general": 6.766,
+    "n": 47,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
@@ -17072,24 +17044,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
-        }
-      ],
-      "MAT-12220-CALCULO EN UNA VARIABLE": [
-        {
-          "grupo": "003",
-          "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-          "profesor": "FRANCISCO FERNANDO NORE\u00d1A VILLARIAS",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -17401,16 +17355,13 @@ let profesores={
       ]
     }
   },
-  "LEOBARDO FERNANDEZ ROMAN": {
-    "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
-    "general": 8.2,
-    "n": 70,
+  "SANTIAGO ORTOLANO GUISASOLA": {
     "grupos": {
       "MAT-12220-CALCULO EN UNA VARIABLE": [
         {
           "grupo": "001",
           "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-          "profesor": "LEOBARDO FERNANDEZ ROMAN",
+          "profesor": "SANTIAGO ORTOLANO GUISASOLA",
           "creditos": "9",
           "horario": "07:00-08:30",
           "dias": [
@@ -17422,37 +17373,11 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
-        }
-      ],
-      "MAT-14250-GEOMETRIA VECTORIAL": [
-        {
-          "grupo": "005",
-          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
-          "profesor": "LEOBARDO FERNANDEZ ROMAN",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH316",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "MAYRA NU\u00d1EZ LOPEZ": {
-    "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
-    "general": 9.2857,
-    "n": 14,
-    "grupos": {
-      "MAT-12220-CALCULO EN UNA VARIABLE": [
+        },
         {
           "grupo": "002",
           "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
-          "profesor": "MAYRA NU\u00d1EZ LOPEZ",
+          "profesor": "SANTIAGO ORTOLANO GUISASOLA",
           "creditos": "9",
           "horario": "08:30-10:00",
           "dias": [
@@ -17464,22 +17389,88 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
+          "profesor": "SANTIAGO ORTOLANO GUISASOLA",
+          "creditos": "9",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
+          "profesor": "SANTIAGO ORTOLANO GUISASOLA",
+          "creditos": "9",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "005",
+          "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
+          "profesor": "SANTIAGO ORTOLANO GUISASOLA",
+          "creditos": "9",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        },
+        {
+          "grupo": "006",
+          "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
+          "profesor": "SANTIAGO ORTOLANO GUISASOLA",
+          "creditos": "9",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ],
-      "MAT-24500-INVESTIGACION DE OPER.,I": [
+      "MAT-12250-CALCULO APLICADO": [
         {
-          "grupo": "001",
-          "nombre": "MAT-24500-INVESTIGACION DE OPER.,I",
-          "profesor": "MAYRA NU\u00d1EZ LOPEZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
+          "grupo": "002",
+          "nombre": "MAT-12250-CALCULO APLICADO",
+          "profesor": "SANTIAGO ORTOLANO GUISASOLA",
+          "creditos": "9",
+          "horario": "10:00-11:30",
           "dias": [
-            "LU"
+            "LU",
+            "MI",
+            "VI"
           ],
-          "salon": "RHCC302",
+          "salon": "RH307",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -17553,48 +17544,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "CLAUDIA GUADALUPE GOMEZ WULSCHNER": {
-    "link": "https://www.misprofesores.com/profesores/Claudia-Guadalupe-Gomez-Wulshner_10714",
-    "general": 8.15,
-    "n": 80,
-    "grupos": {
-      "MAT-12250-CALCULO APLICADO": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-12250-CALCULO APLICADO",
-          "profesor": "CLAUDIA GUADALUPE GOMEZ WULSCHNER",
-          "creditos": "9",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
-        {
-          "grupo": "003",
-          "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
-          "profesor": "CLAUDIA GUADALUPE GOMEZ WULSCHNER",
-          "creditos": "8",
-          "horario": "12:00-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH314",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
         }
       ]
     }
@@ -18293,6 +18242,30 @@ let profesores={
       ]
     }
   },
+  "CLAUDIA GUADALUPE GOMEZ WULSCHNER": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Guadalupe-Gomez-Wulshner_10714",
+    "general": 8.15,
+    "n": 80,
+    "grupos": {
+      "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
+        {
+          "grupo": "003",
+          "nombre": "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)",
+          "profesor": "CLAUDIA GUADALUPE GOMEZ WULSCHNER",
+          "creditos": "8",
+          "horario": "12:00-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH314",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
   "MARIA VICTORIA CHAVEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Victoria-Ch\u00e1vez-Hern\u00e1ndez_175093",
     "general": 2.0,
@@ -18502,6 +18475,30 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "LEOBARDO FERNANDEZ ROMAN": {
+    "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
+    "general": 8.2,
+    "n": 70,
+    "grupos": {
+      "MAT-14250-GEOMETRIA VECTORIAL": [
+        {
+          "grupo": "005",
+          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
+          "profesor": "LEOBARDO FERNANDEZ ROMAN",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -18762,6 +18759,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
+        }
+      ]
+    }
+  },
+  "MAYRA NU\u00d1EZ LOPEZ": {
+    "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
+    "general": 9.2857,
+    "n": 14,
+    "grupos": {
+      "MAT-24500-INVESTIGACION DE OPER.,I": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-24500-INVESTIGACION DE OPER.,I",
+          "profesor": "MAYRA NU\u00d1EZ LOPEZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -19201,23 +19221,23 @@ let mejoresPorDepto={
     "GUILLERMO LOPEZ CORRAL",
     "MARIA LUISA GRUNBERGER STERN",
     "VIRGINIA KALIS LETAYF",
-    "CLAUDIA EMILIA DE LEON PEREZ",
     "YANIRA ROSALBA PETRIDES JIMENEZ",
     "MARIA CANDELAS RAMIREZ",
     "SYLVIA MELJEM ENRIQUEZ DE RIVERA",
-    "ELIZABETH GEORGINA URRUTIA LEZAMA"
+    "ELIZABETH GEORGINA URRUTIA LEZAMA",
+    "MARIA ELOISA MARTINEZ PEREZ"
   ],
   "CIENCIA POLITICA": [
     "JULIO ANTONIO RIOS FIGUEROA",
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "ADRIAN LUCARDI",
-    "JUAN PABLO MICOZZI",
-    "ALBERTO SIMPSER MONDLAK"
+    "JUAN PABLO MICOZZI"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -19232,16 +19252,16 @@ let mejoresPorDepto={
     "RODOLFO DARIO VAZQUEZ CARDOZO"
   ],
   "ECONOMIA": [
-    "DAVID LAMB DE VALDES",
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
+    "DAVID LAMB DE VALDES",
     "CHRISTINA CORNEJO VAN LUIT",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
     "CHRISTIANE FABREGA CHIMALI",
-    "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES"
+    "MIGUEL MESSMACHER LINARTAS"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -19249,11 +19269,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "DAVID MORENO GUINEA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -19298,10 +19318,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ",
-    "ELSA VIVIANA OROPEZA GRACIA"
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
