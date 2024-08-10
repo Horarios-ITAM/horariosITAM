@@ -1,4 +1,4 @@
-let actualizado="1723214262108.6338";
+let actualizado="1723300532376.8586";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -1370,7 +1370,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF103",
+          "salon": "RH311",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -1385,7 +1385,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF103",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -1402,7 +1402,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF103",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -1744,320 +1744,6 @@ let profesores={
       ]
     }
   },
-  "": {
-    "grupos": {
-      "ADM-15511-SEMINARIO DE FINANZAS (OP)": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15511-SEMINARIO DE FINANZAS (OP)",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:30-10:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "07:30",
-          "fin": "10:30"
-        }
-      ],
-      "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
-        {
-          "grupo": "003",
-          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ],
-      "CLE-10517-COMMUNICATION IN SPANISH II-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "16:30-17:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "16:30",
-          "fin": "17:00"
-        }
-      ],
-      "CLE-10517-COMMUNICATION IN SPANISH II": [
-        {
-          "grupo": "001",
-          "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "15:00-16:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "15:00",
-          "fin": "16:30"
-        }
-      ],
-      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
-        {
-          "grupo": "018",
-          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "VI"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "COM-16306-RAZONAMIENTO ALGORITMICO": [
-        {
-          "grupo": "018",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "VI"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "COM-23115-CIENCIA DE DATOS APLICADA I": [
-        {
-          "grupo": "001",
-          "nombre": "COM-23115-CIENCIA DE DATOS APLICADA I",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "17:00-19:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHLI1",
-          "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "19:00"
-        }
-      ],
-      "ECO-12121-MACROECONOMIA AVANZADA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "EIN-11101-INT. A LAS R. INTERNACIONALES": [
-        {
-          "grupo": "001",
-          "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "12:30-13:30",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "13:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "10:00-11:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "EIN-19554-NVAS. TECNOLOG Y REL INTERNAC.": [
-        {
-          "grupo": "001",
-          "nombre": "EIN-19554-NVAS. TECNOLOG Y REL INTERNAC.",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:30-09:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "07:30",
-          "fin": "09:00"
-        }
-      ],
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
-        {
-          "grupo": "005",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH207",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
-        {
-          "grupo": "005",
-          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH204",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12722-COM. ESCRITA CIENCIA DE DATOS",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH203",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-12764-COM. PROFES. PARA ING. EN COMP": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "10:00-12:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH211",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
-        }
-      ],
-      "MAT-12310-ALGEBRA MATRICIAL": [
-        {
-          "grupo": "005",
-          "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "12:00-14:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
-      ],
-      "MAT-14280-PENSAMIENTO MATEMATICO": [
-        {
-          "grupo": "006",
-          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "MAT-14300-ALGEBRA SUPERIOR, I": [
-        {
-          "grupo": "006",
-          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ]
-    }
-  },
   "JULIAN GOMEZ FAUSTINO": {
     "grupos": {
       "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
@@ -2074,6 +1760,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "AXEL GUILLERMO MARTINEZ AMBROSI": {
+    "grupos": {
+      "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
+        {
+          "grupo": "003",
+          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
+          "profesor": "AXEL GUILLERMO MARTINEZ AMBROSI",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -2793,6 +2499,79 @@ let profesores={
       ]
     }
   },
+  "ELSA VIVIANA OROPEZA GRACIA": {
+    "link": "https://www.misprofesores.com/profesores/Elsa-Viviana-Oropeza-Gracia_93911",
+    "general": 7.7857,
+    "n": 14,
+    "grupos": {
+      "CLE-10517-COMMUNICATION IN SPANISH II-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
+          "profesor": "ELSA VIVIANA OROPEZA GRACIA",
+          "creditos": "7",
+          "horario": "16:30-17:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "16:30",
+          "fin": "17:00"
+        }
+      ],
+      "CLE-10517-COMMUNICATION IN SPANISH II": [
+        {
+          "grupo": "001",
+          "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
+          "profesor": "ELSA VIVIANA OROPEZA GRACIA",
+          "creditos": "7",
+          "horario": "15:00-16:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "15:00",
+          "fin": "16:30"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "019",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "ELSA VIVIANA OROPEZA GRACIA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        },
+        {
+          "grupo": "020",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "ELSA VIVIANA OROPEZA GRACIA",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
   "MARIA MONICA CUELLAR AYALA": {
     "grupos": {
       "CLE-10518-COMMUNICATION IN SPANISH III-LAB": [
@@ -2869,15 +2648,15 @@ let profesores={
           "fin": "11:00"
         },
         {
-          "grupo": "004",
+          "grupo": "005",
           "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
           "profesor": "MARCELA RABADAN GALLARDO",
           "creditos": "2",
           "horario": "10:00-11:00",
           "dias": [
-            "JU"
+            "MI"
           ],
-          "salon": "PF108",
+          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -2894,20 +2673,6 @@ let profesores={
             "MA"
           ],
           "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF108",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -3389,40 +3154,6 @@ let profesores={
           "fin": "11:00"
         }
       ],
-      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
-        {
-          "grupo": "016",
-          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "ANDRES GOMEZ DE SILVA GARZA",
-          "creditos": "7",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHLMINT",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "COM-16306-RAZONAMIENTO ALGORITMICO": [
-        {
-          "grupo": "016",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "ANDRES GOMEZ DE SILVA GARZA",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHLMINT",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
       "COM-23101-INTELIGENCIA ARTIFICIAL": [
         {
           "grupo": "002",
@@ -3623,8 +3354,8 @@ let profesores={
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
-    "general": 9.0833,
-    "n": 24,
+    "general": 9.12,
+    "n": 25,
     "grupos": {
       "COM-14113-FUNDAMENTOS DE PROGRAMACION": [
         {
@@ -3796,6 +3527,40 @@ let profesores={
           "inicio": "18:00",
           "fin": "19:30"
         }
+      ],
+      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
+        {
+          "grupo": "012",
+          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
+          "profesor": "JOSE OCTAVIO GUTIERREZ GARCIA",
+          "creditos": "7",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC101",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "012",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "JOSE OCTAVIO GUTIERREZ GARCIA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC101",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
       ]
     }
   },
@@ -3936,21 +3701,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
-        },
-        {
-          "grupo": "012",
-          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "MARTHA PATRICIA FORTIS NU\u00d1EZ",
-          "creditos": "7",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC101",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ],
       "COM-16306-RAZONAMIENTO ALGORITMICO": [
@@ -3968,21 +3718,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
-        },
-        {
-          "grupo": "012",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "MARTHA PATRICIA FORTIS NU\u00d1EZ",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC101",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -4212,6 +3947,64 @@ let profesores={
       ]
     }
   },
+  "MARCO ANTONIO MORALES AGUIRRE": {
+    "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
+    "general": 5.2353,
+    "n": 17,
+    "grupos": {
+      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
+        {
+          "grupo": "016",
+          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
+          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
+          "creditos": "7",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "016",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "COM-23701-APRENDIZAJE DE MAQUINA": [
+        {
+          "grupo": "001",
+          "nombre": "COM-23701-APRENDIZAJE DE MAQUINA",
+          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHLI1",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
     "general": 9.6923,
@@ -4266,6 +4059,47 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "JOSE CALIXTO CANO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
+    "general": 6.5588,
+    "n": 34,
+    "grupos": {
+      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
+        {
+          "grupo": "018",
+          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
+          "profesor": "JOSE CALIXTO CANO",
+          "creditos": "7",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "018",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "JOSE CALIXTO CANO",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "VI"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -4423,6 +4257,26 @@ let profesores={
       ]
     }
   },
+  "MANUEL ARAGONES MORA": {
+    "grupos": {
+      "COM-23115-CIENCIA DE DATOS APLICADA I": [
+        {
+          "grupo": "001",
+          "nombre": "COM-23115-CIENCIA DE DATOS APLICADA I",
+          "profesor": "MANUEL ARAGONES MORA",
+          "creditos": "4",
+          "horario": "17:00-19:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHLI1",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
   "MAX LUGO DELGADILLO": {
     "grupos": {
       "COM-23116-CIENCIA DE DATOS APLICADA II": [
@@ -4439,30 +4293,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "20:30"
-        }
-      ]
-    }
-  },
-  "MARCO ANTONIO MORALES AGUIRRE": {
-    "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 5.2353,
-    "n": 17,
-    "grupos": {
-      "COM-23701-APRENDIZAJE DE MAQUINA": [
-        {
-          "grupo": "001",
-          "nombre": "COM-23701-APRENDIZAJE DE MAQUINA",
-          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHLI1",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -6240,7 +6070,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF105",
+          "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -7972,7 +7802,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH303",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -8880,7 +8710,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH211",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "10:30",
           "fin": "12:00"
@@ -8945,7 +8775,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH106",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -9307,8 +9137,8 @@ let profesores={
   },
   "MAGDALENA SOFIA BARBA FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Magdalena-Sof\u00eda-Barba-Fern\u00e1ndez_10775",
-    "general": 8.3846,
-    "n": 143,
+    "general": 8.3958,
+    "n": 144,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -9348,8 +9178,8 @@ let profesores={
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
-    "general": 8.812,
-    "n": 117,
+    "general": 8.7881,
+    "n": 118,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -9593,7 +9423,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH103",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10008,6 +9838,139 @@ let profesores={
       ]
     }
   },
+  "": {
+    "grupos": {
+      "ECO-12121-MACROECONOMIA AVANZADA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "EIN-11101-INT. A LAS R. INTERNACIONALES": [
+        {
+          "grupo": "001",
+          "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES",
+          "profesor": "",
+          "creditos": "7",
+          "horario": "12:30-13:30",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "13:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES",
+          "profesor": "",
+          "creditos": "7",
+          "horario": "10:00-11:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "EIN-19554-NVAS. TECNOLOG Y REL INTERNAC.": [
+        {
+          "grupo": "001",
+          "nombre": "EIN-19554-NVAS. TECNOLOG Y REL INTERNAC.",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:30-09:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "07:30",
+          "fin": "09:00"
+        }
+      ],
+      "EST-24106-ESTADISTICA APLICADA, III": [
+        {
+          "grupo": "002",
+          "nombre": "EST-24106-ESTADISTICA APLICADA, III",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
+      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "LEN-12764-COM. PROFES. PARA ING. EN COMP": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "10:00-12:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH211",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
+        }
+      ],
+      "MAT-12310-ALGEBRA MATRICIAL": [
+        {
+          "grupo": "005",
+          "nombre": "MAT-12310-ALGEBRA MATRICIAL",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "12:00-14:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH213",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
   "ABRAHAM EVERARDO VELA DIB": {
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
@@ -10107,7 +10070,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH103",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -11177,8 +11140,8 @@ let profesores={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4875,
-    "n": 80,
+    "general": 9.4815,
+    "n": 81,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -11256,8 +11219,8 @@ let profesores={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.9792,
-    "n": 48,
+    "general": 6.9592,
+    "n": 49,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -11445,8 +11408,8 @@ let profesores={
   },
   "SERGIO MIGUEL SARMIENTO SERRANO": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
-    "general": 7.3902,
-    "n": 82,
+    "general": 7.4096,
+    "n": 83,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12227,7 +12190,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -13157,7 +13120,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH302",
+          "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -13224,13 +13187,13 @@ let profesores={
       ]
     }
   },
-  "THOMAS MARTIN RUDOLF": {
+  "CLAUDIA VICTORIA OLIVAR JIMENEZ": {
     "grupos": {
       "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB": [
         {
           "grupo": "001L",
           "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB",
-          "profesor": "THOMAS MARTIN RUDOLF",
+          "profesor": "CLAUDIA VICTORIA OLIVAR JIMENEZ",
           "creditos": "9",
           "horario": "11:00-14:00",
           "dias": [
@@ -13244,7 +13207,7 @@ let profesores={
         {
           "grupo": "002L",
           "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB",
-          "profesor": "THOMAS MARTIN RUDOLF",
+          "profesor": "CLAUDIA VICTORIA OLIVAR JIMENEZ",
           "creditos": "9",
           "horario": "16:00-19:00",
           "dias": [
@@ -13255,8 +13218,27 @@ let profesores={
           "inicio": "16:00",
           "fin": "19:00"
         }
-      ],
+      ]
+    }
+  },
+  "THOMAS MARTIN RUDOLF": {
+    "grupos": {
       "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS": [
+        {
+          "grupo": "001",
+          "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS",
+          "profesor": "THOMAS MARTIN RUDOLF",
+          "creditos": "9",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
+        },
         {
           "grupo": "002",
           "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS",
@@ -13292,27 +13274,6 @@ let profesores={
       ]
     }
   },
-  "YARAI ELIZABETH TLATELPA OSORIO": {
-    "grupos": {
-      "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS": [
-        {
-          "grupo": "001",
-          "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS",
-          "profesor": "YARAI ELIZABETH TLATELPA OSORIO",
-          "creditos": "9",
-          "horario": "12:30-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHLMINT",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
-        }
-      ]
-    }
-  },
   "SERGIO ROMERO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
     "general": 7.15,
@@ -13333,6 +13294,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
+        }
+      ],
+      "IIO-15140-CIENCIAS DE LOS MATERIALES-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "IIO-15140-CIENCIAS DE LOS MATERIALES-LAB",
+          "profesor": "SERGIO ROMERO HERNANDEZ",
+          "creditos": "9",
+          "horario": "11:00-14:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLCMAT",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "14:00"
         }
       ]
     }
@@ -13631,20 +13608,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "11:00"
-        },
-        {
-          "grupo": "002L",
-          "nombre": "IIO-15140-CIENCIAS DE LOS MATERIALES-LAB",
-          "profesor": "HUGO ALBERTO LARA GARCIA",
-          "creditos": "9",
-          "horario": "11:00-14:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLCMAT",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
         }
       ]
     }
@@ -13897,13 +13860,16 @@ let profesores={
       ]
     }
   },
-  "FEDERICO AUGUSTO GUZMAN RUBIO": {
+  "LUCIA PI CHOLULA": {
+    "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
+    "general": 7.7,
+    "n": 20,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
           "grupo": "005",
           "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "profesor": "LUCIA PI CHOLULA",
           "creditos": "2",
           "horario": "11:00-12:00",
           "dias": [
@@ -13917,9 +13883,23 @@ let profesores={
       ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
+          "grupo": "004",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "LUCIA PI CHOLULA",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
           "grupo": "005",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "profesor": "LUCIA PI CHOLULA",
           "creditos": "2",
           "horario": "11:00-12:00",
           "dias": [
@@ -13931,80 +13911,36 @@ let profesores={
           "fin": "12:00"
         }
       ],
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+      "LEN-12711-COMUNIC. ESCRITA PARA DERECHO": [
         {
-          "grupo": "001",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "grupo": "002",
+          "nombre": "LEN-12711-COMUNIC. ESCRITA PARA DERECHO",
+          "profesor": "LUCIA PI CHOLULA",
           "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
+          "horario": "09:00-10:00",
           "dias": [
             "MA"
           ],
-          "salon": "RH210",
+          "salon": "RH201",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ],
-      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
+      "LEN-14208-COMUNICA. ESCRITA PARA DERECHO": [
         {
-          "grupo": "001",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "grupo": "002",
+          "nombre": "LEN-14208-COMUNICA. ESCRITA PARA DERECHO",
+          "profesor": "LUCIA PI CHOLULA",
           "creditos": "2",
-          "horario": "10:00-11:00",
+          "horario": "09:00-10:00",
           "dias": [
-            "LU"
+            "MA"
           ],
-          "salon": "PF108",
+          "salon": "RH201",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -14210,6 +14146,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
+        }
+      ],
+      "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12722-COM. ESCRITA CIENCIA DE DATOS",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
         }
       ],
       "LEN-12754-COMUNIC PROFESIONAL PARA ADMON": [
@@ -14605,6 +14557,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH204",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
         }
       ],
       "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
@@ -14800,45 +14766,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:30",
           "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "ELSA VIVIANA OROPEZA GRACIA": {
-    "link": "https://www.misprofesores.com/profesores/Elsa-Viviana-Oropeza-Gracia_93911",
-    "general": 7.7857,
-    "n": 14,
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "019",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "ELSA VIVIANA OROPEZA GRACIA",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        },
-        {
-          "grupo": "020",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "ELSA VIVIANA OROPEZA GRACIA",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ]
     }
@@ -15235,30 +15162,13 @@ let profesores={
       ]
     }
   },
-  "LUCIA PI CHOLULA": {
-    "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
-    "general": 7.7,
-    "n": 20,
+  "SERGIO GARCIA GARCIA": {
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
-          "grupo": "004",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "LUCIA PI CHOLULA",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
           "grupo": "013",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "LUCIA PI CHOLULA",
+          "profesor": "SERGIO GARCIA GARCIA",
           "creditos": "2",
           "horario": "17:00-18:00",
           "dias": [
@@ -15268,38 +15178,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:00"
-        }
-      ],
-      "LEN-12711-COMUNIC. ESCRITA PARA DERECHO": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12711-COMUNIC. ESCRITA PARA DERECHO",
-          "profesor": "LUCIA PI CHOLULA",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ],
-      "LEN-14208-COMUNICA. ESCRITA PARA DERECHO": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-14208-COMUNICA. ESCRITA PARA DERECHO",
-          "profesor": "LUCIA PI CHOLULA",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
         }
       ]
     }
@@ -15446,6 +15324,114 @@ let profesores={
       ]
     }
   },
+  "FEDERICO AUGUSTO GUZMAN RUBIO": {
+    "grupos": {
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH210",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "FEDERICO VALLE OCHOA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
     "general": 10.0,
@@ -15486,20 +15472,6 @@ let profesores={
   "GABRIELA MEDINA HERNANDEZ": {
     "grupos": {
       "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
-          "profesor": "GABRIELA MEDINA HERNANDEZ",
-          "creditos": "2",
-          "horario": "07:00-09:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        },
         {
           "grupo": "002",
           "nombre": "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.",
@@ -15918,8 +15890,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.766,
-    "n": 47,
+    "general": 6.8125,
+    "n": 48,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
@@ -16646,8 +16618,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.6207,
-    "n": 58,
+    "general": 6.678,
+    "n": 59,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -17654,6 +17626,47 @@ let profesores={
       ]
     }
   },
+  "HERICA SANCHEZ LARIOS": {
+    "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
+    "general": 7.7143,
+    "n": 21,
+    "grupos": {
+      "MAT-14280-PENSAMIENTO MATEMATICO": [
+        {
+          "grupo": "006",
+          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
+          "profesor": "HERICA SANCHEZ LARIOS",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "MAT-14300-ALGEBRA SUPERIOR, I": [
+        {
+          "grupo": "006",
+          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
+          "profesor": "HERICA SANCHEZ LARIOS",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
   "MIGUEL ANGEL MOTA GAYTAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
     "general": 7.6216,
@@ -18224,6 +18237,7 @@ let mejoresPorDepto={
   ],
   "LENGUAS (CLE)": [
     "MARCELA RABADAN GALLARDO",
+    "ELSA VIVIANA OROPEZA GRACIA",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "MARIA MONICA CUELLAR AYALA"
   ],
@@ -18331,8 +18345,8 @@ let mejoresPorDepto={
     "ANTE SALCEDO GONZALEZ",
     "DAVID FERNANDO MU\u00d1OZ NEGRON",
     "MARIA CRISTINA GIGOLA PAGLIALUNGA",
+    "CLAUDIA VICTORIA OLIVAR JIMENEZ",
     "THOMAS MARTIN RUDOLF",
-    "YARAI ELIZABETH TLATELPA OSORIO",
     "LUIS EDUARDO URBAN RIVERO"
   ],
   "LENGUAS (LEN)": [
@@ -18345,7 +18359,7 @@ let mejoresPorDepto={
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
     "JORGE NEME SANCHEZ",
-    "ELSA VIVIANA OROPEZA GRACIA"
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
