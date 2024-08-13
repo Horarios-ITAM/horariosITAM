@@ -1,4 +1,4 @@
-let actualizado="1723473546591.5012";
+let actualizado="1723559860366.5603";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -4426,7 +4426,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH310",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -4861,7 +4861,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -6640,6 +6640,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:30",
         "fin": "11:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-12202-HISTORIA DEL DERECHO MEXICANO",
+        "profesor": "LUIS REY RAIGOSA SOTELO",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH107",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -6756,7 +6771,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
-        "profesor": "MARCO ANTONIO ESPINOZA ROMMYNGH",
+        "profesor": "IRVIN ARTURO CASTILLO CESAREO",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -6898,7 +6913,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH306",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -6970,7 +6985,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH309",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -8197,7 +8212,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
-        "profesor": "ALEXIS CAPDEVIELLE HARRISON",
+        "profesor": "ERNESTO JAVIER CORDERO ARROYO",
         "creditos": "7",
         "horario": "07:00-10:00",
         "dias": [
@@ -11829,7 +11844,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EST-24106-ESTADISTICA APLICADA, III",
-        "profesor": "",
+        "profesor": "JORGE FRANCISCO DE LA VEGA GONGORA",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -14177,7 +14192,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
-        "profesor": "",
+        "profesor": "HUGO CORZO ZANABRIA",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -14231,7 +14246,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-        "profesor": "",
+        "profesor": "EMILIANO AMAURI RUIZ PARRA",
         "creditos": "2",
         "horario": "10:00-12:00",
         "dias": [
@@ -17051,6 +17066,11 @@ let misProfesData={
     "general": 5.8519,
     "n": 27
   },
+  "IRVIN ARTURO CASTILLO CESAREO": {
+    "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
+    "general": 9.75,
+    "n": 8
+  },
   "MIGUEL ANGEL CASTRO TORRESLANDA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Castro-Torreslanda_170976",
     "general": 8.0,
@@ -17123,8 +17143,8 @@ let misProfesData={
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
-    "general": 8.8571,
-    "n": 7
+    "general": 9.0,
+    "n": 8
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
@@ -17186,11 +17206,6 @@ let misProfesData={
     "general": 7.6914,
     "n": 81
   },
-  "MARCO ANTONIO ESPINOZA ROMMYNGH": {
-    "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Espinoza-Rommyngh_62557",
-    "general": 6.5,
-    "n": 10
-  },
   "CARLOS FERNANDO ESPONDA DARLINGTON": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Fernando-Esponda-Darlington_10851",
     "general": 7.7692,
@@ -17242,9 +17257,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17837,9 +17852,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -18093,8 +18108,8 @@ let misProfesData={
   },
   "BRUNO VELAZQUEZ DELGADO": {
     "link": "https://www.misprofesores.com/profesores/Bruno-Velazquez-Delgado_74531",
-    "general": 7.5932,
-    "n": 59
+    "general": 7.6393,
+    "n": 61
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",

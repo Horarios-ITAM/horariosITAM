@@ -1,4 +1,4 @@
-let actualizado="1723473546607.803";
+let actualizado="1723559860382.4705";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -4986,7 +4986,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH310",
+          "salon": "RH105",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -5510,7 +5510,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH112",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -7439,6 +7439,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:30",
           "fin": "11:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "DER-12202-HISTORIA DEL DERECHO MEXICANO",
+          "profesor": "LUIS REY RAIGOSA SOTELO",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ],
       "DER-15073-DERECHO ELECTORAL": [
@@ -7632,16 +7647,16 @@ let profesores={
       ]
     }
   },
-  "MARCO ANTONIO ESPINOZA ROMMYNGH": {
-    "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Espinoza-Rommyngh_62557",
-    "general": 6.5,
-    "n": 10,
+  "IRVIN ARTURO CASTILLO CESAREO": {
+    "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
+    "general": 9.75,
+    "n": 8,
     "grupos": {
       "DER-13203-NEGOCIO JURIDICO Y PERSONAS": [
         {
           "grupo": "001",
           "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
-          "profesor": "MARCO ANTONIO ESPINOZA ROMMYNGH",
+          "profesor": "IRVIN ARTURO CASTILLO CESAREO",
           "creditos": "6",
           "horario": "19:00-20:30",
           "dias": [
@@ -7779,7 +7794,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH306",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -7841,7 +7856,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH309",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -9004,13 +9019,13 @@ let profesores={
       ]
     }
   },
-  "ALEXIS CAPDEVIELLE HARRISON": {
+  "ERNESTO JAVIER CORDERO ARROYO": {
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
         {
           "grupo": "002",
           "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
-          "profesor": "ALEXIS CAPDEVIELLE HARRISON",
+          "profesor": "ERNESTO JAVIER CORDERO ARROYO",
           "creditos": "7",
           "horario": "07:00-10:00",
           "dias": [
@@ -9450,9 +9465,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -9522,8 +9537,8 @@ let profesores={
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
-    "general": 8.8571,
-    "n": 7,
+    "general": 9.0,
+    "n": 8,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -9898,55 +9913,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:30",
           "fin": "09:00"
-        }
-      ],
-      "EST-24106-ESTADISTICA APLICADA, III": [
-        {
-          "grupo": "002",
-          "nombre": "EST-24106-ESTADISTICA APLICADA, III",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ],
-      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH203",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-12764-COM. PROFES. PARA ING. EN COMP": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "10:00-12:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH211",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
         }
       ],
       "MAT-12310-ALGEBRA MATRICIAL": [
@@ -10967,8 +10933,8 @@ let profesores={
   },
   "BRUNO VELAZQUEZ DELGADO": {
     "link": "https://www.misprofesores.com/profesores/Bruno-Velazquez-Delgado_74531",
-    "general": 7.5932,
-    "n": 59,
+    "general": 7.6393,
+    "n": 61,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -11652,9 +11618,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -13165,6 +13131,23 @@ let profesores={
   },
   "JORGE FRANCISCO DE LA VEGA GONGORA": {
     "grupos": {
+      "EST-24106-ESTADISTICA APLICADA, III": [
+        {
+          "grupo": "002",
+          "nombre": "EST-24106-ESTADISTICA APLICADA, III",
+          "profesor": "JORGE FRANCISCO DE LA VEGA GONGORA",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
       "EST-24107-SIMULACION": [
         {
           "grupo": "001",
@@ -15504,6 +15487,22 @@ let profesores={
           "fin": "20:00"
         }
       ],
+      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
+          "profesor": "HUGO CORZO ZANABRIA",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
       "LEN-12766-COM. PROFES. PARA ING. EN NEG.": [
         {
           "grupo": "001",
@@ -15671,6 +15670,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
+        }
+      ]
+    }
+  },
+  "EMILIANO AMAURI RUIZ PARRA": {
+    "grupos": {
+      "LEN-12764-COM. PROFES. PARA ING. EN COMP": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
+          "profesor": "EMILIANO AMAURI RUIZ PARRA",
+          "creditos": "2",
+          "horario": "10:00-12:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH211",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -18280,23 +18299,23 @@ let mejoresPorDepto={
     "JOSE OMAR HERNANDEZ SALGADO",
     "JOSE LUIS CABALLERO RODRIGUEZ",
     "FRANCO ALBERTO DEL VALLE PRADO",
+    "IRVIN ARTURO CASTILLO CESAREO",
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
     "JOSE ANGEL FERNANDEZ URIA",
     "CARLOS EDUARDO SCHLESKE JUAREZ",
-    "MARTHA ANGELICA GALICIA OSORIO",
-    "RODOLFO DARIO VAZQUEZ CARDOZO"
+    "MARTHA ANGELICA GALICIA OSORIO"
   ],
   "ECONOMIA": [
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "DAVID LAMB DE VALDES",
     "CHRISTINA CORNEJO VAN LUIT",
-    "CLAUDIA ABURTO RANCA\u00d1O",
     "MENEY DE LA PEZA GANDARA",
+    "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
-    "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES"
+    "MIGUEL MESSMACHER LINARTAS"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -18304,11 +18323,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "DAVID MORENO GUINEA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
