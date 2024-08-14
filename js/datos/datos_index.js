@@ -1,4 +1,4 @@
-let actualizado="1723559860366.5603";
+let actualizado="1723646273441.3726";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -4679,7 +4679,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHSA4",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -11154,7 +11154,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EIN-19554-NVAS. TECNOLOG Y REL INTERNAC.",
-        "profesor": "",
+        "profesor": "DIEGO EDUARDO FLORES JIMENEZ",
         "creditos": "6",
         "horario": "07:30-09:00",
         "dias": [
@@ -11800,7 +11800,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF105",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "20:30",
         "fin": "22:00"
@@ -11914,7 +11914,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF105",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "20:30",
         "fin": "22:00"
@@ -12717,7 +12717,7 @@ let clases={
       {
         "grupo": "022",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+        "profesor": "NANCY FABIOLA MENDEZ LOPEZ",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -13562,7 +13562,7 @@ let clases={
       {
         "grupo": "022",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+        "profesor": "NANCY FABIOLA MENDEZ LOPEZ",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -15302,7 +15302,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH311",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -16304,12 +16304,27 @@ let clases={
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RH313",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-24431-OPTIMIZACION NUMERICA, I",
+        "profesor": "JOSE EZEQUIEL SOTO SANCHEZ",
+        "creditos": "8",
+        "horario": "08:30-10:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH205",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -16541,6 +16556,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
+      },
+      {
+        "grupo": "003L",
+        "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
+        "profesor": "SERGIO HERNANDEZ SANCHEZ",
+        "creditos": "10",
+        "horario": "08:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RHLFIEL",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -16565,6 +16594,21 @@ let clases={
       },
       {
         "grupo": "002",
+        "nombre": "SDI-11322-CIRCUITOS LOGICOS",
+        "profesor": "RAFAEL CISNEROS MONTOYA",
+        "creditos": "10",
+        "horario": "16:00-18:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH111",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "18:00"
+      },
+      {
+        "grupo": "003",
         "nombre": "SDI-11322-CIRCUITOS LOGICOS",
         "profesor": "RAFAEL CISNEROS MONTOYA",
         "creditos": "10",
@@ -17058,8 +17102,8 @@ let misProfesData={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.8125,
-    "n": 48
+    "general": 6.8776,
+    "n": 49
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
@@ -17238,8 +17282,8 @@ let misProfesData={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.9592,
-    "n": 49
+    "general": 6.86,
+    "n": 50
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -17257,9 +17301,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17457,9 +17501,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17550,6 +17594,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
@@ -17852,9 +17901,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -18022,9 +18071,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
