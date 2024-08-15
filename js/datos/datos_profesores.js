@@ -1,4 +1,4 @@
-let actualizado="1723646273457.3306";
+let actualizado="1723732629133.5034";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -1163,7 +1163,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHB-4",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -2312,7 +2312,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF103",
+          "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -2344,7 +2344,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF103",
+          "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -2656,7 +2656,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH207",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -5216,7 +5216,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH308",
+          "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -9468,9 +9468,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10345,9 +10345,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -11604,9 +11601,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -14691,9 +14688,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15140,9 +15137,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15993,11 +15990,10 @@ let profesores={
           "creditos": "9",
           "horario": "08:30-10:00",
           "dias": [
-            "LU",
             "MI",
             "VI"
           ],
-          "salon": "RH307",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -17650,23 +17646,6 @@ let profesores={
           "inicio": "13:00",
           "fin": "14:30"
         }
-      ],
-      "MAT-24150-TEMAS SELECTOS DE ANALISIS I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-24150-TEMAS SELECTOS DE ANALISIS I",
-          "profesor": "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
       ]
     }
   },
@@ -17737,6 +17716,23 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "MAT-24330-TEMAS SELECTOS DE ALGEBRA I",
+          "profesor": "MIGUEL ANGEL MOTA GAYTAN",
+          "creditos": "6",
+          "horario": "12:00-13:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH315",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:30"
+        }
+      ],
+      "MAT-24331-TEMAS SELECTOS DE ALGEBRA II": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-24331-TEMAS SELECTOS DE ALGEBRA II",
           "profesor": "MIGUEL ANGEL MOTA GAYTAN",
           "creditos": "6",
           "horario": "12:00-13:30",
@@ -18364,6 +18360,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "DAVID LAMB DE VALDES",
@@ -18371,8 +18368,7 @@ let mejoresPorDepto={
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
-    "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES"
+    "MIGUEL MESSMACHER LINARTAS"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -18380,11 +18376,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "DAVID MORENO GUINEA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -18429,10 +18425,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ"
+    "JORGE NEME SANCHEZ",
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

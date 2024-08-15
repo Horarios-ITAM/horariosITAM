@@ -1,4 +1,4 @@
-let actualizado="1723646273441.3726";
+let actualizado="1723732629117.3145";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -918,7 +918,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHB-4",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -2058,7 +2058,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF103",
+        "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -2129,7 +2129,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF103",
+        "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -4619,7 +4619,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH308",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -13772,7 +13772,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH207",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14719,11 +14719,10 @@ let clases={
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
-          "LU",
           "MI",
           "VI"
         ],
-        "salon": "RH307",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -16153,27 +16152,6 @@ let clases={
       }
     ]
   },
-  "MAT-24150": {
-    "nombre": "MAT-24150-TEMAS SELECTOS DE ANALISIS I",
-    "clave": "MAT-24150",
-    "grupos": [
-      {
-        "grupo": "002",
-        "nombre": "MAT-24150-TEMAS SELECTOS DE ANALISIS I",
-        "profesor": "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
-        "creditos": "6",
-        "horario": "16:00-17:30",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "PF107",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
-      }
-    ]
-  },
   "MAT-24210": {
     "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
     "clave": "MAT-24210",
@@ -16238,6 +16216,27 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-24330-TEMAS SELECTOS DE ALGEBRA I",
+        "profesor": "MIGUEL ANGEL MOTA GAYTAN",
+        "creditos": "6",
+        "horario": "12:00-13:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH315",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:30"
+      }
+    ]
+  },
+  "MAT-24331": {
+    "nombre": "MAT-24331-TEMAS SELECTOS DE ALGEBRA II",
+    "clave": "MAT-24331",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-24331-TEMAS SELECTOS DE ALGEBRA II",
         "profesor": "MIGUEL ANGEL MOTA GAYTAN",
         "creditos": "6",
         "horario": "12:00-13:30",
@@ -16955,11 +16954,6 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -17301,9 +17295,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17501,9 +17495,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17901,9 +17895,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -18071,9 +18065,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
