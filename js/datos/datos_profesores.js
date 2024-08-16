@@ -1,4 +1,4 @@
-let actualizado="1723732629133.5034";
+let actualizado="1723819014909.7979";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -798,13 +798,13 @@ let profesores={
       ]
     }
   },
-  "MARIA LUCIA DEL CARPIO  ROMERO": {
+  "MARIA LUCIA DEL CARPIO ROMERO": {
     "grupos": {
       "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
         {
           "grupo": "002",
           "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
-          "profesor": "MARIA LUCIA DEL CARPIO  ROMERO",
+          "profesor": "MARIA LUCIA DEL CARPIO ROMERO",
           "creditos": "6",
           "horario": "16:00-19:00",
           "dias": [
@@ -5376,7 +5376,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -5393,7 +5393,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -5410,7 +5410,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH206",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -5589,7 +5589,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -5621,7 +5621,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -5638,7 +5638,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -5946,7 +5946,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH107",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -5979,7 +5979,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH107",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -8774,6 +8774,63 @@ let profesores={
       ]
     }
   },
+  "LEVENT ULKU": {
+    "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
+    "general": 7.3636,
+    "n": 33,
+    "grupos": {
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "007",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "LEVENT ULKU",
+          "creditos": "9",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ECO-11121-MICROECONOMIA AVANZADA I": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
+          "profesor": "LEVENT ULKU",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR",
+          "profesor": "LEVENT ULKU",
+          "creditos": "6",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "ST207",
+          "campus": "ST. TERESA",
+          "inicio": "12:30",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
     "general": 9.5068,
@@ -8962,6 +9019,23 @@ let profesores={
           "fin": "19:00"
         }
       ],
+      "ECO-10518-TOPICOS DE ECONOMETRIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
+          "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+          "creditos": "6",
+          "horario": "19:00-21:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ],
       "ECO-10521-INFERENCIA CAUSAL": [
         {
           "grupo": "001",
@@ -9146,6 +9220,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
+        }
+      ],
+      "ECO-11223-TOPICOS DE MICROECONOMIA (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11223-TOPICOS DE MICROECONOMIA (OP)",
+          "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -9562,126 +9652,27 @@ let profesores={
       ]
     }
   },
-  "ANDREY  GOMBERG": {
-    "grupos": {
-      "ECO-11121-MICROECONOMIA AVANZADA I": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
-          "profesor": "ANDREY  GOMBERG",
-          "creditos": "6",
-          "horario": "18:00-19:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:30"
-        }
-      ],
-      "ECO-15111-ECONOMIA POLITICA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-15111-ECONOMIA POLITICA",
-          "profesor": "ANDREY  GOMBERG",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ]
-    }
-  },
-  "LEVENT ULKU": {
-    "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
-    "general": 7.3636,
-    "n": 33,
-    "grupos": {
-      "ECO-11121-MICROECONOMIA AVANZADA I": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
-          "profesor": "LEVENT ULKU",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR",
-          "profesor": "LEVENT ULKU",
-          "creditos": "6",
-          "horario": "12:30-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "ST207",
-          "campus": "ST. TERESA",
-          "inicio": "12:30",
-          "fin": "14:00"
-        }
-      ]
-    }
-  },
-  "TRIDIB  SHARMA": {
-    "grupos": {
-      "ECO-11122-MICROECONOMIA AVANZADA II": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
-          "profesor": "TRIDIB  SHARMA",
-          "creditos": "6",
-          "horario": "09:00-10:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
-          "profesor": "TRIDIB  SHARMA",
-          "creditos": "6",
-          "horario": "10:30-12:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:00"
-        }
-      ]
-    }
-  },
   "ROMANS PANCS": {
     "link": "https://www.misprofesores.com/profesores/Romans-Pancs_104518",
     "general": 4.8889,
     "n": 9,
     "grupos": {
+      "ECO-11112-EQUILIBRIO GENERAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11112-EQUILIBRIO GENERAL",
+          "profesor": "ROMANS PANCS",
+          "creditos": "6",
+          "horario": "17:00-20:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "ST207",
+          "campus": "ST. TERESA",
+          "inicio": "17:00",
+          "fin": "20:00"
+        }
+      ],
       "ECO-11122-MICROECONOMIA AVANZADA II": [
         {
           "grupo": "003",
@@ -9728,6 +9719,80 @@ let profesores={
           "campus": "ST. TERESA",
           "inicio": "17:00",
           "fin": "20:00"
+        }
+      ]
+    }
+  },
+  "ANDREY  GOMBERG": {
+    "grupos": {
+      "ECO-11121-MICROECONOMIA AVANZADA I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
+          "profesor": "ANDREY  GOMBERG",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
+        }
+      ],
+      "ECO-15111-ECONOMIA POLITICA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15111-ECONOMIA POLITICA",
+          "profesor": "ANDREY  GOMBERG",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "TRIDIB  SHARMA": {
+    "grupos": {
+      "ECO-11122-MICROECONOMIA AVANZADA II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
+          "profesor": "TRIDIB  SHARMA",
+          "creditos": "6",
+          "horario": "09:00-10:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
+          "profesor": "TRIDIB  SHARMA",
+          "creditos": "6",
+          "horario": "10:30-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "12:00"
         }
       ]
     }
@@ -11018,16 +11083,16 @@ let profesores={
       ]
     }
   },
-  "FEDERICO GUILLERMO DURAND GUEVARA": {
-    "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
-    "general": 5.9476,
-    "n": 210,
+  "SILVANO ANTONIO ESPINDOLA PARRA": {
+    "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
+    "general": 9.4815,
+    "n": 81,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
           "grupo": "002",
           "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "FEDERICO GUILLERMO DURAND GUEVARA",
+          "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
           "creditos": "6",
           "horario": "07:00-08:00",
           "dias": [
@@ -11035,10 +11100,42 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH205",
+          "salon": "RH208",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
+          "creditos": "6",
+          "horario": "09:00-10:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "015",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
+          "creditos": "6",
+          "horario": "08:00-09:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -11080,47 +11177,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "SILVANO ANTONIO ESPINDOLA PARRA": {
-    "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4815,
-    "n": 81,
-    "grupos": {
-      "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
-        {
-          "grupo": "005",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
-          "creditos": "6",
-          "horario": "09:00-10:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        },
-        {
-          "grupo": "015",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
-          "creditos": "6",
-          "horario": "08:00-09:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
         }
       ]
     }

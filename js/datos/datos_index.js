@@ -1,4 +1,4 @@
-let actualizado="1723732629117.3145";
+let actualizado="1723819014894.524";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -619,7 +619,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
-        "profesor": "MARIA LUCIA DEL CARPIO  ROMERO",
+        "profesor": "MARIA LUCIA DEL CARPIO ROMERO",
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
@@ -4762,7 +4762,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH212",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -4783,7 +4783,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH212",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -4804,7 +4804,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH212",
+        "salon": "RH206",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -4938,7 +4938,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -5072,7 +5072,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -5135,7 +5135,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -5281,7 +5281,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH107",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -5382,7 +5382,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH107",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -8116,6 +8116,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      },
+      {
+        "grupo": "007",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "LEVENT ULKU",
+        "creditos": "9",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -8222,6 +8236,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      }
+    ]
+  },
+  "ECO-10518": {
+    "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
+    "clave": "ECO-10518",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
+        "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+        "creditos": "6",
+        "horario": "19:00-21:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -8678,6 +8713,26 @@ let clases={
       }
     ]
   },
+  "ECO-11112": {
+    "nombre": "ECO-11112-EQUILIBRIO GENERAL",
+    "clave": "ECO-11112",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-11112-EQUILIBRIO GENERAL",
+        "profesor": "ROMANS PANCS",
+        "creditos": "6",
+        "horario": "17:00-20:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "ST207",
+        "campus": "ST. TERESA",
+        "inicio": "17:00",
+        "fin": "20:00"
+      }
+    ]
+  },
   "ECO-11121": {
     "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
     "clave": "ECO-11121",
@@ -8761,6 +8816,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
+      }
+    ]
+  },
+  "ECO-11223": {
+    "nombre": "ECO-11223-TOPICOS DE MICROECONOMIA (OP)",
+    "clave": "ECO-11223",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-11223-TOPICOS DE MICROECONOMIA (OP)",
+        "profesor": "CLAUDIA ABURTO RANCA\u00d1O",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -10116,7 +10191,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "FEDERICO GUILLERMO DURAND GUEVARA",
+        "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
         "creditos": "6",
         "horario": "07:00-08:00",
         "dias": [
@@ -10124,7 +10199,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH205",
+        "salon": "RH208",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:00"
@@ -17218,11 +17293,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
     "general": 6.8235,
     "n": 102
-  },
-  "FEDERICO GUILLERMO DURAND GUEVARA": {
-    "link": "https://www.misprofesores.com/profesores/Federico-Guillermo-Durand-Guevara_17692",
-    "general": 5.9476,
-    "n": 210
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
