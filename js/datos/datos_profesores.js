@@ -1,4 +1,4 @@
-let actualizado="1724251112053.4446";
+let actualizado="1724337531474.5247";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -202,7 +202,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH309",
+          "salon": "PF105",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -282,7 +282,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF105",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -415,8 +415,8 @@ let profesores={
   },
   "CARLOS GONZALEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
-    "general": 7.9063,
-    "n": 32,
+    "general": 7.8485,
+    "n": 33,
     "grupos": {
       "ADM-11013-ADMON. INTERNACIONAL": [
         {
@@ -4377,9 +4377,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3636,
+    "n": 22,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5709,7 +5709,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -5725,7 +5725,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -7838,7 +7838,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH307",
+          "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -7883,7 +7883,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF107",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -8101,7 +8101,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-1",
+          "salon": "RH311",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -8187,7 +8187,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH111",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -9965,23 +9965,6 @@ let profesores={
           "inicio": "10:00",
           "fin": "11:00"
         }
-      ],
-      "MAT-12310-ALGEBRA MATRICIAL": [
-        {
-          "grupo": "005",
-          "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "12:00-14:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
       ]
     }
   },
@@ -10410,6 +10393,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -12535,7 +12521,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -13199,10 +13185,9 @@ let profesores={
           "creditos": "6",
           "horario": "19:00-20:30",
           "dias": [
-            "LU",
-            "MI"
+            "LU"
           ],
-          "salon": "RH305",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -13216,10 +13201,9 @@ let profesores={
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
-            "MA",
-            "JU"
+            "MA"
           ],
-          "salon": "RH302",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -14744,9 +14728,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15193,9 +15177,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15678,13 +15662,13 @@ let profesores={
       ]
     }
   },
-  "OCTAVIO ORTEGA VELIO MEJIA": {
+  "HANAKO TANIGUCHI PONCIANO": {
     "grupos": {
       "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
         {
           "grupo": "003",
           "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "OCTAVIO ORTEGA VELIO MEJIA",
+          "profesor": "HANAKO TANIGUCHI PONCIANO",
           "creditos": "2",
           "horario": "07:00-08:00",
           "dias": [
@@ -16863,6 +16847,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
+        }
+      ]
+    }
+  },
+  "JUAN SALVADOR GARZA LEDESMA": {
+    "grupos": {
+      "MAT-12310-ALGEBRA MATRICIAL": [
+        {
+          "grupo": "005",
+          "nombre": "MAT-12310-ALGEBRA MATRICIAL",
+          "profesor": "JUAN SALVADOR GARZA LEDESMA",
+          "creditos": "8",
+          "horario": "12:00-14:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH213",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:00"
         }
       ]
     }
@@ -18481,10 +18486,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ"
+    "JORGE NEME SANCHEZ",
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

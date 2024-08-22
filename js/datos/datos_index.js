@@ -1,4 +1,4 @@
-let actualizado="1724251112037.682";
+let actualizado="1724337531459.082";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -133,7 +133,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH309",
+        "salon": "PF105",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -196,7 +196,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF105",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -6964,7 +6964,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH307",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -7011,7 +7011,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -7056,7 +7056,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -7116,7 +7116,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -7315,7 +7315,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-1",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -7494,7 +7494,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH111",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -11389,7 +11389,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -11923,10 +11923,9 @@ let clases={
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
-          "LU",
-          "MI"
+          "LU"
         ],
-        "salon": "RH305",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -11944,10 +11943,9 @@ let clases={
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "MA",
-          "JU"
+          "MA"
         ],
-        "salon": "RH302",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -14199,7 +14197,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-        "profesor": "OCTAVIO ORTEGA VELIO MEJIA",
+        "profesor": "HANAKO TANIGUCHI PONCIANO",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -15231,7 +15229,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-        "profesor": "",
+        "profesor": "JUAN SALVADOR GARZA LEDESMA",
         "creditos": "8",
         "horario": "12:00-14:00",
         "dias": [
@@ -16996,6 +16994,11 @@ let clases={
         "fin": "14:00"
       }
     ]
+  },
+  "SDI-25916": {
+    "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+    "clave": "SDI-25916",
+    "grupos": []
   }
 };
 let misProfesData={
@@ -17028,6 +17031,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.68,
     "n": 50
+  },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
@@ -17476,13 +17484,13 @@ let misProfesData={
   },
   "CARLOS GONZALEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
-    "general": 7.9063,
-    "n": 32
+    "general": 7.8485,
+    "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3636,
+    "n": 22
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -17565,9 +17573,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18135,9 +18143,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
