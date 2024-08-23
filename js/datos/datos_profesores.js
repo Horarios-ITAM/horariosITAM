@@ -1,4 +1,4 @@
-let actualizado="1724337531474.5247";
+let actualizado="1724423946816.1316";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -1346,7 +1346,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHB-5",
+          "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -4377,9 +4377,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5494,6 +5494,22 @@ let profesores={
           "inicio": "11:30",
           "fin": "13:00"
         }
+      ],
+      "CSO-19077-SEMIN. DE TITULACION POR CASO": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+          "profesor": "ALEXANDRA URIBE COUGHLAN",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
       ]
     }
   },
@@ -5661,7 +5677,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -5677,7 +5693,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -9918,13 +9934,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "CARLOS ARMANDO DE JESUS CANTU GARCIA": {
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
           "grupo": "001",
           "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
-          "profesor": "",
+          "profesor": "CARLOS ARMANDO DE JESUS CANTU GARCIA",
           "creditos": "6",
           "horario": "07:00-10:00",
           "dias": [
@@ -9934,36 +9950,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ],
-      "EIN-11101-INT. A LAS R. INTERNACIONALES": [
-        {
-          "grupo": "001",
-          "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "12:30-13:30",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "13:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "10:00-11:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -10921,6 +10907,23 @@ let profesores={
           "inicio": "11:00",
           "fin": "12:00"
         }
+      ],
+      "IIO-16180-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "002",
+          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
+          "profesor": "GABRIELA HERNANDEZ GARCIA",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
       ]
     }
   },
@@ -11643,9 +11646,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -11835,6 +11838,40 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "EIN-11101-INT. A LAS R. INTERNACIONALES": [
+        {
+          "grupo": "001",
+          "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES",
+          "profesor": "",
+          "creditos": "7",
+          "horario": "12:30-13:30",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "13:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES",
+          "profesor": "",
+          "creditos": "7",
+          "horario": "10:00-11:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -13810,30 +13847,6 @@ let profesores={
       ]
     }
   },
-  "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
-    "general": 8.0476,
-    "n": 21,
-    "grupos": {
-      "IIO-16180-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "002",
-          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-          "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
   "MARCIA AMARANTA GAMEZ MENDIVIL": {
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
@@ -13915,7 +13928,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -14728,9 +14741,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -14911,7 +14924,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -15177,9 +15190,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15293,7 +15306,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF108",
+          "salon": "RH",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -15307,7 +15320,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -15353,7 +15366,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF108",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -15367,7 +15380,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -17203,7 +17216,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF101",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
@@ -18437,23 +18450,23 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
+    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "DAVID MORENO GUINEA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
     "RODRIGO PE\u00d1A GONZALEZ",
     "RODRIGO CHACON AGUIRRE",
     "NATALIA SALTALAMACCHIA ZICCARDI",
+    "",
     "ATHANASIOS  HRISTOULAS",
     "MARIA JOSE URZUA VALVERDE",
     "HAZEL BLACKMORE SANCHEZ",
     "ALLERT RAGNAR BROWN GORT",
-    "FILIBERTO VICTOR KERBER PALMA",
-    "LUIS FERNANDO BALAGUERA SARMIENTO"
+    "FILIBERTO VICTOR KERBER PALMA"
   ],
   "ESTADISTICA": [
     "GUSTAVO ALVAREZ PELAEZ",
@@ -18469,7 +18482,6 @@ let mejoresPorDepto={
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
-    "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
     "SERGIO ROMERO HERNANDEZ",
     "ALEJANDRO TERAN CASTELLANOS",
     "ANTE SALCEDO GONZALEZ",
@@ -18477,7 +18489,8 @@ let mejoresPorDepto={
     "MARIA CRISTINA GIGOLA PAGLIALUNGA",
     "CLAUDIA VICTORIA OLIVAR JIMENEZ",
     "THOMAS MARTIN RUDOLF",
-    "LUIS EDUARDO URBAN RIVERO"
+    "LUIS EDUARDO URBAN RIVERO",
+    "ELIAS HERIBERTO ARIAS NAVA"
   ],
   "LENGUAS (LEN)": [
     "FEDERICO VALLE OCHOA",
@@ -18486,10 +18499,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ",
-    "LUCIA PI CHOLULA"
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

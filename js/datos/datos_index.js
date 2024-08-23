@@ -1,4 +1,4 @@
-let actualizado="1724337531459.082";
+let actualizado="1724423946799.0427";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -1055,7 +1055,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHB-5",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -4958,7 +4958,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -5369,6 +5369,26 @@ let clases={
       }
     ]
   },
+  "CSO-19077": {
+    "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+    "clave": "CSO-19077",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+        "profesor": "ALEXANDRA URIBE COUGHLAN",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
   "CSO-19081": {
     "nombre": "CSO-19081-SEMINARIO DE INV. POLITICA  A",
     "clave": "CSO-19081",
@@ -5402,7 +5422,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -8968,7 +8988,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
-        "profesor": "",
+        "profesor": "CARLOS ARMANDO DE JESUS CANTU GARCIA",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -12713,7 +12733,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-        "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
+        "profesor": "GABRIELA HERNANDEZ GARCIA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -13389,7 +13409,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "RH205",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -13417,7 +13437,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "RH205",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:00"
@@ -13789,7 +13809,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF108",
+        "salon": "RH",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -13817,7 +13837,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14493,7 +14513,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF108",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -14521,7 +14541,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -15542,7 +15562,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF101",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -17272,11 +17292,6 @@ let misProfesData={
     "general": 7.875,
     "n": 16
   },
-  "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
-    "general": 8.0476,
-    "n": 21
-  },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
     "general": 9.875,
@@ -17373,9 +17388,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17488,9 +17503,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -17573,9 +17588,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -18143,9 +18158,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
