@@ -1,4 +1,4 @@
-let actualizado="1724683400429.1685";
+let actualizado="1724769515880.0056";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -34,7 +34,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH108",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -154,7 +154,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH103",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -3865,7 +3865,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -11321,7 +11321,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "19:30",
         "fin": "21:30"
@@ -16945,7 +16945,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "FEDERICO JOSE KUHLMANN RODRIGUEZ",
+        "profesor": "STEFANO STRAULINO TORRE",
         "creditos": "4",
         "horario": "18:00-20:00",
         "dias": [
@@ -16959,13 +16959,13 @@ let clases={
       {
         "grupo": "002",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "FEDERICO JOSE KUHLMANN RODRIGUEZ",
+        "profesor": "STEFANO STRAULINO TORRE",
         "creditos": "4",
         "horario": "17:00-19:00",
         "dias": [
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RHCUBIC",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "19:00"
@@ -17065,6 +17065,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
     "general": 8.68,
     "n": 50
+  },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
@@ -17397,9 +17402,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17597,9 +17602,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
@@ -17690,11 +17695,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
-  },
-  "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
@@ -17997,9 +17997,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
