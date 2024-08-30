@@ -1,4 +1,4 @@
-let actualizado="1724942370877.104";
+let actualizado="1725028725039.954";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -5559,7 +5559,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF107",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -6255,7 +6255,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF107",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "19:30",
         "fin": "21:30"
@@ -6380,7 +6380,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH302",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "21:00",
         "fin": "22:00"
@@ -6855,7 +6855,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF104",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -7136,7 +7136,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH314",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -7534,7 +7534,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -11504,7 +11504,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-2",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -17602,9 +17602,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",

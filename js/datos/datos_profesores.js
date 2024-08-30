@@ -1,4 +1,4 @@
-let actualizado="1724942370895.2683";
+let actualizado="1725028725056.0713";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -5738,7 +5738,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH314",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -6304,7 +6304,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "PF107",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -7209,7 +7209,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF107",
+          "salon": "RH306",
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "21:30"
@@ -7329,7 +7329,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH302",
+          "salon": "RH108",
           "campus": "RIO HONDO",
           "inicio": "21:00",
           "fin": "22:00"
@@ -7703,7 +7703,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF104",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -8220,7 +8220,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF108",
+          "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -12642,7 +12642,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-2",
+          "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -15233,9 +15233,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18512,10 +18512,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ"
+    "JORGE NEME SANCHEZ",
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
