@@ -1,4 +1,4 @@
-let actualizado="1725374353617.4233";
+let actualizado="1725460751565.053";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -5010,7 +5010,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH308",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -5027,7 +5027,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH308",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -5044,7 +5044,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH308",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -5552,6 +5552,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -8377,7 +8380,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -8394,7 +8397,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -16853,8 +16856,8 @@ let profesores={
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
-    "general": 6.4,
-    "n": 35,
+    "general": 6.2778,
+    "n": 36,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -17327,8 +17330,8 @@ let profesores={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.8596,
-    "n": 57,
+    "general": 6.9138,
+    "n": 58,
     "grupos": {
       "MAT-14102-CALCULO DIF. E INT., III": [
         {
@@ -18426,12 +18429,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "ADRIAN LUCARDI",
-    "JUAN PABLO MICOZZI",
-    "ALBERTO SIMPSER MONDLAK"
+    "JUAN PABLO MICOZZI"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",

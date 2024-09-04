@@ -1,4 +1,4 @@
-let actualizado="1725374353600.164";
+let actualizado="1725460751548.6409";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -4447,7 +4447,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH308",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -4502,7 +4502,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH308",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -4537,7 +4537,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH308",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -7702,7 +7702,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -7723,7 +7723,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -17058,8 +17058,8 @@ let misProfesData={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.8596,
-    "n": 57
+    "general": 6.9138,
+    "n": 58
   },
   "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Claudia-Patricia-Albarr\u00e1n-Ampudia_10830",
@@ -17696,6 +17696,11 @@ let misProfesData={
     "general": 9.2353,
     "n": 17
   },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
+  },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
     "general": 8.3,
@@ -17873,8 +17878,8 @@ let misProfesData={
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
-    "general": 6.4,
-    "n": 35
+    "general": 6.2778,
+    "n": 36
   },
   "ALFONSO PASAPERA MORA": {
     "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
