@@ -1,4 +1,4 @@
-let actualizado="1725892872021.6143";
+let actualizado="1725979158760.2473";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -17066,6 +17066,11 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
+  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -17397,9 +17402,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
