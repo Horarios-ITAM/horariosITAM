@@ -1,4 +1,4 @@
-let actualizado="1726670394586.6157";
+let actualizado="1726756800661.0173";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -5744,7 +5744,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -17517,9 +17517,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -17908,8 +17908,8 @@ let misProfesData={
   },
   "FERNANDO DIEGO PEREZ CERVANTES": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Diego-P\u00e9rez-Cervantes_114816",
-    "general": 7.6,
-    "n": 15
+    "general": 7.75,
+    "n": 16
   },
   "ERNESTO PEREZ CHAVELA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-P\u00e9rez-Chavela_74856",
@@ -18002,9 +18002,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",

@@ -1,4 +1,4 @@
-let actualizado="1726670394607.845";
+let actualizado="1726756800677.3918";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -1825,8 +1825,8 @@ let profesores={
   },
   "FERNANDO DIEGO PEREZ CERVANTES": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Diego-P\u00e9rez-Cervantes_114816",
-    "general": 7.6,
-    "n": 15,
+    "general": 7.75,
+    "n": 16,
     "grupos": {
       "ADM-15522-TEORIA DE LAS FINANZAS": [
         {
@@ -4377,9 +4377,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6536,7 +6536,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF107",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -9626,9 +9626,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -18450,6 +18450,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "DAVID LAMB DE VALDES",
@@ -18457,8 +18458,7 @@ let mejoresPorDepto={
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
-    "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES"
+    "MIGUEL MESSMACHER LINARTAS"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
