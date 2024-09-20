@@ -1,4 +1,4 @@
-let actualizado="1726756800677.3918";
+let actualizado="1726843121691.2507";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -1412,8 +1412,8 @@ let profesores={
   },
   "JULIETA IRMA GUIZA PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
-    "general": 5.3548,
-    "n": 31,
+    "general": 5.25,
+    "n": 32,
     "grupos": {
       "ADM-15501-FINANZAS, I": [
         {
