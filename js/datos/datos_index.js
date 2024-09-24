@@ -1,4 +1,4 @@
-let actualizado="1727102428700.3782";
+let actualizado="1727188817482.9788";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -17566,6 +17566,11 @@ let misProfesData={
     "general": 8.6,
     "n": 10
   },
+  "GERARDO HERNANDEZ DEL VALLE": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Hern\u00e1ndez-Del-Valle_118747",
+    "general": 10.0,
+    "n": 1
+  },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
     "general": 7.0,
@@ -17602,9 +17607,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",

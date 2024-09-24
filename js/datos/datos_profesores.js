@@ -1,4 +1,4 @@
-let actualizado="1727102428716.981";
+let actualizado="1727188817498.6482";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -329,6 +329,9 @@ let profesores={
     }
   },
   "GERARDO HERNANDEZ DEL VALLE": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Hern\u00e1ndez-Del-Valle_118747",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ACT-22309-MATEMATICAS FINANCIERAS, III": [
         {
@@ -15233,9 +15236,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
-    "general": 8.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18365,6 +18368,7 @@ let profesores={
 };
 let mejoresPorDepto={
   "ACTUARIA Y SEGUROS": [
+    "GERARDO HERNANDEZ DEL VALLE",
     "DAVID RUELAS RODRIGUEZ",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
     "SERGIO GARCIA ALQUICIRA",
@@ -18373,7 +18377,6 @@ let mejoresPorDepto={
     "PEDRO DANIEL TREJO SOLIS",
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
     "BARBARA MARTINEZ LICON",
-    "GERARDO HERNANDEZ DEL VALLE",
     "FRANCISCO GERARDO CESAR MEDINA"
   ],
   "ADMINISTRACION": [
@@ -18512,10 +18515,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
-    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ"
+    "JORGE NEME SANCHEZ",
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
