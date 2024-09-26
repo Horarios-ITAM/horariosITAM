@@ -1,4 +1,4 @@
-let actualizado="1727275241207.3064";
+let actualizado="1727361696625.2654";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -4469,7 +4469,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH313",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -4486,7 +4486,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH313",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -15236,9 +15236,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18515,10 +18515,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ",
-    "LUCIA PI CHOLULA"
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

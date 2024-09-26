@@ -1,4 +1,4 @@
-let actualizado="1727275241189.897";
+let actualizado="1727361696608.8057";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -4197,7 +4197,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -4314,7 +4314,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -17607,9 +17607,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
