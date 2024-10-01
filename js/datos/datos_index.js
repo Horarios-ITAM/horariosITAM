@@ -1,4 +1,4 @@
-let actualizado="1727707320304.566";
+let actualizado="1727793649849.5334";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -8392,7 +8392,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RH206",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -8533,7 +8533,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF107",
+        "salon": "RH206",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -17066,6 +17066,11 @@ let misProfesData={
     "general": 8.68,
     "n": 50
   },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
+  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -17602,9 +17607,9 @@ let misProfesData={
     "n": 68
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",

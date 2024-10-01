@@ -1,4 +1,4 @@
-let actualizado="1727707320321.258";
+let actualizado="1727793649865.955";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -9255,7 +9255,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF107",
+          "salon": "RH206",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -9287,7 +9287,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF107",
+          "salon": "RH206",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -10398,6 +10398,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -15236,9 +15239,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18515,10 +18518,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ",
-    "LUCIA PI CHOLULA"
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
