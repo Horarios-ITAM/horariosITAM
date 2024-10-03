@@ -1,4 +1,4 @@
-let actualizado="1727880034177.784";
+let actualizado="1727966435194.0435";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -4380,9 +4380,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -11695,9 +11695,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -12394,8 +12394,8 @@ let profesores={
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
-    "general": 7.875,
-    "n": 16,
+    "general": 7.7059,
+    "n": 17,
     "grupos": {
       "EST-10102-ESTADISTICA.,II": [
         {
@@ -14790,9 +14790,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15239,9 +15239,9 @@ let profesores={
     }
   },
   "MARIA TERESA JIMENEZ ANDREU": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129144",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Maria-Teresa-Jimenez-Andreu_129143",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18469,11 +18469,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
+    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "DAVID MORENO GUINEA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -18491,8 +18491,8 @@ let mejoresPorDepto={
     "GUSTAVO ALVAREZ PELAEZ",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "SIMON LUNAGOMEZ CORIA",
-    "LILIANA DE LA TORRE DESENTIS",
     "ILEANA GARCIA CONDE",
+    "LILIANA DE LA TORRE DESENTIS",
     "MANUEL MENDOZA RAMIREZ",
     "JOSE DAVID SANTOS SALAZAR",
     "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
@@ -18518,10 +18518,10 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "MARIA CLAUDIA PATRICIA ALBARRAN AMPUDIA",
+    "MARIA TERESA JIMENEZ ANDREU",
     "JAVIER MARTINEZ VILLARROYA",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ",
-    "LUCIA PI CHOLULA"
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
