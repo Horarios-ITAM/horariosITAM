@@ -1,4 +1,4 @@
-let actualizado="1727966435194.0435";
+let actualizado="1728052734272.8386";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -8904,8 +8904,8 @@ let profesores={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.5068,
-    "n": 148,
+    "general": 9.5101,
+    "n": 149,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
