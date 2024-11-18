@@ -28,8 +28,7 @@ class GraceScrapper:
             Valor de "s" (hidden) en la forma POST descrita en formURL.
         """
         # URL de serviciosweb/Grace
-        baseURL="https://serviciosweb.itam.mx"
-
+        baseURL="https://servicios.itam.mx/"
         self.verbose=verbose
 
         # Si no se pasaron URLs, scrapearlas
@@ -64,10 +63,11 @@ class GraceScrapper:
         soup=BeautifulSoup(utils.getHTML(homePageURL), "html.parser")
         for link in soup.find_all("a"):
             if link.string and "Servicios no personalizados" in link.string:
-                urlServiciosNoPersonalizados=baseURL+link.attrs["href"]
+                urlServiciosNoPersonalizados = urljoin(baseURL, link.attrs["href"])
                 break
         
         assert urlServiciosNoPersonalizados!=None,"No se encontro URL de Servicios no personalizados"
+        self._print(f'URL de Servicios no personalizados: {urlServiciosNoPersonalizados}')
 
         # Extraer dropDownURL
         soup=BeautifulSoup(utils.getHTML(urlServiciosNoPersonalizados), "html.parser")
@@ -178,8 +178,14 @@ class GraceScrapper:
 
 
 if __name__=="__main__":
-    g=GraceScrapper(verbose=True)
-    #g.scrap()
+
+    g = GraceScrapper(
+        # dropDownURL="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios1?s=2595",
+        # formURL="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios2",
+        # s = "2595",
+        verbose=True
+    )
+    g.scrap()
     
 
 
