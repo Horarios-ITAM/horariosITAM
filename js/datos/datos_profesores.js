@@ -1,9 +1,9 @@
-let actualizado="1728052734272.8386";
+let actualizado="1731953311204.6084";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
-let dropDownUrl="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios1?s=2595";
-let formPostUrl="https://serviciosweb.itam.mx/EDSUP/BWZKSENP.P_Horarios2";
+let dropDownUrl="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios1?s=2595";
+let formPostUrl="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios2";
 let profesores={
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
@@ -130,8 +130,8 @@ let profesores={
   },
   "DAVID RUELAS RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
-    "general": 9.2121,
-    "n": 66,
+    "general": 9.2239,
+    "n": 67,
     "grupos": {
       "ACT-11302-CALCULO ACTUARIAL III": [
         {
@@ -212,8 +212,8 @@ let profesores={
   },
   "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-los-\u00c1ngeles-Ya\u00f1ez-Acosta_20034",
-    "general": 7.0,
-    "n": 9,
+    "general": 8.0714,
+    "n": 14,
     "grupos": {
       "ACT-15353-PRACTICA ACTUAR. Y MARCO INST.": [
         {
@@ -441,8 +441,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9502,
-    "n": 281,
+    "general": 4.9364,
+    "n": 283,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -2410,43 +2410,6 @@ let profesores={
       ]
     }
   },
-  "MARGARITA TARRAGONA SAEZ": {
-    "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
-    "general": 10.0,
-    "n": 1,
-    "grupos": {
-      "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO": [
-        {
-          "grupo": "001",
-          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-          "profesor": "MARGARITA TARRAGONA SAEZ",
-          "creditos": "6",
-          "horario": "08:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF106",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
-          "profesor": "MARGARITA TARRAGONA SAEZ",
-          "creditos": "6",
-          "horario": "11:00-14:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF105",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
-        }
-      ]
-    }
-  },
   "EMILIO ENRIQUE NAVARRO HERNANDEZ": {
     "grupos": {
       "CLE-10516-COMMUNICATION IN SPANISH I-LAB": [
@@ -3157,10 +3120,10 @@ let profesores={
           "fin": "11:00"
         }
       ],
-      "COM-23101-INTELIGENCIA ARTIFICIAL": [
+      "COM-23101-INTELIGENCIA  ARTIFICIAL": [
         {
           "grupo": "002",
-          "nombre": "COM-23101-INTELIGENCIA ARTIFICIAL",
+          "nombre": "COM-23101-INTELIGENCIA  ARTIFICIAL",
           "profesor": "ANDRES GOMEZ DE SILVA GARZA",
           "creditos": "8",
           "horario": "16:00-18:00",
@@ -3415,8 +3378,8 @@ let profesores={
   },
   "CARLOS EMILIO GALINDO FLORES": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
-    "general": 7.5238,
-    "n": 63,
+    "general": 7.4531,
+    "n": 64,
     "grupos": {
       "COM-14113-FUNDAMENTOS DE PROGRAMACION": [
         {
@@ -3952,8 +3915,8 @@ let profesores={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 5.2353,
-    "n": 17,
+    "general": 5.1053,
+    "n": 19,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -5365,8 +5328,8 @@ let profesores={
   },
   "FELIPE CURCO COBOS": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Curco-Cobos_10798",
-    "general": 9.2568,
-    "n": 74,
+    "general": 9.2667,
+    "n": 75,
     "grupos": {
       "CSO-11011-TEORIA POLITICA CLASICA, I": [
         {
@@ -5952,8 +5915,8 @@ let profesores={
   },
   "ALBERTO SIMPSER MONDLAK": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
-    "general": 6.6923,
-    "n": 13,
+    "general": 6.3571,
+    "n": 14,
     "grupos": {
       "CSO-16049-TOPICOS DE POL. PUBLICAS II": [
         {
@@ -7845,6 +7808,9 @@ let profesores={
     }
   },
   "MIGUEL ONTIVEROS ALONSO": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-Onitveros-Alonso_179889",
+    "general": 2.0,
+    "n": 1,
     "grupos": {
       "DER-14402-TEORIAS DEL DELITO": [
         {
@@ -11180,8 +11146,8 @@ let profesores={
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 6.8654,
-    "n": 52,
+    "general": 6.9245,
+    "n": 53,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -11634,13 +11600,13 @@ let profesores={
       ]
     }
   },
-  "MARIA DE LOURDES IBARRA HERRERIAS": {
+  "MARIA DE LOURDES IBARRA Y HERRERIAS": {
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
           "grupo": "002",
           "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "MARIA DE LOURDES IBARRA HERRERIAS",
+          "profesor": "MARIA DE LOURDES IBARRA Y HERRERIAS",
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
@@ -11655,7 +11621,7 @@ let profesores={
         {
           "grupo": "003",
           "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "MARIA DE LOURDES IBARRA HERRERIAS",
+          "profesor": "MARIA DE LOURDES IBARRA Y HERRERIAS",
           "creditos": "6",
           "horario": "10:00-11:30",
           "dias": [
@@ -12370,8 +12336,8 @@ let profesores={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.6341,
-    "n": 41,
+    "general": 8.619,
+    "n": 42,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -12716,8 +12682,8 @@ let profesores={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.7895,
-    "n": 76,
+    "general": 5.7662,
+    "n": 77,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -16368,8 +16334,8 @@ let profesores={
   },
   "ERNESTO PEREZ CHAVELA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-P\u00e9rez-Chavela_74856",
-    "general": 6.8966,
-    "n": 29,
+    "general": 6.7333,
+    "n": 30,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -16410,8 +16376,8 @@ let profesores={
   },
   "SHARON MAGALI VALVERDE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.3939,
-    "n": 33,
+    "general": 8.4412,
+    "n": 34,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -16760,8 +16726,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.678,
-    "n": 59,
+    "general": 6.6,
+    "n": 60,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -16859,8 +16825,8 @@ let profesores={
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
-    "general": 6.2778,
-    "n": 36,
+    "general": 6.2162,
+    "n": 37,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -17270,6 +17236,23 @@ let profesores={
           "inicio": "11:00",
           "fin": "13:00"
         }
+      ],
+      "MAT-14250-GEOMETRIA VECTORIAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
+          "profesor": "JORGE MONROY JIMENEZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
       ]
     }
   },
@@ -17492,30 +17475,6 @@ let profesores={
       ]
     }
   },
-  "PAUL RENATO TOPPO RAIMONDO": {
-    "link": "https://www.misprofesores.com/profesores/Paul-Renato-Toppo-Raimondo_98232",
-    "general": 6.4167,
-    "n": 12,
-    "grupos": {
-      "MAT-14250-GEOMETRIA VECTORIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
-          "profesor": "PAUL RENATO TOPPO RAIMONDO",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH316",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
   "MARISOL VILLANUEVA CASTILLO": {
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
@@ -17619,8 +17578,8 @@ let profesores={
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
-    "general": 8.0719,
-    "n": 167,
+    "general": 8.0357,
+    "n": 168,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -18374,9 +18333,9 @@ let mejoresPorDepto={
     "GERARDO HERNANDEZ DEL VALLE",
     "DAVID RUELAS RODRIGUEZ",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
+    "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
     "SERGIO GARCIA ALQUICIRA",
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
-    "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
     "PEDRO DANIEL TREJO SOLIS",
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
     "BARBARA MARTINEZ LICON",
@@ -18393,9 +18352,6 @@ let mejoresPorDepto={
     "JANKO HERNANDEZ CORTES",
     "ALEXANDROS FAKOS",
     "JUAN JOSE FERNANDEZ DURAN"
-  ],
-  "CTRO DE ESTUDIO DEL BIENESTAR": [
-    "MARGARITA TARRAGONA SAEZ"
   ],
   "LENGUAS (CLE)": [
     "MARCELA RABADAN GALLARDO",
