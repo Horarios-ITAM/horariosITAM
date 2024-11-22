@@ -1,4 +1,4 @@
-let actualizado="1732200179751.2556";
+let actualizado="1732286480445.459";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -2250,7 +2250,36 @@ let clases={
   "CEB-10001": {
     "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
     "clave": "CEB-10001",
-    "grupos": []
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
+        "profesor": "MARGARITA TARRAGONA SAEZ",
+        "creditos": "6",
+        "horario": "08:00-11:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "PF106",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "11:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
+        "profesor": "MARGARITA TARRAGONA SAEZ",
+        "creditos": "6",
+        "horario": "11:00-14:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "PF105",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "14:00"
+      }
+    ]
   },
   "CLE-10516-LAB": {
     "nombre": "CLE-10516-COMMUNICATION IN SPANISH I-LAB",
@@ -17488,9 +17517,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -17671,6 +17700,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 9.2353,
     "n": 17
+  },
+  "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
@@ -17978,9 +18012,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",

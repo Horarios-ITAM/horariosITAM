@@ -1,4 +1,4 @@
-let actualizado="1732200179766.767";
+let actualizado="1732286480461.5068";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -2410,6 +2410,43 @@ let profesores={
       ]
     }
   },
+  "MARGARITA TARRAGONA SAEZ": {
+    "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO": [
+        {
+          "grupo": "001",
+          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
+          "profesor": "MARGARITA TARRAGONA SAEZ",
+          "creditos": "6",
+          "horario": "08:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF106",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "CEB-10001-SEMINARIO DE BIENESTAR:  PSICO",
+          "profesor": "MARGARITA TARRAGONA SAEZ",
+          "creditos": "6",
+          "horario": "11:00-14:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF105",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
   "EMILIO ENRIQUE NAVARRO HERNANDEZ": {
     "grupos": {
       "CLE-10516-COMMUNICATION IN SPANISH I-LAB": [
@@ -4343,9 +4380,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5518,6 +5555,9 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
+    "general": 8.1538,
+    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -9592,9 +9632,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -18350,6 +18390,9 @@ let mejoresPorDepto={
     "ALEXANDROS FAKOS",
     "JUAN JOSE FERNANDEZ DURAN"
   ],
+  "CTRO DE ESTUDIO DEL BIENESTAR": [
+    "MARGARITA TARRAGONA SAEZ"
+  ],
   "LENGUAS (CLE)": [
     "MARCELA RABADAN GALLARDO",
     "ELSA VIVIANA OROPEZA GRACIA",
@@ -18385,12 +18428,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "CARLOS FRANCISCO MARTINEZ MORENO",
     "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "ADRIAN LUCARDI",
-    "JUAN PABLO MICOZZI",
-    "ALBERTO SIMPSER MONDLAK"
+    "JUAN PABLO MICOZZI"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
@@ -18406,6 +18449,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "DAVID LAMB DE VALDES",
@@ -18413,8 +18457,7 @@ let mejoresPorDepto={
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
-    "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES"
+    "MIGUEL MESSMACHER LINARTAS"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
