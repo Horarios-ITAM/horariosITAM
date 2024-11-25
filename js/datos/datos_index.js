@@ -1,4 +1,4 @@
-let actualizado="1732459209664.005";
+let actualizado="1732545788733.266";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -17066,11 +17066,6 @@ let misProfesData={
     "general": 8.6667,
     "n": 51
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -17402,9 +17397,9 @@ let misProfesData={
     "n": 11
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17517,9 +17512,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3636,
+    "n": 22
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -17788,8 +17783,8 @@ let misProfesData={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.0769,
-    "n": 26
+    "general": 9.1111,
+    "n": 27
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
@@ -18182,9 +18177,9 @@ let misProfesData={
     "n": 64
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
