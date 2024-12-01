@@ -108,7 +108,7 @@ class GraceScrapper:
         grupos={}
         teoria=False
         laboratorio=False
-        info=["depto","clave","grupo","TL","nombre","prof","cred","horario","dias","salon","campus","comentarios"] #datos por extraer
+        info=["depto","clave","grupo","CRN","TL","nombre","prof","cred","horario","dias","salon","campus","comentarios"] #datos por extraer
         soup=BeautifulSoup(html, 'html.parser')
         tabla=soup.find_all('table')[2] #la tabla con la info es la 3ra en el html
         for renglon in tabla.find_all('tr')[1:]: #saltar renglon con cabecera
