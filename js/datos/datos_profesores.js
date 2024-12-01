@@ -1,4 +1,4 @@
-let actualizado="1732545788750.3447";
+let actualizado="1733090518233.0054";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -2045,8 +2045,8 @@ let profesores={
   },
   "JANKO HERNANDEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
-    "general": 8.6,
-    "n": 10,
+    "general": 8.6364,
+    "n": 11,
     "grupos": {
       "ADM-15534-MODELOS FINANCIEROS II": [
         {
@@ -6028,8 +6028,8 @@ let profesores={
   },
   "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
-    "general": 8.1333,
-    "n": 15,
+    "general": 8.125,
+    "n": 16,
     "grupos": {
       "CSO-19076-SEMINARIO DE TITULACION, II": [
         {
@@ -9229,8 +9229,8 @@ let profesores={
   },
   "CLAUDIA ABURTO RANCA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
-    "general": 8.9359,
-    "n": 78,
+    "general": 8.9494,
+    "n": 79,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -9632,9 +9632,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10401,6 +10401,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -11366,8 +11369,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.8,
-    "n": 40,
+    "general": 7.8049,
+    "n": 41,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -11695,9 +11698,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -13526,8 +13529,8 @@ let profesores={
   },
   "ALEJANDRO TERAN CASTELLANOS": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",
-    "general": 6.9474,
-    "n": 38,
+    "general": 6.9231,
+    "n": 39,
     "grupos": {
       "IIO-14161-PLANEAC. Y CONTROL DE PRODUC.": [
         {
@@ -14790,9 +14793,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16936,8 +16939,8 @@ let profesores={
   },
   "IRMA BEATRIZ RUMBOS PELLICER": {
     "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",
-    "general": 8.5714,
-    "n": 21,
+    "general": 8.4545,
+    "n": 22,
     "grupos": {
       "MAT-12349-PRINCIPIOS DE ALGEBRA LINEAL": [
         {
@@ -16975,8 +16978,8 @@ let profesores={
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
-    "general": 7.1579,
-    "n": 57,
+    "general": 7.2069,
+    "n": 58,
     "grupos": {
       "MAT-12349-PRINCIPIOS DE ALGEBRA LINEAL": [
         {
@@ -17115,8 +17118,8 @@ let profesores={
   },
   "PABLO CASTA\u00d1EDA RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Casta\u00f1eda-Rivera_59308",
-    "general": 5.8519,
-    "n": 27,
+    "general": 5.7143,
+    "n": 28,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -17588,8 +17591,8 @@ let profesores={
   },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
-    "general": 8.2,
-    "n": 70,
+    "general": 8.2254,
+    "n": 71,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -17612,8 +17615,8 @@ let profesores={
   },
   "MARTHA LORENA ZOGAIB ACHCAR": {
     "link": "https://www.misprofesores.com/profesores/Martha-Lorena-Zogaib-Achcar_10708",
-    "general": 8.0357,
-    "n": 168,
+    "general": 8.0296,
+    "n": 169,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -18446,7 +18449,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "ROBERTO GONZALEZ TELLEZ",
-    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "DAVID LAMB DE VALDES",
@@ -18454,7 +18456,8 @@ let mejoresPorDepto={
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
-    "MIGUEL MESSMACHER LINARTAS"
+    "MIGUEL MESSMACHER LINARTAS",
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -18462,11 +18465,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
+    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "DAVID MORENO GUINEA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -18521,11 +18524,11 @@ let mejoresPorDepto={
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "CONCEPCION RUIZ RUIZ FUNES",
-    "IRMA BEATRIZ RUMBOS PELLICER",
     "LYSETTE FELIX FELIX",
+    "IRMA BEATRIZ RUMBOS PELLICER",
     "SHARON MAGALI VALVERDE ESPARZA",
-    "JOSE EZEQUIEL SOTO SANCHEZ",
     "LEOBARDO FERNANDEZ ROMAN",
+    "JOSE EZEQUIEL SOTO SANCHEZ",
     "LUZ MARIA MARVAN GARDU\u00d1O"
   ],
   "SISTEMAS DIGITALES": [
