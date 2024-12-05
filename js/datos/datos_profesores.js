@@ -1,4 +1,4 @@
-let actualizado="1733323461242.136";
+let actualizado="1733409779551.9407";
 let periodo="OTOÑO 2024 LICENCIATURA";
 let secure=false;
 let sGrace="2595";
@@ -5555,9 +5555,6 @@ let profesores={
     }
   },
   "CARLOS FRANCISCO MARTINEZ MORENO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Francisco-Martinez-Moreno_23222",
-    "general": 8.1538,
-    "n": 52,
     "grupos": {
       "CSO-12042-HISTORIA DE MEXICO,II": [
         {
@@ -18428,12 +18425,12 @@ let mejoresPorDepto={
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
     "JESUS ALEJANDRO MORENO ALVAREZ",
-    "CARLOS FRANCISCO MARTINEZ MORENO",
     "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "ADRIAN LUCARDI",
-    "JUAN PABLO MICOZZI"
+    "JUAN PABLO MICOZZI",
+    "ALBERTO SIMPSER MONDLAK"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
