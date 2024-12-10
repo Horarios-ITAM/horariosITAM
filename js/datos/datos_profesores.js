@@ -1,4 +1,4 @@
-let actualizado="1733755445938.0305";
+let actualizado="1733841871608.6196";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -164,8 +164,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH202",
+          "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
         },
@@ -179,8 +179,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH202",
+          "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
         }
@@ -196,8 +196,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH203",
+          "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
         }
@@ -213,8 +213,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH201",
+          "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
         },
@@ -228,8 +228,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH203",
+          "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
         }
@@ -244,8 +244,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH314",
+          "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
         }
@@ -309,8 +309,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH306",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:30"
         }
@@ -342,8 +342,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF107",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
         }
@@ -406,8 +406,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH305",
+          "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
         }
@@ -457,8 +457,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF102",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
         },
@@ -472,8 +472,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
         }
@@ -769,15 +769,15 @@ let profesores={
           "nombre": "MAT-22600-MATEMATICAS FINANCIERAS I",
           "profesor": "",
           "creditos": "6",
-          "horario": "07:00-08:31",
+          "horario": "07:00-08:30",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "08:31"
+          "fin": "08:30"
         }
       ],
       "MAT-24720-TEMAS SELECTOS DE MAT. APL. I": [
@@ -791,7 +791,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -1000,7 +1000,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RHB-3",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -1128,8 +1128,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH308",
+          "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:30"
         },
@@ -1142,8 +1142,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH308",
+          "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
         }
@@ -1158,7 +1158,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:30"
@@ -1172,8 +1172,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH308",
+          "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
         }
@@ -1370,8 +1370,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH312",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:00"
         }
@@ -1393,8 +1393,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF106",
+          "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "11:00"
         },
@@ -1407,8 +1407,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
         }
@@ -1423,8 +1423,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF106",
+          "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "11:00"
         },
@@ -1437,8 +1437,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
         }
@@ -1495,7 +1495,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RHCC202",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -1886,14 +1886,14 @@ let profesores={
           "nombre": "ADM-14401-COMPORTAMIENTO HUMANO, I",
           "profesor": "ADRIANA MALDONADO TORRES",
           "creditos": "6",
-          "horario": "07:00-10:00",
+          "horario": "10:00-13:00",
           "dias": [
             "LU"
           ],
-          "salon": "PF105",
+          "salon": "PF102",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
+          "inicio": "10:00",
+          "fin": "13:00"
         }
       ],
       "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I": [
@@ -1902,14 +1902,14 @@ let profesores={
           "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
           "profesor": "ADRIANA MALDONADO TORRES",
           "creditos": "6",
-          "horario": "07:00-10:00",
+          "horario": "10:00-12:00",
           "dias": [
             "LU"
           ],
-          "salon": "PF105",
+          "salon": "PF102",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
+          "inicio": "10:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -2269,8 +2269,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF103",
+          "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
         },
@@ -2283,8 +2283,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
         }
@@ -2384,8 +2384,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHSA4",
+          "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "11:00"
         },
@@ -2398,8 +2398,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHSA4",
+          "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
         }
@@ -2612,8 +2612,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF105",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
         }
@@ -2853,8 +2853,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "11:00"
         },
@@ -2867,8 +2867,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
         }
@@ -2888,8 +2888,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH211",
+          "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "11:00"
         }
@@ -2905,8 +2905,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH205",
+          "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
         }
@@ -2926,8 +2926,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH201",
+          "campus": "RIO HONDO",
           "inicio": "16:30",
           "fin": "17:00"
         }
@@ -2943,8 +2943,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH201",
+          "campus": "RIO HONDO",
           "inicio": "15:00",
           "fin": "16:30"
         }
@@ -2967,8 +2967,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH203",
+          "campus": "RIO HONDO",
           "inicio": "16:30",
           "fin": "17:00"
         }
@@ -2984,8 +2984,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH203",
+          "campus": "RIO HONDO",
           "inicio": "15:00",
           "fin": "16:30"
         }
@@ -3021,8 +3021,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH204",
+          "campus": "RIO HONDO",
           "inicio": "16:30",
           "fin": "17:00"
         }
@@ -3038,8 +3038,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH204",
+          "campus": "RIO HONDO",
           "inicio": "15:00",
           "fin": "16:30"
         }
@@ -3187,8 +3187,8 @@ let profesores={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.4651,
-    "n": 43,
+    "general": 6.4773,
+    "n": 44,
     "grupos": {
       "COM-11102-ESTRUCTURAS DE DATOS-LAB": [
         {
@@ -3936,16 +3936,16 @@ let profesores={
       ]
     }
   },
-  "MERCEDES NELLY MELENDEZ FELIX": {
-    "link": "https://www.misprofesores.com/profesores/Mercedes-Nelly-Mel\u00e9ndez-F\u00e9lix_22518",
-    "general": 8.4634,
-    "n": 41,
+  "MONICA ZAVALA ESTRADA": {
+    "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
+    "general": 9.12,
+    "n": 25,
     "grupos": {
       "COM-14113-FUNDAMENTOS DE PROGRAMACION": [
         {
           "grupo": "002",
           "nombre": "COM-14113-FUNDAMENTOS DE PROGRAMACION",
-          "profesor": "MERCEDES NELLY MELENDEZ FELIX",
+          "profesor": "MONICA ZAVALA ESTRADA",
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
@@ -3962,7 +3962,7 @@ let profesores={
         {
           "grupo": "004",
           "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "MERCEDES NELLY MELENDEZ FELIX",
+          "profesor": "MONICA ZAVALA ESTRADA",
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
@@ -4255,16 +4255,16 @@ let profesores={
       ]
     }
   },
-  "MONICA ZAVALA ESTRADA": {
-    "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
-    "general": 9.12,
-    "n": 25,
+  "IRMA LOZANO MENDICUTI": {
+    "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
+    "general": 8.4286,
+    "n": 35,
     "grupos": {
       "COM-16305-GESTION DE DATOS": [
         {
           "grupo": "004",
           "nombre": "COM-16305-GESTION DE DATOS",
-          "profesor": "MONICA ZAVALA ESTRADA",
+          "profesor": "IRMA LOZANO MENDICUTI",
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
@@ -4275,6 +4275,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        },
+        {
+          "grupo": "011",
+          "nombre": "COM-16305-GESTION DE DATOS",
+          "profesor": "IRMA LOZANO MENDICUTI",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -4330,30 +4345,6 @@ let profesores={
           "dias": [
             "LU",
             "MI"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "IRMA LOZANO MENDICUTI": {
-    "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
-    "general": 8.4286,
-    "n": 35,
-    "grupos": {
-      "COM-16305-GESTION DE DATOS": [
-        {
-          "grupo": "011",
-          "nombre": "COM-16305-GESTION DE DATOS",
-          "profesor": "IRMA LOZANO MENDICUTI",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
           ],
           "salon": "PF104",
           "campus": "RIO HONDO",
@@ -4777,8 +4768,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
           "inicio": "10:30",
           "fin": "12:30"
         }
@@ -4794,8 +4785,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
         },
@@ -4809,8 +4800,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH306",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
         }
@@ -4826,8 +4817,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
         },
@@ -4841,8 +4832,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH306",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
         }
@@ -4938,8 +4929,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
         },
@@ -4953,8 +4944,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
         }
@@ -5013,8 +5004,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH313",
+          "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
         }
@@ -5062,8 +5053,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH313",
+          "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
         }
@@ -5292,8 +5283,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH301",
+          "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
         },
@@ -5307,8 +5298,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH301",
+          "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
         }
@@ -5346,8 +5337,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH210",
+          "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
         }
@@ -5378,8 +5369,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH210",
+          "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
         }
@@ -5683,8 +5674,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH307",
+          "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:30"
         },
@@ -5697,8 +5688,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH307",
+          "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "14:00"
         }
@@ -5778,7 +5769,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -5918,7 +5909,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -6311,7 +6302,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH",
+          "salon": "RHCC202",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -6447,8 +6438,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH308",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
         }
@@ -6543,8 +6534,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH311",
+          "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
         }
@@ -6559,8 +6550,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH308",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
         }
@@ -6576,8 +6567,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHSA4",
+          "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
         }
@@ -6593,8 +6584,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHSA4",
+          "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
         }
@@ -6616,8 +6607,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH311",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
         }
@@ -6636,8 +6627,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH311",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
         }
@@ -6660,8 +6651,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH314",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
         }
@@ -6681,8 +6672,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH316",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
         }
@@ -6704,8 +6695,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH211",
+          "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:30"
         }
@@ -6724,8 +6715,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
         }
@@ -6744,8 +6735,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH301",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
         }
@@ -6765,8 +6756,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH301",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
         }
@@ -6823,8 +6814,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH302",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
         }
@@ -6871,8 +6862,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF107",
+          "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
         }
@@ -7030,8 +7021,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "20:00"
         }
@@ -7046,8 +7037,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "19:00"
         }
@@ -7067,8 +7058,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
         }
@@ -7084,8 +7075,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
         }
@@ -7217,8 +7208,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF107",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
         }
@@ -7233,8 +7224,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
         }
@@ -7254,8 +7245,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF107",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
         }
@@ -7291,8 +7282,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
         }
@@ -7350,8 +7341,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
         }
@@ -7480,8 +7471,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF106",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
         }
@@ -7706,8 +7697,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
         },
@@ -7721,8 +7712,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH302",
+          "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
         }
@@ -7823,8 +7814,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
         }
@@ -7839,8 +7830,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
         }
@@ -7855,8 +7846,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
         }
@@ -7871,8 +7862,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
         }
@@ -7894,8 +7885,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "20:00"
         }
@@ -7910,8 +7901,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "19:00"
         }
@@ -7931,8 +7922,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
         }
@@ -7948,8 +7939,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
         }
@@ -7972,8 +7963,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
         }
@@ -7989,8 +7980,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
         }
@@ -8013,8 +8004,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
         }
@@ -8078,8 +8069,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF108",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
         }
@@ -8145,8 +8136,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
         }
@@ -8187,8 +8178,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
         }
@@ -8207,8 +8198,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF105",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
         },
@@ -8221,8 +8212,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF105",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
         }
@@ -8277,8 +8268,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
         }
@@ -8293,8 +8284,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
         }
@@ -8374,8 +8365,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
         }
@@ -8439,8 +8430,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF107",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
         }
@@ -8484,8 +8475,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH112",
+          "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
         }
@@ -8543,8 +8534,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
         }
@@ -8560,8 +8551,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
         }
@@ -8638,8 +8629,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH202",
+          "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "22:00"
         }
@@ -8658,8 +8649,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "20:00"
         }
@@ -8674,8 +8665,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "19:00"
         }
@@ -8783,8 +8774,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
         }
@@ -8799,8 +8790,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
         }
@@ -8870,7 +8861,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -8887,7 +8878,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -8985,7 +8976,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
@@ -9001,7 +8992,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
@@ -9018,7 +9009,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -9208,7 +9199,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -9225,7 +9216,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -9262,7 +9253,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -9811,9 +9802,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10017,7 +10008,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -10038,7 +10029,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -10053,7 +10044,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10390,7 +10381,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF",
+          "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -10438,7 +10429,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH",
+          "salon": "RH316",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -10657,7 +10648,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -10854,8 +10845,8 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH207",
+          "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
         }
@@ -11622,9 +11613,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -11817,8 +11808,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH206",
+          "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
         }
@@ -11858,8 +11849,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH310",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
         }
@@ -11879,7 +11870,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -11896,8 +11887,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH307",
+          "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
         }
@@ -11936,8 +11927,8 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH206",
+          "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
         }
@@ -12041,15 +12032,15 @@ let profesores={
           "nombre": "EIN-17304-FORMUL. DE LA POL. EXT. DE MEX",
           "profesor": "NATALIA SALTALAMACCHIA ZICCARDI",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "11:30-13:00",
           "dias": [
             "LU",
             "MI"
           ],
           "salon": "RH110",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -12107,8 +12098,8 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "20:30"
         }
@@ -13096,8 +13087,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
         }
@@ -13141,8 +13132,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
         }
@@ -13175,8 +13166,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
         }
@@ -13233,8 +13224,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH203",
+          "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
         }
@@ -14403,7 +14394,7 @@ let profesores={
           "creditos": "2",
           "horario": "16:00-17:00",
           "dias": [
-            "JU"
+            "MI"
           ],
           "salon": "RH202",
           "campus": "RIO HONDO",
@@ -14419,7 +14410,7 @@ let profesores={
           "creditos": "2",
           "horario": "16:00-17:00",
           "dias": [
-            "JU"
+            "MI"
           ],
           "salon": "RH202",
           "campus": "RIO HONDO",
@@ -14939,8 +14930,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH201",
+          "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
         },
@@ -14953,8 +14944,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH204",
+          "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
         }
@@ -15272,8 +15263,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH204",
+          "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
         }
@@ -16789,7 +16780,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -16823,7 +16814,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -17093,7 +17084,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -17733,6 +17724,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -17740,7 +17732,6 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
@@ -17749,11 +17740,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "DAVID MORENO GUINEA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
