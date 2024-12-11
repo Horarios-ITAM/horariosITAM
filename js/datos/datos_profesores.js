@@ -1,4 +1,4 @@
-let actualizado="1733841871608.6196";
+let actualizado="1733928214735.5242";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4296,8 +4296,8 @@ let profesores={
   },
   "JOSE CALIXTO CANO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
-    "general": 6.5588,
-    "n": 34,
+    "general": 6.5429,
+    "n": 35,
     "grupos": {
       "COM-16305-GESTION DE DATOS": [
         {
@@ -4841,9 +4841,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5403,8 +5403,8 @@ let profesores={
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
-    "general": 8.8021,
-    "n": 96,
+    "general": 8.8041,
+    "n": 97,
     "grupos": {
       "CON-12001-CONTABILIDAD DE COSTOS": [
         {
@@ -9321,8 +9321,8 @@ let profesores={
   },
   "CLAUDIA ABURTO RANCA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
-    "general": 8.9494,
-    "n": 79,
+    "general": 8.925,
+    "n": 80,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -11015,8 +11015,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.8049,
-    "n": 41,
+    "general": 7.7857,
+    "n": 42,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -11613,9 +11613,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -15986,8 +15986,8 @@ let profesores={
   },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
-    "general": 8.2254,
-    "n": 71,
+    "general": 8.2222,
+    "n": 72,
     "grupos": {
       "MAT-12220-CALCULO EN UNA VARIABLE": [
         {
@@ -17740,11 +17740,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
+    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "DAVID MORENO GUINEA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",

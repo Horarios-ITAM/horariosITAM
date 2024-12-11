@@ -1,4 +1,4 @@
-let actualizado="1733841871593.1973";
+let actualizado="1733928214719.409";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -16724,8 +16724,8 @@ let clases={
 let misProfesData={
   "CLAUDIA ABURTO RANCA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
-    "general": 8.9494,
-    "n": 79
+    "general": 8.925,
+    "n": 80
   },
   "GERARDO ACOSTA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Acosta-Garcia_105240",
@@ -16869,8 +16869,8 @@ let misProfesData={
   },
   "JOSE CALIXTO CANO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
-    "general": 6.5588,
-    "n": 34
+    "general": 6.5429,
+    "n": 35
   },
   "LUIS MANUEL CAMP MEJAN CARRER": {
     "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
@@ -17029,8 +17029,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.8049,
-    "n": 41
+    "general": 7.7857,
+    "n": 42
   },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
@@ -17084,13 +17084,13 @@ let misProfesData={
   },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
-    "general": 8.2254,
-    "n": 71
+    "general": 8.2222,
+    "n": 72
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17188,9 +17188,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -17204,8 +17204,8 @@ let misProfesData={
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
-    "general": 8.8021,
-    "n": 96
+    "general": 8.8041,
+    "n": 97
   },
   "SILVIA DEL CARMEN GUARDATI BUEMO": {
     "link": "https://www.misprofesores.com/profesores/Silvia-del-Carmen-Guardati-Buemo_10847",
