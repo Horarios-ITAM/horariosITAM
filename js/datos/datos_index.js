@@ -1,4 +1,4 @@
-let actualizado="1733928214719.409";
+let actualizado="1734014636797.381";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4922,8 +4922,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH108",
+        "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
       }
@@ -9210,15 +9210,15 @@ let clases={
         "nombre": "ECO-12105-ECONOMIA, V",
         "profesor": "CARLOS HURTADO LOPEZ",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "17:30-19:00",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RHSA1",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -9267,15 +9267,15 @@ let clases={
         "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
         "profesor": "CARLOS HURTADO LOPEZ",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "17:30-19:00",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RHSA1",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -11952,7 +11952,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHSA2",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -13889,14 +13889,14 @@ let clases={
         "nombre": "LEN-12725-COM. ESCRITA PARA ING MECATRO.",
         "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
-        "horario": "17:00-18:00",
+        "horario": "18:00-19:00",
         "dias": [
-          "JU"
+          "MI"
         ],
         "salon": "RHB-2",
         "campus": "RIO HONDO",
-        "inicio": "17:00",
-        "fin": "18:00"
+        "inicio": "18:00",
+        "fin": "19:00"
       }
     ]
   },
@@ -15325,7 +15325,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-14102-CALCULO DIF. E INT., III",
-        "profesor": "",
+        "profesor": "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS",
         "creditos": "8",
         "horario": "09:00-11:00",
         "dias": [
@@ -17188,9 +17188,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3636,
+    "n": 22
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -17304,8 +17304,8 @@ let misProfesData={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.6154,
-    "n": 26
+    "general": 7.6667,
+    "n": 27
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
@@ -17668,9 +17668,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
