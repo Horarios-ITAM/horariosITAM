@@ -1,4 +1,4 @@
-let actualizado="1734014636797.381";
+let actualizado="1734101005568.9976";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -623,34 +623,19 @@ let clases={
         "fin": "11:30"
       },
       {
-        "grupo": "003",
-        "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
-        "profesor": "FRANCISCO ANDRES GARRIDO SEPULVEDA",
-        "creditos": "6",
-        "horario": "08:30-10:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RHB-4",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
-      },
-      {
         "grupo": "004",
         "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
         "profesor": "FRANCISCO ANDRES GARRIDO SEPULVEDA",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "11:30-13:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH312",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -5220,15 +5205,15 @@ let clases={
         "nombre": "CSO-14042-POLITICA COMPARADA III",
         "profesor": "ERIC MAGAR MEURS",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "08:30-10:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH308",
+        "salon": "RH",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -5340,15 +5325,15 @@ let clases={
         "nombre": "CSO-15024-ELECCION PUBLICA III",
         "profesor": "ERIC MAGAR MEURS",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "10:00-11:30",
         "dias": [
           "LU",
           "MI"
         ],
         "salon": "RH308",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -12535,6 +12520,27 @@ let clases={
       }
     ]
   },
+  "IIO-14186": {
+    "nombre": "IIO-14186-ING. DE PROYECTOS SOSTENIBLES",
+    "clave": "IIO-14186",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "IIO-14186-ING. DE PROYECTOS SOSTENIBLES",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "19:00-20:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH315",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
+      }
+    ]
+  },
   "IIO-14187": {
     "nombre": "IIO-14187-PROYECTOS AGILE I",
     "clave": "IIO-14187",
@@ -13655,7 +13661,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH201",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "09:30"
@@ -13893,7 +13899,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHB-2",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:00"
@@ -13913,7 +13919,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:00"
@@ -17164,8 +17170,8 @@ let misProfesData={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.4773,
-    "n": 44
+    "general": 6.3778,
+    "n": 45
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",

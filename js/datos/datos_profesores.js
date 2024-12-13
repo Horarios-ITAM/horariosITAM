@@ -1,4 +1,4 @@
-let actualizado="1734014636812.3777";
+let actualizado="1734101005584.2068";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -678,6 +678,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "20:30",
           "fin": "22:00"
+        }
+      ],
+      "IIO-14186-ING. DE PROYECTOS SOSTENIBLES": [
+        {
+          "grupo": "001",
+          "nombre": "IIO-14186-ING. DE PROYECTOS SOSTENIBLES",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH315",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
         }
       ],
       "IIO-14278-ADMON. CADENA DE SUMINISTRO": [
@@ -1554,34 +1571,19 @@ let profesores={
     "grupos": {
       "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
         {
-          "grupo": "003",
-          "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
-          "profesor": "FRANCISCO ANDRES GARRIDO SEPULVEDA",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        },
-        {
           "grupo": "004",
           "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
           "profesor": "FRANCISCO ANDRES GARRIDO SEPULVEDA",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "11:30-13:00",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RHB-4",
+          "salon": "RH312",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -3170,8 +3172,8 @@ let profesores={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.4773,
-    "n": 44,
+    "general": 6.3778,
+    "n": 45,
     "grupos": {
       "COM-11102-ESTRUCTURAS DE DATOS-LAB": [
         {
@@ -6202,6 +6204,23 @@ let profesores={
           "nombre": "CSO-14042-POLITICA COMPARADA III",
           "profesor": "ERIC MAGAR MEURS",
           "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "CSO-15024-ELECCION PUBLICA III": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-15024-ELECCION PUBLICA III",
+          "profesor": "ERIC MAGAR MEURS",
+          "creditos": "6",
           "horario": "10:00-11:30",
           "dias": [
             "LU",
@@ -6211,23 +6230,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        }
-      ],
-      "CSO-15024-ELECCION PUBLICA III": [
-        {
-          "grupo": "001",
-          "nombre": "CSO-15024-ELECCION PUBLICA III",
-          "profesor": "ERIC MAGAR MEURS",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -14104,7 +14106,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHB-2",
+          "salon": "RHB-3",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:00"
@@ -14120,7 +14122,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:00"
@@ -14303,7 +14305,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH201",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "09:30"
