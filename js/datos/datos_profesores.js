@@ -1,4 +1,4 @@
-let actualizado="1734101005584.2068";
+let actualizado="1734187230303.7322";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -107,34 +107,33 @@ let profesores={
       ],
       "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
         {
-          "grupo": "001",
-          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        },
-        {
           "grupo": "002",
           "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
           "profesor": "",
           "creditos": "6",
-          "horario": "19:00-20:30",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-08:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RHB-4",
           "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ],
       "ADM-15582-FINZS. CORPORA. AVANZADAS": [
@@ -2272,6 +2271,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "JULIAN GOMEZ FAUSTINO": {
+    "grupos": {
+      "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
+          "profesor": "JULIAN GOMEZ FAUSTINO",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -4826,9 +4845,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5825,8 +5844,8 @@ let profesores={
   },
   "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
-    "general": 8.125,
-    "n": 16,
+    "general": 8.0,
+    "n": 17,
     "grupos": {
       "CSO-10003-SEMINARIO DE ANALISIS POLITICO": [
         {
@@ -8151,6 +8170,9 @@ let profesores={
     }
   },
   "JESUS ADRIAN CRESPO FARRERA": {
+    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adrian-Crespo-Ferrera_180909",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "DER-14606-DERECHO PROCESAL PENAL": [
         {
@@ -9059,8 +9081,8 @@ let profesores={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.5101,
-    "n": 149,
+    "general": 9.5133,
+    "n": 150,
     "grupos": {
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
@@ -9787,9 +9809,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10234,9 +10256,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -11306,8 +11325,8 @@ let profesores={
   },
   "CARLOS JEFFREY MCCADDEN MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Jeffrey-McCadden-Mart\u00ednez_10822",
-    "general": 5.6075,
-    "n": 186,
+    "general": 5.5989,
+    "n": 187,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -11598,9 +11617,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -14407,8 +14426,8 @@ let profesores={
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
-    "general": 4.4286,
-    "n": 14,
+    "general": 4.5333,
+    "n": 15,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17703,9 +17722,9 @@ let mejoresPorDepto={
   "CIENCIA POLITICA": [
     "FELIPE CURCO COBOS",
     "HORACIO VIVES SEGL",
-    "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
+    "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI",
     "ALBERTO SIMPSER MONDLAK",
@@ -17715,17 +17734,18 @@ let mejoresPorDepto={
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
     "JULIO ANTONIO RIOS FIGUEROA",
+    "JESUS ADRIAN CRESPO FARRERA",
     "DENISE MEJAN GANEM",
     "JOSE OMAR HERNANDEZ SALGADO",
     "JOSE LUIS CABALLERO RODRIGUEZ",
     "FRANCO ALBERTO DEL VALLE PRADO",
     "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
     "IRVIN ARTURO CASTILLO CESAREO",
-    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
-    "AMRITA BAHRI"
+    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -17733,7 +17753,6 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
@@ -17742,11 +17761,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "DAVID MORENO GUINEA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",

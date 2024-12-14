@@ -1,4 +1,4 @@
-let actualizado="1734101005568.9976";
+let actualizado="1734187230288.7131";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -1290,32 +1290,45 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-        "profesor": "",
+        "profesor": "JULIAN GOMEZ FAUSTINO",
         "creditos": "6",
-        "horario": "19:00-20:30",
+        "horario": "19:00-22:00",
         "dias": [
-          "LU",
-          "MI"
+          "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "19:00",
-        "fin": "20:30"
+        "fin": "22:00"
       },
       {
         "grupo": "002",
         "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
         "profesor": "",
         "creditos": "6",
-        "horario": "19:00-20:30",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RHB-3",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "07:00-08:30",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RHB-4",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "20:30"
+        "inicio": "07:00",
+        "fin": "08:30"
       }
     ]
   },
@@ -16753,11 +16766,6 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -16825,8 +16833,8 @@ let misProfesData={
   },
   "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
-    "general": 8.125,
-    "n": 16
+    "general": 8.0,
+    "n": 17
   },
   "ABIMAEL JAVIER BENGOCHEA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
@@ -16970,8 +16978,8 @@ let misProfesData={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.5101,
-    "n": 149
+    "general": 9.5133,
+    "n": 150
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
@@ -16982,6 +16990,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Josefina-Cort\u00e9s-Campos_10790",
     "general": 7.4444,
     "n": 27
+  },
+  "JESUS ADRIAN CRESPO FARRERA": {
+    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adrian-Crespo-Ferrera_180909",
+    "general": 10.0,
+    "n": 1
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
@@ -17094,9 +17107,9 @@ let misProfesData={
     "n": 72
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17194,9 +17207,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3636,
-    "n": 22
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -17315,8 +17328,8 @@ let misProfesData={
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
-    "general": 4.4286,
-    "n": 14
+    "general": 4.5333,
+    "n": 15
   },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
@@ -17385,8 +17398,8 @@ let misProfesData={
   },
   "CARLOS JEFFREY MCCADDEN MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Jeffrey-McCadden-Mart\u00ednez_10822",
-    "general": 5.6075,
-    "n": 186
+    "general": 5.5989,
+    "n": 187
   },
   "JOSE JAVIER MEDRANO PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
@@ -17674,9 +17687,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
