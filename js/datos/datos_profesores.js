@@ -1,4 +1,4 @@
-let actualizado="1734360248934.0623";
+let actualizado="1734446621463.905";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -247,22 +247,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
-        }
-      ],
-      "CON-15001-IMPUESTOS CORPORATIVOS, I": [
-        {
-          "grupo": "003",
-          "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF106",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "CON-15002-IMPUESTOS CORPORATIVOS, II": [
@@ -1049,6 +1033,23 @@ let profesores={
           "inicio": "10:00",
           "fin": "11:30"
         }
+      ],
+      "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
+        {
+          "grupo": "004",
+          "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
+          "profesor": "CLAUDIA NOEMI GONZALEZ BRAMBILA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH312",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
       ]
     }
   },
@@ -1559,30 +1560,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        }
-      ]
-    }
-  },
-  "FRANCISCO ANDRES GARRIDO SEPULVEDA": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Andres-Garrido-Sepulveda_136156",
-    "general": 6.2857,
-    "n": 7,
-    "grupos": {
-      "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
-        {
-          "grupo": "004",
-          "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
-          "profesor": "FRANCISCO ANDRES GARRIDO SEPULVEDA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH312",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ]
     }
@@ -4050,15 +4027,15 @@ let profesores={
           "nombre": "COM-22105-SISTEMAS DISTRIBUIDOS",
           "profesor": "JOSE OCTAVIO GUTIERREZ GARCIA",
           "creditos": "8",
-          "horario": "17:30-19:30",
+          "horario": "16:00-18:00",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "RHCC201",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ]
     }
@@ -4147,8 +4124,8 @@ let profesores={
   },
   "CARLOS EMILIO GALINDO FLORES": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
-    "general": 7.4531,
-    "n": 64,
+    "general": 7.4,
+    "n": 65,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -4584,10 +4561,10 @@ let profesores={
           "creditos": "8",
           "horario": "07:00-09:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RHCC102",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -5761,6 +5738,26 @@ let profesores={
       ]
     }
   },
+  "ANA GABRIELA VAZQUEZ VELAZQUEZ": {
+    "grupos": {
+      "CON-15001-IMPUESTOS CORPORATIVOS, I": [
+        {
+          "grupo": "003",
+          "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
+          "profesor": "ANA GABRIELA VAZQUEZ VELAZQUEZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF106",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "NOE HERNANDEZ ORTIZ": {
     "grupos": {
       "CON-15002-IMPUESTOS CORPORATIVOS, II": [
@@ -6447,6 +6444,22 @@ let profesores={
           "inicio": "07:00",
           "fin": "10:00"
         }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "MARIANA AGUILAR AGUILAR",
+          "creditos": "9",
+          "horario": "10:00-11:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
       ]
     }
   },
@@ -6542,22 +6555,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ],
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "ALEJANDRO  RODILES BRETON",
-          "creditos": "9",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "DER-18600-DERECHO INTERNACIONAL I": [
@@ -6937,43 +6934,43 @@ let profesores={
       ]
     }
   },
-  "PABLO ARIEL RAPETTI": {
-    "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.2,
-    "n": 20,
+  "ALBERTO PUPPO": {
+    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
+    "general": 8.3056,
+    "n": 36,
     "grupos": {
       "DER-11101-TEORIA DEL DERECHO, I": [
         {
           "grupo": "001",
           "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-          "profesor": "PABLO ARIEL RAPETTI",
+          "profesor": "ALBERTO PUPPO",
           "creditos": "10",
-          "horario": "16:00-18:00",
+          "horario": "17:30-19:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
           "salon": "RH317",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ],
       "DER-11122-TEOR\u00cdA DEL DERECHO I": [
         {
           "grupo": "001",
           "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-          "profesor": "PABLO ARIEL RAPETTI",
+          "profesor": "ALBERTO PUPPO",
           "creditos": "9",
-          "horario": "16:00-17:30",
+          "horario": "17:30-19:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
           "salon": "RH317",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -10256,9 +10253,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -11394,8 +11388,8 @@ let profesores={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.455,
-    "n": 222,
+    "general": 6.4619,
+    "n": 223,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -11620,9 +11614,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -13497,15 +13491,15 @@ let profesores={
           "nombre": "IIO-14162-ING. Y CONTROL DE LA CALIDAD",
           "profesor": "ELIAS HERIBERTO ARIAS NAVA",
           "creditos": "6",
-          "horario": "12:30-14:00",
+          "horario": "17:30-19:00",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RHPACE",
           "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ],
       "IIO-14193-ING. DE PROCESOS DE NEGOCIOS": [
@@ -17764,11 +17758,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "DAVID MORENO GUINEA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",

@@ -1,4 +1,4 @@
-let actualizado="1734360248918.3032";
+let actualizado="1734446621447.355";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -625,7 +625,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
-        "profesor": "FRANCISCO ANDRES GARRIDO SEPULVEDA",
+        "profesor": "CLAUDIA NOEMI GONZALEZ BRAMBILA",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -3600,15 +3600,15 @@ let clases={
         "nombre": "COM-22105-SISTEMAS DISTRIBUIDOS",
         "profesor": "JOSE OCTAVIO GUTIERREZ GARCIA",
         "creditos": "8",
-        "horario": "17:30-19:30",
+        "horario": "16:00-18:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RHCC201",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:30"
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -3644,10 +3644,10 @@ let clases={
         "creditos": "8",
         "horario": "07:00-09:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RHCC102",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -4777,7 +4777,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
-        "profesor": "",
+        "profesor": "ANA GABRIELA VAZQUEZ VELAZQUEZ",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -5691,16 +5691,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "ALEJANDRO  RODILES BRETON",
+        "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "07:00-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "RH308",
+        "salon": "RH107",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -5938,17 +5938,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "PABLO ARIEL RAPETTI",
+        "profesor": "ALBERTO PUPPO",
         "creditos": "10",
-        "horario": "16:00-18:00",
+        "horario": "17:30-19:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
         "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "18:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6501,17 +6501,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-        "profesor": "PABLO ARIEL RAPETTI",
+        "profesor": "ALBERTO PUPPO",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "17:30-19:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
         "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -12486,15 +12486,15 @@ let clases={
         "nombre": "IIO-14162-ING. Y CONTROL DE LA CALIDAD",
         "profesor": "ELIAS HERIBERTO ARIAS NAVA",
         "creditos": "6",
-        "horario": "12:30-14:00",
+        "horario": "17:30-19:00",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RHPACE",
         "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -16766,11 +16766,6 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -17112,9 +17107,9 @@ let misProfesData={
     "n": 72
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17148,8 +17143,8 @@ let misProfesData={
   },
   "CARLOS EMILIO GALINDO FLORES": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
-    "general": 7.4531,
-    "n": 64
+    "general": 7.4,
+    "n": 65
   },
   "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
@@ -17176,11 +17171,6 @@ let misProfesData={
     "general": 9.4444,
     "n": 9
   },
-  "FRANCISCO ANDRES GARRIDO SEPULVEDA": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Andres-Garrido-Sepulveda_136156",
-    "general": 6.2857,
-    "n": 7
-  },
   "MARIA CRISTINA GIGOLA PAGLIALUNGA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Gigola-Paglialunga_10861",
     "general": 5.6429,
@@ -17203,8 +17193,8 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.455,
-    "n": 222
+    "general": 6.4619,
+    "n": 223
   },
   "CARLOS GONZALEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
@@ -17635,6 +17625,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
     "general": 7.1618,
     "n": 68
+  },
+  "ALBERTO PUPPO": {
+    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
+    "general": 8.3056,
+    "n": 36
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
