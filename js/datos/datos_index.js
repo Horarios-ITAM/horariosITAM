@@ -1,4 +1,4 @@
-let actualizado="1734446621447.355";
+let actualizado="1734532967733.122";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -1302,20 +1302,6 @@ let clases={
         "fin": "22:00"
       },
       {
-        "grupo": "002",
-        "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "19:00-22:00",
-        "dias": [
-          "MI"
-        ],
-        "salon": "RHB-3",
-        "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "22:00"
-      },
-      {
         "grupo": "003",
         "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
         "profesor": "",
@@ -1434,14 +1420,14 @@ let clases={
         "nombre": "ADM-15531-MERCADOS E INSTITUCS. FINANCS.",
         "profesor": "ANURAG SINGH",
         "creditos": "6",
-        "horario": "08:00-11:00",
+        "horario": "07:00-10:00",
         "dias": [
           "LU"
         ],
         "salon": "RHSA4",
         "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "11:00"
+        "inicio": "07:00",
+        "fin": "10:00"
       },
       {
         "grupo": "002",
@@ -5016,8 +5002,8 @@ let clases={
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
         "salon": "RH210",
         "campus": "RIO HONDO",
@@ -5691,16 +5677,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "MARIANA AGUILAR AGUILAR",
+        "profesor": "ALEJANDRO  RODILES BRETON",
         "creditos": "9",
-        "horario": "10:00-11:30",
+        "horario": "07:00-10:00",
         "dias": [
-          "JU"
+          "VI"
         ],
-        "salon": "RH107",
+        "salon": "RH308",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -5938,17 +5924,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "ALBERTO PUPPO",
+        "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "10",
-        "horario": "17:30-19:00",
+        "horario": "16:00-18:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
         "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -6501,17 +6487,37 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-        "profesor": "ALBERTO PUPPO",
+        "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
         "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "17:30"
+      }
+    ]
+  },
+  "DER-11123": {
+    "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)",
+    "clave": "DER-11123",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)",
+        "profesor": "HANNAH BIRKENKOTTER",
+        "creditos": "2",
+        "horario": "16:00-18:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH102",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -6991,7 +6997,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13403-OBLIGACIONES",
-        "profesor": "",
+        "profesor": "LUIS ASALI HARFUCH",
         "creditos": "8",
         "horario": "07:00-09:00",
         "dias": [
@@ -7006,7 +7012,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-13403-OBLIGACIONES",
-        "profesor": "",
+        "profesor": "ALFONSO PASAPERA MORA",
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
@@ -7333,14 +7339,14 @@ let clases={
         "nombre": "DER-15082-DER.  HUM EN EL PROCEDIM PENAL",
         "profesor": "ALFREDO GUTIERREZ ORTIZ MENA",
         "creditos": "4",
-        "horario": "09:00-11:00",
+        "horario": "08:00-10:00",
         "dias": [
           "VI"
         ],
         "salon": "RHSA2",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
+        "inicio": "08:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -7517,14 +7523,14 @@ let clases={
         "nombre": "DER-16057-DERECHO DE LA COMPETENCIA ECON",
         "profesor": "",
         "creditos": "4",
-        "horario": "09:00-11:00",
+        "horario": "08:00-10:00",
         "dias": [
           "VI"
         ],
-        "salon": "RH305",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
+        "inicio": "08:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -7921,7 +7927,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-17703-DERECHO FISCAL I",
-        "profesor": "",
+        "profesor": "JUAN CARLOS ROA JACOBO",
         "creditos": "8",
         "horario": "07:00-09:00",
         "dias": [
@@ -7936,7 +7942,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-17703-DERECHO FISCAL I",
-        "profesor": "",
+        "profesor": "FERNANDO BUENO AJA",
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
@@ -8386,15 +8392,15 @@ let clases={
         "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
         "profesor": "CHRISTINA CORNEJO VAN LUIT",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "10:30-12:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH317",
+        "salon": "RH313",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "10:30",
+        "fin": "12:00"
       }
     ]
   },
@@ -9004,6 +9010,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
+      }
+    ]
+  },
+  "ECO-11227": {
+    "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
+    "clave": "ECO-11227",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
+        "profesor": "ROMANS PANCS",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHB-4",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -11704,7 +11731,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.",
-        "profesor": "LILIANA DE LA TORRE DESENTIS",
+        "profesor": "DANTE GABRIEL CAMPOS SALIDO",
         "creditos": "8",
         "horario": "11:00-13:00",
         "dias": [
@@ -14036,14 +14063,14 @@ let clases={
         "nombre": "LEN-12755-COMUN. PROFESIONAL PARA C. POL",
         "profesor": "DIANA LUCIA ALVAREZ MACIAS",
         "creditos": "2",
-        "horario": "13:00-14:00",
+        "horario": "08:00-09:00",
         "dias": [
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH210",
         "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:00"
+        "inicio": "08:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -16766,6 +16793,11 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
+  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -16860,6 +16892,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Felipe-Brugu\u00e9s-Rodr\u00edguez_160059",
     "general": 9.6667,
     "n": 3
+  },
+  "FERNANDO BUENO AJA": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
+    "general": 6.5,
+    "n": 8
   },
   "ERIKA BURGOS PADILLA": {
     "link": "https://www.misprofesores.com/profesores/Erika-Burgos-Padilla_67467",
@@ -17018,8 +17055,8 @@ let misProfesData={
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.875,
-    "n": 8
+    "general": 9.7778,
+    "n": 9
   },
   "POLUX ERNESTO DIAZ RUIZ": {
     "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
@@ -17073,8 +17110,8 @@ let misProfesData={
   },
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
-    "general": 7.1143,
-    "n": 35
+    "general": 7.0,
+    "n": 36
   },
   "ALEXANDROS FAKOS": {
     "link": "https://www.misprofesores.com/profesores/Alexandros-Fakos_73366",
@@ -17107,9 +17144,9 @@ let misProfesData={
     "n": 72
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17553,13 +17590,23 @@ let misProfesData={
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
-    "general": 7.0,
-    "n": 16
+    "general": 6.7647,
+    "n": 17
+  },
+  "ROMANS PANCS": {
+    "link": "https://www.misprofesores.com/profesores/Romans-Pancs_104518",
+    "general": 4.8889,
+    "n": 9
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
     "general": 6.2162,
     "n": 37
+  },
+  "ALFONSO PASAPERA MORA": {
+    "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
+    "general": 7.7941,
+    "n": 68
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
@@ -17625,11 +17672,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
     "general": 7.1618,
     "n": 68
-  },
-  "ALBERTO PUPPO": {
-    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
-    "general": 8.3056,
-    "n": 36
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
