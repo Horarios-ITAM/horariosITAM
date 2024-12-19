@@ -1,4 +1,4 @@
-let actualizado="1734532967733.122";
+let actualizado="1734619370019.6763";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -911,7 +911,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-14401-COMPORTAMIENTO HUMANO, I",
-        "profesor": "ADRIANA MALDONADO TORRES",
+        "profesor": "MARIA DE LA CRUZ TORRES MANTECON",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -966,16 +966,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
-        "profesor": "ADRIANA MALDONADO TORRES",
+        "profesor": "MARIA DE LA CRUZ TORRES MANTECON",
         "creditos": "6",
-        "horario": "10:00-12:00",
+        "horario": "10:00-13:00",
         "dias": [
           "LU"
         ],
         "salon": "PF102",
         "campus": "RIO HONDO",
         "inicio": "10:00",
-        "fin": "12:00"
+        "fin": "13:00"
       }
     ]
   },
@@ -2383,47 +2383,6 @@ let clases={
   "CLE-10518": {
     "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
     "clave": "CLE-10518",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
-        "profesor": "MARIA MONICA CUELLAR AYALA",
-        "creditos": "7",
-        "horario": "15:00-16:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH204",
-        "campus": "RIO HONDO",
-        "inicio": "15:00",
-        "fin": "16:30"
-      }
-    ]
-  },
-  "CLE-10603-LAB": {
-    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-    "clave": "CLE-10603",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-        "profesor": "MARCELA RABADAN GALLARDO",
-        "creditos": "0",
-        "horario": "16:00-18:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "",
-        "campus": "",
-        "inicio": "16:00",
-        "fin": "18:00"
-      }
-    ]
-  },
-  "CLE-10603": {
-    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM",
-    "clave": "CLE-10603",
     "grupos": []
   },
   "COM-11101": {
@@ -3162,7 +3121,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "COM-16305-GESTION DE DATOS",
-        "profesor": "PAULINA BUSTOS ARELLANO",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -4797,7 +4756,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
-        "profesor": "",
+        "profesor": "LUIS ANTHAR GONZALEZ RODRIGUEZ",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -10124,7 +10083,7 @@ let clases={
         "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
         "profesor": "MARIA ARIETTE ALVAREZ KURI",
         "creditos": "6",
-        "horario": "08:00-09:00",
+        "horario": "07:00-08:00",
         "dias": [
           "LU",
           "MI",
@@ -10132,8 +10091,8 @@ let clases={
         ],
         "salon": "RH207",
         "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "09:00"
+        "inicio": "07:00",
+        "fin": "08:00"
       },
       {
         "grupo": "002",
@@ -10666,7 +10625,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "JOSE MANUEL OROZCO GARIBAY",
+        "profesor": "MARIA DE LOURDES IBARRA Y HERRERIAS",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -10882,7 +10841,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-        "profesor": "MARIA DE LOURDES IBARRA Y HERRERIAS",
+        "profesor": "JOSE MANUEL OROZCO GARIBAY",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -11733,15 +11692,15 @@ let clases={
         "nombre": "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.",
         "profesor": "DANTE GABRIEL CAMPOS SALIDO",
         "creditos": "8",
-        "horario": "11:00-13:00",
+        "horario": "19:00-21:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "VI"
         ],
-        "salon": "PF105",
+        "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "13:00"
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -14341,14 +14300,14 @@ let clases={
         "nombre": "LEN-12766-COM. PROFES. PARA ING. EN NEG.",
         "profesor": "HECTOR JIMENEZ LANDIN",
         "creditos": "2",
-        "horario": "18:00-19:00",
+        "horario": "19:00-20:00",
         "dias": [
-          "MI"
+          "JU"
         ],
-        "salon": "PF105",
+        "salon": "RH112",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:00"
+        "inicio": "19:00",
+        "fin": "20:00"
       }
     ]
   },
@@ -16793,11 +16752,6 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -17085,8 +17039,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7857,
-    "n": 42
+    "general": 7.7674,
+    "n": 43
   },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
@@ -17120,8 +17074,8 @@ let misProfesData={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 8.5,
-    "n": 6
+    "general": 7.7143,
+    "n": 7
   },
   "JUAN JOSE FERNANDEZ DURAN": {
     "link": "https://www.misprofesores.com/profesores/Juan-Jos\u00e9-Fern\u00e1ndez-Dur\u00e1n_10690",
@@ -17144,9 +17098,9 @@ let misProfesData={
     "n": 72
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",

@@ -1,4 +1,4 @@
-let actualizado="1734532967757.8047";
+let actualizado="1734619370042.5044";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -219,6 +219,23 @@ let profesores={
           "fin": "14:00"
         }
       ],
+      "COM-16305-GESTION DE DATOS": [
+        {
+          "grupo": "002",
+          "nombre": "COM-16305-GESTION DE DATOS",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
       "CON-14111-INTROD A CONTADURIA ANALITICA": [
         {
           "grupo": "001",
@@ -233,22 +250,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
-        }
-      ],
-      "CON-15002-IMPUESTOS CORPORATIVOS, II": [
-        {
-          "grupo": "002",
-          "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "CSO-16049-TOPICOS DE POL. PUBLICAS II": [
@@ -1741,6 +1742,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-14401-COMPORTAMIENTO HUMANO, I",
+          "profesor": "MARIA DE LA CRUZ TORRES MANTECON",
+          "creditos": "6",
+          "horario": "10:00-13:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
         }
       ],
       "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I": [
@@ -1757,17 +1772,11 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "ADRIANA MALDONADO TORRES": {
-    "grupos": {
-      "ADM-14401-COMPORTAMIENTO HUMANO, I": [
+        },
         {
           "grupo": "002",
-          "nombre": "ADM-14401-COMPORTAMIENTO HUMANO, I",
-          "profesor": "ADRIANA MALDONADO TORRES",
+          "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
+          "profesor": "MARIA DE LA CRUZ TORRES MANTECON",
           "creditos": "6",
           "horario": "10:00-13:00",
           "dias": [
@@ -1777,22 +1786,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
-        }
-      ],
-      "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
-          "profesor": "ADRIANA MALDONADO TORRES",
-          "creditos": "6",
-          "horario": "10:00-12:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
         }
       ]
     }
@@ -2929,123 +2922,6 @@ let profesores={
           "inicio": "16:30",
           "fin": "17:00"
         }
-      ],
-      "CLE-10518-COMMUNICATION IN SPANISH III": [
-        {
-          "grupo": "001",
-          "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
-          "profesor": "MARIA MONICA CUELLAR AYALA",
-          "creditos": "7",
-          "horario": "15:00-16:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH204",
-          "campus": "RIO HONDO",
-          "inicio": "15:00",
-          "fin": "16:30"
-        }
-      ]
-    }
-  },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19,
-    "grupos": {
-      "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "0",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "",
-          "campus": "",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "007",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ],
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
       ]
     }
   },
@@ -3622,23 +3498,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ],
-      "COM-16305-GESTION DE DATOS": [
-        {
-          "grupo": "002",
-          "nombre": "COM-16305-GESTION DE DATOS",
-          "profesor": "PAULINA BUSTOS ARELLANO",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF104",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -5693,6 +5552,26 @@ let profesores={
             "MI"
           ],
           "salon": "RHSA4",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "LUIS ANTHAR GONZALEZ RODRIGUEZ": {
+    "grupos": {
+      "CON-15002-IMPUESTOS CORPORATIVOS, II": [
+        {
+          "grupo": "002",
+          "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
+          "profesor": "LUIS ANTHAR GONZALEZ RODRIGUEZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH306",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -10305,9 +10184,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -10895,7 +10771,7 @@ let profesores={
           "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
           "profesor": "MARIA ARIETTE ALVAREZ KURI",
           "creditos": "6",
-          "horario": "08:00-09:00",
+          "horario": "07:00-08:00",
           "dias": [
             "LU",
             "MI",
@@ -10903,8 +10779,8 @@ let profesores={
           ],
           "salon": "RH207",
           "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
+          "inicio": "07:00",
+          "fin": "08:00"
         }
       ]
     }
@@ -11071,8 +10947,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7857,
-    "n": 42,
+    "general": 7.7674,
+    "n": 43,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -11521,16 +11397,13 @@ let profesores={
       ]
     }
   },
-  "JOSE MANUEL OROZCO GARIBAY": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
-    "general": 5.6364,
-    "n": 165,
+  "MARIA DE LOURDES IBARRA Y HERRERIAS": {
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
           "grupo": "003",
           "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "JOSE MANUEL OROZCO GARIBAY",
+          "profesor": "MARIA DE LOURDES IBARRA Y HERRERIAS",
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
@@ -11669,9 +11542,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -11772,13 +11645,16 @@ let profesores={
       ]
     }
   },
-  "MARIA DE LOURDES IBARRA Y HERRERIAS": {
+  "JOSE MANUEL OROZCO GARIBAY": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
+    "general": 5.6364,
+    "n": 165,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
           "grupo": "004",
           "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-          "profesor": "MARIA DE LOURDES IBARRA Y HERRERIAS",
+          "profesor": "JOSE MANUEL OROZCO GARIBAY",
           "creditos": "6",
           "horario": "11:30-13:00",
           "dias": [
@@ -12790,15 +12666,15 @@ let profesores={
           "nombre": "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.",
           "profesor": "DANTE GABRIEL CAMPOS SALIDO",
           "creditos": "8",
-          "horario": "11:00-13:00",
+          "horario": "19:00-21:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "VI"
           ],
-          "salon": "PF105",
+          "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "13:00"
+          "inicio": "19:00",
+          "fin": "21:00"
         }
       ],
       "EST-24107-SIMULACION": [
@@ -14560,6 +14436,90 @@ let profesores={
       ]
     }
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19,
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "007",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ],
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
     "general": 8.0,
@@ -15449,14 +15409,14 @@ let profesores={
           "nombre": "LEN-12766-COM. PROFES. PARA ING. EN NEG.",
           "profesor": "HECTOR JIMENEZ LANDIN",
           "creditos": "2",
-          "horario": "18:00-19:00",
+          "horario": "19:00-20:00",
           "dias": [
-            "MI"
+            "JU"
           ],
-          "salon": "PF105",
+          "salon": "RH112",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
+          "inicio": "19:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -15525,8 +15485,8 @@ let profesores={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 8.5,
-    "n": 6,
+    "general": 7.7143,
+    "n": 7,
     "grupos": {
       "MAT-11101-MATEMATICAS, II": [
         {
@@ -17741,7 +17701,6 @@ let mejoresPorDepto={
     "MARGARITA TARRAGONA SAEZ"
   ],
   "LENGUAS (CLE)": [
-    "MARCELA RABADAN GALLARDO",
     "ELSA VIVIANA OROPEZA GRACIA",
     "MARIA GRACE  NOBILE",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
@@ -17813,11 +17772,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "DAVID MORENO GUINEA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -17859,13 +17818,13 @@ let mejoresPorDepto={
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
+    "MARCELA RABADAN GALLARDO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
     "JAVIER MARTINEZ VILLARROYA",
     "JORGE NEME SANCHEZ",
-    "LUCIA PI CHOLULA",
-    "ALEJANDRA SOLIS GONZALEZ"
+    "LUCIA PI CHOLULA"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
@@ -17874,10 +17833,10 @@ let mejoresPorDepto={
     "JORGE ALCALDE MARTIN DEL CAMPO",
     "CONCEPCION RUIZ RUIZ FUNES",
     "JOSE PABLO OLIVARES PRETELIN",
-    "LYSETTE FELIX FELIX",
     "SHARON MAGALI VALVERDE ESPARZA",
     "LEOBARDO FERNANDEZ ROMAN",
-    "JOSE EZEQUIEL SOTO SANCHEZ"
+    "JOSE EZEQUIEL SOTO SANCHEZ",
+    "MARTHA LORENA ZOGAIB ACHCAR"
   ],
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER VILLA LOPEZ",
