@@ -1,17 +1,20 @@
-let actualizado="1734619370042.5044";
+let actualizado="1734705625261.4617";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
 let dropDownUrl="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios1?s=2717";
 let formPostUrl="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios2";
 let profesores={
-  "": {
+  "SERGIO GARCIA ALQUICIRA": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
+    "general": 7.3636,
+    "n": 33,
     "grupos": {
       "ACT-11300-CALCULO ACTUARIAL I": [
         {
           "grupo": "001",
           "nombre": "ACT-11300-CALCULO ACTUARIAL I",
-          "profesor": "",
+          "profesor": "SERGIO GARCIA ALQUICIRA",
           "creditos": "6",
           "horario": "19:00-20:30",
           "dias": [
@@ -22,28 +25,13 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ACT-11300-CALCULO ACTUARIAL I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ],
       "ACT-11303-MODELOS ACTUARIALES I": [
         {
           "grupo": "001",
           "nombre": "ACT-11303-MODELOS ACTUARIALES I",
-          "profesor": "",
+          "profesor": "SERGIO GARCIA ALQUICIRA",
           "creditos": "6",
           "horario": "20:30-22:00",
           "dias": [
@@ -55,7 +43,244 @@ let profesores={
           "inicio": "20:30",
           "fin": "22:00"
         }
+      ]
+    }
+  },
+  "PEDRO DANIEL TREJO SOLIS": {
+    "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
+    "general": 6.4167,
+    "n": 12,
+    "grupos": {
+      "ACT-11300-CALCULO ACTUARIAL I": [
+        {
+          "grupo": "002",
+          "nombre": "ACT-11300-CALCULO ACTUARIAL I",
+          "profesor": "PEDRO DANIEL TREJO SOLIS",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "ERIKA GEORGINA CHAVEZ PIEDRA BUENA": {
+    "link": "https://www.misprofesores.com/profesores/Erika-Georgina-Ch\u00e1vez-Piedra-Buena_79956",
+    "general": 7.1875,
+    "n": 16,
+    "grupos": {
+      "ACT-11301-CALCULO ACTUARIAL II": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-11301-CALCULO ACTUARIAL II",
+          "profesor": "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
+          "creditos": "6",
+          "horario": "20:30-22:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "20:30",
+          "fin": "22:00"
+        }
       ],
+      "ACT-15357-PRINCIPIOS DEL SEGURO": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-15357-PRINCIPIOS DEL SEGURO",
+          "profesor": "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "DAVID RUELAS RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
+    "general": 9.2239,
+    "n": 67,
+    "grupos": {
+      "ACT-11302-CALCULO ACTUARIAL III": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-11302-CALCULO ACTUARIAL III",
+          "profesor": "DAVID RUELAS RODRIGUEZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "MARIA MERCEDES GREGORIO DOMINGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Mercedes-Gregorio-Dom\u00ednguez_10676",
+    "general": 8.25,
+    "n": 12,
+    "grupos": {
+      "ACT-13307-ESTAD. APLICADA A LA ACTUARIA": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-13307-ESTAD. APLICADA A LA ACTUARIA",
+          "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ACT-22306-MATEMATICAS FINANCIERAS II": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-22306-MATEMATICAS FINANCIERAS II",
+          "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "GABRIELA MELENDEZ VARGAS": {
+    "grupos": {
+      "ACT-15352-PLANES DE BENEFICIOS": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-15352-PLANES DE BENEFICIOS",
+          "profesor": "GABRIELA MELENDEZ VARGAS",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-los-\u00c1ngeles-Ya\u00f1ez-Acosta_20034",
+    "general": 8.0714,
+    "n": 14,
+    "grupos": {
+      "ACT-15353-PRACTICA ACTUAR. Y MARCO INST.": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-15353-PRACTICA ACTUAR. Y MARCO INST.",
+          "profesor": "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "ACT-15360-INTRODUCCION A LA ACTUARIA": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-15360-INTRODUCCION A LA ACTUARIA",
+          "profesor": "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
+    "general": 6.35,
+    "n": 20,
+    "grupos": {
+      "ACT-15358-SISTEMAS DE SEGUROS": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-15358-SISTEMAS DE SEGUROS",
+          "profesor": "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "MAT-22600-MATEMATICAS FINANCIERAS I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-22600-MATEMATICAS FINANCIERAS I",
+          "profesor": "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
       "ACT-22309-MATEMATICAS FINANCIERAS, III": [
         {
           "grupo": "001",
@@ -71,22 +296,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
-        }
-      ],
-      "ACT-25354-ADMON. CUANTITATIVA DE RIESGOS": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-25354-ADMON. CUANTITATIVA DE RIESGOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
         }
       ],
       "ADM-12092-CONSULTORIA (OP)": [
@@ -234,22 +443,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
-        }
-      ],
-      "CON-14111-INTROD A CONTADURIA ANALITICA": [
-        {
-          "grupo": "001",
-          "nombre": "CON-14111-INTROD A CONTADURIA ANALITICA",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "18:00-20:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH314",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
         }
       ],
       "CSO-16049-TOPICOS DE POL. PUBLICAS II": [
@@ -552,40 +745,6 @@ let profesores={
           "fin": "13:00"
         }
       ],
-      "EST-14101-CALCULO DE PROBABILIDADES.,I": [
-        {
-          "grupo": "002",
-          "nombre": "EST-14101-CALCULO DE PROBABILIDADES.,I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "20:30-22:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "20:30",
-          "fin": "22:00"
-        }
-      ],
-      "EST-24126-CALCULO DE PROBABILIDADES I": [
-        {
-          "grupo": "002",
-          "nombre": "EST-24126-CALCULO DE PROBABILIDADES I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "20:30-22:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "20:30",
-          "fin": "22:00"
-        }
-      ],
       "IIO-14186-ING. DE PROYECTOS SOSTENIBLES": [
         {
           "grupo": "001",
@@ -685,231 +844,25 @@ let profesores={
           "inicio": "07:00",
           "fin": "08:30"
         }
-      ],
-      "MAT-24720-TEMAS SELECTOS DE MAT. APL. I": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-24720-TEMAS SELECTOS DE MAT. APL. I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "12:30-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
-        }
       ]
     }
   },
-  "ERIKA GEORGINA CHAVEZ PIEDRA BUENA": {
-    "link": "https://www.misprofesores.com/profesores/Erika-Georgina-Ch\u00e1vez-Piedra-Buena_79956",
-    "general": 7.1875,
-    "n": 16,
+  "FRANCISCO GERARDO CESAR MEDINA": {
     "grupos": {
-      "ACT-11301-CALCULO ACTUARIAL II": [
+      "ACT-25354-ADMON. CUANTITATIVA DE RIESGOS": [
         {
           "grupo": "001",
-          "nombre": "ACT-11301-CALCULO ACTUARIAL II",
-          "profesor": "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
+          "nombre": "ACT-25354-ADMON. CUANTITATIVA DE RIESGOS",
+          "profesor": "FRANCISCO GERARDO CESAR MEDINA",
           "creditos": "6",
-          "horario": "20:30-22:00",
+          "horario": "16:00-19:00",
           "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH110",
-          "campus": "RIO HONDO",
-          "inicio": "20:30",
-          "fin": "22:00"
-        }
-      ],
-      "ACT-15357-PRINCIPIOS DEL SEGURO": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-15357-PRINCIPIOS DEL SEGURO",
-          "profesor": "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ]
-    }
-  },
-  "DAVID RUELAS RODRIGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
-    "general": 9.2239,
-    "n": 67,
-    "grupos": {
-      "ACT-11302-CALCULO ACTUARIAL III": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-11302-CALCULO ACTUARIAL III",
-          "profesor": "DAVID RUELAS RODRIGUEZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "MARIA MERCEDES GREGORIO DOMINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Mercedes-Gregorio-Dom\u00ednguez_10676",
-    "general": 8.25,
-    "n": 12,
-    "grupos": {
-      "ACT-13307-ESTAD. APLICADA A LA ACTUARIA": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-13307-ESTAD. APLICADA A LA ACTUARIA",
-          "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ACT-22306-MATEMATICAS FINANCIERAS II": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-22306-MATEMATICAS FINANCIERAS II",
-          "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "GABRIELA MELENDEZ VARGAS": {
-    "grupos": {
-      "ACT-15352-PLANES DE BENEFICIOS": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-15352-PLANES DE BENEFICIOS",
-          "profesor": "GABRIELA MELENDEZ VARGAS",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
           "salon": "RH103",
           "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ]
-    }
-  },
-  "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-los-\u00c1ngeles-Ya\u00f1ez-Acosta_20034",
-    "general": 8.0714,
-    "n": 14,
-    "grupos": {
-      "ACT-15353-PRACTICA ACTUAR. Y MARCO INST.": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-15353-PRACTICA ACTUAR. Y MARCO INST.",
-          "profesor": "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
+          "inicio": "16:00",
           "fin": "19:00"
-        }
-      ],
-      "ACT-15360-INTRODUCCION A LA ACTUARIA": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-15360-INTRODUCCION A LA ACTUARIA",
-          "profesor": "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
-    "general": 6.35,
-    "n": 20,
-    "grupos": {
-      "ACT-15358-SISTEMAS DE SEGUROS": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-15358-SISTEMAS DE SEGUROS",
-          "profesor": "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH302",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "MAT-22600-MATEMATICAS FINANCIERAS I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-22600-MATEMATICAS FINANCIERAS I",
-          "profesor": "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-3",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -1281,6 +1234,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ],
+      "CON-17102-TRAYECTORIAS EN CONTADURIA": [
+        {
+          "grupo": "001",
+          "nombre": "CON-17102-TRAYECTORIAS EN CONTADURIA",
+          "profesor": "JOSE JAVIER MEDRANO PEREZ",
+          "creditos": "2",
+          "horario": "16:00-17:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH312",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:00"
         }
       ],
       "IIO-16111-TRAYEC DE NEG. I: ING Y TECNOL": [
@@ -2921,6 +2890,123 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:30",
           "fin": "17:00"
+        }
+      ],
+      "CLE-10518-COMMUNICATION IN SPANISH III": [
+        {
+          "grupo": "001",
+          "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
+          "profesor": "MARIA MONICA CUELLAR AYALA",
+          "creditos": "7",
+          "horario": "15:00-16:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH204",
+          "campus": "RIO HONDO",
+          "inicio": "15:00",
+          "fin": "16:30"
+        }
+      ]
+    }
+  },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19,
+    "grupos": {
+      "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "0",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "007",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ],
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -5454,6 +5540,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "LUIS FERNANDO ARTEAGA VILLEDA": {
+    "grupos": {
+      "CON-14111-INTROD A CONTADURIA ANALITICA": [
+        {
+          "grupo": "001",
+          "nombre": "CON-14111-INTROD A CONTADURIA ANALITICA",
+          "profesor": "LUIS FERNANDO ARTEAGA VILLEDA",
+          "creditos": "4",
+          "horario": "18:00-20:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH314",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -10184,6 +10290,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -11319,8 +11428,8 @@ let profesores={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4619,
-    "n": 223,
+    "general": 6.4643,
+    "n": 224,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -11542,9 +11651,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -12350,43 +12459,23 @@ let profesores={
       ]
     }
   },
-  "MIGUEL ANGEL MENDEZ ANTONIO": {
-    "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.7662,
-    "n": 77,
+  "ENRIQUE CUERVO GUZMAN": {
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
           "grupo": "005",
           "nombre": "EST-11101-PROBABILIDAD",
-          "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
+          "profesor": "ENRIQUE CUERVO GUZMAN",
           "creditos": "8",
-          "horario": "09:00-11:00",
+          "horario": "20:00-22:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
-      ],
-      "EST-11102-INFERENCIA ESTADISTICA": [
-        {
-          "grupo": "005",
-          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-          "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
-          "creditos": "8",
-          "horario": "07:00-09:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
+          "inicio": "20:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -12473,27 +12562,6 @@ let profesores={
       ]
     }
   },
-  "ENRIQUE CUERVO GUZMAN": {
-    "grupos": {
-      "EST-11102-INFERENCIA ESTADISTICA": [
-        {
-          "grupo": "002",
-          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-          "profesor": "ENRIQUE CUERVO GUZMAN",
-          "creditos": "8",
-          "horario": "18:00-20:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
-        }
-      ]
-    }
-  },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
     "general": 7.1786,
@@ -12531,6 +12599,64 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "MIGUEL ANGEL MENDEZ ANTONIO": {
+    "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
+    "general": 5.7662,
+    "n": 77,
+    "grupos": {
+      "EST-11102-INFERENCIA ESTADISTICA": [
+        {
+          "grupo": "005",
+          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
+          "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
+          "creditos": "8",
+          "horario": "09:00-11:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ],
+      "EST-14101-CALCULO DE PROBABILIDADES.,I": [
+        {
+          "grupo": "002",
+          "nombre": "EST-14101-CALCULO DE PROBABILIDADES.,I",
+          "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "EST-24126-CALCULO DE PROBABILIDADES I": [
+        {
+          "grupo": "002",
+          "nombre": "EST-24126-CALCULO DE PROBABILIDADES I",
+          "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -14436,90 +14562,6 @@ let profesores={
       ]
     }
   },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19,
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "007",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ],
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ]
-    }
-  },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
     "general": 8.0,
@@ -16138,7 +16180,7 @@ let profesores={
     "grupos": {
       "MAT-12250-CALCULO APLICADO": [
         {
-          "grupo": "01",
+          "grupo": "001",
           "nombre": "MAT-12250-CALCULO APLICADO",
           "profesor": "LUCIA RAMIREZ DAVID",
           "creditos": "9",
@@ -16243,8 +16285,8 @@ let profesores={
           "creditos": "8",
           "horario": "12:00-14:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
           "salon": "RH314",
           "campus": "RIO HONDO",
@@ -17253,6 +17295,27 @@ let profesores={
       ]
     }
   },
+  "GABRIEL GOMEZ REYES": {
+    "grupos": {
+      "MAT-24720-TEMAS SELECTOS DE MAT. APL. I": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-24720-TEMAS SELECTOS DE MAT. APL. I",
+          "profesor": "GABRIEL GOMEZ REYES",
+          "creditos": "6",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
   "FRANCISCO JAVIER VILLA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/FRANCISCO-JAVIER-VILLA-LOPEZ_159928",
     "general": 9.0,
@@ -17679,11 +17742,13 @@ let mejoresPorDepto={
     "DAVID RUELAS RODRIGUEZ",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
     "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
+    "SERGIO GARCIA ALQUICIRA",
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
+    "PEDRO DANIEL TREJO SOLIS",
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
-    "",
     "GABRIELA MELENDEZ VARGAS",
-    "ANTONIO LOPEZ VELARDE LOERA"
+    "",
+    "FRANCISCO GERARDO CESAR MEDINA"
   ],
   "ADMINISTRACION": [
     "FELIPE BRUGUES RODRIGUEZ",
@@ -17701,6 +17766,7 @@ let mejoresPorDepto={
     "MARGARITA TARRAGONA SAEZ"
   ],
   "LENGUAS (CLE)": [
+    "MARCELA RABADAN GALLARDO",
     "ELSA VIVIANA OROPEZA GRACIA",
     "MARIA GRACE  NOBILE",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
@@ -17772,11 +17838,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
+    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "DAVID MORENO GUINEA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -17818,13 +17884,13 @@ let mejoresPorDepto={
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
-    "MARCELA RABADAN GALLARDO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
     "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
     "JAVIER MARTINEZ VILLARROYA",
     "JORGE NEME SANCHEZ",
-    "LUCIA PI CHOLULA"
+    "LUCIA PI CHOLULA",
+    "ALEJANDRA SOLIS GONZALEZ"
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",

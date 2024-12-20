@@ -1,4 +1,4 @@
-let actualizado="1734619370019.6763";
+let actualizado="1734705625245.882";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -12,7 +12,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-11300-CALCULO ACTUARIAL I",
-        "profesor": "",
+        "profesor": "SERGIO GARCIA ALQUICIRA",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -27,17 +27,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ACT-11300-CALCULO ACTUARIAL I",
-        "profesor": "",
+        "profesor": "PEDRO DANIEL TREJO SOLIS",
         "creditos": "6",
-        "horario": "17:30-19:00",
+        "horario": "19:00-20:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH103",
+        "salon": "RH105",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -90,7 +90,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-11303-MODELOS ACTUARIALES I",
-        "profesor": "",
+        "profesor": "SERGIO GARCIA ALQUICIRA",
         "creditos": "6",
         "horario": "20:30-22:00",
         "dias": [
@@ -279,7 +279,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-25354-ADMON. CUANTITATIVA DE RIESGOS",
-        "profesor": "",
+        "profesor": "FRANCISCO GERARDO CESAR MEDINA",
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
@@ -2383,6 +2383,47 @@ let clases={
   "CLE-10518": {
     "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
     "clave": "CLE-10518",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
+        "profesor": "MARIA MONICA CUELLAR AYALA",
+        "creditos": "7",
+        "horario": "15:00-16:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH204",
+        "campus": "RIO HONDO",
+        "inicio": "15:00",
+        "fin": "16:30"
+      }
+    ]
+  },
+  "CLE-10603-LAB": {
+    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+    "clave": "CLE-10603",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+        "profesor": "MARCELA RABADAN GALLARDO",
+        "creditos": "0",
+        "horario": "16:00-18:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "16:00",
+        "fin": "18:00"
+      }
+    ]
+  },
+  "CLE-10603": {
+    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM",
+    "clave": "CLE-10603",
     "grupos": []
   },
   "COM-11101": {
@@ -4652,7 +4693,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-14111-INTROD A CONTADURIA ANALITICA",
-        "profesor": "",
+        "profesor": "LUIS FERNANDO ARTEAGA VILLEDA",
         "creditos": "4",
         "horario": "18:00-20:00",
         "dias": [
@@ -4807,6 +4848,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
+      }
+    ]
+  },
+  "CON-17102": {
+    "nombre": "CON-17102-TRAYECTORIAS EN CONTADURIA",
+    "clave": "CON-17102",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CON-17102-TRAYECTORIAS EN CONTADURIA",
+        "profesor": "JOSE JAVIER MEDRANO PEREZ",
+        "creditos": "2",
+        "horario": "16:00-17:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH312",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:00"
       }
     ]
   },
@@ -11441,17 +11502,17 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EST-11101-PROBABILIDAD",
-        "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
+        "profesor": "ENRIQUE CUERVO GUZMAN",
         "creditos": "8",
-        "horario": "09:00-11:00",
+        "horario": "20:00-22:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
+        "inicio": "20:00",
+        "fin": "22:00"
       },
       {
         "grupo": "006",
@@ -11490,21 +11551,6 @@ let clases={
         "fin": "12:00"
       },
       {
-        "grupo": "002",
-        "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-        "profesor": "ENRIQUE CUERVO GUZMAN",
-        "creditos": "8",
-        "horario": "18:00-20:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH301",
-        "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "20:00"
-      },
-      {
         "grupo": "003",
         "nombre": "EST-11102-INFERENCIA ESTADISTICA",
         "profesor": "HUGO CUEVAS BRAVO",
@@ -11539,15 +11585,15 @@ let clases={
         "nombre": "EST-11102-INFERENCIA ESTADISTICA",
         "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
         "creditos": "8",
-        "horario": "07:00-09:00",
+        "horario": "09:00-11:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH311",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
+        "inicio": "09:00",
+        "fin": "11:00"
       },
       {
         "grupo": "006",
@@ -11726,17 +11772,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EST-14101-CALCULO DE PROBABILIDADES.,I",
-        "profesor": "",
+        "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
         "creditos": "6",
-        "horario": "20:30-22:00",
+        "horario": "07:00-08:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH109",
+        "salon": "RH311",
         "campus": "RIO HONDO",
-        "inicio": "20:30",
-        "fin": "22:00"
+        "inicio": "07:00",
+        "fin": "08:30"
       },
       {
         "grupo": "003",
@@ -12193,17 +12239,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EST-24126-CALCULO DE PROBABILIDADES I",
-        "profesor": "",
+        "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
         "creditos": "6",
-        "horario": "20:30-22:00",
+        "horario": "07:00-08:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH109",
+        "salon": "RH311",
         "campus": "RIO HONDO",
-        "inicio": "20:30",
-        "fin": "22:00"
+        "inicio": "07:00",
+        "fin": "08:30"
       },
       {
         "grupo": "003",
@@ -15051,7 +15097,7 @@ let clases={
     "clave": "MAT-12250",
     "grupos": [
       {
-        "grupo": "01",
+        "grupo": "001",
         "nombre": "MAT-12250-CALCULO APLICADO",
         "profesor": "LUCIA RAMIREZ DAVID",
         "creditos": "9",
@@ -15451,8 +15497,8 @@ let clases={
         "creditos": "8",
         "horario": "12:00-14:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
         "salon": "RH314",
         "campus": "RIO HONDO",
@@ -16247,7 +16293,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-24720-TEMAS SELECTOS DE MAT. APL. I",
-        "profesor": "",
+        "profesor": "GABRIEL GOMEZ REYES",
         "creditos": "6",
         "horario": "12:30-14:00",
         "dias": [
@@ -16752,6 +16798,11 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
+  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -17098,9 +17149,9 @@ let misProfesData={
     "n": 72
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
-    "general": 7.8286,
-    "n": 35
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
+    "general": 8.4103,
+    "n": 39
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17136,6 +17187,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Carlos-Emilio-Galindo-Flores_10849",
     "general": 7.4,
     "n": 65
+  },
+  "SERGIO GARCIA ALQUICIRA": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
+    "general": 7.3636,
+    "n": 33
   },
   "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
@@ -17184,8 +17240,8 @@ let misProfesData={
   },
   "JOSE RAFAEL GONZALEZ DIAZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Rafael-Gonzalez-D\u00edaz_15985",
-    "general": 6.4619,
-    "n": 223
+    "general": 6.4643,
+    "n": 224
   },
   "CARLOS GONZALEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
@@ -17856,6 +17912,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",
     "general": 6.9231,
     "n": 39
+  },
+  "PEDRO DANIEL TREJO SOLIS": {
+    "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
+    "general": 6.4167,
+    "n": 12
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
