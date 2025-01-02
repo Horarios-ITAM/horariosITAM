@@ -66,6 +66,13 @@ class GraceScrapper:
                 urlServiciosNoPersonalizados = urljoin(baseURL, link.attrs["href"])
                 break
         
+        # Si no se encontro por texto, intenta por 'ServNoPers' en link
+        if urlServiciosNoPersonalizados is None:
+            for link in soup.find_all("a"):
+                if 'ServNoPers' in link.attrs["href"]:
+                    urlServiciosNoPersonalizados = urljoin(baseURL, link.attrs["href"])
+                    break
+        
         assert urlServiciosNoPersonalizados!=None,"No se encontro URL de Servicios no personalizados"
         self._print(f'URL de Servicios no personalizados: {urlServiciosNoPersonalizados}')
 
