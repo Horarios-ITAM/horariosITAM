@@ -1,4 +1,4 @@
-let actualizado="1734705625261.4617";
+let actualizado="1735838175106.1355";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -645,22 +645,6 @@ let profesores={
         }
       ],
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
-        {
-          "grupo": "004",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "11:00-12:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH206",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        },
         {
           "grupo": "007",
           "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
@@ -3909,8 +3893,8 @@ let profesores={
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
-    "general": 8.6667,
-    "n": 15,
+    "general": 8.4375,
+    "n": 16,
     "grupos": {
       "COM-16203-DES. DE APLICACS. INFORMATICAS": [
         {
@@ -9089,6 +9073,45 @@ let profesores={
       ]
     }
   },
+  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
+    "general": 6.8235,
+    "n": 102,
+    "grupos": {
+      "ECO-10300-PENSAMIENTO ECONOMICO": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "3",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "3",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ]
+    }
+  },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
     "general": 9.5133,
@@ -9913,52 +9936,11 @@ let profesores={
       ]
     }
   },
-  "XINYANG WANG": {
-    "link": "https://www.misprofesores.com/profesores/Xinyang-Wang_122989",
-    "general": 7.3,
-    "n": 10,
-    "grupos": {
-      "ECO-11121-MICROECONOMIA AVANZADA I": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
-          "profesor": "XINYANG WANG",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH113",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
-          "profesor": "XINYANG WANG",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH113",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ]
-    }
-  },
   "ANDREY  GOMBERG": {
     "grupos": {
       "ECO-11121-MICROECONOMIA AVANZADA I": [
         {
-          "grupo": "002",
+          "grupo": "001",
           "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
           "profesor": "ANDREY  GOMBERG",
           "creditos": "6",
@@ -9999,7 +9981,7 @@ let profesores={
     "grupos": {
       "ECO-11121-MICROECONOMIA AVANZADA I": [
         {
-          "grupo": "003",
+          "grupo": "002",
           "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
           "profesor": "LEVENT ULKU",
           "creditos": "6",
@@ -10074,6 +10056,23 @@ let profesores={
     "general": 4.8889,
     "n": 9,
     "grupos": {
+      "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
+          "profesor": "ROMANS PANCS",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
       "ECO-11227-DISE\u00d1O DE MERCADOS": [
         {
           "grupo": "001",
@@ -10290,9 +10289,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -10617,41 +10613,41 @@ let profesores={
       ]
     }
   },
-  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
-    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
-    "general": 6.8235,
-    "n": 102,
+  "XINYANG WANG": {
+    "link": "https://www.misprofesores.com/profesores/Xinyang-Wang_122989",
+    "general": 7.3,
+    "n": 10,
     "grupos": {
       "ECO-21104-ECONOMIA IV": [
         {
           "grupo": "001",
           "nombre": "ECO-21104-ECONOMIA IV",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "profesor": "XINYANG WANG",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "16:00-17:30",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RHSA1",
+          "salon": "RH113",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "16:00",
+          "fin": "17:30"
         },
         {
           "grupo": "002",
           "nombre": "ECO-21104-ECONOMIA IV",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "profesor": "XINYANG WANG",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "17:30-19:00",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RHSA1",
+          "salon": "RH113",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -10921,8 +10917,8 @@ let profesores={
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.1786,
-    "n": 56,
+    "general": 6.2456,
+    "n": 57,
     "grupos": {
       "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
@@ -11050,6 +11046,28 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
+        }
+      ]
+    }
+  },
+  "ANTONIO LOPEZ VEGA": {
+    "grupos": {
+      "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
+        {
+          "grupo": "004",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "ANTONIO LOPEZ VEGA",
+          "creditos": "6",
+          "horario": "11:00-12:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -11229,8 +11247,8 @@ let profesores={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.86,
-    "n": 50,
+    "general": 6.7843,
+    "n": 51,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -11651,9 +11669,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -11765,15 +11783,15 @@ let profesores={
           "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
           "profesor": "JOSE MANUEL OROZCO GARIBAY",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "10:00-11:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH206",
           "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -12283,8 +12301,8 @@ let profesores={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 4.3571,
-    "n": 14,
+    "general": 4.2,
+    "n": 15,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -12437,8 +12455,8 @@ let profesores={
   },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
-    "general": 7.7353,
-    "n": 34,
+    "general": 7.7714,
+    "n": 35,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -12725,8 +12743,8 @@ let profesores={
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
-    "general": 4.6,
-    "n": 15,
+    "general": 4.9375,
+    "n": 16,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -14635,8 +14653,8 @@ let profesores={
   },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
-    "general": 7.1071,
-    "n": 28,
+    "general": 7.1667,
+    "n": 30,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15046,8 +15064,8 @@ let profesores={
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.125,
-    "n": 16,
+    "general": 9.1765,
+    "n": 17,
     "grupos": {
       "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
         {
@@ -15691,20 +15709,21 @@ let profesores={
           "fin": "19:00"
         }
       ],
-      "MAT-12201-CALCULO MULTIVARIADO": [
+      "MAT-14100-CALCULO DIF. E INT., I": [
         {
-          "grupo": "004",
-          "nombre": "MAT-12201-CALCULO MULTIVARIADO",
+          "grupo": "002",
+          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
           "profesor": "OMAR VIGUERAS HERRERA",
-          "creditos": "9",
-          "horario": "16:00-17:30",
+          "creditos": "8",
+          "horario": "16:00-18:00",
           "dias": [
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "PF101",
+          "salon": "RH105",
           "campus": "RIO HONDO",
           "inicio": "16:00",
-          "fin": "17:30"
+          "fin": "18:00"
         }
       ]
     }
@@ -16059,6 +16078,63 @@ let profesores={
       ]
     }
   },
+  "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
+    "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
+    "general": 9.2353,
+    "n": 17,
+    "grupos": {
+      "MAT-12201-CALCULO MULTIVARIADO": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-12201-CALCULO MULTIVARIADO",
+          "profesor": "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
+          "creditos": "9",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF101",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "MAT-14310-ALG. LINEAL, II (ALG. LINEAL)": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14310-ALG. LINEAL, II (ALG. LINEAL)",
+          "profesor": "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ],
+      "MAT-24110-ANALISIS MATEMATICO, I": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-24110-ANALISIS MATEMATICO, I",
+          "profesor": "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ]
+    }
+  },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
     "general": 8.2222,
@@ -16266,15 +16342,15 @@ let profesores={
           "nombre": "MAT-12310-ALGEBRA MATRICIAL",
           "profesor": "GLORIA LOPEZ CHAVEZ",
           "creditos": "8",
-          "horario": "18:00-20:00",
+          "horario": "16:00-18:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH111",
+          "salon": "RH303",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ],
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
@@ -16298,8 +16374,8 @@ let profesores={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.2947,
-    "n": 95,
+    "general": 7.2784,
+    "n": 97,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -16415,30 +16491,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
-        }
-      ]
-    }
-  },
-  "EDUARDO TOMAS ARELLANO ARJONA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.5,
-    "n": 128,
-    "grupos": {
-      "MAT-14100-CALCULO DIF. E INT., I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-          "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
-          "creditos": "8",
-          "horario": "11:00-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "13:00"
         }
       ]
     }
@@ -16622,8 +16674,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1618,
-    "n": 68,
+    "general": 7.1739,
+    "n": 69,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -16725,8 +16777,8 @@ let profesores={
   },
   "GERARDO ACOSTA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Acosta-Garcia_105240",
-    "general": 6.3333,
-    "n": 6,
+    "general": 6.2857,
+    "n": 7,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -16766,8 +16818,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.6,
-    "n": 60,
+    "general": 6.6557,
+    "n": 61,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -17031,6 +17083,9 @@ let profesores={
     }
   },
   "JUAN SALVADOR GARZA LEDESMA": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "MAT-14281-MATEMATICAS DISCRETAS": [
         {
@@ -17122,47 +17177,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
-        }
-      ]
-    }
-  },
-  "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
-    "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 9.2353,
-    "n": 17,
-    "grupos": {
-      "MAT-14310-ALG. LINEAL, II (ALG. LINEAL)": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14310-ALG. LINEAL, II (ALG. LINEAL)",
-          "profesor": "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH316",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "MAT-24110-ANALISIS MATEMATICO, I": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-24110-ANALISIS MATEMATICO, I",
-          "profesor": "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
         }
       ]
     }
@@ -17699,8 +17713,8 @@ let profesores={
   },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
-    "general": 6.48,
-    "n": 25,
+    "general": 6.5769,
+    "n": 26,
     "grupos": {
       "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS": [
         {
@@ -17838,11 +17852,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "DAVID MORENO GUINEA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",

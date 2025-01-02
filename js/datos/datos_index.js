@@ -1,4 +1,4 @@
-let actualizado="1734705625245.882";
+let actualizado="1735838175090.7214";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -8388,6 +8388,42 @@ let clases={
       }
     ]
   },
+  "ECO-10300": {
+    "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
+    "clave": "ECO-10300",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "3",
+        "horario": "08:30-10:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHSA1",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "3",
+        "horario": "10:00-11:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHSA1",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
+      }
+    ]
+  },
   "ECO-10301": {
     "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
     "clave": "ECO-10301",
@@ -8932,21 +8968,6 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
-        "profesor": "XINYANG WANG",
-        "creditos": "6",
-        "horario": "17:30-19:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH113",
-        "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
         "profesor": "ANDREY  GOMBERG",
         "creditos": "6",
         "horario": "16:00-17:30",
@@ -8960,7 +8981,7 @@ let clases={
         "fin": "17:30"
       },
       {
-        "grupo": "003",
+        "grupo": "002",
         "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
         "profesor": "LEVENT ULKU",
         "creditos": "6",
@@ -9019,17 +9040,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
-        "profesor": "XINYANG WANG",
+        "profesor": "ROMANS PANCS",
         "creditos": "6",
-        "horario": "16:00-17:30",
+        "horario": "11:30-13:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH113",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -9891,32 +9912,32 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "XINYANG WANG",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "16:00-17:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RHSA1",
+        "salon": "RH113",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       },
       {
         "grupo": "002",
         "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "XINYANG WANG",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "17:30-19:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RHSA1",
+        "salon": "RH113",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "17:30",
+        "fin": "19:00"
       },
       {
         "grupo": "003",
@@ -10308,7 +10329,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "",
+        "profesor": "ANTONIO LOPEZ VEGA",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -10904,15 +10925,15 @@ let clases={
         "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
         "profesor": "JOSE MANUEL OROZCO GARIBAY",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "10:00-11:30",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RH206",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       },
       {
         "grupo": "005",
@@ -14963,7 +14984,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "MAT-12201-CALCULO MULTIVARIADO",
-        "profesor": "OMAR VIGUERAS HERRERA",
+        "profesor": "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
         "creditos": "9",
         "horario": "16:00-17:30",
         "dias": [
@@ -15138,15 +15159,15 @@ let clases={
         "nombre": "MAT-12310-ALGEBRA MATRICIAL",
         "profesor": "GLORIA LOPEZ CHAVEZ",
         "creditos": "8",
-        "horario": "18:00-20:00",
+        "horario": "16:00-18:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH111",
+        "salon": "RH303",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "20:00"
+        "inicio": "16:00",
+        "fin": "18:00"
       },
       {
         "grupo": "01",
@@ -15259,17 +15280,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-        "profesor": "EDUARDO TOMAS ARELLANO ARJONA",
+        "profesor": "OMAR VIGUERAS HERRERA",
         "creditos": "8",
-        "horario": "11:00-13:00",
+        "horario": "16:00-18:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH104",
+        "salon": "RH105",
         "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "13:00"
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -16780,8 +16801,8 @@ let misProfesData={
   },
   "GERARDO ACOSTA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Acosta-Garcia_105240",
-    "general": 6.3333,
-    "n": 6
+    "general": 6.2857,
+    "n": 7
   },
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
@@ -16798,11 +16819,6 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -16810,8 +16826,8 @@ let misProfesData={
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.125,
-    "n": 16
+    "general": 9.1765,
+    "n": 17
   },
   "GUSTAVO ALVAREZ PELAEZ": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-\u00c1lvarez-Pelaez_110916",
@@ -16827,11 +16843,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Luis-Mart\u00edn-Arciniega-Ruiz-de-Esparza_10724",
     "general": 8.7419,
     "n": 31
-  },
-  "EDUARDO TOMAS ARELLANO ARJONA": {
-    "link": "https://www.misprofesores.com/profesores/EDUARDO-TOMAS-ARELLANO-ARJONA_17865",
-    "general": 6.5,
-    "n": 128
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
@@ -16890,8 +16901,8 @@ let misProfesData={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 4.3571,
-    "n": 14
+    "general": 4.2,
+    "n": 15
   },
   "FELIPE BRUGUES RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Brugu\u00e9s-Rodr\u00edguez_160059",
@@ -17135,8 +17146,8 @@ let misProfesData={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.86,
-    "n": 50
+    "general": 6.7843,
+    "n": 51
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -17149,14 +17160,14 @@ let misProfesData={
     "n": 72
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.6,
-    "n": 60
+    "general": 6.6557,
+    "n": 61
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
@@ -17200,8 +17211,8 @@ let misProfesData={
   },
   "ILEANA GARCIA CONDE": {
     "link": "https://www.misprofesores.com/profesores/Ileana-Garc\u00eda-Conde_83218",
-    "general": 7.7353,
-    "n": 34
+    "general": 7.7714,
+    "n": 35
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
@@ -17217,6 +17228,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/David-Garcia-Sarubbi_74381",
     "general": 9.4444,
     "n": 9
+  },
+  "JUAN SALVADOR GARZA LEDESMA": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
+    "general": 8.0,
+    "n": 1
   },
   "MARIA CRISTINA GIGOLA PAGLIALUNGA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Gigola-Paglialunga_10861",
@@ -17680,8 +17696,8 @@ let misProfesData={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1618,
-    "n": 68
+    "general": 7.1739,
+    "n": 69
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
@@ -17705,8 +17721,8 @@ let misProfesData={
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
-    "general": 8.6667,
-    "n": 15
+    "general": 8.4375,
+    "n": 16
   },
   "ARTURO RAMIREZ VERDUGO": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
@@ -17745,8 +17761,8 @@ let misProfesData={
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
-    "general": 4.6,
-    "n": 15
+    "general": 4.9375,
+    "n": 16
   },
   "HUGO RODRIGUEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Rodr\u00edguez-Cort\u00e9s_175478",
@@ -17815,8 +17831,8 @@ let misProfesData={
   },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
-    "general": 6.48,
-    "n": 25
+    "general": 6.5769,
+    "n": 26
   },
   "NATALIA SALTALAMACCHIA ZICCARDI": {
     "link": "https://www.misprofesores.com/profesores/Natalia-Saltalamacchia-Ziccardi_10835",
@@ -17880,13 +17896,13 @@ let misProfesData={
   },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
-    "general": 7.1071,
-    "n": 28
+    "general": 7.1667,
+    "n": 30
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.1786,
-    "n": 56
+    "general": 6.2456,
+    "n": 57
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
@@ -18035,8 +18051,8 @@ let misProfesData={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.2947,
-    "n": 95
+    "general": 7.2784,
+    "n": 97
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
