@@ -1,4 +1,4 @@
-let actualizado="1735838175106.1355";
+let actualizado="1735915175850.0261";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -3729,8 +3729,8 @@ let profesores={
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
-    "general": 9.6923,
-    "n": 13,
+    "general": 9.7333,
+    "n": 15,
     "grupos": {
       "COM-14113-FUNDAMENTOS DE PROGRAMACION": [
         {
@@ -4209,8 +4209,8 @@ let profesores={
   },
   "ROSARIO EDITH GARCIA MENDIOLA": {
     "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
-    "general": 8.3607,
-    "n": 61,
+    "general": 8.3871,
+    "n": 62,
     "grupos": {
       "COM-16401-COMPUTACION I, INTENSIVA": [
         {
@@ -4673,9 +4673,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3636,
+    "n": 22,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -16968,8 +16968,8 @@ let profesores={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.8023,
-    "n": 86,
+    "general": 8.8161,
+    "n": 87,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {

@@ -1,4 +1,4 @@
-let actualizado="1735838175090.7214";
+let actualizado="1735915175834.298";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -16996,8 +16996,8 @@ let misProfesData={
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
-    "general": 9.6923,
-    "n": 13
+    "general": 9.7333,
+    "n": 15
   },
   "MARIA VICTORIA CHAVEZ HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Victoria-Ch\u00e1vez-Hern\u00e1ndez_175093",
@@ -17221,8 +17221,8 @@ let misProfesData={
   },
   "ROSARIO EDITH GARCIA MENDIOLA": {
     "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
-    "general": 8.3607,
-    "n": 61
+    "general": 8.3871,
+    "n": 62
   },
   "DAVID GARCIA SARUBBI": {
     "link": "https://www.misprofesores.com/profesores/David-Garcia-Sarubbi_74381",
@@ -17265,9 +17265,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3636,
+    "n": 22
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -17826,8 +17826,8 @@ let misProfesData={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.8023,
-    "n": 86
+    "general": 8.8161,
+    "n": 87
   },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
