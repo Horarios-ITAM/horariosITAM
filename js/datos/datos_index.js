@@ -1,4 +1,4 @@
-let actualizado="1736087860766.357";
+let actualizado="1736174461498.342";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -17165,9 +17165,9 @@ let misProfesData={
     "n": 72
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
@@ -17760,9 +17760,9 @@ let misProfesData={
     "n": 19
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",

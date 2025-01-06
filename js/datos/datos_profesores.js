@@ -1,4 +1,4 @@
-let actualizado="1736087860783.431";
+let actualizado="1736174461513.871";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -9842,9 +9842,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -11672,9 +11672,9 @@ let profesores={
     }
   },
   "RAUL AGUSTIN FIGUEROA ESQUER": {
-    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_15367",
-    "general": 8.4103,
-    "n": 39,
+    "link": "https://www.misprofesores.com/profesores/Ra\u00fal-Agust\u00edn-Figueroa-Esquer_10812",
+    "general": 7.8286,
+    "n": 35,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -17839,6 +17839,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "CHRISTINA CORNEJO VAN LUIT",
@@ -17846,7 +17847,6 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
@@ -17855,11 +17855,11 @@ let mejoresPorDepto={
     "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "RAUL AGUSTIN FIGUEROA ESQUER",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "DAVID MORENO GUINEA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
