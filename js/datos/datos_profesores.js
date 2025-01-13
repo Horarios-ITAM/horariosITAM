@@ -1,4 +1,4 @@
-let actualizado="1736692639087.1646";
+let actualizado="1736779325272.671";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -9570,6 +9570,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -14653,8 +14656,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.5,
-    "n": 36,
+    "general": 7.5676,
+    "n": 37,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -15562,8 +15565,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.3333,
-    "n": 66,
+    "general": 6.3284,
+    "n": 67,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
