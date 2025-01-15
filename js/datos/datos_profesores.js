@@ -1,4 +1,4 @@
-let actualizado="1736865570798.4958";
+let actualizado="1736951998753.4956";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -1486,7 +1486,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF101",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -1501,7 +1501,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF101",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -1518,7 +1518,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF101",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -1533,7 +1533,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF101",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -1669,7 +1669,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -2607,40 +2607,11 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
-        },
-        {
-          "grupo": "004L",
-          "nombre": "COM-11102-ESTRUCTURAS DE DATOS-LAB",
-          "profesor": "ANDRES GOMEZ DE SILVA GARZA",
-          "creditos": "8",
-          "horario": "09:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHCC102",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
         }
       ],
       "COM-11102-ESTRUCTURAS DE DATOS": [
         {
           "grupo": "001",
-          "nombre": "COM-11102-ESTRUCTURAS DE DATOS",
-          "profesor": "ANDRES GOMEZ DE SILVA GARZA",
-          "creditos": "8",
-          "horario": "09:00-10:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC101",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:30"
-        },
-        {
-          "grupo": "004",
           "nombre": "COM-11102-ESTRUCTURAS DE DATOS",
           "profesor": "ANDRES GOMEZ DE SILVA GARZA",
           "creditos": "8",
@@ -3039,6 +3010,40 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ],
+      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
+        {
+          "grupo": "006",
+          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
+          "profesor": "LETICIA RENTERIA FERRAN",
+          "creditos": "7",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC201",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "006",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "LETICIA RENTERIA FERRAN",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC201",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -3579,64 +3584,6 @@ let profesores={
       ]
     }
   },
-  "MARCO ANTONIO MORALES AGUIRRE": {
-    "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 5.0952,
-    "n": 21,
-    "grupos": {
-      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
-        {
-          "grupo": "006",
-          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
-          "creditos": "7",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC201",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "COM-16306-RAZONAMIENTO ALGORITMICO": [
-        {
-          "grupo": "006",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC201",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "COM-23701-APRENDIZAJE DE MAQUINA": [
-        {
-          "grupo": "001",
-          "nombre": "COM-23701-APRENDIZAJE DE MAQUINA",
-          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
     "general": 7.4524,
@@ -4123,6 +4070,30 @@ let profesores={
       ]
     }
   },
+  "MARCO ANTONIO MORALES AGUIRRE": {
+    "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
+    "general": 5.0952,
+    "n": 21,
+    "grupos": {
+      "COM-23701-APRENDIZAJE DE MAQUINA": [
+        {
+          "grupo": "001",
+          "nombre": "COM-23701-APRENDIZAJE DE MAQUINA",
+          "profesor": "MARCO ANTONIO MORALES AGUIRRE",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
     "general": 8.0769,
@@ -4232,9 +4203,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -15976,7 +15947,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH302",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"

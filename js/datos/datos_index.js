@@ -1,4 +1,4 @@
-let actualizado="1736865570786.5078";
+let actualizado="1736951998741.975";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -1080,7 +1080,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF101",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -1095,7 +1095,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF101",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -1165,7 +1165,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -1231,7 +1231,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF101",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -1246,7 +1246,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF101",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -2244,20 +2244,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "12:30"
-      },
-      {
-        "grupo": "004L",
-        "nombre": "COM-11102-ESTRUCTURAS DE DATOS-LAB",
-        "profesor": "ANDRES GOMEZ DE SILVA GARZA",
-        "creditos": "8",
-        "horario": "09:00-10:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "RHCC102",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "10:00"
       }
     ]
   },
@@ -2294,21 +2280,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:30",
         "fin": "12:00"
-      },
-      {
-        "grupo": "004",
-        "nombre": "COM-11102-ESTRUCTURAS DE DATOS",
-        "profesor": "ANDRES GOMEZ DE SILVA GARZA",
-        "creditos": "8",
-        "horario": "09:00-10:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RHCC101",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "10:30"
       }
     ]
   },
@@ -2893,7 +2864,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-        "profesor": "MARCO ANTONIO MORALES AGUIRRE",
+        "profesor": "LETICIA RENTERIA FERRAN",
         "creditos": "7",
         "horario": "08:30-10:00",
         "dias": [
@@ -3196,7 +3167,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "MARCO ANTONIO MORALES AGUIRRE",
+        "profesor": "LETICIA RENTERIA FERRAN",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -15030,7 +15001,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH302",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -16015,9 +15986,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
