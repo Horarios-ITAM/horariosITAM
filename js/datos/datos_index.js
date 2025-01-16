@@ -1,4 +1,4 @@
-let actualizado="1736951998741.975";
+let actualizado="1737038342619.7622";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -101,6 +101,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "20:30",
         "fin": "22:00"
+      }
+    ]
+  },
+  "ACT-11304": {
+    "nombre": "ACT-11304-MODELOS ACTUARIALES.,II",
+    "clave": "ACT-11304",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ACT-11304-MODELOS ACTUARIALES.,II",
+        "profesor": "OSCAR PERALTA GUTIERREZ",
+        "creditos": "6",
+        "horario": "18:00-21:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH204",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -258,7 +278,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-22309-MATEMATICAS FINANCIERAS, III",
-        "profesor": "",
+        "profesor": "GERARDO HERNANDEZ DEL VALLE",
         "creditos": "7",
         "horario": "19:00-20:30",
         "dias": [
@@ -2732,6 +2752,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
+      }
+    ]
+  },
+  "COM-15103": {
+    "nombre": "COM-15103-TEMAS SELECTOS DE COMP. I",
+    "clave": "COM-15103",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "COM-15103-TEMAS SELECTOS DE COMP. I",
+        "profesor": "DANTE GUILLERMO RUIZ MARTINEZ",
+        "creditos": "6",
+        "horario": "19:00-20:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH201",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -11208,6 +11249,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
+      },
+      {
+        "grupo": "003",
+        "nombre": "EST-24106-ESTADISTICA APLICADA, III",
+        "profesor": "OSCAR PERALTA GUTIERREZ",
+        "creditos": "6",
+        "horario": "18:00-21:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH204",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -11436,6 +11491,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "EST-25146-ECONOMET. FINANCIERA ACTUARIAL",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "09:00-12:00",
+        "dias": [
+          "SA"
+        ],
+        "salon": "RH202",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "12:00"
       }
     ]
   },
@@ -15517,8 +15586,8 @@ let misProfesData={
   },
   "GERARDO ACOSTA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Acosta-Garcia_105240",
-    "general": 6.0,
-    "n": 8
+    "general": 6.4444,
+    "n": 9
   },
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
@@ -15872,8 +15941,8 @@ let misProfesData={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.7843,
-    "n": 51
+    "general": 6.7308,
+    "n": 52
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -15986,9 +16055,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3478,
-    "n": 23
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -16045,6 +16114,11 @@ let misProfesData={
     "general": 8.75,
     "n": 12
   },
+  "GERARDO HERNANDEZ DEL VALLE": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Hern\u00e1ndez-Del-Valle_118747",
+    "general": 10.0,
+    "n": 1
+  },
   "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
     "general": 7.0,
@@ -16097,8 +16171,8 @@ let misProfesData={
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
-    "general": 8.9322,
-    "n": 59
+    "general": 8.95,
+    "n": 60
   },
   "ANTONIO RODOLFO LLORET CARRILLO": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Rodolfo-Lloret-Carrillo_10731",
@@ -16702,8 +16776,8 @@ let misProfesData={
   },
   "SHARON MAGALI VALVERDE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.4412,
-    "n": 34
+    "general": 8.4,
+    "n": 35
   },
   "INES VARGAS CHRISTLIEB": {
     "link": "https://www.misprofesores.com/profesores/INES-VARGAS-CHRISTLIEB_99471",

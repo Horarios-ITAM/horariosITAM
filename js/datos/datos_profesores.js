@@ -1,4 +1,4 @@
-let actualizado="1736951998753.4956";
+let actualizado="1737038342631.4917";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -131,6 +131,76 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "OSCAR PERALTA GUTIERREZ": {
+    "grupos": {
+      "ACT-11304-MODELOS ACTUARIALES.,II": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-11304-MODELOS ACTUARIALES.,II",
+          "profesor": "OSCAR PERALTA GUTIERREZ",
+          "creditos": "6",
+          "horario": "18:00-21:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH204",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "21:00"
+        }
+      ],
+      "EST-14101-CALCULO DE PROBABILIDADES.,I": [
+        {
+          "grupo": "004",
+          "nombre": "EST-14101-CALCULO DE PROBABILIDADES.,I",
+          "profesor": "OSCAR PERALTA GUTIERREZ",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "EST-24106-ESTADISTICA APLICADA, III": [
+        {
+          "grupo": "003",
+          "nombre": "EST-24106-ESTADISTICA APLICADA, III",
+          "profesor": "OSCAR PERALTA GUTIERREZ",
+          "creditos": "6",
+          "horario": "18:00-21:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH204",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "21:00"
+        }
+      ],
+      "EST-24126-CALCULO DE PROBABILIDADES I": [
+        {
+          "grupo": "004",
+          "nombre": "EST-24126-CALCULO DE PROBABILIDADES I",
+          "profesor": "OSCAR PERALTA GUTIERREZ",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -294,13 +364,16 @@ let profesores={
       ]
     }
   },
-  "": {
+  "GERARDO HERNANDEZ DEL VALLE": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Hern\u00e1ndez-Del-Valle_118747",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ACT-22309-MATEMATICAS FINANCIERAS, III": [
         {
           "grupo": "001",
           "nombre": "ACT-22309-MATEMATICAS FINANCIERAS, III",
-          "profesor": "",
+          "profesor": "GERARDO HERNANDEZ DEL VALLE",
           "creditos": "7",
           "horario": "19:00-20:30",
           "dias": [
@@ -311,104 +384,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
-        }
-      ],
-      "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
-        {
-          "grupo": "003",
-          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB": [
-        {
-          "grupo": "002L",
-          "nombre": "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "19:00-21:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
-        }
-      ],
-      "DER-11115-TALLER DISERT. JUR. CONST. III-LAB": [
-        {
-          "grupo": "002L",
-          "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "09:00-11:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
-      ],
-      "ECO-14207-ANAL. ECONOMICO DEL DERECHO I": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14207-ANAL. ECONOMICO DEL DERECHO I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-14301-ORGANIZACION INDUSTRIAL": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH113",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
-        {
-          "grupo": "006",
-          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -1693,6 +1668,124 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
+        {
+          "grupo": "003",
+          "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ],
+      "DER-11115-TALLER DISERT. JUR. CONST. III-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III-LAB",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "09:00-11:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ],
+      "ECO-14207-ANAL. ECONOMICO DEL DERECHO I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14207-ANAL. ECONOMICO DEL DERECHO I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-14301-ORGANIZACION INDUSTRIAL": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH113",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
+        {
+          "grupo": "006",
+          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "EST-25146-ECONOMET. FINANCIERA ACTUARIAL": [
+        {
+          "grupo": "002",
+          "nombre": "EST-25146-ECONOMET. FINANCIERA ACTUARIAL",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "09:00-12:00",
+          "dias": [
+            "SA"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -3388,6 +3481,27 @@ let profesores={
       ]
     }
   },
+  "DANTE GUILLERMO RUIZ MARTINEZ": {
+    "grupos": {
+      "COM-15103-TEMAS SELECTOS DE COMP. I": [
+        {
+          "grupo": "001",
+          "nombre": "COM-15103-TEMAS SELECTOS DE COMP. I",
+          "profesor": "DANTE GUILLERMO RUIZ MARTINEZ",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
   "JOSE OCTAVIO GUTIERREZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Octavio-Gutierrez-Garcia_129405",
     "general": 10.0,
@@ -4203,9 +4317,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3478,
-    "n": 23,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -10514,8 +10628,8 @@ let profesores={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.7843,
-    "n": 51,
+    "general": 6.7308,
+    "n": 52,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12087,44 +12201,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "OSCAR PERALTA GUTIERREZ": {
-    "grupos": {
-      "EST-14101-CALCULO DE PROBABILIDADES.,I": [
-        {
-          "grupo": "004",
-          "nombre": "EST-14101-CALCULO DE PROBABILIDADES.,I",
-          "profesor": "OSCAR PERALTA GUTIERREZ",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-1",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "EST-24126-CALCULO DE PROBABILIDADES I": [
-        {
-          "grupo": "004",
-          "nombre": "EST-24126-CALCULO DE PROBABILIDADES I",
-          "profesor": "OSCAR PERALTA GUTIERREZ",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-1",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ]
     }
@@ -14264,8 +14340,8 @@ let profesores={
   },
   "SHARON MAGALI VALVERDE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.4412,
-    "n": 34,
+    "general": 8.4,
+    "n": 35,
     "grupos": {
       "MAT-10101-MET. CUANTITATIVOS PARA DER.": [
         {
@@ -15486,8 +15562,8 @@ let profesores={
   },
   "GERARDO ACOSTA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Acosta-Garcia_105240",
-    "general": 6.0,
-    "n": 8,
+    "general": 6.4444,
+    "n": 9,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -15957,8 +16033,8 @@ let profesores={
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
-    "general": 8.9322,
-    "n": 59,
+    "general": 8.95,
+    "n": 60,
     "grupos": {
       "MAT-24210-SISTEMAS DINAMICOS,I": [
         {
@@ -16526,6 +16602,7 @@ let profesores={
 };
 let mejoresPorDepto={
   "ACTUARIA Y SEGUROS": [
+    "GERARDO HERNANDEZ DEL VALLE",
     "DAVID RUELAS RODRIGUEZ",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
     "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
@@ -16533,9 +16610,8 @@ let mejoresPorDepto={
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
     "PEDRO DANIEL TREJO SOLIS",
     "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
-    "GABRIELA MELENDEZ VARGAS",
-    "",
-    "FRANCISCO GERARDO CESAR MEDINA"
+    "OSCAR PERALTA GUTIERREZ",
+    "GABRIELA MELENDEZ VARGAS"
   ],
   "ADMINISTRACION": [
     "FELIPE BRUGUES RODRIGUEZ",
