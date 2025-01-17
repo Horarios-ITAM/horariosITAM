@@ -1,4 +1,4 @@
-let actualizado="1737038342631.4917";
+let actualizado="1737124738992.3088";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -1734,22 +1734,6 @@ let profesores={
             "VI"
           ],
           "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-14301-ORGANIZACION INDUSTRIAL": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -4317,9 +4301,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6293,7 +6277,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH211",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:30"
@@ -9719,9 +9703,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -9854,6 +9835,26 @@ let profesores={
           "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "RICARDO JOSE ENRIQUEZ FROLA": {
+    "grupos": {
+      "ECO-14301-ORGANIZACION INDUSTRIAL": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "RICARDO JOSE ENRIQUEZ FROLA",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH113",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
           "fin": "10:00"
         }
       ]
@@ -10252,8 +10253,8 @@ let profesores={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.25,
-    "n": 128,
+    "general": 7.2713,
+    "n": 129,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
