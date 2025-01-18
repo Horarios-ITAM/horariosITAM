@@ -1,4 +1,4 @@
-let actualizado="1737124738992.3088";
+let actualizado="1737211005861.7576";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -131,6 +131,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ],
+      "EST-25146-ECONOMET. FINANCIERA ACTUARIAL": [
+        {
+          "grupo": "002",
+          "nombre": "EST-25146-ECONOMET. FINANCIERA ACTUARIAL",
+          "profesor": "DAVID RUELAS RODRIGUEZ",
+          "creditos": "6",
+          "horario": "09:00-12:00",
+          "dias": [
+            "SA"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -1723,22 +1739,6 @@ let profesores={
           "fin": "11:00"
         }
       ],
-      "ECO-14207-ANAL. ECONOMICO DEL DERECHO I": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14207-ANAL. ECONOMICO DEL DERECHO I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
           "grupo": "006",
@@ -1754,22 +1754,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        }
-      ],
-      "EST-25146-ECONOMET. FINANCIERA ACTUARIAL": [
-        {
-          "grupo": "002",
-          "nombre": "EST-25146-ECONOMET. FINANCIERA ACTUARIAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "09:00-12:00",
-          "dias": [
-            "SA"
-          ],
-          "salon": "RH202",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "12:00"
         }
       ]
     }
@@ -9239,9 +9223,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -9703,6 +9687,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -9777,6 +9764,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "JOSE CARLOS FEMAT ROMERO": {
+    "grupos": {
+      "ECO-14207-ANAL. ECONOMICO DEL DERECHO I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14207-ANAL. ECONOMICO DEL DERECHO I",
+          "profesor": "JOSE CARLOS FEMAT ROMERO",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -16685,13 +16692,13 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "ROBERTO GONZALEZ TELLEZ",
-    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "CHRISTINA CORNEJO VAN LUIT",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MIGUEL MESSMACHER LINARTAS",
+    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ",
     "ARTURO ALBERTO AGUILAR ESTEVA"
   ],

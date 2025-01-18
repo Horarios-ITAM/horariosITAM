@@ -1,4 +1,4 @@
-let actualizado="1737124738980.0254";
+let actualizado="1737211005848.9832";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -8843,7 +8843,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-14207-ANAL. ECONOMICO DEL DERECHO I",
-        "profesor": "",
+        "profesor": "JOSE CARLOS FEMAT ROMERO",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -11495,7 +11495,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EST-25146-ECONOMET. FINANCIERA ACTUARIAL",
-        "profesor": "",
+        "profesor": "DAVID RUELAS RODRIGUEZ",
         "creditos": "6",
         "horario": "09:00-12:00",
         "dias": [
@@ -15604,6 +15604,11 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
+  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -16555,9 +16560,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
