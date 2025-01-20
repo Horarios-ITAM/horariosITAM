@@ -1,4 +1,4 @@
-let actualizado="1737297422051.7231";
+let actualizado="1737383994837.8003";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
