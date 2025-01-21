@@ -1,4 +1,4 @@
-let actualizado="1737383994825.7554";
+let actualizado="1737470398719.7202";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -5228,7 +5228,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH309",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -5264,7 +5264,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH309",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -7460,7 +7460,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH309",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -7517,7 +7517,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH309",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8455,6 +8455,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
+        "profesor": "ZEKY AHMED MURRA ANTON",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -8930,6 +8944,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-14303-ECONOMIA DE LA REGULACION",
+        "profesor": "SHAUN DAVID MCRAE",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "PF107",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -8990,6 +9019,27 @@ let clases={
       }
     ]
   },
+  "ECO-15110": {
+    "nombre": "ECO-15110-EVALUACION DE PROYECTOS",
+    "clave": "ECO-15110",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "ECO-15110-EVALUACION DE PROYECTOS",
+        "profesor": "GRISELDA SOLACHE CARRANCO",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHLMINT",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      }
+    ]
+  },
   "ECO-15111": {
     "nombre": "ECO-15111-ECONOMIA POLITICA",
     "clave": "ECO-15111",
@@ -9008,6 +9058,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-15111-ECONOMIA POLITICA",
+        "profesor": "ADRIAN LUCARDI",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH301",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -9337,6 +9402,68 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      }
+    ]
+  },
+  "ECO-21201": {
+    "nombre": "ECO-21201-TOPICOS DE MICROECONOMETRIA",
+    "clave": "ECO-21201",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-21201-TOPICOS DE MICROECONOMETRIA",
+        "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+        "creditos": "6",
+        "horario": "19:00-20:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "PF103",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
+      }
+    ]
+  },
+  "ECO-21207": {
+    "nombre": "ECO-21207-DISE\u00d1O DE MECANISMOS",
+    "clave": "ECO-21207",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-21207-DISE\u00d1O DE MECANISMOS",
+        "profesor": "ZEKY AHMED MURRA ANTON",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "ECO-21226": {
+    "nombre": "ECO-21226-TOPICOS EN TEORIA ECONOMICA",
+    "clave": "ECO-21226",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-21226-TOPICOS EN TEORIA ECONOMICA",
+        "profesor": "LEVENT ULKU",
+        "creditos": "6",
+        "horario": "13:00-14:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH103",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:30"
       }
     ]
   },
@@ -11938,7 +12065,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-15196-SISTEMAS MECATRONICOS",
-        "profesor": "CLAUDIA VICTORIA OLIVAR JIMENEZ",
+        "profesor": "ALEJANDRO ESAU MELENDEZ HERNANDEZ",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -15596,8 +15723,8 @@ let misProfesData={
   },
   "ARTURO ALBERTO AGUILAR ESTEVA": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
-    "general": 8.2,
-    "n": 15
+    "general": 8.1875,
+    "n": 16
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
@@ -16055,9 +16182,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -16174,6 +16301,11 @@ let misProfesData={
     "general": 8.95,
     "n": 60
   },
+  "GUSTAVO ANTONIO LEYVA JIMENEZ": {
+    "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
+    "general": 10.0,
+    "n": 1
+  },
   "ANTONIO RODOLFO LLORET CARRILLO": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Rodolfo-Lloret-Carrillo_10731",
     "general": 6.0845,
@@ -16238,6 +16370,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
     "general": 8.8333,
     "n": 18
+  },
+  "JOSE GABRIEL MARTINEZ GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Gabriel-Mart\u00ednez-Gonz\u00e1lez_181679",
+    "general": 8.0,
+    "n": 1
   },
   "MARIA ELOISA MARTINEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/MARIA-ELOISA-MARTINEZ-PEREZ_104005",
@@ -16358,6 +16495,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mario-Mu\u00f1oz-Ortega-Saavedra_129188",
     "general": 9.8,
     "n": 5
+  },
+  "ZEKY AHMED MURRA ANTON": {
+    "link": "https://www.misprofesores.com/profesores/Zeky-Ahmed-Murra-An\u00f3n_67354",
+    "general": 8.0,
+    "n": 4
   },
   "JORGE NEME SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/JORGE-NEME-SANCHEZ_172075",
@@ -16560,9 +16702,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -16806,8 +16948,8 @@ let misProfesData={
   },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
-    "general": 6.1538,
-    "n": 26
+    "general": 6.1111,
+    "n": 27
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",

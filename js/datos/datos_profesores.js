@@ -1,4 +1,4 @@
-let actualizado="1737383994837.8003";
+let actualizado="1737470398731.7217";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4285,9 +4285,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5812,6 +5812,23 @@ let profesores={
           "inicio": "16:00",
           "fin": "19:00"
         }
+      ],
+      "ECO-15111-ECONOMIA POLITICA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-15111-ECONOMIA POLITICA",
+          "profesor": "ADRIAN LUCARDI",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
       ]
     }
   },
@@ -6005,7 +6022,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH309",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -6022,7 +6039,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH309",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -6039,7 +6056,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH309",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -6056,7 +6073,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH309",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -8673,8 +8690,8 @@ let profesores={
   },
   "ARTURO ALBERTO AGUILAR ESTEVA": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
-    "general": 8.2,
-    "n": 15,
+    "general": 8.1875,
+    "n": 16,
     "grupos": {
       "ECO-10516-MICROECONOMETRIA APLICADA": [
         {
@@ -8709,10 +8726,30 @@ let profesores={
           "inicio": "17:30",
           "fin": "19:00"
         }
+      ],
+      "ECO-21201-TOPICOS DE MICROECONOMETRIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-21201-TOPICOS DE MICROECONOMETRIA",
+          "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
       ]
     }
   },
   "JOSE GABRIEL MARTINEZ GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Gabriel-Mart\u00ednez-Gonz\u00e1lez_181679",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "ECO-10516-MICROECONOMETRIA APLICADA": [
         {
@@ -8788,6 +8825,9 @@ let profesores={
     }
   },
   "GUSTAVO ANTONIO LEYVA JIMENEZ": {
+    "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
         {
@@ -9223,9 +9263,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -9393,6 +9433,23 @@ let profesores={
           "inicio": "13:00",
           "fin": "14:30"
         }
+      ],
+      "ECO-21226-TOPICOS EN TEORIA ECONOMICA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-21226-TOPICOS EN TEORIA ECONOMICA",
+          "profesor": "LEVENT ULKU",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
       ]
     }
   },
@@ -9486,6 +9543,45 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "ZEKY AHMED MURRA ANTON": {
+    "link": "https://www.misprofesores.com/profesores/Zeky-Ahmed-Murra-An\u00f3n_67354",
+    "general": 8.0,
+    "n": 4,
+    "grupos": {
+      "ECO-11227-DISE\u00d1O DE MERCADOS": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
+          "profesor": "ZEKY AHMED MURRA ANTON",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-21207-DISE\u00d1O DE MECANISMOS": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-21207-DISE\u00d1O DE MECANISMOS",
+          "profesor": "ZEKY AHMED MURRA ANTON",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -9828,6 +9924,23 @@ let profesores={
           "fin": "11:30"
         }
       ],
+      "ECO-14303-ECONOMIA DE LA REGULACION": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-14303-ECONOMIA DE LA REGULACION",
+          "profesor": "SHAUN DAVID MCRAE",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
       "ECO-20513-MICROECONOMETRIA AVANZADA": [
         {
           "grupo": "001",
@@ -9915,10 +10028,48 @@ let profesores={
       ]
     }
   },
+  "GRISELDA SOLACHE CARRANCO": {
+    "grupos": {
+      "ECO-15110-EVALUACION DE PROYECTOS": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-15110-EVALUACION DE PROYECTOS",
+          "profesor": "GRISELDA SOLACHE CARRANCO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS": [
+        {
+          "grupo": "002",
+          "nombre": "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS",
+          "profesor": "GRISELDA SOLACHE CARRANCO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
-    "general": 6.1538,
-    "n": 26,
+    "general": 6.1111,
+    "n": 27,
     "grupos": {
       "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
         {
@@ -12744,27 +12895,6 @@ let profesores={
       ]
     }
   },
-  "GRISELDA SOLACHE CARRANCO": {
-    "grupos": {
-      "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS": [
-        {
-          "grupo": "002",
-          "nombre": "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS",
-          "profesor": "GRISELDA SOLACHE CARRANCO",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHLMINT",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
   "JEAN PIERRE LOSTAUNAU COSTA": {
     "grupos": {
       "IIO-14278-ADMON. CADENA DE SUMINISTRO": [
@@ -12975,13 +13105,13 @@ let profesores={
       ]
     }
   },
-  "CLAUDIA VICTORIA OLIVAR JIMENEZ": {
+  "ALEJANDRO ESAU MELENDEZ HERNANDEZ": {
     "grupos": {
       "IIO-15196-SISTEMAS MECATRONICOS": [
         {
           "grupo": "001",
           "nombre": "IIO-15196-SISTEMAS MECATRONICOS",
-          "profesor": "CLAUDIA VICTORIA OLIVAR JIMENEZ",
+          "profesor": "ALEJANDRO ESAU MELENDEZ HERNANDEZ",
           "creditos": "6",
           "horario": "10:00-13:00",
           "dias": [
@@ -16691,16 +16821,16 @@ let mejoresPorDepto={
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
+    "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "ROBERTO GONZALEZ TELLEZ",
-    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "CHRISTINA CORNEJO VAN LUIT",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MIGUEL MESSMACHER LINARTAS",
-    "MAGDALENA SOFIA BARBA FERNANDEZ",
-    "ARTURO ALBERTO AGUILAR ESTEVA"
+    "MARTA ROBLES CARTES",
+    "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
     "SILVANO ANTONIO ESPINDOLA PARRA",
@@ -16747,8 +16877,8 @@ let mejoresPorDepto={
     "LUIS EDUARDO URBAN RIVERO",
     "THOMAS MARTIN RUDOLF",
     "ELIAS HERIBERTO ARIAS NAVA",
-    "GRISELDA SOLACHE CARRANCO",
-    "JEAN PIERRE LOSTAUNAU COSTA"
+    "JEAN PIERRE LOSTAUNAU COSTA",
+    "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO"
   ],
   "LENGUAS (LEN)": [
     "FEDERICO VALLE OCHOA",
