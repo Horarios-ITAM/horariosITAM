@@ -1,4 +1,4 @@
-let actualizado="1737470398731.7217";
+let actualizado="1737556810935.859";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -517,7 +517,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH311",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "20:00"
@@ -737,7 +737,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -754,7 +754,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -771,7 +771,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -1066,7 +1066,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF103",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -1081,7 +1081,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF103",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -1096,7 +1096,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF103",
+          "salon": "RHB-3",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -1707,38 +1707,6 @@ let profesores={
           "fin": "08:30"
         }
       ],
-      "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB": [
-        {
-          "grupo": "002L",
-          "nombre": "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "19:00-21:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
-        }
-      ],
-      "DER-11115-TALLER DISERT. JUR. CONST. III-LAB": [
-        {
-          "grupo": "002L",
-          "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "09:00-11:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
-      ],
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
           "grupo": "006",
@@ -1926,7 +1894,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -2229,7 +2197,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -2263,7 +2231,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -2820,7 +2788,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHCC101",
+          "salon": "RHCC102",
           "campus": "RIO HONDO",
           "inicio": "10:30",
           "fin": "12:00"
@@ -2853,7 +2821,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHCC101",
+          "salon": "RHCC102",
           "campus": "RIO HONDO",
           "inicio": "10:30",
           "fin": "12:00"
@@ -4285,9 +4253,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3478,
-    "n": 23,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6576,7 +6544,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -6592,7 +6560,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -6813,6 +6781,42 @@ let profesores={
       ]
     }
   },
+  "FRANZ ERWIN OBERARZBACHER DAVILA": {
+    "grupos": {
+      "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB",
+          "profesor": "FRANZ ERWIN OBERARZBACHER DAVILA",
+          "creditos": "2",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ],
+      "DER-11115-TALLER DISERT. JUR. CONST. III-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III-LAB",
+          "profesor": "FRANZ ERWIN OBERARZBACHER DAVILA",
+          "creditos": "2",
+          "horario": "09:00-11:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "JULIO ANTONIO RIOS FIGUEROA": {
     "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
     "general": 10.0,
@@ -7011,7 +7015,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "PF106",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -7418,7 +7422,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-5",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -7435,7 +7439,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-5",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -7636,7 +7640,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-5",
+          "salon": "RH105",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -9263,9 +9267,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -9783,9 +9787,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -11336,7 +11337,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
@@ -11562,7 +11563,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -12144,8 +12145,8 @@ let profesores={
   },
   "ERICK ULISES MENDOZA ARIAS": {
     "link": "https://www.misprofesores.com/profesores/Erick-Ulises-Mendoza-Arias_159693",
-    "general": 6.6667,
-    "n": 9,
+    "general": 6.3,
+    "n": 10,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -16823,13 +16824,13 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "CHRISTINA CORNEJO VAN LUIT",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
