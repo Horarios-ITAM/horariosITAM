@@ -1,4 +1,4 @@
-let actualizado="1737556810923.1287";
+let actualizado="1737643210779.6575";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -908,7 +908,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -963,7 +963,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -8905,7 +8905,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8955,7 +8955,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9419,7 +9419,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF103",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -11157,7 +11157,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-1",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -11557,7 +11557,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-1",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -12813,7 +12813,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -12827,7 +12827,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -12995,7 +12995,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH305",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:00"
@@ -13049,7 +13049,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHACERV",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:00"
@@ -13123,7 +13123,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH202",
+        "salon": "RHACERV",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
@@ -13219,7 +13219,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHACERV",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:00"
@@ -13233,7 +13233,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHACERV",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "20:00",
         "fin": "21:00"
@@ -13287,7 +13287,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHACERV",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:00"
@@ -13565,7 +13565,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -13579,7 +13579,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -13841,7 +13841,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF102",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -14497,7 +14497,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-        "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+        "profesor": "JORGE MONROY JIMENEZ",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -14644,7 +14644,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-        "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+        "profesor": "JORGE MONROY JIMENEZ",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -15736,6 +15736,11 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
+  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -15963,8 +15968,8 @@ let misProfesData={
   },
   "JOSEFINA CORTES CAMPOS": {
     "link": "https://www.misprofesores.com/profesores/Josefina-Cort\u00e9s-Campos_10790",
-    "general": 7.4444,
-    "n": 27
+    "general": 7.25,
+    "n": 28
   },
   "JESUS ADRIAN CRESPO FARRERA": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adrian-Crespo-Ferrera_180909",
@@ -16023,8 +16028,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7674,
-    "n": 43
+    "general": 7.7045,
+    "n": 44
   },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
@@ -16763,8 +16768,8 @@ let misProfesData={
   },
   "JAIME RUIZ DE SANTIAGO Y SIERRA": {
     "link": "https://www.misprofesores.com/profesores/Jaime-Ruiz-de-Santiago-y-Sierra_21773",
-    "general": 7.4706,
-    "n": 51
+    "general": 7.3654,
+    "n": 52
   },
   "DANIELA RUIZ MASSIEU SALINAS": {
     "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",

@@ -1,4 +1,4 @@
-let actualizado="1737556810935.859";
+let actualizado="1737643210791.8708";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -180,7 +180,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-1",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -213,7 +213,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-1",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -1254,7 +1254,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHB-4",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
@@ -1284,7 +1284,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHB-4",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
@@ -2397,7 +2397,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -2411,7 +2411,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -2427,7 +2427,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -2441,7 +2441,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -8116,8 +8116,8 @@ let profesores={
   },
   "JOSEFINA CORTES CAMPOS": {
     "link": "https://www.misprofesores.com/profesores/Josefina-Cort\u00e9s-Campos_10790",
-    "general": 7.4444,
-    "n": 27,
+    "general": 7.25,
+    "n": 28,
     "grupos": {
       "DER-17601-DERECHO ADMINISTRATIVO I": [
         {
@@ -8742,7 +8742,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF103",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -9787,6 +9787,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -9919,7 +9922,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF107",
+          "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -9936,7 +9939,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF107",
+          "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10647,8 +10650,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7674,
-    "n": 43,
+    "general": 7.7045,
+    "n": 44,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -10854,8 +10857,8 @@ let profesores={
   },
   "JAIME RUIZ DE SANTIAGO Y SIERRA": {
     "link": "https://www.misprofesores.com/profesores/Jaime-Ruiz-de-Santiago-y-Sierra_21773",
-    "general": 7.4706,
-    "n": 51,
+    "general": 7.3654,
+    "n": 52,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -14102,7 +14105,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHACERV",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:00"
@@ -14134,7 +14137,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHACERV",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "18:00"
@@ -14187,7 +14190,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH305",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:00"
@@ -14281,7 +14284,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH202",
+          "salon": "RHACERV",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
@@ -14395,7 +14398,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHACERV",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:00"
@@ -14409,7 +14412,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHACERV",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "21:00"
@@ -14799,7 +14802,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "PF102",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -14826,6 +14829,40 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ],
+      "MAT-14280-PENSAMIENTO MATEMATICO": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
+          "profesor": "JORGE MONROY JIMENEZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "MAT-14300-ALGEBRA SUPERIOR, I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
+          "profesor": "JORGE MONROY JIMENEZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -15740,81 +15777,6 @@ let profesores={
       ]
     }
   },
-  "ANA PAULINA FIGUEROA GUTIERREZ": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.3284,
-    "n": 67,
-    "grupos": {
-      "MAT-14280-PENSAMIENTO MATEMATICO": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH302",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "MAT-14281-MATEMATICAS DISCRETAS": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14281-MATEMATICAS DISCRETAS",
-          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "MAT-14300-ALGEBRA SUPERIOR, I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH302",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "MAT-14301-ALGEBRA SUPERIOR, II": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14301-ALGEBRA SUPERIOR, II",
-          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
   "MIGUEL ANGEL MOTA GAYTAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
     "general": 7.6216,
@@ -15961,6 +15923,47 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:30",
           "fin": "20:00"
+        }
+      ]
+    }
+  },
+  "ANA PAULINA FIGUEROA GUTIERREZ": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
+    "general": 6.3284,
+    "n": 67,
+    "grupos": {
+      "MAT-14281-MATEMATICAS DISCRETAS": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14281-MATEMATICAS DISCRETAS",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH111",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "MAT-14301-ALGEBRA SUPERIOR, II": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14301-ALGEBRA SUPERIOR, II",
+          "profesor": "ANA PAULINA FIGUEROA GUTIERREZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH111",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
