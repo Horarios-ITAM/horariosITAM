@@ -1,4 +1,4 @@
-let actualizado="1737643210779.6575";
+let actualizado="1737729561787.94";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -1230,7 +1230,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -1294,7 +1294,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-        "profesor": "",
+        "profesor": "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -10004,7 +10004,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH207",
+        "salon": "RH208",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -12105,7 +12105,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-        "profesor": "SERGIO ROMERO HERNANDEZ",
+        "profesor": "DAVID MORENO GUINEA",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -15621,7 +15621,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "FEDERICO JOSE KUHLMANN RODRIGUEZ",
+        "profesor": "GABRIELA HERNANDEZ GARCIA",
         "creditos": "4",
         "horario": "18:00-20:00",
         "dias": [
@@ -16151,10 +16151,15 @@ let misProfesData={
     "general": 9.4444,
     "n": 9
   },
+  "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO": {
+    "link": "https://www.misprofesores.com/profesores/HUGO-ALEJANDRO-GARDU\u00d1O-ARREDONDO_103934",
+    "general": 9.1667,
+    "n": 6
+  },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 8.0,
-    "n": 1
+    "general": 9.0,
+    "n": 2
   },
   "MARIA CRISTINA GIGOLA PAGLIALUNGA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Gigola-Paglialunga_10861",
@@ -16295,11 +16300,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Pablo-Kalmanovitz-Gonz\u00e1lez_153830",
     "general": 9.5,
     "n": 4
-  },
-  "FEDERICO JOSE KUHLMANN RODRIGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Federico-Jos\u00e9-Kuhlmann-Rodr\u00edguez_10875",
-    "general": 6.8108,
-    "n": 37
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",

@@ -1,4 +1,4 @@
-let actualizado="1737643210791.8708";
+let actualizado="1737729561799.7317";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -1096,7 +1096,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -1688,13 +1688,16 @@ let profesores={
       ]
     }
   },
-  "": {
+  "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO": {
+    "link": "https://www.misprofesores.com/profesores/HUGO-ALEJANDRO-GARDU\u00d1O-ARREDONDO_103934",
+    "general": 9.1667,
+    "n": 6,
     "grupos": {
       "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
         {
           "grupo": "003",
           "nombre": "ADM-15514-ADMON. DE PORTAF. DE INVERSION",
-          "profesor": "",
+          "profesor": "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
           "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
@@ -1705,23 +1708,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
-        }
-      ],
-      "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
-        {
-          "grupo": "006",
-          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -10557,6 +10543,22 @@ let profesores={
           "inicio": "11:00",
           "fin": "12:00"
         }
+      ],
+      "SDI-15816-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+          "profesor": "GABRIELA HERNANDEZ GARCIA",
+          "creditos": "4",
+          "horario": "18:00-20:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "20:00"
+        }
       ]
     }
   },
@@ -10964,7 +10966,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH207",
+          "salon": "RH208",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -11025,6 +11027,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
+        }
+      ],
+      "IIO-16180-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
+          "profesor": "DAVID MORENO GUINEA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -11180,6 +11199,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
+        {
+          "grupo": "006",
+          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -13034,23 +13074,6 @@ let profesores={
             "JU"
           ],
           "salon": "RHLMINT",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "IIO-16180-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-          "profesor": "SERGIO ROMERO HERNANDEZ",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -16011,8 +16034,8 @@ let profesores={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 8.0,
-    "n": 1,
+    "general": 9.0,
+    "n": 2,
     "grupos": {
       "MAT-14281-MATEMATICAS DISCRETAS": [
         {
@@ -16679,29 +16702,6 @@ let profesores={
       ]
     }
   },
-  "FEDERICO JOSE KUHLMANN RODRIGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Federico-Jos\u00e9-Kuhlmann-Rodr\u00edguez_10875",
-    "general": 6.8108,
-    "n": 37,
-    "grupos": {
-      "SDI-15816-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-          "profesor": "FEDERICO JOSE KUHLMANN RODRIGUEZ",
-          "creditos": "4",
-          "horario": "18:00-20:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
-        }
-      ]
-    }
-  },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
     "general": 6.5769,
@@ -16758,14 +16758,14 @@ let mejoresPorDepto={
   "ADMINISTRACION": [
     "FELIPE BRUGUES RODRIGUEZ",
     "DANIELA RUIZ MASSIEU SALINAS",
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "ADRIAN RUBLI ORNELAS",
     "JOSE JAVIER MEDRANO PEREZ",
     "JANKO HERNANDEZ CORTES",
     "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
     "ALEXANDROS FAKOS",
     "JUAN JOSE FERNANDEZ DURAN",
-    "CARLOS GONZALEZ HERNANDEZ",
-    "CLAUDIA NOEMI GONZALEZ BRAMBILA"
+    "CARLOS GONZALEZ HERNANDEZ"
   ],
   "CTRO DE ESTUDIO DEL BIENESTAR": [
     "MARGARITA TARRAGONA SAEZ"
@@ -16898,6 +16898,7 @@ let mejoresPorDepto={
   ],
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
+    "JUAN SALVADOR GARZA LEDESMA",
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "JORGE ALCALDE MARTIN DEL CAMPO",
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
@@ -16905,19 +16906,18 @@ let mejoresPorDepto={
     "JOSE PABLO OLIVARES PRETELIN",
     "SHARON MAGALI VALVERDE ESPARZA",
     "LEOBARDO FERNANDEZ ROMAN",
-    "JOSE EZEQUIEL SOTO SANCHEZ",
-    "JUAN SALVADOR GARZA LEDESMA"
+    "JOSE EZEQUIEL SOTO SANCHEZ"
   ],
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER VILLA LOPEZ",
     "RAFAEL CISNEROS MONTOYA",
     "JOSE GUADALUPE ROMERO VELAZQUEZ",
-    "FEDERICO JOSE KUHLMANN RODRIGUEZ",
     "ANTE SALCEDO GONZALEZ",
     "MARIA OFELIA RODRIGUEZ DURAN",
     "HUGO RODRIGUEZ CORTES",
     "ROMEO SALVADOR ORTEGA MARTINEZ",
     "FRANCISCO JAVIER BLANCO RIVERA",
-    "FELIPE ARTURO LOPEZ BONILLA"
+    "FELIPE ARTURO LOPEZ BONILLA",
+    "MARCO ANTONIO MARTINEZ RAMIREZ"
   ]
 };
