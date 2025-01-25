@@ -1,4 +1,4 @@
-let actualizado="1737729561787.94";
+let actualizado="1737815787910.8208";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -1555,7 +1555,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -4711,14 +4711,14 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CSO-12013-HISTORIA POLITICA CONTEMPORAN.",
-        "profesor": "CHRISTIANE FABREGA CHIMALI",
+        "profesor": "CHRISTINA CORNEJO VAN LUIT",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH113",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -5842,7 +5842,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -5948,7 +5948,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH309",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -6019,7 +6019,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH102",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -6137,7 +6137,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH102",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -6594,7 +6594,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -15736,11 +15736,6 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -16192,9 +16187,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -16638,8 +16633,8 @@ let misProfesData={
   },
   "LUCIA PI CHOLULA": {
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
-    "general": 7.7,
-    "n": 20
+    "general": 7.4286,
+    "n": 21
   },
   "EDUARDO PORTAS RUIZ": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Portas-Ruiz_181179",
