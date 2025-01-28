@@ -1,4 +1,4 @@
-let actualizado="1737988813910.2495";
+let actualizado="1738075186552.4507";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -3824,7 +3824,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -3838,7 +3838,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF106",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -16192,9 +16192,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -16707,9 +16707,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
