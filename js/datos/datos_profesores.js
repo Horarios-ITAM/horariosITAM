@@ -1,4 +1,4 @@
-let actualizado="1738161597796.032";
+let actualizado="1738247843823.1663";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4239,9 +4239,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3478,
-    "n": 23,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -9269,9 +9269,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -15213,8 +15213,8 @@ let profesores={
   },
   "MAYRA NU\u00d1EZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
-    "general": 9.2857,
-    "n": 14,
+    "general": 9.3333,
+    "n": 15,
     "grupos": {
       "MAT-12220-CALCULO EN UNA VARIABLE": [
         {
@@ -16843,13 +16843,13 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
