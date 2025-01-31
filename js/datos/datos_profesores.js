@@ -1,4 +1,4 @@
-let actualizado="1738247843823.1663";
+let actualizado="1738334344562.1458";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4239,9 +4239,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5941,6 +5941,22 @@ let profesores={
           "inicio": "07:00",
           "fin": "10:00"
         }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "MARIANA AGUILAR AGUILAR",
+          "creditos": "9",
+          "horario": "10:00-11:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
       ]
     }
   },
@@ -6036,22 +6052,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ],
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "ALEJANDRO  RODILES BRETON",
-          "creditos": "9",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "DER-18600-DERECHO INTERNACIONAL I": [
@@ -6203,8 +6203,8 @@ let profesores={
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.7778,
-    "n": 9,
+    "general": 9.8,
+    "n": 10,
     "grupos": {
       "DER-10015-DERECHO EMPRESARIAL": [
         {
@@ -6403,28 +6403,26 @@ let profesores={
           "nombre": "DER-10113-DERECHO PUBLICO",
           "profesor": "LUIS FERNANDO COYOC TRUJILLO",
           "creditos": "9",
-          "horario": "08:30-10:00",
+          "horario": "07:00-08:30",
           "dias": [
-            "MA"
+            "LU",
+            "MI"
           ],
-          "salon": "RH313",
+          "salon": "PF108",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
   },
-  "LUIS ENRIQUE PEREDA TREJO": {
-    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
-    "general": 8.3333,
-    "n": 3,
+  "JOYCE CAROL  SADKA": {
     "grupos": {
       "DER-10113-DERECHO PUBLICO": [
         {
           "grupo": "002",
           "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "LUIS ENRIQUE PEREDA TREJO",
+          "profesor": "JOYCE CAROL  SADKA",
           "creditos": "9",
           "horario": "08:30-10:00",
           "dias": [
@@ -6434,6 +6432,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ],
+      "ECO-14208-ANAL. ECON. DEL DER. II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
+          "profesor": "JOYCE CAROL  SADKA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -6458,43 +6473,43 @@ let profesores={
       ]
     }
   },
-  "PABLO ARIEL RAPETTI": {
-    "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.1905,
-    "n": 21,
+  "ALBERTO PUPPO": {
+    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
+    "general": 8.2895,
+    "n": 38,
     "grupos": {
       "DER-11101-TEORIA DEL DERECHO, I": [
         {
           "grupo": "001",
           "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-          "profesor": "PABLO ARIEL RAPETTI",
+          "profesor": "ALBERTO PUPPO",
           "creditos": "10",
-          "horario": "16:00-18:00",
+          "horario": "17:30-19:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
           "salon": "RH317",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ],
       "DER-11122-TEOR\u00cdA DEL DERECHO I": [
         {
           "grupo": "001",
           "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-          "profesor": "PABLO ARIEL RAPETTI",
+          "profesor": "ALBERTO PUPPO",
           "creditos": "9",
-          "horario": "16:00-17:30",
+          "horario": "17:30-19:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
           "salon": "RH317",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -7049,14 +7064,33 @@ let profesores={
       ]
     }
   },
-  "JUAN JESUS GARZA ONOFRE": {
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31,
     "grupos": {
       "DER-11119-FILOSOFIA DEL DERECHO": [
         {
           "grupo": "001",
           "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-          "profesor": "JUAN JESUS GARZA ONOFRE",
+          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
           "creditos": "9",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "DER-11805-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+          "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
             "LU",
@@ -7232,30 +7266,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31,
-    "grupos": {
-      "DER-11805-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -7566,7 +7576,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH305",
+          "salon": "RH108",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -9886,27 +9896,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "JOYCE CAROL  SADKA": {
-    "grupos": {
-      "ECO-14208-ANAL. ECON. DEL DER. II": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
-          "profesor": "JOYCE CAROL  SADKA",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -14979,9 +14968,10 @@ let profesores={
           "creditos": "9",
           "horario": "11:30-13:00",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
-          "salon": "PF102",
+          "salon": "RH105",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -15033,9 +15023,10 @@ let profesores={
           "creditos": "9",
           "horario": "11:30-13:00",
           "dias": [
-            "MI"
+            "LU",
+            "VI"
           ],
-          "salon": "PF102",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -15087,9 +15078,10 @@ let profesores={
           "creditos": "9",
           "horario": "08:30-10:00",
           "dias": [
-            "MI"
+            "LU",
+            "VI"
           ],
-          "salon": "PF102",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -15127,9 +15119,10 @@ let profesores={
           "creditos": "9",
           "horario": "16:00-17:30",
           "dias": [
-            "MI"
+            "LU",
+            "VI"
           ],
-          "salon": "PF101",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -15319,9 +15312,9 @@ let profesores={
           "creditos": "8",
           "horario": "09:00-11:00",
           "dias": [
-            "JU"
+            "MA"
           ],
-          "salon": "PF102",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -15628,9 +15621,9 @@ let profesores={
           "creditos": "8",
           "horario": "16:00-18:00",
           "dias": [
-            "JU"
+            "MA"
           ],
-          "salon": "PF102",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -16051,7 +16044,7 @@ let profesores={
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
     "general": 9.0,
-    "n": 2,
+    "n": 3,
     "grupos": {
       "MAT-14281-MATEMATICAS DISCRETAS": [
         {
@@ -16273,9 +16266,9 @@ let profesores={
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "PF102",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -16313,9 +16306,9 @@ let profesores={
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
-            "LU"
+            "MI"
           ],
-          "salon": "PF102",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -16329,9 +16322,9 @@ let profesores={
           "creditos": "8",
           "horario": "18:00-20:00",
           "dias": [
-            "LU"
+            "MI"
           ],
-          "salon": "PF102",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -16835,8 +16828,8 @@ let mejoresPorDepto={
     "DENISE MEJAN GANEM",
     "JOSE OMAR HERNANDEZ SALGADO",
     "JOSE LUIS CABALLERO RODRIGUEZ",
-    "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
     "FRANCO ALBERTO DEL VALLE PRADO",
+    "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
     "IRVIN ARTURO CASTILLO CESAREO",
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],

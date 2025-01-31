@@ -1,4 +1,4 @@
-let actualizado="1738247843810.2705";
+let actualizado="1738334344548.1045";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -5368,16 +5368,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "ALEJANDRO  RODILES BRETON",
+        "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "07:00-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "RH308",
+        "salon": "RH107",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -5543,19 +5543,20 @@ let clases={
         "nombre": "DER-10113-DERECHO PUBLICO",
         "profesor": "LUIS FERNANDO COYOC TRUJILLO",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "07:00-08:30",
         "dias": [
-          "MA"
+          "LU",
+          "MI"
         ],
-        "salon": "RH313",
+        "salon": "PF108",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "07:00",
+        "fin": "08:30"
       },
       {
         "grupo": "002",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "LUIS ENRIQUE PEREDA TREJO",
+        "profesor": "JOYCE CAROL  SADKA",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -5595,17 +5596,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "PABLO ARIEL RAPETTI",
+        "profesor": "ALBERTO PUPPO",
         "creditos": "10",
-        "horario": "16:00-18:00",
+        "horario": "17:30-19:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
         "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "18:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6053,17 +6054,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-        "profesor": "JUAN JESUS GARZA ONOFRE",
+        "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "17:30-19:00",
         "dias": [
-          "LU",
-          "MI"
+          "LU"
         ],
         "salon": "RH308",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6130,17 +6130,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-        "profesor": "PABLO ARIEL RAPETTI",
+        "profesor": "ALBERTO PUPPO",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "17:30-19:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
         "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6670,7 +6670,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH305",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -13887,9 +13887,10 @@ let clases={
         "creditos": "9",
         "horario": "11:30-13:00",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "PF102",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -13907,9 +13908,10 @@ let clases={
         "creditos": "9",
         "horario": "11:30-13:00",
         "dias": [
-          "MI"
+          "LU",
+          "VI"
         ],
-        "salon": "PF102",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -13935,9 +13937,10 @@ let clases={
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
-          "MI"
+          "LU",
+          "VI"
         ],
-        "salon": "PF102",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -13949,9 +13952,10 @@ let clases={
         "creditos": "9",
         "horario": "16:00-17:30",
         "dias": [
-          "MI"
+          "LU",
+          "VI"
         ],
-        "salon": "PF101",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -14871,9 +14875,9 @@ let clases={
         "creditos": "8",
         "horario": "09:00-11:00",
         "dias": [
-          "JU"
+          "MA"
         ],
-        "salon": "PF102",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -14885,9 +14889,9 @@ let clases={
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
-          "JU"
+          "MA"
         ],
-        "salon": "PF102",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -15118,9 +15122,9 @@ let clases={
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "PF102",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -15138,9 +15142,9 @@ let clases={
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
-          "LU"
+          "MI"
         ],
-        "salon": "PF102",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -15158,9 +15162,9 @@ let clases={
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
-          "LU"
+          "MI"
         ],
-        "salon": "PF102",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -16018,8 +16022,8 @@ let misProfesData={
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.7778,
-    "n": 9
+    "general": 9.8,
+    "n": 10
   },
   "POLUX ERNESTO DIAZ RUIZ": {
     "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
@@ -16179,7 +16183,7 @@ let misProfesData={
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
     "general": 9.0,
-    "n": 2
+    "n": 3
   },
   "MARIA CRISTINA GIGOLA PAGLIALUNGA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Gigola-Paglialunga_10861",
@@ -16212,9 +16216,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -16611,11 +16615,6 @@ let misProfesData={
     "general": 9.0,
     "n": 1
   },
-  "LUIS ENRIQUE PEREDA TREJO": {
-    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
-    "general": 8.3333,
-    "n": 3
-  },
   "WILMER EFREN PEREIRA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Wilmer-Efr\u00e9n-Pereira-Gonz\u00e1lez_142587",
     "general": 10.0,
@@ -16670,6 +16669,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
     "general": 7.1739,
     "n": 69
+  },
+  "ALBERTO PUPPO": {
+    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
+    "general": 8.2895,
+    "n": 38
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
