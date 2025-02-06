@@ -1,4 +1,4 @@
-let actualizado="1738766331081.1335";
+let actualizado="1738852770317.081";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -7543,7 +7543,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF108",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -9789,6 +9789,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
