@@ -1,4 +1,4 @@
-let actualizado="1738939181577.1965";
+let actualizado="1739025420273.8113";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -7377,7 +7377,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -10193,7 +10193,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "",
+        "profesor": "JOSE ANTONIO CRESPO MENDOZA",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -15756,11 +15756,6 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
-  "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27
-  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -16727,9 +16722,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
