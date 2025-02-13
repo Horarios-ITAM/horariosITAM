@@ -1,4 +1,4 @@
-let actualizado="1739371243305.3696";
+let actualizado="1739457672149.2693";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -9310,7 +9310,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH103",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -16212,9 +16212,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -16948,8 +16948,8 @@ let misProfesData={
   },
   "INES VARGAS CHRISTLIEB": {
     "link": "https://www.misprofesores.com/profesores/INES-VARGAS-CHRISTLIEB_99471",
-    "general": 8.25,
-    "n": 4
+    "general": 8.6,
+    "n": 5
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",

@@ -1,4 +1,4 @@
-let actualizado="1739371243318.3977";
+let actualizado="1739457672162.2864";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4239,9 +4239,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6373,8 +6373,8 @@ let profesores={
   },
   "INES VARGAS CHRISTLIEB": {
     "link": "https://www.misprofesores.com/profesores/INES-VARGAS-CHRISTLIEB_99471",
-    "general": 8.25,
-    "n": 4,
+    "general": 8.6,
+    "n": 5,
     "grupos": {
       "DER-10026-DERECHO CORPORATIVO": [
         {
@@ -9331,7 +9331,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH103",
+          "salon": "RHSA2",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
