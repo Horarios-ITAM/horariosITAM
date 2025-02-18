@@ -1,4 +1,4 @@
-let actualizado="1739803281084.4082";
+let actualizado="1739889670487.5898";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -7072,8 +7072,8 @@ let profesores={
   },
   "LUIS REY RAIGOSA SOTELO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Rey-Raigosa-Sotelo_10783",
-    "general": 7.7778,
-    "n": 18,
+    "general": 7.65,
+    "n": 20,
     "grupos": {
       "DER-11120-TALLER DISER JUR TEC ARGUM JUR": [
         {
@@ -9789,9 +9789,6 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
-    "general": 6.963,
-    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -11430,8 +11427,8 @@ let profesores={
   },
   "GERARDO ZORRILLA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
-    "general": 7.0345,
-    "n": 58,
+    "general": 6.9833,
+    "n": 60,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -12146,7 +12143,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-2",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "22:00"
