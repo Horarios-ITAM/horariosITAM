@@ -1,4 +1,4 @@
-let actualizado="1739889670487.5898";
+let actualizado="1739976097690.333";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -6572,8 +6572,8 @@ let profesores={
   },
   "ANDRES HERNANDEZ BARRERA": {
     "link": "https://www.misprofesores.com/profesores/Andres-Hernandez-Barrera_181176",
-    "general": 8.5,
-    "n": 2,
+    "general": 9.0,
+    "n": 3,
     "grupos": {
       "DER-11105-ESCR. Y ARG. JURID EN INGLES I": [
         {
@@ -9269,9 +9269,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -16146,8 +16146,8 @@ let profesores={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 4.5,
-    "n": 4,
+    "general": 5.2,
+    "n": 5,
     "grupos": {
       "MAT-14310-ALG. LINEAL, II (ALG. LINEAL)": [
         {
@@ -16840,13 +16840,13 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "ROBERTO GONZALEZ TELLEZ",
-    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
+    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [

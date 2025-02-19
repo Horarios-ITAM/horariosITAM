@@ -1,4 +1,4 @@
-let actualizado="1739889670474.1401";
+let actualizado="1739976097677.5625";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -16258,8 +16258,8 @@ let misProfesData={
   },
   "ANDRES HERNANDEZ BARRERA": {
     "link": "https://www.misprofesores.com/profesores/Andres-Hernandez-Barrera_181176",
-    "general": 8.5,
-    "n": 2
+    "general": 9.0,
+    "n": 3
   },
   "JANKO HERNANDEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
@@ -16722,9 +16722,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -16973,8 +16973,8 @@ let misProfesData={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 4.5,
-    "n": 4
+    "general": 5.2,
+    "n": 5
   },
   "FRANCISCO JAVIER VILLA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/FRANCISCO-JAVIER-VILLA-LOPEZ_159928",
