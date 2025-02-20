@@ -1,4 +1,4 @@
-let actualizado="1739976097677.5625";
+let actualizado="1740062478524.1648";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4193,7 +4193,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -4428,7 +4428,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RH314",
+        "salon": "RHCC102",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -4556,6 +4556,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
+      }
+    ]
+  },
+  "CON-17100": {
+    "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
+    "clave": "CON-17100",
+    "grupos": [
+      {
+        "grupo": "003",
+        "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH303",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -11356,7 +11376,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH311",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -11490,7 +11510,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH311",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -16023,8 +16043,8 @@ let misProfesData={
   },
   "ANTONIO JESUS DIEZ QUESADA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Jes\u00fas-Diez-Quesada_10816",
-    "general": 8.1607,
-    "n": 112
+    "general": 8.177,
+    "n": 113
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
@@ -16722,9 +16742,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",

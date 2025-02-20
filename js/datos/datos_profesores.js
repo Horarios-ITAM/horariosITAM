@@ -1,4 +1,4 @@
-let actualizado="1739976097690.333";
+let actualizado="1740062478535.754";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4815,7 +4815,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -5058,7 +5058,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH314",
+          "salon": "RHCC102",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -5203,6 +5203,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "CON-17100-SEMINAR. DE INVEST. CONTABLE,I": [
+        {
+          "grupo": "003",
+          "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -9269,9 +9289,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10914,8 +10934,8 @@ let profesores={
   },
   "ANTONIO JESUS DIEZ QUESADA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Jes\u00fas-Diez-Quesada_10816",
-    "general": 8.1607,
-    "n": 112,
+    "general": 8.177,
+    "n": 113,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12471,7 +12491,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH311",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -12488,7 +12508,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH311",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -16840,13 +16860,13 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "ROBERTO GONZALEZ TELLEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
-    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
