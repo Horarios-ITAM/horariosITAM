@@ -1,4 +1,4 @@
-let actualizado="1740062478535.754";
+let actualizado="1740148815935.4092";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -5207,13 +5207,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "BENITO REVAH MEYOHAS": {
     "grupos": {
       "CON-17100-SEMINAR. DE INVEST. CONTABLE,I": [
         {
           "grupo": "003",
           "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
-          "profesor": "",
+          "profesor": "BENITO REVAH MEYOHAS",
           "creditos": "6",
           "horario": "19:00-22:00",
           "dias": [
@@ -9289,9 +9289,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -9809,6 +9809,9 @@ let profesores={
     }
   },
   "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -15133,8 +15136,8 @@ let profesores={
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 8.8333,
-    "n": 18,
+    "general": 8.7368,
+    "n": 19,
     "grupos": {
       "MAT-12201-CALCULO MULTIVARIADO": [
         {
@@ -16860,13 +16863,13 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "ROBERTO GONZALEZ TELLEZ",
-    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
+    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
@@ -16934,8 +16937,8 @@ let mejoresPorDepto={
     "JUAN SALVADOR GARZA LEDESMA",
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "JORGE ALCALDE MARTIN DEL CAMPO",
-    "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "CONCEPCION RUIZ RUIZ FUNES",
+    "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "JOSE PABLO OLIVARES PRETELIN",
     "SHARON MAGALI VALVERDE ESPARZA",
     "LEOBARDO FERNANDEZ ROMAN",

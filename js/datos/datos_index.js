@@ -1,4 +1,4 @@
-let actualizado="1740062478524.1648";
+let actualizado="1740148815923.0227";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4566,7 +4566,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
-        "profesor": "",
+        "profesor": "BENITO REVAH MEYOHAS",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -15776,6 +15776,11 @@ let misProfesData={
     "general": 6.9138,
     "n": 58
   },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
+  },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
     "general": 6.5455,
@@ -16408,8 +16413,8 @@ let misProfesData={
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 8.8333,
-    "n": 18
+    "general": 8.7368,
+    "n": 19
   },
   "JOSE GABRIEL MARTINEZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Gabriel-Mart\u00ednez-Gonz\u00e1lez_181679",
@@ -16742,9 +16747,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
