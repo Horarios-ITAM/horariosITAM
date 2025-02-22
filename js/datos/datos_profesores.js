@@ -1,4 +1,4 @@
-let actualizado="1740148815935.4092";
+let actualizado="1740235079917.5168";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -7484,8 +7484,8 @@ let profesores={
   },
   "CESAR CLAUDIO URRUTIA ROMERO": {
     "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
-    "general": 7.6,
-    "n": 5,
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "DER-13406-TEORIA GENERAL DEL PROCESO": [
         {
@@ -10829,8 +10829,8 @@ let profesores={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.7308,
-    "n": 52,
+    "general": 6.6792,
+    "n": 53,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
