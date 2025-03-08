@@ -1,4 +1,4 @@
-let actualizado="1741358448652.1038";
+let actualizado="1741444627317.564";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -7661,8 +7661,8 @@ let profesores={
   },
   "JESUS ADRIAN CRESPO FARRERA": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adrian-Crespo-Ferrera_180909",
-    "general": 10.0,
-    "n": 2,
+    "general": 7.3333,
+    "n": 3,
     "grupos": {
       "DER-14606-DERECHO PROCESAL PENAL": [
         {
@@ -12474,7 +12474,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH301",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -16067,8 +16067,8 @@ let profesores={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.0,
-    "n": 3,
+    "general": 9.25,
+    "n": 4,
     "grupos": {
       "MAT-14281-MATEMATICAS DISCRETAS": [
         {
@@ -16848,14 +16848,14 @@ let mejoresPorDepto={
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
     "JULIO ANTONIO RIOS FIGUEROA",
-    "JESUS ADRIAN CRESPO FARRERA",
     "DENISE MEJAN GANEM",
     "JOSE OMAR HERNANDEZ SALGADO",
     "JOSE LUIS CABALLERO RODRIGUEZ",
     "FRANCO ALBERTO DEL VALLE PRADO",
     "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
     "IRVIN ARTURO CASTILLO CESAREO",
-    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
+    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
+    "AMRITA BAHRI"
   ],
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
