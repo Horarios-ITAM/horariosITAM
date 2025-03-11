@@ -1,4 +1,4 @@
-let actualizado="1741617793910.334";
+let actualizado="1741704187093.3457";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -3104,7 +3104,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF104",
+        "salon": "RHCC101",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -15775,6 +15775,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
     "general": 6.9138,
     "n": 58
+  },
+  "JORGE ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ortiz_41491",
+    "general": 6.963,
+    "n": 27
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
