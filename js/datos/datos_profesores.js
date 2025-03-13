@@ -1,4 +1,4 @@
-let actualizado="1741790579094.1433";
+let actualizado="1741876937626.621";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -5058,7 +5058,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHCC102",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -11955,6 +11955,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 5.0,
+    "n": 1,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {

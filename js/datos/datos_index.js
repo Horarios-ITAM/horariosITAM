@@ -1,4 +1,4 @@
-let actualizado="1741790579081.7593";
+let actualizado="1741876937614.624";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4428,7 +4428,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHCC102",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -16395,6 +16395,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Eric-Magar-Meurs_10805",
     "general": 8.0769,
     "n": 26
+  },
+  "MARTIN MAGRIS": {
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 5.0,
+    "n": 1
   },
   "JUAN CARLOS MANSUR GARDA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Mansur-Garda_10820",
