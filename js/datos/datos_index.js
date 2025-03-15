@@ -1,4 +1,4 @@
-let actualizado="1741963257908.708";
+let actualizado="1742049538213.299";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -5388,16 +5388,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "ALEJANDRO  RODILES BRETON",
+        "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "07:00-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "RH308",
+        "salon": "RH107",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -5615,17 +5615,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "PABLO ARIEL RAPETTI",
+        "profesor": "ALBERTO PUPPO",
         "creditos": "10",
-        "horario": "16:00-18:00",
+        "horario": "17:30-19:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
         "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "18:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6073,17 +6073,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-        "profesor": "JUAN JESUS GARZA ONOFRE",
+        "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "17:30-19:00",
         "dias": [
-          "LU",
-          "MI"
+          "LU"
         ],
         "salon": "RH308",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6150,17 +6149,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-        "profesor": "PABLO ARIEL RAPETTI",
+        "profesor": "ALBERTO PUPPO",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "17:30-19:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
         "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -16232,9 +16231,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3478,
-    "n": 23
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -16696,6 +16695,11 @@ let misProfesData={
     "general": 7.1739,
     "n": 69
   },
+  "ALBERTO PUPPO": {
+    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
+    "general": 8.2895,
+    "n": 38
+  },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
     "general": 7.0,
@@ -16752,9 +16756,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.6,
-    "n": 75
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -17077,8 +17081,8 @@ let misProfesData={
     "n": 2
   },
   "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
-    "general": 6.9833,
-    "n": 60
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
+    "general": 10.0,
+    "n": 1
   }
 };
