@@ -1,4 +1,4 @@
-let actualizado="1742740704641.214";
+let actualizado="1742827425053.6208";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -16231,9 +16231,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3478,
-    "n": 23
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
