@@ -1,4 +1,4 @@
-let actualizado="1742913852432.888";
+let actualizado="1743000265304.743";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -5961,22 +5961,6 @@ let profesores={
           "inicio": "07:00",
           "fin": "10:00"
         }
-      ],
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "MARIANA AGUILAR AGUILAR",
-          "creditos": "9",
-          "horario": "10:00-11:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
       ]
     }
   },
@@ -6072,6 +6056,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "ALEJANDRO  RODILES BRETON",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ],
       "DER-18600-DERECHO INTERNACIONAL I": [
@@ -6478,43 +6478,43 @@ let profesores={
       ]
     }
   },
-  "ALBERTO PUPPO": {
-    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
-    "general": 8.2895,
-    "n": 38,
+  "PABLO ARIEL RAPETTI": {
+    "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
+    "general": 8.1905,
+    "n": 21,
     "grupos": {
       "DER-11101-TEORIA DEL DERECHO, I": [
         {
           "grupo": "001",
           "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-          "profesor": "ALBERTO PUPPO",
+          "profesor": "PABLO ARIEL RAPETTI",
           "creditos": "10",
-          "horario": "17:30-19:00",
+          "horario": "16:00-18:00",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
           "salon": "RH317",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ],
       "DER-11122-TEOR\u00cdA DEL DERECHO I": [
         {
           "grupo": "001",
           "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-          "profesor": "ALBERTO PUPPO",
+          "profesor": "PABLO ARIEL RAPETTI",
           "creditos": "9",
-          "horario": "17:30-19:00",
+          "horario": "16:00-17:30",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
           "salon": "RH317",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -7069,33 +7069,14 @@ let profesores={
       ]
     }
   },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31,
+  "JUAN JESUS GARZA ONOFRE": {
     "grupos": {
       "DER-11119-FILOSOFIA DEL DERECHO": [
         {
           "grupo": "001",
           "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+          "profesor": "JUAN JESUS GARZA ONOFRE",
           "creditos": "9",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "DER-11805-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
-          "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
             "LU",
@@ -7271,6 +7252,30 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31,
+    "grupos": {
+      "DER-11805-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
