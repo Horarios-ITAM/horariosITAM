@@ -1,4 +1,4 @@
-let actualizado="1743000265304.743";
+let actualizado="1743086618354.9219";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4239,9 +4239,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -8189,7 +8189,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH312",
+          "salon": "RH105",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
