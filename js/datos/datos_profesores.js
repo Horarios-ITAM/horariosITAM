@@ -1,4 +1,4 @@
-let actualizado="1743086618354.9219";
+let actualizado="1743172932536.332";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4239,9 +4239,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3478,
-    "n": 23,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -8393,7 +8393,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH317",
+          "salon": "PF106",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -12574,6 +12574,22 @@ let profesores={
           "inicio": "11:30",
           "fin": "13:00"
         }
+      ],
+      "MAT-22211-OPTIMIZACION": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-22211-OPTIMIZACION",
+          "profesor": "FELIPE JAVIER MEDINA AGUAYO",
+          "creditos": "6",
+          "horario": "18:00-21:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "21:00"
+        }
       ]
     }
   },
@@ -12677,6 +12693,22 @@ let profesores={
           "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "20:00",
+          "fin": "22:00"
+        }
+      ],
+      "EST-24108-REGRESION AVANZADA": [
+        {
+          "grupo": "002",
+          "nombre": "EST-24108-REGRESION AVANZADA",
+          "profesor": "JOSE DAVID SANTOS SALAZAR",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
           "fin": "22:00"
         }
       ]
