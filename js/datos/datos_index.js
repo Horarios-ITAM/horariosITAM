@@ -1,4 +1,4 @@
-let actualizado="1744296174868.1355";
+let actualizado="1744382530273.577";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -15965,8 +15965,8 @@ let misProfesData={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.88,
-    "n": 50
+    "general": 6.9412,
+    "n": 51
   },
   "IRVIN ARTURO CASTILLO CESAREO": {
     "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
@@ -16259,9 +16259,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3478,
-    "n": 23
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
