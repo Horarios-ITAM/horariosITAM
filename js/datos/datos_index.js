@@ -1,4 +1,4 @@
-let actualizado="1744468765881.2292";
+let actualizado="1744555167172.349";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -16779,9 +16779,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75
   },
   "CARLOS VLADIMIR RODRIGUEZ CABALLERO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Vladimir-Rodr\u00edguez-Caballero_104051",
@@ -17104,8 +17104,8 @@ let misProfesData={
     "n": 2
   },
   "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
+    "general": 6.9833,
+    "n": 60
   }
 };
