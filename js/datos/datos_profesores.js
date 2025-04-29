@@ -1,4 +1,4 @@
-let actualizado="1745851652949.8467";
+let actualizado="1745937899009.4182";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4239,9 +4239,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -8106,8 +8106,8 @@ let profesores={
   },
   "JOSEFINA CORTES CAMPOS": {
     "link": "https://www.misprofesores.com/profesores/Josefina-Cort\u00e9s-Campos_10790",
-    "general": 7.25,
-    "n": 28,
+    "general": 7.069,
+    "n": 29,
     "grupos": {
       "DER-17601-DERECHO ADMINISTRATIVO I": [
         {
@@ -11446,9 +11446,9 @@ let profesores={
     }
   },
   "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
-    "general": 6.9833,
-    "n": 60,
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -16905,6 +16905,7 @@ let mejoresPorDepto={
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
+    "GERARDO ZORRILLA RAMOS",
     "SILVANO ANTONIO ESPINDOLA PARRA",
     "JAVIER ARTURO VELAZQUEZ GALVAN",
     "ROBERTO ZOCCO",
@@ -16913,8 +16914,7 @@ let mejoresPorDepto={
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "JOSE PANTALEON DOMINGUEZ ESPONDA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
