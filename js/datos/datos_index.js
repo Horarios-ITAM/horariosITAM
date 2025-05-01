@@ -1,4 +1,4 @@
-let actualizado="1746024233130.972";
+let actualizado="1746110525667.8";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -5388,16 +5388,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "MARIANA AGUILAR AGUILAR",
+        "profesor": "ALEJANDRO  RODILES BRETON",
         "creditos": "9",
-        "horario": "10:00-11:30",
+        "horario": "07:00-10:00",
         "dias": [
-          "JU"
+          "VI"
         ],
-        "salon": "RH107",
+        "salon": "RH308",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -5615,17 +5615,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "ALBERTO PUPPO",
+        "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "10",
-        "horario": "17:30-19:00",
+        "horario": "16:00-18:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
         "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -6073,16 +6073,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-        "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+        "profesor": "JUAN JESUS GARZA ONOFRE",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "LU"
+          "LU",
+          "MI"
         ],
         "salon": "RH308",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -6149,17 +6150,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-        "profesor": "ALBERTO PUPPO",
+        "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
         "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -16722,11 +16723,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
     "general": 7.1857,
     "n": 70
-  },
-  "ALBERTO PUPPO": {
-    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
-    "general": 8.2895,
-    "n": 38
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
