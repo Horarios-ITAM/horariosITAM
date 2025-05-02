@@ -1,4 +1,4 @@
-let actualizado="1746110525679.7173";
+let actualizado="1746197006379.302";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4239,9 +4239,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3478,
-    "n": 23,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -10987,8 +10987,8 @@ let profesores={
   },
   "CARLOS JEFFREY MCCADDEN MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Jeffrey-McCadden-Mart\u00ednez_10822",
-    "general": 5.5798,
-    "n": 188,
+    "general": 5.5714,
+    "n": 189,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {

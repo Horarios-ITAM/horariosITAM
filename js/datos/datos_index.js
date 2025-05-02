@@ -1,4 +1,4 @@
-let actualizado="1746110525667.8";
+let actualizado="1746197006367.224";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -16260,9 +16260,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.3478,
-    "n": 23
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "ROBERTO GONZALEZ TELLEZ": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Gonzalez-Tellez_171625",
@@ -16476,8 +16476,8 @@ let misProfesData={
   },
   "CARLOS JEFFREY MCCADDEN MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Jeffrey-McCadden-Mart\u00ednez_10822",
-    "general": 5.5798,
-    "n": 188
+    "general": 5.5714,
+    "n": 189
   },
   "JOSE JAVIER MEDRANO PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
