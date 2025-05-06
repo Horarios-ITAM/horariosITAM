@@ -1,4 +1,4 @@
-let actualizado="1746456329492.531";
+let actualizado="1746542753326.814";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -9289,9 +9289,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -16898,13 +16898,13 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "ROBERTO GONZALEZ TELLEZ",
-    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
+    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
