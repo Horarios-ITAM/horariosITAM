@@ -1,4 +1,4 @@
-let actualizado="1746801831692.6206";
+let actualizado="1746888009253.5486";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -4239,9 +4239,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.3478,
+    "n": 23,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -9289,9 +9289,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.6,
+    "n": 75,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -11449,9 +11449,9 @@ let profesores={
     }
   },
   "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
+    "general": 6.9833,
+    "n": 60,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -16269,8 +16269,8 @@ let profesores={
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
-    "general": 8.95,
-    "n": 60,
+    "general": 8.8361,
+    "n": 61,
     "grupos": {
       "MAT-24210-SISTEMAS DINAMICOS,I": [
         {
@@ -16898,17 +16898,16 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "ROBERTO GONZALEZ TELLEZ",
-    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
+    "MARTA ROBLES CARTES",
     "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
-    "GERARDO ZORRILLA RAMOS",
     "SILVANO ANTONIO ESPINDOLA PARRA",
     "JAVIER ARTURO VELAZQUEZ GALVAN",
     "ROBERTO ZOCCO",
@@ -16917,7 +16916,8 @@ let mejoresPorDepto={
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "JOSE PANTALEON DOMINGUEZ ESPONDA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -16970,8 +16970,8 @@ let mejoresPorDepto={
   "MATEMATICAS": [
     "MAYRA NU\u00d1EZ LOPEZ",
     "JUAN SALVADOR GARZA LEDESMA",
-    "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "JORGE ALCALDE MARTIN DEL CAMPO",
+    "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "CONCEPCION RUIZ RUIZ FUNES",
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "JOSE PABLO OLIVARES PRETELIN",
