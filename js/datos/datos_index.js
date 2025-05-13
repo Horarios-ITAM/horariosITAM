@@ -1,4 +1,4 @@
-let actualizado="1747061178681.5034";
+let actualizado="1747147605319.675";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -17026,8 +17026,8 @@ let misProfesData={
   },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
-    "general": 6.1111,
-    "n": 27
+    "general": 6.0714,
+    "n": 28
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",

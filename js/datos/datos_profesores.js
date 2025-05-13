@@ -1,4 +1,4 @@
-let actualizado="1747061178694.4429";
+let actualizado="1747147605332.6472";
 let periodo="PRIMAVERA 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2717";
@@ -10094,8 +10094,8 @@ let profesores={
   },
   "FELIX VELEZ FERNANDEZ VARELA": {
     "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
-    "general": 6.1111,
-    "n": 27,
+    "general": 6.0714,
+    "n": 28,
     "grupos": {
       "ECO-17100-HISTORIA ECONOMICA DE MEXICO": [
         {
