@@ -1,4 +1,4 @@
-let actualizado="1747665805932.9119";
+let actualizado="1747752212633.968";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -618,7 +618,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "14:00"
@@ -641,7 +641,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -664,7 +664,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -933,6 +933,26 @@ let clases={
       }
     ]
   },
+  "LEN-12751": {
+    "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
+    "clave": "LEN-12751",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "LEN-12751-COMUNIC. PROFESIONAL PARA DER.",
+        "profesor": "FEDERICO VALLE OCHOA",
+        "creditos": "2",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH301",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
   "MAT-10101": {
     "nombre": "MAT-10101-MET. CUANTITATIVOS PARA DER.",
     "clave": "MAT-10101",
@@ -1041,8 +1061,8 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH109",
+        "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
       }
@@ -1477,6 +1497,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
     "general": 6.6667,
     "n": 21
+  },
+  "FEDERICO VALLE OCHOA": {
+    "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
+    "general": 10.0,
+    "n": 1
   },
   "SHARON MAGALI VALVERDE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
