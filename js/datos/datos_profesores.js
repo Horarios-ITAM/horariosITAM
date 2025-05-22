@@ -1,4 +1,4 @@
-let actualizado="1747838610090.3977";
+let actualizado="1747925003376.604";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -53,6 +53,48 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "12:30"
+        }
+      ]
+    }
+  },
+  "ILEANA MARIA LOPEZ PEREZ": {
+    "grupos": {
+      "ADM-12361-ESTRAT SUSTENT CORPORATIVA": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-12361-ESTRAT SUSTENT CORPORATIVA",
+          "profesor": "ILEANA MARIA LOPEZ PEREZ",
+          "creditos": "6",
+          "horario": "18:30-20:30",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "18:30",
+          "fin": "20:30"
+        }
+      ],
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "ILEANA MARIA LOPEZ PEREZ",
+          "creditos": "6",
+          "horario": "18:30-20:30",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "18:30",
+          "fin": "20:30"
         }
       ]
     }
@@ -277,25 +319,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
-        }
-      ],
-      "EST-11102-INFERENCIA ESTADISTICA": [
-        {
-          "grupo": "001",
-          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "19:00-21:40",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH112",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:40"
         }
       ],
       "MAT-10101-MET. CUANTITATIVOS PARA DER.": [
@@ -812,6 +835,32 @@ let profesores={
       ]
     }
   },
+  "JOSE DAVID SANTOS SALAZAR": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
+    "general": 7.1786,
+    "n": 28,
+    "grupos": {
+      "EST-11102-INFERENCIA ESTADISTICA": [
+        {
+          "grupo": "001",
+          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
+          "profesor": "JOSE DAVID SANTOS SALAZAR",
+          "creditos": "8",
+          "horario": "19:00-21:40",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH112",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:40"
+        }
+      ]
+    }
+  },
   "FELIPE JAVIER MEDINA AGUAYO": {
     "grupos": {
       "EST-14101-CALCULO DE PROBABILIDADES.,I": [
@@ -1198,8 +1247,8 @@ let profesores={
   },
   "MARIANA CASILLAS CASILLAS": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.963,
-    "n": 54,
+    "general": 6.9818,
+    "n": 55,
     "grupos": {
       "MAT-14100-CALCULO DIF. E INT., I": [
         {
@@ -1411,6 +1460,7 @@ let mejoresPorDepto={
     "MARIANA CONTRERAS AREVALO",
     "JOSE FRANCISCO TUDON MALDONADO",
     "ANTONIO RODOLFO LLORET CARRILLO",
+    "ILEANA MARIA LOPEZ PEREZ",
     "IMANOL BELAUSTEGUIGOITIA RIUS"
   ],
   "LENGUAS (CLE)": [
@@ -1438,6 +1488,7 @@ let mejoresPorDepto={
   "ESTADISTICA": [
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "LILIANA DE LA TORRE DESENTIS",
+    "JOSE DAVID SANTOS SALAZAR",
     "HUGO CUEVAS BRAVO",
     "MIGUEL ANGEL MENDEZ ANTONIO",
     "FELIPE JAVIER MEDINA AGUAYO"
