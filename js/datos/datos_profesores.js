@@ -1,4 +1,4 @@
-let actualizado="1747925003376.604";
+let actualizado="1748011326465.4434";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -264,6 +264,25 @@ let profesores={
           "fin": "09:45"
         }
       ],
+      "ECO-14301-ORGANIZACION INDUSTRIAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ],
       "ECO-16101-ECONOMIA LABORAL (OP)": [
         {
           "grupo": "001",
@@ -281,25 +300,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
-        }
-      ],
-      "ECO-18101-DESARROLLO ECONOMICO I": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "18:00-20:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
         }
       ],
       "ECO-18300-CRECIMIENTO ECONOMICO": [
@@ -732,6 +732,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
+        }
+      ]
+    }
+  },
+  "GUSTAVO HERNANDEZ MONROY": {
+    "grupos": {
+      "ECO-18101-DESARROLLO ECONOMICO I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+          "profesor": "GUSTAVO HERNANDEZ MONROY",
+          "creditos": "6",
+          "horario": "18:00-20:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -1481,6 +1504,9 @@ let mejoresPorDepto={
   "DERECHO": [
     "ROMAIN SYLVAIN JEAN GENIEZ",
     "LUIS ALBERTO KING MARTINEZ"
+  ],
+  "ECONOMIA": [
+    "GUSTAVO HERNANDEZ MONROY"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "LUIS FERNANDO BALAGUERA SARMIENTO"

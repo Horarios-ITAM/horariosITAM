@@ -1,4 +1,4 @@
-let actualizado="1747925003375.2085";
+let actualizado="1748011326464.1116";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -648,6 +648,29 @@ let clases={
       }
     ]
   },
+  "ECO-14301": {
+    "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+    "clave": "ECO-14301",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "16:00-19:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH107",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "19:00"
+      }
+    ]
+  },
   "ECO-16101": {
     "nombre": "ECO-16101-ECONOMIA LABORAL (OP)",
     "clave": "ECO-16101",
@@ -678,7 +701,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
-        "profesor": "",
+        "profesor": "GUSTAVO HERNANDEZ MONROY",
         "creditos": "6",
         "horario": "18:00-20:00",
         "dias": [
