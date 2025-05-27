@@ -1,4 +1,4 @@
-let actualizado="1748270531179.9983";
+let actualizado="1748356991304.7168";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -678,7 +678,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-16101-ECONOMIA LABORAL (OP)",
-        "profesor": "",
+        "profesor": "JORGE HERRERA JUAREZ",
         "creditos": "6",
         "horario": "11:00-14:00",
         "dias": [
@@ -724,7 +724,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-18300-CRECIMIENTO ECONOMICO",
-        "profesor": "",
+        "profesor": "JORGE HERRERA JUAREZ",
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
@@ -1516,6 +1516,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
     "general": 9.25,
     "n": 4
+  },
+  "JORGE HERRERA JUAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Herrera-Juarez_95615",
+    "general": 9.0,
+    "n": 1
   },
   "ANTONIO RODOLFO LLORET CARRILLO": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Rodolfo-Lloret-Carrillo_10731",
