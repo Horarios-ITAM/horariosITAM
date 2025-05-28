@@ -1,4 +1,4 @@
-let actualizado="1748356991304.7168";
+let actualizado="1748443503884.3682";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -1282,7 +1282,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-14102-CALCULO DIF. E INT., III",
-        "profesor": "",
+        "profesor": "RAYBEL ANDRES GARCIA ANCONA",
         "creditos": "8",
         "horario": "10:00-12:40",
         "dias": [
@@ -1504,8 +1504,8 @@ let misProfesData={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 7.7143,
-    "n": 7
+    "general": 8.0,
+    "n": 8
   },
   "ROSARIO EDITH GARCIA MENDIOLA": {
     "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
@@ -1568,9 +1568,9 @@ let misProfesData={
     "n": 28
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",

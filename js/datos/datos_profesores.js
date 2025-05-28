@@ -1,4 +1,4 @@
-let actualizado="1748356991305.9082";
+let actualizado="1748443503885.783";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -300,25 +300,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
-        }
-      ],
-      "MAT-14102-CALCULO DIF. E INT., III": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14102-CALCULO DIF. E INT., III",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "10:00-12:40",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:40"
         }
       ]
     }
@@ -1025,9 +1006,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1150,8 +1131,8 @@ let profesores={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 7.7143,
-    "n": 7,
+    "general": 8.0,
+    "n": 8,
     "grupos": {
       "MAT-12100-CALCULO I": [
         {
@@ -1320,6 +1301,29 @@ let profesores={
             "JU"
           ],
           "salon": "RH108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:40"
+        }
+      ]
+    }
+  },
+  "RAYBEL ANDRES GARCIA ANCONA": {
+    "grupos": {
+      "MAT-14102-CALCULO DIF. E INT., III": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14102-CALCULO DIF. E INT., III",
+          "profesor": "RAYBEL ANDRES GARCIA ANCONA",
+          "creditos": "8",
+          "horario": "10:00-12:40",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:40"
