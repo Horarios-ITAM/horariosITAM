@@ -1,4 +1,4 @@
-let actualizado="1748788833813.3418";
+let actualizado="1748875458292.544";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -1006,9 +1006,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1404,8 +1404,8 @@ let profesores={
   },
   "HERICA SANCHEZ LARIOS": {
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
-    "general": 7.7143,
-    "n": 21,
+    "general": 7.7826,
+    "n": 23,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -1449,8 +1449,8 @@ let profesores={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.8295,
-    "n": 88,
+    "general": 8.8427,
+    "n": 89,
     "grupos": {
       "MAT-14281-MATEMATICAS DISCRETAS": [
         {
