@@ -1,4 +1,4 @@
-let actualizado="1748875458291.1816";
+let actualizado="1748961897996.9976";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -1029,7 +1029,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-10101-MET. CUANTITATIVOS PARA DER.",
-        "profesor": "",
+        "profesor": "SERGIO IVAN ARROYO GILES",
         "creditos": "6",
         "horario": "18:00-20:00",
         "dias": [
@@ -1568,9 +1568,9 @@ let misProfesData={
     "n": 28
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",

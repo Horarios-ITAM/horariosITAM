@@ -1,4 +1,4 @@
-let actualizado="1748875458292.544";
+let actualizado="1748961897998.1587";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -281,25 +281,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
-        }
-      ],
-      "MAT-10101-MET. CUANTITATIVOS PARA DER.": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-10101-MET. CUANTITATIVOS PARA DER.",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "18:00-20:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
         }
       ]
     }
@@ -1006,9 +987,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1050,6 +1031,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "SERGIO IVAN ARROYO GILES": {
+    "grupos": {
+      "MAT-10101-MET. CUANTITATIVOS PARA DER.": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-10101-MET. CUANTITATIVOS PARA DER.",
+          "profesor": "SERGIO IVAN ARROYO GILES",
+          "creditos": "6",
+          "horario": "18:00-20:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ]
     }
