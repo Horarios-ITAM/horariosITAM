@@ -1,4 +1,4 @@
-let actualizado="1748961897998.1587";
+let actualizado="1749049509705.5676";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -637,13 +637,36 @@ let profesores={
       ]
     }
   },
-  "LUIS ALBERTO KING MARTINEZ": {
+  "FRANCISCO SOSA MELGAR": {
+    "grupos": {
+      "DER-16064-DERECHO BURSATIL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-16064-DERECHO BURSATIL",
+          "profesor": "FRANCISCO SOSA MELGAR",
+          "creditos": "4",
+          "horario": "08:00-10:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "HECTOR FLORES SENTIES": {
     "grupos": {
       "DER-16065-INTROD. AL ARBITRAJE INTERNAC": [
         {
           "grupo": "001",
           "nombre": "DER-16065-INTROD. AL ARBITRAJE INTERNAC",
-          "profesor": "LUIS ALBERTO KING MARTINEZ",
+          "profesor": "HECTOR FLORES SENTIES",
           "creditos": "4",
           "horario": "19:00-21:00",
           "dias": [
@@ -987,9 +1010,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1337,8 +1360,8 @@ let profesores={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 5.2,
-    "n": 5,
+    "general": 5.8333,
+    "n": 6,
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
         {
@@ -1518,7 +1541,8 @@ let mejoresPorDepto={
   ],
   "DERECHO": [
     "ROMAIN SYLVAIN JEAN GENIEZ",
-    "LUIS ALBERTO KING MARTINEZ"
+    "FRANCISCO SOSA MELGAR",
+    "HECTOR FLORES SENTIES"
   ],
   "ECONOMIA": [
     "JORGE HERRERA JUAREZ",

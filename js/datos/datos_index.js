@@ -1,4 +1,4 @@
-let actualizado="1748961897996.9976";
+let actualizado="1749049509704.3867";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -625,6 +625,29 @@ let clases={
       }
     ]
   },
+  "DER-16064": {
+    "nombre": "DER-16064-DERECHO BURSATIL",
+    "clave": "DER-16064",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-16064-DERECHO BURSATIL",
+        "profesor": "FRANCISCO SOSA MELGAR",
+        "creditos": "4",
+        "horario": "08:00-10:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH310",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "10:00"
+      }
+    ]
+  },
   "DER-16065": {
     "nombre": "DER-16065-INTROD. AL ARBITRAJE INTERNAC",
     "clave": "DER-16065",
@@ -632,7 +655,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-16065-INTROD. AL ARBITRAJE INTERNAC",
-        "profesor": "LUIS ALBERTO KING MARTINEZ",
+        "profesor": "HECTOR FLORES SENTIES",
         "creditos": "4",
         "horario": "19:00-21:00",
         "dias": [
@@ -1568,9 +1591,9 @@ let misProfesData={
     "n": 28
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
@@ -1589,8 +1612,8 @@ let misProfesData={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 5.2,
-    "n": 5
+    "general": 5.8333,
+    "n": 6
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
