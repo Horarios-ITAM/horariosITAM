@@ -1,4 +1,4 @@
-let actualizado="1749480238705.6904";
+let actualizado="1749566608938.84";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -206,62 +206,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
-        }
-      ],
-      "DER-11119-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "16:00-18:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "DER-11805-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-18:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "DER-15704-PROCEDIM. CONSTITUCIONALES": [
-        {
-          "grupo": "01",
-          "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "07:00-09:45",
-          "dias": [
-            "LU",
-            "MA",
-            "MI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:45"
         }
       ],
       "ECO-14301-ORGANIZACION INDUSTRIAL": [
@@ -633,6 +577,73 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "ISMAEL MARTINEZ TORRES": {
+    "grupos": {
+      "DER-11119-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
+          "profesor": "ISMAEL MARTINEZ TORRES",
+          "creditos": "9",
+          "horario": "16:00-18:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ],
+      "DER-11805-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+          "profesor": "ISMAEL MARTINEZ TORRES",
+          "creditos": "6",
+          "horario": "16:00-18:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ]
+    }
+  },
+  "JOSE ANGEL SANTIAGO ABREGO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Santiago-\u00c1brego_138583",
+    "general": 2.0,
+    "n": 1,
+    "grupos": {
+      "DER-15704-PROCEDIM. CONSTITUCIONALES": [
+        {
+          "grupo": "01",
+          "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
+          "profesor": "JOSE ANGEL SANTIAGO ABREGO",
+          "creditos": "8",
+          "horario": "07:00-09:45",
+          "dias": [
+            "LU",
+            "MA",
+            "MI"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:45"
         }
       ]
     }
@@ -1010,9 +1021,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1540,7 +1551,9 @@ let mejoresPorDepto={
     "MONICA GARCIA CEREZO"
   ],
   "DERECHO": [
+    "JOSE ANGEL SANTIAGO ABREGO",
     "ROMAIN SYLVAIN JEAN GENIEZ",
+    "ISMAEL MARTINEZ TORRES",
     "FRANCISCO SOSA MELGAR",
     "HECTOR FLORES SENTIES"
   ],

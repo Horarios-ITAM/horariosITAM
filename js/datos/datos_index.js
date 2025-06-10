@@ -1,4 +1,4 @@
-let actualizado="1749480238704.3547";
+let actualizado="1749566608937.5427";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -541,7 +541,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-        "profesor": "",
+        "profesor": "ISMAEL MARTINEZ TORRES",
         "creditos": "9",
         "horario": "16:00-18:00",
         "dias": [
@@ -587,7 +587,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-        "profesor": "",
+        "profesor": "ISMAEL MARTINEZ TORRES",
         "creditos": "6",
         "horario": "16:00-18:00",
         "dias": [
@@ -610,7 +610,7 @@ let clases={
       {
         "grupo": "01",
         "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
-        "profesor": "",
+        "profesor": "JOSE ANGEL SANTIAGO ABREGO",
         "creditos": "8",
         "horario": "07:00-09:45",
         "dias": [
@@ -1585,15 +1585,20 @@ let misProfesData={
     "general": 7.7826,
     "n": 23
   },
+  "JOSE ANGEL SANTIAGO ABREGO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Santiago-\u00c1brego_138583",
+    "general": 2.0,
+    "n": 1
+  },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
     "general": 7.1786,
     "n": 28
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
