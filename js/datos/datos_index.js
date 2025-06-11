@@ -1,4 +1,4 @@
-let actualizado="1749566608937.5427";
+let actualizado="1749652986621.3777";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -1213,7 +1213,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-12221-CALCULO EN VARIAS VARIABLES",
-        "profesor": "ANGEL PEREZ JUAREZ",
+        "profesor": "",
         "creditos": "9",
         "horario": "08:00-11:00",
         "dias": [
@@ -1570,11 +1570,6 @@ let misProfesData={
     "general": 7.6316,
     "n": 38
   },
-  "ANGEL PEREZ JUAREZ": {
-    "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3551,
-    "n": 107
-  },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
     "general": 8.8427,
@@ -1596,9 +1591,9 @@ let misProfesData={
     "n": 28
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",

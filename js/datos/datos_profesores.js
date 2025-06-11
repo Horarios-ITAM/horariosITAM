@@ -1,4 +1,4 @@
-let actualizado="1749566608938.84";
+let actualizado="1749652986622.5276";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -225,6 +225,25 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
+        }
+      ],
+      "MAT-12221-CALCULO EN VARIAS VARIABLES": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12221-CALCULO EN VARIAS VARIABLES",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "08:00-11:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -1021,9 +1040,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1238,32 +1257,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "ANGEL PEREZ JUAREZ": {
-    "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3551,
-    "n": 107,
-    "grupos": {
-      "MAT-12221-CALCULO EN VARIAS VARIABLES": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12221-CALCULO EN VARIAS VARIABLES",
-          "profesor": "ANGEL PEREZ JUAREZ",
-          "creditos": "9",
-          "horario": "08:00-11:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
         }
       ]
     }
