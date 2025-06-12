@@ -1,4 +1,4 @@
-let actualizado="1749652986621.3777";
+let actualizado="1749739468676.1";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -495,7 +495,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-15120-CASOS DE FISCAL",
-        "profesor": "",
+        "profesor": "BERNARDO RAMIREZ FIGUEROA",
         "creditos": "6",
         "horario": "07:00-09:00",
         "dias": [
@@ -1569,6 +1569,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
     "general": 7.6316,
     "n": 38
+  },
+  "BERNARDO RAMIREZ FIGUEROA": {
+    "link": "https://www.misprofesores.com/profesores/Bernardo-Ram\u00edrez-Figueroa_125410",
+    "general": 5.5,
+    "n": 2
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",

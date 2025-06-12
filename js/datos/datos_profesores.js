@@ -1,4 +1,4 @@
-let actualizado="1749652986622.5276";
+let actualizado="1749739468677.398";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -187,25 +187,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
-        }
-      ],
-      "CON-15120-CASOS DE FISCAL": [
-        {
-          "grupo": "001",
-          "nombre": "CON-15120-CASOS DE FISCAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-09:00",
-          "dias": [
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
         }
       ],
       "ECO-14301-ORGANIZACION INDUSTRIAL": [
@@ -554,6 +535,32 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
+        }
+      ]
+    }
+  },
+  "BERNARDO RAMIREZ FIGUEROA": {
+    "link": "https://www.misprofesores.com/profesores/Bernardo-Ram\u00edrez-Figueroa_125410",
+    "general": 5.5,
+    "n": 2,
+    "grupos": {
+      "CON-15120-CASOS DE FISCAL": [
+        {
+          "grupo": "001",
+          "nombre": "CON-15120-CASOS DE FISCAL",
+          "profesor": "BERNARDO RAMIREZ FIGUEROA",
+          "creditos": "6",
+          "horario": "07:00-09:00",
+          "dias": [
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -1541,6 +1548,7 @@ let mejoresPorDepto={
   ],
   "CONTABILIDAD": [
     "ROSARIO EDITH GARCIA MENDIOLA",
+    "BERNARDO RAMIREZ FIGUEROA",
     "MONICA GARCIA CEREZO"
   ],
   "DERECHO": [
