@@ -1,4 +1,4 @@
-let actualizado="1749739468676.1";
+let actualizado="1749825781148.278";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -143,63 +143,6 @@ let clases={
       }
     ]
   },
-  "CLE-10201-LAB": {
-    "nombre": "CLE-10201-INGLES INTENSIVO-LAB",
-    "clave": "CLE-10201",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "CLE-10201-INGLES INTENSIVO-LAB",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "10:00-14:30",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "RH201",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "14:30"
-      }
-    ]
-  },
-  "CLE-10201": {
-    "nombre": "CLE-10201-INGLES INTENSIVO",
-    "clave": "CLE-10201",
-    "grupos": []
-  },
-  "CLE-10202-LAB": {
-    "nombre": "CLE-10202-INGLES AVANZADO-LAB",
-    "clave": "CLE-10202",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "CLE-10202-INGLES AVANZADO-LAB",
-        "profesor": "",
-        "creditos": "4",
-        "horario": "11:00-14:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH202",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "14:00"
-      }
-    ]
-  },
-  "CLE-10202": {
-    "nombre": "CLE-10202-INGLES AVANZADO",
-    "clave": "CLE-10202",
-    "grupos": []
-  },
   "COM-11302": {
     "nombre": "COM-11302-ALGORITMICA Y PROGRAMACION",
     "clave": "COM-11302",
@@ -269,24 +212,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-        "profesor": "JOSE CALIXTO CANO",
-        "creditos": "7",
-        "horario": "07:00-09:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "RHCC201",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
       }
     ]
   },
@@ -332,24 +257,6 @@ let clases={
           "VI"
         ],
         "salon": "RHCC102",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "JOSE CALIXTO CANO",
-        "creditos": "6",
-        "horario": "07:00-09:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "RHCC201",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -421,7 +328,7 @@ let clases={
           "JU",
           "VI"
         ],
-        "salon": "RH306",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -463,7 +370,7 @@ let clases={
           "JU",
           "VI"
         ],
-        "salon": "RH306",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -485,29 +392,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
-      }
-    ]
-  },
-  "CON-15120": {
-    "nombre": "CON-15120-CASOS DE FISCAL",
-    "clave": "CON-15120",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CON-15120-CASOS DE FISCAL",
-        "profesor": "BERNARDO RAMIREZ FIGUEROA",
-        "creditos": "6",
-        "horario": "07:00-09:00",
-        "dias": [
-          "MA",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "RH306",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
       }
     ]
   },
@@ -600,28 +484,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
-      }
-    ]
-  },
-  "DER-15704": {
-    "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
-    "clave": "DER-15704",
-    "grupos": [
-      {
-        "grupo": "01",
-        "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
-        "profesor": "JOSE ANGEL SANTIAGO ABREGO",
-        "creditos": "8",
-        "horario": "07:00-09:45",
-        "dias": [
-          "LU",
-          "MA",
-          "MI"
-        ],
-        "salon": "RH308",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:45"
       }
     ]
   },
@@ -869,7 +731,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH112",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:40"
@@ -1073,21 +935,21 @@ let clases={
     "clave": "MAT-11100",
     "grupos": [
       {
-        "grupo": "001",
+        "grupo": "002",
         "nombre": "MAT-11100-MATEMATICAS, I",
-        "profesor": "SHARON MAGALI VALVERDE ESPARZA",
+        "profesor": "LYSETTE FELIX FELIX",
         "creditos": "9",
-        "horario": "16:00-19:00",
+        "horario": "10:00-13:00",
         "dias": [
           "LU",
           "MA",
           "MI",
           "JU"
         ],
-        "salon": "RH103",
+        "salon": "RH109",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "19:00"
+        "inicio": "10:00",
+        "fin": "13:00"
       }
     ]
   },
@@ -1229,49 +1091,26 @@ let clases={
       }
     ]
   },
-  "MAT-12310": {
-    "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-    "clave": "MAT-12310",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-        "profesor": "GLORIA LOPEZ CHAVEZ",
-        "creditos": "8",
-        "horario": "16:00-18:40",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH104",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "18:40"
-      }
-    ]
-  },
   "MAT-14100": {
     "nombre": "MAT-14100-CALCULO DIF. E INT., I",
     "clave": "MAT-14100",
     "grupos": [
       {
-        "grupo": "001",
+        "grupo": "002",
         "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-        "profesor": "MARIANA CASILLAS CASILLAS",
+        "profesor": "LYSETTE FELIX FELIX",
         "creditos": "8",
-        "horario": "07:00-09:40",
+        "horario": "10:00-13:00",
         "dias": [
           "LU",
           "MA",
           "MI",
           "JU"
         ],
-        "salon": "RH108",
+        "salon": "RH109",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:40"
+        "inicio": "10:00",
+        "fin": "13:00"
       }
     ]
   },
@@ -1390,29 +1229,6 @@ let clases={
       }
     ]
   },
-  "MAT-14280": {
-    "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-    "clave": "MAT-14280",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-        "profesor": "HERICA SANCHEZ LARIOS",
-        "creditos": "6",
-        "horario": "16:00-18:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH111",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "18:00"
-      }
-    ]
-  },
   "MAT-14281": {
     "nombre": "MAT-14281-MATEMATICAS DISCRETAS",
     "clave": "MAT-14281",
@@ -1431,29 +1247,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:30",
         "fin": "19:00"
-      }
-    ]
-  },
-  "MAT-14300": {
-    "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-    "clave": "MAT-14300",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-        "profesor": "HERICA SANCHEZ LARIOS",
-        "creditos": "6",
-        "horario": "16:00-18:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH111",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "18:00"
       }
     ]
   },
@@ -1485,20 +1278,10 @@ let misProfesData={
     "general": 8.619,
     "n": 42
   },
-  "JOSE CALIXTO CANO": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
-    "general": 6.5429,
-    "n": 35
-  },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
     "general": 6.69,
     "n": 100
-  },
-  "MARIANA CASILLAS CASILLAS": {
-    "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.9818,
-    "n": 55
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
@@ -1550,11 +1333,6 @@ let misProfesData={
     "general": 6.0845,
     "n": 71
   },
-  "GLORIA LOPEZ CHAVEZ": {
-    "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.6667,
-    "n": 27
-  },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
     "general": 8.4286,
@@ -1570,25 +1348,10 @@ let misProfesData={
     "general": 7.6316,
     "n": 38
   },
-  "BERNARDO RAMIREZ FIGUEROA": {
-    "link": "https://www.misprofesores.com/profesores/Bernardo-Ram\u00edrez-Figueroa_125410",
-    "general": 5.5,
-    "n": 2
-  },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
     "general": 8.8427,
     "n": 89
-  },
-  "HERICA SANCHEZ LARIOS": {
-    "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
-    "general": 7.7826,
-    "n": 23
-  },
-  "JOSE ANGEL SANTIAGO ABREGO": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Santiago-\u00c1brego_138583",
-    "general": 2.0,
-    "n": 1
   },
   "JOSE DAVID SANTOS SALAZAR": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
@@ -1609,11 +1372,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
     "general": 10.0,
     "n": 1
-  },
-  "SHARON MAGALI VALVERDE ESPARZA": {
-    "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.4,
-    "n": 35
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",

@@ -1,4 +1,4 @@
-let actualizado="1749739468677.398";
+let actualizado="1749825781149.5486";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -148,87 +148,6 @@ let profesores={
       ]
     }
   },
-  "": {
-    "grupos": {
-      "CLE-10201-INGLES INTENSIVO-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10201-INGLES INTENSIVO-LAB",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "10:00-14:30",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "14:30"
-        }
-      ],
-      "CLE-10202-INGLES AVANZADO-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10202-INGLES AVANZADO-LAB",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "11:00-14:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH202",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "14:00"
-        }
-      ],
-      "ECO-14301-ORGANIZACION INDUSTRIAL": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ],
-      "MAT-12221-CALCULO EN VARIAS VARIABLES": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12221-CALCULO EN VARIAS VARIABLES",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "08:00-11:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
-        }
-      ]
-    }
-  },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
     "general": 8.4286,
@@ -330,53 +249,6 @@ let profesores={
       ]
     }
   },
-  "JOSE CALIXTO CANO": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
-    "general": 6.5429,
-    "n": 35,
-    "grupos": {
-      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
-        {
-          "grupo": "002",
-          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "JOSE CALIXTO CANO",
-          "creditos": "7",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RHCC201",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ],
-      "COM-16306-RAZONAMIENTO ALGORITMICO": [
-        {
-          "grupo": "002",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "JOSE CALIXTO CANO",
-          "creditos": "6",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RHCC201",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ]
-    }
-  },
   "LETICIA RENTERIA FERRAN": {
     "grupos": {
       "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
@@ -464,7 +336,7 @@ let profesores={
             "JU",
             "VI"
           ],
-          "salon": "RH306",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
@@ -484,7 +356,7 @@ let profesores={
             "JU",
             "VI"
           ],
-          "salon": "RH306",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
@@ -535,32 +407,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
-        }
-      ]
-    }
-  },
-  "BERNARDO RAMIREZ FIGUEROA": {
-    "link": "https://www.misprofesores.com/profesores/Bernardo-Ram\u00edrez-Figueroa_125410",
-    "general": 5.5,
-    "n": 2,
-    "grupos": {
-      "CON-15120-CASOS DE FISCAL": [
-        {
-          "grupo": "001",
-          "nombre": "CON-15120-CASOS DE FISCAL",
-          "profesor": "BERNARDO RAMIREZ FIGUEROA",
-          "creditos": "6",
-          "horario": "07:00-09:00",
-          "dias": [
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
         }
       ]
     }
@@ -649,31 +495,6 @@ let profesores={
       ]
     }
   },
-  "JOSE ANGEL SANTIAGO ABREGO": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Santiago-\u00c1brego_138583",
-    "general": 2.0,
-    "n": 1,
-    "grupos": {
-      "DER-15704-PROCEDIM. CONSTITUCIONALES": [
-        {
-          "grupo": "01",
-          "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
-          "profesor": "JOSE ANGEL SANTIAGO ABREGO",
-          "creditos": "8",
-          "horario": "07:00-09:45",
-          "dias": [
-            "LU",
-            "MA",
-            "MI"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:45"
-        }
-      ]
-    }
-  },
   "FRANCISCO SOSA MELGAR": {
     "grupos": {
       "DER-16064-DERECHO BURSATIL": [
@@ -716,6 +537,48 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "ECO-14301-ORGANIZACION INDUSTRIAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ],
+      "MAT-12221-CALCULO EN VARIAS VARIABLES": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12221-CALCULO EN VARIAS VARIABLES",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "08:00-11:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -905,7 +768,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH112",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:40"
@@ -1118,28 +981,66 @@ let profesores={
       ]
     }
   },
-  "SHARON MAGALI VALVERDE ESPARZA": {
-    "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.4,
-    "n": 35,
+  "LYSETTE FELIX FELIX": {
+    "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
+    "general": 8.0,
+    "n": 8,
     "grupos": {
       "MAT-11100-MATEMATICAS, I": [
         {
-          "grupo": "001",
+          "grupo": "002",
           "nombre": "MAT-11100-MATEMATICAS, I",
-          "profesor": "SHARON MAGALI VALVERDE ESPARZA",
+          "profesor": "LYSETTE FELIX FELIX",
           "creditos": "9",
-          "horario": "16:00-19:00",
+          "horario": "10:00-13:00",
           "dias": [
             "LU",
             "MA",
             "MI",
             "JU"
           ],
-          "salon": "RH103",
+          "salon": "RH109",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-12100-CALCULO I": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12100-CALCULO I",
+          "profesor": "LYSETTE FELIX FELIX",
+          "creditos": "9",
+          "horario": "10:00-13:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-14100-CALCULO DIF. E INT., I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
+          "profesor": "LYSETTE FELIX FELIX",
+          "creditos": "8",
+          "horario": "10:00-13:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
         }
       ]
     }
@@ -1193,32 +1094,6 @@ let profesores={
       ]
     }
   },
-  "LYSETTE FELIX FELIX": {
-    "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 8.0,
-    "n": 8,
-    "grupos": {
-      "MAT-12100-CALCULO I": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12100-CALCULO I",
-          "profesor": "LYSETTE FELIX FELIX",
-          "creditos": "9",
-          "horario": "10:00-13:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
   "FRANCISCO FERNANDO NORE\u00d1A VILLARIAS": {
     "grupos": {
       "MAT-12101-CALCULO, II": [
@@ -1264,58 +1139,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "GLORIA LOPEZ CHAVEZ": {
-    "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.6667,
-    "n": 27,
-    "grupos": {
-      "MAT-12310-ALGEBRA MATRICIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12310-ALGEBRA MATRICIAL",
-          "profesor": "GLORIA LOPEZ CHAVEZ",
-          "creditos": "8",
-          "horario": "16:00-18:40",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:40"
-        }
-      ]
-    }
-  },
-  "MARIANA CASILLAS CASILLAS": {
-    "link": "https://www.misprofesores.com/profesores/Mariana-Casillas-Casillas_67470",
-    "general": 6.9818,
-    "n": 55,
-    "grupos": {
-      "MAT-14100-CALCULO DIF. E INT., I": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-          "profesor": "MARIANA CASILLAS CASILLAS",
-          "creditos": "8",
-          "horario": "07:00-09:40",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH108",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:40"
         }
       ]
     }
@@ -1440,51 +1263,6 @@ let profesores={
       ]
     }
   },
-  "HERICA SANCHEZ LARIOS": {
-    "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
-    "general": 7.7826,
-    "n": 23,
-    "grupos": {
-      "MAT-14280-PENSAMIENTO MATEMATICO": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-          "profesor": "HERICA SANCHEZ LARIOS",
-          "creditos": "6",
-          "horario": "16:00-18:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "MAT-14300-ALGEBRA SUPERIOR, I": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-          "profesor": "HERICA SANCHEZ LARIOS",
-          "creditos": "6",
-          "horario": "16:00-18:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ]
-    }
-  },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
     "general": 8.8427,
@@ -1535,24 +1313,18 @@ let mejoresPorDepto={
     "ILEANA MARIA LOPEZ PEREZ",
     "IMANOL BELAUSTEGUIGOITIA RIUS"
   ],
-  "LENGUAS (CLE)": [
-    ""
-  ],
   "COMPUTACION": [
     "XOCHITL CHAVARRIA CRUZ",
     "MONICA ZAVALA ESTRADA",
     "IRMA LOZANO MENDICUTI",
     "ALBERTO ESPINOSA GONZALEZ",
-    "JOSE CALIXTO CANO",
     "LETICIA RENTERIA FERRAN"
   ],
   "CONTABILIDAD": [
     "ROSARIO EDITH GARCIA MENDIOLA",
-    "BERNARDO RAMIREZ FIGUEROA",
     "MONICA GARCIA CEREZO"
   ],
   "DERECHO": [
-    "JOSE ANGEL SANTIAGO ABREGO",
     "ROMAIN SYLVAIN JEAN GENIEZ",
     "ISMAEL MARTINEZ TORRES",
     "FRANCISCO SOSA MELGAR",
@@ -1560,6 +1332,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JORGE HERRERA JUAREZ",
+    "",
     "GUSTAVO HERNANDEZ MONROY"
   ],
   "ESTUDIOS INTERNACIONALES": [
@@ -1582,13 +1355,13 @@ let mejoresPorDepto={
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",
     "CONCEPCION RUIZ RUIZ FUNES",
-    "SHARON MAGALI VALVERDE ESPARZA",
     "LYSETTE FELIX FELIX",
-    "HERICA SANCHEZ LARIOS",
-    "GLORIA LOPEZ CHAVEZ",
     "JORGE MONROY JIMENEZ",
     "JOEL ZAMORA RAMOS",
-    "MARIANA CASILLAS CASILLAS",
-    "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO"
+    "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO",
+    "OMAR VIGUERAS HERRERA",
+    "SERGIO IVAN ARROYO GILES",
+    "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE",
+    "FRANCISCO FERNANDO NORE\u00d1A VILLARIAS"
   ]
 };
