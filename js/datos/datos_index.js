@@ -1,4 +1,4 @@
-let actualizado="1749825781148.278";
+let actualizado="1749911938974.3818";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -1075,7 +1075,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-12221-CALCULO EN VARIAS VARIABLES",
-        "profesor": "",
+        "profesor": "ANGEL PEREZ JUAREZ",
         "creditos": "9",
         "horario": "08:00-11:00",
         "dias": [
@@ -1347,6 +1347,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
     "general": 7.6316,
     "n": 38
+  },
+  "ANGEL PEREZ JUAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
+    "general": 6.3551,
+    "n": 107
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",

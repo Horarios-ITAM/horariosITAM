@@ -1,4 +1,4 @@
-let actualizado="1749825781149.5486";
+let actualizado="1749911938975.6306";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -560,25 +560,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
-        }
-      ],
-      "MAT-12221-CALCULO EN VARIAS VARIABLES": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12221-CALCULO EN VARIAS VARIABLES",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "08:00-11:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -1143,6 +1124,32 @@ let profesores={
       ]
     }
   },
+  "ANGEL PEREZ JUAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
+    "general": 6.3551,
+    "n": 107,
+    "grupos": {
+      "MAT-12221-CALCULO EN VARIAS VARIABLES": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12221-CALCULO EN VARIAS VARIABLES",
+          "profesor": "ANGEL PEREZ JUAREZ",
+          "creditos": "9",
+          "horario": "08:00-11:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
     "general": 6.69,
@@ -1359,9 +1366,9 @@ let mejoresPorDepto={
     "JORGE MONROY JIMENEZ",
     "JOEL ZAMORA RAMOS",
     "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO",
+    "ANGEL PEREZ JUAREZ",
     "OMAR VIGUERAS HERRERA",
     "SERGIO IVAN ARROYO GILES",
-    "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE",
-    "FRANCISCO FERNANDO NORE\u00d1A VILLARIAS"
+    "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE"
   ]
 };
