@@ -1,4 +1,4 @@
-let actualizado="1750085012975.1682";
+let actualizado="1750171458399.9175";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -23,7 +23,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH301",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "12:30"
@@ -77,25 +77,6 @@ let profesores={
           "inicio": "18:30",
           "fin": "20:30"
         }
-      ],
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "ILEANA MARIA LOPEZ PEREZ",
-          "creditos": "6",
-          "horario": "18:30-20:30",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH302",
-          "campus": "RIO HONDO",
-          "inicio": "18:30",
-          "fin": "20:30"
-        }
       ]
     }
   },
@@ -114,7 +95,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH301",
+          "salon": "RH108",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "20:00"
@@ -140,7 +121,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH305",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "13:00"
@@ -723,7 +704,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH111",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:40"
@@ -891,9 +872,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {

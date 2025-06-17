@@ -1,4 +1,4 @@
-let actualizado="1750085012974.0454";
+let actualizado="1750171458398.769";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -21,7 +21,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH301",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "12:30"
@@ -90,7 +90,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH301",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "20:00"
@@ -113,7 +113,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH305",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "13:00"
@@ -123,25 +123,7 @@ let clases={
   "ADM-15582": {
     "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
     "clave": "ADM-15582",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "ILEANA MARIA LOPEZ PEREZ",
-        "creditos": "6",
-        "horario": "18:30-20:30",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "RH302",
-        "campus": "RIO HONDO",
-        "inicio": "18:30",
-        "fin": "20:30"
-      }
-    ]
+    "grupos": []
   },
   "COM-11302": {
     "nombre": "COM-11302-ALGORITMICA Y PROGRAMACION",
@@ -708,7 +690,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH111",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:40"
@@ -1364,9 +1346,9 @@ let misProfesData={
     "n": 28
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
