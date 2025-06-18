@@ -1,4 +1,4 @@
-let actualizado="1750171458398.769";
+let actualizado="1750257856884.7556";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -508,10 +508,33 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH307",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
+      }
+    ]
+  },
+  "ECO-12126": {
+    "nombre": "ECO-12126-TEMAS DE MACROECONOMIA",
+    "clave": "ECO-12126",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-12126-TEMAS DE MACROECONOMIA",
+        "profesor": "JORGE HERRERA JUAREZ",
+        "creditos": "6",
+        "horario": "11:00-14:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH112",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "14:00"
       }
     ]
   },
@@ -522,7 +545,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
-        "profesor": "",
+        "profesor": "ALEJANDRO DIAZ HERRERA",
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
@@ -558,6 +581,23 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "14:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-16101-ECONOMIA LABORAL (OP)",
+        "profesor": "JORGE EDUARDO PEREZ PEREZ",
+        "creditos": "6",
+        "horario": "07:00-09:40",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:40"
       }
     ]
   },
@@ -577,7 +617,7 @@ let clases={
           "MI",
           "JU"
         ],
-        "salon": "RH106",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -1284,6 +1324,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
     "general": 7.7059,
     "n": 17
+  },
+  "ALEJANDRO DIAZ HERRERA": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-D\u00edaz-Herrera_166977",
+    "general": 8.0,
+    "n": 1
   },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",

@@ -1,4 +1,4 @@
-let actualizado="1750171458399.9175";
+let actualizado="1750257856886.0112";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -514,33 +514,10 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH307",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
-        }
-      ]
-    }
-  },
-  "": {
-    "grupos": {
-      "ECO-14301-ORGANIZACION INDUSTRIAL": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
         }
       ]
     }
@@ -550,6 +527,25 @@ let profesores={
     "general": 9.0,
     "n": 1,
     "grupos": {
+      "ECO-12126-TEMAS DE MACROECONOMIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12126-TEMAS DE MACROECONOMIA",
+          "profesor": "JORGE HERRERA JUAREZ",
+          "creditos": "6",
+          "horario": "11:00-14:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH112",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "14:00"
+        }
+      ],
       "ECO-16101-ECONOMIA LABORAL (OP)": [
         {
           "grupo": "001",
@@ -590,6 +586,55 @@ let profesores={
       ]
     }
   },
+  "ALEJANDRO DIAZ HERRERA": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-D\u00edaz-Herrera_166977",
+    "general": 8.0,
+    "n": 1,
+    "grupos": {
+      "ECO-14301-ORGANIZACION INDUSTRIAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "ALEJANDRO DIAZ HERRERA",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "JORGE EDUARDO PEREZ PEREZ": {
+    "grupos": {
+      "ECO-16101-ECONOMIA LABORAL (OP)": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-16101-ECONOMIA LABORAL (OP)",
+          "profesor": "JORGE EDUARDO PEREZ PEREZ",
+          "creditos": "6",
+          "horario": "07:00-09:40",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:40"
+        }
+      ]
+    }
+  },
   "GUSTAVO HERNANDEZ MONROY": {
     "grupos": {
       "ECO-18101-DESARROLLO ECONOMICO I": [
@@ -605,7 +650,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH106",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -1320,7 +1365,8 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "JORGE HERRERA JUAREZ",
-    "",
+    "ALEJANDRO DIAZ HERRERA",
+    "JORGE EDUARDO PEREZ PEREZ",
     "GUSTAVO HERNANDEZ MONROY"
   ],
   "ESTUDIOS INTERNACIONALES": [
