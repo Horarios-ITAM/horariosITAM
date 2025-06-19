@@ -1,4 +1,4 @@
-let actualizado="1750257856886.0112";
+let actualizado="1750344146258.7334";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -129,6 +129,29 @@ let profesores={
       ]
     }
   },
+  "VICTOR HUGO LUQUE SALCEDO": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Luque-Salcedo_74892",
+    "general": 8.0,
+    "n": 4,
+    "grupos": {
+      "ADM-15503-FINANZAS.,III": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15503-FINANZAS.,III",
+          "profesor": "VICTOR HUGO LUQUE SALCEDO",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
     "general": 8.4286,
@@ -185,8 +208,8 @@ let profesores={
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
-    "general": 9.7333,
-    "n": 15,
+    "general": 9.75,
+    "n": 16,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -321,6 +344,24 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "CON-10100-CONTABILIDAD, I",
+          "profesor": "MONICA GARCIA CEREZO",
+          "creditos": "6",
+          "horario": "09:00-11:45",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:45"
         }
       ],
       "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
@@ -1077,8 +1118,8 @@ let profesores={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.2857,
-    "n": 98,
+    "general": 7.3131,
+    "n": 99,
     "grupos": {
       "MAT-11310-MATEMATICAS, III": [
         {
@@ -1152,8 +1193,8 @@ let profesores={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3551,
-    "n": 107,
+    "general": 6.3148,
+    "n": 108,
     "grupos": {
       "MAT-12221-CALCULO EN VARIAS VARIABLES": [
         {
@@ -1341,6 +1382,7 @@ let profesores={
 let mejoresPorDepto={
   "ADMINISTRACION": [
     "MARIANA CONTRERAS AREVALO",
+    "VICTOR HUGO LUQUE SALCEDO",
     "JOSE FRANCISCO TUDON MALDONADO",
     "ANTONIO RODOLFO LLORET CARRILLO",
     "ILEANA MARIA LOPEZ PEREZ",

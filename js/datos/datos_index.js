@@ -1,4 +1,4 @@
-let actualizado="1750257856884.7556";
+let actualizado="1750344146257.542";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -117,6 +117,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "13:00"
+      }
+    ]
+  },
+  "ADM-15503": {
+    "nombre": "ADM-15503-FINANZAS.,III",
+    "clave": "ADM-15503",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-15503-FINANZAS.,III",
+        "profesor": "VICTOR HUGO LUQUE SALCEDO",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -332,6 +352,24 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
+      },
+      {
+        "grupo": "003",
+        "nombre": "CON-10100-CONTABILIDAD, I",
+        "profesor": "MONICA GARCIA CEREZO",
+        "creditos": "6",
+        "horario": "09:00-11:45",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "RH306",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "11:45"
       }
     ]
   },
@@ -1307,8 +1345,8 @@ let misProfesData={
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
-    "general": 9.7333,
-    "n": 15
+    "general": 9.75,
+    "n": 16
   },
   "MARIANA CONTRERAS AREVALO": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Contreras-Ar\u00e9valo_120948",
@@ -1365,6 +1403,11 @@ let misProfesData={
     "general": 8.4286,
     "n": 35
   },
+  "VICTOR HUGO LUQUE SALCEDO": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Luque-Salcedo_74892",
+    "general": 8.0,
+    "n": 4
+  },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
     "general": 5.7662,
@@ -1377,8 +1420,8 @@ let misProfesData={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3551,
-    "n": 107
+    "general": 6.3148,
+    "n": 108
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
@@ -1412,8 +1455,8 @@ let misProfesData={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.2857,
-    "n": 98
+    "general": 7.3131,
+    "n": 99
   },
   "MONICA ZAVALA ESTRADA": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Zavala-Estrada_20704",
