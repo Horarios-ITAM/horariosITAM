@@ -1,4 +1,4 @@
-let actualizado="1750344146258.7334";
+let actualizado="1750430551185.6125";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -958,9 +958,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -1377,6 +1377,29 @@ let profesores={
         }
       ]
     }
+  },
+  "FRANCISCO JAVIER BLANCO RIVERA": {
+    "grupos": {
+      "SDI-15977-FISICA DEL UNIVERSO": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15977-FISICA DEL UNIVERSO",
+          "profesor": "FRANCISCO JAVIER BLANCO RIVERA",
+          "creditos": "6",
+          "horario": "11:00-13:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "13:00"
+        }
+      ]
+    }
   }
 };
 let mejoresPorDepto={
@@ -1439,5 +1462,8 @@ let mejoresPorDepto={
     "OMAR VIGUERAS HERRERA",
     "SERGIO IVAN ARROYO GILES",
     "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE"
+  ],
+  "SISTEMAS DIGITALES": [
+    "FRANCISCO JAVIER BLANCO RIVERA"
   ]
 };
