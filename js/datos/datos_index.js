@@ -1,10 +1,70 @@
-let actualizado="1750430551184.3232";
+let actualizado="1750516837314.161";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
 let dropDownUrl="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios1?s=2775";
 let formPostUrl="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios2";
 let clases={
+  "ACT-22306": {
+    "nombre": "ACT-22306-MATEMATICAS FINANCIERAS II",
+    "clave": "ACT-22306",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ACT-22306-MATEMATICAS FINANCIERAS II",
+        "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "ADM-11002": {
+    "nombre": "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG",
+    "clave": "ADM-11002",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "ADM-12013": {
+    "nombre": "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL",
+    "clave": "ADM-12013",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "10:00-13:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "10:00",
+        "fin": "13:00"
+      }
+    ]
+  },
   "ADM-12107": {
     "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
     "clave": "ADM-12107",
@@ -28,6 +88,40 @@ let clases={
       }
     ]
   },
+  "ADM-12108": {
+    "nombre": "ADM-12108-ESTRATEGIA DE NEGOCIOS II",
+    "clave": "ADM-12108",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-12108-ESTRATEGIA DE NEGOCIOS II",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ADM-12108-ESTRATEGIA DE NEGOCIOS II",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "13:00-16:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "13:00",
+        "fin": "16:00"
+      }
+    ]
+  },
   "ADM-12350": {
     "nombre": "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS",
     "clave": "ADM-12350",
@@ -48,6 +142,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "12:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "16:00-19:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "16:00",
+        "fin": "19:00"
       }
     ]
   },
@@ -74,6 +182,26 @@ let clases={
       }
     ]
   },
+  "ADM-13106": {
+    "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
+    "clave": "ADM-13106",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "16:00-19:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "16:00",
+        "fin": "19:00"
+      }
+    ]
+  },
   "ADM-13115": {
     "nombre": "ADM-13115-ADMON. DE EMPRESAS FAMILIARES",
     "clave": "ADM-13115",
@@ -97,6 +225,26 @@ let clases={
       }
     ]
   },
+  "ADM-14405": {
+    "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
+    "clave": "ADM-14405",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "13:00-16:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "13:00",
+        "fin": "16:00"
+      }
+    ]
+  },
   "ADM-14413": {
     "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
     "clave": "ADM-14413",
@@ -117,6 +265,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "13:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -137,12 +299,183 @@ let clases={
         "campus": "",
         "inicio": "19:00",
         "fin": "22:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ADM-15503-FINANZAS.,III",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
+  "ADM-15510": {
+    "nombre": "ADM-15510-INVERSIONES",
+    "clave": "ADM-15510",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-15510-INVERSIONES",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "ADM-15528": {
+    "nombre": "ADM-15528-INSTRUMENTOS FINANCIEROS",
+    "clave": "ADM-15528",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-15528-INSTRUMENTOS FINANCIEROS",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "ADM-15535": {
+    "nombre": "ADM-15535-DERIVADOS",
+    "clave": "ADM-15535",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "ADM-15535-DERIVADOS",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "ADM-15571": {
+    "nombre": "ADM-15571-RENTA FIJA",
+    "clave": "ADM-15571",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-15571-RENTA FIJA",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "10:00-13:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "10:00",
+        "fin": "13:00"
       }
     ]
   },
   "ADM-15582": {
     "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
     "clave": "ADM-15582",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+        "profesor": "ILEANA MARIA LOPEZ PEREZ",
+        "creditos": "6",
+        "horario": "18:30-20:30",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RH302",
+        "campus": "RIO HONDO",
+        "inicio": "18:30",
+        "fin": "20:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "10:00-13:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "10:00",
+        "fin": "13:00"
+      }
+    ]
+  },
+  "ADM-15593": {
+    "nombre": "ADM-15593-INGENIERIA FINANCIERA",
+    "clave": "ADM-15593",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-15593-INGENIERIA FINANCIERA",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "13:00-16:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "13:00",
+        "fin": "16:00"
+      }
+    ]
+  },
+  "ADM-15597": {
+    "nombre": "ADM-15597-FINANZAS INTERNACIONALES (OP)",
+    "clave": "ADM-15597",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-15597-FINANZAS INTERNACIONALES (OP)",
+        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "creditos": "6",
+        "horario": "16:00-19:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "16:00",
+        "fin": "19:00"
+      }
+    ]
+  },
+  "ADM-16700": {
+    "nombre": "ADM-16700-MERCADOTECNIA DIGITAL",
+    "clave": "ADM-16700",
     "grupos": []
   },
   "COM-11302": {
@@ -238,6 +571,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:35"
+      },
+      {
+        "grupo": "003",
+        "nombre": "COM-16303-MODELADO COMPUT. PARA NEGOCIOS",
+        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -289,6 +636,106 @@ let clases={
       }
     ]
   },
+  "COM-23101": {
+    "nombre": "COM-23101-INTELIGENCIA  ARTIFICIAL",
+    "clave": "COM-23101",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "COM-23101-INTELIGENCIA  ARTIFICIAL",
+        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "creditos": "8",
+        "horario": "13:00-16:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "13:00",
+        "fin": "16:00"
+      }
+    ]
+  },
+  "COM-23106": {
+    "nombre": "COM-23106-MINERIA DE DATOS",
+    "clave": "COM-23106",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "COM-23106-MINERIA DE DATOS",
+        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "creditos": "6",
+        "horario": "10:00-13:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "10:00",
+        "fin": "13:00"
+      }
+    ]
+  },
+  "COM-23114": {
+    "nombre": "COM-23114-ARQ. PARA GDES VOLUM. DE DATOS",
+    "clave": "COM-23114",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "COM-23114-ARQ. PARA GDES VOLUM. DE DATOS",
+        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
+  "COM-23115": {
+    "nombre": "COM-23115-CIENCIA DE DATOS APLICADA I",
+    "clave": "COM-23115",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "COM-23115-CIENCIA DE DATOS APLICADA I",
+        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "creditos": "4",
+        "horario": "10:00-13:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "10:00",
+        "fin": "13:00"
+      }
+    ]
+  },
+  "COM-23701": {
+    "nombre": "COM-23701-APRENDIZAJE DE MAQUINA",
+    "clave": "COM-23701",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "COM-23701-APRENDIZAJE DE MAQUINA",
+        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
   "CON-10001": {
     "nombre": "CON-10001-PROCESO CONTABLE",
     "clave": "CON-10001",
@@ -313,6 +760,26 @@ let clases={
       }
     ]
   },
+  "CON-10005": {
+    "nombre": "CON-10005-ANAL. FINANCIERO DE LA EMPRESA",
+    "clave": "CON-10005",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CON-10005-ANAL. FINANCIERO DE LA EMPRESA",
+        "profesor": "SYLVIA MELJEM ENRIQUEZ DE RIVERA",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
   "CON-10100": {
     "nombre": "CON-10100-CONTABILIDAD, I",
     "clave": "CON-10100",
@@ -330,7 +797,7 @@ let clases={
           "JU",
           "VI"
         ],
-        "salon": "RH213",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -390,7 +857,7 @@ let clases={
           "JU",
           "VI"
         ],
-        "salon": "RH213",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -415,6 +882,46 @@ let clases={
       }
     ]
   },
+  "CON-12003": {
+    "nombre": "CON-12003-ADMON. ESTRATEGICA DE COSTOS",
+    "clave": "CON-12003",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CON-12003-ADMON. ESTRATEGICA DE COSTOS",
+        "profesor": "SYLVIA MELJEM ENRIQUEZ DE RIVERA",
+        "creditos": "6",
+        "horario": "10:00-13:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "10:00",
+        "fin": "13:00"
+      }
+    ]
+  },
+  "CSO-14042": {
+    "nombre": "CSO-14042-POLITICA COMPARADA III",
+    "clave": "CSO-14042",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-14042-POLITICA COMPARADA III",
+        "profesor": "ALBERTO SIMPSER MONDLAK",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
   "DER-11106": {
     "nombre": "DER-11106-METODOL. DE LA DISERTAC JURID.",
     "clave": "DER-11106",
@@ -435,6 +942,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
+      }
+    ]
+  },
+  "DER-11114": {
+    "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
+    "clave": "DER-11114",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
+        "profesor": "JOYCE CAROL  SADKA",
+        "creditos": "4",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -553,6 +1080,46 @@ let clases={
       }
     ]
   },
+  "DER-18600": {
+    "nombre": "DER-18600-DERECHO INTERNACIONAL I",
+    "clave": "DER-18600",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-18600-DERECHO INTERNACIONAL I",
+        "profesor": "JOYCE CAROL  SADKA",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
+  "ECO-11231": {
+    "nombre": "ECO-11231-ECONOMIA DE LA CONDUCTA",
+    "clave": "ECO-11231",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-11231-ECONOMIA DE LA CONDUCTA",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
   "ECO-12126": {
     "nombre": "ECO-12126-TEMAS DE MACROECONOMIA",
     "clave": "ECO-12126",
@@ -576,6 +1143,106 @@ let clases={
       }
     ]
   },
+  "ECO-12205": {
+    "nombre": "ECO-12205-TOP. DE TEO. Y POL. MONETARIA",
+    "clave": "ECO-12205",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-12205-TOP. DE TEO. Y POL. MONETARIA",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "6",
+        "horario": "13:00-16:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "13:00",
+        "fin": "16:00"
+      }
+    ]
+  },
+  "ECO-12207": {
+    "nombre": "ECO-12207-MERCADOS FINANCIEROS (OP)",
+    "clave": "ECO-12207",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-12207-MERCADOS FINANCIEROS (OP)",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "ECO-13101": {
+    "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
+    "clave": "ECO-13101",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
+  "ECO-13105": {
+    "nombre": "ECO-13105-TOPICOS DE ECO. INTERNACIONAL",
+    "clave": "ECO-13105",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-13105-TOPICOS DE ECO. INTERNACIONAL",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "6",
+        "horario": "10:00-13:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "10:00",
+        "fin": "13:00"
+      }
+    ]
+  },
+  "ECO-13120": {
+    "nombre": "ECO-13120-GLOBALIZACION:TEO. Y PRACTICA",
+    "clave": "ECO-13120",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-13120-GLOBALIZACION:TEO. Y PRACTICA",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "6",
+        "horario": "10:00-13:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "10:00",
+        "fin": "13:00"
+      }
+    ]
+  },
   "ECO-14301": {
     "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
     "clave": "ECO-14301",
@@ -596,6 +1263,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
+      }
+    ]
+  },
+  "ECO-15101": {
+    "nombre": "ECO-15101-FINANZAS PUBLICAS",
+    "clave": "ECO-15101",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-15101-FINANZAS PUBLICAS",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "6",
+        "horario": "10:00-13:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "10:00",
+        "fin": "13:00"
       }
     ]
   },
@@ -659,6 +1346,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "6",
+        "horario": "13:00-16:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "13:00",
+        "fin": "16:00"
       }
     ]
   },
@@ -682,6 +1383,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
+      }
+    ]
+  },
+  "EIN-17403": {
+    "nombre": "EIN-17403-JAPON, CHINA Y EL SUDESTE ASIA",
+    "clave": "EIN-17403",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EIN-17403-JAPON, CHINA Y EL SUDESTE ASIA",
+        "profesor": "ISABEL FLORES ALCAZAR",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -1391,15 +2112,30 @@ let misProfesData={
     "general": 8.0,
     "n": 1
   },
+  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
+    "general": 6.8235,
+    "n": 102
+  },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
     "general": 7.4118,
     "n": 17
   },
+  "CARLOS FERNANDO ESPONDA DARLINGTON": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Fernando-Esponda-Darlington_10851",
+    "general": 7.8148,
+    "n": 27
+  },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
     "general": 8.0,
     "n": 8
+  },
+  "ISABEL FLORES ALCAZAR": {
+    "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
+    "general": 8.3636,
+    "n": 22
   },
   "ROSARIO EDITH GARCIA MENDIOLA": {
     "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
@@ -1410,6 +2146,16 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
     "general": 9.25,
     "n": 4
+  },
+  "MARIA MERCEDES GREGORIO DOMINGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Mercedes-Gregorio-Dom\u00ednguez_10676",
+    "general": 8.25,
+    "n": 12
+  },
+  "JULIETA IRMA GUIZA PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
+    "general": 5.2353,
+    "n": 34
   },
   "JORGE HERRERA JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Herrera-Juarez_95615",
@@ -1430,6 +2176,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Luque-Salcedo_74892",
     "general": 8.0,
     "n": 4
+  },
+  "SYLVIA MELJEM ENRIQUEZ DE RIVERA": {
+    "link": "https://www.misprofesores.com/profesores/Sylvia-Meljem-Enriquez-de-Rivera_10756",
+    "general": 7.5833,
+    "n": 48
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
@@ -1455,6 +2206,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
     "general": 7.1786,
     "n": 28
+  },
+  "ALBERTO SIMPSER MONDLAK": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
+    "general": 6.5333,
+    "n": 15
   },
   "ANA TAMARIT AMIEVA": {
     "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
