@@ -1,4 +1,4 @@
-let actualizado="1750689916663.122";
+let actualizado="1750776229735.5671";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -994,7 +994,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH307",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -1013,7 +1013,7 @@ let profesores={
             "MI",
             "JU"
           ],
-          "salon": "RH307",
+          "salon": "RH210",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
