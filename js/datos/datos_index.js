@@ -1,4 +1,4 @@
-let actualizado="1750776229733.689";
+let actualizado="1750862674500.4768";
 let periodo="VERANO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2775";
@@ -12,7 +12,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-22306-MATEMATICAS FINANCIERAS II",
-        "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -32,7 +32,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -45,23 +45,23 @@ let clases={
       }
     ]
   },
-  "ADM-12013": {
-    "nombre": "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL",
-    "clave": "ADM-12013",
+  "ADM-11013": {
+    "nombre": "ADM-11013-ADMON. INTERNACIONAL",
+    "clave": "ADM-11013",
     "grupos": [
       {
         "grupo": "001",
-        "nombre": "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "nombre": "ADM-11013-ADMON. INTERNACIONAL",
+        "profesor": "",
         "creditos": "6",
-        "horario": "10:00-13:00",
+        "horario": "16:00-19:00",
         "dias": [
           "JU"
         ],
         "salon": "",
         "campus": "",
-        "inicio": "10:00",
-        "fin": "13:00"
+        "inicio": "16:00",
+        "fin": "19:00"
       }
     ]
   },
@@ -95,7 +95,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-12108-ESTRATEGIA DE NEGOCIOS II",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -109,7 +109,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-12108-ESTRATEGIA DE NEGOCIOS II",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "13:00-16:00",
         "dias": [
@@ -146,7 +146,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
@@ -189,7 +189,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
@@ -232,7 +232,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "13:00-16:00",
         "dias": [
@@ -269,7 +269,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -303,7 +303,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ADM-15503-FINANZAS.,III",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -323,7 +323,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15510-INVERSIONES",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -343,7 +343,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15528-INSTRUMENTOS FINANCIEROS",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -363,7 +363,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-15535-DERIVADOS",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -383,7 +383,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15571-RENTA FIJA",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -420,7 +420,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -440,7 +440,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15593-INGENIERIA FINANCIERA",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "13:00-16:00",
         "dias": [
@@ -460,7 +460,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15597-FINANZAS INTERNACIONALES (OP)",
-        "profesor": "JULIETA IRMA GUIZA PEREZ",
+        "profesor": "",
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
@@ -575,7 +575,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "COM-16303-MODELADO COMPUT. PARA NEGOCIOS",
-        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "profesor": "",
         "creditos": "9",
         "horario": "07:00-10:00",
         "dias": [
@@ -643,7 +643,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-23101-INTELIGENCIA  ARTIFICIAL",
-        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "profesor": "",
         "creditos": "8",
         "horario": "13:00-16:00",
         "dias": [
@@ -663,7 +663,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-23106-MINERIA DE DATOS",
-        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "profesor": "",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -683,7 +683,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-23114-ARQ. PARA GDES VOLUM. DE DATOS",
-        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "profesor": "",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -703,7 +703,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "COM-23115-CIENCIA DE DATOS APLICADA I",
-        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "profesor": "",
         "creditos": "4",
         "horario": "10:00-13:00",
         "dias": [
@@ -723,7 +723,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-23701-APRENDIZAJE DE MAQUINA",
-        "profesor": "CARLOS FERNANDO ESPONDA DARLINGTON",
+        "profesor": "",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -767,16 +767,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-10005-ANAL. FINANCIERO DE LA EMPRESA",
-        "profesor": "SYLVIA MELJEM ENRIQUEZ DE RIVERA",
+        "profesor": "",
         "creditos": "6",
-        "horario": "07:00-10:00",
+        "horario": "13:00-16:00",
         "dias": [
           "VI"
         ],
         "salon": "",
         "campus": "",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "13:00",
+        "fin": "16:00"
       }
     ]
   },
@@ -889,7 +889,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-12003-ADMON. ESTRATEGICA DE COSTOS",
-        "profesor": "SYLVIA MELJEM ENRIQUEZ DE RIVERA",
+        "profesor": "",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -909,7 +909,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CSO-14042-POLITICA COMPARADA III",
-        "profesor": "ALBERTO SIMPSER MONDLAK",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -952,7 +952,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
-        "profesor": "JOYCE CAROL  SADKA",
+        "profesor": "",
         "creditos": "4",
         "horario": "07:00-10:00",
         "dias": [
@@ -1087,7 +1087,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-18600-DERECHO INTERNACIONAL I",
-        "profesor": "JOYCE CAROL  SADKA",
+        "profesor": "",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -1107,7 +1107,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-11231-ECONOMIA DE LA CONDUCTA",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -1150,7 +1150,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12205-TOP. DE TEO. Y POL. MONETARIA",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "",
         "creditos": "6",
         "horario": "13:00-16:00",
         "dias": [
@@ -1170,7 +1170,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12207-MERCADOS FINANCIEROS (OP)",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -1190,7 +1190,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -1200,6 +1200,20 @@ let clases={
         "campus": "",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -1210,7 +1224,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-13105-TOPICOS DE ECO. INTERNACIONAL",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -1230,7 +1244,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-13120-GLOBALIZACION:TEO. Y PRACTICA",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -1273,7 +1287,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-15101-FINANZAS PUBLICAS",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -1350,7 +1364,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "",
         "creditos": "6",
         "horario": "13:00-16:00",
         "dias": [
@@ -1393,7 +1407,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EIN-17403-JAPON, CHINA Y EL SUDESTE ASIA",
-        "profesor": "ISABEL FLORES ALCAZAR",
+        "profesor": "",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -2122,20 +2136,10 @@ let misProfesData={
     "general": 7.4118,
     "n": 17
   },
-  "CARLOS FERNANDO ESPONDA DARLINGTON": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Fernando-Esponda-Darlington_10851",
-    "general": 7.8148,
-    "n": 27
-  },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
     "general": 8.0,
     "n": 8
-  },
-  "ISABEL FLORES ALCAZAR": {
-    "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 8.3636,
-    "n": 22
   },
   "ROSARIO EDITH GARCIA MENDIOLA": {
     "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
@@ -2146,16 +2150,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
     "general": 9.25,
     "n": 4
-  },
-  "MARIA MERCEDES GREGORIO DOMINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Mercedes-Gregorio-Dom\u00ednguez_10676",
-    "general": 8.25,
-    "n": 12
-  },
-  "JULIETA IRMA GUIZA PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
-    "general": 5.2353,
-    "n": 34
   },
   "JORGE HERRERA JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Herrera-Juarez_95615",
@@ -2176,11 +2170,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Luque-Salcedo_74892",
     "general": 8.0,
     "n": 4
-  },
-  "SYLVIA MELJEM ENRIQUEZ DE RIVERA": {
-    "link": "https://www.misprofesores.com/profesores/Sylvia-Meljem-Enriquez-de-Rivera_10756",
-    "general": 7.5833,
-    "n": 48
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
@@ -2207,15 +2196,10 @@ let misProfesData={
     "general": 7.1786,
     "n": 28
   },
-  "ALBERTO SIMPSER MONDLAK": {
-    "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
-    "general": 6.5333,
-    "n": 15
-  },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8,
+    "n": 5
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
