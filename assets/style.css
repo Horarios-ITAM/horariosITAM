@@ -181,19 +181,21 @@ span{
 }
 
 /* Autocomplete Suggestions */
-#autocomplete-suggestions {
+#autocomplete-suggestions,
+#autocomplete-suggestions-profesores {
     border: 1px solid #707070; /* Darker gray for old school feel */
     background-color: #fdfdfd; /* Off-white */
     position: absolute;
     z-index: 1000;
-    max-height: 200px;
+    max-height: 250px; /* Increased height */
     overflow-y: auto;
-    width: 320px; /* Width of search input (size 35 is approx 280px + padding) */
+    width: 290px; /* Adjusted width to better match input size="35" */
     box-shadow: 2px 2px 3px #888888; /* Simple shadow */
-    margin-top: 2px; /* Small gap below the "Agregar" button */
+    margin-top: 1px; /* Reduced gap - positioned directly after input now */
     display: none; /* Initially hidden */
     font-family: Arial, sans-serif; /* Standard font */
     font-size: 13px; /* Slightly smaller text */
+    /* Ensure it aligns left with the input. offsetLeft of input could be used via JS for perfect alignment if issues persist. */
 }
 
 .autocomplete-item {
@@ -201,6 +203,7 @@ span{
     cursor: pointer;
     color: #333333;
     border-bottom: 1px solid #eeeeee; /* Light separator for items */
+    text-align: left; /* Ensure text is left-aligned */
 }
 
 .autocomplete-item:last-child {

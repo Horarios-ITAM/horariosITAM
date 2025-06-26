@@ -402,8 +402,8 @@ function initAutocomplete() {
     const input = document.getElementById('a');
     const suggestionsContainer = document.createElement('div');
     suggestionsContainer.setAttribute('id', 'autocomplete-suggestions');
-    // Insert after the input field's parent form, or adjust as needed for layout
-    input.parentNode.insertBefore(suggestionsContainer, input.nextSibling.nextSibling); // after the "Agregar" button
+    // Insert directly after the input field
+    input.parentNode.insertBefore(suggestionsContainer, input.nextSibling);
 
     input.addEventListener('input', function() {
         const query = this.value.toLowerCase();
@@ -435,6 +435,60 @@ function initAutocomplete() {
     });
 
     // Optional: Close suggestions when clicking outside
+    document.addEventListener('click', function(e) {
+        if (e.target !== input && e.target.parentNode !== suggestionsContainer) {
+            suggestionsContainer.innerHTML = '';
+            suggestionsContainer.style.display = 'none';
+        }
+    });
+}
+
+/**
+ * Initializes the autocomplete functionality for the professor search input.
+ */
+function initAutocompleteProfesores() {
+    const input = document.getElementById('profesorSeleccionado');
+    if (!input) return; // Safety check, in case it's called on a page without this input
+
+    const suggestionsContainer = document.createElement('div');
+    suggestionsContainer.setAttribute('id', 'autocomplete-suggestions-profesores'); // Unique ID
+    // Insert directly after the input field
+    input.parentNode.insertBefore(suggestionsContainer, input.nextSibling);
+
+    input.addEventListener('input', function() {
+        const query = this.value.toLowerCase();
+        suggestionsContainer.innerHTML = '';
+        suggestionsContainer.style.display = 'none';
+
+        if (query.length < 1) {
+            return;
+        }
+
+        // Use Object.keys to get professor names, then filter
+        const matchedProfesores = Object.keys(profesores).filter(profName => {
+            return profName && profName.toLowerCase().includes(query); // Filter out empty string key and match
+        });
+
+        if (matchedProfesores.length > 0) {
+            suggestionsContainer.style.display = 'block';
+            matchedProfesores.forEach(profName => {
+                const suggestionItem = document.createElement('div');
+                suggestionItem.classList.add('autocomplete-item'); // Can reuse class if styling is identical
+                suggestionItem.textContent = profName; // Professor name is the key
+                suggestionItem.addEventListener('click', function() {
+                    input.value = profName;
+                    suggestionsContainer.innerHTML = '';
+                    suggestionsContainer.style.display = 'none';
+                    // Optionally, trigger the original onChange behavior if still needed after selection
+                    if (typeof buscarProfesor === 'function') {
+                        buscarProfesor();
+                    }
+                });
+                suggestionsContainer.appendChild(suggestionItem);
+            });
+        }
+    });
+
     document.addEventListener('click', function(e) {
         if (e.target !== input && e.target.parentNode !== suggestionsContainer) {
             suggestionsContainer.innerHTML = '';
