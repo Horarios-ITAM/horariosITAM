@@ -426,7 +426,9 @@ function initAutocomplete() {
                 suggestionItem.classList.add('autocomplete-item');
                 suggestionItem.textContent = clase.nombre;
                 suggestionItem.addEventListener('click', function() {
-                    input.value = clase.nombre;
+                    // input.value = clase.nombre; // Keep or remove based on desired UX
+                    agregar(clase.nombre); // Call agregar directly
+                    input.value = ''; // Clear input after adding
                     suggestionsContainer.innerHTML = '';
                     suggestionsContainer.style.display = 'none';
                 });
