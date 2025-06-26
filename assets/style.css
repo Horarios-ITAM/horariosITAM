@@ -179,3 +179,34 @@ span{
 .custom-button:-webkit-details-marker {
   display: none;
 }
+
+/* Autocomplete Suggestions */
+#autocomplete-suggestions {
+    border: 1px solid #707070; /* Darker gray for old school feel */
+    background-color: #fdfdfd; /* Off-white */
+    position: absolute;
+    z-index: 1000;
+    max-height: 200px;
+    overflow-y: auto;
+    width: 320px; /* Width of search input (size 35 is approx 280px + padding) */
+    box-shadow: 2px 2px 3px #888888; /* Simple shadow */
+    margin-top: 2px; /* Small gap below the "Agregar" button */
+    display: none; /* Initially hidden */
+    font-family: Arial, sans-serif; /* Standard font */
+    font-size: 13px; /* Slightly smaller text */
+}
+
+.autocomplete-item {
+    padding: 6px 10px;
+    cursor: pointer;
+    color: #333333;
+    border-bottom: 1px solid #eeeeee; /* Light separator for items */
+}
+
+.autocomplete-item:last-child {
+    border-bottom: none; /* No border for the last item */
+}
+
+.autocomplete-item:hover {
+    background-color: #d4d4d4; /* Grayish hover */
+}

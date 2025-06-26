@@ -393,3 +393,52 @@ function generarTodosHorarios(clasesSeleccionadas,preferencias){
     return horarios;
 }
 
+// --- Autocomplete Functionality ---
+
+/**
+ * Initializes the autocomplete functionality for the class search input.
+ */
+function initAutocomplete() {
+    const input = document.getElementById('a');
+    const suggestionsContainer = document.createElement('div');
+    suggestionsContainer.setAttribute('id', 'autocomplete-suggestions');
+    // Insert after the input field's parent form, or adjust as needed for layout
+    input.parentNode.insertBefore(suggestionsContainer, input.nextSibling.nextSibling); // after the "Agregar" button
+
+    input.addEventListener('input', function() {
+        const query = this.value.toLowerCase();
+        suggestionsContainer.innerHTML = ''; // Clear previous suggestions
+        suggestionsContainer.style.display = 'none';
+
+        if (query.length < 1) { // Minimum characters to trigger autocomplete
+            return;
+        }
+
+        const matchedClases = Object.values(clases).filter(clase => {
+            return clase.nombre.toLowerCase().includes(query);
+        });
+
+        if (matchedClases.length > 0) {
+            suggestionsContainer.style.display = 'block';
+            matchedClases.forEach(clase => {
+                const suggestionItem = document.createElement('div');
+                suggestionItem.classList.add('autocomplete-item');
+                suggestionItem.textContent = clase.nombre;
+                suggestionItem.addEventListener('click', function() {
+                    input.value = clase.nombre;
+                    suggestionsContainer.innerHTML = '';
+                    suggestionsContainer.style.display = 'none';
+                });
+                suggestionsContainer.appendChild(suggestionItem);
+            });
+        }
+    });
+
+    // Optional: Close suggestions when clicking outside
+    document.addEventListener('click', function(e) {
+        if (e.target !== input && e.target.parentNode !== suggestionsContainer) {
+            suggestionsContainer.innerHTML = '';
+            suggestionsContainer.style.display = 'none';
+        }
+    });
+}
