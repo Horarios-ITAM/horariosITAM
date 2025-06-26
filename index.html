@@ -65,12 +65,13 @@
                     <br><br>
                     <div id="main_form">
                         <form id="clases_form">
-                            <input list="clases_datalist" placeholder="Buscar Clase" size="35" id="a" onfocus="this.value=''" autofocus>
-                                <!-- Datalist con la lista de clases -->
-                                <datalist id="clases_datalist"></datalist>
-                                <!-- Boton de Agregar -->
-                                <input type=button value="Agregar" id="agregar_button" class="custom-button" onclick="agregar(document.getElementById('a').value)"/>
-                                <!-- Tabla y inputs de preferencias -->
+                            <div class="autocomplete-wrapper">
+                                <input placeholder="Buscar Clase" size="35" id="a" onfocus="this.value=''" autofocus>
+                                <!-- Suggestions will be inserted here by JS -->
+                            </div>
+                            <!-- Boton de Agregar -->
+                            <input type=button value="Agregar" id="agregar_button" class="custom-button" onclick="agregar(document.getElementById('a').value)"/>
+                            <!-- Tabla y inputs de preferencias -->
                                 <br><br>
                                 <table border="0">
                                     <tr>
@@ -227,8 +228,8 @@
             }
 
 
-            // Llenamos datalist de "Buscar Clase"
-            llenaDatalist();
+            // Initialize autocomplete
+            initAutocomplete();
 
             // Variables globales para navegacion
             let clasesSeleccionadas={};             // Map<Clave materia -> Clase (obj)> para las clases seleccionadas 

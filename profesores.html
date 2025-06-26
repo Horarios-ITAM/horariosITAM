@@ -10,6 +10,8 @@
         <script src="js/classes.js"></script>
         <!--Contiene los grupos y evaluaciones de los profesores-->
         <script src="js/datos/datos_profesores.js"></script>
+        <!-- Contiene el javascript principal -->
+        <script src="js/main.js"></script>
         <!--CSS-->
         <link rel="stylesheet" href="assets/style.css"> 
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -42,10 +44,10 @@
                     <br><br>
                     <div id="main_form">
                         <form id="clases_form">
-                            <input id="profesorSeleccionado" list="profesores_datalist" placeholder="Buscar Profesores" size="35" onfocus="this.value=''" onChange="buscarProfesor()" autofocus>
-                                <!--Datalist con la lista de profesores-->
-                                <datalist id="profesores_datalist"></datalist>
-                            </input>
+                            <div class="autocomplete-wrapper">
+                                <input id="profesorSeleccionado" placeholder="Buscar Profesores" size="35" onfocus="this.value=''" onChange="buscarProfesor()" autofocus>
+                                <!-- Suggestions will be inserted here by JS -->
+                            </div>
                         </form>
                     </div>
                     <br>
@@ -119,8 +121,8 @@
                 document.getElementsByName("s")[0].value=sGrace;
             }
 
-            //Llenamos datalist de "Buscar Clase"
-            llenaDatalistProfesores();
+            // Initialize autocomplete for professors
+            initAutocompleteProfesores();
 
             //Llena "enLoMientas" con los mejores profes por depto.
             llenaMejoresPorDepto();
