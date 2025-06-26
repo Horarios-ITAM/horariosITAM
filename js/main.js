@@ -402,8 +402,9 @@ function initAutocomplete() {
     const input = document.getElementById('a');
     const suggestionsContainer = document.createElement('div');
     suggestionsContainer.setAttribute('id', 'autocomplete-suggestions');
-    // Insert directly after the input field
-    input.parentNode.insertBefore(suggestionsContainer, input.nextSibling);
+    // input.parentNode is now the .autocomplete-wrapper
+    // Insert suggestionsContainer into the wrapper, after the input
+    input.parentNode.appendChild(suggestionsContainer); // Appending as the last child within the wrapper
 
     input.addEventListener('input', function() {
         const query = this.value.toLowerCase();

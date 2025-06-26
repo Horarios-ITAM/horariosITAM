@@ -65,10 +65,13 @@
                     <br><br>
                     <div id="main_form">
                         <form id="clases_form">
-                            <input placeholder="Buscar Clase" size="35" id="a" onfocus="this.value=''" autofocus>
-                                <!-- Boton de Agregar -->
-                                <input type=button value="Agregar" id="agregar_button" class="custom-button" onclick="agregar(document.getElementById('a').value)"/>
-                                <!-- Tabla y inputs de preferencias -->
+                            <div class="autocomplete-wrapper">
+                                <input placeholder="Buscar Clase" size="35" id="a" onfocus="this.value=''" autofocus>
+                                <!-- Suggestions will be inserted here by JS -->
+                            </div>
+                            <!-- Boton de Agregar -->
+                            <input type=button value="Agregar" id="agregar_button" class="custom-button" onclick="agregar(document.getElementById('a').value)"/>
+                            <!-- Tabla y inputs de preferencias -->
                                 <br><br>
                                 <table border="0">
                                     <tr>

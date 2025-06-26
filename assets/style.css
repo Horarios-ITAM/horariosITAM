@@ -180,6 +180,12 @@ span{
   display: none;
 }
 
+.autocomplete-wrapper {
+    position: relative; /* Establishes a positioning context for the suggestions box */
+    display: inline-block; /* Allows it to sit naturally with other form elements like the button */
+    vertical-align: top; /* Aligns well if other elements are inline-block */
+}
+
 /* Autocomplete Suggestions */
 #autocomplete-suggestions,
 #autocomplete-suggestions-profesores {
@@ -195,7 +201,7 @@ span{
     display: none; /* Initially hidden */
     font-family: Arial, sans-serif; /* Standard font */
     font-size: 13px; /* Slightly smaller text */
-    /* Ensure it aligns left with the input. offsetLeft of input could be used via JS for perfect alignment if issues persist. */
+    left: 0; /* Align to the left of the autocomplete-wrapper */
 }
 
 .autocomplete-item {
