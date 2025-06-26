@@ -44,8 +44,10 @@
                     <br><br>
                     <div id="main_form">
                         <form id="clases_form">
-                            <input id="profesorSeleccionado" placeholder="Buscar Profesores" size="35" onfocus="this.value=''" onChange="buscarProfesor()" autofocus>
-                            </input>
+                            <div class="autocomplete-wrapper">
+                                <input id="profesorSeleccionado" placeholder="Buscar Profesores" size="35" onfocus="this.value=''" onChange="buscarProfesor()" autofocus>
+                                <!-- Suggestions will be inserted here by JS -->
+                            </div>
                         </form>
                     </div>
                     <br>
