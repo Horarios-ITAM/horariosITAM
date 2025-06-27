@@ -1,0 +1,38 @@
+[project]
+name = "horarios-itam"
+version = "0.1.0"
+description = "Scrapers and data processing for Horarios ITAM website."
+readme = "README.md"
+requires-python = ">=3.8" # Based on f-strings and other modern syntax, >=3.8 is a safe bet.
+license = {text = "MIT"} # Assuming MIT, common for open source. Can be changed.
+authors = [
+  {name = "Emilio Cantu", email = "emiliocantuc@gmail.com"} # From package.json like structures, often found or can be a placeholder
+]
+maintainers = [
+  {name = "Emilio Cantu", email = "emiliocantuc@gmail.com"}
+]
+
+dependencies = [
+    "beautifulsoup4==4.11.1",
+    "requests==2.31.0",
+]
+
+[project.urls]
+Homepage = "https://horariositam.com/"
+Repository = "https://github.com/emiliocantuc/horariosITAM"
+
+# Optional: If we want to define scripts that uv can run
+# [project.scripts]
+# update-data = "update.update:main" # Example, if update.py had a main() function
+
+# Tool specific configurations
+[tool.uv]
+# We can specify uv options here if needed in the future.
+
+# Placeholder for other tools if added (e.g., ruff, black, mypy)
+# [tool.ruff]
+# ...
+# [tool.black]
+# ...
+# [tool.mypy]
+# ...

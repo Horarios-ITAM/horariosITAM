@@ -1,118 +1,190 @@
-import os,itertools,requests,string,time,sys,argparse
+import os
+import itertools
+import string
+import time
+import argparse
+import logging
+from typing import List, Iterator # Tuple removed
+
 import utils
 
+# Configuración básica de logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def fuerza_bruta(url,base_dir):
+BOLETIN_TEMPLATE_FILENAME = "boletinesTemplate.html"
+HTML_LINK_PLACEHOLDER = "<!--Lista de links-->"
+HTML_TIMESTAMP_PLACEHOLDER = "//Actualizado"
+PDF_EXTENSION = ".pdf"
+
+def generate_program_codes() -> Iterator[str]:
+    """Genera posibles códigos de programa para la búsqueda por fuerza bruta."""
+    # Combinaciones de 2 o 3 letras para la primera parte, y 1 letra para la segunda.
+    # Ejemplos: AB-C, ABC-D
+    for k_val in ['', *list(string.ascii_uppercase)]: # Tercera letra opcional
+        product_iter = itertools.product(
+            string.ascii_uppercase,  # Primera letra
+            string.ascii_uppercase,  # Segunda letra
+            [k_val],                 # Tercera letra (o vacía)
+            string.ascii_uppercase   # Letra después del guion
+        )
+        for i, j, k, letra in product_iter:
+            yield f'{i}{j}{k}-{letra}'
+
+
+def fuerza_bruta(url_base_boletines: str, output_dir: str) -> None:
     """
     Intenta encontrar y descargar boletines por fuerza bruta.
-    I.e. asume que no se conocen las claves de los programas ('COM-H')
-    y los intenta encontrar.
-
-    Intenta todas las combinaciones del formato AA-A, AAA-A, ..., ZZ-Z, ZZZ-Z.
-
-    Se recomienda usar muy infrecuentemente.
+    Prueba combinaciones de códigos de programa y descarga los PDF encontrados.
+    Se recomienda usar muy infrecuentemente debido a la alta cantidad de peticiones.
     """
+    logging.info("Iniciando búsqueda de boletines por fuerza bruta.")
+    for programa_code in generate_program_codes():
+        file_name = f"{programa_code}{PDF_EXTENSION}"
+        download_url = f"{url_base_boletines}{file_name}"
+        output_path = os.path.join(output_dir, file_name)
 
-    # El producto cruz 
-    prod=itertools.product(
-        string.ascii_uppercase,
-        string.ascii_uppercase,
-        ['']+list(string.ascii_uppercase),
-        string.ascii_uppercase,
-    )
-    # Para cada combinacion
-    for i,j,k,letra in prod:
-        programa=f'{i}{j}{k}-{letra}'
+        logging.debug(f"Intentando descargar: {download_url}")
         try:
-            # Intentamos descargar - solo es exitoso si el programa existe.
-            print(f'{url}{programa}.pdf')
-            utils.descargaArchivo(f'{base_dir}/{programa}.pdf',f'{url}{programa}.pdf')
-            print('Encontrado y descargado!')
-        except:continue
+            # utils.descargaArchivo ahora usa verify_ssl=True por defecto.
+            # Si hay problemas de SSL con escolar.itam.mx, se podría necesitar verify_ssl=False.
+            # Por ahora, se asume que el certificado es válido o no es un problema.
+            utils.descargaArchivo(output_path, download_url)
+            logging.info(f"ÉXITO: {programa_code} encontrado y descargado en {output_path}")
+        except utils.NetworkError as e:
+            # Es esperado que muchos no se encuentren (404)
+            if "404" in str(e): # Chequeo simple, podría ser más robusto si NetworkError tiene status_code
+                logging.debug(f"No encontrado (404): {download_url} - {e}")
+            else:
+                logging.warning(f"No se pudo descargar {programa_code} desde {download_url}: {e}")
+        except Exception as e: # Otras posibles excepciones no relacionadas a la red
+            logging.error(f"Error inesperado descargando {programa_code} desde {download_url}: {e}")
 
-def actualiza_ya_encontrados(url,base_dir):
-    """
-    Asume que ya existen programas en el directorio 'base_dir'
-    e intenta actualizarlos descargando el archivo con el mismo nombre.
-    """
 
-    # Para cada archivo PDF en boletines/
-    for fname in os.listdir(base_dir):
-        if '.pdf' not in fname: continue
+def actualiza_ya_encontrados(url_base_boletines: str, boletines_dir: str) -> None:
+    """
+    Actualiza los boletines PDF existentes en `boletines_dir`
+    intentando descargarlos de nuevo desde `url_base_boletines`.
+    """
+    logging.info(f"Iniciando actualización de boletines en: {boletines_dir}")
+    if not os.path.isdir(boletines_dir):
+        logging.warning(f"Directorio de boletines no encontrado: {boletines_dir}. No se puede actualizar.")
+        return
+
+    for fname in os.listdir(boletines_dir):
+        if not fname.endswith(PDF_EXTENSION):
+            continue
         
-        print(f'Intentando descargar {fname}')
-
-        # Intenta descargarlo
+        logging.info(f"Intentando actualizar {fname}")
+        download_url = f"{url_base_boletines}{fname}"
+        output_path = os.path.join(boletines_dir, fname)
         try:
-            utils.descargaArchivo(f'{base_dir}/{fname}',f'{url}{fname}')
-        except:
-            print('No se pudo descargar {fname}')
+            utils.descargaArchivo(output_path, download_url)
+            logging.info(f"Actualizado: {fname}")
+        except utils.NetworkError as e:
+            logging.warning(f"No se pudo actualizar {fname} desde {download_url}: {e}")
+        except Exception as e:
+            logging.error(f"Error inesperado actualizando {fname} desde {download_url}: {e}")
 
 
-def agregaLinksDoc(base_dir):
-    sHTML=''
-    # Para cada archivo PDF en boletines/
-    for fname in sorted(os.listdir(base_dir)):
-        if '.pdf' not in fname: continue
-        # Agrega un link a sHTML de la forma:
-        sHTML+=f'<a href={base_dir}/{fname} target=_blank>{fname.split(".")[0]}</a><br>\n'
+def agregaLinksDoc(boletines_dir: str) -> str:
+    """
+    Genera el HTML con links a los boletines PDF encontrados en `boletines_dir`,
+    basado en una plantilla HTML.
+    """
+    logging.debug(f"Generando links HTML para boletines en: {boletines_dir}")
+    sHTML_links = []
+    if not os.path.isdir(boletines_dir):
+        logging.warning(f"Directorio de boletines no encontrado: {boletines_dir}. No se generarán links.")
+        return "" # O manejar de otra forma, e.g. retornar el template sin modificar
 
-    # Lee el template
-    with open(f'{base_dir}/boletinesTemplate.html', 'r') as f:
-        template=f.read()
-    
-    # Y reemplaza la lista de ligas en su lugar
-    return template.replace('<!--Lista de links-->',sHTML)
+    # Usamos os.path.join para la ruta del template
+    template_path = os.path.join(boletines_dir, BOLETIN_TEMPLATE_FILENAME)
 
-def agregarActualizado(html):
-    return html.replace('//Actualizado',str(time.time()*1000))
+    for fname in sorted(os.listdir(boletines_dir)):
+        if not fname.endswith(PDF_EXTENSION):
+            continue
+
+        # La URL en el href debe ser relativa a la raíz del sitio, o como se sirva.
+        # Si boletines.html está en la raíz, y los PDFs en 'assets/boletines/',
+        # el link debería ser 'assets/boletines/archivo.pdf'.
+        # El `base_dir` original en el href era `assets/boletines`.
+        # Asumimos que `boletines_dir` es `assets/boletines` y los links son relativos a la raíz del sitio.
+        link_path = f"{boletines_dir}/{fname}" # Manteniendo la estructura original del link
+        program_name = fname.split(PDF_EXTENSION)[0]
+        sHTML_links.append(f'<a href="{link_path}" target="_blank">{program_name}</a><br>')
+
+    links_html_block = "\n".join(sHTML_links)
+
+    try:
+        with open(template_path, 'r', encoding='utf-8') as f:
+            template_content = f.read()
+    except FileNotFoundError:
+        logging.error(f"Archivo de plantilla no encontrado: {template_path}")
+        return f"Error: Plantilla no encontrada en {template_path}.<br>\n{links_html_block}" # Fallback
+    except IOError as e:
+        logging.error(f"Error leyendo archivo de plantilla {template_path}: {e}")
+        return f"Error leyendo plantilla.<br>\n{links_html_block}" # Fallback
+
+    return template_content.replace(HTML_LINK_PLACEHOLDER, links_html_block)
+
+def agregarActualizadoTimestamp(html_content: str) -> str:
+    """Reemplaza un placeholder en el HTML con el timestamp actual."""
+    return html_content.replace(HTML_TIMESTAMP_PLACEHOLDER, str(time.time() * 1000))
 
 
-
-if __name__=='__main__':
-
-    # Parseador de argumentos
-    parser=argparse.ArgumentParser(
+def main():
+    """Función principal para ejecutar el script."""
+    parser = argparse.ArgumentParser(
         prog='Cache Boletines',
-        description='Intenta descargar/actualizar copias de los programas academicos del ITAM.'
+        description='Descarga/actualiza copias de los programas académicos (boletines) del ITAM.'
     )
     parser.add_argument(
         '--url_boletines',
         default='http://escolar.itam.mx/licenciaturas/boletines/',
-        help='La URL donde se encuentran los boletines publicados. Por ejemplo "[url_boletines]/COM-H.pdf".'
+        help='URL base donde se encuentran los boletines. Ej: "[url_boletines]/COM-H.pdf".'
     )
     parser.add_argument(
         '--modo',
-        choices=['actualiza','encuentra','html'],
+        choices=['actualiza', 'encuentra', 'html'],
         default='actualiza',
-        help='Actualiza los boletines ya encontrados y que vivien en --dir (actualiza),\
-            encuentra boletines con fuerza bruta (encuentra) o solo actualiza el archivo boletines.html (html).'
+        help=(
+            'Modo de operación: '
+            '"actualiza" (actualiza boletines existentes en --dir), '
+            '"encuentra" (busca nuevos boletines por fuerza bruta y los guarda en --dir), '
+            '"html" (solo actualiza el archivo boletines.html).'
+        )
     )
     parser.add_argument(
         '--dir',
         default='assets/boletines',
-        help='Directorio en el cual se encuentran/guardan los boletines descargados.'
+        help='Directorio para guardar/leer los boletines descargados y donde se espera boletinesTemplate.html.'
     )
-    args=vars(parser.parse_args())
+    parser.add_argument(
+        '--output_html_file',
+        default='boletines.html',
+        help='Nombre del archivo HTML de salida que contendrá los links a los boletines.'
+    )
 
+    args = parser.parse_args()
 
-    if 'encuentra' in args['modo']:
-        print('Obteniendo boletines por fuerza bruta')
-        fuerza_bruta(args['url_boletines'],args['dir'])
-
-    elif 'actualiza' in args['modo']:
-        print('Actualizando boletines ya encontrados')
-        actualiza_ya_encontrados(args['url_boletines'],args['dir'])
+    if args.modo == 'encuentra':
+        logging.info(f"Modo 'encuentra': Obteniendo boletines por fuerza bruta desde {args.url_boletines}")
+        fuerza_bruta(args.url_boletines, args.dir)
+    elif args.modo == 'actualiza':
+        logging.info(f"Modo 'actualiza': Actualizando boletines en {args.dir} desde {args.url_boletines}")
+        actualiza_ya_encontrados(args.url_boletines, args.dir)
     
-    # Agregamos links a template y regresamos el html
-    conLinks=agregaLinksDoc(args['dir'])
-    # Agregamos la fecha de actualizacion
-    conActualizado=agregarActualizado(conLinks)
+    # Siempre (re)generamos el HTML después de 'encuentra' o 'actualiza', o si modo es 'html'
+    logging.info(f"Generando archivo HTML: {args.output_html_file}")
+    html_con_links = agregaLinksDoc(args.dir)
+    html_final = agregarActualizadoTimestamp(html_con_links)
 
-    # Guardamos en .html
-    with open('boletines.html','w+') as f:
-        f.write(conActualizado)
-    
+    try:
+        with open(args.output_html_file, 'w+', encoding='utf-8') as f:
+            f.write(html_final)
+        logging.info(f"Archivo HTML '{args.output_html_file}' generado/actualizado exitosamente.")
+    except IOError as e:
+        logging.error(f"No se pudo escribir el archivo HTML '{args.output_html_file}': {e}")
 
-
-
+if __name__ == '__main__':
+    main()

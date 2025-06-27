@@ -6,10 +6,13 @@ Los usuarios pueden ingresar las clases que desean cursar y después explorar to
 
 ## Tecnologías utilizadas
 
-- Python 3.9 y BeautifulSoup para el scrapeo de datos (scripts en `/update`)
-- HTML5 y Javascript para la implementación de la página (`/` y `/js` respectivamente)
-- [GitHub Pages](https://pages.github.com/) para hostear la página
-- [GitHub Actions](https://docs.github.com/en/actions) para scrappear los datos periódicamente y hacer push al repo.
+- Python 3.9+ para el scrapeo y procesamiento de datos (scripts en `/update`).
+  - Se utiliza [uv](https://github.com/astral-sh/uv) para la gestión del entorno virtual y las dependencias (definidas en `pyproject.toml`).
+  - El código de los scrapers ha sido refactorizado para mejorar su robustez, mantenibilidad y adherencia a buenas prácticas (logging, manejo de errores, timeouts, etc.).
+  - Librerías principales: `requests` para peticiones HTTP y `BeautifulSoup4` para el parseo de HTML.
+- HTML5 y Javascript para la implementación de la página (`/` y `/js` respectivamente).
+- [GitHub Pages](https://pages.github.com/) para hostear la página.
+- [GitHub Actions](https://docs.github.com/en/actions) para ejecutar los scrapers periódicamente, actualizar los datos y monitorear el sitio.
 
 GitHub Pages y Actions implican que el único costo asociado con el sitio es el del dominio.
 
@@ -23,8 +26,7 @@ Las fuentes de datos son:
 
 
 ## Por mejorar/hacer
-- Reescribir scrappers
+- **Mantenimiento de Scrapers**: Los scrapers han sido refactorizados para mayor robustez, pero el scrapeo web es inherentemente frágil. Se requiere monitoreo continuo y posibles ajustes si las estructuras de las páginas fuente cambian.
 - Intentar usar datos de 'Grupos que continuan abiertos' para el periodo.
-- Limpiar/mejorar codigo de python.
-- Mejorar el [fuzzy name matching](https://www.rosette.com/name-matching-algorithms/) (MisProfesScrapper > [match](https://github.com/emiliocantuc/horariosITAM/blob/9f12960e16f29bd48e4fbda1258b83c88ef037db/update/misProfesScrapper.py#L53)) que se hace para ligar a profesores obtenidos de Grace y de MisProfes.
-- Mejorar y probar detalladamente la función que rankea los horarios (main.js > [evaluaHorario](https://github.com/emiliocantuc/horariosITAM/blob/9f12960e16f29bd48e4fbda1258b83c88ef037db/js/main.js#L272)).
+- Mejorar el [fuzzy name matching](https://www.rosette.com/name-matching-algorithms/) (MisProfesScrapper > `match_profesores`) que se hace para ligar a profesores obtenidos de Grace y de MisProfes.
+- Mejorar y probar detalladamente la función que rankea los horarios (main.js > `evaluaHorario`).
