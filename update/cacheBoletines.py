@@ -1,4 +1,4 @@
-import os,itertools,requests,string,time,sys,argparse
+import os, itertools, string, time, argparse
 import utils
 
 
@@ -29,6 +29,29 @@ def fuerza_bruta(url,base_dir):
             utils.descargaArchivo(f'{base_dir}/{programa}.pdf',f'{url}{programa}.pdf')
             print('Encontrado y descargado!')
         except:continue
+
+
+def semi_fuerza_bruta(url,base_dir):
+    """
+    Intenta encontrar y descargar boletines por semi-fuerza bruta.
+    I.e. asume que se conocen las claves 'COM' de las carreras pero 
+    no las letras de los programas ('H').
+
+    Intenta las combinaciones del formato COM-A, COM-B, ..., COM-Z.
+    """
+    codigos_carreras = set([fname.split('-')[0] for fname in os.listdir(base_dir) if '.pdf' in fname])
+    print(f'Codigos de carreras encontrados: {codigos_carreras}')
+
+    for carrera in codigos_carreras:
+        # Intenta descargar los programas de la carrera
+        for letra in string.ascii_uppercase:
+            programa=f'{carrera}-{letra}'
+            try:
+                utils.descargaArchivo(f'{base_dir}/{programa}.pdf',f'{url}{programa}.pdf')
+                print(f'Encontrado y descargado: {url}{programa}.pdf')
+            except:
+                # print(f'No se pudo descargar {programa}')
+                continue
 
 def actualiza_ya_encontrados(url,base_dir):
     """
@@ -83,7 +106,7 @@ if __name__=='__main__':
     )
     parser.add_argument(
         '--modo',
-        choices=['actualiza','encuentra','html'],
+        choices=['actualiza', 'semi-encuentra', 'encuentra','html'],
         default='actualiza',
         help='Actualiza los boletines ya encontrados y que vivien en --dir (actualiza),\
             encuentra boletines con fuerza bruta (encuentra) o solo actualiza el archivo boletines.html (html).'
@@ -96,11 +119,15 @@ if __name__=='__main__':
     args=vars(parser.parse_args())
 
 
-    if 'encuentra' in args['modo']:
+    if args['modo'] == 'encuentra':
         print('Obteniendo boletines por fuerza bruta')
         fuerza_bruta(args['url_boletines'],args['dir'])
 
-    elif 'actualiza' in args['modo']:
+    elif args['modo'] == 'semi-encuentra':
+        print('Obteniendo boletines por semi-fuerza bruta')
+        semi_fuerza_bruta(args['url_boletines'],args['dir'])
+
+    elif args['modo'] == 'actualiza':
         print('Actualizando boletines ya encontrados')
         actualiza_ya_encontrados(args['url_boletines'],args['dir'])
     

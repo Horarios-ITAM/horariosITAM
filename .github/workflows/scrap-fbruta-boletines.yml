@@ -20,7 +20,7 @@ jobs:
 
     - name: Encuentra boletines
       run: |
-        python3 update/cacheBoletines.py --modo encuentra
+        python3 update/cacheBoletines.py --modo semi-encuentra
 
     - name: Commit files # Hacemos commit de los cambios.
       run: |
