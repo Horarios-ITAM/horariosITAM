@@ -155,8 +155,9 @@ class GraceScrapper:
             if len(gruposLab)>0:
                 l={'nombre':originalNombre+'-LAB','clave':data['depto']+'-'+data['clave'],'grupos':gruposLab}
                 formated[l['clave']+'-LAB']=l
-            t={'nombre':originalNombre,'clave':data['depto']+'-'+data['clave'],'grupos':grupos}
-            formated[t['clave']]=t
+            if len(c) > 0:
+                t={'nombre':originalNombre,'clave':data['depto']+'-'+data['clave'],'grupos':grupos}
+                formated[t['clave']]=t
         return formated
 
     def _print(self,s):
