@@ -18,11 +18,11 @@ def notifica(msg, url):
             "Tags": "warning,horariositam"
     })
 
-def req(url, exit_on_error = True):
+def req(url, expected_status_code = 200, exit_on_error = True):
     r = None
     try:
         r = requests.get(url)
-        if r.status_code != 200:
+        if r.status_code != expected_status_code:
             raise Exception(f'Codigo de respuesta {r.status_code} para {url}')
     except Exception as e:
         print(f'Error al acceder a {url}: {e}')
@@ -50,6 +50,7 @@ if __name__ == '__main__':
 
     argparser = argparse.ArgumentParser()
     argparser.add_argument('--url', help = 'url del sitio', default = 'https://horariositam.com')
+    argparser.add_argument('--proxy', help = 'url del proxy', default = 'https://proxy.horariositam.com/abiertos?txt_materia=hi')
     argparser.add_argument('--channel', help = 'ntfy channel for push notifications', required = True)
     args = argparser.parse_args()
 
@@ -60,6 +61,9 @@ if __name__ == '__main__':
 
     # Checamos que el sitio este arriba
     req(URL_BASE)
+
+    # Checamos que el proxy este arriba
+    req(args.proxy, expected_status_code = 500)
 
     # Que datos (index y profesores) esten actualizados (no mas de 2 dias)
     checa_actualizado_hace(URL_BASE + '/js/datos/datos_index.js')
