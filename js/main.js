@@ -447,6 +447,32 @@ function initAutocomplete() {
 }
 
 /**
+ * Fetches the announcement message from anuncio.txt and displays it.
+ */
+async function fetchAnnouncement() {
+    try {
+        const response = await fetch('anuncio.txt');
+        if (!response.ok) {
+            // If the file doesn't exist (404) or other error, don't show the banner
+            console.log('No announcement file found or error fetching:', response.status);
+            return;
+        }
+        const text = await response.text();
+        const trimmedText = text.trim();
+        if (trimmedText) {
+            const banner = document.getElementById('announcement-banner');
+            banner.textContent = trimmedText;
+            banner.style.display = 'block'; // Show the banner
+        }
+    } catch (error) {
+        console.error('Error fetching announcement:', error);
+    }
+}
+
+// Call fetchAnnouncement when the DOM is fully loaded
+document.addEventListener('DOMContentLoaded', fetchAnnouncement);
+
+/**
  * Initializes the autocomplete functionality for the professor search input.
  */
 function initAutocompleteProfesores() {
