@@ -121,15 +121,33 @@ function agregar(nombreClase,deGuardadas){
     let clase=loadClase(clave);      
     clasesSeleccionadas[clave]=clase;
 
-    // Mostramos detalles de clase en "Clases Seleccionadas"  
-    let detalles = document.createElement('details');
-    detalles.id=nombreClase;
-    detalles.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase);
-    document.getElementById("clases_en_horario").appendChild(detalles);
+    // Fetch open group data
+    fetch(`/abiertos?txt_materia=${clave}`)
+        .then(response => response.json())
+        .then(openGroups => {
+            clase.openGroups = openGroups; // Store open groups in the Clase object
+            // Mostramos detalles de clase en "Clases Seleccionadas"
+            let detalles = document.createElement('details');
+            detalles.id=nombreClase;
+            detalles.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase);
+            document.getElementById("clases_en_horario").appendChild(detalles);
 
-    // Por ultimo checa si la clase tiene asociado un laboratorio y agregalo
-    if(!((clave+'-LAB') in clasesSeleccionadas) && (clave+'-LAB') in clases)
-        agregar(nombreClase+'-LAB');
+            // Por ultimo checa si la clase tiene asociado un laboratorio y agregalo
+            if(!((clave+'-LAB') in clasesSeleccionadas) && (clave+'-LAB') in clases)
+                agregar(nombreClase+'-LAB');
+        })
+        .catch(error => {
+            console.error('Error fetching open groups:', error);
+            // Proceed without open group data if the proxy fails
+            let detalles = document.createElement('details');
+            detalles.id=nombreClase;
+            detalles.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase);
+            document.getElementById("clases_en_horario").appendChild(detalles);
+
+            // Por ultimo checa si la clase tiene asociado un laboratorio y agregalo
+            if(!((clave+'-LAB') in clasesSeleccionadas) && (clave+'-LAB') in clases)
+                agregar(nombreClase+'-LAB');
+        });
 }
 
 /**
@@ -359,8 +377,12 @@ function detallesHTML(clase){
         if(!isNaN(grupo.profesor.misProfesGeneral)){
             rating=' ('+grupo.profesor.misProfesGeneral+'/10 <a target="_blank" href="'+grupo.profesor.misProfesLink+'">MisProfes</a>)';
         }
+        // Check if the group is open
+        let isClosed = clase.openGroups && !clase.openGroups.includes(numeroGrupo);
+        let rowClass = isClosed ? ' class="grupo-cerrado"' : '';
+
         // Checkbox para seleccionar grupo
-        out+='<tr><td id="grupo"><input type="checkbox" id="'+clase.clave+numeroGrupo+'" name="'+clase.clave+'" value="'+numeroGrupo+'" checked/></td>';
+        out+='<tr'+rowClass+'><td id="grupo"><input type="checkbox" id="'+clase.clave+numeroGrupo+'" name="'+clase.clave+'" value="'+numeroGrupo+'" checked/></td>';
         // No. de grupo
         out+='<td id="grupo">'+numeroGrupo+'</td>';
         // Profesor y rating (si lo tenemos)

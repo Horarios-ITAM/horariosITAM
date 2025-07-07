@@ -229,3 +229,8 @@ span{
 .autocomplete-item:hover {
     background-color: #d4d4d4; /* Grayish hover */
 }
+
+.grupo-cerrado {
+    color: grey;
+    text-decoration: line-through;
+}
