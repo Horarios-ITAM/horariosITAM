@@ -9,7 +9,7 @@ class GraceScrapper:
     Clase que maneja el scrappeo de Grace (serviciosweb.itam.mx).
     """
     
-    def __init__(self,dropDownURL:str = None,formURL:str = None,s:str = None,verbose:bool=True):
+    def __init__(self,dropDownURL:str = None,formURL:str = None,s:str = None,abiertos:bool = False,verbose:bool=True):
         """
         Constructor. Scrapea datos preliminares.
         De no proporcionar los parametros se tratarán de scrappear sus valores automaticamente.
@@ -26,9 +26,13 @@ class GraceScrapper:
 
         s: str [Opcional].
             Valor de "s" (hidden) en la forma POST descrita en formURL.
+        
+        abiertos: bool [Opcional].
+            Si se scrappean "Grupos que continúan abiertos".
         """
         # URL de serviciosweb/Grace
         baseURL="https://servicios.itam.mx/"
+        self.abiertos=abiertos
         self.verbose=verbose
 
         # Si no se pasaron URLs, scrapearlas
@@ -80,7 +84,8 @@ class GraceScrapper:
         soup=BeautifulSoup(utils.getHTML(urlServiciosNoPersonalizados), "html.parser")
         urls={}
         for link in soup.find_all("a"):
-            if link.string and "Horarios" in link.string and "LICENCIATURA" in link.string:
+            if not link.string or "LICENCIATURA" not in link.string: continue
+            if (not self.abiertos and "Horarios" in link.string) or (self.abiertos and "abiertos" in link.string):
                 p=re.findall(".*\((.*)\)",link.string)[0]
                 if utils.periodoValido(p):
                     urls[p]=link["href"]
@@ -115,7 +120,10 @@ class GraceScrapper:
         grupos={}
         teoria=False
         laboratorio=False
-        info=["depto","clave","grupo","CRN","TL","nombre","prof","cred","horario","dias","salon","campus","comentarios"] #datos por extraer
+        if not self.abiertos:
+            info=["depto","clave","grupo","CRN","TL","nombre","prof","cred","horario","dias","salon","campus","comentarios"] #datos por extraer
+        else:
+            info=["depto","clave","grupo","TL","nombre","prof","cred","horario","dias","salon","campus", "comentarios"]
         soup=BeautifulSoup(html, 'html.parser')
         tabla=soup.find_all('table')[2] #la tabla con la info es la 3ra en el html
         for renglon in tabla.find_all('tr')[1:]: #saltar renglon con cabecera
@@ -163,6 +171,14 @@ class GraceScrapper:
     def _print(self,s):
         if self.verbose:
             print(s)
+
+    def scrap_clase(self, txt_materia):
+        """
+        Scrappea una clase específica de Grace.
+        Devuelve un diccionario con la información de la clase.
+        """
+        response = requests.post(url=self.formURL, data={"s": self.clavePeriodo, "txt_materia": txt_materia})
+        return self._getClaseInfo(response.text)
     
     def scrap(self):
         """
@@ -191,17 +207,7 @@ if __name__=="__main__":
         # dropDownURL="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios1?s=2595",
         # formURL="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios2",
         # s = "2595",
+        abiertos=True,
         verbose=True
     )
     g.scrap()
-    
-
-
-
-
-
-        
-
-       
-
-
