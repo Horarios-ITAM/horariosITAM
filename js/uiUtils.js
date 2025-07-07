@@ -129,7 +129,7 @@ function agregar(nombreClase,deGuardadas){
     document.getElementById("clases_en_horario").appendChild(detalles);
 
     // Fetch open group data
-    fetch(`/abiertos?txt_materia=${clave}`)
+    fetch(`http://proxy.horariositam.com/abiertos?txt_materia=${nombreClase}`)
         .then(response => response.json())
         .then(openGroups => {
             console.log('Open groups:', openGroups); // Log the response

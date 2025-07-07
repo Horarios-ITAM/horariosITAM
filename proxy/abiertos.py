@@ -11,11 +11,20 @@
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 from graceScrapper import GraceScrapper
 import requests # Used for catching requests.exceptions.RequestException
 import uvicorn # For running the FastAPI application
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"], #["https://horariositam.com"], # Allow only this origin
+    allow_credentials=True,          # Allow cookies, authorization headers, etc.
+    allow_methods=["*"],             # Allow all HTTP methods
+    allow_headers=["*"],             # Allow all headers
+)
 
 # Initialize GraceScrapper once when the FastAPI app starts.
 # We'll use a global variable, but in a larger FastAPI app,
