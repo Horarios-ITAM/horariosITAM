@@ -1,6 +1,7 @@
 name: Clear Announcement File
 
 on:
+  workflow_dispatch: # Manual
   schedule:
     # Runs at 00:00 on the 1st day of every month.
     # Adjust cron expression as needed. e.g., '0 0 */21 * *' for every 3 weeks.
