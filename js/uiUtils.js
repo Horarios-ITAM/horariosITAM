@@ -121,33 +121,48 @@ function agregar(nombreClase,deGuardadas){
     let clase=loadClase(clave);      
     clasesSeleccionadas[clave]=clase;
 
+    // Mostramos detalles de clase en "Clases Seleccionadas"
+    let detalles = document.createElement('details');
+    detalles.id=nombreClase;
+    // Generate initial HTML without greying out groups
+    detalles.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase, true);
+    document.getElementById("clases_en_horario").appendChild(detalles);
+
     // Fetch open group data
     fetch(`/abiertos?txt_materia=${clave}`)
         .then(response => response.json())
         .then(openGroups => {
+            console.log('Open groups:', openGroups); // Log the response
             clase.openGroups = openGroups; // Store open groups in the Clase object
-            // Mostramos detalles de clase en "Clases Seleccionadas"
-            let detalles = document.createElement('details');
-            detalles.id=nombreClase;
-            detalles.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase);
-            document.getElementById("clases_en_horario").appendChild(detalles);
+
+            // Update the existing details HTML to grey out closed groups
+            // We need to re-generate or modify the specific rows
+            const existingDetailsElement = document.getElementById(nombreClase);
+            if (existingDetailsElement) {
+                // Re-render the details content with open group info
+                existingDetailsElement.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase);
+            }
 
             // Por ultimo checa si la clase tiene asociado un laboratorio y agregalo
+            // This might need adjustment if labs are added before proxy returns
             if(!((clave+'-LAB') in clasesSeleccionadas) && (clave+'-LAB') in clases)
                 agregar(nombreClase+'-LAB');
         })
         .catch(error => {
             console.error('Error fetching open groups:', error);
-            // Proceed without open group data if the proxy fails
-            let detalles = document.createElement('details');
-            detalles.id=nombreClase;
-            detalles.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase);
-            document.getElementById("clases_en_horario").appendChild(detalles);
-
-            // Por ultimo checa si la clase tiene asociado un laboratorio y agregalo
-            if(!((clave+'-LAB') in clasesSeleccionadas) && (clave+'-LAB') in clases)
-                agregar(nombreClase+'-LAB');
+            // Details are already shown, so just log the error.
+            // No need to re-add details here as they are added before fetch.
         });
+
+    // If adding a non-lab class, also check and add its lab immediately if it exists.
+    // This ensures the lab is also processed, including its own proxy call.
+    // We do this outside the fetch for the parent class to avoid complex chaining issues.
+    if (!nombreClase.endsWith('-LAB')) {
+        const labClave = clave + '-LAB';
+        if (!(labClave in clasesSeleccionadas) && (labClave in clases)) {
+            agregar(nombreClase + '-LAB');
+        }
+    }
 }
 
 /**
@@ -360,9 +375,10 @@ function seleccionaTodosGrupos(claveClase){
 /**
  * Dado una clase construye el HTML de la tabla de detalles
  * @param {Clase} clase Obj. de Clase para la cual generar detalles
+ * @param {boolean} initialRender Optional. If true, groups will not be greyed out.
  * @returns {String} El HTML generado
  */
-function detallesHTML(clase){
+function detallesHTML(clase, initialRender = false){
     // HTML generado es una tabla
     let out='<table style="border-collapse: collapse;border: 1px solid black;">';
 
@@ -378,7 +394,7 @@ function detallesHTML(clase){
             rating=' ('+grupo.profesor.misProfesGeneral+'/10 <a target="_blank" href="'+grupo.profesor.misProfesLink+'">MisProfes</a>)';
         }
         // Check if the group is open
-        let isClosed = clase.openGroups && !clase.openGroups.includes(numeroGrupo);
+        let isClosed = !initialRender && clase.openGroups && !clase.openGroups.includes(numeroGrupo);
         let rowClass = isClosed ? ' class="grupo-cerrado"' : '';
 
         // Checkbox para seleccionar grupo
