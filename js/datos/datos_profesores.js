@@ -1,4 +1,4 @@
-let actualizado="1751899542105.688";
+let actualizado="1751985954041.7915";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -920,38 +920,6 @@ let profesores={
           "fin": "21:00"
         }
       ],
-      "DER-15068-CLIN LIT PENAL VS VIOLAC DDHH": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15068-CLIN LIT PENAL VS VIOLAC DDHH",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "10:00-13:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
-        }
-      ],
-      "DER-15076-CLIN. LITIGIO PENAL VIOL. DDHH-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-15076-CLIN. LITIGIO PENAL VIOL. DDHH-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "10:00-12:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
-        }
-      ],
       "DER-19602-DERECHO LABORAL II": [
         {
           "grupo": "001",
@@ -1252,23 +1220,6 @@ let profesores={
           "fin": "18:00"
         }
       ],
-      "IIO-16180-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH314",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
           "grupo": "005",
@@ -1329,40 +1280,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
-        }
-      ],
-      "SDI-11221-ELEMENTOS DE ELECTRONICA": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
-          "profesor": "",
-          "creditos": "10",
-          "horario": "10:30-12:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH302",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:30"
-        }
-      ],
-      "SDI-11561-PRINCIPIOS DE MECATRONICA": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
-          "profesor": "",
-          "creditos": "10",
-          "horario": "08:00-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH302",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:00"
         }
       ],
       "SDI-24810-SISTS.DE COMERCIO ELECTRONICO": [
@@ -5170,7 +5087,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA3",
+          "salon": "PF102",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
@@ -5187,7 +5104,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA3",
+          "salon": "PF102",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
@@ -7780,6 +7697,113 @@ let profesores={
       ]
     }
   },
+  "SOFIA FLORES SENTIES": {
+    "grupos": {
+      "DER-11104-CULTURA DE LA LEGALIDAD-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+          "profesor": "SOFIA FLORES SENTIES",
+          "creditos": "2",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "DER-11121-CULTURA DE LA LEGALIDAD": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
+          "profesor": "SOFIA FLORES SENTIES",
+          "creditos": "4",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "ANA MARIA ZORRILLA NORIEGA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
+    "general": 10.0,
+    "n": 2,
+    "grupos": {
+      "DER-11104-CULTURA DE LA LEGALIDAD-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+          "profesor": "ANA MARIA ZORRILLA NORIEGA",
+          "creditos": "2",
+          "horario": "09:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ],
+      "DER-11121-CULTURA DE LA LEGALIDAD": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
+          "profesor": "ANA MARIA ZORRILLA NORIEGA",
+          "creditos": "4",
+          "horario": "09:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ],
+      "DER-17044-CLINICA EN DERECHO Y POL PUBL.": [
+        {
+          "grupo": "001",
+          "nombre": "DER-17044-CLINICA EN DERECHO Y POL PUBL.",
+          "profesor": "ANA MARIA ZORRILLA NORIEGA",
+          "creditos": "6",
+          "horario": "17:00-20:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "20:00"
+        }
+      ],
+      "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB",
+          "profesor": "ANA MARIA ZORRILLA NORIEGA",
+          "creditos": "2",
+          "horario": "17:00-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
   "ANDRES HERNANDEZ BARRERA": {
     "link": "https://www.misprofesores.com/profesores/Andres-Hernandez-Barrera_181176",
     "general": 9.0,
@@ -8307,81 +8331,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "SOFIA FLORES SENTIES": {
-    "grupos": {
-      "DER-11121-CULTURA DE LA LEGALIDAD": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
-          "profesor": "SOFIA FLORES SENTIES",
-          "creditos": "4",
-          "horario": "09:00-11:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
-      ]
-    }
-  },
-  "ANA MARIA ZORRILLA NORIEGA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
-    "general": 10.0,
-    "n": 2,
-    "grupos": {
-      "DER-11121-CULTURA DE LA LEGALIDAD": [
-        {
-          "grupo": "002",
-          "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
-          "profesor": "ANA MARIA ZORRILLA NORIEGA",
-          "creditos": "4",
-          "horario": "09:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
-      ],
-      "DER-17044-CLINICA EN DERECHO Y POL PUBL.": [
-        {
-          "grupo": "001",
-          "nombre": "DER-17044-CLINICA EN DERECHO Y POL PUBL.",
-          "profesor": "ANA MARIA ZORRILLA NORIEGA",
-          "creditos": "6",
-          "horario": "17:00-20:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "20:00"
-        }
-      ],
-      "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB",
-          "profesor": "ANA MARIA ZORRILLA NORIEGA",
-          "creditos": "2",
-          "horario": "17:00-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "19:00"
         }
       ]
     }
@@ -8941,6 +8890,42 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
+        }
+      ]
+    }
+  },
+  "EDWIN ALAN PI\u00d1ON GONZALEZ": {
+    "grupos": {
+      "DER-15068-CLIN LIT PENAL VS VIOLAC DDHH": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15068-CLIN LIT PENAL VS VIOLAC DDHH",
+          "profesor": "EDWIN ALAN PI\u00d1ON GONZALEZ",
+          "creditos": "6",
+          "horario": "10:00-13:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ],
+      "DER-15076-CLIN. LITIGIO PENAL VIOL. DDHH-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-15076-CLIN. LITIGIO PENAL VIOL. DDHH-LAB",
+          "profesor": "EDWIN ALAN PI\u00d1ON GONZALEZ",
+          "creditos": "2",
+          "horario": "10:00-12:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -10469,9 +10454,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -12428,9 +12413,9 @@ let profesores={
     }
   },
   "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
+    "general": 6.9833,
+    "n": 60,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -14311,6 +14296,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "IIO-15161-MANUFACTURA DE COMPONENTES",
+          "profesor": "ADAN RAMIREZ LOPEZ",
+          "creditos": "9",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -14325,28 +14325,26 @@ let profesores={
           "creditos": "9",
           "horario": "11:00-14:00",
           "dias": [
-            "VI"
+            "MA"
           ],
           "salon": "RHLCMAT",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
-        }
-      ],
-      "IIO-15161-MANUFACTURA DE COMPONENTES": [
+        },
         {
-          "grupo": "002",
-          "nombre": "IIO-15161-MANUFACTURA DE COMPONENTES",
+          "grupo": "002L",
+          "nombre": "IIO-15161-MANUFACTURA DE COMPONENTES-LAB",
           "profesor": "JOSE ANTONIO SOUZA JIMENEZ",
           "creditos": "9",
-          "horario": "08:00-11:00",
+          "horario": "07:00-10:00",
           "dias": [
             "VI"
           ],
           "salon": "RHLCMAT",
           "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ],
       "IIO-15175-DISE\u00d1O E IMPRESION 3D POR COMP-LAB": [
@@ -14459,6 +14457,30 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
+    "general": 8.0476,
+    "n": 21,
+    "grupos": {
+      "IIO-16180-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
+          "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH314",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -15387,9 +15409,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18749,13 +18771,13 @@ let profesores={
       ]
     }
   },
-  "MARCO ANTONIO MARTINEZ RAMIREZ": {
+  "MARIO ANDRES AGUILAR ORDU\u00d1A": {
     "grupos": {
       "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB": [
         {
           "grupo": "001L",
           "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
-          "profesor": "MARCO ANTONIO MARTINEZ RAMIREZ",
+          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
           "creditos": "10",
           "horario": "07:00-09:00",
           "dias": [
@@ -18765,6 +18787,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
+        }
+      ],
+      "SDI-11221-ELEMENTOS DE ELECTRONICA": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
+          "creditos": "10",
+          "horario": "10:30-12:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "12:30"
         }
       ]
     }
@@ -18911,6 +18950,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:30"
+        }
+      ]
+    }
+  },
+  "MARCO ANTONIO MARTINEZ RAMIREZ": {
+    "grupos": {
+      "SDI-11561-PRINCIPIOS DE MECATRONICA": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
+          "profesor": "MARCO ANTONIO MARTINEZ RAMIREZ",
+          "creditos": "10",
+          "horario": "08:00-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH302",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -19195,7 +19255,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
-    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "MENEY DE LA PEZA GANDARA",
@@ -19203,10 +19262,10 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
+    "MARTA ROBLES CARTES",
     "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
-    "GERARDO ZORRILLA RAMOS",
     "SILVANO ANTONIO ESPINDOLA PARRA",
     "JAVIER ARTURO VELAZQUEZ GALVAN",
     "ROBERTO ZOCCO",
@@ -19215,7 +19274,8 @@ let mejoresPorDepto={
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA"
+    "ANTONIO JESUS DIEZ QUESADA",
+    "JOSE PANTALEON DOMINGUEZ ESPONDA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -19243,6 +19303,7 @@ let mejoresPorDepto={
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ADAN RAMIREZ LOPEZ",
+    "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
     "SERGIO ROMERO HERNANDEZ",
     "LUIS ANTONIO MONCAYO MARTINEZ",
     "ALEJANDRO TERAN CASTELLANOS",
@@ -19250,8 +19311,7 @@ let mejoresPorDepto={
     "ANA KARINA MIRANDA FLORES",
     "MARIA CRISTINA GIGOLA PAGLIALUNGA",
     "THOMAS MARTIN RUDOLF",
-    "LUIS EDUARDO URBAN RIVERO",
-    "ELIAS HERIBERTO ARIAS NAVA"
+    "LUIS EDUARDO URBAN RIVERO"
   ],
   "LENGUAS (LEN)": [
     "FEDERICO VALLE OCHOA",
@@ -19286,7 +19346,7 @@ let mejoresPorDepto={
     "FRANCISCO JAVIER VILLA LOPEZ",
     "ROMEO SALVADOR ORTEGA MARTINEZ",
     "FRANCISCO JAVIER BLANCO RIVERA",
-    "MARCO ANTONIO MARTINEZ RAMIREZ",
+    "MARIO ANDRES AGUILAR ORDU\u00d1A",
     "SERGIO HERNANDEZ SANCHEZ"
   ]
 };

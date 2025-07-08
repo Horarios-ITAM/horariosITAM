@@ -1,4 +1,4 @@
-let actualizado="1751899542091.8906";
+let actualizado="1751985954028.0198";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -4228,7 +4228,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA3",
+        "salon": "PF102",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -4647,7 +4647,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA3",
+        "salon": "PF102",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -6472,6 +6472,45 @@ let clases={
       }
     ]
   },
+  "DER-11104-LAB": {
+    "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+    "clave": "DER-11104",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+        "profesor": "SOFIA FLORES SENTIES",
+        "creditos": "2",
+        "horario": "07:00-09:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "PF104",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+        "profesor": "ANA MARIA ZORRILLA NORIEGA",
+        "creditos": "2",
+        "horario": "09:00-11:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH104",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "11:00"
+      }
+    ]
+  },
+  "DER-11104": {
+    "nombre": "DER-11104-CULTURA DE LA LEGALIDAD",
+    "clave": "DER-11104",
+    "grupos": []
+  },
   "DER-11105": {
     "nombre": "DER-11105-ESCR. Y ARG. JURID EN INGLES I",
     "clave": "DER-11105",
@@ -6922,14 +6961,14 @@ let clases={
         "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
         "profesor": "SOFIA FLORES SENTIES",
         "creditos": "4",
-        "horario": "09:00-11:00",
+        "horario": "07:00-09:00",
         "dias": [
           "LU"
         ],
-        "salon": "RH104",
+        "salon": "PF104",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
+        "inicio": "07:00",
+        "fin": "09:00"
       },
       {
         "grupo": "002",
@@ -7702,7 +7741,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15068-CLIN LIT PENAL VS VIOLAC DDHH",
-        "profesor": "",
+        "profesor": "EDWIN ALAN PI\u00d1ON GONZALEZ",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -7722,7 +7761,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-15076-CLIN. LITIGIO PENAL VIOL. DDHH-LAB",
-        "profesor": "",
+        "profesor": "EDWIN ALAN PI\u00d1ON GONZALEZ",
         "creditos": "2",
         "horario": "10:00-12:00",
         "dias": [
@@ -13351,12 +13390,26 @@ let clases={
         "creditos": "9",
         "horario": "11:00-14:00",
         "dias": [
-          "VI"
+          "MA"
         ],
         "salon": "RHLCMAT",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "14:00"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "IIO-15161-MANUFACTURA DE COMPONENTES-LAB",
+        "profesor": "JOSE ANTONIO SOUZA JIMENEZ",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHLCMAT",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -13382,16 +13435,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "IIO-15161-MANUFACTURA DE COMPONENTES",
-        "profesor": "JOSE ANTONIO SOUZA JIMENEZ",
+        "profesor": "ADAN RAMIREZ LOPEZ",
         "creditos": "9",
-        "horario": "08:00-11:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "VI"
+          "MA",
+          "JU"
         ],
-        "salon": "RHLCMAT",
+        "salon": "RHLMINT",
         "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "11:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -13597,7 +13651,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-        "profesor": "",
+        "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -17733,7 +17787,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
-        "profesor": "MARCO ANTONIO MARTINEZ RAMIREZ",
+        "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
         "creditos": "10",
         "horario": "07:00-09:00",
         "dias": [
@@ -17753,7 +17807,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
-        "profesor": "",
+        "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
         "creditos": "10",
         "horario": "10:30-12:30",
         "dias": [
@@ -17835,7 +17889,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA",
-        "profesor": "",
+        "profesor": "MARCO ANTONIO MARTINEZ RAMIREZ",
         "creditos": "10",
         "horario": "08:00-10:00",
         "dias": [
@@ -18491,6 +18545,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
     "general": 7.7059,
     "n": 17
+  },
+  "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
+    "general": 8.0476,
+    "n": 21
   },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
@@ -19178,9 +19237,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "HUGO RODRIGUEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Rodr\u00edguez-Cort\u00e9s_175478",
@@ -19338,9 +19397,9 @@ let misProfesData={
     "n": 65
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8,
-    "n": 5
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -19503,8 +19562,8 @@ let misProfesData={
     "n": 2
   },
   "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
+    "general": 6.9833,
+    "n": 60
   }
 };
