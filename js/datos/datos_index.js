@@ -1,4 +1,4 @@
-let actualizado="1751985954028.0198";
+let actualizado="1752072388939.7969";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18265,7 +18265,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-24810-SISTS.DE COMERCIO ELECTRONICO",
-        "profesor": "",
+        "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
         "creditos": "8",
         "horario": "12:00-14:00",
         "dias": [
@@ -18686,6 +18686,11 @@ let misProfesData={
     "general": 9.0,
     "n": 1
   },
+  "RAFAEL GREGORIO GAMBOA HIRALES": {
+    "link": "https://www.misprofesores.com/profesores/Rafael-Gregorio-Gamboa-Hirales_10855",
+    "general": 7.0333,
+    "n": 30
+  },
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
     "general": 7.3824,
@@ -18742,9 +18747,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.375,
-    "n": 24
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19178,8 +19183,8 @@ let misProfesData={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1972,
-    "n": 71
+    "general": 7.1806,
+    "n": 72
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
@@ -19237,9 +19242,9 @@ let misProfesData={
     "n": 20
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "HUGO RODRIGUEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Rodr\u00edguez-Cort\u00e9s_175478",
@@ -19562,8 +19567,8 @@ let misProfesData={
     "n": 2
   },
   "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
-    "general": 6.9833,
-    "n": 60
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
+    "general": 10.0,
+    "n": 1
   }
 };

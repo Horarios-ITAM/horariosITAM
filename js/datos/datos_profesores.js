@@ -1,4 +1,4 @@
-let actualizado="1751985954041.7915";
+let actualizado="1752072388954.1968";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -1280,23 +1280,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
-        }
-      ],
-      "SDI-24810-SISTS.DE COMERCIO ELECTRONICO": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-24810-SISTS.DE COMERCIO ELECTRONICO",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "12:00-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
         }
       ]
     }
@@ -4981,9 +4964,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.375,
-    "n": 24,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -10454,9 +10437,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -12413,9 +12396,9 @@ let profesores={
     }
   },
   "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
-    "general": 6.9833,
-    "n": 60,
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -17835,8 +17818,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1972,
-    "n": 71,
+    "general": 7.1806,
+    "n": 72,
     "grupos": {
       "MAT-12350-ALGEBRA LINEAL APLICADA": [
         {
@@ -19169,6 +19152,30 @@ let profesores={
         }
       ]
     }
+  },
+  "RAFAEL GREGORIO GAMBOA HIRALES": {
+    "link": "https://www.misprofesores.com/profesores/Rafael-Gregorio-Gamboa-Hirales_10855",
+    "general": 7.0333,
+    "n": 30,
+    "grupos": {
+      "SDI-24810-SISTS.DE COMERCIO ELECTRONICO": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-24810-SISTS.DE COMERCIO ELECTRONICO",
+          "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
+          "creditos": "8",
+          "horario": "12:00-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:00"
+        }
+      ]
+    }
   }
 };
 let mejoresPorDepto={
@@ -19255,6 +19262,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "MENEY DE LA PEZA GANDARA",
@@ -19262,10 +19270,10 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "MIGUEL MESSMACHER LINARTAS",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES",
     "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
+    "GERARDO ZORRILLA RAMOS",
     "SILVANO ANTONIO ESPINDOLA PARRA",
     "JAVIER ARTURO VELAZQUEZ GALVAN",
     "ROBERTO ZOCCO",
@@ -19274,8 +19282,7 @@ let mejoresPorDepto={
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "VALERIA ZEPEDA TREJO",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "JOSE PANTALEON DOMINGUEZ ESPONDA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
@@ -19338,6 +19345,7 @@ let mejoresPorDepto={
     "LEOBARDO FERNANDEZ ROMAN"
   ],
   "SISTEMAS DIGITALES": [
+    "RAFAEL GREGORIO GAMBOA HIRALES",
     "RAFAEL CISNEROS MONTOYA",
     "JOSE GUADALUPE ROMERO VELAZQUEZ",
     "FEDERICO JOSE KUHLMANN RODRIGUEZ",
@@ -19346,7 +19354,6 @@ let mejoresPorDepto={
     "FRANCISCO JAVIER VILLA LOPEZ",
     "ROMEO SALVADOR ORTEGA MARTINEZ",
     "FRANCISCO JAVIER BLANCO RIVERA",
-    "MARIO ANDRES AGUILAR ORDU\u00d1A",
-    "SERGIO HERNANDEZ SANCHEZ"
+    "MARIO ANDRES AGUILAR ORDU\u00d1A"
   ]
 };
