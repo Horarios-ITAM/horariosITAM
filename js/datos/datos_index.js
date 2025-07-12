@@ -1,4 +1,4 @@
-let actualizado="1752245166836.134";
+let actualizado="1752331384685.898";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18298,8 +18298,8 @@ let misProfesData={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.9138,
-    "n": 58
+    "general": 6.9492,
+    "n": 59
   },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
@@ -18733,8 +18733,8 @@ let misProfesData={
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
-    "general": 6.35,
-    "n": 20
+    "general": 6.2857,
+    "n": 21
   },
   "CLAUDIA NOEMI GONZALEZ BRAMBILA": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Noem\u00ed-Gonz\u00e1lez-Brambila_10719",
@@ -18868,8 +18868,8 @@ let misProfesData={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.6667,
-    "n": 27
+    "general": 7.5,
+    "n": 28
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
@@ -19118,8 +19118,8 @@ let misProfesData={
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
-    "general": 8.6308,
-    "n": 65
+    "general": 8.5909,
+    "n": 66
   },
   "RODRIGO PE\u00d1A GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Pe\u00f1a-Gonz\u00e1lez_177870",
@@ -19238,8 +19238,8 @@ let misProfesData={
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
-    "general": 7.6,
-    "n": 20
+    "general": 7.6667,
+    "n": 21
   },
   "MARTA ROBLES CARTES": {
     "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
@@ -19498,8 +19498,8 @@ let misProfesData={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 5.8333,
-    "n": 6
+    "general": 5.7143,
+    "n": 7
   },
   "FRANCISCO JAVIER VILLA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/FRANCISCO-JAVIER-VILLA-LOPEZ_159928",

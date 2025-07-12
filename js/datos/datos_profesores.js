@@ -1,4 +1,4 @@
-let actualizado="1752245166850.1094";
+let actualizado="1752331384699.7312";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -314,8 +314,8 @@ let profesores={
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
-    "general": 6.35,
-    "n": 20,
+    "general": 6.2857,
+    "n": 21,
     "grupos": {
       "ACT-15358-SISTEMAS DE SEGUROS": [
         {
@@ -12283,8 +12283,8 @@ let profesores={
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
-    "general": 8.6308,
-    "n": 65,
+    "general": 8.5909,
+    "n": 66,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -16960,8 +16960,8 @@ let profesores={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 5.8333,
-    "n": 6,
+    "general": 5.7143,
+    "n": 7,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -17636,8 +17636,8 @@ let profesores={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.6667,
-    "n": 27,
+    "general": 7.5,
+    "n": 28,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -18050,8 +18050,8 @@ let profesores={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.9138,
-    "n": 58,
+    "general": 6.9492,
+    "n": 59,
     "grupos": {
       "MAT-14102-CALCULO DIF. E INT., III": [
         {
@@ -18584,8 +18584,8 @@ let profesores={
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
-    "general": 7.6,
-    "n": 20,
+    "general": 7.6667,
+    "n": 21,
     "grupos": {
       "MAT-24111-ANALISIS MATEMATICO II": [
         {
