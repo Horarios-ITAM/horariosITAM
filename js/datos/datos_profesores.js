@@ -1,4 +1,4 @@
-let actualizado="1752504460946.5374";
+let actualizado="1752590820178.577";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -4964,9 +4964,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.375,
-    "n": 24,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.5,
+    "n": 4,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -15392,9 +15392,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18050,8 +18050,8 @@ let profesores={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.9492,
-    "n": 59,
+    "general": 6.9333,
+    "n": 60,
     "grupos": {
       "MAT-14102-CALCULO DIF. E INT., III": [
         {
