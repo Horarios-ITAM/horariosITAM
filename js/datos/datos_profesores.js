@@ -1,4 +1,4 @@
-let actualizado="1752590820178.577";
+let actualizado="1752677277071.2322";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -937,40 +937,6 @@ let profesores={
           "fin": "20:30"
         }
       ],
-      "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
-        {
-          "grupo": "008",
-          "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "ECO-11101-ECONOMIA, I": [
-        {
-          "grupo": "008",
-          "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
       "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
         {
           "grupo": "004",
@@ -1084,6 +1050,38 @@ let profesores={
             "VI"
           ],
           "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        },
+        {
+          "grupo": "021",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-08:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        },
+        {
+          "grupo": "022",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "08:00-09:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH208",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
@@ -4916,57 +4914,57 @@ let profesores={
           "nombre": "CON-10001-PROCESO CONTABLE",
           "profesor": "ROSA MARIA ATHIE RUBIO",
           "creditos": "8",
-          "horario": "16:30-18:30",
+          "horario": "16:00-18:00",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RHSA3",
           "campus": "RIO HONDO",
-          "inicio": "16:30",
-          "fin": "18:30"
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ],
       "CON-10100-CONTABILIDAD, I": [
         {
-          "grupo": "006",
+          "grupo": "002",
           "nombre": "CON-10100-CONTABILIDAD, I",
           "profesor": "ROSA MARIA ATHIE RUBIO",
           "creditos": "6",
-          "horario": "12:30-14:00",
+          "horario": "18:00-19:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH307",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
+          "inicio": "18:00",
+          "fin": "19:30"
         }
       ],
       "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
         {
-          "grupo": "006",
+          "grupo": "002",
           "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
           "profesor": "ROSA MARIA ATHIE RUBIO",
           "creditos": "6",
-          "horario": "12:30-14:00",
+          "horario": "18:00-19:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH307",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
+          "inicio": "18:00",
+          "fin": "19:30"
         }
       ]
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.375,
+    "n": 24,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5382,44 +5380,6 @@ let profesores={
       ]
     }
   },
-  "MA. EUGENIA VILLA ESCOBOSA": {
-    "grupos": {
-      "CON-10100-CONTABILIDAD, I": [
-        {
-          "grupo": "002",
-          "nombre": "CON-10100-CONTABILIDAD, I",
-          "profesor": "MA. EUGENIA VILLA ESCOBOSA",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
-        {
-          "grupo": "002",
-          "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
-          "profesor": "MA. EUGENIA VILLA ESCOBOSA",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ]
-    }
-  },
   "CLAUDIA EMILIA DE LEON PEREZ": {
     "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
     "general": 8.2432,
@@ -5502,15 +5462,30 @@ let profesores={
           "nombre": "CON-10100-CONTABILIDAD, I",
           "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "11:00-12:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH301",
           "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "inicio": "11:00",
+          "fin": "12:30"
+        },
+        {
+          "grupo": "006",
+          "nombre": "CON-10100-CONTABILIDAD, I",
+          "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
+          "creditos": "6",
+          "horario": "12:30-14:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
         }
       ],
       "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
@@ -5519,15 +5494,30 @@ let profesores={
           "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
           "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "11:00-12:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH301",
           "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "inicio": "11:00",
+          "fin": "12:30"
+        },
+        {
+          "grupo": "006",
+          "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
+          "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
+          "creditos": "6",
+          "horario": "12:30-14:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
         }
       ]
     }
@@ -10338,6 +10328,44 @@ let profesores={
       ]
     }
   },
+  "ESTEBAN DEGETAU SENTIES": {
+    "grupos": {
+      "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
+        {
+          "grupo": "008",
+          "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+          "profesor": "ESTEBAN DEGETAU SENTIES",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "008",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "ESTEBAN DEGETAU SENTIES",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
     "general": 6.8235,
@@ -10437,9 +10465,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -19262,7 +19290,6 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
-    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "MENEY DE LA PEZA GANDARA",
@@ -19270,6 +19297,7 @@ let mejoresPorDepto={
     "MIGUEL MESSMACHER LINARTAS",
     "CHRISTIANE FABREGA CHIMALI",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
+    "MARTA ROBLES CARTES",
     "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [

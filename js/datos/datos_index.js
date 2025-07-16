@@ -1,4 +1,4 @@
-let actualizado="1752590820164.0498";
+let actualizado="1752677277056.3743";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -4136,15 +4136,15 @@ let clases={
         "nombre": "CON-10001-PROCESO CONTABLE",
         "profesor": "ROSA MARIA ATHIE RUBIO",
         "creditos": "8",
-        "horario": "16:30-18:30",
+        "horario": "16:00-18:00",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RHSA3",
         "campus": "RIO HONDO",
-        "inicio": "16:30",
-        "fin": "18:30"
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -4376,17 +4376,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-10100-CONTABILIDAD, I",
-        "profesor": "MA. EUGENIA VILLA ESCOBOSA",
+        "profesor": "ROSA MARIA ATHIE RUBIO",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "18:00-19:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH213",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "18:00",
+        "fin": "19:30"
       },
       {
         "grupo": "003",
@@ -4423,20 +4423,20 @@ let clases={
         "nombre": "CON-10100-CONTABILIDAD, I",
         "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "11:00-12:30",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RH301",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "11:00",
+        "fin": "12:30"
       },
       {
         "grupo": "006",
         "nombre": "CON-10100-CONTABILIDAD, I",
-        "profesor": "ROSA MARIA ATHIE RUBIO",
+        "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
         "creditos": "6",
         "horario": "12:30-14:00",
         "dias": [
@@ -4493,17 +4493,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
-        "profesor": "MA. EUGENIA VILLA ESCOBOSA",
+        "profesor": "ROSA MARIA ATHIE RUBIO",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "18:00-19:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH213",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "18:00",
+        "fin": "19:30"
       },
       {
         "grupo": "003",
@@ -4540,20 +4540,20 @@ let clases={
         "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
         "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "11:00-12:30",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RH301",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "11:00",
+        "fin": "12:30"
       },
       {
         "grupo": "006",
         "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
-        "profesor": "ROSA MARIA ATHIE RUBIO",
+        "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
         "creditos": "6",
         "horario": "12:30-14:00",
         "dias": [
@@ -9216,7 +9216,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
-        "profesor": "",
+        "profesor": "ESTEBAN DEGETAU SENTIES",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -9378,7 +9378,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "",
+        "profesor": "ESTEBAN DEGETAU SENTIES",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -11204,6 +11204,38 @@ let clases={
           "VI"
         ],
         "salon": "RH206",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "09:00"
+      },
+      {
+        "grupo": "021",
+        "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "07:00-08:00",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "RH208",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:00"
+      },
+      {
+        "grupo": "022",
+        "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "08:00-09:00",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "RH208",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
@@ -18747,9 +18779,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.375,
+    "n": 24
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19242,9 +19274,9 @@ let misProfesData={
     "n": 21
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "HUGO RODRIGUEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Rodr\u00edguez-Cort\u00e9s_175478",
