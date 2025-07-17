@@ -1,4 +1,4 @@
-let actualizado="1752677277056.3743";
+let actualizado="1752763651233.6897";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -415,15 +415,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-11013-ADMON. INTERNACIONAL",
-        "profesor": "CARLOS GONZALEZ HERNANDEZ",
+        "profesor": "JOHN BRADFORD MCBRIDE PITTS",
         "creditos": "6",
-        "horario": "10:00-13:00",
+        "horario": "11:30-13:00",
         "dias": [
-          "LU"
+          "LU",
+          "MI"
         ],
-        "salon": "PF103",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
+        "inicio": "11:30",
         "fin": "13:00"
       }
     ]
@@ -687,6 +688,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      },
+      {
+        "grupo": "007",
+        "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
+        "profesor": "CLAUDIA NOEMI GONZALEZ BRAMBILA",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHPB3",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -855,7 +871,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
-        "profesor": "DANIELA RUIZ MASSIEU SALINAS",
+        "profesor": "",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -1188,26 +1204,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
-      }
-    ]
-  },
-  "ADM-15505": {
-    "nombre": "ADM-15505-BANCA DE INVERSION",
-    "clave": "ADM-15505",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-15505-BANCA DE INVERSION",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "07:00-10:00",
-        "dias": [
-          "MI"
-        ],
-        "salon": "RH312",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
       }
     ]
   },
@@ -1833,7 +1829,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "DANIELA RUIZ MASSIEU SALINAS",
+        "profesor": "",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -1859,20 +1855,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
-      },
-      {
-        "grupo": "006",
-        "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "07:00-10:00",
-        "dias": [
-          "MI"
-        ],
-        "salon": "RH312",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
       },
       {
         "grupo": "007",
@@ -9501,17 +9483,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
-        "profesor": "ANDREY  GOMBERG",
+        "profesor": "XINYANG WANG",
         "creditos": "6",
-        "horario": "18:00-19:30",
+        "horario": "19:00-20:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH303",
+        "salon": "PF101",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:30"
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -9919,15 +9901,15 @@ let clases={
         "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
         "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "11:30-13:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH303",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "11:30",
+        "fin": "13:00"
       },
       {
         "grupo": "002",
@@ -10164,6 +10146,27 @@ let clases={
       }
     ]
   },
+  "ECO-15112": {
+    "nombre": "ECO-15112-TOPICOS SELECTOS EN ECO. POL.",
+    "clave": "ECO-15112",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-15112-TOPICOS SELECTOS EN ECO. POL.",
+        "profesor": "ANDREY  GOMBERG",
+        "creditos": "6",
+        "horario": "18:00-19:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH303",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "19:30"
+      }
+    ]
+  },
   "ECO-15491": {
     "nombre": "ECO-15491-ECO. EXPERIM. Y DE LA CONDUCTA",
     "clave": "ECO-15491",
@@ -10254,6 +10257,26 @@ let clases={
       }
     ]
   },
+  "ECO-17201": {
+    "nombre": "ECO-17201-HISTORIA ECO. DEL SIGLO XX(OP)",
+    "clave": "ECO-17201",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-17201-HISTORIA ECO. DEL SIGLO XX(OP)",
+        "profesor": "MOISES TIKTIN NICKIN",
+        "creditos": "6",
+        "horario": "17:00-20:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH306",
+        "campus": "RIO HONDO",
+        "inicio": "17:00",
+        "fin": "20:00"
+      }
+    ]
+  },
   "ECO-18101": {
     "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
     "clave": "ECO-18101",
@@ -10298,15 +10321,15 @@ let clases={
         "nombre": "ECO-18300-CRECIMIENTO ECONOMICO",
         "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "10:00-11:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RH303",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       },
       {
         "grupo": "002",
@@ -10389,14 +10412,14 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "XINYANG WANG",
+        "profesor": "",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH304",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10415,21 +10438,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
-      },
-      {
-        "grupo": "003",
-        "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "11:30-13:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH317",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
       }
     ]
   },
@@ -10446,8 +10454,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "ST206",
-        "campus": "ST. TERESA",
+        "salon": "PF101",
+        "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
       }
@@ -18779,9 +18787,9 @@ let misProfesData={
     "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.375,
-    "n": 24
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.5,
+    "n": 4
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19274,9 +19282,9 @@ let misProfesData={
     "n": 21
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1
   },
   "HUGO RODRIGUEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Rodr\u00edguez-Cort\u00e9s_175478",
@@ -19332,11 +19340,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/David-Ruelas-Rodr\u00edguez_14178",
     "general": 9.2239,
     "n": 67
-  },
-  "DANIELA RUIZ MASSIEU SALINAS": {
-    "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",
-    "general": 9.1739,
-    "n": 23
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",

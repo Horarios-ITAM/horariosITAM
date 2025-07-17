@@ -1,4 +1,4 @@
-let actualizado="1752677277071.2322";
+let actualizado="1752763651247.6794";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -478,6 +478,23 @@ let profesores={
           "fin": "10:00"
         }
       ],
+      "ADM-13106-FINANZAS EMPRENDEDORAS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
       "ADM-14401-COMPORTAMIENTO HUMANO, I": [
         {
           "grupo": "002",
@@ -510,22 +527,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
-        }
-      ],
-      "ADM-15505-BANCA DE INVERSION": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15505-BANCA DE INVERSION",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH312",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "ADM-15568-TRAYECT EN FINAN: PROP Y PROGR": [
@@ -574,18 +575,19 @@ let profesores={
       ],
       "ADM-15582-FINZS. CORPORA. AVANZADAS": [
         {
-          "grupo": "006",
+          "grupo": "004",
           "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
           "profesor": "",
           "creditos": "6",
-          "horario": "07:00-10:00",
+          "horario": "17:30-19:00",
           "dias": [
+            "LU",
             "MI"
           ],
-          "salon": "RH312",
+          "salon": "RH107",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
+          "inicio": "17:30",
+          "fin": "19:00"
         },
         {
           "grupo": "007",
@@ -971,6 +973,21 @@ let profesores={
       ],
       "ECO-21104-ECONOMIA IV": [
         {
+          "grupo": "001",
+          "nombre": "ECO-21104-ECONOMIA IV",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH312",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        },
+        {
           "grupo": "002",
           "nombre": "ECO-21104-ECONOMIA IV",
           "profesor": "",
@@ -984,21 +1001,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        },
-        {
-          "grupo": "003",
-          "nombre": "ECO-21104-ECONOMIA IV",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ],
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
@@ -1302,45 +1304,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
-        }
-      ]
-    }
-  },
-  "CARLOS GONZALEZ HERNANDEZ": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
-    "general": 7.8485,
-    "n": 33,
-    "grupos": {
-      "ADM-11013-ADMON. INTERNACIONAL": [
+        },
         {
           "grupo": "002",
           "nombre": "ADM-11013-ADMON. INTERNACIONAL",
-          "profesor": "CARLOS GONZALEZ HERNANDEZ",
+          "profesor": "JOHN BRADFORD MCBRIDE PITTS",
           "creditos": "6",
-          "horario": "10:00-13:00",
+          "horario": "11:30-13:00",
           "dias": [
-            "LU"
+            "LU",
+            "MI"
           ],
-          "salon": "PF103",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
+          "inicio": "11:30",
           "fin": "13:00"
-        }
-      ],
-      "ADM-12022-ESTRATEGIA GLOBAL": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
-          "profesor": "CARLOS GONZALEZ HERNANDEZ",
-          "creditos": "6",
-          "horario": "17:00-20:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH315",
-          "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "20:00"
         }
       ]
     }
@@ -1547,6 +1525,29 @@ let profesores={
       ]
     }
   },
+  "CARLOS GONZALEZ HERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
+    "general": 7.8485,
+    "n": 33,
+    "grupos": {
+      "ADM-12022-ESTRATEGIA GLOBAL": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
+          "profesor": "CARLOS GONZALEZ HERNANDEZ",
+          "creditos": "6",
+          "horario": "17:00-20:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH315",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "20:00"
+        }
+      ]
+    }
+  },
   "ALEXANDROS FAKOS": {
     "link": "https://www.misprofesores.com/profesores/Alexandros-Fakos_73366",
     "general": 8.3448,
@@ -1740,6 +1741,47 @@ let profesores={
       ]
     }
   },
+  "CLAUDIA NOEMI GONZALEZ BRAMBILA": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Noem\u00ed-Gonz\u00e1lez-Brambila_10719",
+    "general": 7.8235,
+    "n": 17,
+    "grupos": {
+      "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
+        {
+          "grupo": "007",
+          "nombre": "ADM-12107-ESTRATEGIA DE NEGOCIOS I",
+          "profesor": "CLAUDIA NOEMI GONZALEZ BRAMBILA",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHPB3",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "ADM-13126-NEGOCS EN ACCION: DIS DE PROD": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-13126-NEGOCS EN ACCION: DIS DE PROD",
+          "profesor": "CLAUDIA NOEMI GONZALEZ BRAMBILA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
   "MARIA DE LA CRUZ TORRES MANTECON": {
     "grupos": {
       "ADM-12302-TOPICOS DE NEGOCIOS II": [
@@ -1895,71 +1937,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "DANIELA RUIZ MASSIEU SALINAS": {
-    "link": "https://www.misprofesores.com/profesores/Daniela-Ruiz-Massieu-Salinas_54674",
-    "general": 9.1739,
-    "n": 23,
-    "grupos": {
-      "ADM-13106-FINANZAS EMPRENDEDORAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
-          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "004",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "DANIELA RUIZ MASSIEU SALINAS",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "CLAUDIA NOEMI GONZALEZ BRAMBILA": {
-    "link": "https://www.misprofesores.com/profesores/Claudia-Noem\u00ed-Gonz\u00e1lez-Brambila_10719",
-    "general": 7.8235,
-    "n": 17,
-    "grupos": {
-      "ADM-13126-NEGOCS EN ACCION: DIS DE PROD": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-13126-NEGOCS EN ACCION: DIS DE PROD",
-          "profesor": "CLAUDIA NOEMI GONZALEZ BRAMBILA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ]
     }
@@ -4962,9 +4939,9 @@ let profesores={
     }
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.375,
-    "n": 24,
+    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
+    "general": 9.5,
+    "n": 4,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -10465,9 +10442,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10559,40 +10536,42 @@ let profesores={
       ]
     }
   },
-  "ANDREY  GOMBERG": {
+  "XINYANG WANG": {
+    "link": "https://www.misprofesores.com/profesores/Xinyang-Wang_122989",
+    "general": 7.3,
+    "n": 10,
     "grupos": {
       "ECO-11121-MICROECONOMIA AVANZADA I": [
         {
           "grupo": "002",
           "nombre": "ECO-11121-MICROECONOMIA AVANZADA I",
-          "profesor": "ANDREY  GOMBERG",
+          "profesor": "XINYANG WANG",
           "creditos": "6",
-          "horario": "18:00-19:30",
+          "horario": "19:00-20:30",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RH303",
+          "salon": "PF101",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:30"
+          "inicio": "19:00",
+          "fin": "20:30"
         }
       ],
-      "ECO-15111-ECONOMIA POLITICA": [
+      "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR": [
         {
           "grupo": "001",
-          "nombre": "ECO-15111-ECONOMIA POLITICA",
-          "profesor": "ANDREY  GOMBERG",
+          "nombre": "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR",
+          "profesor": "XINYANG WANG",
           "creditos": "6",
-          "horario": "16:00-17:30",
+          "horario": "16:00-19:00",
           "dias": [
-            "LU",
             "MI"
           ],
-          "salon": "RH303",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "16:00",
-          "fin": "17:30"
+          "fin": "19:00"
         }
       ]
     }
@@ -10880,23 +10859,6 @@ let profesores={
           "nombre": "ECO-13102-ECONOMIA INTERNACIONAL, II",
           "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
           "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "ECO-18300-CRECIMIENTO ECONOMICO": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-18300-CRECIMIENTO ECONOMICO",
-          "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
-          "creditos": "6",
           "horario": "11:30-13:00",
           "dias": [
             "MA",
@@ -10906,6 +10868,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
+        }
+      ],
+      "ECO-18300-CRECIMIENTO ECONOMICO": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18300-CRECIMIENTO ECONOMICO",
+          "profesor": "CARLOS ERNESTO URRUTIA VILLALOBOS",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -11098,6 +11077,44 @@ let profesores={
       ]
     }
   },
+  "ANDREY  GOMBERG": {
+    "grupos": {
+      "ECO-15111-ECONOMIA POLITICA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15111-ECONOMIA POLITICA",
+          "profesor": "ANDREY  GOMBERG",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "ECO-15112-TOPICOS SELECTOS EN ECO. POL.": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15112-TOPICOS SELECTOS EN ECO. POL.",
+          "profesor": "ANDREY  GOMBERG",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
+        }
+      ]
+    }
+  },
   "LOUIS ZALTZMAN KORNHAUSER": {
     "grupos": {
       "ECO-15491-ECO. EXPERIM. Y DE LA CONDUCTA": [
@@ -11173,6 +11190,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "11:00"
+        }
+      ]
+    }
+  },
+  "MOISES TIKTIN NICKIN": {
+    "grupos": {
+      "ECO-17201-HISTORIA ECO. DEL SIGLO XX(OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-17201-HISTORIA ECO. DEL SIGLO XX(OP)",
+          "profesor": "MOISES TIKTIN NICKIN",
+          "creditos": "6",
+          "horario": "17:00-20:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -11255,46 +11292,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        }
-      ]
-    }
-  },
-  "XINYANG WANG": {
-    "link": "https://www.misprofesores.com/profesores/Xinyang-Wang_122989",
-    "general": 7.3,
-    "n": 10,
-    "grupos": {
-      "ECO-21104-ECONOMIA IV": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-21104-ECONOMIA IV",
-          "profesor": "XINYANG WANG",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH304",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-21111-TEO. DEL PROD. Y CONSUMIDOR",
-          "profesor": "XINYANG WANG",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "ST206",
-          "campus": "ST. TERESA",
-          "inicio": "16:00",
-          "fin": "19:00"
         }
       ]
     }
@@ -19221,7 +19218,6 @@ let mejoresPorDepto={
   ],
   "ADMINISTRACION": [
     "FELIPE BRUGUES RODRIGUEZ",
-    "DANIELA RUIZ MASSIEU SALINAS",
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "ADRIAN RUBLI ORNELAS",
     "JOSE JAVIER MEDRANO PEREZ",
@@ -19229,7 +19225,8 @@ let mejoresPorDepto={
     "JANKO HERNANDEZ CORTES",
     "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
     "ALEXANDROS FAKOS",
-    "JUAN JOSE FERNANDEZ DURAN"
+    "JUAN JOSE FERNANDEZ DURAN",
+    "CARLOS GONZALEZ HERNANDEZ"
   ],
   "CTRO DE ESTUDIO DEL BIENESTAR": [
     "MARGARITA TARRAGONA SAEZ"
@@ -19290,6 +19287,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
+    "MARTA ROBLES CARTES",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "MENEY DE LA PEZA GANDARA",
@@ -19297,7 +19295,6 @@ let mejoresPorDepto={
     "MIGUEL MESSMACHER LINARTAS",
     "CHRISTIANE FABREGA CHIMALI",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES",
     "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
