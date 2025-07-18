@@ -1,4 +1,4 @@
-let actualizado="1752763651233.6897";
+let actualizado="1752850035433.2104";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -274,7 +274,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -289,7 +289,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -530,7 +530,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHSA4",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -555,26 +555,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:30",
         "fin": "09:00"
-      }
-    ]
-  },
-  "ADM-12022": {
-    "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
-    "clave": "ADM-12022",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
-        "profesor": "CARLOS GONZALEZ HERNANDEZ",
-        "creditos": "6",
-        "horario": "17:00-20:00",
-        "dias": [
-          "LU"
-        ],
-        "salon": "RH315",
-        "campus": "RIO HONDO",
-        "inicio": "17:00",
-        "fin": "20:00"
       }
     ]
   },
@@ -780,7 +760,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHSA4",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -840,6 +820,26 @@ let clases={
         "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "17:30",
+        "fin": "19:00"
+      }
+    ]
+  },
+  "ADM-12939": {
+    "nombre": "ADM-12939-NEGOCIACION (OP)",
+    "clave": "ADM-12939",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-12939-NEGOCIACION (OP)",
+        "profesor": "XIMENA ARGUELLES SACRISTAN",
+        "creditos": "6",
+        "horario": "16:00-19:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RH306",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
         "fin": "19:00"
       }
     ]
@@ -948,7 +948,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-14401-COMPORTAMIENTO HUMANO, I",
-        "profesor": "",
+        "profesor": "ADRIANA MALDONADO TORRES",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -1004,7 +1004,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-14405-ESTRUC.,PROC. Y COMPORT.ORG I",
-        "profesor": "",
+        "profesor": "ADRIANA MALDONADO TORRES",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -1701,7 +1701,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15568-TRAYECT EN FINAN: PROP Y PROGR",
-        "profesor": "",
+        "profesor": "ADRIANA MALDONADO TORRES",
         "creditos": "2",
         "horario": "13:00-14:00",
         "dias": [
@@ -1715,7 +1715,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-15568-TRAYECT EN FINAN: PROP Y PROGR",
-        "profesor": "",
+        "profesor": "ADRIANA MALDONADO TORRES",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -1729,7 +1729,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ADM-15568-TRAYECT EN FINAN: PROP Y PROGR",
-        "profesor": "",
+        "profesor": "ADRIANA MALDONADO TORRES",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -1785,7 +1785,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "DIEGO OCEJO DEL VILLAR",
+        "profesor": "RAFAEL SAMRA ATACH",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -5055,14 +5055,15 @@ let clases={
         "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
         "profesor": "MANUEL TAMEZ ZENDEJAS",
         "creditos": "6",
-        "horario": "07:00-10:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "VI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH307",
+        "salon": "RH314",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       },
       {
         "grupo": "002",
@@ -18780,11 +18781,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Claudia-Noem\u00ed-Gonz\u00e1lez-Brambila_10719",
     "general": 7.8235,
     "n": 17
-  },
-  "CARLOS GONZALEZ HERNANDEZ": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Gonzalez-Hernandez_81798",
-    "general": 7.8485,
-    "n": 33
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
