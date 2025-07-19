@@ -1,4 +1,4 @@
-let actualizado="1752850035433.2104";
+let actualizado="1752936247169.381";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -864,27 +864,6 @@ let clases={
       }
     ]
   },
-  "ADM-13106": {
-    "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
-    "clave": "ADM-13106",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-13106-FINANZAS EMPRENDEDORAS",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "17:30-19:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH107",
-        "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
-      }
-    ]
-  },
   "ADM-13125": {
     "nombre": "ADM-13125-NEGOCIOS, EMPRENDIM Y SOCIEDAD",
     "clave": "ADM-13125",
@@ -1428,7 +1407,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH302",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -1827,21 +1806,6 @@ let clases={
         "fin": "11:30"
       },
       {
-        "grupo": "004",
-        "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "17:30-19:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH107",
-        "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
-      },
-      {
         "grupo": "005",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
         "profesor": "JULIO SERRANO ESPINOSA",
@@ -1883,6 +1847,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "20:30"
+      },
+      {
+        "grupo": "009",
+        "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH306",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -1940,6 +1919,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
+      }
+    ]
+  },
+  "ADM-15599": {
+    "nombre": "ADM-15599-INSTITUCIONES FINANCIERAS (OP)",
+    "clave": "ADM-15599",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-15599-INSTITUCIONES FINANCIERAS (OP)",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RH306",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -2062,7 +2061,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-16602-MERCADOTECNIA, II",
-        "profesor": "",
+        "profesor": "JUAN JOSE FERNANDEZ DURAN",
         "creditos": "7",
         "horario": "17:30-19:00",
         "dias": [
@@ -2119,7 +2118,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-16610-INVESTIGACION DE MERCADOS",
-        "profesor": "",
+        "profesor": "JUAN JOSE FERNANDEZ DURAN",
         "creditos": "7",
         "horario": "17:30-19:00",
         "dias": [
@@ -18783,9 +18782,9 @@ let misProfesData={
     "n": 17
   },
   "MARCELA GONZALEZ MARTINEZ": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Gonzalez-Martinez_109853",
-    "general": 9.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
+    "general": 9.375,
+    "n": 24
   },
   "GABRIEL GOODLIFFE": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
@@ -19278,9 +19277,9 @@ let misProfesData={
     "n": 21
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20660",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "HUGO RODRIGUEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Rodr\u00edguez-Cort\u00e9s_175478",
@@ -19598,8 +19597,8 @@ let misProfesData={
     "n": 2
   },
   "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
-    "general": 10.0,
-    "n": 1
+    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
+    "general": 6.9833,
+    "n": 60
   }
 };
