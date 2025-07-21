@@ -23,8 +23,5 @@ Las fuentes de datos son:
 
 
 ## Por mejorar/hacer
-- Reescribir scrappers
-- Intentar usar datos de 'Grupos que continuan abiertos' para el periodo.
 - Limpiar/mejorar codigo de python.
-- Mejorar el [fuzzy name matching](https://www.rosette.com/name-matching-algorithms/) (MisProfesScrapper > [match](https://github.com/emiliocantuc/horariosITAM/blob/9f12960e16f29bd48e4fbda1258b83c88ef037db/update/misProfesScrapper.py#L53)) que se hace para ligar a profesores obtenidos de Grace y de MisProfes.
 - Mejorar y probar detalladamente la función que rankea los horarios (main.js > [evaluaHorario](https://github.com/emiliocantuc/horariosITAM/blob/9f12960e16f29bd48e4fbda1258b83c88ef037db/js/main.js#L272)).
