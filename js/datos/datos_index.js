@@ -1,4 +1,4 @@
-let actualizado="1753022713796.7485";
+let actualizado="1753109402327.6343";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -19597,8 +19597,8 @@ let misProfesData={
     "n": 2
   },
   "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/GERARDO-ZORRILLA-RAMOS_46194",
-    "general": 6.9833,
-    "n": 60
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
+    "general": 10.0,
+    "n": 1
   }
 };
