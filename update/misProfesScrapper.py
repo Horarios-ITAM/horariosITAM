@@ -10,6 +10,7 @@ from tqdm import tqdm
 from utils import normalize_text, claveToDepto, getHTML
 
 
+
 class MisProfesScrapper:
     """
     Clase que maneja el scrapeo de profesores del ITAM de MisProfes.com.
