@@ -2,6 +2,9 @@ logs/
 
 .ipynb_checkpoints/
 .DS_Store
-update/creds.json
 *.log
+
 update/__pycache__/
+update/creds.json
+update/cache/
+update/data/scrappers/

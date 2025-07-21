@@ -60,7 +60,6 @@ if __name__ == "__main__":
     dataFile = "js/datos/datos_index.js"
     profesoresDataFile = "js/datos/datos_profesores.js"
     misProfesUrl = "https://www.misprofesores.com/escuelas/ITAM-Instituto-Tecnologico-Autonomo-de-Mexico_1003"
-    profesoresMatchRate = 0.9
     scrappearMisProfes = True
     misProfesBufferFile = "update/misProfesData.json"
 
@@ -99,7 +98,7 @@ if __name__ == "__main__":
     if scrappearMisProfes:
         misProfes = MisProfesScrapper(misProfesUrl)
         misProfes.scrap()
-        misProfesData = misProfes.match(grace.profesores, profesoresMatchRate)
+        misProfesData = misProfes.match(grace.clases)
     else:
         with open(misProfesBufferFile, "r") as f:
             misProfesData = json.loads(f.read())
