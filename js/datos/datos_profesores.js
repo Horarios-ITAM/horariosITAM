@@ -1,4 +1,4 @@
-let actualizado="1753109402341.8567";
+let actualizado="1753139499448.8047";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -136,6 +136,9 @@ let profesores={
     }
   },
   "LEONARDO ROJAS NANDAYAPA": {
+    "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
+    "general": 5.2609,
+    "n": 23,
     "grupos": {
       "ACT-11302-CALCULO ACTUARIAL III": [
         {
@@ -615,15 +618,15 @@ let profesores={
           "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
           "profesor": "",
           "creditos": "7",
-          "horario": "16:30-17:00",
+          "horario": "15:30-16:00",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH204",
           "campus": "RIO HONDO",
-          "inicio": "16:30",
-          "fin": "17:00"
+          "inicio": "15:30",
+          "fin": "16:00"
         }
       ],
       "CLE-10517-COMMUNICATION IN SPANISH II": [
@@ -632,49 +635,15 @@ let profesores={
           "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
           "profesor": "",
           "creditos": "7",
-          "horario": "15:00-16:30",
+          "horario": "14:00-15:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH204",
           "campus": "RIO HONDO",
-          "inicio": "15:00",
-          "fin": "16:30"
-        }
-      ],
-      "CLE-10518-COMMUNICATION IN SPANISH III-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10518-COMMUNICATION IN SPANISH III-LAB",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "16:30-17:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "16:30",
-          "fin": "17:00"
-        }
-      ],
-      "CLE-10518-COMMUNICATION IN SPANISH III": [
-        {
-          "grupo": "001",
-          "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "15:00-16:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "15:00",
-          "fin": "16:30"
+          "inicio": "14:00",
+          "fin": "15:30"
         }
       ],
       "COM-11117-INTROD AL DESARROLLO WEB": [
@@ -1267,6 +1236,9 @@ let profesores={
     }
   },
   "KRZYSZTOF ZAREMBA": {
+    "link": "https://www.misprofesores.com/profesores/Krzystof-Zaremba_171808",
+    "general": 5.0,
+    "n": 5,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -1647,6 +1619,9 @@ let profesores={
     }
   },
   "MARIA DE LA CRUZ TORRES MANTECON": {
+    "link": "https://www.misprofesores.com/profesores/Marycruz-Torres-Mantecon_20290",
+    "general": 7.275,
+    "n": 40,
     "grupos": {
       "ADM-12302-TOPICOS DE NEGOCIOS II": [
         {
@@ -1770,6 +1745,9 @@ let profesores={
     }
   },
   "XIMENA ARGUELLES SACRISTAN": {
+    "link": "https://www.misprofesores.com/profesores/Ximena-Arguelles_150289",
+    "general": 6.3333,
+    "n": 3,
     "grupos": {
       "ADM-12939-NEGOCIACION (OP)": [
         {
@@ -2936,6 +2914,9 @@ let profesores={
     }
   },
   "CECILIA MARIA ORTIZ AHLF": {
+    "link": "https://www.misprofesores.com/profesores/Cecilia-Ortiz_99992",
+    "general": 6.5,
+    "n": 4,
     "grupos": {
       "ADM-16603-MERCADOTECNIA.,III": [
         {
@@ -3032,6 +3013,9 @@ let profesores={
     }
   },
   "MARIA GRACE  NOBILE": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Grace-Nobile_10828",
+    "general": 9.6667,
+    "n": 12,
     "grupos": {
       "CLE-10202-INGLES AVANZADO-LAB": [
         {
@@ -3099,15 +3083,15 @@ let profesores={
           "nombre": "CLE-10516-COMMUNICATION IN SPANISH I-LAB",
           "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
           "creditos": "7",
-          "horario": "16:30-17:00",
+          "horario": "15:30-16:00",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH201",
           "campus": "RIO HONDO",
-          "inicio": "16:30",
-          "fin": "17:00"
+          "inicio": "15:30",
+          "fin": "16:00"
         }
       ],
       "CLE-10516-COMMUNICATION IN SPANISH I": [
@@ -3116,15 +3100,15 @@ let profesores={
           "nombre": "CLE-10516-COMMUNICATION IN SPANISH I",
           "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
           "creditos": "7",
-          "horario": "15:00-16:30",
+          "horario": "14:00-15:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH201",
           "campus": "RIO HONDO",
-          "inicio": "15:00",
-          "fin": "16:30"
+          "inicio": "14:00",
+          "fin": "15:30"
         }
       ],
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
@@ -3156,6 +3140,44 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "NORMA ARACELY AVILA MIRANDA": {
+    "grupos": {
+      "CLE-10518-COMMUNICATION IN SPANISH III-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "CLE-10518-COMMUNICATION IN SPANISH III-LAB",
+          "profesor": "NORMA ARACELY AVILA MIRANDA",
+          "creditos": "7",
+          "horario": "15:30-16:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "15:30",
+          "fin": "16:00"
+        }
+      ],
+      "CLE-10518-COMMUNICATION IN SPANISH III": [
+        {
+          "grupo": "001",
+          "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
+          "profesor": "NORMA ARACELY AVILA MIRANDA",
+          "creditos": "7",
+          "horario": "14:00-15:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "14:00",
+          "fin": "15:30"
         }
       ]
     }
@@ -3580,6 +3602,9 @@ let profesores={
     }
   },
   "LETICIA RENTERIA FERRAN": {
+    "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
+    "general": 7.3761,
+    "n": 109,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
@@ -4219,6 +4244,9 @@ let profesores={
     }
   },
   "ANA EUGENIA DIAZ ROSI\u00d1OL": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Diaz-Rosinol_21532",
+    "general": 9.4667,
+    "n": 45,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -4315,6 +4343,9 @@ let profesores={
     }
   },
   "JOSE ALEJANDRO JARDI RAMOS": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Jardi-Ramos_22859",
+    "general": 8.5897,
+    "n": 39,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -4873,6 +4904,9 @@ let profesores={
     }
   },
   "ROSA MARIA ATHIE RUBIO": {
+    "link": "https://www.misprofesores.com/profesores/Rosa-Ma.-Athie_19736",
+    "general": 8.9296,
+    "n": 71,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5206,6 +5240,9 @@ let profesores={
     }
   },
   "MARCELA PORTE PETIT ANDUAGA": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Porte-Petit_15932",
+    "general": 9.1321,
+    "n": 53,
     "grupos": {
       "CON-10003-CONTABILIDAD INTERMEDIA, II": [
         {
@@ -5264,6 +5301,9 @@ let profesores={
     }
   },
   "VICTOR MANUEL FERNANDEZ GONZALEZ ANGULO": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Fern\u00e1ndez-Gonz\u00e1lez_138708",
+    "general": 9.5,
+    "n": 4,
     "grupos": {
       "CON-10005-ANAL. FINANCIERO DE LA EMPRESA": [
         {
@@ -5324,6 +5364,9 @@ let profesores={
     }
   },
   "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Gonzalez-Armendariz_36748",
+    "general": 8.0513,
+    "n": 39,
     "grupos": {
       "CON-10100-CONTABILIDAD, I": [
         {
@@ -5838,6 +5881,9 @@ let profesores={
     }
   },
   "MONICA GARCIA CEREZO": {
+    "link": "https://www.misprofesores.com/profesores/Monica-Garcia-Cerezo_15986",
+    "general": 7.4483,
+    "n": 29,
     "grupos": {
       "CON-14100-CONTABILIDAD ADMINISTRATIVA, I": [
         {
@@ -5989,6 +6035,9 @@ let profesores={
     }
   },
   "LUIS ANTHAR GONZALEZ RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Anthar-Gonz\u00e1lez_177453",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "CON-15002-IMPUESTOS CORPORATIVOS, II": [
         {
@@ -6029,6 +6078,9 @@ let profesores={
     }
   },
   "JUAN FERNANDO CALDERON CABELLO": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Fernando-Calder\u00f3n_74264",
+    "general": 8.3846,
+    "n": 13,
     "grupos": {
       "CON-16100-SISTEMAS DE INFO. CONTABLE": [
         {
@@ -6220,6 +6272,9 @@ let profesores={
     }
   },
   "DENISE EUGENIA DRESSER GUERRA": {
+    "link": "https://www.misprofesores.com/profesores/Denise-Dresser-Guerra_10801",
+    "general": 4.6452,
+    "n": 186,
     "grupos": {
       "CSO-10100-ESTADO Y SOCIEDAD I": [
         {
@@ -6466,6 +6521,9 @@ let profesores={
     }
   },
   "ADRIANA ALFARO ALTAMIRANO": {
+    "link": "https://www.misprofesores.com/profesores/Adriana-Alfaro_94152",
+    "general": 8.6154,
+    "n": 13,
     "grupos": {
       "CSO-11073-JUSTICIA Y MERCADOS: DEBATES..": [
         {
@@ -6738,6 +6796,9 @@ let profesores={
     }
   },
   "LUIS MANUEL ESTRADA STRAFFON": {
+    "link": "https://www.misprofesores.com/profesores/luis-estrada-straffon_77178",
+    "general": 4.4,
+    "n": 5,
     "grupos": {
       "CSO-14051-OPINION PUBLICA": [
         {
@@ -6759,6 +6820,9 @@ let profesores={
     }
   },
   "VIDAL FERNANDO ROMERO LEON": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Romero-Le\u00f3n-Vidal_10799",
+    "general": 8.75,
+    "n": 16,
     "grupos": {
       "CSO-15041-ECONOMIA POLITICA, I": [
         {
@@ -6814,6 +6878,9 @@ let profesores={
     }
   },
   "ANTONELLA AGOSTINA BANDIERA": {
+    "link": "https://www.misprofesores.com/profesores/Antonella-Bandiera_120769",
+    "general": 7.8,
+    "n": 5,
     "grupos": {
       "CSO-15043-ECONOMIA POLITICA II": [
         {
@@ -7057,6 +7124,9 @@ let profesores={
     }
   },
   "ALEJANDRO  RODILES BRETON": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-Rodiles-Bret\u00f3n_90266",
+    "general": 7.0,
+    "n": 11,
     "grupos": {
       "DER-10005-DER. INTERNACIONAL PUBLICO,I": [
         {
@@ -7151,6 +7221,9 @@ let profesores={
     }
   },
   "RODRIGO FARIAS GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Rodrigo-Far\u00edas_98498",
+    "general": 4.0,
+    "n": 5,
     "grupos": {
       "DER-10011-REGIMEN FISCAL MEXICANO (CP)": [
         {
@@ -7383,6 +7456,9 @@ let profesores={
     }
   },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
+    "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
+    "general": 6.4545,
+    "n": 22,
     "grupos": {
       "DER-10018-DERECHO EMPRESARIAL I": [
         {
@@ -7486,6 +7562,9 @@ let profesores={
     }
   },
   "JOYCE CAROL  SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.9231,
+    "n": 52,
     "grupos": {
       "DER-10113-DERECHO PUBLICO": [
         {
@@ -7524,6 +7603,9 @@ let profesores={
     }
   },
   "RODRIGO CAMARENA GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Rodrigo-Camarena_103973",
+    "general": 8.1579,
+    "n": 19,
     "grupos": {
       "DER-10113-DERECHO PUBLICO": [
         {
@@ -8095,6 +8177,9 @@ let profesores={
     }
   },
   "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Maria-Guadalupe-Real-Rodriguez_104084",
+    "general": 8.375,
+    "n": 8,
     "grupos": {
       "DER-11115-TALLER DISERT. JUR. CONST. III-LAB": [
         {
@@ -8291,6 +8376,9 @@ let profesores={
     }
   },
   "GERMAN  SUCAR": {
+    "link": "https://www.misprofesores.com/profesores/german-sucar_23220",
+    "general": 6.6429,
+    "n": 70,
     "grupos": {
       "DER-11206-TEOR\u00cdA DEL DERECHO II": [
         {
@@ -8336,6 +8424,9 @@ let profesores={
     }
   },
   "RAYMUNDO GAMA LEYVA": {
+    "link": "https://www.misprofesores.com/profesores/Raymundo-Gama_80671",
+    "general": 8.9,
+    "n": 10,
     "grupos": {
       "DER-12102-INSTITUCS. DE DERECHO ROMANO": [
         {
@@ -8670,6 +8761,9 @@ let profesores={
     }
   },
   "LUIS ASALI HARFUCH": {
+    "link": "https://www.misprofesores.com/profesores/Asali-Harfuch-Luis_15035",
+    "general": 7.4074,
+    "n": 27,
     "grupos": {
       "DER-13504-CONTRATOS": [
         {
@@ -8780,6 +8874,9 @@ let profesores={
     }
   },
   "ROSA GABRIELA GONZALEZ PULIDO": {
+    "link": "https://www.misprofesores.com/profesores/Gabriela-Gonz\u00e1lez-Pulido_129796",
+    "general": 8.7143,
+    "n": 7,
     "grupos": {
       "DER-14607-JUICIO ORAL PENAL-LAB": [
         {
@@ -8814,6 +8911,9 @@ let profesores={
     }
   },
   "EDUARDO ERASMO OSORNIO GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Eduardo-Osornio-Garc\u00eda_130204",
+    "general": 10.0,
+    "n": 2,
     "grupos": {
       "DER-15061-CLIN ATN A PERSONAS REFUGIADAS": [
         {
@@ -8973,6 +9073,9 @@ let profesores={
     }
   },
   "FRANCISCA MARIA POU GIMENEZ": {
+    "link": "https://www.misprofesores.com/profesores/Francisca-Pou-Gim\u00e9nez_98102",
+    "general": 6.5,
+    "n": 4,
     "grupos": {
       "DER-15600-DERECHO CONSTITUCIONAL III": [
         {
@@ -9149,6 +9252,9 @@ let profesores={
     }
   },
   "EDUARDO MAGALLON MURGUIA": {
+    "link": "https://www.misprofesores.com/profesores/Eduardo-Magallon_41193",
+    "general": 9.3846,
+    "n": 13,
     "grupos": {
       "DER-16702-DERECHO MERCANTIL III": [
         {
@@ -9189,6 +9295,9 @@ let profesores={
     }
   },
   "FRANCO LAMMOGLIA ORDIALES": {
+    "link": "https://www.misprofesores.com/profesores/Franco-Lammoglia_104538",
+    "general": 5.25,
+    "n": 8,
     "grupos": {
       "DER-17045-CLIN. DES. SUSTENT. Y DER AMBI": [
         {
@@ -9293,6 +9402,9 @@ let profesores={
     }
   },
   "JUAN CARLOS ROA JACOBO": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Roa_14968",
+    "general": 7.5556,
+    "n": 18,
     "grupos": {
       "DER-17703-DERECHO FISCAL I": [
         {
@@ -9535,6 +9647,9 @@ let profesores={
     }
   },
   "EMILIO GUTIERREZ FERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Emilio-Guti\u00e9rrez_31470",
+    "general": 6.4074,
+    "n": 27,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
@@ -9829,6 +9944,9 @@ let profesores={
     }
   },
   "ERNESTO JAVIER CORDERO ARROYO": {
+    "link": "https://www.misprofesores.com/profesores/Ernesto-Cordero-Arroyo_118142",
+    "general": 8.0,
+    "n": 4,
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
         {
@@ -9849,6 +9967,9 @@ let profesores={
     }
   },
   "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
+    "link": "https://www.misprofesores.com/profesores/Cristhian-Seminario-Amez_164953",
+    "general": 6.7778,
+    "n": 9,
     "grupos": {
       "ECO-10518-TOPICOS DE ECONOMETRIA": [
         {
@@ -9924,6 +10045,9 @@ let profesores={
     }
   },
   "ARTURO MANUEL FERNANDEZ PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Arturo-Fern\u00e1ndez-P\u00e9rez_13789",
+    "general": 6.0714,
+    "n": 28,
     "grupos": {
       "ECO-11001-SEM. DE MICROECONOMIA APLICADA": [
         {
@@ -10388,6 +10512,9 @@ let profesores={
     }
   },
   "BARBARA CARRILLO FLORES": {
+    "link": "https://www.misprofesores.com/profesores/B\u00e1rbara-Carrillo_59547",
+    "general": 9.1429,
+    "n": 84,
     "grupos": {
       "ECO-11103-ECONOMIA, III": [
         {
@@ -10426,6 +10553,9 @@ let profesores={
     }
   },
   "GUILLERMO IGNACIO GARCIA ALCOCER": {
+    "link": "https://www.misprofesores.com/profesores/Guillermo-Garc\u00eda-Alcocer_139464",
+    "general": 7.8571,
+    "n": 7,
     "grupos": {
       "ECO-11103-ECONOMIA, III": [
         {
@@ -10447,9 +10577,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10582,6 +10712,9 @@ let profesores={
     }
   },
   "TRIDIB  SHARMA": {
+    "link": "https://www.misprofesores.com/profesores/Tridib-Sharma_10768",
+    "general": 6.5,
+    "n": 34,
     "grupos": {
       "ECO-11122-MICROECONOMIA AVANZADA II": [
         {
@@ -10738,6 +10871,9 @@ let profesores={
     }
   },
   "CARLOS HURTADO LOPEZ": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Hurtado_115125",
+    "general": 4.0,
+    "n": 2,
     "grupos": {
       "ECO-12105-ECONOMIA, V": [
         {
@@ -10776,6 +10912,9 @@ let profesores={
     }
   },
   "JORGE JESUS ALONSO ORTIZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ort\u00edz_62832",
+    "general": 6.6,
+    "n": 15,
     "grupos": {
       "ECO-12121-MACROECONOMIA AVANZADA": [
         {
@@ -10834,6 +10973,9 @@ let profesores={
     }
   },
   "JOSE MARTINEZ GUTIERREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Martinez-Gutierrez_137434",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-12201-TEORIA Y POLITICA MONETARIA": [
         {
@@ -11083,6 +11225,9 @@ let profesores={
     }
   },
   "ANDREY  GOMBERG": {
+    "link": "https://www.misprofesores.com/profesores/Andrei-Gomberg_10762",
+    "general": 6.027,
+    "n": 37,
     "grupos": {
       "ECO-15111-ECONOMIA POLITICA": [
         {
@@ -11240,6 +11385,9 @@ let profesores={
     }
   },
   "RAUL ALEJANDRO LIVAS ELIZONDO": {
+    "link": "https://www.misprofesores.com/profesores/Raul-Livas-Elizondo_84023",
+    "general": 8.25,
+    "n": 20,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -11343,9 +11491,9 @@ let profesores={
     }
   },
   "ROBERTO ZOCCO": {
-    "link": "https://www.misprofesores.com/profesores/Roberto-Zocco-Pasimeni_35000",
-    "general": 8.9292,
-    "n": 113,
+    "link": "https://www.misprofesores.com/profesores/Roberto-Zocco_121186",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "EGN-11164-EL ARTE DE VIVIR": [
         {
@@ -11524,6 +11672,9 @@ let profesores={
     }
   },
   "CECILIA GALAVIZ ALVAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Cecilia-Galaviz_15926",
+    "general": 6.9806,
+    "n": 155,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -11960,6 +12111,9 @@ let profesores={
     }
   },
   "GABRIELA HERNANDEZ GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
+    "general": 7.3,
+    "n": 90,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12162,6 +12316,9 @@ let profesores={
     }
   },
   "ANTONIO LOPEZ VEGA": {
+    "link": "https://www.misprofesores.com/profesores/Antonio-L\u00f3pez-Vega_186030",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12225,9 +12382,9 @@ let profesores={
     }
   },
   "PAVEL JIMENEZ VAZQUEZ": {
-    "link": "https://www.misprofesores.com/profesores/pavel-jimenez-vazquez_56743",
-    "general": 7.875,
-    "n": 8,
+    "link": "https://www.misprofesores.com/profesores/Pavel-Jimenez_19862",
+    "general": 6.3182,
+    "n": 44,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -12543,6 +12700,9 @@ let profesores={
     }
   },
   "ATHANASIOS  HRISTOULAS": {
+    "link": "https://www.misprofesores.com/profesores/Athanasios-Hristoulas_10839",
+    "general": 5.4286,
+    "n": 56,
     "grupos": {
       "EIN-13202-HISTORIA DE LAS R.I. II": [
         {
@@ -12663,6 +12823,9 @@ let profesores={
     }
   },
   "HAZEL BLACKMORE SANCHEZ": {
+    "link": "https://www.misprofesores.com/profesores/Hazel-Blackmore_34721",
+    "general": 8.8947,
+    "n": 19,
     "grupos": {
       "EIN-15302-PROCESO POL. EN E.U.A.:DIMENS.": [
         {
@@ -12731,6 +12894,9 @@ let profesores={
     }
   },
   "FILIBERTO VICTOR KERBER PALMA": {
+    "link": "https://www.misprofesores.com/profesores/Filiberto-Victor-Kerber_159983",
+    "general": 6.5,
+    "n": 2,
     "grupos": {
       "EIN-17403-JAPON, CHINA Y EL SUDESTE ASIA": [
         {
@@ -12752,6 +12918,9 @@ let profesores={
     }
   },
   "MARIA JOSE URZUA VALVERDE": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Jos\u00e9-Urz\u00faa_83080",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "EIN-18602-SEMINARIO DE TITULACION": [
         {
@@ -12827,6 +12996,9 @@ let profesores={
     }
   },
   "JORGE FRANCISCO DE LA VEGA GONGORA": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-De-la-Vega-Gongora_100220",
+    "general": 8.75,
+    "n": 4,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -13501,6 +13673,9 @@ let profesores={
     }
   },
   "FELIPE JAVIER MEDINA AGUAYO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-Medina-Aguayo_159534",
+    "general": 8.625,
+    "n": 8,
     "grupos": {
       "EST-14103-ESTADISTICA MATEMATICA": [
         {
@@ -13618,6 +13793,9 @@ let profesores={
     }
   },
   "ENRIQUE CUERVO GUZMAN": {
+    "link": "https://www.misprofesores.com/profesores/Enrique-Cuervo_185195",
+    "general": 7.5,
+    "n": 2,
     "grupos": {
       "EST-24105-ESTADISTICA APLICADA, II": [
         {
@@ -14086,6 +14264,9 @@ let profesores={
     }
   },
   "GUILLERMO ABDEL MUSIK ASALI": {
+    "link": "https://www.misprofesores.com/profesores/Asali-Guillermo-Abdel-Musik_10866",
+    "general": 7.2632,
+    "n": 19,
     "grupos": {
       "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS": [
         {
@@ -14142,6 +14323,9 @@ let profesores={
     }
   },
   "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO": {
+    "link": "https://www.misprofesores.com/profesores/Graciela-Guadalupe-D\u00edaz-Argomedo_50992",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "IIO-15132-FISICOQUIMICA-LAB": [
         {
@@ -14800,6 +14984,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -15238,9 +15425,9 @@ let profesores={
     }
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez-Gonzalez_80860",
-    "general": 4.375,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez_10829",
+    "general": 6.1,
+    "n": 20,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15291,6 +15478,9 @@ let profesores={
     }
   },
   "CLAUDIA SOLEDAD SAAVEDRA MENDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Claudia-Soledad-Saavedra_130638",
+    "general": 9.5,
+    "n": 8,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15327,6 +15517,9 @@ let profesores={
     }
   },
   "SANDRA LORENA VILLALOBOS OROZCO": {
+    "link": "https://www.misprofesores.com/profesores/Sandra-Lorena-Villalobos_104333",
+    "general": 7.6,
+    "n": 10,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15422,9 +15615,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140935",
-    "general": 6.0,
-    "n": 1,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15491,6 +15684,9 @@ let profesores={
     }
   },
   "MARIA GABRIELA  MAZZUCHINO": {
+    "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
+    "general": 9.3529,
+    "n": 34,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15657,6 +15853,9 @@ let profesores={
     }
   },
   "FEDERICO AUGUSTO GUZMAN RUBIO": {
+    "link": "https://www.misprofesores.com/profesores/Federico-Guzm\u00e1n-Rubio_81699",
+    "general": 8.9583,
+    "n": 24,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15802,6 +16001,9 @@ let profesores={
     }
   },
   "FLORENCIA GRACIELA ZOZAYA BECERRA": {
+    "link": "https://www.misprofesores.com/profesores/Florencia-Zozaya-Becerra_120641",
+    "general": 7.125,
+    "n": 8,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -16149,6 +16351,9 @@ let profesores={
     }
   },
   "GABRIELA MEDINA HERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
+    "general": 7.3,
+    "n": 90,
     "grupos": {
       "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.": [
         {
@@ -16363,6 +16568,9 @@ let profesores={
     }
   },
   "HANAKO TANIGUCHI PONCIANO": {
+    "link": "https://www.misprofesores.com/profesores/Hanako-Taniguchi_172103",
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
         {
@@ -16471,6 +16679,9 @@ let profesores={
     }
   },
   "ISRAEL ALVAREZ MACIAS": {
+    "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
+    "general": 9.2222,
+    "n": 18,
     "grupos": {
       "LEN-12767-COM. PROFES. PARA ING. INDUS.": [
         {
@@ -16512,6 +16723,9 @@ let profesores={
     }
   },
   "RITA EUGENIA MALDONADO LOZANO": {
+    "link": "https://www.misprofesores.com/profesores/Rita-Eugenia-Maldonado_15549",
+    "general": 8.0909,
+    "n": 66,
     "grupos": {
       "MAT-11100-MATEMATICAS, I": [
         {
@@ -16794,6 +17008,9 @@ let profesores={
     }
   },
   "RAYBEL ANDRES GARCIA ANCONA": {
+    "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
+    "general": 6.7778,
+    "n": 18,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -16833,6 +17050,9 @@ let profesores={
     }
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
+    "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
+    "general": 8.184,
+    "n": 125,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -17553,6 +17773,9 @@ let profesores={
     }
   },
   "HECTOR ANGEL DOMINGUEZ ALVAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Hector-Dominguez-Alvarez_17859",
+    "general": 7.7895,
+    "n": 19,
     "grupos": {
       "MAT-12250-CALCULO APLICADO": [
         {
@@ -17575,6 +17798,9 @@ let profesores={
     }
   },
   "LUCIA RAMIREZ DAVID": {
+    "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
+    "general": 8.2286,
+    "n": 70,
     "grupos": {
       "MAT-12250-CALCULO APLICADO": [
         {
@@ -17762,6 +17988,9 @@ let profesores={
     }
   },
   "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE": {
+    "link": "https://www.misprofesores.com/profesores/Yolanda-isabel-Pretelini_118802",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "MAT-12349-PRINCIPIOS DE ALGEBRA LINEAL": [
         {
@@ -18764,6 +18993,9 @@ let profesores={
     }
   },
   "FRANCISCO JAVIER BLANCO RIVERA": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Blanco_92120",
+    "general": 5.8,
+    "n": 5,
     "grupos": {
       "SDI-11120-ELEMENTOS DE FISICA": [
         {
@@ -19093,6 +19325,9 @@ let profesores={
     }
   },
   "FRANCISCO JAVIER DEL OLMO HERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Del-Olmo-Hern\u00e1ndez_172160",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "SDI-13760-REDES DE COMPUTADORAS-LAB": [
         {
@@ -19237,10 +19472,11 @@ let mejoresPorDepto={
     "MARGARITA TARRAGONA SAEZ"
   ],
   "LENGUAS (CLE)": [
+    "MARIA GRACE  NOBILE",
     "MARCELA RABADAN GALLARDO",
     "TOUFIK CHAIBAT",
-    "MARIA GRACE  NOBILE",
-    "EMILIO ENRIQUE NAVARRO HERNANDEZ"
+    "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+    "NORMA ARACELY AVILA MIRANDA"
   ],
   "COMPUTACION": [
     "WILMER EFREN PEREIRA GONZALEZ",
@@ -19249,37 +19485,38 @@ let mejoresPorDepto={
     "PAULINA BUSTOS ARELLANO",
     "EDGAR FRANCISCO ROMAN RANGEL",
     "XOCHITL CHAVARRIA CRUZ",
+    "ANA EUGENIA DIAZ ROSI\u00d1OL",
     "MONICA ZAVALA ESTRADA",
     "SILVIA RIOS MAGOS",
-    "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
-    "MIROSLAVA MENDOZA VIDAL"
+    "JOSE ALBERTO DOMINGO INCERA DIEGUEZ"
   ],
   "CONTABILIDAD": [
     "MANUEL TAMEZ ZENDEJAS",
+    "VICTOR MANUEL FERNANDEZ GONZALEZ ANGULO",
     "MARCELA GONZALEZ MARTINEZ",
     "ROSA ELENA MIRANDA SANSORES",
+    "MARCELA PORTE PETIT ANDUAGA",
+    "ROSA MARIA ATHIE RUBIO",
     "MARIA LUISA GRUNBERGER STERN",
     "VIRGINIA KALIS LETAYF",
-    "CLAUDIA EMILIA DE LEON PEREZ",
-    "YANIRA ROSALBA PETRIDES JIMENEZ",
-    "MARIA CANDELAS RAMIREZ",
-    "CLAUDIA GABRIELA ORTIZ PE\u00d1A",
-    "SYLVIA MELJEM ENRIQUEZ DE RIVERA"
+    "JUAN FERNANDO CALDERON CABELLO",
+    "CLAUDIA EMILIA DE LEON PEREZ"
   ],
   "CIENCIA POLITICA": [
     "CHRISTINA CORNEJO VAN LUIT",
     "FELIPE CURCO COBOS",
+    "VIDAL FERNANDO ROMERO LEON",
+    "ADRIANA ALFARO ALTAMIRANO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",
     "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
     "ADRIAN LUCARDI",
-    "JUAN PABLO MICOZZI",
-    "ALBERTO SIMPSER MONDLAK",
-    "JEFFREY ALLEN WELDON",
-    "DENISE EUGENIA DRESSER GUERRA"
+    "ANTONELLA AGOSTINA BANDIERA",
+    "JUAN PABLO MICOZZI"
   ],
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
+    "EDUARDO ERASMO OSORNIO GARCIA",
     "JULIO ANTONIO RIOS FIGUEROA",
     "DENISE MEJAN GANEM",
     "JOSE OMAR HERNANDEZ SALGADO",
@@ -19287,26 +19524,25 @@ let mejoresPorDepto={
     "FRANCO ALBERTO DEL VALLE PRADO",
     "IRVIN ARTURO CASTILLO CESAREO",
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
-    "AMRITA BAHRI",
-    "JOSE ANGEL FERNANDEZ URIA"
+    "AMRITA BAHRI"
   ],
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
+    "BARBARA CARRILLO FLORES",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MIGUEL MESSMACHER LINARTAS",
     "CHRISTIANE FABREGA CHIMALI",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES",
     "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
+    "ROBERTO ZOCCO",
     "GERARDO ZORRILLA RAMOS",
     "SILVANO ANTONIO ESPINDOLA PARRA",
     "JAVIER ARTURO VELAZQUEZ GALVAN",
-    "ROBERTO ZOCCO",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
     "ALFREDO VILLAFRANCA QUINTO",
@@ -19316,51 +19552,51 @@ let mejoresPorDepto={
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",
+    "MARIA JOSE URZUA VALVERDE",
     "RODRIGO PE\u00d1A GONZALEZ",
+    "HAZEL BLACKMORE SANCHEZ",
     "RODRIGO CHACON AGUIRRE",
     "ISABEL FLORES ALCAZAR",
     "NATALIA SALTALAMACCHIA ZICCARDI",
     "GABRIEL GOODLIFFE",
-    "ATHANASIOS  HRISTOULAS",
-    "HAZEL BLACKMORE SANCHEZ",
     "FILIBERTO VICTOR KERBER PALMA",
-    "MARIA JOSE URZUA VALVERDE"
+    "ATHANASIOS  HRISTOULAS"
   ],
   "ESTADISTICA": [
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
+    "JORGE FRANCISCO DE LA VEGA GONGORA",
+    "FELIPE JAVIER MEDINA AGUAYO",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
     "LILIANA DE LA TORRE DESENTIS",
     "MANUEL MENDOZA RAMIREZ",
-    "VICTOR MANUEL GUERRERO GUZMAN",
-    "ERNESTO JUVENAL BARRIOS ZAMUDIO",
-    "HUGO CUEVAS BRAVO"
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
+    "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
     "ADAN RAMIREZ LOPEZ",
     "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
+    "GUILLERMO ABDEL MUSIK ASALI",
     "SERGIO ROMERO HERNANDEZ",
     "LUIS ANTONIO MONCAYO MARTINEZ",
     "ALEJANDRO TERAN CASTELLANOS",
     "ANTE SALCEDO GONZALEZ",
     "ANA KARINA MIRANDA FLORES",
-    "MARIA CRISTINA GIGOLA PAGLIALUNGA",
-    "THOMAS MARTIN RUDOLF",
-    "LUIS EDUARDO URBAN RIVERO"
+    "MARIA CRISTINA GIGOLA PAGLIALUNGA"
   ],
   "LENGUAS (LEN)": [
     "FEDERICO VALLE OCHOA",
     "EDUARDO PORTAS RUIZ",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
+    "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+    "CONRADO JOSE ARRANZ MINGUEZ",
+    "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "GABRIEL ASTEY WOOD",
-    "JAVIER MARTINEZ VILLARROYA",
-    "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ",
-    "JORGE NEME SANCHEZ",
-    "LUCIA PI CHOLULA"
+    "ISRAEL ALVAREZ MACIAS",
+    "GABRIEL ASTEY WOOD"
   ],
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",
@@ -19375,15 +19611,15 @@ let mejoresPorDepto={
     "LEOBARDO FERNANDEZ ROMAN"
   ],
   "SISTEMAS DIGITALES": [
+    "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
     "RAFAEL GREGORIO GAMBOA HIRALES",
     "RAFAEL CISNEROS MONTOYA",
     "JOSE GUADALUPE ROMERO VELAZQUEZ",
     "FEDERICO JOSE KUHLMANN RODRIGUEZ",
     "MARIA OFELIA RODRIGUEZ DURAN",
     "HUGO RODRIGUEZ CORTES",
-    "FRANCISCO JAVIER VILLA LOPEZ",
-    "ROMEO SALVADOR ORTEGA MARTINEZ",
     "FRANCISCO JAVIER BLANCO RIVERA",
-    "MARIO ANDRES AGUILAR ORDU\u00d1A"
+    "FRANCISCO JAVIER VILLA LOPEZ",
+    "ROMEO SALVADOR ORTEGA MARTINEZ"
   ]
 };
