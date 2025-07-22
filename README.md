@@ -24,4 +24,6 @@ Las fuentes de datos son:
 
 ## Por mejorar/hacer
 - Limpiar/mejorar codigo de python.
+- Arreglar o quitar botones de 'Ver en Horarios ITAM' (politica CORS)
+- Escribir pruebas
 - Mejorar y probar detalladamente la función que rankea los horarios (main.js > [evaluaHorario](https://github.com/emiliocantuc/horariosITAM/blob/9f12960e16f29bd48e4fbda1258b83c88ef037db/js/main.js#L272)).
