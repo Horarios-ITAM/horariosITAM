@@ -1,4 +1,4 @@
-let actualizado="1753195806557.9658";
+let actualizado="1753282274013.3352";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -6105,16 +6105,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "ALEJANDRO  RODILES BRETON",
+        "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "07:00-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH304",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -6485,6 +6485,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
+      },
+      {
+        "grupo": "003L",
+        "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+        "profesor": "",
+        "creditos": "2",
+        "horario": "19:00-21:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH316",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -6899,17 +6913,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-        "profesor": "JUAN JESUS GARZA ONOFRE",
+        "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "17:30-19:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU"
         ],
-        "salon": "RH209",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6965,6 +6978,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
+        "profesor": "",
+        "creditos": "4",
+        "horario": "19:00-21:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH316",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -7833,17 +7860,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-        "profesor": "RODRIGO CAMARENA GONZALEZ",
+        "profesor": "JULIO ANTONIO RIOS FIGUEROA",
         "creditos": "9",
-        "horario": "10:00-11:30",
+        "horario": "18:00-19:30",
         "dias": [
-          "MA",
-          "JU"
+          "MI"
         ],
-        "salon": "RH104",
+        "salon": "RH306",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "18:00",
+        "fin": "19:30"
       }
     ]
   },
@@ -9705,7 +9731,8 @@ let clases={
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
         "salon": "RH105",
         "campus": "RIO HONDO",
@@ -13647,7 +13674,7 @@ let clases={
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
-          "MA"
+          "LU"
         ],
         "salon": "RH314",
         "campus": "RIO HONDO",
@@ -18961,6 +18988,11 @@ let misProfesData={
     "general": 8.3333,
     "n": 3
   },
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31
+  },
   "LUIS REY RAIGOSA SOTELO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Rey-Raigosa-Sotelo_10783",
     "general": 7.7143,
@@ -18970,11 +19002,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/german-sucar_23220",
     "general": 6.6429,
     "n": 70
-  },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31
   },
   "RAYMUNDO GAMA LEYVA": {
     "link": "https://www.misprofesores.com/profesores/Raymundo-Gama_80671",
@@ -19808,8 +19835,8 @@ let misProfesData={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.3284,
-    "n": 67
+    "general": 6.3824,
+    "n": 68
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",

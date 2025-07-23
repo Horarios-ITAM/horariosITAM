@@ -1,4 +1,4 @@
-let actualizado="1753195806571.7642";
+let actualizado="1753282274026.057";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -727,6 +727,22 @@ let profesores={
           "fin": "10:00"
         }
       ],
+      "DER-11104-CULTURA DE LA LEGALIDAD-LAB": [
+        {
+          "grupo": "003L",
+          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ],
       "DER-11114-HABILIDADES JURID. GLOBALES II-LAB": [
         {
           "grupo": "001L",
@@ -759,6 +775,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:00"
+        }
+      ],
+      "DER-11121-CULTURA DE LA LEGALIDAD": [
+        {
+          "grupo": "003",
+          "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
+          "profesor": "",
+          "creditos": "4",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
         }
       ],
       "DER-13504-CONTRATOS": [
@@ -819,7 +851,8 @@ let profesores={
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
           "salon": "RH105",
           "campus": "RIO HONDO",
@@ -7011,6 +7044,22 @@ let profesores={
           "inicio": "07:00",
           "fin": "10:00"
         }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "MARIANA AGUILAR AGUILAR",
+          "creditos": "9",
+          "horario": "10:00-11:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH304",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
       ]
     }
   },
@@ -7143,22 +7192,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ],
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "ALEJANDRO  RODILES BRETON",
-          "creditos": "9",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "PF106",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "DER-18600-DERECHO INTERNACIONAL I": [
@@ -7622,23 +7655,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
-        }
-      ],
-      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-          "profesor": "RODRIGO CAMARENA GONZALEZ",
-          "creditos": "9",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -8313,14 +8329,33 @@ let profesores={
       ]
     }
   },
-  "JUAN JESUS GARZA ONOFRE": {
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31,
     "grupos": {
       "DER-11119-FILOSOFIA DEL DERECHO": [
         {
           "grupo": "001",
           "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-          "profesor": "JUAN JESUS GARZA ONOFRE",
+          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
           "creditos": "9",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "DER-11805-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+          "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
             "MA",
@@ -8395,30 +8430,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        }
-      ]
-    }
-  },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31,
-    "grupos": {
-      "DER-11805-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -9020,6 +9031,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
+        }
+      ],
+      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
+          "profesor": "JULIO ANTONIO RIOS FIGUEROA",
+          "creditos": "9",
+          "horario": "18:00-19:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
         }
       ]
     }
@@ -14603,7 +14630,7 @@ let profesores={
           "creditos": "2",
           "horario": "12:00-13:00",
           "dias": [
-            "MA"
+            "LU"
           ],
           "salon": "RH314",
           "campus": "RIO HONDO",
@@ -17511,8 +17538,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.3284,
-    "n": 67,
+    "general": 6.3824,
+    "n": 68,
     "grupos": {
       "MAT-12220-CALCULO EN UNA VARIABLE": [
         {
