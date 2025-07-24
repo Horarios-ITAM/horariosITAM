@@ -1,4 +1,4 @@
-let actualizado="1753282274013.3352";
+let actualizado="1753368713476.0657";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -6235,7 +6235,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10017-CONTRATOS FINANC. COMPARADOS",
-        "profesor": "",
+        "profesor": "RICARDO PEDROZA RODRIGUEZ",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -6767,15 +6767,14 @@ let clases={
         "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
         "profesor": "",
         "creditos": "4",
-        "horario": "17:00-17:30",
+        "horario": "09:00-10:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RHB-2",
+        "salon": "RH305",
         "campus": "RIO HONDO",
-        "inicio": "17:00",
-        "fin": "17:30"
+        "inicio": "09:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -6788,15 +6787,14 @@ let clases={
         "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
         "profesor": "",
         "creditos": "4",
-        "horario": "16:00-17:00",
+        "horario": "07:00-09:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RHB-2",
+        "salon": "RH305",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:00"
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
@@ -6809,14 +6807,14 @@ let clases={
         "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III-LAB",
         "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
         "creditos": "2",
-        "horario": "09:00-11:00",
+        "horario": "10:00-12:00",
         "dias": [
           "VI"
         ],
         "salon": "RH209",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
+        "inicio": "10:00",
+        "fin": "12:00"
       }
     ]
   },
@@ -6944,6 +6942,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "10:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-11120-TALLER DISER JUR TEC ARGUM JUR",
+        "profesor": "",
+        "creditos": "2",
+        "horario": "17:30-18:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH312",
+        "campus": "RIO HONDO",
+        "inicio": "17:30",
+        "fin": "18:00"
       }
     ]
   },
@@ -7196,6 +7209,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH312",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -7496,15 +7524,15 @@ let clases={
         "nombre": "DER-13403-OBLIGACIONES",
         "profesor": "LUIS MANUEL CAMP MEJAN CARRER",
         "creditos": "8",
-        "horario": "07:00-09:00",
+        "horario": "08:30-10:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH314",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
+        "inicio": "08:30",
+        "fin": "10:30"
       }
     ]
   },
@@ -7551,7 +7579,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-13504-CONTRATOS",
-        "profesor": "",
+        "profesor": "ELIAS GALLARDO PALMA",
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
@@ -18410,8 +18438,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9542,
-    "n": 284
+    "general": 4.9474,
+    "n": 285
   },
   "KRZYSZTOF ZAREMBA": {
     "link": "https://www.misprofesores.com/profesores/Krzystof-Zaremba_171808",
@@ -19229,9 +19257,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -19704,9 +19732,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",

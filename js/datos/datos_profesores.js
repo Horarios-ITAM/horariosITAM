@@ -1,4 +1,4 @@
-let actualizado="1753282274026.057";
+let actualizado="1753368713493.2922";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -711,22 +711,6 @@ let profesores={
           "fin": "19:00"
         }
       ],
-      "DER-10017-CONTRATOS FINANC. COMPARADOS": [
-        {
-          "grupo": "002",
-          "nombre": "DER-10017-CONTRATOS FINANC. COMPARADOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
       "DER-11104-CULTURA DE LA LEGALIDAD-LAB": [
         {
           "grupo": "003L",
@@ -749,15 +733,14 @@ let profesores={
           "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
           "profesor": "",
           "creditos": "4",
-          "horario": "17:00-17:30",
+          "horario": "09:00-10:00",
           "dias": [
-            "MA",
-            "JU"
+            "VI"
           ],
-          "salon": "RHB-2",
+          "salon": "RH305",
           "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "17:30"
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ],
       "DER-11114-HABILIDADES JURID. GLOBALES II": [
@@ -766,15 +749,31 @@ let profesores={
           "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
           "profesor": "",
           "creditos": "4",
-          "horario": "16:00-17:00",
+          "horario": "07:00-09:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "DER-11120-TALLER DISER JUR TEC ARGUM JUR": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11120-TALLER DISER JUR TEC ARGUM JUR",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "17:30-18:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RHB-2",
+          "salon": "RH312",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:00"
+          "inicio": "17:30",
+          "fin": "18:00"
         }
       ],
       "DER-11121-CULTURA DE LA LEGALIDAD": [
@@ -793,21 +792,21 @@ let profesores={
           "fin": "21:00"
         }
       ],
-      "DER-13504-CONTRATOS": [
+      "DER-11907-TECNICAS DE ARGUM. JURID.": [
         {
           "grupo": "002",
-          "nombre": "DER-13504-CONTRATOS",
+          "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
           "profesor": "",
-          "creditos": "8",
-          "horario": "19:00-21:00",
+          "creditos": "6",
+          "horario": "16:00-17:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "PF104",
+          "salon": "RH312",
           "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ],
       "DER-19602-DERECHO LABORAL II": [
@@ -1214,8 +1213,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9542,
-    "n": 284,
+    "general": 4.9474,
+    "n": 285,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -7488,6 +7487,26 @@ let profesores={
       ]
     }
   },
+  "RICARDO PEDROZA RODRIGUEZ": {
+    "grupos": {
+      "DER-10017-CONTRATOS FINANC. COMPARADOS": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10017-CONTRATOS FINANC. COMPARADOS",
+          "profesor": "RICARDO PEDROZA RODRIGUEZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
     "general": 6.4545,
@@ -8203,14 +8222,14 @@ let profesores={
           "nombre": "DER-11115-TALLER DISERT. JUR. CONST. III-LAB",
           "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
           "creditos": "2",
-          "horario": "09:00-11:00",
+          "horario": "10:00-12:00",
           "dias": [
             "VI"
           ],
           "salon": "RH209",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
+          "inicio": "10:00",
+          "fin": "12:00"
         }
       ],
       "DER-14505-DELITOS": [
@@ -8734,15 +8753,15 @@ let profesores={
           "nombre": "DER-13403-OBLIGACIONES",
           "profesor": "LUIS MANUEL CAMP MEJAN CARRER",
           "creditos": "8",
-          "horario": "07:00-09:00",
+          "horario": "08:30-10:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH314",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
+          "inicio": "08:30",
+          "fin": "10:30"
         }
       ]
     }
@@ -8791,6 +8810,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "ELIAS GALLARDO PALMA": {
+    "grupos": {
+      "DER-13504-CONTRATOS": [
+        {
+          "grupo": "002",
+          "nombre": "DER-13504-CONTRATOS",
+          "profesor": "ELIAS GALLARDO PALMA",
+          "creditos": "8",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF104",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
         }
       ]
     }
@@ -10604,9 +10644,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -15642,9 +15682,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -19563,7 +19603,7 @@ let mejoresPorDepto={
     "MIGUEL MESSMACHER LINARTAS",
     "CHRISTIANE FABREGA CHIMALI",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES"
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
