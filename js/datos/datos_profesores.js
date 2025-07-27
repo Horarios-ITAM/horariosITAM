@@ -1,4 +1,4 @@
-let actualizado="1753541210636.1719";
+let actualizado="1753627571787.6858";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -12576,8 +12576,8 @@ let profesores={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2919,
-    "n": 185,
+    "general": 8.2581,
+    "n": 186,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -15682,9 +15682,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18000,8 +18000,8 @@ let profesores={
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",
-    "general": 6.5,
-    "n": 22,
+    "general": 6.6087,
+    "n": 23,
     "grupos": {
       "MAT-12349-PRINCIPIOS DE ALGEBRA LINEAL": [
         {

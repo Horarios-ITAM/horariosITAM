@@ -1,4 +1,4 @@
-let actualizado="1753541210621.97";
+let actualizado="1753627571769.679";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -19483,8 +19483,8 @@ let misProfesData={
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2919,
-    "n": 185
+    "general": 8.2581,
+    "n": 186
   },
   "GERARDO ZORRILLA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
@@ -19732,9 +19732,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
@@ -19903,8 +19903,8 @@ let misProfesData={
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",
-    "general": 6.5,
-    "n": 22
+    "general": 6.6087,
+    "n": 23
   },
   "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE": {
     "link": "https://www.misprofesores.com/profesores/Yolanda-isabel-Pretelini_118802",
