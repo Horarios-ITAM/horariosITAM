@@ -1,4 +1,4 @@
-let actualizado="1753627571787.6858";
+let actualizado="1753714403796.1882";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -3635,8 +3635,8 @@ let profesores={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.3761,
-    "n": 109,
+    "general": 7.4,
+    "n": 110,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
@@ -10644,9 +10644,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -15682,9 +15682,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -19603,7 +19603,7 @@ let mejoresPorDepto={
     "MIGUEL MESSMACHER LINARTAS",
     "CHRISTIANE FABREGA CHIMALI",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
