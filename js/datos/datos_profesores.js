@@ -1,4 +1,4 @@
-let actualizado="1753714403796.1882";
+let actualizado="1753800897560.0225";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -10644,9 +10644,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -11333,6 +11333,9 @@ let profesores={
     }
   },
   "LOUIS ZALTZMAN KORNHAUSER": {
+    "link": "https://www.misprofesores.com/profesores/Louis-Zaltzman_186549",
+    "general": 9.75,
+    "n": 4,
     "grupos": {
       "ECO-15491-ECO. EXPERIM. Y DE LA CONDUCTA": [
         {
@@ -15682,9 +15685,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17959,8 +17962,8 @@ let profesores={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.5,
-    "n": 28,
+    "general": 7.4138,
+    "n": 29,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -19595,6 +19598,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
+    "LOUIS ZALTZMAN KORNHAUSER",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
     "BARBARA CARRILLO FLORES",
@@ -19602,8 +19606,7 @@ let mejoresPorDepto={
     "CLAUDIA ABURTO RANCA\u00d1O",
     "MIGUEL MESSMACHER LINARTAS",
     "CHRISTIANE FABREGA CHIMALI",
-    "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES"
+    "DANIEL ISAAC CHIQUIAR CIKUREL"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
