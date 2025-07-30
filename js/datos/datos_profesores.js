@@ -1,4 +1,4 @@
-let actualizado="1753800897560.0225";
+let actualizado="1753887086327.9805";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -662,21 +662,36 @@ let profesores={
           "fin": "10:00"
         }
       ],
-      "COM-22102-BASES DE DATOS NO RELACIONALES": [
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
         {
-          "grupo": "001",
-          "nombre": "COM-22102-BASES DE DATOS NO RELACIONALES",
+          "grupo": "014",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
           "profesor": "",
           "creditos": "6",
-          "horario": "18:00-19:30",
+          "horario": "07:00-08:30",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RHCC102",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:30"
+          "inicio": "07:00",
+          "fin": "08:30"
+        },
+        {
+          "grupo": "015",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ],
       "COM-23106-MINERIA DE DATOS": [
@@ -824,39 +839,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
-        }
-      ],
-      "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
-        {
-          "grupo": "004",
-          "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-12102-ECONOMIA, II": [
-        {
-          "grupo": "004",
-          "nombre": "ECO-12102-ECONOMIA, II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ],
       "ECO-21104-ECONOMIA IV": [
@@ -1108,9 +1090,26 @@ let profesores={
           "fin": "18:00"
         }
       ],
+      "IIO-15170-DISE\u00d1O ASISTIDO POR COMPUTAD.": [
+        {
+          "grupo": "002",
+          "nombre": "IIO-15170-DISE\u00d1O ASISTIDO POR COMPUTAD.",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:30-21:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "19:30",
+          "fin": "21:00"
+        }
+      ],
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
-          "grupo": "005",
+          "grupo": "020",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
           "profesor": "",
           "creditos": "6",
@@ -1119,25 +1118,10 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHACERV",
+          "salon": "RHASHAK",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        },
-        {
-          "grupo": "006",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
@@ -1168,6 +1152,55 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
+        }
+      ],
+      "MAT-14250-GEOMETRIA VECTORIAL": [
+        {
+          "grupo": "011",
+          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHPB3",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "MAT-14280-PENSAMIENTO MATEMATICO": [
+        {
+          "grupo": "007",
+          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        },
+        {
+          "grupo": "008",
+          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH213",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -4050,7 +4083,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "PF102",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -4817,6 +4850,30 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "FELIPE LOPEZ GAMINO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
+    "grupos": {
+      "COM-22102-BASES DE DATOS NO RELACIONALES": [
+        {
+          "grupo": "001",
+          "nombre": "COM-22102-BASES DE DATOS NO RELACIONALES",
+          "profesor": "FELIPE LOPEZ GAMINO",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC102",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
         }
       ]
     }
@@ -8340,7 +8397,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHCUBIC",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
@@ -8972,14 +9029,14 @@ let profesores={
           "nombre": "DER-15061-CLIN ATN A PERSONAS REFUGIADAS",
           "profesor": "EDUARDO ERASMO OSORNIO GARCIA",
           "creditos": "6",
-          "horario": "18:00-21:00",
+          "horario": "17:30-20:30",
           "dias": [
-            "MI"
+            "MA"
           ],
           "salon": "RHCUBIC",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "21:00"
+          "inicio": "17:30",
+          "fin": "20:30"
         }
       ],
       "DER-15080-CLIN ATN A PERSONAS REFUGIADAS-LAB": [
@@ -8988,14 +9045,14 @@ let profesores={
           "nombre": "DER-15080-CLIN ATN A PERSONAS REFUGIADAS-LAB",
           "profesor": "EDUARDO ERASMO OSORNIO GARCIA",
           "creditos": "2",
-          "horario": "18:00-20:00",
+          "horario": "17:30-19:30",
           "dias": [
-            "MI"
+            "MA"
           ],
           "salon": "RHCUBIC",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
+          "inicio": "17:30",
+          "fin": "19:30"
         }
       ]
     }
@@ -9102,15 +9159,15 @@ let profesores={
           "nombre": "DER-15403-DERECHO CONSTITUCIONAL I",
           "profesor": "ANA MICAELA ALTERIO",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "17:30-19:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH209",
+          "salon": "RH313",
           "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -10854,6 +10911,47 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "VALERIA MOY CAMPOS": {
+    "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
+    "general": 7.8523,
+    "n": 149,
+    "grupos": {
+      "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
+          "profesor": "VALERIA MOY CAMPOS",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "VALERIA MOY CAMPOS",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -14989,6 +15087,22 @@ let profesores={
           "fin": "17:00"
         }
       ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "030",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "LUCIA PI CHOLULA",
+          "creditos": "6",
+          "horario": "10:00-13:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "13:00"
+        }
+      ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
           "grupo": "014",
@@ -15494,6 +15608,42 @@ let profesores={
       ]
     }
   },
+  "SERGIO JAVIER LUIS ALCAZAR": {
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "005",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "SERGIO JAVIER LUIS ALCAZAR",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        },
+        {
+          "grupo": "006",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "SERGIO JAVIER LUIS ALCAZAR",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez_10829",
     "general": 6.1,
@@ -15820,27 +15970,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:00"
-        }
-      ]
-    }
-  },
-  "SERGIO JAVIER LUIS ALCAZAR": {
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "020",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "SERGIO JAVIER LUIS ALCAZAR",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -16236,7 +16365,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHASHAK",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -16256,7 +16385,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHASHAK",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -16839,6 +16968,24 @@ let profesores={
           "nombre": "MAT-12100-CALCULO I",
           "profesor": "RITA EUGENIA MALDONADO LOZANO",
           "creditos": "9",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "MAT-14100-CALCULO DIF. E INT., I": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
+          "profesor": "RITA EUGENIA MALDONADO LOZANO",
+          "creditos": "8",
           "horario": "10:00-11:30",
           "dias": [
             "LU",
@@ -17560,6 +17707,23 @@ let profesores={
           "fin": "12:00"
         }
       ],
+      "MAT-12210-SIST. DINAMICOS": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-12210-SIST. DINAMICOS",
+          "profesor": "JOAO PEDRO LEITAO DA CRUZ MORAIS",
+          "creditos": "6",
+          "horario": "12:00-13:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:30"
+        }
+      ],
       "MAT-24210-SISTEMAS DINAMICOS,I": [
         {
           "grupo": "002",
@@ -17575,6 +17739,80 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
+        }
+      ]
+    }
+  },
+  "JUAN CARLOS AGUILAR VILLEGAS": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
+    "general": 6.9333,
+    "n": 60,
+    "grupos": {
+      "MAT-12210-SIST. DINAMICOS": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12210-SIST. DINAMICOS",
+          "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "MAT-14102-CALCULO DIF. E INT., III": [
+        {
+          "grupo": "003",
+          "nombre": "MAT-14102-CALCULO DIF. E INT., III",
+          "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ],
+      "MAT-14400-CALCULO  NUMERICO,I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-14400-CALCULO  NUMERICO,I",
+          "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ],
+      "MAT-24210-SISTEMAS DINAMICOS,I": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
+          "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -18156,15 +18394,15 @@ let profesores={
           "nombre": "MAT-12350-ALGEBRA LINEAL APLICADA",
           "profesor": "EDGAR POSSANI ESPINOSA",
           "creditos": "8",
-          "horario": "16:00-18:00",
+          "horario": "12:00-14:00",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH304",
+          "salon": "RH210",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
+          "inicio": "12:00",
+          "fin": "14:00"
         }
       ],
       "MAT-24500-INVESTIGACION DE OPER.,I": [
@@ -18173,14 +18411,14 @@ let profesores={
           "nombre": "MAT-24500-INVESTIGACION DE OPER.,I",
           "profesor": "EDGAR POSSANI ESPINOSA",
           "creditos": "6",
-          "horario": "08:00-09:30",
+          "horario": "18:00-20:00",
           "dias": [
-            "MA"
+            "LU"
           ],
           "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:30"
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -18218,96 +18456,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
-        }
-      ]
-    }
-  },
-  "ZEFERINO PARADA GARCIA": {
-    "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
-    "general": 6.1842,
-    "n": 38,
-    "grupos": {
-      "MAT-14100-CALCULO DIF. E INT., I": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-          "profesor": "ZEFERINO PARADA GARCIA",
-          "creditos": "8",
-          "horario": "12:00-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
-      ],
-      "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)",
-          "profesor": "ZEFERINO PARADA GARCIA",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "MAT-14250-GEOMETRIA VECTORIAL": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
-          "profesor": "ZEFERINO PARADA GARCIA",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "MAT-14400-CALCULO  NUMERICO,I": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-14400-CALCULO  NUMERICO,I",
-          "profesor": "ZEFERINO PARADA GARCIA",
-          "creditos": "8",
-          "horario": "12:00-14:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
-      ],
-      "MAT-24410-PROGRAMACION LINEAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-24410-PROGRAMACION LINEAL",
-          "profesor": "ZEFERINO PARADA GARCIA",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHCC302",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -18377,63 +18525,6 @@ let profesores={
       ]
     }
   },
-  "JUAN CARLOS AGUILAR VILLEGAS": {
-    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.9333,
-    "n": 60,
-    "grupos": {
-      "MAT-14102-CALCULO DIF. E INT., III": [
-        {
-          "grupo": "003",
-          "nombre": "MAT-14102-CALCULO DIF. E INT., III",
-          "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "MAT-14400-CALCULO  NUMERICO,I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14400-CALCULO  NUMERICO,I",
-          "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "MAT-24210-SISTEMAS DINAMICOS,I": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
-          "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ]
-    }
-  },
   "MARISOL VILLANUEVA CASTILLO": {
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
@@ -18468,6 +18559,94 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "ZEFERINO PARADA GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
+    "general": 6.1842,
+    "n": 38,
+    "grupos": {
+      "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)",
+          "profesor": "ZEFERINO PARADA GARCIA",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
+      "MAT-14250-GEOMETRIA VECTORIAL": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
+          "profesor": "ZEFERINO PARADA GARCIA",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "010",
+          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
+          "profesor": "ZEFERINO PARADA GARCIA",
+          "creditos": "6",
+          "horario": "12:00-13:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:30"
+        }
+      ],
+      "MAT-14400-CALCULO  NUMERICO,I": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-14400-CALCULO  NUMERICO,I",
+          "profesor": "ZEFERINO PARADA GARCIA",
+          "creditos": "8",
+          "horario": "12:00-14:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:00"
+        }
+      ],
+      "MAT-24410-PROGRAMACION LINEAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-24410-PROGRAMACION LINEAL",
+          "profesor": "ZEFERINO PARADA GARCIA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
