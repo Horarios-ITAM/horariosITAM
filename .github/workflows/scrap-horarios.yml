@@ -21,6 +21,10 @@ jobs:
     - name: Scrapeo de horarios
       run: |
         python3 update/update.py ${{ secrets.GRACE_USR }} ${{ secrets.GRACE_PASSWD }}
+      
+    - name: Corre pruebas
+      run: |
+        python3 -m pytest update/tests
 
     - name: Commit files # Hacemos commit de los cambios.
       run: |
