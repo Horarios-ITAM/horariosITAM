@@ -4,3 +4,4 @@ Requests==2.32.4
 thefuzz==0.22.1
 tqdm==4.66.5
 scikit-learn==1.6.1
+pytest==7.4.4

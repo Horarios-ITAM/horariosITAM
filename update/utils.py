@@ -20,6 +20,7 @@ claveToDepto = {
     "SDI": "SISTEMAS DIGITALES",
 }
 
+
 def normalize_text(text):
     if not isinstance(text, str):
         return ""
@@ -82,31 +83,50 @@ def replace_latin_chars(str):
     return str
 
 
+SEMESTRES = ["PRIMAVERA", "VERANO", "OTOÑO"]
 
-def periodoValido(periodo):
-    periodos = ["PRIMAVERA", "VERANO", "OTOÑO"]
-    if len(periodo.split(" ")) != 3:
+class Periodo:
+    def __init__(self, periodo_str):
+        """
+        Recibe cadena del tipo 'OTOÑO 2022 LICENCIATURA'.
+        """
+        assert periodo_str.count(" ") == 2
+
+        self.periodo_str = periodo_str.upper()
+        self.sem, self.yr, self.lic = periodo_str.split()
+
+        assert self.yr.isdigit()
+        self.yr = int(self.yr)
+
+        assert self.lic == "LICENCIATURA"
+        assert self.sem in SEMESTRES
+
+    def rank(self):
+        return 10 * self.yr + int(SEMESTRES.index(self.sem))
+
+    def __lt__(self, other):
+        if not isinstance(other, Periodo):
+            return NotImplemented
+        return self.rank() < other.rank()
+    
+    def __eq__(self, other):
+        if not isinstance(other, Periodo):
+            return NotImplemented
+        return self.rank() == other.rank()
+    
+    def __str__(self):
+        return self.periodo_str
+    
+
+def periodoValido(periodo: str) -> bool:
+    try:
+        Periodo(periodo)
+        return True
+    except AssertionError:
         return False
-    op, yr, lic = periodo.split()
-    if lic != "LICENCIATURA" or op not in periodos or not str.isnumeric(yr):
-        return False
-    return True
 
-
-def rankPeriodo(periodo_str):
-    """
-    Asigna numerico usado para ordenar a cadena del tipo 'OTOÑO 2022 LICENCIATURA'.
-    """
-    assert periodo_str.count(" ") == 2, "Periodo invalido"
-    sem, yr, _ = periodo_str.split()
-    periodos = ["PRIMAVERA", "VERANO", "OTOÑO"]
-    assert sem in periodos, "Periodo invalido"
-    opOffset = periodos.index(sem)
-    return 10 * int(yr) + int(opOffset)
-
-
-def periodoMasReciente(periodos):
-    return max(periodos, key=rankPeriodo)
+def periodoMasReciente(periodos: list[str]) -> str:
+    return str(max(Periodo(p) for p in periodos))
 
 
 def dic2js(d):
@@ -120,15 +140,23 @@ def dic2js(d):
 
 
 if __name__ == "__main__":
-    # Prueba rankPeriodo
+    # # Prueba rankPeriodo
     # periodos=['PRIMAVERA 2011 LICENCIATURA','PRIMAVERA 2010 LICENCIATURA','VERANO 2010 LICENCIATURA','OTOÑO 2010 LICENCIATURA']
-    # ordenados=sorted(periodos,key=rankPeriodo,reverse=True)
-    # assert ordenados==periodos
+    # # ordenados=sorted(periodos,key=rankPeriodo,reverse=True)
+    # ordenados=sorted(periodos,key=lambda p:Periodo(p),reverse=True)
+    # print(ordenados)
+    # print(periodoMasReciente(periodos))
+    # # assert ordenados==periodos
     # for p in periodos:
     #     assert periodoValido(p)
+    
+    # assert not periodoValido("OTOÑO 2023")
+    # assert not periodoValido("OTOÑO 2023 MAESTRIA")
+    # print('here')
 
     # i=['PRIMAVERA 2023 LICENCIATURA','VERANO 2023 LICENCIATURA']
     # print(sorted(i,key=rankPeriodo,reverse=True))
-    print(
-        periodoMasReciente(["PRIMAVERA 2024 LICENCIATURA", "OTOÑO 2023 LICENCIATURA"])
-    )
+    # print(
+    #     periodoMasReciente(["PRIMAVERA 2024 LICENCIATURA", "OTOÑO 2023 LICENCIATURA"])
+    # )
+    pass
