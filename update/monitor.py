@@ -1,3 +1,11 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "beautifulsoup4",
+#     "requests",
+# ]
+# ///
+
 # Monitorea que el sitio funcione correctamente y notifica si algo esta raro
 # Corrido con cronjob (ver .github/workflows/monitorea.yml)
 

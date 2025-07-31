@@ -1,3 +1,9 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "requests",
+# ]
+# ///
 import os, itertools, string, time, argparse
 from urllib.parse import urljoin
 import utils
@@ -28,9 +34,8 @@ def fuerza_bruta(base_url, base_dir):
             url = urljoin(base_url, f"{programa}.pdf")
             local_path = os.path.join(base_dir, f"{programa}.pdf")
 
-            print(f"Intentando descargar {url} ...")
             utils.descargaArchivo(local_path, url)
-            print("Encontrado y descargado!")
+            print(f"Encontrado y descargado: {url}")
 
         except:
             continue
@@ -72,8 +77,6 @@ def actualiza_ya_encontrados(base_url, base_dir):
     for fname in os.listdir(base_dir):
         if ".pdf" not in fname:
             continue
-
-        print(f"Intentando descargar {fname}")
 
         # Intenta descargarlo
         try:

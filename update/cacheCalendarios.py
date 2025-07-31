@@ -1,3 +1,10 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "beautifulsoup4",
+#     "requests",
+# ]
+# ///
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
