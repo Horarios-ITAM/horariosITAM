@@ -1,8 +1,9 @@
 import os, itertools, string, time, argparse
+from urllib.parse import urljoin
 import utils
 
 
-def fuerza_bruta(url, base_dir):
+def fuerza_bruta(base_url, base_dir):
     """
     Intenta encontrar y descargar boletines por fuerza bruta.
     I.e. asume que no se conocen las claves de los programas ('COM-H')
@@ -24,15 +25,18 @@ def fuerza_bruta(url, base_dir):
     for i, j, k, letra in prod:
         programa = f"{i}{j}{k}-{letra}"
         try:
-            # Intentamos descargar - solo es exitoso si el programa existe.
-            print(f"{url}{programa}.pdf")
-            utils.descargaArchivo(f"{base_dir}/{programa}.pdf", f"{url}{programa}.pdf")
+            url = urljoin(base_url, f"{programa}.pdf")
+            local_path = os.path.join(base_dir, f"{programa}.pdf")
+
+            print(f"Intentando descargar {url} ...")
+            utils.descargaArchivo(local_path, url)
             print("Encontrado y descargado!")
+
         except:
             continue
 
 
-def semi_fuerza_bruta(url, base_dir):
+def semi_fuerza_bruta(base_url, base_dir):
     """
     Intenta encontrar y descargar boletines por semi-fuerza bruta.
     I.e. asume que se conocen las claves 'COM' de las carreras pero
@@ -50,16 +54,15 @@ def semi_fuerza_bruta(url, base_dir):
         for letra in string.ascii_uppercase:
             programa = f"{carrera}-{letra}"
             try:
-                utils.descargaArchivo(
-                    f"{base_dir}/{programa}.pdf", f"{url}{programa}.pdf"
-                )
-                print(f"Encontrado y descargado: {url}{programa}.pdf")
+                url = urljoin(base_url, f"{programa}.pdf")
+                local_path = os.path.join(base_dir, f"{programa}.pdf")
+                utils.descargaArchivo(local_path, url)
+                print(f"Encontrado y descargado: {url}")
             except:
-                # print(f'No se pudo descargar {programa}')
                 continue
 
 
-def actualiza_ya_encontrados(url, base_dir):
+def actualiza_ya_encontrados(base_url, base_dir):
     """
     Asume que ya existen programas en el directorio 'base_dir'
     e intenta actualizarlos descargando el archivo con el mismo nombre.
@@ -74,9 +77,12 @@ def actualiza_ya_encontrados(url, base_dir):
 
         # Intenta descargarlo
         try:
-            utils.descargaArchivo(f"{base_dir}/{fname}", f"{url}{fname}")
-        except:
-            print("No se pudo descargar {fname}")
+            url = urljoin(base_url, fname)
+            local_path = os.path.join(base_dir, fname)
+            utils.descargaArchivo(local_path, url)
+            print(f"Descargado {fname} exitosamente.")
+        except Exception as e:
+            print(f"No se pudo descargar {fname}: {e}")
 
 
 def agregaLinksDoc(base_dir):
@@ -91,7 +97,7 @@ def agregaLinksDoc(base_dir):
         )
 
     # Lee el template
-    with open(f"{base_dir}/boletinesTemplate.html", "r") as f:
+    with open(os.path.join(base_dir, "boletinesTemplate.html"), "r") as f:
         template = f.read()
 
     # Y reemplaza la lista de ligas en su lugar
@@ -103,7 +109,14 @@ def agregarActualizado(html):
 
 
 if __name__ == "__main__":
-    # Parseador de argumentos
+
+    modos_fn = {
+        "actualiza": actualiza_ya_encontrados,
+        "encuentra": fuerza_bruta,
+        "semi-encuentra": semi_fuerza_bruta,
+        "html": lambda *_: None,
+    }
+
     parser = argparse.ArgumentParser(
         prog="Cache Boletines",
         description="Intenta descargar/actualizar copias de los programas academicos del ITAM.",
@@ -115,7 +128,7 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--modo",
-        choices=["actualiza", "semi-encuentra", "encuentra", "html"],
+        choices=list(modos_fn.keys()),
         default="actualiza",
         help="Actualiza los boletines ya encontrados y que vivien en --dir (actualiza),\
             encuentra boletines con fuerza bruta (encuentra) o solo actualiza el archivo boletines.html (html).",
@@ -127,20 +140,14 @@ if __name__ == "__main__":
     )
     args = vars(parser.parse_args())
 
-    if args["modo"] == "encuentra":
-        print("Obteniendo boletines por fuerza bruta")
-        fuerza_bruta(args["url_boletines"], args["dir"])
+    os.makedirs(args["dir"], exist_ok=True)
 
-    elif args["modo"] == "semi-encuentra":
-        print("Obteniendo boletines por semi-fuerza bruta")
-        semi_fuerza_bruta(args["url_boletines"], args["dir"])
-
-    elif args["modo"] == "actualiza":
-        print("Actualizando boletines ya encontrados")
-        actualiza_ya_encontrados(args["url_boletines"], args["dir"])
+    print(f"Modo: {args['modo']}")
+    modos_fn[args["modo"]](args["url_boletines"], args["dir"])
 
     # Agregamos links a template y regresamos el html
     conLinks = agregaLinksDoc(args["dir"])
+
     # Agregamos la fecha de actualizacion
     conActualizado = agregarActualizado(conLinks)
 

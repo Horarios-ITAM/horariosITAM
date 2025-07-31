@@ -12,7 +12,7 @@ def agregaLinksDoc(conseguidos):
     for text, ligas in conseguidos.items():
         sHTML += f'<a href={"assets/" + ligas["urlCache"]} class="linkCalendario" target=_blank>{text}</a><br>\n'
 
-    with open(f"{BASE_DIR}/calendariosTemplate.html", "r") as f:
+    with open(os.path.join(BASE_DIR, "calendariosTemplate.html"), "r") as f:
         template = f.read()
 
     return template.replace("<!--Lista de links-->", sHTML)
@@ -37,7 +37,7 @@ if __name__ == "__main__":
 
         # Descargamos el archivo
         urlDoc = urljoin(url, hit["href"])
-        utils.descargaArchivo("assets/" + hit["href"], urlDoc)
+        utils.descargaArchivo(os.path.join("assets", hit["href"]), urlDoc)
         conseguidos[hit.string] = {"urlCache": hit["href"], "urlITAM": urlDoc}
 
         print(f"Descargado {hit.string} de {urlDoc}")

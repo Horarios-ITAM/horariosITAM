@@ -44,6 +44,21 @@ def getHTML(url):
     return html
 
 
+def dic2js(d):
+    """
+    Convierte un diccionario a un string de javascript de la forma
+    let key="value";
+    let key2={"key": "value", "key2": "value2"};
+    """
+    out = ""
+    for k, v in d.items():
+        if isinstance(v, str):
+            out += f'let {k}="{v}";\n'
+        else:
+            out += f"let {k}={json.dumps(v, indent=2)};\n"
+    return out
+
+
 def descargaArchivo(path, url):
     """
     Intenta descargar el archivo en url en el directorio local path.
@@ -85,6 +100,7 @@ def replace_latin_chars(str):
 
 SEMESTRES = ["PRIMAVERA", "VERANO", "OTOÑO"]
 
+
 class Periodo:
     def __init__(self, periodo_str):
         """
@@ -108,15 +124,15 @@ class Periodo:
         if not isinstance(other, Periodo):
             return NotImplemented
         return self.rank() < other.rank()
-    
+
     def __eq__(self, other):
         if not isinstance(other, Periodo):
             return NotImplemented
         return self.rank() == other.rank()
-    
+
     def __str__(self):
         return self.periodo_str
-    
+
 
 def periodoValido(periodo: str) -> bool:
     try:
@@ -125,38 +141,6 @@ def periodoValido(periodo: str) -> bool:
     except AssertionError:
         return False
 
+
 def periodoMasReciente(periodos: list[str]) -> str:
     return str(max(Periodo(p) for p in periodos))
-
-
-def dic2js(d):
-    out = ""
-    for k, v in d.items():
-        if isinstance(v, str):
-            out += f'let {k}="{v}";\n'
-        else:
-            out += f"let {k}={json.dumps(v, indent=2)};\n"
-    return out
-
-
-if __name__ == "__main__":
-    # # Prueba rankPeriodo
-    # periodos=['PRIMAVERA 2011 LICENCIATURA','PRIMAVERA 2010 LICENCIATURA','VERANO 2010 LICENCIATURA','OTOÑO 2010 LICENCIATURA']
-    # # ordenados=sorted(periodos,key=rankPeriodo,reverse=True)
-    # ordenados=sorted(periodos,key=lambda p:Periodo(p),reverse=True)
-    # print(ordenados)
-    # print(periodoMasReciente(periodos))
-    # # assert ordenados==periodos
-    # for p in periodos:
-    #     assert periodoValido(p)
-    
-    # assert not periodoValido("OTOÑO 2023")
-    # assert not periodoValido("OTOÑO 2023 MAESTRIA")
-    # print('here')
-
-    # i=['PRIMAVERA 2023 LICENCIATURA','VERANO 2023 LICENCIATURA']
-    # print(sorted(i,key=rankPeriodo,reverse=True))
-    # print(
-    #     periodoMasReciente(["PRIMAVERA 2024 LICENCIATURA", "OTOÑO 2023 LICENCIATURA"])
-    # )
-    pass
