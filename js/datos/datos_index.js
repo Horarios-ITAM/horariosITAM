@@ -1,4 +1,4 @@
-let actualizado="1753895290590.2617";
+let actualizado="1753973487700.3008";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -558,6 +558,27 @@ let clases={
       }
     ]
   },
+  "ADM-12022": {
+    "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
+    "clave": "ADM-12022",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "19:00-20:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH305",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
+      }
+    ]
+  },
   "ADM-12103": {
     "nombre": "ADM-12103-ESTRATEGIA EMPRESARIAL",
     "clave": "ADM-12103",
@@ -878,7 +899,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH314",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -1629,7 +1650,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-        "profesor": "FRANCISCO PEREZ GONZALEZ",
+        "profesor": "VICTOR HUGO LUQUE SALCEDO",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -1644,7 +1665,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-        "profesor": "FRANCISCO PEREZ GONZALEZ",
+        "profesor": "VICTOR HUGO LUQUE SALCEDO",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -1851,7 +1872,7 @@ let clases={
       {
         "grupo": "009",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "",
+        "profesor": "LUIS ARIAS OSOYO",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -1929,7 +1950,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15599-INSTITUCIONES FINANCIERAS (OP)",
-        "profesor": "",
+        "profesor": "LUIS ARIAS OSOYO",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -1996,7 +2017,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -2525,31 +2546,6 @@ let clases={
         "fin": "15:30"
       }
     ]
-  },
-  "CLE-10603-LAB": {
-    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-    "clave": "CLE-10603",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-        "profesor": "MARCELA RABADAN GALLARDO",
-        "creditos": "0",
-        "horario": "14:30-16:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "RHCUBIC",
-        "campus": "RIO HONDO",
-        "inicio": "14:30",
-        "fin": "16:00"
-      }
-    ]
-  },
-  "CLE-10603": {
-    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM",
-    "clave": "CLE-10603",
-    "grupos": []
   },
   "COM-11102-LAB": {
     "nombre": "COM-11102-ESTRUCTURAS DE DATOS-LAB",
@@ -5705,7 +5701,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH205",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -11333,6 +11329,22 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
+      },
+      {
+        "grupo": "023",
+        "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "11:00-12:00",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "RH205",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "12:00"
       }
     ]
   },
@@ -12978,7 +12990,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB",
-        "profesor": "THOMAS MARTIN RUDOLF",
+        "profesor": "",
         "creditos": "9",
         "horario": "08:00-11:00",
         "dias": [
@@ -12992,7 +13004,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB",
-        "profesor": "THOMAS MARTIN RUDOLF",
+        "profesor": "ANDRES JOSE RODRIGUEZ TORRES",
         "creditos": "9",
         "horario": "11:00-14:00",
         "dias": [
@@ -13087,7 +13099,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "IIO-12182-AUTOMAT. Y ROBOTICA INDUSTRIAL-LAB",
-        "profesor": "THOMAS MARTIN RUDOLF",
+        "profesor": "ANDRES JOSE RODRIGUEZ TORRES",
         "creditos": "8",
         "horario": "11:00-13:00",
         "dias": [
@@ -13275,7 +13287,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS",
-        "profesor": "GUILLERMO ABDEL MUSIK ASALI",
+        "profesor": "GRACIELA BARCENAS PEREZ",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -14913,14 +14925,14 @@ let clases={
         "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
         "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
         "creditos": "2",
-        "horario": "10:00-11:00",
+        "horario": "13:00-14:00",
         "dias": [
           "LU"
         ],
-        "salon": "RH112",
+        "salon": "RH306",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:00"
+        "inicio": "13:00",
+        "fin": "14:00"
       },
       {
         "grupo": "002",
@@ -14955,14 +14967,14 @@ let clases={
         "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
         "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
         "creditos": "2",
-        "horario": "10:00-11:00",
+        "horario": "13:00-14:00",
         "dias": [
           "MI"
         ],
-        "salon": "RH314",
+        "salon": "RH306",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:00"
+        "inicio": "13:00",
+        "fin": "14:00"
       },
       {
         "grupo": "005",
@@ -15049,7 +15061,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -15701,14 +15713,14 @@ let clases={
         "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
         "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
         "creditos": "2",
-        "horario": "10:00-11:00",
+        "horario": "13:00-14:00",
         "dias": [
           "LU"
         ],
-        "salon": "RH112",
+        "salon": "RH306",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:00"
+        "inicio": "13:00",
+        "fin": "14:00"
       },
       {
         "grupo": "002",
@@ -15743,14 +15755,14 @@ let clases={
         "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
         "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
         "creditos": "2",
-        "horario": "10:00-11:00",
+        "horario": "13:00-14:00",
         "dias": [
           "MI"
         ],
-        "salon": "RH314",
+        "salon": "RH306",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:00"
+        "inicio": "13:00",
+        "fin": "14:00"
       },
       {
         "grupo": "005",
@@ -15857,7 +15869,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -17848,13 +17860,13 @@ let clases={
         "nombre": "MAT-24500-INVESTIGACION DE OPER.,I",
         "profesor": "EDGAR POSSANI ESPINOSA",
         "creditos": "6",
-        "horario": "18:00-20:00",
+        "horario": "18:30-20:00",
         "dias": [
           "LU"
         ],
         "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
+        "inicio": "18:30",
         "fin": "20:00"
       }
     ]
@@ -18728,15 +18740,20 @@ let misProfesData={
     "general": 8.75,
     "n": 12
   },
-  "FRANCISCO PEREZ GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Perez-Gonzalez_78818",
-    "general": 7.1053,
-    "n": 19
+  "VICTOR HUGO LUQUE SALCEDO": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Luque-Salcedo_74892",
+    "general": 8.0,
+    "n": 4
   },
   "JULIO SERRANO ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Julio-Serrano-Espinosa_139791",
     "general": 9.0,
     "n": 2
+  },
+  "LUIS ARIAS OSOYO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Arias-Osoyo_130021",
+    "general": 9.0,
+    "n": 1
   },
   "MARIA CRUZ MERINO SANZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cruz-Merino-Sanz_10744",
@@ -18762,11 +18779,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Toufik-Chaibat_90020",
     "general": 9.4615,
     "n": 13
-  },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
@@ -18889,9 +18901,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -19740,8 +19752,8 @@ let misProfesData={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 6.2353,
-    "n": 17
+    "general": 6.4444,
+    "n": 18
   },
   "ALEJANDRO ISLAS CAMARGO": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Islas-Camargo_10684",
@@ -19887,6 +19899,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/PAULINA-MORALES-LOPEZ-SANTIBA\u00d1EZ_99563",
     "general": 8.0,
     "n": 10
+  },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez_10829",

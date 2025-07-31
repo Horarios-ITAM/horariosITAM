@@ -1,4 +1,4 @@
-let actualizado="1753895290605.0217";
+let actualizado="1753973487714.5596";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -481,6 +481,23 @@ let profesores={
           "fin": "10:00"
         }
       ],
+      "ADM-12022-ESTRATEGIA GLOBAL": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
       "ADM-15582-FINZS. CORPORA. AVANZADAS": [
         {
           "grupo": "007",
@@ -495,37 +512,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        },
-        {
-          "grupo": "009",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ],
-      "ADM-15599-INSTITUCIONES FINANCIERAS (OP)": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15599-INSTITUCIONES FINANCIERAS (OP)",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
         }
       ],
       "ADM-15630-FINANCIAMIENTO DE PROYECTOS": [
@@ -957,6 +943,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
+        },
+        {
+          "grupo": "023",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "11:00-12:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
         }
       ],
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
@@ -1088,6 +1090,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
+        }
+      ],
+      "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "08:00-11:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
         }
       ],
       "IIO-15170-DISE\u00d1O ASISTIDO POR COMPUTAD.": [
@@ -1407,7 +1425,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH314",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -2057,7 +2075,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-4",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -2784,16 +2802,16 @@ let profesores={
       ]
     }
   },
-  "FRANCISCO PEREZ GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Perez-Gonzalez_78818",
-    "general": 7.1053,
-    "n": 19,
+  "VICTOR HUGO LUQUE SALCEDO": {
+    "link": "https://www.misprofesores.com/profesores/Victor-Hugo-Luque-Salcedo_74892",
+    "general": 8.0,
+    "n": 4,
     "grupos": {
       "ADM-15560-INTRO A FINA E INTERMED FINANC": [
         {
           "grupo": "001",
           "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-          "profesor": "FRANCISCO PEREZ GONZALEZ",
+          "profesor": "VICTOR HUGO LUQUE SALCEDO",
           "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
@@ -2808,7 +2826,7 @@ let profesores={
         {
           "grupo": "002",
           "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-          "profesor": "FRANCISCO PEREZ GONZALEZ",
+          "profesor": "VICTOR HUGO LUQUE SALCEDO",
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
@@ -2916,6 +2934,46 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "LUIS ARIAS OSOYO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Arias-Osoyo_130021",
+    "general": 9.0,
+    "n": 1,
+    "grupos": {
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "009",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "LUIS ARIAS OSOYO",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ADM-15599-INSTITUCIONES FINANCIERAS (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15599-INSTITUCIONES FINANCIERAS (OP)",
+          "profesor": "LUIS ARIAS OSOYO",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -3243,106 +3301,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "14:00",
           "fin": "15:30"
-        }
-      ]
-    }
-  },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19,
-    "grupos": {
-      "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "0",
-          "horario": "14:30-16:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "14:30",
-          "fin": "16:00"
-        }
-      ],
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "004",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "005",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "005",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -4855,9 +4813,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -6352,7 +6310,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH205",
+          "salon": "RH112",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -13371,8 +13329,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 6.2353,
-    "n": 17,
+    "general": 6.4444,
+    "n": 18,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14025,27 +13983,13 @@ let profesores={
       ]
     }
   },
-  "THOMAS MARTIN RUDOLF": {
+  "ANDRES JOSE RODRIGUEZ TORRES": {
     "grupos": {
       "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB": [
         {
-          "grupo": "001L",
-          "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB",
-          "profesor": "THOMAS MARTIN RUDOLF",
-          "creditos": "9",
-          "horario": "08:00-11:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLMINT",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
-        },
-        {
           "grupo": "002L",
           "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB",
-          "profesor": "THOMAS MARTIN RUDOLF",
+          "profesor": "ANDRES JOSE RODRIGUEZ TORRES",
           "creditos": "9",
           "horario": "11:00-14:00",
           "dias": [
@@ -14057,6 +14001,26 @@ let profesores={
           "fin": "14:00"
         }
       ],
+      "IIO-12182-AUTOMAT. Y ROBOTICA INDUSTRIAL-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "IIO-12182-AUTOMAT. Y ROBOTICA INDUSTRIAL-LAB",
+          "profesor": "ANDRES JOSE RODRIGUEZ TORRES",
+          "creditos": "8",
+          "horario": "11:00-13:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "THOMAS MARTIN RUDOLF": {
+    "grupos": {
       "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS": [
         {
           "grupo": "001",
@@ -14084,22 +14048,6 @@ let profesores={
           "salon": "RHPACE",
           "campus": "RIO HONDO",
           "inicio": "10:00",
-          "fin": "13:00"
-        }
-      ],
-      "IIO-12182-AUTOMAT. Y ROBOTICA INDUSTRIAL-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "IIO-12182-AUTOMAT. Y ROBOTICA INDUSTRIAL-LAB",
-          "profesor": "THOMAS MARTIN RUDOLF",
-          "creditos": "8",
-          "horario": "11:00-13:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHLMINT",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
           "fin": "13:00"
         }
       ],
@@ -14431,16 +14379,13 @@ let profesores={
       ]
     }
   },
-  "GUILLERMO ABDEL MUSIK ASALI": {
-    "link": "https://www.misprofesores.com/profesores/Asali-Guillermo-Abdel-Musik_10866",
-    "general": 7.2632,
-    "n": 19,
+  "GRACIELA BARCENAS PEREZ": {
     "grupos": {
       "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS": [
         {
           "grupo": "001",
           "nombre": "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS",
-          "profesor": "GUILLERMO ABDEL MUSIK ASALI",
+          "profesor": "GRACIELA BARCENAS PEREZ",
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
@@ -14451,7 +14396,16 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        },
+        }
+      ]
+    }
+  },
+  "GUILLERMO ABDEL MUSIK ASALI": {
+    "link": "https://www.misprofesores.com/profesores/Asali-Guillermo-Abdel-Musik_10866",
+    "general": 7.2632,
+    "n": 19,
+    "grupos": {
+      "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS": [
         {
           "grupo": "002",
           "nombre": "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS",
@@ -15608,6 +15562,90 @@ let profesores={
       ]
     }
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19,
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "004",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH111",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH111",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "SERGIO JAVIER LUIS ALCAZAR": {
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
@@ -16078,14 +16116,14 @@ let profesores={
           "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
           "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
           "creditos": "2",
-          "horario": "10:00-11:00",
+          "horario": "13:00-14:00",
           "dias": [
             "LU"
           ],
-          "salon": "RH112",
+          "salon": "RH306",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
+          "inicio": "13:00",
+          "fin": "14:00"
         },
         {
           "grupo": "003",
@@ -16106,14 +16144,14 @@ let profesores={
           "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
           "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
           "creditos": "2",
-          "horario": "10:00-11:00",
+          "horario": "13:00-14:00",
           "dias": [
             "MI"
           ],
-          "salon": "RH314",
+          "salon": "RH306",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
+          "inicio": "13:00",
+          "fin": "14:00"
         }
       ],
       "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
@@ -16122,14 +16160,14 @@ let profesores={
           "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
           "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
           "creditos": "2",
-          "horario": "10:00-11:00",
+          "horario": "13:00-14:00",
           "dias": [
             "LU"
           ],
-          "salon": "RH112",
+          "salon": "RH306",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
+          "inicio": "13:00",
+          "fin": "14:00"
         },
         {
           "grupo": "003",
@@ -16150,14 +16188,14 @@ let profesores={
           "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
           "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
           "creditos": "2",
-          "horario": "10:00-11:00",
+          "horario": "13:00-14:00",
           "dias": [
             "MI"
           ],
-          "salon": "RH314",
+          "salon": "RH306",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
+          "inicio": "13:00",
+          "fin": "14:00"
         }
       ]
     }
@@ -16419,7 +16457,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH112",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -16449,7 +16487,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH112",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -18411,13 +18449,13 @@ let profesores={
           "nombre": "MAT-24500-INVESTIGACION DE OPER.,I",
           "profesor": "EDGAR POSSANI ESPINOSA",
           "creditos": "6",
-          "horario": "18:00-20:00",
+          "horario": "18:30-20:00",
           "dias": [
             "LU"
           ],
           "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
+          "inicio": "18:30",
           "fin": "20:00"
         }
       ]
@@ -19711,18 +19749,17 @@ let mejoresPorDepto={
     "ADRIAN RUBLI ORNELAS",
     "JOSE JAVIER MEDRANO PEREZ",
     "JULIO SERRANO ESPINOSA",
+    "LUIS ARIAS OSOYO",
     "JANKO HERNANDEZ CORTES",
     "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
     "ALEXANDROS FAKOS",
-    "JUAN JOSE FERNANDEZ DURAN",
-    "CLAUDIA NOEMI GONZALEZ BRAMBILA"
+    "JUAN JOSE FERNANDEZ DURAN"
   ],
   "CTRO DE ESTUDIO DEL BIENESTAR": [
     "MARGARITA TARRAGONA SAEZ"
   ],
   "LENGUAS (CLE)": [
     "MARIA GRACE  NOBILE",
-    "MARCELA RABADAN GALLARDO",
     "TOUFIK CHAIBAT",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "NORMA ARACELY AVILA MIRANDA"
@@ -19840,12 +19877,12 @@ let mejoresPorDepto={
     "EDUARDO PORTAS RUIZ",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
+    "MARCELA RABADAN GALLARDO",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
     "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "ISRAEL ALVAREZ MACIAS",
-    "GABRIEL ASTEY WOOD"
+    "ISRAEL ALVAREZ MACIAS"
   ],
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",
