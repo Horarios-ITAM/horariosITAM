@@ -1,4 +1,4 @@
-let actualizado="1753973487700.3008";
+let actualizado="1754059847381.6675";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -2546,6 +2546,31 @@ let clases={
         "fin": "15:30"
       }
     ]
+  },
+  "CLE-10603-LAB": {
+    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+    "clave": "CLE-10603",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+        "profesor": "MARCELA RABADAN GALLARDO",
+        "creditos": "0",
+        "horario": "14:30-16:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "14:30",
+        "fin": "16:00"
+      }
+    ]
+  },
+  "CLE-10603": {
+    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM",
+    "clave": "CLE-10603",
+    "grupos": []
   },
   "COM-11102-LAB": {
     "nombre": "COM-11102-ESTRUCTURAS DE DATOS-LAB",
@@ -17130,7 +17155,7 @@ let clases={
       {
         "grupo": "011",
         "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
-        "profesor": "",
+        "profesor": "JUAN SALVADOR GARZA LEDESMA",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -17241,7 +17266,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-        "profesor": "",
+        "profesor": "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -17256,7 +17281,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-        "profesor": "",
+        "profesor": "JORGE MONROY JIMENEZ",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -18780,6 +18805,11 @@ let misProfesData={
     "general": 9.4615,
     "n": 13
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19
+  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.2826,
@@ -18901,9 +18931,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -19431,9 +19461,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -19881,9 +19911,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3571,
-    "n": 14
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19899,11 +19929,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/PAULINA-MORALES-LOPEZ-SANTIBA\u00d1EZ_99563",
     "general": 8.0,
     "n": 10
-  },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez_10829",
@@ -20017,8 +20042,8 @@ let misProfesData={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.184,
-    "n": 125
+    "general": 8.1984,
+    "n": 126
   },
   "ERNESTO PEREZ CHAVELA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-P\u00e9rez-Chavela_74856",
@@ -20137,8 +20162,8 @@ let misProfesData={
   },
   "JOSE PABLO OLIVARES PRETELIN": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pablo-Olivares-Pretelin_78777",
-    "general": 8.5714,
-    "n": 7
+    "general": 8.75,
+    "n": 8
   },
   "MIGUEL ANGEL MOTA GAYTAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
@@ -20150,6 +20175,11 @@ let misProfesData={
     "general": 8.8427,
     "n": 89
   },
+  "JUAN SALVADOR GARZA LEDESMA": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
+    "general": 9.25,
+    "n": 4
+  },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
     "general": 7.6316,
@@ -20160,10 +20190,10 @@ let misProfesData={
     "general": 8.8571,
     "n": 7
   },
-  "JUAN SALVADOR GARZA LEDESMA": {
-    "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.25,
-    "n": 4
+  "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
+    "general": 7.0,
+    "n": 8
   },
   "ANDREAS WACHTEL": {
     "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",

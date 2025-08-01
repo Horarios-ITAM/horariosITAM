@@ -1,4 +1,4 @@
-let actualizado="1753973487714.5596";
+let actualizado="1754059847395.4055";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -1170,55 +1170,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
-        }
-      ],
-      "MAT-14250-GEOMETRIA VECTORIAL": [
-        {
-          "grupo": "011",
-          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHPB3",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "MAT-14280-PENSAMIENTO MATEMATICO": [
-        {
-          "grupo": "007",
-          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-1",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        },
-        {
-          "grupo": "008",
-          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -3305,6 +3256,106 @@ let profesores={
       ]
     }
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19,
+    "grupos": {
+      "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "0",
+          "horario": "14:30-16:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "14:30",
+          "fin": "16:00"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "004",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH111",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ],
+      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH111",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.2826,
@@ -4813,9 +4864,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -10659,9 +10710,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -15122,9 +15173,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3571,
-    "n": 14,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -15558,90 +15609,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19,
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "004",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "005",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "005",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -17306,8 +17273,8 @@ let profesores={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.184,
-    "n": 125,
+    "general": 8.1984,
+    "n": 126,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -18748,8 +18715,8 @@ let profesores={
   },
   "JOSE PABLO OLIVARES PRETELIN": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pablo-Olivares-Pretelin_78777",
-    "general": 8.5714,
-    "n": 7,
+    "general": 8.75,
+    "n": 8,
     "grupos": {
       "MAT-14200-GEOMETR. ANALIT. (GEOM ANAL I)": [
         {
@@ -18886,6 +18853,94 @@ let profesores={
       ]
     }
   },
+  "JUAN SALVADOR GARZA LEDESMA": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
+    "general": 9.25,
+    "n": 4,
+    "grupos": {
+      "MAT-14250-GEOMETRIA VECTORIAL": [
+        {
+          "grupo": "011",
+          "nombre": "MAT-14250-GEOMETRIA VECTORIAL",
+          "profesor": "JUAN SALVADOR GARZA LEDESMA",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHPB3",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "MAT-14280-PENSAMIENTO MATEMATICO": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
+          "profesor": "JUAN SALVADOR GARZA LEDESMA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        },
+        {
+          "grupo": "006",
+          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
+          "profesor": "JUAN SALVADOR GARZA LEDESMA",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ],
+      "MAT-14300-ALGEBRA SUPERIOR, I": [
+        {
+          "grupo": "004",
+          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
+          "profesor": "JUAN SALVADOR GARZA LEDESMA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        },
+        {
+          "grupo": "006",
+          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
+          "profesor": "JUAN SALVADOR GARZA LEDESMA",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ]
+    }
+  },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
     "general": 7.6316,
@@ -18906,6 +18961,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        },
+        {
+          "grupo": "008",
+          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
+          "profesor": "JORGE MONROY JIMENEZ",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH213",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ],
       "MAT-14281-MATEMATICAS DISCRETAS": [
@@ -19002,73 +19072,26 @@ let profesores={
       ]
     }
   },
-  "JUAN SALVADOR GARZA LEDESMA": {
-    "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.25,
-    "n": 4,
+  "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
+    "general": 7.0,
+    "n": 8,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
-          "grupo": "004",
+          "grupo": "007",
           "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-          "profesor": "JUAN SALVADOR GARZA LEDESMA",
+          "profesor": "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
           "creditos": "6",
-          "horario": "16:00-17:30",
+          "horario": "07:00-08:30",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH313",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        },
-        {
-          "grupo": "006",
-          "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-          "profesor": "JUAN SALVADOR GARZA LEDESMA",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH316",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ],
-      "MAT-14300-ALGEBRA SUPERIOR, I": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-          "profesor": "JUAN SALVADOR GARZA LEDESMA",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        },
-        {
-          "grupo": "006",
-          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-          "profesor": "JUAN SALVADOR GARZA LEDESMA",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH316",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -19760,6 +19783,7 @@ let mejoresPorDepto={
   ],
   "LENGUAS (CLE)": [
     "MARIA GRACE  NOBILE",
+    "MARCELA RABADAN GALLARDO",
     "TOUFIK CHAIBAT",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "NORMA ARACELY AVILA MIRANDA"
@@ -19873,16 +19897,16 @@ let mejoresPorDepto={
     "MARIA CRISTINA GIGOLA PAGLIALUNGA"
   ],
   "LENGUAS (LEN)": [
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "EDUARDO PORTAS RUIZ",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
-    "MARCELA RABADAN GALLARDO",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "ISRAEL ALVAREZ MACIAS"
+    "ISRAEL ALVAREZ MACIAS",
+    "GABRIEL ASTEY WOOD"
   ],
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",
@@ -19890,8 +19914,8 @@ let mejoresPorDepto={
     "JORGE ALCALDE MARTIN DEL CAMPO",
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "CONCEPCION RUIZ RUIZ FUNES",
-    "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "JOSE PABLO OLIVARES PRETELIN",
+    "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "SHARON MAGALI VALVERDE ESPARZA",
     "IRMA BEATRIZ RUMBOS PELLICER",
     "LEOBARDO FERNANDEZ ROMAN"
