@@ -1,4 +1,4 @@
-let actualizado="1754059847381.6675";
+let actualizado="1754145977112.447";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -380,7 +380,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG",
-        "profesor": "",
+        "profesor": "SUSANA MAIRENI ESPINOSA DE LOS REYES KEOSSEYIAN",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -1844,7 +1844,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "",
+        "profesor": "PABLO GARCIA AGUILAR",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -1990,7 +1990,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15630-FINANCIAMIENTO DE PROYECTOS",
-        "profesor": "",
+        "profesor": "PABLO GARCIA AGUILAR",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -6156,16 +6156,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "MARIANA AGUILAR AGUILAR",
+        "profesor": "ALEJANDRO  RODILES BRETON",
         "creditos": "9",
-        "horario": "10:00-11:30",
+        "horario": "07:00-10:00",
         "dias": [
-          "JU"
+          "VI"
         ],
-        "salon": "RH304",
+        "salon": "PF106",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -6478,30 +6478,30 @@ let clases={
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "10",
-        "horario": "17:30-19:30",
+        "horario": "16:00-18:00",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RH104",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:30"
+        "inicio": "16:00",
+        "fin": "18:00"
       },
       {
         "grupo": "002",
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "10",
-        "horario": "17:30-19:30",
+        "horario": "16:00-18:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH212",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:30"
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -6542,14 +6542,14 @@ let clases={
         "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
         "profesor": "",
         "creditos": "2",
-        "horario": "19:00-21:00",
+        "horario": "12:00-14:00",
         "dias": [
-          "MI"
+          "VI"
         ],
-        "salon": "RH316",
+        "salon": "RH305",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "21:00"
+        "inicio": "12:00",
+        "fin": "14:00"
       }
     ]
   },
@@ -6962,16 +6962,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-        "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+        "profesor": "JUAN JESUS GARZA ONOFRE",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RH209",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -7048,14 +7049,14 @@ let clases={
         "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
         "profesor": "",
         "creditos": "4",
-        "horario": "19:00-21:00",
+        "horario": "12:00-14:00",
         "dias": [
-          "MI"
+          "VI"
         ],
-        "salon": "RH316",
+        "salon": "RH305",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "21:00"
+        "inicio": "12:00",
+        "fin": "14:00"
       }
     ]
   },
@@ -7068,30 +7069,30 @@ let clases={
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "16:00-17:30",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RH104",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       },
       {
         "grupo": "002",
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH212",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -7939,16 +7940,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-        "profesor": "JULIO ANTONIO RIOS FIGUEROA",
+        "profesor": "RODRIGO CAMARENA GONZALEZ",
         "creditos": "9",
-        "horario": "18:00-19:30",
+        "horario": "10:00-11:30",
         "dias": [
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH306",
+        "salon": "RH104",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:30"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -9711,12 +9713,11 @@ let clases={
       {
         "grupo": "004",
         "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
-        "profesor": "VALERIA MOY CAMPOS",
+        "profesor": "",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
         "salon": "RH105",
         "campus": "RIO HONDO",
@@ -9807,12 +9808,11 @@ let clases={
       {
         "grupo": "004",
         "nombre": "ECO-12102-ECONOMIA, II",
-        "profesor": "VALERIA MOY CAMPOS",
+        "profesor": "",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
         "salon": "RH105",
         "campus": "RIO HONDO",
@@ -18775,6 +18775,11 @@ let misProfesData={
     "general": 9.0,
     "n": 2
   },
+  "PABLO GARCIA AGUILAR": {
+    "link": "https://www.misprofesores.com/profesores/Pablo-Garc\u00eda-Aguilar_94287",
+    "general": 7.6,
+    "n": 5
+  },
   "LUIS ARIAS OSOYO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Arias-Osoyo_130021",
     "general": 9.0,
@@ -18931,9 +18936,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -19220,11 +19225,6 @@ let misProfesData={
     "general": 8.3333,
     "n": 3
   },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31
-  },
   "LUIS REY RAIGOSA SOTELO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Rey-Raigosa-Sotelo_10783",
     "general": 7.7143,
@@ -19234,6 +19234,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/german-sucar_23220",
     "general": 6.6429,
     "n": 70
+  },
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31
   },
   "RAYMUNDO GAMA LEYVA": {
     "link": "https://www.misprofesores.com/profesores/Raymundo-Gama_80671",
@@ -19461,9 +19466,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -19484,11 +19489,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Romans-Pancs_104518",
     "general": 4.8889,
     "n": 9
-  },
-  "VALERIA MOY CAMPOS": {
-    "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
-    "general": 7.8523,
-    "n": 149
   },
   "ERNESTO BLANCAS BARRAGAN": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
@@ -19911,9 +19911,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19946,9 +19946,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
@@ -20117,8 +20117,8 @@ let misProfesData={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.4138,
-    "n": 29
+    "general": 7.3,
+    "n": 30
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",
@@ -20182,8 +20182,8 @@ let misProfesData={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.6316,
-    "n": 38
+    "general": 7.6154,
+    "n": 39
   },
   "JORGE ALCALDE MARTIN DEL CAMPO": {
     "link": "https://www.misprofesores.com/profesores/JORGE-ALCALDE-MARTIN-DEL-CAMPO_81055",

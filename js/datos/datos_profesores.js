@@ -1,4 +1,4 @@
-let actualizado="1754059847395.4055";
+let actualizado="1754145977126.5076";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -463,13 +463,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "SUSANA MAIRENI ESPINOSA DE LOS REYES KEOSSEYIAN": {
     "grupos": {
       "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG": [
         {
           "grupo": "001",
           "nombre": "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG",
-          "profesor": "",
+          "profesor": "SUSANA MAIRENI ESPINOSA DE LOS REYES KEOSSEYIAN",
           "creditos": "6",
           "horario": "07:00-10:00",
           "dias": [
@@ -480,7 +480,255 @@ let profesores={
           "inicio": "07:00",
           "fin": "10:00"
         }
+      ]
+    }
+  },
+  "JOHN BRADFORD MCBRIDE PITTS": {
+    "link": "https://www.misprofesores.com/profesores/John-Bradford-McBride-Pitts_10734",
+    "general": 7.7742,
+    "n": 31,
+    "grupos": {
+      "ADM-11013-ADMON. INTERNACIONAL": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11013-ADMON. INTERNACIONAL",
+          "profesor": "JOHN BRADFORD MCBRIDE PITTS",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-11013-ADMON. INTERNACIONAL",
+          "profesor": "JOHN BRADFORD MCBRIDE PITTS",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHPB3",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "CARLOS ARTURO SERNA GARCINI": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
+    "general": 4.9474,
+    "n": 285,
+    "grupos": {
+      "ADM-11017-METODOS DE PRONOSTICO": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11017-METODOS DE PRONOSTICO",
+          "profesor": "CARLOS ARTURO SERNA GARCINI",
+          "creditos": "7",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH108",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
       ],
+      "ADM-11101-PRONOSTICOS DE NEGOCIOS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
+          "profesor": "CARLOS ARTURO SERNA GARCINI",
+          "creditos": "7",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH108",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL",
+          "profesor": "CARLOS ARTURO SERNA GARCINI",
+          "creditos": "6",
+          "horario": "07:30-09:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "07:30",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "KRZYSZTOF ZAREMBA": {
+    "link": "https://www.misprofesores.com/profesores/Krzystof-Zaremba_171808",
+    "general": 5.0,
+    "n": 5,
+    "grupos": {
+      "ADM-11017-METODOS DE PRONOSTICO": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-11017-METODOS DE PRONOSTICO",
+          "profesor": "KRZYSZTOF ZAREMBA",
+          "creditos": "7",
+          "horario": "08:00-11:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:30"
+        }
+      ],
+      "ADM-11101-PRONOSTICOS DE NEGOCIOS": [
+        {
+          "grupo": "002",
+          "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
+          "profesor": "KRZYSZTOF ZAREMBA",
+          "creditos": "7",
+          "horario": "08:00-11:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "JOSE LUIS RIVAS PEREZ": {
+    "grupos": {
+      "ADM-11018-SEMINARIO DE DIRECCION": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
+          "profesor": "JOSE LUIS RIVAS PEREZ",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "JOSE JAVIER MEDRANO PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
+    "general": 9.0,
+    "n": 4,
+    "grupos": {
+      "ADM-11120-TRAYECT. EN ADM: PROPOS Y PROG": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-11120-TRAYECT. EN ADM: PROPOS Y PROG",
+          "profesor": "JOSE JAVIER MEDRANO PEREZ",
+          "creditos": "2",
+          "horario": "13:00-14:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
+      ],
+      "ADM-12311-TRAYECTORIAS EN NEG. I": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-12311-TRAYECTORIAS EN NEG. I",
+          "profesor": "JOSE JAVIER MEDRANO PEREZ",
+          "creditos": "2",
+          "horario": "13:00-14:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH109",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
+      ],
+      "ADM-13125-NEGOCIOS, EMPRENDIM Y SOCIEDAD": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-13125-NEGOCIOS, EMPRENDIM Y SOCIEDAD",
+          "profesor": "JOSE JAVIER MEDRANO PEREZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ADM-16601-MERCADOTECNIA, I": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-16601-MERCADOTECNIA, I",
+          "profesor": "JOSE JAVIER MEDRANO PEREZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH212",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ADM-16731-FUNDAMENTOS DE MERCADOTECNIA": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-16731-FUNDAMENTOS DE MERCADOTECNIA",
+          "profesor": "JOSE JAVIER MEDRANO PEREZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH212",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
       "ADM-12022-ESTRATEGIA GLOBAL": [
         {
           "grupo": "001",
@@ -496,38 +744,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
-        }
-      ],
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "007",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "ADM-15630-FINANCIAMIENTO DE PROYECTOS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15630-FINANCIAMIENTO DE PROYECTOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "CLE-10201-INGLES INTENSIVO-LAB": [
@@ -718,14 +934,14 @@ let profesores={
           "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
           "profesor": "",
           "creditos": "2",
-          "horario": "19:00-21:00",
+          "horario": "12:00-14:00",
           "dias": [
-            "MI"
+            "VI"
           ],
-          "salon": "RH316",
+          "salon": "RH305",
           "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
+          "inicio": "12:00",
+          "fin": "14:00"
         }
       ],
       "DER-11114-HABILIDADES JURID. GLOBALES II-LAB": [
@@ -783,14 +999,14 @@ let profesores={
           "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
           "profesor": "",
           "creditos": "4",
-          "horario": "19:00-21:00",
+          "horario": "12:00-14:00",
           "dias": [
-            "MI"
+            "VI"
           ],
-          "salon": "RH316",
+          "salon": "RH305",
           "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
+          "inicio": "12:00",
+          "fin": "14:00"
         }
       ],
       "DER-11907-TECNICAS DE ARGUM. JURID.": [
@@ -825,6 +1041,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
+        }
+      ],
+      "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ],
       "ECO-21104-ECONOMIA IV": [
@@ -1170,250 +1418,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "JOHN BRADFORD MCBRIDE PITTS": {
-    "link": "https://www.misprofesores.com/profesores/John-Bradford-McBride-Pitts_10734",
-    "general": 7.7742,
-    "n": 31,
-    "grupos": {
-      "ADM-11013-ADMON. INTERNACIONAL": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-11013-ADMON. INTERNACIONAL",
-          "profesor": "JOHN BRADFORD MCBRIDE PITTS",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ADM-11013-ADMON. INTERNACIONAL",
-          "profesor": "JOHN BRADFORD MCBRIDE PITTS",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHPB3",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "CARLOS ARTURO SERNA GARCINI": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9474,
-    "n": 285,
-    "grupos": {
-      "ADM-11017-METODOS DE PRONOSTICO": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-11017-METODOS DE PRONOSTICO",
-          "profesor": "CARLOS ARTURO SERNA GARCINI",
-          "creditos": "7",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH108",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "ADM-11101-PRONOSTICOS DE NEGOCIOS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
-          "profesor": "CARLOS ARTURO SERNA GARCINI",
-          "creditos": "7",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH108",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL",
-          "profesor": "CARLOS ARTURO SERNA GARCINI",
-          "creditos": "6",
-          "horario": "07:30-09:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "07:30",
-          "fin": "09:00"
-        }
-      ]
-    }
-  },
-  "KRZYSZTOF ZAREMBA": {
-    "link": "https://www.misprofesores.com/profesores/Krzystof-Zaremba_171808",
-    "general": 5.0,
-    "n": 5,
-    "grupos": {
-      "ADM-11017-METODOS DE PRONOSTICO": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-11017-METODOS DE PRONOSTICO",
-          "profesor": "KRZYSZTOF ZAREMBA",
-          "creditos": "7",
-          "horario": "08:00-11:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:30"
-        }
-      ],
-      "ADM-11101-PRONOSTICOS DE NEGOCIOS": [
-        {
-          "grupo": "002",
-          "nombre": "ADM-11101-PRONOSTICOS DE NEGOCIOS",
-          "profesor": "KRZYSZTOF ZAREMBA",
-          "creditos": "7",
-          "horario": "08:00-11:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHSA2",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:30"
-        }
-      ]
-    }
-  },
-  "JOSE LUIS RIVAS PEREZ": {
-    "grupos": {
-      "ADM-11018-SEMINARIO DE DIRECCION": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-11018-SEMINARIO DE DIRECCION",
-          "profesor": "JOSE LUIS RIVAS PEREZ",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ]
-    }
-  },
-  "JOSE JAVIER MEDRANO PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
-    "general": 9.0,
-    "n": 4,
-    "grupos": {
-      "ADM-11120-TRAYECT. EN ADM: PROPOS Y PROG": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-11120-TRAYECT. EN ADM: PROPOS Y PROG",
-          "profesor": "JOSE JAVIER MEDRANO PEREZ",
-          "creditos": "2",
-          "horario": "13:00-14:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        }
-      ],
-      "ADM-12311-TRAYECTORIAS EN NEG. I": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-12311-TRAYECTORIAS EN NEG. I",
-          "profesor": "JOSE JAVIER MEDRANO PEREZ",
-          "creditos": "2",
-          "horario": "13:00-14:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH109",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        }
-      ],
-      "ADM-13125-NEGOCIOS, EMPRENDIM Y SOCIEDAD": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-13125-NEGOCIOS, EMPRENDIM Y SOCIEDAD",
-          "profesor": "JOSE JAVIER MEDRANO PEREZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ADM-16601-MERCADOTECNIA, I": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16601-MERCADOTECNIA, I",
-          "profesor": "JOSE JAVIER MEDRANO PEREZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH212",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ADM-16731-FUNDAMENTOS DE MERCADOTECNIA": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16731-FUNDAMENTOS DE MERCADOTECNIA",
-          "profesor": "JOSE JAVIER MEDRANO PEREZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH212",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -2849,6 +2853,45 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "PABLO GARCIA AGUILAR": {
+    "link": "https://www.misprofesores.com/profesores/Pablo-Garc\u00eda-Aguilar_94287",
+    "general": 7.6,
+    "n": 5,
+    "grupos": {
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "007",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "PABLO GARCIA AGUILAR",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "ADM-15630-FINANCIAMIENTO DE PROYECTOS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15630-FINANCIAMIENTO DE PROYECTOS",
+          "profesor": "PABLO GARCIA AGUILAR",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -4864,9 +4907,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -7109,22 +7152,6 @@ let profesores={
           "inicio": "07:00",
           "fin": "10:00"
         }
-      ],
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "MARIANA AGUILAR AGUILAR",
-          "creditos": "9",
-          "horario": "10:00-11:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH304",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
       ]
     }
   },
@@ -7257,6 +7284,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "ALEJANDRO  RODILES BRETON",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "PF106",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ],
       "DER-18600-DERECHO INTERNACIONAL I": [
@@ -7741,6 +7784,23 @@ let profesores={
           "inicio": "11:30",
           "fin": "13:00"
         }
+      ],
+      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
+          "profesor": "RODRIGO CAMARENA GONZALEZ",
+          "creditos": "9",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
       ]
     }
   },
@@ -7775,30 +7835,30 @@ let profesores={
           "nombre": "DER-11101-TEORIA DEL DERECHO, I",
           "profesor": "PABLO ARIEL RAPETTI",
           "creditos": "10",
-          "horario": "17:30-19:30",
+          "horario": "16:00-18:00",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH104",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
+          "inicio": "16:00",
+          "fin": "18:00"
         },
         {
           "grupo": "002",
           "nombre": "DER-11101-TEORIA DEL DERECHO, I",
           "profesor": "PABLO ARIEL RAPETTI",
           "creditos": "10",
-          "horario": "17:30-19:30",
+          "horario": "16:00-18:00",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH212",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ],
       "DER-11122-TEOR\u00cdA DEL DERECHO I": [
@@ -7807,30 +7867,30 @@ let profesores={
           "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
           "profesor": "PABLO ARIEL RAPETTI",
           "creditos": "9",
-          "horario": "17:30-19:00",
+          "horario": "16:00-17:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH104",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
+          "inicio": "16:00",
+          "fin": "17:30"
         },
         {
           "grupo": "002",
           "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
           "profesor": "PABLO ARIEL RAPETTI",
           "creditos": "9",
-          "horario": "17:30-19:00",
+          "horario": "16:00-17:30",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH212",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -8414,33 +8474,14 @@ let profesores={
       ]
     }
   },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31,
+  "JUAN JESUS GARZA ONOFRE": {
     "grupos": {
       "DER-11119-FILOSOFIA DEL DERECHO": [
         {
           "grupo": "001",
           "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+          "profesor": "JUAN JESUS GARZA ONOFRE",
           "creditos": "9",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHB-2",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "DER-11805-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
-          "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
             "MA",
@@ -8515,6 +8556,30 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31,
+    "grupos": {
+      "DER-11805-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -9137,22 +9202,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
-        }
-      ],
-      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-          "profesor": "JULIO ANTONIO RIOS FIGUEROA",
-          "creditos": "9",
-          "horario": "18:00-19:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH306",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:30"
         }
       ]
     }
@@ -10710,9 +10759,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -10920,47 +10969,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        }
-      ]
-    }
-  },
-  "VALERIA MOY CAMPOS": {
-    "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
-    "general": 7.8523,
-    "n": 149,
-    "grupos": {
-      "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
-        {
-          "grupo": "004",
-          "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
-          "profesor": "VALERIA MOY CAMPOS",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-12102-ECONOMIA, II": [
-        {
-          "grupo": "004",
-          "nombre": "ECO-12102-ECONOMIA, II",
-          "profesor": "VALERIA MOY CAMPOS",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -15173,9 +15181,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -15840,9 +15848,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18205,8 +18213,8 @@ let profesores={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.4138,
-    "n": 29,
+    "general": 7.3,
+    "n": 30,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -18943,8 +18951,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.6316,
-    "n": 38,
+    "general": 7.6154,
+    "n": 39,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
@@ -19897,12 +19905,12 @@ let mejoresPorDepto={
     "MARIA CRISTINA GIGOLA PAGLIALUNGA"
   ],
   "LENGUAS (LEN)": [
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "EDUARDO PORTAS RUIZ",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
