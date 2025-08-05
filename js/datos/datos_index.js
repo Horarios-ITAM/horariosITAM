@@ -1,4 +1,4 @@
-let actualizado="1754319299285.7878";
+let actualizado="1754405686862.955";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -6406,7 +6406,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF106",
+        "salon": "RH307",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -6540,7 +6540,7 @@ let clases={
       {
         "grupo": "003L",
         "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
-        "profesor": "",
+        "profesor": "ANA MARIA ZORRILLA NORIEGA",
         "creditos": "2",
         "horario": "12:00-14:00",
         "dias": [
@@ -7047,7 +7047,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
-        "profesor": "",
+        "profesor": "ANA MARIA ZORRILLA NORIEGA",
         "creditos": "4",
         "horario": "12:00-14:00",
         "dias": [
@@ -8311,26 +8311,6 @@ let clases={
     "clave": "DER-16922",
     "grupos": []
   },
-  "DER-17044": {
-    "nombre": "DER-17044-CLINICA EN DERECHO Y POL PUBL.",
-    "clave": "DER-17044",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "DER-17044-CLINICA EN DERECHO Y POL PUBL.",
-        "profesor": "ANA MARIA ZORRILLA NORIEGA",
-        "creditos": "6",
-        "horario": "17:00-20:00",
-        "dias": [
-          "LU"
-        ],
-        "salon": "RHCUBIC",
-        "campus": "RIO HONDO",
-        "inicio": "17:00",
-        "fin": "20:00"
-      }
-    ]
-  },
   "DER-17045": {
     "nombre": "DER-17045-CLIN. DES. SUSTENT. Y DER AMBI",
     "clave": "DER-17045",
@@ -8350,31 +8330,6 @@ let clases={
         "fin": "20:00"
       }
     ]
-  },
-  "DER-17047-LAB": {
-    "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB",
-    "clave": "DER-17047",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB",
-        "profesor": "ANA MARIA ZORRILLA NORIEGA",
-        "creditos": "2",
-        "horario": "17:00-19:00",
-        "dias": [
-          "LU"
-        ],
-        "salon": "RHCUBIC",
-        "campus": "RIO HONDO",
-        "inicio": "17:00",
-        "fin": "19:00"
-      }
-    ]
-  },
-  "DER-17047": {
-    "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA",
-    "clave": "DER-17047",
-    "grupos": []
   },
   "DER-17048-LAB": {
     "nombre": "DER-17048-CLIN  DES SUST Y DER AMBIENTAL-LAB",
@@ -8763,7 +8718,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-19602-DERECHO LABORAL II",
-        "profesor": "",
+        "profesor": "JOSE ANTONIO MORALES YA\u00d1EZ",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -10968,7 +10923,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
+        "profesor": "MONICA CECILIA SOTO BETANCOURT",
         "creditos": "6",
         "horario": "10:00-11:00",
         "dias": [
@@ -11150,7 +11105,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "MONICA CECILIA SOTO BETANCOURT",
+        "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -11310,7 +11265,7 @@ let clases={
       {
         "grupo": "020",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "",
+        "profesor": "DAVID MORENO GUINEA",
         "creditos": "6",
         "horario": "08:00-09:00",
         "dias": [
@@ -11342,7 +11297,7 @@ let clases={
       {
         "grupo": "022",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "",
+        "profesor": "CECILIA GALAVIZ ALVAREZ",
         "creditos": "6",
         "horario": "08:00-09:00",
         "dias": [
@@ -11358,7 +11313,7 @@ let clases={
       {
         "grupo": "023",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "",
+        "profesor": "GABRIELA HERNANDEZ GARCIA",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -11558,7 +11513,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "",
+        "profesor": "FRANCISCO ALEJANDRO GONZALEZ FRANCO",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -11573,7 +11528,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "",
+        "profesor": "FRANCISCO ALEJANDRO GONZALEZ FRANCO",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -11759,7 +11714,7 @@ let clases={
       {
         "grupo": "011",
         "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-        "profesor": "",
+        "profesor": "YEARIM ANABEL ORTIZ SAN JUAN",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -13110,7 +13065,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHLMINT",
+        "salon": "RHPACE",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:30"
@@ -13200,7 +13155,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHPACE",
+        "salon": "RHLMINT",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:30"
@@ -18387,7 +18342,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "FEDERICO JOSE KUHLMANN RODRIGUEZ",
+        "profesor": "GABRIELA HERNANDEZ GARCIA",
         "creditos": "4",
         "horario": "18:00-20:00",
         "dias": [
@@ -18832,8 +18787,8 @@ let misProfesData={
   },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
-    "general": 8.4286,
-    "n": 35
+    "general": 8.4444,
+    "n": 36
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
@@ -18936,9 +18891,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -18957,8 +18912,8 @@ let misProfesData={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.1429,
-    "n": 28
+    "general": 9.1724,
+    "n": 29
   },
   "ROSA MARIA ATHIE RUBIO": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Ma.-Athie_19736",
@@ -19370,6 +19325,11 @@ let misProfesData={
     "general": 10.0,
     "n": 2
   },
+  "JOSE ANTONIO MORALES YA\u00d1EZ": {
+    "link": "https://www.misprofesores.com/profesores/JOSE-ANTONIO-MORALES-YA\u00d1EZ_71535",
+    "general": 6.6,
+    "n": 5
+  },
   "LEVENT ULKU": {
     "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
     "general": 7.3636,
@@ -19442,8 +19402,8 @@ let misProfesData={
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.6667,
-    "n": 12
+    "general": 9.6154,
+    "n": 13
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
@@ -19615,6 +19575,11 @@ let misProfesData={
     "general": 7.3469,
     "n": 147
   },
+  "MONICA CECILIA SOTO BETANCOURT": {
+    "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
+    "general": 6.1897,
+    "n": 58
+  },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
     "general": 7.0893,
@@ -19624,11 +19589,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4699,
     "n": 83
-  },
-  "MONICA CECILIA SOTO BETANCOURT": {
-    "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.1897,
-    "n": 58
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
@@ -19657,8 +19617,8 @@ let misProfesData={
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
-    "general": 8.08,
-    "n": 75
+    "general": 8.0658,
+    "n": 76
   },
   "SERGIO MIGUEL SARMIENTO SERRANO": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
@@ -19690,6 +19650,11 @@ let misProfesData={
     "general": 7.013,
     "n": 77
   },
+  "FRANCISCO ALEJANDRO GONZALEZ FRANCO": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Alejandro-Gonz\u00e1lez-Franco_65939",
+    "general": 5.8333,
+    "n": 42
+  },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
     "general": 8.5909,
@@ -19704,6 +19669,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
     "general": 10.0,
     "n": 1
+  },
+  "YEARIM ANABEL ORTIZ SAN JUAN": {
+    "link": "https://www.misprofesores.com/profesores/Yearim-Ortiz-San-Juan_97865",
+    "general": 5.6364,
+    "n": 11
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
@@ -19772,8 +19742,8 @@ let misProfesData={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 4.375,
-    "n": 16
+    "general": 4.2941,
+    "n": 17
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
@@ -20042,8 +20012,8 @@ let misProfesData={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.1984,
-    "n": 126
+    "general": 8.2126,
+    "n": 127
   },
   "ERNESTO PEREZ CHAVELA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-P\u00e9rez-Chavela_74856",
@@ -20167,8 +20137,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL MOTA GAYTAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
-    "general": 7.6216,
-    "n": 37
+    "general": 7.6316,
+    "n": 38
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",

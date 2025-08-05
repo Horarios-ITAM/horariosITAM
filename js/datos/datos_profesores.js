@@ -1,4 +1,4 @@
-let actualizado="1754319299299.087";
+let actualizado="1754405686877.815";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -928,22 +928,6 @@ let profesores={
           "fin": "19:00"
         }
       ],
-      "DER-11104-CULTURA DE LA LEGALIDAD-LAB": [
-        {
-          "grupo": "003L",
-          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "12:00-14:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
-      ],
       "DER-11114-HABILIDADES JURID. GLOBALES II-LAB": [
         {
           "grupo": "001L",
@@ -993,22 +977,6 @@ let profesores={
           "fin": "18:00"
         }
       ],
-      "DER-11121-CULTURA DE LA LEGALIDAD": [
-        {
-          "grupo": "003",
-          "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "12:00-14:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
-      ],
       "DER-11907-TECNICAS DE ARGUM. JURID.": [
         {
           "grupo": "002",
@@ -1024,23 +992,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        }
-      ],
-      "DER-19602-DERECHO LABORAL II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-19602-DERECHO LABORAL II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
         }
       ],
       "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
@@ -1145,22 +1096,6 @@ let profesores={
       ],
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
-          "grupo": "020",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:00-09:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH206",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
-        },
-        {
           "grupo": "021",
           "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
           "profesor": "",
@@ -1175,38 +1110,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
-        },
-        {
-          "grupo": "022",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:00-09:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
-        },
-        {
-          "grupo": "023",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "11:00-12:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
         }
       ],
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
@@ -1229,36 +1132,6 @@ let profesores={
       ],
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
-          "grupo": "005",
-          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH207",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        },
-        {
-          "grupo": "006",
-          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH207",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        },
-        {
           "grupo": "007",
           "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
           "profesor": "",
@@ -1275,21 +1148,6 @@ let profesores={
         }
       ],
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
-        {
-          "grupo": "011",
-          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH206",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        },
         {
           "grupo": "012",
           "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
@@ -3679,8 +3537,8 @@ let profesores={
   },
   "IRMA LOZANO MENDICUTI": {
     "link": "https://www.misprofesores.com/profesores/IRMA-LOZANO-MENDICUTI_31181",
-    "general": 8.4286,
-    "n": 35,
+    "general": 8.4444,
+    "n": 36,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
@@ -4907,9 +4765,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5022,8 +4880,8 @@ let profesores={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.1429,
-    "n": 28,
+    "general": 9.1724,
+    "n": 29,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -7568,7 +7426,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF106",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -7950,6 +7808,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
+        },
+        {
+          "grupo": "003L",
+          "nombre": "DER-11104-CULTURA DE LA LEGALIDAD-LAB",
+          "profesor": "ANA MARIA ZORRILLA NORIEGA",
+          "creditos": "2",
+          "horario": "12:00-14:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:00"
         }
       ],
       "DER-11121-CULTURA DE LA LEGALIDAD": [
@@ -7966,38 +7838,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
-        }
-      ],
-      "DER-17044-CLINICA EN DERECHO Y POL PUBL.": [
+        },
         {
-          "grupo": "001",
-          "nombre": "DER-17044-CLINICA EN DERECHO Y POL PUBL.",
+          "grupo": "003",
+          "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
           "profesor": "ANA MARIA ZORRILLA NORIEGA",
-          "creditos": "6",
-          "horario": "17:00-20:00",
+          "creditos": "4",
+          "horario": "12:00-14:00",
           "dias": [
-            "LU"
+            "VI"
           ],
-          "salon": "RHCUBIC",
+          "salon": "RH305",
           "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "20:00"
-        }
-      ],
-      "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB",
-          "profesor": "ANA MARIA ZORRILLA NORIEGA",
-          "creditos": "2",
-          "horario": "17:00-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "19:00"
+          "inicio": "12:00",
+          "fin": "14:00"
         }
       ]
     }
@@ -9770,6 +9624,30 @@ let profesores={
       ]
     }
   },
+  "JOSE ANTONIO MORALES YA\u00d1EZ": {
+    "link": "https://www.misprofesores.com/profesores/JOSE-ANTONIO-MORALES-YA\u00d1EZ_71535",
+    "general": 6.6,
+    "n": 5,
+    "grupos": {
+      "DER-19602-DERECHO LABORAL II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-19602-DERECHO LABORAL II",
+          "profesor": "JOSE ANTONIO MORALES YA\u00d1EZ",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-4",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
   "LEVENT ULKU": {
     "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
     "general": 7.3636,
@@ -10468,8 +10346,8 @@ let profesores={
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.6667,
-    "n": 12,
+    "general": 9.6154,
+    "n": 13,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -11895,6 +11773,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
+        },
+        {
+          "grupo": "022",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "CECILIA GALAVIZ ALVAREZ",
+          "creditos": "6",
+          "horario": "08:00-09:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -12070,11 +11964,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
-        },
+        }
+      ],
+      "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
+        {
+          "grupo": "010",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
+          "creditos": "6",
+          "horario": "11:00-12:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH210",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "MONICA CECILIA SOTO BETANCOURT": {
+    "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
+    "general": 6.1897,
+    "n": 58,
+    "grupos": {
+      "EGN-17123-IDEAS E INST. POL. Y SOC. III": [
         {
           "grupo": "002",
           "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-          "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
+          "profesor": "MONICA CECILIA SOTO BETANCOURT",
           "creditos": "6",
           "horario": "10:00-11:00",
           "dias": [
@@ -12086,6 +12007,24 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
+        }
+      ],
+      "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
+        {
+          "grupo": "005",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "MONICA CECILIA SOTO BETANCOURT",
+          "creditos": "6",
+          "horario": "09:00-10:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH203",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -12168,47 +12107,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
-        }
-      ]
-    }
-  },
-  "MONICA CECILIA SOTO BETANCOURT": {
-    "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.1897,
-    "n": 58,
-    "grupos": {
-      "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
-        {
-          "grupo": "005",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "MONICA CECILIA SOTO BETANCOURT",
-          "creditos": "6",
-          "horario": "09:00-10:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH203",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        },
-        {
-          "grupo": "010",
-          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "MONICA CECILIA SOTO BETANCOURT",
-          "creditos": "6",
-          "horario": "11:00-12:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
         }
       ]
     }
@@ -12332,6 +12230,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
+        },
+        {
+          "grupo": "023",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "GABRIELA HERNANDEZ GARCIA",
+          "creditos": "6",
+          "horario": "11:00-12:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ],
+      "SDI-15816-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+          "profesor": "GABRIELA HERNANDEZ GARCIA",
+          "creditos": "4",
+          "horario": "18:00-20:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF105",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -12357,6 +12287,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
+        },
+        {
+          "grupo": "020",
+          "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
+          "profesor": "DAVID MORENO GUINEA",
+          "creditos": "6",
+          "horario": "08:00-09:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -12420,8 +12366,8 @@ let profesores={
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
-    "general": 8.08,
-    "n": 75,
+    "general": 8.0658,
+    "n": 76,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12653,6 +12599,45 @@ let profesores={
       ]
     }
   },
+  "FRANCISCO ALEJANDRO GONZALEZ FRANCO": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Alejandro-Gonz\u00e1lez-Franco_65939",
+    "general": 5.8333,
+    "n": 42,
+    "grupos": {
+      "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
+        {
+          "grupo": "005",
+          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
+          "profesor": "FRANCISCO ALEJANDRO GONZALEZ FRANCO",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH207",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        },
+        {
+          "grupo": "006",
+          "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
+          "profesor": "FRANCISCO ALEJANDRO GONZALEZ FRANCO",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH207",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
     "general": 8.5909,
@@ -12799,6 +12784,30 @@ let profesores={
             "JU"
           ],
           "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "YEARIM ANABEL ORTIZ SAN JUAN": {
+    "link": "https://www.misprofesores.com/profesores/Yearim-Ortiz-San-Juan_97865",
+    "general": 5.6364,
+    "n": 11,
+    "grupos": {
+      "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
+        {
+          "grupo": "011",
+          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+          "profesor": "YEARIM ANABEL ORTIZ SAN JUAN",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH206",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -13307,8 +13316,8 @@ let profesores={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 4.375,
-    "n": 16,
+    "general": 4.2941,
+    "n": 17,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14174,7 +14183,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHPACE",
+          "salon": "RHLMINT",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
@@ -14198,7 +14207,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHLMINT",
+          "salon": "RHPACE",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
@@ -17281,8 +17290,8 @@ let profesores={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.1984,
-    "n": 126,
+    "general": 8.2126,
+    "n": 127,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -18764,8 +18773,8 @@ let profesores={
   },
   "MIGUEL ANGEL MOTA GAYTAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
-    "general": 7.6216,
-    "n": 37,
+    "general": 7.6316,
+    "n": 38,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -19701,22 +19710,6 @@ let profesores={
           "fin": "12:00"
         }
       ],
-      "SDI-15816-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-          "profesor": "FEDERICO JOSE KUHLMANN RODRIGUEZ",
-          "creditos": "4",
-          "horario": "18:00-20:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF105",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
-        }
-      ],
       "SDI-17112-INTRODUCCION A LA INGENIERIA": [
         {
           "grupo": "002",
@@ -19847,8 +19840,8 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "LOUIS ZALTZMAN KORNHAUSER",
-    "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
+    "SOFIA CORONA VERDUZCO",
     "BARBARA CARRILLO FLORES",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
