@@ -1,4 +1,4 @@
-let actualizado="1754405686862.955";
+let actualizado="1754492063941.0098";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -2470,7 +2470,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
-        "profesor": "",
+        "profesor": "NORMA ARACELY AVILA MIRANDA",
         "creditos": "7",
         "horario": "15:30-16:00",
         "dias": [
@@ -2478,6 +2478,21 @@ let clases={
           "JU"
         ],
         "salon": "RH204",
+        "campus": "RIO HONDO",
+        "inicio": "15:30",
+        "fin": "16:00"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
+        "profesor": "",
+        "creditos": "7",
+        "horario": "15:30-16:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH207",
         "campus": "RIO HONDO",
         "inicio": "15:30",
         "fin": "16:00"
@@ -2491,7 +2506,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
-        "profesor": "",
+        "profesor": "NORMA ARACELY AVILA MIRANDA",
         "creditos": "7",
         "horario": "14:00-15:30",
         "dias": [
@@ -2499,6 +2514,21 @@ let clases={
           "JU"
         ],
         "salon": "RH204",
+        "campus": "RIO HONDO",
+        "inicio": "14:00",
+        "fin": "15:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
+        "profesor": "",
+        "creditos": "7",
+        "horario": "14:00-15:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH207",
         "campus": "RIO HONDO",
         "inicio": "14:00",
         "fin": "15:30"
@@ -2512,7 +2542,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "CLE-10518-COMMUNICATION IN SPANISH III-LAB",
-        "profesor": "NORMA ARACELY AVILA MIRANDA",
+        "profesor": "",
         "creditos": "7",
         "horario": "15:30-16:00",
         "dias": [
@@ -2533,7 +2563,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
-        "profesor": "NORMA ARACELY AVILA MIRANDA",
+        "profesor": "",
         "creditos": "7",
         "horario": "14:00-15:30",
         "dias": [
@@ -10474,7 +10504,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "",
+        "profesor": "MICHELLE AVATANEO TRUQUI",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -10489,7 +10519,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-21104-ECONOMIA IV",
-        "profesor": "",
+        "profesor": "MICHELLE AVATANEO TRUQUI",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -10859,22 +10889,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:00"
-      },
-      {
-        "grupo": "013",
-        "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "18:00-19:00",
-        "dias": [
-          "LU",
-          "MI",
-          "VI"
-        ],
-        "salon": "RH207",
-        "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:00"
       }
     ]
   },
@@ -10935,22 +10949,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
-      },
-      {
-        "grupo": "003",
-        "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "09:00-10:00",
-        "dias": [
-          "LU",
-          "MI",
-          "VI"
-        ],
-        "salon": "RH207",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "10:00"
       }
     ]
   },
@@ -11427,22 +11425,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:00"
-      },
-      {
-        "grupo": "007",
-        "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "16:00-17:00",
-        "dias": [
-          "LU",
-          "MI",
-          "VI"
-        ],
-        "salon": "RH210",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:00"
       }
     ]
   },
@@ -11539,21 +11521,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
-      },
-      {
-        "grupo": "007",
-        "nombre": "EGN-17161-HISTORIA SOC.-POL. DE MEXICO",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "11:30-13:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH204",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
       }
     ]
   },
@@ -11725,21 +11692,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
-      },
-      {
-        "grupo": "012",
-        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "10:00-11:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH205",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
       }
     ]
   },
@@ -12970,7 +12922,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB",
-        "profesor": "",
+        "profesor": "BRUNO ALEJANDRO ORSATTI SANCHEZ",
         "creditos": "9",
         "horario": "08:00-11:00",
         "dias": [
@@ -13171,7 +13123,7 @@ let clases={
         "nombre": "IIO-13160-MODELADO Y OPTIMIZACION II",
         "profesor": "ALEJANDRO TERAN CASTELLANOS",
         "creditos": "6",
-        "horario": "17:30-19:01",
+        "horario": "17:30-19:00",
         "dias": [
           "LU",
           "MI"
@@ -13179,7 +13131,7 @@ let clases={
         "salon": "RHPACE",
         "campus": "RIO HONDO",
         "inicio": "17:30",
-        "fin": "19:01"
+        "fin": "19:00"
       }
     ]
   },
@@ -13192,7 +13144,7 @@ let clases={
         "nombre": "IIO-13180-SIMULACION DE SISTEMAS",
         "profesor": "ANA KARINA MIRANDA FLORES",
         "creditos": "6",
-        "horario": "07:00-08:31",
+        "horario": "07:00-08:30",
         "dias": [
           "LU",
           "MI"
@@ -13200,7 +13152,7 @@ let clases={
         "salon": "RHPACE",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "08:31"
+        "fin": "08:30"
       },
       {
         "grupo": "002",
@@ -13589,7 +13541,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "IIO-15170-DISE\u00d1O ASISTIDO POR COMPUTAD.",
-        "profesor": "",
+        "profesor": "BRUNO ALEJANDRO ORSATTI SANCHEZ",
         "creditos": "6",
         "horario": "19:30-21:00",
         "dias": [
@@ -13784,7 +13736,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-        "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
+        "profesor": "GABRIELA HERNANDEZ GARCIA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -15291,7 +15243,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12756-COMUN. PROF. PARA C.P Y E.F.",
-        "profesor": "EDUARDO PORTAS RUIZ",
+        "profesor": "HECTOR JIMENEZ LANDIN",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -15509,7 +15461,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-        "profesor": "EDUARDO PORTAS RUIZ",
+        "profesor": "",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -15523,7 +15475,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-        "profesor": "EDUARDO PORTAS RUIZ",
+        "profesor": "",
         "creditos": "2",
         "horario": "08:00-09:00",
         "dias": [
@@ -17221,7 +17173,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-        "profesor": "MARIA EUGENIA HERNANDEZ MU\u00d1OZ",
+        "profesor": "BELEN ESPINOSA LUCIO",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -19860,11 +19812,6 @@ let misProfesData={
     "general": 6.5769,
     "n": 26
   },
-  "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
-    "general": 8.0476,
-    "n": 21
-  },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
     "general": 8.0,
@@ -19881,9 +19828,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3571,
-    "n": 14
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19959,11 +19906,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
     "general": 7.3,
     "n": 90
-  },
-  "EDUARDO PORTAS RUIZ": {
-    "link": "https://www.misprofesores.com/profesores/Eduardo-Portas-Ruiz_181179",
-    "general": 10.0,
-    "n": 1
   },
   "JORGE NEME SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/JORGE-NEME-SANCHEZ_172075",
@@ -20159,11 +20101,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/JORGE-ALCALDE-MARTIN-DEL-CAMPO_81055",
     "general": 8.8571,
     "n": 7
-  },
-  "MARIA EUGENIA HERNANDEZ MU\u00d1OZ": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Eugenia-Hern\u00e1ndez-Mu\u00f1oz_152158",
-    "general": 7.0,
-    "n": 8
   },
   "ANDREAS WACHTEL": {
     "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",
