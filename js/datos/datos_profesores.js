@@ -1,4 +1,4 @@
-let actualizado="1754492063955.033";
+let actualizado="1754578386621.7112";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -639,8 +639,8 @@ let profesores={
   },
   "JOSE JAVIER MEDRANO PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
-    "general": 9.0,
-    "n": 4,
+    "general": 9.2,
+    "n": 5,
     "grupos": {
       "ADM-11120-TRAYECT. EN ADM: PROPOS Y PROG": [
         {
@@ -960,72 +960,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
-        }
-      ],
-      "DER-11114-HABILIDADES JURID. GLOBALES II-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "09:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ],
-      "DER-11114-HABILIDADES JURID. GLOBALES II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "07:00-09:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ],
-      "DER-11120-TALLER DISER JUR TEC ARGUM JUR": [
-        {
-          "grupo": "002",
-          "nombre": "DER-11120-TALLER DISER JUR TEC ARGUM JUR",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "17:30-18:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH312",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "18:00"
-        }
-      ],
-      "DER-11907-TECNICAS DE ARGUM. JURID.": [
-        {
-          "grupo": "002",
-          "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH312",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ],
       "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
@@ -2714,7 +2648,6 @@ let profesores={
           "creditos": "6",
           "horario": "19:00-22:00",
           "dias": [
-            "MA",
             "JU"
           ],
           "salon": "RH306",
@@ -2801,8 +2734,8 @@ let profesores={
   },
   "CECILIA MARIA ORTIZ AHLF": {
     "link": "https://www.misprofesores.com/profesores/Cecilia-Ortiz_99992",
-    "general": 6.5,
-    "n": 4,
+    "general": 6.8,
+    "n": 5,
     "grupos": {
       "ADM-16603-MERCADOTECNIA.,III": [
         {
@@ -8102,6 +8035,42 @@ let profesores={
       ]
     }
   },
+  "MICHAEL CUSTER COOK": {
+    "grupos": {
+      "DER-11114-HABILIDADES JURID. GLOBALES II-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
+          "profesor": "MICHAEL CUSTER COOK",
+          "creditos": "4",
+          "horario": "09:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        }
+      ],
+      "DER-11114-HABILIDADES JURID. GLOBALES II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
+          "profesor": "MICHAEL CUSTER COOK",
+          "creditos": "4",
+          "horario": "07:00-09:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Guadalupe-Real-Rodriguez_104084",
     "general": 8.375,
@@ -8297,6 +8266,44 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "DANIEL TORRES CHECA": {
+    "grupos": {
+      "DER-11120-TALLER DISER JUR TEC ARGUM JUR": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11120-TALLER DISER JUR TEC ARGUM JUR",
+          "profesor": "DANIEL TORRES CHECA",
+          "creditos": "2",
+          "horario": "17:30-18:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH312",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "18:00"
+        }
+      ],
+      "DER-11907-TECNICAS DE ARGUM. JURID.": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
+          "profesor": "DANIEL TORRES CHECA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH312",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -11534,7 +11541,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH201",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -11773,7 +11780,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH202",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -12384,7 +12391,7 @@ let profesores={
           "dias": [
             "LU",
             "MI",
-            "JU"
+            "VI"
           ],
           "salon": "RH205",
           "campus": "RIO HONDO",
@@ -15167,9 +15174,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -15834,9 +15841,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -19702,9 +19709,9 @@ let mejoresPorDepto={
   ],
   "ADMINISTRACION": [
     "FELIPE BRUGUES RODRIGUEZ",
+    "JOSE JAVIER MEDRANO PEREZ",
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "ADRIAN RUBLI ORNELAS",
-    "JOSE JAVIER MEDRANO PEREZ",
     "JULIO SERRANO ESPINOSA",
     "LUIS ARIAS OSOYO",
     "JANKO HERNANDEZ CORTES",
@@ -19831,11 +19838,11 @@ let mejoresPorDepto={
     "BRUNO ALEJANDRO ORSATTI SANCHEZ"
   ],
   "LENGUAS (LEN)": [
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",

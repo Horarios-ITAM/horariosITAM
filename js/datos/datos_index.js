@@ -1,4 +1,4 @@
-let actualizado="1754492063941.0098";
+let actualizado="1754578386608.2703";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -1876,7 +1876,6 @@ let clases={
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
-          "MA",
           "JU"
         ],
         "salon": "RH306",
@@ -6846,7 +6845,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
-        "profesor": "",
+        "profesor": "MICHAEL CUSTER COOK",
         "creditos": "4",
         "horario": "09:00-10:00",
         "dias": [
@@ -6866,7 +6865,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
-        "profesor": "",
+        "profesor": "MICHAEL CUSTER COOK",
         "creditos": "4",
         "horario": "07:00-09:00",
         "dias": [
@@ -7028,7 +7027,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11120-TALLER DISER JUR TEC ARGUM JUR",
-        "profesor": "",
+        "profesor": "DANIEL TORRES CHECA",
         "creditos": "2",
         "horario": "17:30-18:00",
         "dias": [
@@ -7295,7 +7294,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
-        "profesor": "",
+        "profesor": "DANIEL TORRES CHECA",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -10805,7 +10804,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH201",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -10821,7 +10820,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH202",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:00"
@@ -11339,7 +11338,7 @@ let clases={
         "dias": [
           "LU",
           "MI",
-          "JU"
+          "VI"
         ],
         "salon": "RH205",
         "campus": "RIO HONDO",
@@ -18549,8 +18548,8 @@ let misProfesData={
   },
   "JOSE JAVIER MEDRANO PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
-    "general": 9.0,
-    "n": 4
+    "general": 9.2,
+    "n": 5
   },
   "ALEXANDROS FAKOS": {
     "link": "https://www.misprofesores.com/profesores/Alexandros-Fakos_73366",
@@ -18699,8 +18698,8 @@ let misProfesData={
   },
   "CECILIA MARIA ORTIZ AHLF": {
     "link": "https://www.misprofesores.com/profesores/Cecilia-Ortiz_99992",
-    "general": 6.5,
-    "n": 4
+    "general": 6.8,
+    "n": 5
   },
   "MARGARITA TARRAGONA SAEZ": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Tarragona-Saez_171818",
@@ -19828,9 +19827,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19863,9 +19862,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
