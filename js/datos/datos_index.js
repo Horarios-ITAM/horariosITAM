@@ -1,4 +1,4 @@
-let actualizado="1754664659049.2874";
+let actualizado="1754750714935.8218";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -34,7 +34,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH105",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -175,7 +175,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH302",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -350,7 +350,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -1004,7 +1004,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
-        "profesor": "MARGARET KATHRYN  SLOAN",
+        "profesor": "MARIANA CONTRERAS AREVALO",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -1019,7 +1019,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
-        "profesor": "MARIANA CONTRERAS AREVALO",
+        "profesor": "MARGARET KATHRYN  SLOAN",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -1092,7 +1092,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH212",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -2228,7 +2228,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
-        "profesor": "",
+        "profesor": "PAOLA YUNUEN RIZO GONZALEZ",
         "creditos": "7",
         "horario": "15:30-16:00",
         "dias": [
@@ -2264,7 +2264,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
-        "profesor": "",
+        "profesor": "PAOLA YUNUEN RIZO GONZALEZ",
         "creditos": "7",
         "horario": "14:00-15:30",
         "dias": [
@@ -2636,7 +2636,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-11117-INTROD AL DESARROLLO WEB",
-        "profesor": "",
+        "profesor": "FABIAN ORDU\u00d1A FERREIRA",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -2726,19 +2726,19 @@ let clases={
         "fin": "21:00"
       },
       {
-        "grupo": "002",
+        "grupo": "003",
         "nombre": "COM-12103-FUENTES DE DATOS",
         "profesor": "MARIO VAZQUEZ CORTE",
         "creditos": "6",
-        "horario": "07:00-09:00",
+        "horario": "19:00-20:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RHCC101",
+        "salon": "RHPACE",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -3240,7 +3240,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF102",
+        "salon": "RHCC101",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -3524,7 +3524,7 @@ let clases={
       {
         "grupo": "014",
         "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "",
+        "profesor": "KARINA RUIZ MARTINEZ",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -3539,7 +3539,7 @@ let clases={
       {
         "grupo": "015",
         "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "",
+        "profesor": "ISABEL ESPINO GUTIERREZ",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -3787,7 +3787,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-23106-MINERIA DE DATOS",
-        "profesor": "",
+        "profesor": "SAUL CABALLERO RAMIREZ",
         "creditos": "6",
         "horario": "08:00-11:00",
         "dias": [
@@ -3868,7 +3868,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-23122-MARK DEPORT BASADO EN DATOS",
-        "profesor": "",
+        "profesor": "RODRIGO COBO OCEJO",
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
@@ -4525,6 +4525,27 @@ let clases={
           "JU"
         ],
         "salon": "RH303",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
+      }
+    ]
+  },
+  "CON-11015": {
+    "nombre": "CON-11015-PREVENCION DE LAVADO DE DINERO",
+    "clave": "CON-11015",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CON-11015-PREVENCION DE LAVADO DE DINERO",
+        "profesor": "LINDA DIAZ DEL BARRIO",
+        "creditos": "6",
+        "horario": "19:00-20:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -8204,9 +8225,11 @@ let clases={
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
-          "MI"
+          "LU",
+          "MI",
+          "VI"
         ],
-        "salon": "RH211",
+        "salon": "RH316",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8283,9 +8306,11 @@ let clases={
         "creditos": "9",
         "horario": "10:00-11:30",
         "dias": [
-          "MI"
+          "LU",
+          "MI",
+          "VI"
         ],
-        "salon": "RH211",
+        "salon": "RH316",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8678,7 +8703,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -8714,7 +8739,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH113",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8840,7 +8865,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -8861,7 +8886,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH113",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -8912,7 +8937,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH103",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -9041,7 +9066,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH105",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9136,7 +9161,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH105",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9681,7 +9706,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHLI1",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -9865,7 +9890,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF102",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -9927,7 +9952,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -11448,7 +11473,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA1",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -11558,7 +11583,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "EST-11101-PROBABILIDAD",
-        "profesor": "MARTIN MAGRIS",
+        "profesor": "LEONARDO ROJAS NANDAYAPA",
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
@@ -11884,7 +11909,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -12323,7 +12348,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -12407,7 +12432,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHPACE",
+        "salon": "RHLMINT",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -12421,7 +12446,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHPACE",
+        "salon": "RHLMINT",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -12502,7 +12527,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHPACE",
+        "salon": "RHLMINT",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -12613,6 +12638,7 @@ let clases={
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
+          "LU",
           "MI"
         ],
         "salon": "RHPACE",
@@ -12741,7 +12767,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "IIO-15132-FISICOQUIMICA-LAB",
-        "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+        "profesor": "DORA ILIANA MEDINA MEDINA",
         "creditos": "8",
         "horario": "10:30-12:30",
         "dias": [
@@ -12807,20 +12833,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "20:30"
-      },
-      {
-        "grupo": "002L",
-        "nombre": "IIO-15140-CIENCIAS DE LOS MATERIALES-LAB",
-        "profesor": "ADAN RAMIREZ LOPEZ",
-        "creditos": "9",
-        "horario": "17:30-20:30",
-        "dias": [
-          "JU"
-        ],
-        "salon": "RHLCMAT",
-        "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "20:30"
       }
     ]
   },
@@ -12830,21 +12842,6 @@ let clases={
     "grupos": [
       {
         "grupo": "001",
-        "nombre": "IIO-15140-CIENCIAS DE LOS MATERIALES",
-        "profesor": "DORA ILIANA MEDINA MEDINA",
-        "creditos": "9",
-        "horario": "10:00-11:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH314",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
-      },
-      {
-        "grupo": "002",
         "nombre": "IIO-15140-CIENCIAS DE LOS MATERIALES",
         "profesor": "DORA ILIANA MEDINA MEDINA",
         "creditos": "9",
@@ -12881,7 +12878,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "IIO-15161-MANUFACTURA DE COMPONENTES-LAB",
-        "profesor": "JOSE ANTONIO SOUZA JIMENEZ",
+        "profesor": "ADAN RAMIREZ LOPEZ",
         "creditos": "9",
         "horario": "07:00-10:00",
         "dias": [
@@ -14293,7 +14290,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-        "profesor": "RAUL ENRIQUE BRAVO ADUNA",
+        "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
         "horario": "09:00-10:00",
         "dias": [
@@ -14555,7 +14552,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN",
-        "profesor": "JORGE NEME SANCHEZ",
+        "profesor": "CARLOS MIGUEL VALDOVINOS CHAVEZ",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -14759,7 +14756,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12766-COM. PROFES. PARA ING. EN NEG.",
-        "profesor": "HECTOR JIMENEZ LANDIN",
+        "profesor": "CARLOS MIGUEL VALDOVINOS CHAVEZ",
         "creditos": "2",
         "horario": "19:00-20:00",
         "dias": [
@@ -15017,7 +15014,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-        "profesor": "RAUL ENRIQUE BRAVO ADUNA",
+        "profesor": "JESUS ADRIAN FERNANDEZ REYES",
         "creditos": "2",
         "horario": "09:00-10:00",
         "dias": [
@@ -15189,7 +15186,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH308",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -15393,7 +15390,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -15682,7 +15679,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH112",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -15869,7 +15866,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "MAT-14101-CALCULO DIF. E INT., II",
-        "profesor": "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS",
+        "profesor": "RAYBEL ANDRES GARCIA ANCONA",
         "creditos": "8",
         "horario": "10:00-12:00",
         "dias": [
@@ -15897,7 +15894,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH308",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:30"
@@ -17982,6 +17979,11 @@ let misProfesData={
     "general": 7.2273,
     "n": 44
   },
+  "KARINA RUIZ MARTINEZ": {
+    "link": "https://www.misprofesores.com/profesores/Maria-Monica-Ruiz-Ordo\u00f1ez_22570",
+    "general": 9.2857,
+    "n": 14
+  },
   "ROSARIO EDITH GARCIA MENDIOLA": {
     "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
     "general": 8.3871,
@@ -17998,9 +18000,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -18066,6 +18068,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Elizabeth-Georgina-Urrutia-Lezama_22908",
     "general": 7.1,
     "n": 40
+  },
+  "LINDA DIAZ DEL BARRIO": {
+    "link": "https://www.misprofesores.com/profesores/Linda-Diaz-del-Barrio_107647",
+    "general": 4.5,
+    "n": 2
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
@@ -18498,9 +18505,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18809,8 +18816,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.619,
-    "n": 42
+    "general": 8.6279,
+    "n": 43
   },
   "MARTIN MAGRIS": {
     "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
@@ -18827,6 +18834,11 @@ let misProfesData={
     "general": 7.7059,
     "n": 17
   },
+  "LEONARDO ROJAS NANDAYAPA": {
+    "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
+    "general": 5.2609,
+    "n": 23
+  },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
     "general": 6.4444,
@@ -18836,11 +18848,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Alejandro-Islas-Camargo_10684",
     "general": 5.7794,
     "n": 68
-  },
-  "LEONARDO ROJAS NANDAYAPA": {
-    "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.2609,
-    "n": 23
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
@@ -19209,8 +19216,8 @@ let misProfesData={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.8427,
-    "n": 89
+    "general": 8.8556,
+    "n": 90
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
