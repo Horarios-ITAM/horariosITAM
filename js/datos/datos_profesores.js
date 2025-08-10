@@ -1,4 +1,4 @@
-let actualizado="1754750714949.2617";
+let actualizado="1754837132385.9316";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -6151,8 +6151,8 @@ let profesores={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.4605,
-    "n": 152,
+    "general": 9.4641,
+    "n": 153,
     "grupos": {
       "CSO-12013-HISTORIA POLITICA CONTEMPORAN.": [
         {
@@ -11658,8 +11658,8 @@ let profesores={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 7.9318,
-    "n": 44,
+    "general": 7.9778,
+    "n": 45,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14300,8 +14300,8 @@ let profesores={
   },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
-    "general": 6.5769,
-    "n": 26,
+    "general": 6.7037,
+    "n": 27,
     "grupos": {
       "IIO-16111-TRAYEC DE NEG. I: ING Y TECNOL": [
         {
@@ -14697,9 +14697,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -15348,9 +15348,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16625,8 +16625,8 @@ let profesores={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.2126,
-    "n": 127,
+    "general": 8.1953,
+    "n": 128,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -17230,8 +17230,8 @@ let profesores={
   },
   "ANA PAULINA FIGUEROA GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Paulina-Figueroa-Gutierrez_47292",
-    "general": 6.3824,
-    "n": 68,
+    "general": 6.3333,
+    "n": 69,
     "grupos": {
       "MAT-12220-CALCULO EN UNA VARIABLE": [
         {
@@ -17687,8 +17687,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1806,
-    "n": 72,
+    "general": 7.1644,
+    "n": 73,
     "grupos": {
       "MAT-12350-ALGEBRA LINEAL APLICADA": [
         {
@@ -18111,8 +18111,8 @@ let profesores={
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
-    "general": 8.8556,
-    "n": 90,
+    "general": 8.8681,
+    "n": 91,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -19129,11 +19129,11 @@ let mejoresPorDepto={
     "BRUNO ALEJANDRO ORSATTI SANCHEZ"
   ],
   "LENGUAS (LEN)": [
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
@@ -19143,8 +19143,8 @@ let mejoresPorDepto={
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",
     "MAYRA NU\u00d1EZ LOPEZ",
-    "JORGE ALCALDE MARTIN DEL CAMPO",
     "CONCEPCION RUIZ RUIZ FUNES",
+    "JORGE ALCALDE MARTIN DEL CAMPO",
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "JOSE PABLO OLIVARES PRETELIN",
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
