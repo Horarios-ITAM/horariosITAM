@@ -1,4 +1,4 @@
-let actualizado="1754923857419.779";
+let actualizado="1755010210044.2876";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -745,72 +745,6 @@ let profesores={
           "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "DER-18601-DERECHO INTERNACIONAL II": [
-        {
-          "grupo": "002",
-          "nombre": "DER-18601-DERECHO INTERNACIONAL II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "DER-18802-DERECHO INTERNACIONAL PRIVADO": [
-        {
-          "grupo": "002",
-          "nombre": "DER-18802-DERECHO INTERNACIONAL PRIVADO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
-        {
-          "grupo": "004",
-          "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-12102-ECONOMIA, II": [
-        {
-          "grupo": "004",
-          "nombre": "ECO-12102-ECONOMIA, II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
           "fin": "10:00"
         }
       ],
@@ -3319,6 +3253,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "SDI-13760-REDES DE COMPUTADORAS",
+          "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
+          "creditos": "10",
+          "horario": "10:00-12:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -3421,8 +3370,8 @@ let profesores={
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
-    "general": 9.7059,
-    "n": 17,
+    "general": 9.7222,
+    "n": 18,
     "grupos": {
       "COM-14113-FUNDAMENTOS DE PROGRAMACION": [
         {
@@ -6607,6 +6556,22 @@ let profesores={
           "inicio": "07:00",
           "fin": "10:00"
         }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "MARIANA AGUILAR AGUILAR",
+          "creditos": "9",
+          "horario": "10:00-11:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH304",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
       ]
     }
   },
@@ -6739,22 +6704,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ],
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "ALEJANDRO  RODILES BRETON",
-          "creditos": "9",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "PF106",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "DER-18600-DERECHO INTERNACIONAL I": [
@@ -7165,23 +7114,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
-        }
-      ],
-      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-          "profesor": "RODRIGO CAMARENA GONZALEZ",
-          "creditos": "9",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -7738,6 +7670,40 @@ let profesores={
           "inicio": "08:30",
           "fin": "10:00"
         }
+      ],
+      "DER-18601-DERECHO INTERNACIONAL II": [
+        {
+          "grupo": "002",
+          "nombre": "DER-18601-DERECHO INTERNACIONAL II",
+          "profesor": "LUIS ALBERTO KING MARTINEZ",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "DER-18802-DERECHO INTERNACIONAL PRIVADO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-18802-DERECHO INTERNACIONAL PRIVADO",
+          "profesor": "LUIS ALBERTO KING MARTINEZ",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
       ]
     }
   },
@@ -7765,14 +7731,33 @@ let profesores={
       ]
     }
   },
-  "JUAN JESUS GARZA ONOFRE": {
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31,
     "grupos": {
       "DER-11119-FILOSOFIA DEL DERECHO": [
         {
           "grupo": "001",
           "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-          "profesor": "JUAN JESUS GARZA ONOFRE",
+          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
           "creditos": "9",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "DER-11805-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+          "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
             "MA",
@@ -7905,30 +7890,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        }
-      ]
-    }
-  },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31,
-    "grupos": {
-      "DER-11805-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -8496,6 +8457,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "JULIO ANTONIO RIOS FIGUEROA": {
+    "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
+    "general": 10.0,
+    "n": 2,
+    "grupos": {
+      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
+          "profesor": "JULIO ANTONIO RIOS FIGUEROA",
+          "creditos": "9",
+          "horario": "18:00-19:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
         }
       ]
     }
@@ -9361,15 +9345,15 @@ let profesores={
           "nombre": "ECO-21104-ECONOMIA IV",
           "profesor": "MAURICIO TOMAS ROMERO LONDO\u00d1O",
           "creditos": "6",
-          "horario": "11:30-13:00",
+          "horario": "10:00-11:30",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RH209",
+          "salon": "PF102",
           "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -10185,6 +10169,47 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "VALERIA MOY CAMPOS": {
+    "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
+    "general": 7.8523,
+    "n": 149,
+    "grupos": {
+      "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
+          "profesor": "VALERIA MOY CAMPOS",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "VALERIA MOY CAMPOS",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -13068,7 +13093,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH208",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -13085,7 +13110,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH208",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -13519,7 +13544,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH317",
+          "salon": "RH208",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -13553,7 +13578,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH317",
+          "salon": "RH208",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -14056,7 +14081,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHLMINT",
+          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -14977,8 +15002,8 @@ let profesores={
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
-    "general": 8.9787,
-    "n": 47,
+    "general": 9.0,
+    "n": 48,
     "grupos": {
       "LEN-12002-COM ESCRITA PARA C.P.Y EST FIN": [
         {
@@ -18916,6 +18941,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
+        },
+        {
+          "grupo": "003L",
+          "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
+          "profesor": "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
+          "creditos": "10",
+          "horario": "07:00-09:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -19059,14 +19098,14 @@ let mejoresPorDepto={
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
     "EDUARDO ERASMO OSORNIO GARCIA",
+    "JULIO ANTONIO RIOS FIGUEROA",
     "DENISE MEJAN GANEM",
     "JOSE OMAR HERNANDEZ SALGADO",
     "JOSE LUIS CABALLERO RODRIGUEZ",
     "FRANCO ALBERTO DEL VALLE PRADO",
     "IRVIN ARTURO CASTILLO CESAREO",
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
-    "AMRITA BAHRI",
-    "JOSE ANGEL FERNANDEZ URIA"
+    "AMRITA BAHRI"
   ],
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
