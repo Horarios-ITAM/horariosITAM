@@ -1,4 +1,4 @@
-let actualizado="1755010210044.2876";
+let actualizado="1755096537848.2808";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -167,6 +167,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
+        }
+      ],
+      "MAT-22600-MATEMATICAS FINANCIERAS I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-22600-MATEMATICAS FINANCIERAS I",
+          "profesor": "OSCAR PERALTA GUTIERREZ",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH306",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -681,40 +698,6 @@ let profesores={
           "fin": "20:30"
         }
       ],
-      "CLE-10518-COMMUNICATION IN SPANISH III-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10518-COMMUNICATION IN SPANISH III-LAB",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "15:30-16:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "15:30",
-          "fin": "16:00"
-        }
-      ],
-      "CLE-10518-COMMUNICATION IN SPANISH III": [
-        {
-          "grupo": "001",
-          "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "14:00-15:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "14:00",
-          "fin": "15:30"
-        }
-      ],
       "DER-13108-BIENES Y DERECHOS REALES": [
         {
           "grupo": "002",
@@ -782,23 +765,6 @@ let profesores={
           "fin": "18:00"
         }
       ],
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "020",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
           "grupo": "018",
@@ -843,20 +809,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "08:00-09:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH112",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
         }
       ]
     }
@@ -2667,6 +2619,44 @@ let profesores={
       ]
     }
   },
+  "REBECCA SOTO BUSTAMANTE": {
+    "grupos": {
+      "CLE-10518-COMMUNICATION IN SPANISH III-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "CLE-10518-COMMUNICATION IN SPANISH III-LAB",
+          "profesor": "REBECCA SOTO BUSTAMANTE",
+          "creditos": "7",
+          "horario": "15:30-16:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "15:30",
+          "fin": "16:00"
+        }
+      ],
+      "CLE-10518-COMMUNICATION IN SPANISH III": [
+        {
+          "grupo": "001",
+          "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
+          "profesor": "REBECCA SOTO BUSTAMANTE",
+          "creditos": "7",
+          "horario": "14:00-15:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "14:00",
+          "fin": "15:30"
+        }
+      ]
+    }
+  },
   "MARCELA RABADAN GALLARDO": {
     "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
     "general": 9.5263,
@@ -4348,6 +4338,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        }
+      ],
+      "CON-16100-SISTEMAS DE INFO. CONTABLE": [
+        {
+          "grupo": "001",
+          "nombre": "CON-16100-SISTEMAS DE INFO. CONTABLE",
+          "profesor": "JUAN FERNANDO CALDERON CABELLO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHPACE",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -6468,6 +6475,22 @@ let profesores={
     "general": 6.5333,
     "n": 15,
     "grupos": {
+      "CSO-16049-TOPICOS DE POL. PUBLICAS II": [
+        {
+          "grupo": "002",
+          "nombre": "CSO-16049-TOPICOS DE POL. PUBLICAS II",
+          "profesor": "ALBERTO SIMPSER MONDLAK",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH110",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ],
       "CSO-17041-METODOS DE INVEST. APLICADA": [
         {
           "grupo": "001",
@@ -8106,23 +8129,6 @@ let profesores={
           "inicio": "08:30",
           "fin": "10:00"
         }
-      ],
-      "DER-13302-BIENES Y DERECHOS REALES": [
-        {
-          "grupo": "001",
-          "nombre": "DER-13302-BIENES Y DERECHOS REALES",
-          "profesor": "JOSE ANGEL FERNANDEZ URIA",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
       ]
     }
   },
@@ -8183,7 +8189,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHPB3",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:30"
@@ -9570,7 +9576,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH101",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -9587,7 +9593,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH101",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -9645,7 +9651,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH113",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -9677,7 +9683,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH113",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -15512,13 +15518,28 @@ let profesores={
       ]
     }
   },
-  "ANDREA GONZALEZ AGUILAR": {
+  "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
+          "grupo": "020",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MIGUEL ANGEL HERNANDEZ ACOSTA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        },
+        {
           "grupo": "021",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "ANDREA GONZALEZ AGUILAR",
+          "profesor": "MIGUEL ANGEL HERNANDEZ ACOSTA",
           "creditos": "6",
           "horario": "17:30-19:00",
           "dias": [
@@ -16255,6 +16276,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "INTI VARGAS MORENO": {
+    "grupos": {
+      "LEN-12764-COM. PROFES. PARA ING. EN COMP": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
+          "profesor": "INTI VARGAS MORENO",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH112",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -19057,7 +19098,8 @@ let mejoresPorDepto={
     "MARCELA RABADAN GALLARDO",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "NORMA ARACELY AVILA MIRANDA",
-    "PAOLA YUNUEN RIZO GONZALEZ"
+    "PAOLA YUNUEN RIZO GONZALEZ",
+    "REBECCA SOTO BUSTAMANTE"
   ],
   "COMPUTACION": [
     "WILMER EFREN PEREIRA GONZALEZ",

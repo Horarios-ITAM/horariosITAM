@@ -1,4 +1,4 @@
-let actualizado="1755010210029.9443";
+let actualizado="1755096537834.9614";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -2285,7 +2285,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "CLE-10518-COMMUNICATION IN SPANISH III-LAB",
-        "profesor": "",
+        "profesor": "REBECCA SOTO BUSTAMANTE",
         "creditos": "7",
         "horario": "15:30-16:00",
         "dias": [
@@ -2306,7 +2306,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CLE-10518-COMMUNICATION IN SPANISH III",
-        "profesor": "",
+        "profesor": "REBECCA SOTO BUSTAMANTE",
         "creditos": "7",
         "horario": "14:00-15:30",
         "dias": [
@@ -4926,6 +4926,27 @@ let clases={
       }
     ]
   },
+  "CON-16100": {
+    "nombre": "CON-16100-SISTEMAS DE INFO. CONTABLE",
+    "clave": "CON-16100",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CON-16100-SISTEMAS DE INFO. CONTABLE",
+        "profesor": "JUAN FERNANDO CALDERON CABELLO",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHPACE",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      }
+    ]
+  },
   "CON-17102": {
     "nombre": "CON-17102-TRAYECTORIAS EN CONTADURIA",
     "clave": "CON-17102",
@@ -5604,6 +5625,20 @@ let clases={
         "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "17:30",
+        "fin": "19:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CSO-16049-TOPICOS DE POL. PUBLICAS II",
+        "profesor": "ALBERTO SIMPSER MONDLAK",
+        "creditos": "6",
+        "horario": "16:00-19:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RH110",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
         "fin": "19:00"
       }
     ]
@@ -7074,27 +7109,6 @@ let clases={
       }
     ]
   },
-  "DER-13302": {
-    "nombre": "DER-13302-BIENES Y DERECHOS REALES",
-    "clave": "DER-13302",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "DER-13302-BIENES Y DERECHOS REALES",
-        "profesor": "JOSE ANGEL FERNANDEZ URIA",
-        "creditos": "6",
-        "horario": "08:30-10:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "PF103",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
-      }
-    ]
-  },
   "DER-13403": {
     "nombre": "DER-13403-OBLIGACIONES",
     "clave": "DER-13403",
@@ -7109,7 +7123,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHPB3",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:30"
@@ -8641,7 +8655,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH101",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -8803,7 +8817,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH101",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9064,7 +9078,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH113",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9160,7 +9174,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH113",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -13575,7 +13589,7 @@ let clases={
       {
         "grupo": "020",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "",
+        "profesor": "MIGUEL ANGEL HERNANDEZ ACOSTA",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -13590,7 +13604,7 @@ let clases={
       {
         "grupo": "021",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "ANDREA GONZALEZ AGUILAR",
+        "profesor": "MIGUEL ANGEL HERNANDEZ ACOSTA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -14736,7 +14750,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-        "profesor": "",
+        "profesor": "INTI VARGAS MORENO",
         "creditos": "2",
         "horario": "08:00-09:00",
         "dias": [
@@ -16711,6 +16725,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-22600-MATEMATICAS FINANCIERAS I",
+        "profesor": "OSCAR PERALTA GUTIERREZ",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH306",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
