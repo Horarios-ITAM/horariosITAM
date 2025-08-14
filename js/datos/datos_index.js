@@ -1,4 +1,4 @@
-let actualizado="1755096537834.9614";
+let actualizado="1755182895306.9463";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -259,7 +259,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF103",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -529,7 +529,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
-        "profesor": "",
+        "profesor": "SERGIO SAN SEBASTIAN CHELALA",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -2784,6 +2784,26 @@ let clases={
       }
     ]
   },
+  "COM-14104": {
+    "nombre": "COM-14104-SISTEMAS OPERATIVOS",
+    "clave": "COM-14104",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "COM-14104-SISTEMAS OPERATIVOS",
+        "profesor": "JOSE OCTAVIO GUTIERREZ GARCIA",
+        "creditos": "8",
+        "horario": "18:00-20:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "PF106",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "20:00"
+      }
+    ]
+  },
   "COM-14105": {
     "nombre": "COM-14105-ALGORITMOS NUM. POR COMPU.",
     "clave": "COM-14105",
@@ -3756,6 +3776,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "COM-22108-MINERIA Y ANALISIS DE DATOS",
+        "profesor": "EDGAR FRANCISCO ROMAN RANGEL",
+        "creditos": "6",
+        "horario": "17:00-20:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "17:00",
+        "fin": "20:00"
       }
     ]
   },
@@ -3896,6 +3930,21 @@ let clases={
           "MI"
         ],
         "salon": "PF102",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "COM-23701-APRENDIZAJE DE MAQUINA",
+        "profesor": "LUIS FELIPE GONZALEZ PEREZ",
+        "creditos": "6",
+        "horario": "08:30-10:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHCUBIC",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -5883,16 +5932,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "MARIANA AGUILAR AGUILAR",
+        "profesor": "ALEJANDRO  RODILES BRETON",
         "creditos": "9",
-        "horario": "10:00-11:30",
+        "horario": "07:00-10:00",
         "dias": [
-          "JU"
+          "VI"
         ],
-        "salon": "RH304",
+        "salon": "PF106",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -6577,16 +6626,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-        "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+        "profesor": "JUAN JESUS GARZA ONOFRE",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RH209",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -7442,16 +7492,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-        "profesor": "JULIO ANTONIO RIOS FIGUEROA",
+        "profesor": "RODRIGO CAMARENA GONZALEZ",
         "creditos": "9",
-        "horario": "18:00-19:30",
+        "horario": "10:00-11:30",
         "dias": [
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH306",
+        "salon": "RH104",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:30"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -8274,6 +8325,40 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
+      },
+      {
+        "grupo": "006",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "ENRIQUE SEIRA BEJARANO",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
+  "ECO-10203": {
+    "nombre": "ECO-10203-METODOLOGIA DE LA ECO. (OP)",
+    "clave": "ECO-10203",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10203-METODOLOGIA DE LA ECO. (OP)",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH213",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -8355,6 +8440,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
+      },
+      {
+        "grupo": "006",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH213",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -8468,6 +8567,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-10516-MICROECONOMETRIA APLICADA",
+        "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+        "creditos": "7",
+        "horario": "19:00-20:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH310",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -8503,6 +8617,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      }
+    ]
+  },
+  "ECO-10518": {
+    "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
+    "clave": "ECO-10518",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
+        "profesor": "ARTURO ALBERTO AGUILAR ESTEVA",
+        "creditos": "6",
+        "horario": "19:00-20:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH310",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -9116,12 +9251,11 @@ let clases={
       {
         "grupo": "004",
         "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
-        "profesor": "VALERIA MOY CAMPOS",
+        "profesor": "",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
         "salon": "RH105",
         "campus": "RIO HONDO",
@@ -9212,12 +9346,11 @@ let clases={
       {
         "grupo": "004",
         "nombre": "ECO-12102-ECONOMIA, II",
-        "profesor": "VALERIA MOY CAMPOS",
+        "profesor": "",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
         "salon": "RH105",
         "campus": "RIO HONDO",
@@ -9309,6 +9442,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
+        "profesor": "RAFAEL GUERRA CABRERA",
+        "creditos": "6",
+        "horario": "19:00-21:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHB-3",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -9800,6 +9947,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
+      }
+    ]
+  },
+  "ECO-19220": {
+    "nombre": "ECO-19220-ECONOMIA DEL MEDIO AMBIENTE",
+    "clave": "ECO-19220",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-19220-ECONOMIA DEL MEDIO AMBIENTE",
+        "profesor": "VICTORIA NUGUER",
+        "creditos": "6",
+        "horario": "08:00-10:00",
+        "dias": [
+          "LU",
+          "VI"
+        ],
+        "salon": "RH112",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -10673,7 +10841,7 @@ let clases={
       {
         "grupo": "021",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "FRANCISCO ALEJANDRO GONZALEZ GOMEZ",
+        "profesor": "SAP SAP  CU 9834",
         "creditos": "6",
         "horario": "07:00-08:00",
         "dias": [
@@ -12174,6 +12342,40 @@ let clases={
       }
     ]
   },
+  "EST-24109": {
+    "nombre": "EST-24109-TEMAS SELECTOS DE ESTADISTICA",
+    "clave": "EST-24109",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EST-24109-TEMAS SELECTOS DE ESTADISTICA",
+        "profesor": "MARIA TERESA ORTIZ MANCERA",
+        "creditos": "6",
+        "horario": "17:00-20:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "17:00",
+        "fin": "20:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "EST-24109-TEMAS SELECTOS DE ESTADISTICA",
+        "profesor": "CARLOS CASTRO CORREA",
+        "creditos": "6",
+        "horario": "17:30-20:30",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RH206",
+        "campus": "RIO HONDO",
+        "inicio": "17:30",
+        "fin": "20:30"
+      }
+    ]
+  },
   "EST-24112": {
     "nombre": "EST-24112-ESTADISTICA BAYESIANA",
     "clave": "EST-24112",
@@ -12781,7 +12983,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "IIO-15132-FISICOQUIMICA-LAB",
-        "profesor": "DORA ILIANA MEDINA MEDINA",
+        "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
         "creditos": "8",
         "horario": "10:30-12:30",
         "dias": [
@@ -14736,7 +14938,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12764-COM. PROFES. PARA ING. EN COMP",
-        "profesor": "",
+        "profesor": "INTI VARGAS MORENO",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -17952,6 +18154,11 @@ let misProfesData={
     "general": 8.9375,
     "n": 16
   },
+  "JOSE OCTAVIO GUTIERREZ GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Octavio-Gutierrez-Garcia_129405",
+    "general": 10.0,
+    "n": 5
+  },
   "WILMER EFREN PEREIRA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Wilmer-Efr\u00e9n-Pereira-Gonz\u00e1lez_142587",
     "general": 10.0,
@@ -17981,11 +18188,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-M\u00e1rmol-Yahya_169926",
     "general": 10.0,
     "n": 3
-  },
-  "JOSE OCTAVIO GUTIERREZ GARCIA": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Octavio-Gutierrez-Garcia_129405",
-    "general": 10.0,
-    "n": 5
   },
   "ANA LIDIA FRANZONI VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Lidia-Franzoni-Vel\u00e1zquez_10856",
@@ -18076,6 +18278,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Juan-Manuel-Andrade-Hern\u00e1ndez_108735",
     "general": 7.0,
     "n": 1
+  },
+  "LUIS FELIPE GONZALEZ PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Felipe-Gonz\u00e1lez-P\u00e9rez_10682",
+    "general": 8.8889,
+    "n": 27
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
@@ -18327,11 +18534,6 @@ let misProfesData={
     "general": 8.3333,
     "n": 3
   },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31
-  },
   "LUIS REY RAIGOSA SOTELO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Rey-Raigosa-Sotelo_10783",
     "general": 7.7143,
@@ -18341,6 +18543,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/german-sucar_23220",
     "general": 6.6429,
     "n": 70
+  },
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31
   },
   "RAYMUNDO GAMA LEYVA": {
     "link": "https://www.misprofesores.com/profesores/Raymundo-Gama_80671",
@@ -18404,11 +18611,6 @@ let misProfesData={
   },
   "EDUARDO ERASMO OSORNIO GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Osornio-Garc\u00eda_130204",
-    "general": 10.0,
-    "n": 2
-  },
-  "JULIO ANTONIO RIOS FIGUEROA": {
-    "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
     "general": 10.0,
     "n": 2
   },
@@ -18497,6 +18699,11 @@ let misProfesData={
     "general": 7.0,
     "n": 1
   },
+  "ENRIQUE SEIRA BEJARANO": {
+    "link": "https://www.misprofesores.com/profesores/Enrique-Seira-Bejarano_40993",
+    "general": 5.8462,
+    "n": 13
+  },
   "ARTURO ALBERTO AGUILAR ESTEVA": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
     "general": 8.1875,
@@ -18568,9 +18775,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18592,11 +18799,6 @@ let misProfesData={
     "general": 4.8889,
     "n": 9
   },
-  "VALERIA MOY CAMPOS": {
-    "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
-    "general": 7.8523,
-    "n": 149
-  },
   "ERNESTO BLANCAS BARRAGAN": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
     "general": 7.4,
@@ -18611,6 +18813,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ort\u00edz_62832",
     "general": 6.6,
     "n": 15
+  },
+  "RAFAEL GUERRA CABRERA": {
+    "link": "https://www.misprofesores.com/profesores/Rafael-Guerra-Cabrera_106001",
+    "general": 9.4286,
+    "n": 14
   },
   "JOSE MARTINEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Martinez-Gutierrez_137434",
@@ -18766,11 +18973,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
     "general": 8.0658,
     "n": 76
-  },
-  "FRANCISCO ALEJANDRO GONZALEZ GOMEZ": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Alejandro-Gonz\u00e1lez-Franco_65939",
-    "general": 5.8333,
-    "n": 42
   },
   "SERGIO MIGUEL SARMIENTO SERRANO": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
@@ -18972,6 +19174,11 @@ let misProfesData={
     "general": 7.5,
     "n": 2
   },
+  "MARIA TERESA ORTIZ MANCERA": {
+    "link": "https://www.misprofesores.com/profesores/Teresa-Ortiz-Mancera_74858",
+    "general": 8.8571,
+    "n": 7
+  },
   "SERGIO ROMERO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
     "general": 7.0,
@@ -19033,9 +19240,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3571,
-    "n": 14
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19068,9 +19275,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
@@ -19204,8 +19411,8 @@ let misProfesData={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3091,
-    "n": 110
+    "general": 6.3423,
+    "n": 111
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
