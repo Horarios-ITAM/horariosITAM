@@ -1,4 +1,4 @@
-let actualizado="1755182895319.4155";
+let actualizado="1755269217587.7004";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -4247,6 +4247,23 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "CON-16100-SISTEMAS DE INFO. CONTABLE",
+          "profesor": "JUAN FERNANDO CALDERON CABELLO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHPACE",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "SDI-25916-SISTEMAS EMPRESARIALES": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
           "profesor": "JUAN FERNANDO CALDERON CABELLO",
           "creditos": "6",
           "horario": "07:00-08:30",
@@ -9883,8 +9900,8 @@ let profesores={
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.6154,
-    "n": 13,
+    "general": 9.6429,
+    "n": 14,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -10140,9 +10157,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -11983,13 +12000,16 @@ let profesores={
       ]
     }
   },
-  "SAP SAP  CU 9834": {
+  "FRANCISCO ALEJANDRO GONZALEZ GOMEZ": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Alejandro-Gonz\u00e1lez-Franco_65939",
+    "general": 5.8333,
+    "n": 42,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
           "grupo": "021",
           "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-          "profesor": "SAP SAP  CU 9834",
+          "profesor": "FRANCISCO ALEJANDRO GONZALEZ GOMEZ",
           "creditos": "6",
           "horario": "07:00-08:00",
           "dias": [
@@ -14923,9 +14943,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -15574,9 +15594,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18080,8 +18100,8 @@ let profesores={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.02,
-    "n": 50,
+    "general": 7.0784,
+    "n": 51,
     "grupos": {
       "MAT-14101-CALCULO DIF. E INT., II": [
         {
@@ -19361,8 +19381,8 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "LOUIS ZALTZMAN KORNHAUSER",
-    "ANTONIO VIVANCO CASAMADRID",
     "SOFIA CORONA VERDUZCO",
+    "ANTONIO VIVANCO CASAMADRID",
     "RAFAEL GUERRA CABRERA",
     "BARBARA CARRILLO FLORES",
     "MENEY DE LA PEZA GANDARA",
@@ -19419,11 +19439,11 @@ let mejoresPorDepto={
     "BRUNO ALEJANDRO ORSATTI SANCHEZ"
   ],
   "LENGUAS (LEN)": [
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
