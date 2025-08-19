@@ -1,4 +1,4 @@
-let actualizado="1755528570276.5796";
+let actualizado="1755614816555.3403";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -3908,7 +3908,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHLI1",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -18182,8 +18182,8 @@ let misProfesData={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.4,
-    "n": 110
+    "general": 7.4234,
+    "n": 111
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -18557,8 +18557,8 @@ let misProfesData={
   },
   "AMRITA BAHRI": {
     "link": "https://www.misprofesores.com/profesores/Amrita-Bahri_93904",
-    "general": 9.5,
-    "n": 12
+    "general": 9.5385,
+    "n": 13
   },
   "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Guadalupe-Real-Rodriguez_104084",
@@ -19316,9 +19316,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",

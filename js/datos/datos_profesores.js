@@ -1,4 +1,4 @@
-let actualizado="1755528570290.485";
+let actualizado="1755614816569.3213";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -2944,8 +2944,8 @@ let profesores={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.4,
-    "n": 110,
+    "general": 7.4234,
+    "n": 111,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
@@ -4495,7 +4495,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHLI1",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -7493,8 +7493,8 @@ let profesores={
   },
   "AMRITA BAHRI": {
     "link": "https://www.misprofesores.com/profesores/Amrita-Bahri_93904",
-    "general": 9.5,
-    "n": 12,
+    "general": 9.5385,
+    "n": 13,
     "grupos": {
       "DER-11111-HABILIDADES JURID. GLOBALES I": [
         {
@@ -15611,9 +15611,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -19391,8 +19391,8 @@ let mejoresPorDepto={
     "JOSE LUIS CABALLERO RODRIGUEZ",
     "FRANCO ALBERTO DEL VALLE PRADO",
     "IRVIN ARTURO CASTILLO CESAREO",
-    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
     "AMRITA BAHRI",
+    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
     "JOSE ANGEL FERNANDEZ URIA"
   ],
   "ECONOMIA": [
