@@ -1,4 +1,4 @@
-let actualizado="1755614816555.3403";
+let actualizado="1755701238164.6455";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -1335,7 +1335,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -2003,7 +2003,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2060,7 +2060,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -5806,7 +5806,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF106",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -5918,7 +5918,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -5938,7 +5938,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF106",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -6597,7 +6597,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -6612,7 +6612,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -7194,7 +7194,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -7323,7 +7323,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF104",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -7349,7 +7349,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -7567,7 +7567,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-2",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -7588,7 +7588,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF104",
+        "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -7946,7 +7946,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF101",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -8086,7 +8086,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH307",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -8158,7 +8158,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH307",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -14227,7 +14227,7 @@ let clases={
       {
         "grupo": "019",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "",
+        "profesor": "MAURICIO HERNANDEZ CERVANTES",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -16833,7 +16833,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH309",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -17296,7 +17296,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH304",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -17362,7 +17362,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH304",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -18482,8 +18482,8 @@ let misProfesData={
   },
   "TANIA GABRIELA RODRIGUEZ HUERTA": {
     "link": "https://www.misprofesores.com/profesores/Tania-Gabriela-Rodr\u00edguez-Huerta_10785",
-    "general": 7.2222,
-    "n": 27
+    "general": 7.3214,
+    "n": 28
   },
   "ALEJANDRO  RODILES BRETON": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Rodiles-Bret\u00f3n_90266",
@@ -19316,9 +19316,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
