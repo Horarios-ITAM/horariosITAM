@@ -1,4 +1,4 @@
-let actualizado="1755701238164.6455";
+let actualizado="1755787628944.7937";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -34,7 +34,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH302",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -238,7 +238,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH306",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -371,7 +371,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -1026,7 +1026,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF104",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -6407,7 +6407,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH201",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:30"
@@ -7230,7 +7230,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF104",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -9135,7 +9135,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF101",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -9621,7 +9621,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -9714,7 +9714,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF101",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9735,7 +9735,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF105",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -9887,7 +9887,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH306",
+        "salon": "RHLI1",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "20:00"
@@ -10092,7 +10092,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF101",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -14213,7 +14213,7 @@ let clases={
       {
         "grupo": "018",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "",
+        "profesor": "JAIME VELASCO ESTRADA",
         "creditos": "2",
         "horario": "11:00-12:00",
         "dias": [
@@ -14899,7 +14899,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF108",
+        "salon": "RH208",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:00"
@@ -14919,7 +14919,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF108",
+        "salon": "RH204",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:00"
