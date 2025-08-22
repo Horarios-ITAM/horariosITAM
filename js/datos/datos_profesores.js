@@ -1,4 +1,4 @@
-let actualizado="1755787628958.9753";
+let actualizado="1755873959004.408";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -2944,8 +2944,8 @@ let profesores={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.4234,
-    "n": 111,
+    "general": 7.4464,
+    "n": 112,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
@@ -3160,13 +3160,13 @@ let profesores={
           "nombre": "COM-14104-SISTEMAS OPERATIVOS",
           "profesor": "JOSE OCTAVIO GUTIERREZ GARCIA",
           "creditos": "8",
-          "horario": "18:00-20:00",
+          "horario": "17:00-20:00",
           "dias": [
             "MI"
           ],
           "salon": "PF106",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
+          "inicio": "17:00",
           "fin": "20:00"
         }
       ],
@@ -4321,9 +4321,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -8129,13 +8129,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "SANTIAGO AICINENA VARGAS": {
     "grupos": {
       "DER-13108-BIENES Y DERECHOS REALES": [
         {
           "grupo": "002",
           "nombre": "DER-13108-BIENES Y DERECHOS REALES",
-          "profesor": "",
+          "profesor": "SANTIAGO AICINENA VARGAS",
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
@@ -8146,88 +8146,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ],
-      "DER-16702-DERECHO MERCANTIL III": [
-        {
-          "grupo": "002",
-          "nombre": "DER-16702-DERECHO MERCANTIL III",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
-        {
-          "grupo": "004",
-          "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-12102-ECONOMIA, II": [
-        {
-          "grupo": "004",
-          "nombre": "ECO-12102-ECONOMIA, II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "EST-10101-ESTADISTICA.,I": [
-        {
-          "grupo": "002",
-          "nombre": "EST-10101-ESTADISTICA.,I",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "11:00-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-1",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "13:00"
-        }
-      ],
-      "EST-11102-INFERENCIA ESTADISTICA": [
-        {
-          "grupo": "002",
-          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
         }
       ]
     }
@@ -8784,6 +8702,26 @@ let profesores={
       ]
     }
   },
+  "HECTOR MANUEL GROENEWOLD ORTIZ MENA": {
+    "grupos": {
+      "DER-16702-DERECHO MERCANTIL III": [
+        {
+          "grupo": "002",
+          "nombre": "DER-16702-DERECHO MERCANTIL III",
+          "profesor": "HECTOR MANUEL GROENEWOLD ORTIZ MENA",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH307",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "SEBASTIAN FERNANDEZ ALONSO MARQUEZ": {
     "grupos": {
       "DER-16922-LAB. DERECHO PRIVADO (CLINICA)-LAB": [
@@ -9232,8 +9170,6 @@ let profesores={
           "creditos": "6",
           "horario": "10:00-11:30",
           "dias": [
-            "LU",
-            "MI",
             "VI"
           ],
           "salon": "RH316",
@@ -9266,8 +9202,6 @@ let profesores={
           "creditos": "9",
           "horario": "10:00-11:30",
           "dias": [
-            "LU",
-            "MI",
             "VI"
           ],
           "salon": "RH316",
@@ -9620,7 +9554,6 @@ let profesores={
           "creditos": "3",
           "horario": "10:00-11:30",
           "dias": [
-            "LU",
             "MI"
           ],
           "salon": "RH103",
@@ -10254,7 +10187,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH113",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -10270,7 +10203,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH113",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -10354,6 +10287,45 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "VALERIA MOY CAMPOS": {
+    "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
+    "general": 7.8523,
+    "n": 149,
+    "grupos": {
+      "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
+          "profesor": "VALERIA MOY CAMPOS",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "VALERIA MOY CAMPOS",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH105",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -10550,14 +10522,14 @@ let profesores={
           "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
           "profesor": "RAFAEL GUERRA CABRERA",
           "creditos": "6",
-          "horario": "19:00-21:00",
+          "horario": "19:00-22:00",
           "dias": [
             "MA"
           ],
           "salon": "RHB-3",
           "campus": "RIO HONDO",
           "inicio": "19:00",
-          "fin": "21:00"
+          "fin": "22:00"
         }
       ]
     }
@@ -12827,6 +12799,44 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "EST-10101-ESTADISTICA.,I": [
+        {
+          "grupo": "002",
+          "nombre": "EST-10101-ESTADISTICA.,I",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "11:00-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "13:00"
+        }
+      ],
+      "EST-11102-INFERENCIA ESTADISTICA": [
+        {
+          "grupo": "002",
+          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ]
     }
@@ -15581,9 +15591,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {

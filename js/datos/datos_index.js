@@ -1,4 +1,4 @@
-let actualizado="1755787628944.7937";
+let actualizado="1755873958975.745";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -2793,13 +2793,13 @@ let clases={
         "nombre": "COM-14104-SISTEMAS OPERATIVOS",
         "profesor": "JOSE OCTAVIO GUTIERREZ GARCIA",
         "creditos": "8",
-        "horario": "18:00-20:00",
+        "horario": "17:00-20:00",
         "dias": [
           "MI"
         ],
         "salon": "PF106",
         "campus": "RIO HONDO",
-        "inicio": "18:00",
+        "inicio": "17:00",
         "fin": "20:00"
       }
     ]
@@ -7103,7 +7103,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-13108-BIENES Y DERECHOS REALES",
-        "profesor": "",
+        "profesor": "SANTIAGO AICINENA VARGAS",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -7778,7 +7778,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-16702-DERECHO MERCANTIL III",
-        "profesor": "",
+        "profesor": "HECTOR MANUEL GROENEWOLD ORTIZ MENA",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -8288,8 +8288,6 @@ let clases={
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
-          "LU",
-          "MI",
           "VI"
         ],
         "salon": "RH316",
@@ -8403,8 +8401,6 @@ let clases={
         "creditos": "9",
         "horario": "10:00-11:30",
         "dias": [
-          "LU",
-          "MI",
           "VI"
         ],
         "salon": "RH316",
@@ -8673,7 +8669,6 @@ let clases={
         "creditos": "3",
         "horario": "10:00-11:30",
         "dias": [
-          "LU",
           "MI"
         ],
         "salon": "RH103",
@@ -9135,7 +9130,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH113",
+        "salon": "RH205",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -9251,7 +9246,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
-        "profesor": "",
+        "profesor": "VALERIA MOY CAMPOS",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -9346,7 +9341,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "ECO-12102-ECONOMIA, II",
-        "profesor": "",
+        "profesor": "VALERIA MOY CAMPOS",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -9448,14 +9443,14 @@ let clases={
         "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
         "profesor": "RAFAEL GUERRA CABRERA",
         "creditos": "6",
-        "horario": "19:00-21:00",
+        "horario": "19:00-22:00",
         "dias": [
           "MA"
         ],
         "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "19:00",
-        "fin": "21:00"
+        "fin": "22:00"
       }
     ]
   },
@@ -10092,7 +10087,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH113",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -18182,8 +18177,8 @@ let misProfesData={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.4234,
-    "n": 111
+    "general": 7.4464,
+    "n": 112
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -18296,9 +18291,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -18835,6 +18830,11 @@ let misProfesData={
     "general": 4.8889,
     "n": 9
   },
+  "VALERIA MOY CAMPOS": {
+    "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
+    "general": 7.8523,
+    "n": 149
+  },
   "ERNESTO BLANCAS BARRAGAN": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
     "general": 7.4,
@@ -19316,9 +19316,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
