@@ -1,4 +1,4 @@
-let actualizado="1755873959004.408";
+let actualizado="1755960108456.8916";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -755,7 +755,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -770,7 +770,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -1222,7 +1222,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH209",
+          "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -1246,7 +1246,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -1326,7 +1326,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH212",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -1341,7 +1341,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH111",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -5906,7 +5906,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH110",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -5923,7 +5923,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH110",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -5940,7 +5940,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH110",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -5957,7 +5957,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH110",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -10077,9 +10077,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -11706,7 +11706,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH204",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -11747,7 +11747,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH201",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -11779,7 +11779,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH205",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
@@ -11837,7 +11837,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH204",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -14954,7 +14954,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "PF108",
+          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -14987,7 +14987,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "PF108",
+          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -15591,9 +15591,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17830,8 +17830,8 @@ let profesores={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 7.129,
-    "n": 31,
+    "general": 6.9688,
+    "n": 32,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
@@ -19278,7 +19278,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF105",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "10:30",
           "fin": "12:00"
@@ -19295,7 +19295,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF105",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "10:30",
           "fin": "12:00"
