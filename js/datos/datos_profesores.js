@@ -1,4 +1,4 @@
-let actualizado="1756133228035.6072";
+let actualizado="1756219537985.491";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -5848,7 +5848,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -5882,7 +5882,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
@@ -7858,7 +7858,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF104",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -8734,7 +8734,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "22:00"
@@ -8865,7 +8865,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -9012,7 +9012,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-2",
+          "salon": "RH305",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -10077,9 +10077,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -14940,9 +14940,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3571,
-    "n": 14,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -19208,6 +19208,23 @@ let profesores={
           "inicio": "12:30",
           "fin": "14:00"
         }
+      ],
+      "SDI-18801-TEMAS SELECT TEO. DEL CONTROL": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-18801-TEMAS SELECT TEO. DEL CONTROL",
+          "profesor": "ROMEO SALVADOR ORTEGA MARTINEZ",
+          "creditos": "6",
+          "horario": "11:00-12:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHLCLMP",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:30"
+        }
       ]
     }
   },
@@ -19472,11 +19489,11 @@ let mejoresPorDepto={
     "BRUNO ALEJANDRO ORSATTI SANCHEZ"
   ],
   "LENGUAS (LEN)": [
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
