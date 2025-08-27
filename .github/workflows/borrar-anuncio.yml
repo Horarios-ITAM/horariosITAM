@@ -1,0 +1,32 @@
+name: Borrar anuncio
+
+on:
+  schedule:
+    # Runs at 00:00 on the 1st day of every month.
+    # Adjust cron expression as needed. e.g., '0 0 */21 * *' for every 3 weeks.
+    - cron: '0 0 1 * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  clear_file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Clear anuncio.txt
+        run: |
+          echo "" > anuncio.txt
+
+      - name: Commit files # Hacemos commit de los cambios.
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -a -m "borrar anuncio"
+          
+      - name: Push changes # Y push - que a su vez triggea la accion de Pages.
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
