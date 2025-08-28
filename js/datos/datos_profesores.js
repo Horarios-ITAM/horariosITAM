@@ -1,4 +1,4 @@
-let actualizado="1756305915151.6416";
+let actualizado="1756392402988.8765";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -6128,7 +6128,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF101",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -10187,7 +10187,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH205",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -17112,8 +17112,8 @@ let profesores={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 5.7143,
-    "n": 7,
+    "general": 6.0,
+    "n": 8,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {

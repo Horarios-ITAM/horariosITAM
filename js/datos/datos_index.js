@@ -1,4 +1,4 @@
-let actualizado="1756305915135.081";
+let actualizado="1756392402971.73";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -8502,7 +8502,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF101",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -9130,7 +9130,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH205",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -19433,8 +19433,8 @@ let misProfesData={
   },
   "OMAR VIGUERAS HERRERA": {
     "link": "https://www.misprofesores.com/profesores/Omar-Vigueras-Herrera_147082",
-    "general": 5.7143,
-    "n": 7
+    "general": 6.0,
+    "n": 8
   },
   "HERICA SANCHEZ LARIOS": {
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
