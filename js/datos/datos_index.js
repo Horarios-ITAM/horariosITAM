@@ -1,4 +1,4 @@
-let actualizado="1756392402971.73";
+let actualizado="1756478679702.2222";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -7194,7 +7194,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH111",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -8219,7 +8219,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH305",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -18312,9 +18312,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -19337,9 +19337,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
@@ -19558,8 +19558,8 @@ let misProfesData={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.25,
-    "n": 4
+    "general": 9.4,
+    "n": 5
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
