@@ -26,11 +26,11 @@ def notifica(msg, url):
     )
 
 
-def req(url, expected_status_code=200, exit_on_error=True):
+def req(url, acceptable_status_codes=[200], exit_on_error=True):
     r = None
     try:
         r = requests.get(url)
-        if r.status_code != expected_status_code:
+        if r.status_code not in acceptable_status_codes:
             raise Exception(f"Codigo de respuesta {r.status_code} para {url}")
     except Exception as e:
         print(f"Error al acceder a {url}: {e}")
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     req(URL_BASE)
 
     # Checamos que el proxy este arriba
-    req(args.proxy, expected_status_code=500)
+    req(args.proxy, acceptable_status_codes=[500, 503])
 
     # Que datos (index y profesores) esten actualizados (no mas de 2 dias)
     checa_actualizado_hace(URL_BASE + "/js/datos/datos_index.js")
