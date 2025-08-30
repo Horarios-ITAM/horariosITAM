@@ -1,4 +1,4 @@
-let actualizado="1756478679719.5076";
+let actualizado="1756564819335.0496";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -5187,6 +5187,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ],
+      "CON-17100-SEMINAR. DE INVEST. CONTABLE,I": [
+        {
+          "grupo": "001",
+          "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
+          "profesor": "BENITO REVAH MEYOHAS",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -15591,9 +15607,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
