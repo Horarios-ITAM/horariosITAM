@@ -1,4 +1,4 @@
-let actualizado="1756742024019.2175";
+let actualizado="1756824395050.8171";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -2123,7 +2123,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -5770,6 +5770,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
+      }
+    ]
+  },
+  "CSO-19077": {
+    "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+    "clave": "CSO-19077",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+        "profesor": "ALEXANDRA URIBE COUGHLAN",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -19322,9 +19342,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3571,
-    "n": 14
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
