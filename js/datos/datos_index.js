@@ -1,4 +1,4 @@
-let actualizado="1756824395050.8171";
+let actualizado="1756910681202.007";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -19318,8 +19318,8 @@ let misProfesData={
   },
   "ADAN RAMIREZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Ad\u00e1n-Ram\u00edrez-L\u00f3pez_62698",
-    "general": 8.1,
-    "n": 10
+    "general": 8.2727,
+    "n": 11
   },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
@@ -19342,9 +19342,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",

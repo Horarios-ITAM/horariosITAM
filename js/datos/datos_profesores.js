@@ -1,4 +1,4 @@
-let actualizado="1756824395065.2761";
+let actualizado="1756910681217.6602";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -14454,8 +14454,8 @@ let profesores={
   },
   "ADAN RAMIREZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Ad\u00e1n-Ram\u00edrez-L\u00f3pez_62698",
-    "general": 8.1,
-    "n": 10,
+    "general": 8.2727,
+    "n": 11,
     "grupos": {
       "IIO-15140-CIENCIAS DE LOS MATERIALES-LAB": [
         {
@@ -14972,9 +14972,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -19521,11 +19521,11 @@ let mejoresPorDepto={
     "BRUNO ALEJANDRO ORSATTI SANCHEZ"
   ],
   "LENGUAS (LEN)": [
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
