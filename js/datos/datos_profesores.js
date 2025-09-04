@@ -1,4 +1,4 @@
-let actualizado="1756910681217.6602";
+let actualizado="1756997100375.9885";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -13377,7 +13377,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH108",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -15623,9 +15623,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18529,8 +18529,8 @@ let profesores={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.4,
-    "n": 5,
+    "general": 9.5,
+    "n": 6,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
