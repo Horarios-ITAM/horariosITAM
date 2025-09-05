@@ -1,4 +1,4 @@
-let actualizado="1756997100361.7573";
+let actualizado="1757083401224.8503";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -9922,7 +9922,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHLI1",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "20:00"
@@ -19538,8 +19538,8 @@ let misProfesData={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 6.9688,
-    "n": 32
+    "general": 6.7059,
+    "n": 34
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",

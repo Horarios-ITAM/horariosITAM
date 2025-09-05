@@ -1,4 +1,4 @@
-let actualizado="1756997100375.9885";
+let actualizado="1757083401239.6526";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -10953,7 +10953,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHLI1",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "20:00"
@@ -17862,8 +17862,8 @@ let profesores={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 6.9688,
-    "n": 32,
+    "general": 6.7059,
+    "n": 34,
     "grupos": {
       "MAT-12310-ALGEBRA MATRICIAL": [
         {
