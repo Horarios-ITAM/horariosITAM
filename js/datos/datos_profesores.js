@@ -1,4 +1,4 @@
-let actualizado="1757083401239.6526";
+let actualizado="1757169574164.555";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -15623,9 +15623,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16943,8 +16943,8 @@ let profesores={
   },
   "RAYBEL ANDRES GARCIA ANCONA": {
     "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
-    "general": 6.7778,
-    "n": 18,
+    "general": 6.8947,
+    "n": 19,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
