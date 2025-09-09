@@ -1,4 +1,4 @@
-let actualizado="1757342754569.6594";
+let actualizado="1757429093162.0781";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -11683,7 +11683,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EST-10101-ESTADISTICA.,I",
-        "profesor": "",
+        "profesor": "WEIFENG JIN",
         "creditos": "8",
         "horario": "11:00-13:00",
         "dias": [
@@ -11851,7 +11851,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EST-11102-INFERENCIA ESTADISTICA",
-        "profesor": "",
+        "profesor": "WEIFENG JIN",
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
@@ -19342,9 +19342,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
