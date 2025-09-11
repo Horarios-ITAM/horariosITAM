@@ -1,4 +1,4 @@
-let actualizado="1757515406042.5032";
+let actualizado="1757601844297.8982";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -19377,9 +19377,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
