@@ -1,4 +1,4 @@
-let actualizado="1757860844340.4924";
+let actualizado="1757947337078.301";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -19458,8 +19458,8 @@ let misProfesData={
   },
   "RAYBEL ANDRES GARCIA ANCONA": {
     "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
-    "general": 6.8947,
-    "n": 19
+    "general": 7.0,
+    "n": 20
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
@@ -19598,8 +19598,8 @@ let misProfesData={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.5,
-    "n": 6
+    "general": 9.5714,
+    "n": 7
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",

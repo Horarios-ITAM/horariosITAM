@@ -1,4 +1,4 @@
-let actualizado="1757860844354.233";
+let actualizado="1757947337091.9897";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -16943,8 +16943,8 @@ let profesores={
   },
   "RAYBEL ANDRES GARCIA ANCONA": {
     "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
-    "general": 6.8947,
-    "n": 19,
+    "general": 7.0,
+    "n": 20,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -18529,8 +18529,8 @@ let profesores={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.5,
-    "n": 6,
+    "general": 9.5714,
+    "n": 7,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
