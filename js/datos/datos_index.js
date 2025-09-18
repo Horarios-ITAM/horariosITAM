@@ -1,4 +1,4 @@
-let actualizado="1758120197449.604";
+let actualizado="1758206657779.5435";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18352,9 +18352,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -18738,8 +18738,8 @@ let misProfesData={
   },
   "JOSEFINA CORTES CAMPOS": {
     "link": "https://www.misprofesores.com/profesores/Josefina-Cort\u00e9s-Campos_10790",
-    "general": 6.9,
-    "n": 30
+    "general": 6.7742,
+    "n": 31
   },
   "JOSE OMAR HERNANDEZ SALGADO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Omar-Hern\u00e1ndez-Salgado_157835",
@@ -19342,9 +19342,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3571,
+    "n": 14
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
