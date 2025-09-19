@@ -1,4 +1,4 @@
-let actualizado="1758206657779.5435";
+let actualizado="1758293079002.4934";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18436,6 +18436,11 @@ let misProfesData={
     "general": 8.697,
     "n": 99
   },
+  "JOSE JULIO MURCIO TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Julio-Murcio-Trejo_188329",
+    "general": 2.0,
+    "n": 1
+  },
   "SYLVIA MELJEM ENRIQUEZ DE RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Sylvia-Meljem-Enriquez-de-Rivera_10756",
     "general": 7.5833,
@@ -19377,9 +19382,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",

@@ -1,4 +1,4 @@
-let actualizado="1758206657794.617";
+let actualizado="1758293079016.0847";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -5345,6 +5345,9 @@ let profesores={
     }
   },
   "JOSE JULIO MURCIO TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Julio-Murcio-Trejo_188329",
+    "general": 2.0,
+    "n": 1,
     "grupos": {
       "CON-12002-COSTOS PARA TOMA DE DECISIONES": [
         {
@@ -15623,9 +15626,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
