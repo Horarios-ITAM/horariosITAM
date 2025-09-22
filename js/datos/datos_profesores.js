@@ -1,4 +1,4 @@
-let actualizado="1758465643025.8623";
+let actualizado="1758552319687.7197";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -2777,8 +2777,8 @@ let profesores={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 5.0952,
-    "n": 21,
+    "general": 4.9545,
+    "n": 22,
     "grupos": {
       "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS-LAB": [
         {
@@ -9578,8 +9578,8 @@ let profesores={
   },
   "MIGUEL MESSMACHER LINARTAS": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Messmacher-Linartas_118897",
-    "general": 8.8,
-    "n": 5,
+    "general": 9.0,
+    "n": 6,
     "grupos": {
       "ECO-11000-INTRODUCCION A LA ECONOMIA": [
         {
@@ -9638,8 +9638,8 @@ let profesores={
   },
   "CLAUDIA ABURTO RANCA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
-    "general": 8.9012,
-    "n": 81,
+    "general": 8.9146,
+    "n": 82,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -14975,9 +14975,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3571,
-    "n": 14,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -18847,8 +18847,8 @@ let profesores={
   },
   "MAYRA NU\u00d1EZ LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Mayra-Nu\u00f1ez-L\u00f3pez_100352",
-    "general": 9.25,
-    "n": 16,
+    "general": 9.2941,
+    "n": 17,
     "grupos": {
       "MAT-24630-MATEM. APLICADAS A LA ECONOMIA": [
         {
@@ -19470,9 +19470,9 @@ let mejoresPorDepto={
     "ANTONIO VIVANCO CASAMADRID",
     "RAFAEL GUERRA CABRERA",
     "BARBARA CARRILLO FLORES",
+    "MIGUEL MESSMACHER LINARTAS",
     "MENEY DE LA PEZA GANDARA",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "MIGUEL MESSMACHER LINARTAS",
     "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
@@ -19524,11 +19524,11 @@ let mejoresPorDepto={
     "BRUNO ALEJANDRO ORSATTI SANCHEZ"
   ],
   "LENGUAS (LEN)": [
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
