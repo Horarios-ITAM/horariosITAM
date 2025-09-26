@@ -1,4 +1,4 @@
-let actualizado="1758811578006.8286";
+let actualizado="1758897710381.724";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18558,8 +18558,8 @@ let misProfesData={
   },
   "RODRIGO FARIAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Far\u00edas_98498",
-    "general": 4.0,
-    "n": 5
+    "general": 3.6667,
+    "n": 6
   },
   "MARIANA CALDERON ARAMBURU": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Calder\u00f3n-Aramburu_140257",

@@ -1,4 +1,4 @@
-let actualizado="1758811578019.62";
+let actualizado="1758897710395.385";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -6800,8 +6800,8 @@ let profesores={
   },
   "RODRIGO FARIAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Far\u00edas_98498",
-    "general": 4.0,
-    "n": 5,
+    "general": 3.6667,
+    "n": 6,
     "grupos": {
       "DER-10011-REGIMEN FISCAL MEXICANO (CP)": [
         {
