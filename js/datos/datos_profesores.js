@@ -1,4 +1,4 @@
-let actualizado="1760971540061.3528";
+let actualizado="1761057852111.3857";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -4321,9 +4321,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -5225,57 +5225,6 @@ let profesores={
           "inicio": "19:00",
           "fin": "20:30"
         }
-      ],
-      "CON-12110-CONTABILIDAD DE COSTOS P/ING.": [
-        {
-          "grupo": "003",
-          "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
-          "profesor": "BERTHA HILDA ROJAS NU\u00d1EZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "CON-14101-CONTABILIDAD ADMINISTRATIVA,II": [
-        {
-          "grupo": "003",
-          "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
-          "profesor": "BERTHA HILDA ROJAS NU\u00d1EZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "CON-14109-CONTABILIDAD GERENCIAL": [
-        {
-          "grupo": "003",
-          "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
-          "profesor": "BERTHA HILDA ROJAS NU\u00d1EZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
       ]
     }
   },
@@ -5529,6 +5478,23 @@ let profesores={
     "general": 7.4483,
     "n": 29,
     "grupos": {
+      "CON-12110-CONTABILIDAD DE COSTOS P/ING.": [
+        {
+          "grupo": "003",
+          "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
+          "profesor": "MONICA GARCIA CEREZO",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
       "CON-14100-CONTABILIDAD ADMINISTRATIVA, I": [
         {
           "grupo": "001",
@@ -5557,6 +5523,40 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "14:00"
+        }
+      ],
+      "CON-14101-CONTABILIDAD ADMINISTRATIVA,II": [
+        {
+          "grupo": "003",
+          "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
+          "profesor": "MONICA GARCIA CEREZO",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "CON-14109-CONTABILIDAD GERENCIAL": [
+        {
+          "grupo": "003",
+          "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
+          "profesor": "MONICA GARCIA CEREZO",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -10105,9 +10105,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -14968,9 +14968,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.4,
-    "n": 15,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -19517,11 +19517,11 @@ let mejoresPorDepto={
     "BRUNO ALEJANDRO ORSATTI SANCHEZ"
   ],
   "LENGUAS (LEN)": [
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
