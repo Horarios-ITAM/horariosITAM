@@ -1,4 +1,4 @@
-let actualizado="1761144560090.427";
+let actualizado="1761230875941.6443";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18133,8 +18133,8 @@ let misProfesData={
   },
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
-    "general": 6.6071,
-    "n": 28
+    "general": 6.6897,
+    "n": 29
   },
   "FRANCO ZECCHETTO TOLEDO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
@@ -18328,8 +18328,8 @@ let misProfesData={
   },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
-    "general": 7.2273,
-    "n": 44
+    "general": 7.1778,
+    "n": 45
   },
   "KARINA RUIZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Monica-Ruiz-Ordo\u00f1ez_22570",
@@ -19192,9 +19192,9 @@ let misProfesData={
     "n": 44
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",

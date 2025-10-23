@@ -1,4 +1,4 @@
-let actualizado="1761144560105.0837";
+let actualizado="1761230876008.461";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -1465,8 +1465,8 @@ let profesores={
   },
   "MARIA DE LAS MERCEDES ADAMUZ PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Adamuz-Pe\u00f1a_10746",
-    "general": 6.6071,
-    "n": 28,
+    "general": 6.6897,
+    "n": 29,
     "grupos": {
       "ADM-15503-FINANZAS.,III": [
         {
@@ -4060,8 +4060,8 @@ let profesores={
   },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
-    "general": 7.2273,
-    "n": 44,
+    "general": 7.1778,
+    "n": 45,
     "grupos": {
       "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
         {
@@ -12915,9 +12915,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -19502,7 +19502,7 @@ let mejoresPorDepto={
     "FELIPE JAVIER MEDINA AGUAYO",
     "ERICK MIER MORENO",
     "LILIANA DE LA TORRE DESENTIS",
-    "MARTIN MAGRIS"
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
