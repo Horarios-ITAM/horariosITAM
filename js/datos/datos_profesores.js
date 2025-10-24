@@ -1,4 +1,4 @@
-let actualizado="1761230876008.461";
+let actualizado="1761317212197.8494";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -3382,8 +3382,8 @@ let profesores={
   },
   "CARLOS FERNANDO ESPONDA DARLINGTON": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Fernando-Esponda-Darlington_10851",
-    "general": 7.8148,
-    "n": 27,
+    "general": 7.6071,
+    "n": 28,
     "grupos": {
       "COM-14113-FUNDAMENTOS DE PROGRAMACION": [
         {
@@ -4321,9 +4321,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -12915,9 +12915,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -19502,7 +19502,7 @@ let mejoresPorDepto={
     "FELIPE JAVIER MEDINA AGUAYO",
     "ERICK MIER MORENO",
     "LILIANA DE LA TORRE DESENTIS",
-    "MANUEL MENDOZA RAMIREZ"
+    "MARTIN MAGRIS"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
