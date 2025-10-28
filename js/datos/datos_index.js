@@ -1,4 +1,4 @@
-let actualizado="1761576291059.4207";
+let actualizado="1761662861276.0745";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18867,9 +18867,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -19342,9 +19342,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.4,
+    "n": 15
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
