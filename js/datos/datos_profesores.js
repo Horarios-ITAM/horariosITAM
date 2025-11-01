@@ -1,4 +1,4 @@
-let actualizado="1761921974752.3213";
+let actualizado="1762008072264.6885";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -6262,8 +6262,8 @@ let profesores={
   },
   "JEFFREY ALLEN WELDON": {
     "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",
-    "general": 5.9737,
-    "n": 76,
+    "general": 5.961,
+    "n": 77,
     "grupos": {
       "CSO-13041-POL. MEXICANA CONTEMPORANEA": [
         {
@@ -15619,9 +15619,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16614,6 +16614,9 @@ let profesores={
     }
   },
   "SERGIO IVAN ARROYO GILES": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Ivan-Arroyo-Giles_189130",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "MAT-10101-MET. CUANTITATIVOS PARA DER.": [
         {

@@ -1,4 +1,4 @@
-let actualizado="1761921974740.7092";
+let actualizado="1762008072251.7969";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18513,8 +18513,8 @@ let misProfesData={
   },
   "JEFFREY ALLEN WELDON": {
     "link": "https://www.misprofesores.com/profesores/Jeffrey-Allen-Weldon-Uitti_10806",
-    "general": 5.9737,
-    "n": 76
+    "general": 5.961,
+    "n": 77
   },
   "LUIS MANUEL ESTRADA STRAFFON": {
     "link": "https://www.misprofesores.com/profesores/luis-estrada-straffon_77178",
@@ -19377,9 +19377,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
@@ -19430,6 +19430,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
     "general": 9.2222,
     "n": 18
+  },
+  "SERGIO IVAN ARROYO GILES": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Ivan-Arroyo-Giles_189130",
+    "general": 0.0,
+    "n": 0
   },
   "RITA EUGENIA MALDONADO LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Rita-Eugenia-Maldonado_15549",
