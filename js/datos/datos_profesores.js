@@ -1,4 +1,4 @@
-let actualizado="1762786015805.2996";
+let actualizado="1762872365309.6816";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -4321,9 +4321,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -11719,8 +11719,8 @@ let profesores={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.8265,
-    "n": 98,
+    "general": 6.7778,
+    "n": 99,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12915,9 +12915,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14016,6 +14016,9 @@ let profesores={
     }
   },
   "LUIS EDUARDO URBAN RIVERO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Eduardo-Urban-Rivero_189280",
+    "general": 2.0,
+    "n": 1,
     "grupos": {
       "IIO-12172-TALLER PROGR DE DISPOS DE ING.": [
         {
@@ -19505,7 +19508,7 @@ let mejoresPorDepto={
     "FELIPE JAVIER MEDINA AGUAYO",
     "ERICK MIER MORENO",
     "LILIANA DE LA TORRE DESENTIS",
-    "MARTIN MAGRIS"
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
@@ -19517,7 +19520,7 @@ let mejoresPorDepto={
     "ANTE SALCEDO GONZALEZ",
     "ANA KARINA MIRANDA FLORES",
     "MARIA CRISTINA GIGOLA PAGLIALUNGA",
-    "BRUNO ALEJANDRO ORSATTI SANCHEZ"
+    "LUIS EDUARDO URBAN RIVERO"
   ],
   "LENGUAS (LEN)": [
     "FEDERICO VALLE OCHOA",

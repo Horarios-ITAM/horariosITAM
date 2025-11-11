@@ -1,4 +1,4 @@
-let actualizado="1762786015792.3457";
+let actualizado="1762872365297.8186";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18352,9 +18352,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -19048,8 +19048,8 @@ let misProfesData={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.8265,
-    "n": 98
+    "general": 6.7778,
+    "n": 99
   },
   "GABRIELA HERNANDEZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
@@ -19192,9 +19192,9 @@ let misProfesData={
     "n": 44
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -19280,6 +19280,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Teresa-Ortiz-Mancera_74858",
     "general": 8.8571,
     "n": 7
+  },
+  "LUIS EDUARDO URBAN RIVERO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Eduardo-Urban-Rivero_189280",
+    "general": 2.0,
+    "n": 1
   },
   "SERGIO ROMERO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
