@@ -1,4 +1,4 @@
-let actualizado="1762960606975.877";
+let actualizado="1763045008669.645";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -4321,9 +4321,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.619,
-    "n": 42,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -10105,9 +10105,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -11002,6 +11002,9 @@ let profesores={
     }
   },
   "MICHELLE AVATANEO TRUQUI": {
+    "link": "https://www.misprofesores.com/profesores/Michelle-Avataneo_189335",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "ECO-21104-ECONOMIA IV": [
         {
@@ -14971,9 +14974,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.4,
-    "n": 15,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -15622,9 +15625,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -19464,6 +19467,7 @@ let mejoresPorDepto={
   ],
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
+    "MICHELLE AVATANEO TRUQUI",
     "LOUIS ZALTZMAN KORNHAUSER",
     "SOFIA CORONA VERDUZCO",
     "ANTONIO VIVANCO CASAMADRID",
@@ -19471,8 +19475,7 @@ let mejoresPorDepto={
     "BARBARA CARRILLO FLORES",
     "MIGUEL MESSMACHER LINARTAS",
     "MENEY DE LA PEZA GANDARA",
-    "CLAUDIA ABURTO RANCA\u00d1O",
-    "CHRISTIANE FABREGA CHIMALI"
+    "CLAUDIA ABURTO RANCA\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
@@ -19523,11 +19526,11 @@ let mejoresPorDepto={
     "LUIS EDUARDO URBAN RIVERO"
   ],
   "LENGUAS (LEN)": [
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
