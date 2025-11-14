@@ -1,4 +1,4 @@
-let actualizado="1763045008655.0703";
+let actualizado="1763131457875.6584";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -5972,16 +5972,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "ALEJANDRO  RODILES BRETON",
+        "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "07:00-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "RH313",
+        "salon": "RH304",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -6251,15 +6251,15 @@ let clases={
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "10",
-        "horario": "16:00-18:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH104",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "18:00"
+        "fin": "17:30"
       },
       {
         "grupo": "002",
@@ -6666,17 +6666,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-        "profesor": "JUAN JESUS GARZA ONOFRE",
+        "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "17:30-19:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU"
         ],
-        "salon": "RH209",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6775,10 +6774,10 @@ let clases={
         "creditos": "9",
         "horario": "16:00-17:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH104",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -7532,17 +7531,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-        "profesor": "RODRIGO CAMARENA GONZALEZ",
+        "profesor": "JULIO ANTONIO RIOS FIGUEROA",
         "creditos": "9",
-        "horario": "10:00-11:30",
+        "horario": "18:00-19:30",
         "dias": [
-          "MA",
-          "JU"
+          "MI"
         ],
-        "salon": "RH104",
+        "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "18:00",
+        "fin": "19:30"
       }
     ]
   },
@@ -16916,9 +16914,9 @@ let clases={
         "creditos": "8",
         "horario": "11:00-13:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -16936,9 +16934,9 @@ let clases={
         "creditos": "8",
         "horario": "12:00-14:00",
         "dias": [
-          "JU"
+          "MA"
         ],
-        "salon": "RHCC302",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -16950,9 +16948,9 @@ let clases={
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
-          "MI"
+          "LU"
         ],
-        "salon": "RH106",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -17183,9 +17181,9 @@ let clases={
         "creditos": "8",
         "horario": "11:00-13:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -17203,9 +17201,9 @@ let clases={
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -17243,9 +17241,9 @@ let clases={
         "creditos": "8",
         "horario": "07:00-09:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -18352,9 +18350,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.619,
+    "n": 42
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -18631,6 +18629,11 @@ let misProfesData={
     "general": 8.3333,
     "n": 3
   },
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31
+  },
   "LUIS REY RAIGOSA SOTELO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Rey-Raigosa-Sotelo_10783",
     "general": 7.7143,
@@ -18640,11 +18643,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/german-sucar_23220",
     "general": 6.6429,
     "n": 70
-  },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31
   },
   "RAYMUNDO GAMA LEYVA": {
     "link": "https://www.misprofesores.com/profesores/Raymundo-Gama_80671",
@@ -18708,6 +18706,11 @@ let misProfesData={
   },
   "EDUARDO ERASMO OSORNIO GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Eduardo-Osornio-Garc\u00eda_130204",
+    "general": 10.0,
+    "n": 2
+  },
+  "JULIO ANTONIO RIOS FIGUEROA": {
+    "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
     "general": 10.0,
     "n": 2
   },
@@ -18867,9 +18870,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -19352,9 +19355,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.4,
+    "n": 15
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19387,9 +19390,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
