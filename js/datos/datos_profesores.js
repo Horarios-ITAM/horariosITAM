@@ -1,4 +1,4 @@
-let actualizado="1763390827731.2651";
+let actualizado="1763477207728.9294";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -8540,8 +8540,8 @@ let profesores={
   },
   "ANA MICAELA ALTERIO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
-    "general": 8.8125,
-    "n": 16,
+    "general": 8.5882,
+    "n": 17,
     "grupos": {
       "DER-15403-DERECHO CONSTITUCIONAL I": [
         {
