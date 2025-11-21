@@ -1,4 +1,4 @@
-let actualizado="1763649876988.1653";
+let actualizado="1763736307148.231";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -4321,9 +4321,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.5349,
-    "n": 43,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -6589,22 +6589,6 @@ let profesores={
           "inicio": "07:00",
           "fin": "10:00"
         }
-      ],
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "MARIANA AGUILAR AGUILAR",
-          "creditos": "9",
-          "horario": "10:00-11:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH304",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
       ]
     }
   },
@@ -6737,6 +6721,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "ALEJANDRO  RODILES BRETON",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ],
       "DER-18600-DERECHO INTERNACIONAL I": [
@@ -7148,6 +7148,23 @@ let profesores={
           "inicio": "11:30",
           "fin": "13:00"
         }
+      ],
+      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
+          "profesor": "RODRIGO CAMARENA GONZALEZ",
+          "creditos": "9",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
       ]
     }
   },
@@ -7182,15 +7199,15 @@ let profesores={
           "nombre": "DER-11101-TEORIA DEL DERECHO, I",
           "profesor": "PABLO ARIEL RAPETTI",
           "creditos": "10",
-          "horario": "16:00-17:30",
+          "horario": "16:00-18:00",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "16:00",
-          "fin": "17:30"
+          "fin": "18:00"
         },
         {
           "grupo": "002",
@@ -7216,10 +7233,10 @@ let profesores={
           "creditos": "9",
           "horario": "16:00-17:30",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -7781,33 +7798,14 @@ let profesores={
       ]
     }
   },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31,
+  "JUAN JESUS GARZA ONOFRE": {
     "grupos": {
       "DER-11119-FILOSOFIA DEL DERECHO": [
         {
           "grupo": "001",
           "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+          "profesor": "JUAN JESUS GARZA ONOFRE",
           "creditos": "9",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHB-2",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "DER-11805-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
-          "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
             "MA",
@@ -7940,6 +7938,30 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31,
+    "grupos": {
+      "DER-11805-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -8511,29 +8533,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
-        }
-      ]
-    }
-  },
-  "JULIO ANTONIO RIOS FIGUEROA": {
-    "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
-    "general": 10.0,
-    "n": 2,
-    "grupos": {
-      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-          "profesor": "JULIO ANTONIO RIOS FIGUEROA",
-          "creditos": "9",
-          "horario": "18:00-19:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:30"
         }
       ]
     }
@@ -10106,9 +10105,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -14975,9 +14974,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.4,
-    "n": 15,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -17567,9 +17566,9 @@ let profesores={
           "creditos": "8",
           "horario": "16:00-18:00",
           "dias": [
-            "LU"
+            "MI"
           ],
-          "salon": "RHCC302",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -18310,9 +18309,9 @@ let profesores={
           "creditos": "8",
           "horario": "12:00-14:00",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "PF103",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
@@ -18326,9 +18325,9 @@ let profesores={
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
-            "JU"
+            "MA"
           ],
-          "salon": "RH106",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -18383,9 +18382,9 @@ let profesores={
           "creditos": "8",
           "horario": "07:00-09:00",
           "dias": [
-            "JU"
+            "MA"
           ],
-          "salon": "RH106",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -18765,9 +18764,9 @@ let profesores={
           "creditos": "8",
           "horario": "11:00-13:00",
           "dias": [
-            "JU"
+            "MA"
           ],
-          "salon": "RH112",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
@@ -18781,9 +18780,9 @@ let profesores={
           "creditos": "8",
           "horario": "11:00-13:00",
           "dias": [
-            "JU"
+            "MA"
           ],
-          "salon": "RH112",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
@@ -19457,14 +19456,14 @@ let mejoresPorDepto={
   "DERECHO": [
     "ANA MARIA ZORRILLA NORIEGA",
     "EDUARDO ERASMO OSORNIO GARCIA",
-    "JULIO ANTONIO RIOS FIGUEROA",
     "DENISE MEJAN GANEM",
     "JOSE OMAR HERNANDEZ SALGADO",
     "JOSE LUIS CABALLERO RODRIGUEZ",
     "FRANCO ALBERTO DEL VALLE PRADO",
     "IRVIN ARTURO CASTILLO CESAREO",
     "AMRITA BAHRI",
-    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
+    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
+    "JOSE ANGEL FERNANDEZ URIA"
   ],
   "ECONOMIA": [
     "GUSTAVO ANTONIO LEYVA JIMENEZ",
@@ -19527,11 +19526,11 @@ let mejoresPorDepto={
     "LUIS EDUARDO URBAN RIVERO"
   ],
   "LENGUAS (LEN)": [
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
