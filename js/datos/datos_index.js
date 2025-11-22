@@ -1,4 +1,4 @@
-let actualizado="1763736307135.453";
+let actualizado="1763822476314.8062";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -6702,7 +6702,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11120-TALLER DISER JUR TEC ARGUM JUR",
-        "profesor": "DANIEL TORRES CHECA",
+        "profesor": "DANIEL EDUARDO TORRES CHECA",
         "creditos": "2",
         "horario": "17:30-18:00",
         "dias": [
@@ -6923,7 +6923,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
-        "profesor": "DANIEL TORRES CHECA",
+        "profesor": "DANIEL EDUARDO TORRES CHECA",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -18352,9 +18352,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.5349,
+    "n": 43
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -18867,9 +18867,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -19197,9 +19197,9 @@ let misProfesData={
     "n": 44
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -19352,9 +19352,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.4,
+    "n": 15
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",

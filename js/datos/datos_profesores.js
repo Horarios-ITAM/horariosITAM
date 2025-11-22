@@ -1,4 +1,4 @@
-let actualizado="1763736307148.231";
+let actualizado="1763822476328.058";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -4321,9 +4321,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.5349,
+    "n": 43,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -7860,13 +7860,13 @@ let profesores={
       ]
     }
   },
-  "DANIEL TORRES CHECA": {
+  "DANIEL EDUARDO TORRES CHECA": {
     "grupos": {
       "DER-11120-TALLER DISER JUR TEC ARGUM JUR": [
         {
           "grupo": "002",
           "nombre": "DER-11120-TALLER DISER JUR TEC ARGUM JUR",
-          "profesor": "DANIEL TORRES CHECA",
+          "profesor": "DANIEL EDUARDO TORRES CHECA",
           "creditos": "2",
           "horario": "17:30-18:00",
           "dias": [
@@ -7883,7 +7883,7 @@ let profesores={
         {
           "grupo": "002",
           "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
-          "profesor": "DANIEL TORRES CHECA",
+          "profesor": "DANIEL EDUARDO TORRES CHECA",
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
@@ -10105,9 +10105,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -12918,9 +12918,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14974,9 +14974,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.4,
+    "n": 15,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -19511,7 +19511,7 @@ let mejoresPorDepto={
     "FELIPE JAVIER MEDINA AGUAYO",
     "ERICK MIER MORENO",
     "LILIANA DE LA TORRE DESENTIS",
-    "MARTIN MAGRIS"
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
@@ -19526,11 +19526,11 @@ let mejoresPorDepto={
     "LUIS EDUARDO URBAN RIVERO"
   ],
   "LENGUAS (LEN)": [
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
