@@ -1,4 +1,4 @@
-let actualizado="1764513762164.203";
+let actualizado="1764687022775.2173";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -6725,14 +6725,14 @@ let clases={
         "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
         "profesor": "SOFIA FLORES SENTIES",
         "creditos": "4",
-        "horario": "07:00-09:00",
+        "horario": "09:00-12:00",
         "dias": [
           "LU"
         ],
-        "salon": "RH307",
+        "salon": "RH201",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
+        "inicio": "09:00",
+        "fin": "12:00"
       },
       {
         "grupo": "002",
@@ -7623,15 +7623,14 @@ let clases={
         "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
         "profesor": "GILBERTO NAVA HERNANDEZ",
         "creditos": "8",
-        "horario": "19:00-21:00",
+        "horario": "10:00-22:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH308",
+        "salon": "RH204",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "21:00"
+        "inicio": "10:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -19197,9 +19196,9 @@ let misProfesData={
     "n": 44
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -19387,9 +19386,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",

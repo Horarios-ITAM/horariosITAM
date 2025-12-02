@@ -1,4 +1,4 @@
-let actualizado="1764513762179.4937";
+let actualizado="1764687022787.478";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -7906,14 +7906,14 @@ let profesores={
           "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
           "profesor": "SOFIA FLORES SENTIES",
           "creditos": "4",
-          "horario": "07:00-09:00",
+          "horario": "09:00-12:00",
           "dias": [
             "LU"
           ],
-          "salon": "RH307",
+          "salon": "RH201",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
+          "inicio": "09:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -8617,15 +8617,14 @@ let profesores={
           "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
           "profesor": "GILBERTO NAVA HERNANDEZ",
           "creditos": "8",
-          "horario": "19:00-21:00",
+          "horario": "10:00-22:00",
           "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
-          "salon": "RH308",
+          "salon": "RH204",
           "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
+          "inicio": "10:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -12918,9 +12917,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -15625,9 +15624,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.6667,
-    "n": 6,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -19511,7 +19510,7 @@ let mejoresPorDepto={
     "FELIPE JAVIER MEDINA AGUAYO",
     "ERICK MIER MORENO",
     "LILIANA DE LA TORRE DESENTIS",
-    "MANUEL MENDOZA RAMIREZ"
+    "MARTIN MAGRIS"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
