@@ -1,4 +1,4 @@
-let actualizado="1764687022787.478";
+let actualizado="1764773395266.304";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -2646,8 +2646,8 @@ let profesores={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.2826,
-    "n": 46,
+    "general": 6.1915,
+    "n": 47,
     "grupos": {
       "COM-11102-ESTRUCTURAS DE DATOS-LAB": [
         {
@@ -6903,8 +6903,8 @@ let profesores={
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.8,
-    "n": 10,
+    "general": 9.5455,
+    "n": 11,
     "grupos": {
       "DER-10015-DERECHO EMPRESARIAL": [
         {
@@ -9701,8 +9701,8 @@ let profesores={
   },
   "MAGDALENA SOFIA BARBA FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Magdalena-Sof\u00eda-Barba-Fern\u00e1ndez_10775",
-    "general": 8.3958,
-    "n": 144,
+    "general": 8.4069,
+    "n": 145,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -10040,8 +10040,8 @@ let profesores={
   },
   "BARBARA CARRILLO FLORES": {
     "link": "https://www.misprofesores.com/profesores/B\u00e1rbara-Carrillo_59547",
-    "general": 9.1429,
-    "n": 84,
+    "general": 9.1529,
+    "n": 85,
     "grupos": {
       "ECO-11103-ECONOMIA, III": [
         {
@@ -16723,8 +16723,8 @@ let profesores={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.3131,
-    "n": 99,
+    "general": 7.34,
+    "n": 100,
     "grupos": {
       "MAT-11310-MATEMATICAS, III": [
         {
@@ -19458,8 +19458,8 @@ let mejoresPorDepto={
     "DENISE MEJAN GANEM",
     "JOSE OMAR HERNANDEZ SALGADO",
     "JOSE LUIS CABALLERO RODRIGUEZ",
-    "FRANCO ALBERTO DEL VALLE PRADO",
     "IRVIN ARTURO CASTILLO CESAREO",
+    "FRANCO ALBERTO DEL VALLE PRADO",
     "AMRITA BAHRI",
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
     "JOSE ANGEL FERNANDEZ URIA"

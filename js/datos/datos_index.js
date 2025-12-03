@@ -1,4 +1,4 @@
-let actualizado="1764687022775.2173";
+let actualizado="1764773395253.2544";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18222,8 +18222,8 @@ let misProfesData={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.2826,
-    "n": 46
+    "general": 6.1915,
+    "n": 47
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
@@ -18572,8 +18572,8 @@ let misProfesData={
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.8,
-    "n": 10
+    "general": 9.5455,
+    "n": 11
   },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
@@ -18832,8 +18832,8 @@ let misProfesData={
   },
   "MAGDALENA SOFIA BARBA FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Magdalena-Sof\u00eda-Barba-Fern\u00e1ndez_10775",
-    "general": 8.3958,
-    "n": 144
+    "general": 8.4069,
+    "n": 145
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
@@ -18857,8 +18857,8 @@ let misProfesData={
   },
   "BARBARA CARRILLO FLORES": {
     "link": "https://www.misprofesores.com/profesores/B\u00e1rbara-Carrillo_59547",
-    "general": 9.1429,
-    "n": 84
+    "general": 9.1529,
+    "n": 85
   },
   "GUILLERMO IGNACIO GARCIA ALCOCER": {
     "link": "https://www.misprofesores.com/profesores/Guillermo-Garc\u00eda-Alcocer_139464",
@@ -19452,8 +19452,8 @@ let misProfesData={
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
-    "general": 7.3131,
-    "n": 99
+    "general": 7.34,
+    "n": 100
   },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
