@@ -1,4 +1,4 @@
-let actualizado="1764773395266.304";
+let actualizado="1764859794442.0146";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -2777,8 +2777,8 @@ let profesores={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 4.9545,
-    "n": 22,
+    "general": 4.8261,
+    "n": 23,
     "grupos": {
       "COM-11103-ESTRUCTURAS DE DATOS AVANZADAS-LAB": [
         {
@@ -4321,9 +4321,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.5349,
-    "n": 43,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-22102-BASES DE DATOS NO RELACIONALES": [
         {
@@ -9922,8 +9922,8 @@ let profesores={
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 9.6364,
-    "n": 11,
+    "general": 9.1667,
+    "n": 12,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -15624,9 +15624,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16846,8 +16846,8 @@ let profesores={
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
-    "general": 7.2069,
-    "n": 58,
+    "general": 7.1186,
+    "n": 59,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -19469,8 +19469,8 @@ let mejoresPorDepto={
     "MICHELLE AVATANEO TRUQUI",
     "LOUIS ZALTZMAN KORNHAUSER",
     "SOFIA CORONA VERDUZCO",
-    "ANTONIO VIVANCO CASAMADRID",
     "RAFAEL GUERRA CABRERA",
+    "ANTONIO VIVANCO CASAMADRID",
     "BARBARA CARRILLO FLORES",
     "MIGUEL MESSMACHER LINARTAS",
     "MENEY DE LA PEZA GANDARA",

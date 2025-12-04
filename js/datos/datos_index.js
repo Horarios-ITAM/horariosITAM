@@ -1,4 +1,4 @@
-let actualizado="1764773395253.2544";
+let actualizado="1764859794427.9546";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18227,8 +18227,8 @@ let misProfesData={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 4.9545,
-    "n": 22
+    "general": 4.8261,
+    "n": 23
   },
   "JOSE RAMON RIOS SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
@@ -18351,9 +18351,9 @@ let misProfesData={
     "n": 15
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.5349,
-    "n": 43
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
@@ -18847,8 +18847,8 @@ let misProfesData={
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 9.6364,
-    "n": 11
+    "general": 9.1667,
+    "n": 12
   },
   "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
@@ -19386,9 +19386,9 @@ let misProfesData={
     "n": 10
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.6667,
+    "n": 6
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
@@ -19462,8 +19462,8 @@ let misProfesData={
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
-    "general": 7.2069,
-    "n": 58
+    "general": 7.1186,
+    "n": 59
   },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
