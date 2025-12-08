@@ -1,4 +1,4 @@
-let actualizado="1765118563908.661";
+let actualizado="1765205373513.7769";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -9506,8 +9506,8 @@ let profesores={
   },
   "GUSTAVO ANTONIO LEYVA JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
-    "general": 10.0,
-    "n": 1,
+    "general": 6.0,
+    "n": 2,
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
         {
@@ -9630,8 +9630,8 @@ let profesores={
   },
   "CLAUDIA ABURTO RANCA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
-    "general": 8.9146,
-    "n": 82,
+    "general": 8.9036,
+    "n": 83,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -10104,9 +10104,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -14973,9 +14973,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 10.0,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.4,
+    "n": 15,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -19468,7 +19468,6 @@ let mejoresPorDepto={
     "JOSE ANGEL FERNANDEZ URIA"
   ],
   "ECONOMIA": [
-    "GUSTAVO ANTONIO LEYVA JIMENEZ",
     "MICHELLE AVATANEO TRUQUI",
     "LOUIS ZALTZMAN KORNHAUSER",
     "SOFIA CORONA VERDUZCO",
@@ -19477,7 +19476,8 @@ let mejoresPorDepto={
     "BARBARA CARRILLO FLORES",
     "MIGUEL MESSMACHER LINARTAS",
     "MENEY DE LA PEZA GANDARA",
-    "CLAUDIA ABURTO RANCA\u00d1O"
+    "CLAUDIA ABURTO RANCA\u00d1O",
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "ROBERTO ZOCCO",
@@ -19528,12 +19528,12 @@ let mejoresPorDepto={
     "LUIS EDUARDO URBAN RIVERO"
   ],
   "LENGUAS (LEN)": [
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "MIGUEL ANGEL HERNANDEZ ACOSTA",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
