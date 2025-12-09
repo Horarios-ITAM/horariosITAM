@@ -1,4 +1,4 @@
-let actualizado="1765205373500.4883";
+let actualizado="1765291918618.8618";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -6725,14 +6725,14 @@ let clases={
         "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
         "profesor": "SOFIA FLORES SENTIES",
         "creditos": "4",
-        "horario": "09:00-12:00",
+        "horario": "07:00-09:00",
         "dias": [
           "LU"
         ],
-        "salon": "RH201",
+        "salon": "RH307",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "12:00"
+        "inicio": "07:00",
+        "fin": "09:00"
       },
       {
         "grupo": "002",
@@ -7623,14 +7623,15 @@ let clases={
         "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
         "profesor": "GILBERTO NAVA HERNANDEZ",
         "creditos": "8",
-        "horario": "10:00-22:00",
+        "horario": "19:00-21:00",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "RH204",
+        "salon": "RH308",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "22:00"
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -19351,9 +19352,9 @@ let misProfesData={
     "n": 21
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.4,
-    "n": 15
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",

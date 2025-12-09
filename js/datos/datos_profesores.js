@@ -1,4 +1,4 @@
-let actualizado="1765205373513.7769";
+let actualizado="1765291918633.6833";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -7906,14 +7906,14 @@ let profesores={
           "nombre": "DER-11121-CULTURA DE LA LEGALIDAD",
           "profesor": "SOFIA FLORES SENTIES",
           "creditos": "4",
-          "horario": "09:00-12:00",
+          "horario": "07:00-09:00",
           "dias": [
             "LU"
           ],
-          "salon": "RH201",
+          "salon": "RH307",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "12:00"
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -8617,14 +8617,15 @@ let profesores={
           "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
           "profesor": "GILBERTO NAVA HERNANDEZ",
           "creditos": "8",
-          "horario": "10:00-22:00",
+          "horario": "19:00-21:00",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
-          "salon": "RH204",
+          "salon": "RH308",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "22:00"
+          "inicio": "19:00",
+          "fin": "21:00"
         }
       ]
     }
@@ -14973,9 +14974,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.4,
-    "n": 15,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 10.0,
+    "n": 2,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -19528,12 +19529,12 @@ let mejoresPorDepto={
     "LUIS EDUARDO URBAN RIVERO"
   ],
   "LENGUAS (LEN)": [
+    "CONRADO JOSE ARRANZ MINGUEZ",
     "MIGUEL ANGEL HERNANDEZ ACOSTA",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
-    "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
