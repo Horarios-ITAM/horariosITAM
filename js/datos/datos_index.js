@@ -1,4 +1,4 @@
-let actualizado="1765291918618.8618";
+let actualizado="1765378279861.0613";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -18378,8 +18378,8 @@ let misProfesData={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.1724,
-    "n": 29
+    "general": 9.2,
+    "n": 30
   },
   "ROSA MARIA ATHIE RUBIO": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Ma.-Athie_19736",
@@ -18573,8 +18573,8 @@ let misProfesData={
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.5455,
-    "n": 11
+    "general": 9.5833,
+    "n": 12
   },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
@@ -18867,9 +18867,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",

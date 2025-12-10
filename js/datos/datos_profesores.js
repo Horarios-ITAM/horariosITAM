@@ -1,4 +1,4 @@
-let actualizado="1765291918633.6833";
+let actualizado="1765378279873.7434";
 let periodo="OTOÑO 2025 LICENCIATURA";
 let secure=false;
 let sGrace="2845";
@@ -4529,8 +4529,8 @@ let profesores={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.1724,
-    "n": 29,
+    "general": 9.2,
+    "n": 30,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6903,8 +6903,8 @@ let profesores={
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.5455,
-    "n": 11,
+    "general": 9.5833,
+    "n": 12,
     "grupos": {
       "DER-10015-DERECHO EMPRESARIAL": [
         {
@@ -10105,9 +10105,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
