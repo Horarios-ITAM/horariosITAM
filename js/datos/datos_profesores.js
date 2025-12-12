@@ -1,4 +1,4 @@
-let actualizado="1765464456924.465";
+let actualizado="1765550670934.4148";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -1104,8 +1104,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:30"
         }
@@ -1155,8 +1155,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH108",
+          "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
         }
@@ -1502,22 +1502,6 @@ let profesores={
           "fin": "19:30"
         }
       ],
-      "IIO-15196-SISTEMAS MECATRONICOS": [
-        {
-          "grupo": "001",
-          "nombre": "IIO-15196-SISTEMAS MECATRONICOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHLMINT",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
       "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
         {
           "grupo": "002",
@@ -1654,39 +1638,6 @@ let profesores={
           "fin": "10:30"
         }
       ],
-      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "09:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHLSIST",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
-      ],
-      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHLI2",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
       "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB": [
         {
           "grupo": "002L",
@@ -1776,8 +1727,8 @@ let profesores={
   },
   "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-los-\u00c1ngeles-Ya\u00f1ez-Acosta_20034",
-    "general": 8.3125,
-    "n": 16,
+    "general": 8.4118,
+    "n": 17,
     "grupos": {
       "ACT-15357-PRINCIPIOS DEL SEGURO": [
         {
@@ -1834,8 +1785,8 @@ let profesores={
   },
   "CLAUDIA NOEMI GONZALEZ BRAMBILA": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Noem\u00ed-Gonz\u00e1lez-Brambila_10719",
-    "general": 7.8235,
-    "n": 17,
+    "general": 7.5556,
+    "n": 18,
     "grupos": {
       "ADM-11002-INNOV Y DISE\u00d1O DE MODEL DE NEG": [
         {
@@ -4522,8 +4473,8 @@ let profesores={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 4.8261,
-    "n": 23,
+    "general": 4.7083,
+    "n": 24,
     "grupos": {
       "COM-11113-ANAL ALGORITM Y COMPLEJ COMPUT-LAB": [
         {
@@ -10434,7 +10385,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH305",
+          "salon": "RH313",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -10772,7 +10723,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF103",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10789,7 +10740,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF103",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -11085,7 +11036,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-1",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -11182,7 +11133,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA1",
+          "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -11404,7 +11355,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA1",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -11421,7 +11372,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA1",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -11626,8 +11577,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
         }
@@ -11900,14 +11851,14 @@ let profesores={
           "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
           "profesor": "MANETT ROCIO VARGAS GARCIA",
           "creditos": "6",
-          "horario": "07:00-10:00",
+          "horario": "10:00-13:00",
           "dias": [
             "VI"
           ],
           "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
+          "inicio": "10:00",
+          "fin": "13:00"
         }
       ]
     }
@@ -11928,8 +11879,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH209",
+          "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
         }
@@ -12249,8 +12200,8 @@ let profesores={
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.1897,
-    "n": 58,
+    "general": 6.2203,
+    "n": 59,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -12985,8 +12936,8 @@ let profesores={
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
-    "general": 8.0909,
-    "n": 77,
+    "general": 8.1154,
+    "n": 78,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -13488,7 +13439,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH303",
+          "salon": "RH305",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -15070,16 +15021,13 @@ let profesores={
       ]
     }
   },
-  "GUILLERMO ABDEL MUSIK ASALI": {
-    "link": "https://www.misprofesores.com/profesores/Asali-Guillermo-Abdel-Musik_10866",
-    "general": 7.2632,
-    "n": 19,
+  "GRACIELA BARCENAS PEREZ": {
     "grupos": {
       "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS": [
         {
           "grupo": "001",
           "nombre": "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS",
-          "profesor": "GUILLERMO ABDEL MUSIK ASALI",
+          "profesor": "GRACIELA BARCENAS PEREZ",
           "creditos": "6",
           "horario": "18:00-21:00",
           "dias": [
@@ -15451,6 +15399,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
+        }
+      ]
+    }
+  },
+  "ISRAEL ULISES CAYETANO JIMENEZ": {
+    "grupos": {
+      "IIO-15196-SISTEMAS MECATRONICOS": [
+        {
+          "grupo": "001",
+          "nombre": "IIO-15196-SISTEMAS MECATRONICOS",
+          "profesor": "ISRAEL ULISES CAYETANO JIMENEZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -16322,6 +16290,9 @@ let profesores={
     }
   },
   "SERGIO JAVIER LUIS ALCAZAR": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Javier-Luis-Alcazar_190191",
+    "general": 2.0,
+    "n": 2,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16647,7 +16618,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH209",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -16996,7 +16967,7 @@ let profesores={
           "creditos": "2",
           "horario": "07:00-08:00",
           "dias": [
-            "JU"
+            "VI"
           ],
           "salon": "PF108",
           "campus": "RIO HONDO",
@@ -17433,8 +17404,8 @@ let profesores={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.2535,
-    "n": 71,
+    "general": 8.2778,
+    "n": 72,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -18421,8 +18392,8 @@ let profesores={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3423,
-    "n": 111,
+    "general": 6.3571,
+    "n": 112,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -19227,6 +19198,43 @@ let profesores={
       ]
     }
   },
+  "MAURICIO ALBERTO ORTEGA RUIZ": {
+    "grupos": {
+      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB",
+          "profesor": "MAURICIO ALBERTO ORTEGA RUIZ",
+          "creditos": "8",
+          "horario": "09:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHLSIST",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ],
+      "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
+          "profesor": "MAURICIO ALBERTO ORTEGA RUIZ",
+          "creditos": "8",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHLI2",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "FRANCISCO JAVIER DEL OLMO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Francisco-Del-Olmo-Hern\u00e1ndez_172160",
     "general": 8.0,
@@ -19510,14 +19518,14 @@ let mejoresPorDepto={
   "ING. INDUSTRIAL Y OPERACIONES": [
     "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
     "ADAN RAMIREZ LOPEZ",
-    "GUILLERMO ABDEL MUSIK ASALI",
     "LUIS ANTONIO MONCAYO MARTINEZ",
     "SERGIO ROMERO HERNANDEZ",
     "ALEJANDRO TERAN CASTELLANOS",
     "ANA KARINA MIRANDA FLORES",
     "MARIA CRISTINA GIGOLA PAGLIALUNGA",
     "LUIS EDUARDO URBAN RIVERO",
-    "ANDRES JOSE RODRIGUEZ TORRES"
+    "ANDRES JOSE RODRIGUEZ TORRES",
+    "THOMAS MARTIN RUDOLF"
   ],
   "LENGUAS (LEN)": [
     "FEDERICO VALLE OCHOA",
@@ -19540,8 +19548,8 @@ let mejoresPorDepto={
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "SHARON MAGALI VALVERDE ESPARZA",
     "IRMA BEATRIZ RUMBOS PELLICER",
-    "LEOBARDO FERNANDEZ ROMAN",
-    "LUCIA RAMIREZ DAVID"
+    "LUCIA RAMIREZ DAVID",
+    "LEOBARDO FERNANDEZ ROMAN"
   ],
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
@@ -19552,6 +19560,7 @@ let mejoresPorDepto={
     "ROMEO SALVADOR ORTEGA MARTINEZ",
     "MARIO ANDRES AGUILAR ORDU\u00d1A",
     "SERGIO HERNANDEZ SANCHEZ",
+    "MAURICIO ALBERTO ORTEGA RUIZ",
     "BRUNO ALEJANDRO ORSATTI SANCHEZ"
   ]
 };

@@ -1,4 +1,4 @@
-let actualizado="1765464456911.8025";
+let actualizado="1765550670881.7283";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -8044,8 +8044,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RHSA2",
+        "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:30"
       }
@@ -8638,8 +8638,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH108",
+        "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
       }
@@ -9394,7 +9394,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH305",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -9871,7 +9871,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-1",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10000,7 +10000,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA1",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -10051,7 +10051,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF103",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -10095,7 +10095,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHSA1",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10197,7 +10197,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF103",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -10242,7 +10242,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHSA1",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10428,8 +10428,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RHB-1",
+        "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
       },
@@ -10803,14 +10803,14 @@ let clases={
         "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
         "profesor": "MANETT ROCIO VARGAS GARCIA",
         "creditos": "6",
-        "horario": "07:00-10:00",
+        "horario": "10:00-13:00",
         "dias": [
           "VI"
         ],
         "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "13:00"
       }
     ]
   },
@@ -10828,8 +10828,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH209",
+        "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
       }
@@ -12304,7 +12304,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH303",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -13840,7 +13840,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-14180-ADMON. Y EVALUA. DE PROYECTOS",
-        "profesor": "GUILLERMO ABDEL MUSIK ASALI",
+        "profesor": "GRACIELA BARCENAS PEREZ",
         "creditos": "6",
         "horario": "18:00-21:00",
         "dias": [
@@ -14334,7 +14334,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-15196-SISTEMAS MECATRONICOS",
-        "profesor": "",
+        "profesor": "ISRAEL ULISES CAYETANO JIMENEZ",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -15315,7 +15315,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RH209",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:00"
@@ -15691,7 +15691,7 @@ let clases={
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
-          "JU"
+          "VI"
         ],
         "salon": "PF108",
         "campus": "RIO HONDO",
@@ -18142,7 +18142,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL-LAB",
-        "profesor": "",
+        "profesor": "MAURICIO ALBERTO ORTEGA RUIZ",
         "creditos": "8",
         "horario": "09:00-11:00",
         "dias": [
@@ -18162,7 +18162,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-12625-PROCESAMIENTO DIGITAL DE SENAL",
-        "profesor": "",
+        "profesor": "MAURICIO ALBERTO ORTEGA RUIZ",
         "creditos": "8",
         "horario": "07:00-08:30",
         "dias": [
@@ -18479,13 +18479,13 @@ let misProfesData={
   },
   "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-los-\u00c1ngeles-Ya\u00f1ez-Acosta_20034",
-    "general": 8.3125,
-    "n": 16
+    "general": 8.4118,
+    "n": 17
   },
   "CLAUDIA NOEMI GONZALEZ BRAMBILA": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Noem\u00ed-Gonz\u00e1lez-Brambila_10719",
-    "general": 7.8235,
-    "n": 17
+    "general": 7.5556,
+    "n": 18
   },
   "JOHN BRADFORD MCBRIDE PITTS": {
     "link": "https://www.misprofesores.com/profesores/John-Bradford-McBride-Pitts_10734",
@@ -18674,8 +18674,8 @@ let misProfesData={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 4.8261,
-    "n": 23
+    "general": 4.7083,
+    "n": 24
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
@@ -19384,8 +19384,8 @@ let misProfesData={
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
-    "general": 6.1897,
-    "n": 58
+    "general": 6.2203,
+    "n": 59
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
@@ -19479,8 +19479,8 @@ let misProfesData={
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
-    "general": 8.0909,
-    "n": 77
+    "general": 8.1154,
+    "n": 78
   },
   "GERARDO ZORRILLA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
@@ -19677,11 +19677,6 @@ let misProfesData={
     "general": 6.5,
     "n": 2
   },
-  "GUILLERMO ABDEL MUSIK ASALI": {
-    "link": "https://www.misprofesores.com/profesores/Asali-Guillermo-Abdel-Musik_10866",
-    "general": 7.2632,
-    "n": 19
-  },
   "MARIA CRISTINA GIGOLA PAGLIALUNGA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Gigola-Paglialunga_10861",
     "general": 5.6429,
@@ -19746,6 +19741,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
     "general": 7.4286,
     "n": 21
+  },
+  "SERGIO JAVIER LUIS ALCAZAR": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Javier-Luis-Alcazar_190191",
+    "general": 2.0,
+    "n": 2
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
@@ -19814,8 +19814,8 @@ let misProfesData={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.2535,
-    "n": 71
+    "general": 8.2778,
+    "n": 72
   },
   "SANTIAGO HERNANDEZ CORNEJO": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo_113575",
@@ -19909,8 +19909,8 @@ let misProfesData={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3423,
-    "n": 111
+    "general": 6.3571,
+    "n": 112
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
