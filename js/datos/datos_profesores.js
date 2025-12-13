@@ -1,4 +1,4 @@
-let actualizado="1765550670934.4148";
+let actualizado="1765637168058.5132";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -697,136 +697,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
-        },
-        {
-          "grupo": "008",
-          "nombre": "CON-10001-PROCESO CONTABLE",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "09:00-11:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHLI1",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
-      ],
-      "CON-10002-CONTABILIDAD INTERMEDIA, I": [
-        {
-          "grupo": "002",
-          "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "08:30-10:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:30"
-        },
-        {
-          "grupo": "004",
-          "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "10:30-12:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH316",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:30"
-        }
-      ],
-      "CON-10111-CONTABILIDAD FINANCIERA I": [
-        {
-          "grupo": "002",
-          "nombre": "CON-10111-CONTABILIDAD FINANCIERA I",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "08:30-10:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:30"
-        },
-        {
-          "grupo": "004",
-          "nombre": "CON-10111-CONTABILIDAD FINANCIERA I",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "10:30-12:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH316",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:30"
-        }
-      ],
-      "CON-12110-CONTABILIDAD DE COSTOS P/ING.": [
-        {
-          "grupo": "004",
-          "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "CON-14101-CONTABILIDAD ADMINISTRATIVA,II": [
-        {
-          "grupo": "004",
-          "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "CON-14109-CONTABILIDAD GERENCIAL": [
-        {
-          "grupo": "004",
-          "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ],
       "CON-14112-CONTADUR ANALITICA CORPORATIVA": [
@@ -843,22 +713,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
-        }
-      ],
-      "CON-15002-IMPUESTOS CORPORATIVOS, II": [
-        {
-          "grupo": "002",
-          "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "CSO-15043-ECONOMIA POLITICA II": [
@@ -895,38 +749,6 @@ let profesores={
           "fin": "08:30"
         }
       ],
-      "DER-11107-TALLER EN BIENES Y DER REALES-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-11107-TALLER EN BIENES Y DER REALES-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "19:00-21:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
-        }
-      ],
-      "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-09:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ],
       "DER-11112-TALLER DISERT JURID EN CONTRAT-LAB": [
         {
           "grupo": "001L",
@@ -959,56 +781,6 @@ let profesores={
           "fin": "21:00"
         }
       ],
-      "DER-11114-HABILIDADES JURID. GLOBALES II-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "08:30-09:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "09:00"
-        }
-      ],
-      "DER-11114-HABILIDADES JURID. GLOBALES II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "09:00-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ],
-      "DER-11307-TALLER ESCRIT  P/ DER PRIVADO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11307-TALLER ESCRIT  P/ DER PRIVADO",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "19:00-21:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
-        }
-      ],
       "DER-11400-TALLER ESCRIT. P/ DER PUBLICO": [
         {
           "grupo": "003",
@@ -1023,57 +795,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
-        }
-      ],
-      "DER-12204-INTROD. AL DERECHO MEXICANO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-12204-INTROD. AL DERECHO MEXICANO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "DER-13201-PERSONAS Y FAMILIA": [
-        {
-          "grupo": "002",
-          "nombre": "DER-13201-PERSONAS Y FAMILIA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "DER-13203-NEGOCIO JURIDICO Y PERSONAS": [
-        {
-          "grupo": "002",
-          "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH303",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ],
       "DER-13504-CONTRATOS": [
@@ -1144,23 +865,6 @@ let profesores={
           "fin": "20:00"
         }
       ],
-      "DER-16502-DERECHO MERCANTIL I": [
-        {
-          "grupo": "002",
-          "nombre": "DER-16502-DERECHO MERCANTIL I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH108",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ],
       "DER-17601-DERECHO ADMINISTRATIVO I": [
         {
           "grupo": "001",
@@ -1176,23 +880,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ],
-      "DER-17703-DERECHO FISCAL I": [
-        {
-          "grupo": "002",
-          "nombre": "DER-17703-DERECHO FISCAL I",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "19:00-21:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-3",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
         }
       ],
       "DER-17804-DERECHO FISCAL II": [
@@ -4424,15 +4111,14 @@ let profesores={
           "nombre": "COM-12104-VISUALIZACION DE INFORMACION",
           "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
           "creditos": "6",
-          "horario": "17:30-19:00",
+          "horario": "18:00-21:00",
           "dias": [
-            "MA",
-            "JU"
+            "MI"
           ],
-          "salon": "RH304",
+          "salon": "RH201",
           "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
+          "inicio": "18:00",
+          "fin": "21:00"
         }
       ],
       "SDI-11642-ARQUITECTURA DE COMPUTADORAS": [
@@ -5821,15 +5507,15 @@ let profesores={
           "nombre": "CON-10100-CONTABILIDAD, I",
           "profesor": "MARCELA GONZALEZ MARTINEZ",
           "creditos": "6",
-          "horario": "09:30-11:00",
+          "horario": "09:00-10:30",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "PF106",
+          "salon": "RH301",
           "campus": "RIO HONDO",
-          "inicio": "09:30",
-          "fin": "11:00"
+          "inicio": "09:00",
+          "fin": "10:30"
         }
       ],
       "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
@@ -5838,23 +5524,23 @@ let profesores={
           "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
           "profesor": "MARCELA GONZALEZ MARTINEZ",
           "creditos": "6",
-          "horario": "09:30-11:00",
+          "horario": "09:00-10:30",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "PF106",
+          "salon": "RH301",
           "campus": "RIO HONDO",
-          "inicio": "09:30",
-          "fin": "11:00"
+          "inicio": "09:00",
+          "fin": "10:30"
         }
       ]
     }
   },
   "ROSA MARIA ATHIE RUBIO": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Ma.-Athie_19736",
-    "general": 8.9296,
-    "n": 71,
+    "general": 8.9306,
+    "n": 72,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -5920,6 +5606,94 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "ANNAPAOLA LLANAS MEJIA": {
+    "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
+    "general": 8.3333,
+    "n": 75,
+    "grupos": {
+      "CON-10001-PROCESO CONTABLE": [
+        {
+          "grupo": "008",
+          "nombre": "CON-10001-PROCESO CONTABLE",
+          "profesor": "ANNAPAOLA LLANAS MEJIA",
+          "creditos": "8",
+          "horario": "09:00-11:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHLI1",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
+        }
+      ],
+      "CON-10002-CONTABILIDAD INTERMEDIA, I": [
+        {
+          "grupo": "002",
+          "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
+          "profesor": "ANNAPAOLA LLANAS MEJIA",
+          "creditos": "8",
+          "horario": "08:30-10:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:30"
+        },
+        {
+          "grupo": "004",
+          "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
+          "profesor": "ANNAPAOLA LLANAS MEJIA",
+          "creditos": "8",
+          "horario": "10:30-12:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "12:30"
+        }
+      ],
+      "CON-10111-CONTABILIDAD FINANCIERA I": [
+        {
+          "grupo": "002",
+          "nombre": "CON-10111-CONTABILIDAD FINANCIERA I",
+          "profesor": "ANNAPAOLA LLANAS MEJIA",
+          "creditos": "8",
+          "horario": "08:30-10:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:30"
+        },
+        {
+          "grupo": "004",
+          "nombre": "CON-10111-CONTABILIDAD FINANCIERA I",
+          "profesor": "ANNAPAOLA LLANAS MEJIA",
+          "creditos": "8",
+          "horario": "10:30-12:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "12:30"
         }
       ]
     }
@@ -6555,10 +6329,10 @@ let profesores={
           "creditos": "6",
           "horario": "19:00-20:30",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH306",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -6677,6 +6451,61 @@ let profesores={
           "dias": [
             "LU",
             "MI"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
+  "ETHEL SARAHAIM RAMIREZ MORALES": {
+    "grupos": {
+      "CON-12110-CONTABILIDAD DE COSTOS P/ING.": [
+        {
+          "grupo": "004",
+          "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
+          "profesor": "ETHEL SARAHAIM RAMIREZ MORALES",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "CON-14101-CONTABILIDAD ADMINISTRATIVA,II": [
+        {
+          "grupo": "004",
+          "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
+          "profesor": "ETHEL SARAHAIM RAMIREZ MORALES",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "CON-14109-CONTABILIDAD GERENCIAL": [
+        {
+          "grupo": "004",
+          "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
+          "profesor": "ETHEL SARAHAIM RAMIREZ MORALES",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
           ],
           "salon": "PF102",
           "campus": "RIO HONDO",
@@ -6823,6 +6652,29 @@ let profesores={
       ]
     }
   },
+  "LUIS ANTHAR GONZALEZ RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Anthar-Gonz\u00e1lez_177453",
+    "general": 8.0,
+    "n": 1,
+    "grupos": {
+      "CON-15002-IMPUESTOS CORPORATIVOS, II": [
+        {
+          "grupo": "002",
+          "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
+          "profesor": "LUIS ANTHAR GONZALEZ RODRIGUEZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "ADRIAN URBINA GALICIA": {
     "grupos": {
       "CON-15003-IMPUESTOS P/ PERSONAS FISICAS": [
@@ -6917,9 +6769,9 @@ let profesores={
           "creditos": "3",
           "horario": "13:00-14:30",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "RH101",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -7663,7 +7515,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF102",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -7711,8 +7563,8 @@ let profesores={
   },
   "JULIO ANTONIO RIOS FIGUEROA": {
     "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
-    "general": 10.0,
-    "n": 2,
+    "general": 9.0,
+    "n": 3,
     "grupos": {
       "CSO-14016-JUECES Y POL. EN PERSPEC. COMP": [
         {
@@ -8150,28 +8002,28 @@ let profesores={
           "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
           "profesor": "ALEJANDRO  RODILES BRETON",
           "creditos": "9",
-          "horario": "10:00-11:30",
+          "horario": "17:30-19:00",
           "dias": [
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "17:30",
+          "fin": "19:00"
         },
         {
           "grupo": "002",
           "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
           "profesor": "ALEJANDRO  RODILES BRETON",
           "creditos": "9",
-          "horario": "10:00-11:30",
+          "horario": "17:30-19:00",
           "dias": [
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ],
       "DER-18601-DERECHO INTERNACIONAL II": [
@@ -8684,6 +8536,75 @@ let profesores={
       ]
     }
   },
+  "FRANZ ERWIN OBERARZBACHER DAVILA": {
+    "grupos": {
+      "DER-11107-TALLER EN BIENES Y DER REALES-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11107-TALLER EN BIENES Y DER REALES-LAB",
+          "profesor": "FRANZ ERWIN OBERARZBACHER DAVILA",
+          "creditos": "2",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ],
+      "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB",
+          "profesor": "FRANZ ERWIN OBERARZBACHER DAVILA",
+          "creditos": "2",
+          "horario": "07:00-09:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "DER-11307-TALLER ESCRIT  P/ DER PRIVADO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11307-TALLER ESCRIT  P/ DER PRIVADO",
+          "profesor": "FRANZ ERWIN OBERARZBACHER DAVILA",
+          "creditos": "4",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ],
+      "DER-12204-INTROD. AL DERECHO MEXICANO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-12204-INTROD. AL DERECHO MEXICANO",
+          "profesor": "FRANZ ERWIN OBERARZBACHER DAVILA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "AMRITA BAHRI": {
     "link": "https://www.misprofesores.com/profesores/Amrita-Bahri_93904",
     "general": 9.5385,
@@ -8794,6 +8715,44 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
+        }
+      ]
+    }
+  },
+  "MICHAEL CUSTER COOK": {
+    "grupos": {
+      "DER-11114-HABILIDADES JURID. GLOBALES II-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
+          "profesor": "MICHAEL CUSTER COOK",
+          "creditos": "4",
+          "horario": "08:30-09:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:00"
+        }
+      ],
+      "DER-11114-HABILIDADES JURID. GLOBALES II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
+          "profesor": "MICHAEL CUSTER COOK",
+          "creditos": "4",
+          "horario": "09:00-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -9318,6 +9277,44 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
+        }
+      ]
+    }
+  },
+  "JORGE LUIS ZAPATA MEJIA": {
+    "grupos": {
+      "DER-13201-PERSONAS Y FAMILIA": [
+        {
+          "grupo": "002",
+          "nombre": "DER-13201-PERSONAS Y FAMILIA",
+          "profesor": "JORGE LUIS ZAPATA MEJIA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "DER-13203-NEGOCIO JURIDICO Y PERSONAS": [
+        {
+          "grupo": "002",
+          "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
+          "profesor": "JORGE LUIS ZAPATA MEJIA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -9864,6 +9861,27 @@ let profesores={
       ]
     }
   },
+  "EMILIO RUVALCABA ORNELAS": {
+    "grupos": {
+      "DER-16502-DERECHO MERCANTIL I": [
+        {
+          "grupo": "002",
+          "nombre": "DER-16502-DERECHO MERCANTIL I",
+          "profesor": "EMILIO RUVALCABA ORNELAS",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH108",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ]
+    }
+  },
   "GIZEH VICENTE POLO BALLINAS": {
     "grupos": {
       "DER-16503-DERECHO MERCANTIL II": [
@@ -10016,6 +10034,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA": {
+    "grupos": {
+      "DER-17703-DERECHO FISCAL I": [
+        {
+          "grupo": "002",
+          "nombre": "DER-17703-DERECHO FISCAL I",
+          "profesor": "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA",
+          "creditos": "8",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
         }
       ]
     }
@@ -11432,15 +11471,15 @@ let profesores={
           "nombre": "ECO-12011-MACROECONOMIA I",
           "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
           "creditos": "8",
-          "horario": "08:00-10:00",
+          "horario": "18:00-20:00",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RH101",
+          "salon": "RH304",
           "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:00"
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ],
       "ECO-22105-ECONOMIA V": [
@@ -11449,15 +11488,15 @@ let profesores={
           "nombre": "ECO-22105-ECONOMIA V",
           "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
           "creditos": "8",
-          "horario": "08:00-10:00",
+          "horario": "18:00-20:00",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RH101",
+          "salon": "RH304",
           "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "10:00"
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -11642,7 +11681,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF101",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -11709,7 +11748,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH101",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -11851,14 +11890,14 @@ let profesores={
           "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
           "profesor": "MANETT ROCIO VARGAS GARCIA",
           "creditos": "6",
-          "horario": "10:00-13:00",
+          "horario": "07:00-10:00",
           "dias": [
             "VI"
           ],
           "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "13:00"
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -12854,8 +12893,8 @@ let profesores={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7778,
-    "n": 99,
+    "general": 6.8,
+    "n": 100,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12895,8 +12934,8 @@ let profesores={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 7.9778,
-    "n": 45,
+    "general": 8.0217,
+    "n": 46,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -17849,15 +17888,15 @@ let profesores={
           "nombre": "MAT-12210-SIST. DINAMICOS",
           "profesor": "JOAO PEDRO LEITAO DA CRUZ MORAIS",
           "creditos": "6",
-          "horario": "10:30-12:00",
+          "horario": "10:00-11:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH307",
           "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:00"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ],
       "MAT-24210-SISTEMAS DINAMICOS,I": [
@@ -17866,15 +17905,15 @@ let profesores={
           "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
           "profesor": "JOAO PEDRO LEITAO DA CRUZ MORAIS",
           "creditos": "6",
-          "horario": "10:30-12:00",
+          "horario": "10:00-11:30",
           "dias": [
             "MA",
             "JU"
           ],
           "salon": "RH307",
           "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:00"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -17908,16 +17947,16 @@ let profesores={
           "nombre": "MAT-12250-CALCULO APLICADO",
           "profesor": "LYSETTE FELIX FELIX",
           "creditos": "9",
-          "horario": "08:30-10:00",
+          "horario": "07:30-09:00",
           "dias": [
             "LU",
             "MI",
             "VI"
           ],
-          "salon": "RH111",
+          "salon": "RH101",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "07:30",
+          "fin": "09:00"
         }
       ]
     }
@@ -19045,14 +19084,14 @@ let profesores={
           "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
           "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
           "creditos": "10",
-          "horario": "07:00-09:00",
+          "horario": "18:00-20:00",
           "dias": [
-            "VI"
+            "LU"
           ],
           "salon": "RHLFIEL",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ],
       "SDI-11221-ELEMENTOS DE ELECTRONICA": [
@@ -19066,7 +19105,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHLI2",
+          "salon": "RHLSIST",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -19440,14 +19479,14 @@ let mejoresPorDepto={
     "ROSA MARIA ATHIE RUBIO",
     "MARIA LUISA GRUNBERGER STERN",
     "VIRGINIA KALIS LETAYF",
-    "CLAUDIA EMILIA DE LEON PEREZ",
-    "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ"
+    "ANNAPAOLA LLANAS MEJIA",
+    "CLAUDIA EMILIA DE LEON PEREZ"
   ],
   "CIENCIA POLITICA": [
-    "JULIO ANTONIO RIOS FIGUEROA",
     "CHRISTINA CORNEJO VAN LUIT",
     "FELIPE CURCO COBOS",
     "JESUS ALEJANDRO MORENO ALVAREZ",
+    "JULIO ANTONIO RIOS FIGUEROA",
     "ADRIANA ALFARO ALTAMIRANO",
     "ALEXANDRA URIBE COUGHLAN",
     "ERIC MAGAR MEURS",

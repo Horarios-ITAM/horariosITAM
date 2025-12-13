@@ -1,4 +1,4 @@
-let actualizado="1765550670881.7283";
+let actualizado="1765637168045.361";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -3269,15 +3269,14 @@ let clases={
         "nombre": "COM-12104-VISUALIZACION DE INFORMACION",
         "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
         "creditos": "6",
-        "horario": "17:30-19:00",
+        "horario": "18:00-21:00",
         "dias": [
-          "MA",
-          "JU"
+          "MI"
         ],
-        "salon": "RH304",
+        "salon": "RH201",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -4409,7 +4408,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "CON-10001-PROCESO CONTABLE",
-        "profesor": "",
+        "profesor": "ANNAPAOLA LLANAS MEJIA",
         "creditos": "8",
         "horario": "09:00-11:00",
         "dias": [
@@ -4445,7 +4444,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-        "profesor": "",
+        "profesor": "ANNAPAOLA LLANAS MEJIA",
         "creditos": "8",
         "horario": "08:30-10:30",
         "dias": [
@@ -4475,7 +4474,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-        "profesor": "",
+        "profesor": "ANNAPAOLA LLANAS MEJIA",
         "creditos": "8",
         "horario": "10:30-12:30",
         "dias": [
@@ -4669,15 +4668,15 @@ let clases={
         "nombre": "CON-10100-CONTABILIDAD, I",
         "profesor": "MARCELA GONZALEZ MARTINEZ",
         "creditos": "6",
-        "horario": "09:30-11:00",
+        "horario": "09:00-10:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "PF106",
+        "salon": "RH301",
         "campus": "RIO HONDO",
-        "inicio": "09:30",
-        "fin": "11:00"
+        "inicio": "09:00",
+        "fin": "10:30"
       },
       {
         "grupo": "004",
@@ -4810,15 +4809,15 @@ let clases={
         "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
         "profesor": "MARCELA GONZALEZ MARTINEZ",
         "creditos": "6",
-        "horario": "09:30-11:00",
+        "horario": "09:00-10:30",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "PF106",
+        "salon": "RH301",
         "campus": "RIO HONDO",
-        "inicio": "09:30",
-        "fin": "11:00"
+        "inicio": "09:00",
+        "fin": "10:30"
       },
       {
         "grupo": "004",
@@ -4934,7 +4933,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-10111-CONTABILIDAD FINANCIERA I",
-        "profesor": "",
+        "profesor": "ANNAPAOLA LLANAS MEJIA",
         "creditos": "8",
         "horario": "08:30-10:30",
         "dias": [
@@ -4964,7 +4963,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "CON-10111-CONTABILIDAD FINANCIERA I",
-        "profesor": "",
+        "profesor": "ANNAPAOLA LLANAS MEJIA",
         "creditos": "8",
         "horario": "10:30-12:30",
         "dias": [
@@ -5122,10 +5121,10 @@ let clases={
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH306",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -5184,7 +5183,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
-        "profesor": "",
+        "profesor": "ETHEL SARAHAIM RAMIREZ MORALES",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -5269,7 +5268,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
-        "profesor": "",
+        "profesor": "ETHEL SARAHAIM RAMIREZ MORALES",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -5320,7 +5319,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "CON-14109-CONTABILIDAD GERENCIAL",
-        "profesor": "",
+        "profesor": "ETHEL SARAHAIM RAMIREZ MORALES",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -5443,7 +5442,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CON-15002-IMPUESTOS CORPORATIVOS, II",
-        "profesor": "",
+        "profesor": "LUIS ANTHAR GONZALEZ RODRIGUEZ",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -5590,9 +5589,9 @@ let clases={
         "creditos": "3",
         "horario": "13:00-14:30",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RH101",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -6592,28 +6591,28 @@ let clases={
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
         "profesor": "ALEJANDRO  RODILES BRETON",
         "creditos": "9",
-        "horario": "10:00-11:30",
+        "horario": "17:30-19:00",
         "dias": [
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "17:30",
+        "fin": "19:00"
       },
       {
         "grupo": "002",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
         "profesor": "ALEJANDRO  RODILES BRETON",
         "creditos": "9",
-        "horario": "10:00-11:30",
+        "horario": "17:30-19:00",
         "dias": [
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6998,7 +6997,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-11107-TALLER EN BIENES Y DER REALES-LAB",
-        "profesor": "",
+        "profesor": "FRANZ ERWIN OBERARZBACHER DAVILA",
         "creditos": "2",
         "horario": "19:00-21:00",
         "dias": [
@@ -7023,7 +7022,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB",
-        "profesor": "",
+        "profesor": "FRANZ ERWIN OBERARZBACHER DAVILA",
         "creditos": "2",
         "horario": "07:00-09:00",
         "dias": [
@@ -7202,7 +7201,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
-        "profesor": "",
+        "profesor": "MICHAEL CUSTER COOK",
         "creditos": "4",
         "horario": "08:30-09:00",
         "dias": [
@@ -7223,7 +7222,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
-        "profesor": "",
+        "profesor": "MICHAEL CUSTER COOK",
         "creditos": "4",
         "horario": "09:00-10:00",
         "dias": [
@@ -7547,7 +7546,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11307-TALLER ESCRIT  P/ DER PRIVADO",
-        "profesor": "",
+        "profesor": "FRANZ ERWIN OBERARZBACHER DAVILA",
         "creditos": "4",
         "horario": "19:00-21:00",
         "dias": [
@@ -7699,7 +7698,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-12204-INTROD. AL DERECHO MEXICANO",
-        "profesor": "",
+        "profesor": "FRANZ ERWIN OBERARZBACHER DAVILA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -7846,7 +7845,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-13201-PERSONAS Y FAMILIA",
-        "profesor": "",
+        "profesor": "JORGE LUIS ZAPATA MEJIA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -7882,7 +7881,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
-        "profesor": "",
+        "profesor": "JORGE LUIS ZAPATA MEJIA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -8631,7 +8630,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-16502-DERECHO MERCANTIL I",
-        "profesor": "",
+        "profesor": "EMILIO RUVALCABA ORNELAS",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -8855,7 +8854,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-17703-DERECHO FISCAL I",
-        "profesor": "",
+        "profesor": "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA",
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
@@ -10126,15 +10125,15 @@ let clases={
         "nombre": "ECO-12011-MACROECONOMIA I",
         "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
         "creditos": "8",
-        "horario": "08:00-10:00",
+        "horario": "18:00-20:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH304",
         "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "10:00"
+        "inicio": "18:00",
+        "fin": "20:00"
       },
       {
         "grupo": "002",
@@ -10464,7 +10463,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF101",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -10525,7 +10524,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH101",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -10701,7 +10700,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF102",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -10803,14 +10802,14 @@ let clases={
         "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
         "profesor": "MANETT ROCIO VARGAS GARCIA",
         "creditos": "6",
-        "horario": "10:00-13:00",
+        "horario": "07:00-10:00",
         "dias": [
           "VI"
         ],
         "salon": "RH106",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "13:00"
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -10972,15 +10971,15 @@ let clases={
         "nombre": "ECO-22105-ECONOMIA V",
         "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
         "creditos": "8",
-        "horario": "08:00-10:00",
+        "horario": "18:00-20:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH304",
         "campus": "RIO HONDO",
-        "inicio": "08:00",
-        "fin": "10:00"
+        "inicio": "18:00",
+        "fin": "20:00"
       }
     ]
   },
@@ -16444,15 +16443,15 @@ let clases={
         "nombre": "MAT-12210-SIST. DINAMICOS",
         "profesor": "JOAO PEDRO LEITAO DA CRUZ MORAIS",
         "creditos": "6",
-        "horario": "10:30-12:00",
+        "horario": "10:00-11:30",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RH307",
         "campus": "RIO HONDO",
-        "inicio": "10:30",
-        "fin": "12:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       },
       {
         "grupo": "002",
@@ -16587,16 +16586,16 @@ let clases={
         "nombre": "MAT-12250-CALCULO APLICADO",
         "profesor": "LYSETTE FELIX FELIX",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "07:30-09:00",
         "dias": [
           "LU",
           "MI",
           "VI"
         ],
-        "salon": "RH111",
+        "salon": "RH101",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "07:30",
+        "fin": "09:00"
       },
       {
         "grupo": "002",
@@ -17633,15 +17632,15 @@ let clases={
         "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
         "profesor": "JOAO PEDRO LEITAO DA CRUZ MORAIS",
         "creditos": "6",
-        "horario": "10:30-12:00",
+        "horario": "10:00-11:30",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "RH307",
         "campus": "RIO HONDO",
-        "inicio": "10:30",
-        "fin": "12:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       },
       {
         "grupo": "002",
@@ -17979,14 +17978,14 @@ let clases={
         "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
         "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
         "creditos": "10",
-        "horario": "07:00-09:00",
+        "horario": "18:00-20:00",
         "dias": [
-          "VI"
+          "LU"
         ],
         "salon": "RHLFIEL",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
+        "inicio": "18:00",
+        "fin": "20:00"
       }
     ]
   },
@@ -18004,7 +18003,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHLI2",
+        "salon": "RHLSIST",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -18804,8 +18803,13 @@ let misProfesData={
   },
   "ROSA MARIA ATHIE RUBIO": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Ma.-Athie_19736",
-    "general": 8.9296,
-    "n": 71
+    "general": 8.9306,
+    "n": 72
+  },
+  "ANNAPAOLA LLANAS MEJIA": {
+    "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
+    "general": 8.3333,
+    "n": 75
   },
   "SANDRA PATRICIA MINABURO VILLAR": {
     "link": "https://www.misprofesores.com/profesores/Sandra-Patricia-Minaburo-Villar_10747",
@@ -18887,6 +18891,11 @@ let misProfesData={
     "general": 6.0,
     "n": 7
   },
+  "LUIS ANTHAR GONZALEZ RODRIGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Anthar-Gonz\u00e1lez_177453",
+    "general": 8.0,
+    "n": 1
+  },
   "ERIC MAGAR MEURS": {
     "link": "https://www.misprofesores.com/profesores/Eric-Magar-Meurs_10805",
     "general": 8.0769,
@@ -18949,8 +18958,8 @@ let misProfesData={
   },
   "JULIO ANTONIO RIOS FIGUEROA": {
     "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
-    "general": 10.0,
-    "n": 2
+    "general": 9.0,
+    "n": 3
   },
   "MARCOS PERAFAN GOMEZ": {
     "link": "https://www.misprofesores.com/profesores/Marcos-Perafan_67472",
@@ -19469,13 +19478,13 @@ let misProfesData={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.7778,
-    "n": 99
+    "general": 6.8,
+    "n": 100
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 7.9778,
-    "n": 45
+    "general": 8.0217,
+    "n": 46
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
