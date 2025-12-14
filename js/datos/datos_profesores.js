@@ -1,4 +1,4 @@
-let actualizado="1765637168058.5132";
+let actualizado="1765723401959.4417";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -730,23 +730,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
-        }
-      ],
-      "DER-10011-REGIMEN FISCAL MEXICANO (CP)": [
-        {
-          "grupo": "002",
-          "nombre": "DER-10011-REGIMEN FISCAL MEXICANO (CP)",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ],
       "DER-11112-TALLER DISERT JURID EN CONTRAT-LAB": [
@@ -7963,10 +7946,10 @@ let profesores={
           "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RHSA1",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -7980,13 +7963,37 @@ let profesores={
           "creditos": "6",
           "horario": "09:00-10:30",
           "dias": [
-            "MA",
-            "JU"
+            "LU",
+            "MI"
           ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
+          "salon": "",
+          "campus": "",
           "inicio": "09:00",
           "fin": "10:30"
+        }
+      ]
+    }
+  },
+  "MARIANA CALDERON ARAMBURU": {
+    "link": "https://www.misprofesores.com/profesores/Mariana-Calder\u00f3n-Aramburu_140257",
+    "general": 7.75,
+    "n": 4,
+    "grupos": {
+      "DER-10011-REGIMEN FISCAL MEXICANO (CP)": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10011-REGIMEN FISCAL MEXICANO (CP)",
+          "profesor": "MARIANA CALDERON ARAMBURU",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -8281,15 +8288,14 @@ let profesores={
           "nombre": "DER-10018-DERECHO EMPRESARIAL I",
           "profesor": "MARIO LEONARDO PETRICIOLI RUIZ",
           "creditos": "6",
-          "horario": "07:00-08:30",
+          "horario": "07:00-10:00",
           "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
-          "salon": "RH309",
+          "salon": "RH307",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "08:30"
+          "fin": "10:00"
         }
       ]
     }
@@ -12008,8 +12014,8 @@ let profesores={
   },
   "VALERIA ZEPEDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",
-    "general": 8.2353,
-    "n": 102,
+    "general": 8.2524,
+    "n": 103,
     "grupos": {
       "EGN-11163-NEW HISTORIC PERSPECT. OF MEX.": [
         {
@@ -12893,8 +12899,8 @@ let profesores={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.8,
-    "n": 100,
+    "general": 6.8218,
+    "n": 101,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -14004,8 +14010,8 @@ let profesores={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.7662,
-    "n": 77,
+    "general": 5.7821,
+    "n": 78,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -14901,8 +14907,8 @@ let profesores={
   },
   "ALEJANDRO TERAN CASTELLANOS": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",
-    "general": 6.9231,
-    "n": 39,
+    "general": 6.95,
+    "n": 40,
     "grupos": {
       "IIO-13150-MODELADO Y OPTIMIZACION I": [
         {
@@ -14942,8 +14948,8 @@ let profesores={
   },
   "LUIS ANTONIO MONCAYO MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Luis-Antonio-Moncayo-Mart\u00ednez_94297",
-    "general": 7.0,
-    "n": 6,
+    "general": 7.4286,
+    "n": 7,
     "grupos": {
       "IIO-13150-MODELADO Y OPTIMIZACION I": [
         {
@@ -15023,6 +15029,9 @@ let profesores={
     }
   },
   "ELIAS HERIBERTO ARIAS NAVA": {
+    "link": "https://www.misprofesores.com/profesores/Elias-Heriberto-Arias-Nava_190247",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "IIO-14162-ING. Y CONTROL DE LA CALIDAD": [
         {
@@ -15262,8 +15271,8 @@ let profesores={
   },
   "SERGIO ROMERO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
-    "general": 7.0,
-    "n": 21,
+    "general": 7.1364,
+    "n": 22,
     "grupos": {
       "IIO-15170-DISE\u00d1O ASISTIDO POR COMPUTAD.": [
         {
@@ -15768,8 +15777,8 @@ let profesores={
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
-    "general": 9.8,
-    "n": 5,
+    "general": 9.8333,
+    "n": 6,
     "grupos": {
       "LEN-10135-COM. ESCRITA PARA MAT. APL.": [
         {
@@ -18677,8 +18686,8 @@ let profesores={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.5714,
-    "n": 7,
+    "general": 9.625,
+    "n": 8,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -19555,6 +19564,7 @@ let mejoresPorDepto={
     "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
+    "ELIAS HERIBERTO ARIAS NAVA",
     "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
     "ADAN RAMIREZ LOPEZ",
     "LUIS ANTONIO MONCAYO MARTINEZ",
@@ -19563,8 +19573,7 @@ let mejoresPorDepto={
     "ANA KARINA MIRANDA FLORES",
     "MARIA CRISTINA GIGOLA PAGLIALUNGA",
     "LUIS EDUARDO URBAN RIVERO",
-    "ANDRES JOSE RODRIGUEZ TORRES",
-    "THOMAS MARTIN RUDOLF"
+    "ANDRES JOSE RODRIGUEZ TORRES"
   ],
   "LENGUAS (LEN)": [
     "FEDERICO VALLE OCHOA",

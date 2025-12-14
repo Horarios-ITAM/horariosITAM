@@ -1,4 +1,4 @@
-let actualizado="1765637168045.361";
+let actualizado="1765723401946.587";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -6557,10 +6557,10 @@ let clases={
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RHSA1",
+        "salon": "RH307",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -6568,15 +6568,15 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10011-REGIMEN FISCAL MEXICANO (CP)",
-        "profesor": "",
+        "profesor": "MARIANA CALDERON ARAMBURU",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RHB-4",
-        "campus": "RIO HONDO",
+        "salon": "",
+        "campus": "",
         "inicio": "07:00",
         "fin": "08:30"
       }
@@ -6755,15 +6755,14 @@ let clases={
         "nombre": "DER-10018-DERECHO EMPRESARIAL I",
         "profesor": "MARIO LEONARDO PETRICIOLI RUIZ",
         "creditos": "6",
-        "horario": "07:00-08:30",
+        "horario": "07:00-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH309",
+        "salon": "RH307",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "08:30"
+        "fin": "10:00"
       }
     ]
   },
@@ -7106,11 +7105,11 @@ let clases={
         "creditos": "6",
         "horario": "09:00-10:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH310",
-        "campus": "RIO HONDO",
+        "salon": "",
+        "campus": "",
         "inicio": "09:00",
         "fin": "10:30"
       }
@@ -18981,6 +18980,11 @@ let misProfesData={
     "general": 9.25,
     "n": 12
   },
+  "MARIANA CALDERON ARAMBURU": {
+    "link": "https://www.misprofesores.com/profesores/Mariana-Calder\u00f3n-Aramburu_140257",
+    "general": 7.75,
+    "n": 4
+  },
   "ALEJANDRO  RODILES BRETON": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Rodiles-Bret\u00f3n_90266",
     "general": 7.0,
@@ -19363,8 +19367,8 @@ let misProfesData={
   },
   "VALERIA ZEPEDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",
-    "general": 8.2353,
-    "n": 102
+    "general": 8.2524,
+    "n": 103
   },
   "JUAN CARLOS MANSUR GARDA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Mansur-Garda_10820",
@@ -19478,8 +19482,8 @@ let misProfesData={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.8,
-    "n": 100
+    "general": 6.8218,
+    "n": 101
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
@@ -19613,8 +19617,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.7662,
-    "n": 77
+    "general": 5.7821,
+    "n": 78
   },
   "VICTOR MANUEL GUERRERO GUZMAN": {
     "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Guerrero-Guzm\u00e1n_10688",
@@ -19673,18 +19677,23 @@ let misProfesData={
   },
   "ALEJANDRO TERAN CASTELLANOS": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",
-    "general": 6.9231,
-    "n": 39
+    "general": 6.95,
+    "n": 40
   },
   "LUIS ANTONIO MONCAYO MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Luis-Antonio-Moncayo-Mart\u00ednez_94297",
-    "general": 7.0,
-    "n": 6
+    "general": 7.4286,
+    "n": 7
   },
   "ANA KARINA MIRANDA FLORES": {
     "link": "https://www.misprofesores.com/profesores/Ana-Karina-Miranda-Flores_150364",
     "general": 6.5,
     "n": 2
+  },
+  "ELIAS HERIBERTO ARIAS NAVA": {
+    "link": "https://www.misprofesores.com/profesores/Elias-Heriberto-Arias-Nava_190247",
+    "general": 10.0,
+    "n": 1
   },
   "MARIA CRISTINA GIGOLA PAGLIALUNGA": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Gigola-Paglialunga_10861",
@@ -19703,8 +19712,8 @@ let misProfesData={
   },
   "SERGIO ROMERO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
-    "general": 7.0,
-    "n": 21
+    "general": 7.1364,
+    "n": 22
   },
   "FEDERICO AUGUSTO GUZMAN RUBIO": {
     "link": "https://www.misprofesores.com/profesores/Federico-Guzm\u00e1n-Rubio_81699",
@@ -19723,8 +19732,8 @@ let misProfesData={
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
-    "general": 9.8,
-    "n": 5
+    "general": 9.8333,
+    "n": 6
   },
   "FLORENCIA GRACIELA ZOZAYA BECERRA": {
     "link": "https://www.misprofesores.com/profesores/Florencia-Zozaya-Becerra_120641",
@@ -19948,8 +19957,8 @@ let misProfesData={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.5714,
-    "n": 7
+    "general": 9.625,
+    "n": 8
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
