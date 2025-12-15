@@ -1,4 +1,4 @@
-let actualizado="1765723401946.587";
+let actualizado="1765810509112.1497";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -19597,8 +19597,8 @@ let misProfesData={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 4.1667,
-    "n": 18
+    "general": 4.1579,
+    "n": 19
   },
   "DAVID EDGARDO CASTILLO RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Edgar-Castillo-Rodriguez_112818",

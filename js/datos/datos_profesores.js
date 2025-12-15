@@ -1,4 +1,4 @@
-let actualizado="1765723401959.4417";
+let actualizado="1765810509126.5007";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -13805,8 +13805,8 @@ let profesores={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 4.1667,
-    "n": 18,
+    "general": 4.1579,
+    "n": 19,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
