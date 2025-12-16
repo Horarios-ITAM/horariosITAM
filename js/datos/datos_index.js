@@ -1,4 +1,4 @@
-let actualizado="1765810509112.1497";
+let actualizado="1765896797988.5354";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -175,21 +175,6 @@ let clases={
     "clave": "ACT-13307",
     "grupos": [
       {
-        "grupo": "001",
-        "nombre": "ACT-13307-ESTAD. APLICADA A LA ACTUARIA",
-        "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
-        "creditos": "6",
-        "horario": "08:30-10:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH104",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
-      },
-      {
         "grupo": "002",
         "nombre": "ACT-13307-ESTAD. APLICADA A LA ACTUARIA",
         "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
@@ -203,6 +188,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
+      },
+      {
+        "grupo": "1",
+        "nombre": "ACT-13307-ESTAD. APLICADA A LA ACTUARIA",
+        "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
+        "creditos": "6",
+        "horario": "08:30-10:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH104",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -5988,15 +5988,15 @@ let clases={
         "nombre": "CSO-13046-CULTURA POPULAR Y POLITICA",
         "profesor": "ALEXANDRA URIBE COUGHLAN",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "09:30-11:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH212",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "09:30",
+        "fin": "11:00"
       }
     ]
   },
@@ -9234,7 +9234,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH112",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -11397,7 +11397,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RH210",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
@@ -13886,8 +13886,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH110",
-        "campus": "RIO HONDO",
+        "salon": "",
+        "campus": "",
         "inicio": "18:00",
         "fin": "20:00"
       },
@@ -17520,6 +17520,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      },
+      {
+        "grupo": "02",
+        "nombre": "MAT-22600-MATEMATICAS FINANCIERAS I",
+        "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
+        "creditos": "6",
+        "horario": "08:30-10:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH104",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -18787,8 +18802,8 @@ let misProfesData={
   },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
-    "general": 8.0769,
-    "n": 26
+    "general": 7.963,
+    "n": 27
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
@@ -19192,8 +19207,8 @@ let misProfesData={
   },
   "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
-    "general": 6.8235,
-    "n": 102
+    "general": 6.8544,
+    "n": 103
   },
   "JOSE GABRIEL MARTINEZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Gabriel-Mart\u00ednez-Gonz\u00e1lez_181679",
@@ -19477,8 +19492,8 @@ let misProfesData={
   },
   "ANTONIO LOPEZ VEGA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-L\u00f3pez-Vega_186030",
-    "general": 0.0,
-    "n": 0
+    "general": 7.0,
+    "n": 1
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
@@ -19612,8 +19627,8 @@ let misProfesData={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 6.4444,
-    "n": 18
+    "general": 6.4211,
+    "n": 19
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
@@ -19780,6 +19795,11 @@ let misProfesData={
     "general": 9.875,
     "n": 8
   },
+  "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
+    "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
+    "general": 10.0,
+    "n": 1
+  },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
     "general": 9.2222,
@@ -19832,8 +19852,8 @@ let misProfesData={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.2778,
-    "n": 72
+    "general": 8.3014,
+    "n": 73
   },
   "SANTIAGO HERNANDEZ CORNEJO": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo_113575",
@@ -19932,8 +19952,8 @@ let misProfesData={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.6154,
-    "n": 39
+    "general": 7.525,
+    "n": 40
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
@@ -19952,8 +19972,8 @@ let misProfesData={
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 8.7368,
-    "n": 19
+    "general": 8.75,
+    "n": 20
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",

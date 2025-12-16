@@ -1,4 +1,4 @@
-let actualizado="1765810509126.5007";
+let actualizado="1765896798005.343";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -288,21 +288,6 @@ let profesores={
     "grupos": {
       "ACT-13307-ESTAD. APLICADA A LA ACTUARIA": [
         {
-          "grupo": "001",
-          "nombre": "ACT-13307-ESTAD. APLICADA A LA ACTUARIA",
-          "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH104",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        },
-        {
           "grupo": "002",
           "nombre": "ACT-13307-ESTAD. APLICADA A LA ACTUARIA",
           "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
@@ -316,6 +301,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        },
+        {
+          "grupo": "1",
+          "nombre": "ACT-13307-ESTAD. APLICADA A LA ACTUARIA",
+          "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "MAT-22600-MATEMATICAS FINANCIERAS I": [
+        {
+          "grupo": "02",
+          "nombre": "MAT-22600-MATEMATICAS FINANCIERAS I",
+          "profesor": "MARIA MERCEDES GREGORIO DOMINGUEZ",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -5381,8 +5398,8 @@ let profesores={
   },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
-    "general": 8.0769,
-    "n": 26,
+    "general": 7.963,
+    "n": 27,
     "grupos": {
       "COM-25705-SEG INFORMATICA Y HACKEO ETICO": [
         {
@@ -6838,15 +6855,15 @@ let profesores={
           "nombre": "CSO-13046-CULTURA POPULAR Y POLITICA",
           "profesor": "ALEXANDRA URIBE COUGHLAN",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "09:30-11:00",
           "dias": [
-            "LU",
-            "MI"
+            "MA",
+            "JU"
           ],
-          "salon": "RH212",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "salon": "",
+          "campus": "",
+          "inicio": "09:30",
+          "fin": "11:00"
         }
       ],
       "CSO-14021-POLITICA COMPARADA,I": [
@@ -10285,8 +10302,8 @@ let profesores={
   },
   "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
-    "general": 6.8235,
-    "n": 102,
+    "general": 6.8544,
+    "n": 103,
     "grupos": {
       "ECO-10300-PENSAMIENTO ECONOMICO": [
         {
@@ -10298,7 +10315,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH112",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -12451,7 +12468,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "RH210",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
@@ -12874,8 +12891,8 @@ let profesores={
   },
   "ANTONIO LOPEZ VEGA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-L\u00f3pez-Vega_186030",
-    "general": 0.0,
-    "n": 0,
+    "general": 7.0,
+    "n": 1,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -13965,8 +13982,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 6.4444,
-    "n": 18,
+    "general": 6.4211,
+    "n": 19,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -15105,8 +15122,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH110",
-          "campus": "RIO HONDO",
+          "salon": "",
+          "campus": "",
           "inicio": "18:00",
           "fin": "20:00"
         }
@@ -16540,6 +16557,9 @@ let profesores={
     }
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
+    "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17452,8 +17472,8 @@ let profesores={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.2778,
-    "n": 72,
+    "general": 8.3014,
+    "n": 73,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -18464,8 +18484,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.6154,
-    "n": 39,
+    "general": 7.525,
+    "n": 40,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -18645,8 +18665,8 @@ let profesores={
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 8.7368,
-    "n": 19,
+    "general": 8.75,
+    "n": 20,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -19576,6 +19596,7 @@ let mejoresPorDepto={
     "ANDRES JOSE RODRIGUEZ TORRES"
   ],
   "LENGUAS (LEN)": [
+    "SAMARI PAULINA GARCIA Y COLOME GONGORA",
     "FEDERICO VALLE OCHOA",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
@@ -19584,8 +19605,7 @@ let mejoresPorDepto={
     "DIANA LUCIA ALVAREZ MACIAS",
     "ISRAEL ALVAREZ MACIAS",
     "GABRIEL ASTEY WOOD",
-    "FEDERICO AUGUSTO GUZMAN RUBIO",
-    "JAVIER MARTINEZ VILLARROYA"
+    "FEDERICO AUGUSTO GUZMAN RUBIO"
   ],
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",
