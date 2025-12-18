@@ -411,8 +411,10 @@ function detallesHTML(clase, initialRender = false){
         out+='<td id="grupo">'+grupo.horario+'</td></tr>';
     }
     out+='</table>'
-    // Link de "Ver en Horarios ITAM"
-    out+='<span style="color:black;padding-right:10px" onclick="post_link(\''+clase.nombre+'\')"><small><u>Ver en Horarios ITAM<u></small></span>'
+    // Link de "Ver en Horarios ITAM" -- TODO usamos proxy por ahora por CORS
+    // out+='<span style="color:black;padding-right:10px" onclick="post_link(\''+clase.nombre+'\')"><small><u>Ver en Horarios ITAM<u></small></span>'
+    out+='<a style="color:black;padding-right:10px" href="https://proxy.horariositam.com/ver?txt_materia='+clase.nombre+'"><small><u>Ver datos<u></small></a>'
+
     // Link de "Eliminar"
     out+='<span style="color:black" onclick="eliminar(\''+clase.nombre+'\')"><u><small>Eliminar Clase</small></u></span>';
     return out;
