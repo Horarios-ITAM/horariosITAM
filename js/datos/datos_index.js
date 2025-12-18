@@ -1,4 +1,4 @@
-let actualizado="1765983081205.513";
+let actualizado="1766069423208.884";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -163,7 +163,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH104",
+        "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -552,14 +552,13 @@ let clases={
         "nombre": "ADM-12022-ESTRATEGIA GLOBAL",
         "profesor": "",
         "creditos": "6",
-        "horario": "19:00-20:30",
+        "horario": "17:30-20:30",
         "dias": [
-          "LU",
           "MI"
         ],
-        "salon": "RH301",
+        "salon": "RH311",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
+        "inicio": "17:30",
         "fin": "20:30"
       }
     ]
@@ -832,7 +831,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF106",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -868,7 +867,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -910,7 +909,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH105",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -1249,7 +1248,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -1418,7 +1417,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -4451,7 +4450,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH313",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:30"
@@ -4568,7 +4567,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -4940,7 +4939,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH313",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:30"
@@ -5789,7 +5788,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH309",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -5993,8 +5992,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH104",
+        "campus": "RIO HONDO",
         "inicio": "09:30",
         "fin": "11:00"
       }
@@ -6575,8 +6574,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "PF108",
+        "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
       }
@@ -6964,13 +6963,13 @@ let clases={
         "nombre": "DER-11106-METODOL. DE LA DISERTAC JURID.",
         "profesor": "ROMAIN SYLVAIN JEAN GENIEZ",
         "creditos": "6",
-        "horario": "11:29-14:30",
+        "horario": "11:30-14:30",
         "dias": [
           "JU"
         ],
         "salon": "RH301",
         "campus": "RIO HONDO",
-        "inicio": "11:29",
+        "inicio": "11:30",
         "fin": "14:30"
       },
       {
@@ -7108,8 +7107,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "PF108",
+        "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:30"
       }
@@ -9310,7 +9309,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
-        "profesor": "ERNESTO JAVIER CORDERO ARROYO",
+        "profesor": "ALEXIS CAPDEVIELLE HARRISON",
         "creditos": "7",
         "horario": "07:00-10:00",
         "dias": [
@@ -9320,6 +9319,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
+        "profesor": "",
+        "creditos": "7",
+        "horario": "07:00-08:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH309",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
       }
     ]
   },
@@ -9965,27 +9979,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
-      }
-    ]
-  },
-  "ECO-11221": {
-    "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
-    "clave": "ECO-11221",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
-        "profesor": "ANDREY  GOMBERG",
-        "creditos": "6",
-        "horario": "18:00-19:30",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH113",
-        "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:30"
       }
     ]
   },
@@ -10687,6 +10680,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
+      }
+    ]
+  },
+  "ECO-15112": {
+    "nombre": "ECO-15112-TOPICOS SELECTOS EN ECO. POL.",
+    "clave": "ECO-15112",
+    "grupos": [
+      {
+        "grupo": "1",
+        "nombre": "ECO-15112-TOPICOS SELECTOS EN ECO. POL.",
+        "profesor": "ANDREY  GOMBERG",
+        "creditos": "6",
+        "horario": "18:00-19:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH113",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "19:30"
       }
     ]
   },
@@ -13886,15 +13900,15 @@ let clases={
         "nombre": "IIO-14278-ADMON. CADENA DE SUMINISTRO",
         "profesor": "MARIA CRISTINA GIGOLA PAGLIALUNGA",
         "creditos": "8",
-        "horario": "18:00-20:00",
+        "horario": "16:00-18:00",
         "dias": [
           "MA",
           "JU"
         ],
         "salon": "",
         "campus": "",
-        "inicio": "18:00",
-        "fin": "20:00"
+        "inicio": "16:00",
+        "fin": "18:00"
       },
       {
         "grupo": "002",
@@ -14022,7 +14036,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-15140-CIENCIAS DE LOS MATERIALES",
-        "profesor": "ADAN RAMIREZ LOPEZ",
+        "profesor": "DORA ILIANA MEDINA MEDINA",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -14063,7 +14077,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP",
-        "profesor": "ADAN RAMIREZ LOPEZ",
+        "profesor": "DORA ILIANA MEDINA MEDINA",
         "creditos": "8",
         "horario": "08:30-10:00",
         "dias": [
@@ -14084,7 +14098,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-15150-PROCESOS DE MANUFACTURA I",
-        "profesor": "ADAN RAMIREZ LOPEZ",
+        "profesor": "THOMAS MARTIN RUDOLF",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -14133,7 +14147,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH310",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -14154,7 +14168,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH310",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -14341,9 +14355,9 @@ let clases={
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
-          "MA"
+          "LU"
         ],
-        "salon": "RHLMINT",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -14546,7 +14560,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH213",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -14866,7 +14880,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH213",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -15012,7 +15026,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -15066,7 +15080,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -15106,7 +15120,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH213",
+        "salon": "RH210",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -15126,7 +15140,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH213",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -15776,7 +15790,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -15830,7 +15844,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -15884,7 +15898,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH213",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -16259,7 +16273,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "RHSA4",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -17037,21 +17051,6 @@ let clases={
     "clave": "MAT-14280",
     "grupos": [
       {
-        "grupo": "001",
-        "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "07:00-08:30",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH111",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
-      },
-      {
         "grupo": "002",
         "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
         "profesor": "LEOBARDO FERNANDEZ ROMAN",
@@ -17228,21 +17227,6 @@ let clases={
     "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
     "clave": "MAT-14300",
     "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "07:00-08:30",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH111",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
-      },
       {
         "grupo": "002",
         "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
@@ -19230,10 +19214,10 @@ let misProfesData={
     "general": 8.4545,
     "n": 22
   },
-  "ERNESTO JAVIER CORDERO ARROYO": {
-    "link": "https://www.misprofesores.com/profesores/Ernesto-Cordero-Arroyo_118142",
-    "general": 8.0,
-    "n": 4
+  "ALEXIS CAPDEVIELLE HARRISON": {
+    "link": "https://www.misprofesores.com/profesores/Alexis-Capdevielle_148992",
+    "general": 9.0,
+    "n": 2
   },
   "ARTURO MANUEL FERNANDEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Fern\u00e1ndez-P\u00e9rez_13789",
@@ -19300,11 +19284,6 @@ let misProfesData={
     "general": 6.5429,
     "n": 35
   },
-  "ANDREY  GOMBERG": {
-    "link": "https://www.misprofesores.com/profesores/Andrei-Gomberg_10762",
-    "general": 6.027,
-    "n": 37
-  },
   "ERNESTO BLANCAS BARRAGAN": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
     "general": 7.4,
@@ -19368,6 +19347,11 @@ let misProfesData={
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
     "general": 6.8649,
+    "n": 37
+  },
+  "ANDREY  GOMBERG": {
+    "link": "https://www.misprofesores.com/profesores/Andrei-Gomberg_10762",
+    "general": 6.027,
     "n": 37
   },
   "FELIX VELEZ FERNANDEZ VARELA": {
@@ -19730,11 +19714,6 @@ let misProfesData={
     "general": 10.0,
     "n": 1
   },
-  "ADAN RAMIREZ LOPEZ": {
-    "link": "https://www.misprofesores.com/profesores/Ad\u00e1n-Ram\u00edrez-L\u00f3pez_62698",
-    "general": 8.2727,
-    "n": 11
-  },
   "SERGIO ROMERO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
     "general": 7.1364,
@@ -19751,9 +19730,9 @@ let misProfesData={
     "n": 32
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19892,8 +19871,8 @@ let misProfesData={
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
-    "general": 7.0784,
-    "n": 51
+    "general": 7.1346,
+    "n": 52
   },
   "ANDREAS WACHTEL": {
     "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",
@@ -19907,8 +19886,8 @@ let misProfesData={
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
-    "general": 8.873,
-    "n": 63
+    "general": 8.8906,
+    "n": 64
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
@@ -20002,8 +19981,8 @@ let misProfesData={
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
-    "general": 6.1026,
-    "n": 39
+    "general": 6.125,
+    "n": 40
   },
   "CONCEPCION RUIZ RUIZ FUNES": {
     "link": "https://www.misprofesores.com/profesores/concepcion-ruiz-ruiz-funes_17986",
