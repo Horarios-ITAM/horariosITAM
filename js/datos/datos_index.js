@@ -1,4 +1,4 @@
-let actualizado="1766069423208.884";
+let actualizado="1766155704020.9087";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -516,7 +516,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH312",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -769,7 +769,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH312",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -2751,31 +2751,6 @@ let clases={
       }
     ]
   },
-  "CLE-10603-LAB": {
-    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-    "clave": "CLE-10603",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-        "profesor": "MARCELA RABADAN GALLARDO",
-        "creditos": "0",
-        "horario": "14:30-16:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "RHSA1",
-        "campus": "RIO HONDO",
-        "inicio": "14:30",
-        "fin": "16:00"
-      }
-    ]
-  },
-  "CLE-10603": {
-    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM",
-    "clave": "CLE-10603",
-    "grupos": []
-  },
   "COM-11102-LAB": {
     "nombre": "COM-11102-ESTRUCTURAS DE DATOS-LAB",
     "clave": "COM-11102",
@@ -3204,7 +3179,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "COM-12101-BASES DE DATOS",
-        "profesor": "",
+        "profesor": "JOSE ANTONIO LECHUGA RIVERA",
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
@@ -3225,7 +3200,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-12102-ANALISIS Y DIS. DE SIS.DE INFO",
-        "profesor": "",
+        "profesor": "PAULINA BUSTOS ARELLANO",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -3630,7 +3605,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "COM-16305-GESTION DE DATOS",
-        "profesor": "MIROSLAVA MENDOZA VIDAL",
+        "profesor": "FERNANDO PURON CONTRERAS",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -4247,7 +4222,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHLI1",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -4362,7 +4337,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "CON-10001-PROCESO CONTABLE",
-        "profesor": "",
+        "profesor": "SAMUEL EGURE LASCANO RESENDIZ",
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
@@ -4587,7 +4562,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -5935,7 +5910,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH204",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -6157,15 +6132,15 @@ let clases={
         "nombre": "CSO-14051-OPINION PUBLICA",
         "profesor": "JESUS ALEJANDRO MORENO ALVAREZ",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "07:00-08:30",
         "dias": [
           "LU",
           "MI"
         ],
         "salon": "RH212",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "07:00",
+        "fin": "08:30"
       }
     ]
   },
@@ -12411,7 +12386,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EIN-19140-GOBERNANZA GLOBAL Y MULTILATER",
-        "profesor": "",
+        "profesor": "MARIA JOSE URZUA VALVERDE",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -12603,7 +12578,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -14353,14 +14328,14 @@ let clases={
         "nombre": "IIO-15196-SISTEMAS MECATRONICOS",
         "profesor": "ISRAEL ULISES CAYETANO JIMENEZ",
         "creditos": "6",
-        "horario": "07:00-10:00",
+        "horario": "10:00-13:00",
         "dias": [
           "LU"
         ],
-        "salon": "RH210",
+        "salon": "RH202",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "13:00"
       }
     ]
   },
@@ -18561,8 +18536,8 @@ let misProfesData={
   },
   "JULIETA MARIA SARRALDE VERA": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Mar\u00eda-Sarralde-Vera_10718",
-    "general": 7.2381,
-    "n": 63
+    "general": 7.2813,
+    "n": 64
   },
   "POLUX ERNESTO DIAZ RUIZ": {
     "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
@@ -18654,11 +18629,6 @@ let misProfesData={
     "general": 10.0,
     "n": 1
   },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19
-  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.1915,
@@ -18693,6 +18663,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-M\u00e1rmol-Yahya_169926",
     "general": 10.0,
     "n": 3
+  },
+  "PAULINA BUSTOS ARELLANO": {
+    "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
+    "general": 10.0,
+    "n": 2
   },
   "RODOLFO CONDE MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Rodolfo-Conde-martinez_90450",
@@ -18744,11 +18719,6 @@ let misProfesData={
     "general": 8.3871,
     "n": 62
   },
-  "MIROSLAVA MENDOZA VIDAL": {
-    "link": "https://www.misprofesores.com/profesores/Miroslava-Mendoza-Vidal_30732",
-    "general": 8.7333,
-    "n": 15
-  },
   "MARGARITA OLMEDO DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Margarita-Olmedo-de-la-Pe\u00f1a_36749",
     "general": 7.7857,
@@ -18771,8 +18741,8 @@ let misProfesData={
   },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
-    "general": 7.1778,
-    "n": 45
+    "general": 7.1087,
+    "n": 46
   },
   "JUAN FERNANDO CALDERON CABELLO": {
     "link": "https://www.misprofesores.com/profesores/Juan-Fernando-Calder\u00f3n_74264",
@@ -19071,8 +19041,8 @@ let misProfesData={
   },
   "RAYMUNDO GAMA LEYVA": {
     "link": "https://www.misprofesores.com/profesores/Raymundo-Gama_80671",
-    "general": 8.9,
-    "n": 10
+    "general": 8.9091,
+    "n": 11
   },
   "NITZE NAYELI PEREZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Nitze-Nayeli-Perez-Fernandez_105762",
@@ -19276,8 +19246,8 @@ let misProfesData={
   },
   "XINYANG WANG": {
     "link": "https://www.misprofesores.com/profesores/Xinyang-Wang_122989",
-    "general": 7.3,
-    "n": 10
+    "general": 7.3636,
+    "n": 11
   },
   "TRIDIB  SHARMA": {
     "link": "https://www.misprofesores.com/profesores/Tridib-Sharma_10768",
@@ -19293,6 +19263,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
     "general": 7.8523,
     "n": 149
+  },
+  "CARLOS MANDUJANO FERREIRO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Mandujano-Ferreiro_190502",
+    "general": 3.0,
+    "n": 1
   },
   "VICTOR HUGO GOMEZ AYALA": {
     "link": "https://www.misprofesores.com/profesores/Victor-hugo-gomez-ayala_72112",
@@ -19361,8 +19336,8 @@ let misProfesData={
   },
   "CARLOS ERNESTO URRUTIA VILLALOBOS": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
-    "general": 8.1739,
-    "n": 23
+    "general": 8.25,
+    "n": 24
   },
   "ARTURO ALBERTO AGUILAR ESTEVA": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
@@ -19426,8 +19401,8 @@ let misProfesData={
   },
   "CARLOS JEFFREY MCCADDEN MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Jeffrey-McCadden-Mart\u00ednez_10822",
-    "general": 5.5759,
-    "n": 191
+    "general": 5.5677,
+    "n": 192
   },
   "JESUS ALEJANDRO ORDIERES SIERES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Ordieres-Sieres_10826",
@@ -19666,8 +19641,8 @@ let misProfesData={
   },
   "MANUEL MENDOZA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Mendoza-Ram\u00edrez_10691",
-    "general": 7.5,
-    "n": 24
+    "general": 7.48,
+    "n": 25
   },
   "ERICK MIER MORENO": {
     "link": "https://www.misprofesores.com/profesores/ERICK-MIER-MORENO_40949",
@@ -19730,9 +19705,9 @@ let misProfesData={
     "n": 32
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19774,10 +19749,15 @@ let misProfesData={
     "general": 2.0,
     "n": 2
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19
+  },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.0,
-    "n": 21
+    "general": 8.0455,
+    "n": 22
   },
   "ROSA MARGARITA GALAN VELEZ": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
@@ -19886,8 +19866,8 @@ let misProfesData={
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
-    "general": 8.8906,
-    "n": 64
+    "general": 8.9077,
+    "n": 65
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
