@@ -1,4 +1,4 @@
-let actualizado="1766155704020.9087";
+let actualizado="1766241807378.1174";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -3755,7 +3755,7 @@ let clases={
       {
         "grupo": "014",
         "nombre": "COM-16305-GESTION DE DATOS",
-        "profesor": "",
+        "profesor": "WILMER EFREN PEREIRA GONZALEZ",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -7988,7 +7988,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-13504-CONTRATOS",
-        "profesor": "",
+        "profesor": "CESAR LEYVA DEL VALLE",
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
@@ -8009,7 +8009,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13607-PROCE. CIVILES Y MERCANTILES",
-        "profesor": "",
+        "profesor": "JOSE COVARRUBIAS AZUELA",
         "creditos": "6",
         "horario": "18:00-19:30",
         "dias": [
@@ -8122,17 +8122,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-14606-DERECHO PROCESAL PENAL",
-        "profesor": "",
+        "profesor": "ALEXANDER RUBEN CASTILLO",
         "creditos": "6",
-        "horario": "16:00-17:30",
+        "horario": "19:00-20:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH317",
+        "salon": "RH307",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "19:00",
+        "fin": "20:30"
       },
       {
         "grupo": "002",
@@ -9298,17 +9298,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
-        "profesor": "",
+        "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
         "creditos": "7",
-        "horario": "07:00-08:30",
+        "horario": "08:30-10:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH309",
+        "salon": "RH212",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -9490,17 +9490,17 @@ let clases={
       {
         "grupo": "007",
         "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
-        "profesor": "ESTEBAN DEGETAU SENTIES",
+        "profesor": "",
         "creditos": "6",
-        "horario": "12:30-14:00",
+        "horario": "07:00-08:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH105",
         "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
+        "inicio": "07:00",
+        "fin": "08:30"
       },
       {
         "grupo": "008",
@@ -9739,17 +9739,17 @@ let clases={
       {
         "grupo": "007",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "ESTEBAN DEGETAU SENTIES",
+        "profesor": "",
         "creditos": "6",
-        "horario": "12:30-14:00",
+        "horario": "07:00-08:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH105",
         "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
+        "inicio": "07:00",
+        "fin": "08:30"
       },
       {
         "grupo": "008",
@@ -9911,10 +9911,10 @@ let clases={
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH211",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -10059,21 +10059,6 @@ let clases={
       {
         "grupo": "006",
         "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
-        "profesor": "CARLOS MANDUJANO FERREIRO",
-        "creditos": "6",
-        "horario": "11:30-13:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH303",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
-      },
-      {
-        "grupo": "007",
-        "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
         "profesor": "VICTOR HUGO GOMEZ AYALA",
         "creditos": "6",
         "horario": "16:00-17:30",
@@ -10206,21 +10191,6 @@ let clases={
       {
         "grupo": "006",
         "nombre": "ECO-12102-ECONOMIA, II",
-        "profesor": "CARLOS MANDUJANO FERREIRO",
-        "creditos": "6",
-        "horario": "11:30-13:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH303",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
-      },
-      {
-        "grupo": "007",
-        "nombre": "ECO-12102-ECONOMIA, II",
         "profesor": "VICTOR HUGO GOMEZ AYALA",
         "creditos": "6",
         "horario": "16:00-17:30",
@@ -10242,7 +10212,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12105-ECONOMIA, V",
-        "profesor": "",
+        "profesor": "CARLOS HURTADO LOPEZ",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -10299,7 +10269,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
-        "profesor": "",
+        "profesor": "CARLOS HURTADO LOPEZ",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -10335,17 +10305,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
-        "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
+        "profesor": "JOSE MARTINEZ GUTIERREZ",
         "creditos": "6",
-        "horario": "07:00-08:30",
+        "horario": "07:00-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH113",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "08:30"
+        "fin": "10:00"
       }
     ]
   },
@@ -10663,7 +10632,7 @@ let clases={
     "clave": "ECO-15112",
     "grupos": [
       {
-        "grupo": "1",
+        "grupo": "001",
         "nombre": "ECO-15112-TOPICOS SELECTOS EN ECO. POL.",
         "profesor": "ANDREY  GOMBERG",
         "creditos": "6",
@@ -10759,15 +10728,15 @@ let clases={
         "nombre": "ECO-17220-HISTORIA ECONOMICA MODERNA",
         "profesor": "FELIX VELEZ FERNANDEZ VARELA",
         "creditos": "6",
-        "horario": "17:30-19:00",
+        "horario": "18:00-19:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH108",
+        "salon": "RH111",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "18:00",
+        "fin": "19:30"
       }
     ]
   },
@@ -10931,9 +10900,9 @@ let clases={
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
-          "MI"
+          "JU"
         ],
-        "salon": "RH211",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -11067,7 +11036,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "MARIA ARIETTE ALVAREZ KURI",
+        "profesor": "MARIA TERESITA PAVIA LOPEZ",
         "creditos": "6",
         "horario": "07:00-08:00",
         "dias": [
@@ -11083,7 +11052,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "MARIA ARIETTE ALVAREZ KURI",
+        "profesor": "MARIA TERESITA PAVIA LOPEZ",
         "creditos": "6",
         "horario": "08:00-09:00",
         "dias": [
@@ -11099,7 +11068,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "CECILIA GALAVIZ ALVAREZ",
+        "profesor": "GABRIELA HERNANDEZ GARCIA",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -11115,7 +11084,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
-        "profesor": "CECILIA GALAVIZ ALVAREZ",
+        "profesor": "GABRIELA HERNANDEZ GARCIA",
         "creditos": "6",
         "horario": "12:00-13:00",
         "dias": [
@@ -11169,7 +11138,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "MARIA TERESITA PAVIA LOPEZ",
+        "profesor": "MARIA ARIETTE ALVAREZ KURI",
         "creditos": "6",
         "horario": "07:00-08:00",
         "dias": [
@@ -11185,7 +11154,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "MARIA TERESITA PAVIA LOPEZ",
+        "profesor": "MARIA ARIETTE ALVAREZ KURI",
         "creditos": "6",
         "horario": "08:00-09:00",
         "dias": [
@@ -11233,7 +11202,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "DIEGO ALEJANDRO OTERO ANGELINI",
+        "profesor": "JAIME RUIZ DE SANTIAGO Y SIERRA",
         "creditos": "6",
         "horario": "09:00-10:00",
         "dias": [
@@ -11281,7 +11250,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "JAIME RUIZ DE SANTIAGO Y SIERRA",
+        "profesor": "DIEGO ALEJANDRO OTERO ANGELINI",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -11329,7 +11298,7 @@ let clases={
       {
         "grupo": "011",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
+        "profesor": "PAVEL JIMENEZ VAZQUEZ",
         "creditos": "6",
         "horario": "16:00-17:00",
         "dias": [
@@ -11345,7 +11314,7 @@ let clases={
       {
         "grupo": "012",
         "nombre": "EGN-17122-IDEAS E INST. POL. Y SOC. II",
-        "profesor": "JAVIER ARTURO VELAZQUEZ GALVAN",
+        "profesor": "PAVEL JIMENEZ VAZQUEZ",
         "creditos": "6",
         "horario": "17:00-18:00",
         "dias": [
@@ -11399,7 +11368,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17123-IDEAS E INST. POL. Y SOC. III",
-        "profesor": "",
+        "profesor": "JAVIER ARTURO VELAZQUEZ GALVAN",
         "creditos": "6",
         "horario": "17:00-18:00",
         "dias": [
@@ -11421,7 +11390,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "SERGIO MIGUEL SARMIENTO SERRANO",
+        "profesor": "FRANCISCO ALEJANDRO GONZALEZ GOMEZ",
         "creditos": "6",
         "horario": "07:00-08:00",
         "dias": [
@@ -11437,7 +11406,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "SERGIO MIGUEL SARMIENTO SERRANO",
+        "profesor": "FRANCISCO ALEJANDRO GONZALEZ GOMEZ",
         "creditos": "6",
         "horario": "08:00-09:00",
         "dias": [
@@ -11453,7 +11422,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "GABRIELA HERNANDEZ GARCIA",
+        "profesor": "CECILIA GALAVIZ ALVAREZ",
         "creditos": "6",
         "horario": "09:00-10:00",
         "dias": [
@@ -11469,7 +11438,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "GABRIELA HERNANDEZ GARCIA",
+        "profesor": "CECILIA GALAVIZ ALVAREZ",
         "creditos": "6",
         "horario": "10:00-11:00",
         "dias": [
@@ -11485,7 +11454,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17141-PROB. DE LA CIV. CONTEMP., I",
-        "profesor": "ANTONIO JESUS DIEZ QUESADA",
+        "profesor": "DAVID MORENO GUINEA",
         "creditos": "6",
         "horario": "12:00-13:00",
         "dias": [
@@ -11539,7 +11508,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "FRANCISCO ALEJANDRO GONZALEZ GOMEZ",
+        "profesor": "SERGIO MIGUEL SARMIENTO SERRANO",
         "creditos": "6",
         "horario": "07:00-08:00",
         "dias": [
@@ -11555,7 +11524,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "ANA REGINA LUEVANO CAYON",
+        "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
         "creditos": "6",
         "horario": "07:00-08:00",
         "dias": [
@@ -11571,7 +11540,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "ANA REGINA LUEVANO CAYON",
+        "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
         "creditos": "6",
         "horario": "08:00-09:00",
         "dias": [
@@ -11587,7 +11556,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "PAVEL JIMENEZ VAZQUEZ",
+        "profesor": "SERGIO MIGUEL SARMIENTO SERRANO",
         "creditos": "6",
         "horario": "08:00-09:00",
         "dias": [
@@ -11603,7 +11572,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
+        "profesor": "ANA REGINA LUEVANO CAYON",
         "creditos": "6",
         "horario": "08:00-09:00",
         "dias": [
@@ -11619,7 +11588,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
+        "profesor": "ANA REGINA LUEVANO CAYON",
         "creditos": "6",
         "horario": "09:00-10:00",
         "dias": [
@@ -11635,7 +11604,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "ALFREDO VILLAFRANCA QUINTO",
+        "profesor": "SILVANO ANTONIO ESPINDOLA PARRA",
         "creditos": "6",
         "horario": "09:00-10:00",
         "dias": [
@@ -11667,7 +11636,7 @@ let clases={
       {
         "grupo": "009",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "PAVEL JIMENEZ VAZQUEZ",
+        "profesor": "ANTONIO LOPEZ VEGA",
         "creditos": "6",
         "horario": "10:00-11:00",
         "dias": [
@@ -11715,7 +11684,7 @@ let clases={
       {
         "grupo": "012",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "CARLOS GUTIERREZ LOZANO",
+        "profesor": "GERARDO FERNANDEZ FERNANDEZ",
         "creditos": "6",
         "horario": "11:00-12:00",
         "dias": [
@@ -11731,7 +11700,7 @@ let clases={
       {
         "grupo": "013",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "DAVID MORENO GUINEA",
+        "profesor": "ANTONIO JESUS DIEZ QUESADA",
         "creditos": "6",
         "horario": "12:00-13:00",
         "dias": [
@@ -11747,7 +11716,7 @@ let clases={
       {
         "grupo": "014",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "ALFREDO VILLAFRANCA QUINTO",
+        "profesor": "CARLOS GUTIERREZ LOZANO",
         "creditos": "6",
         "horario": "12:00-13:00",
         "dias": [
@@ -11763,7 +11732,7 @@ let clases={
       {
         "grupo": "015",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "",
+        "profesor": "CARLOS GUTIERREZ LOZANO",
         "creditos": "6",
         "horario": "13:00-14:00",
         "dias": [
@@ -11779,7 +11748,7 @@ let clases={
       {
         "grupo": "016",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "CARLOS GUTIERREZ LOZANO",
+        "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
         "creditos": "6",
         "horario": "13:00-14:00",
         "dias": [
@@ -11843,7 +11812,7 @@ let clases={
       {
         "grupo": "020",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "GERARDO ZORRILLA RAMOS",
+        "profesor": "ALFREDO VILLAFRANCA QUINTO",
         "creditos": "6",
         "horario": "17:00-18:00",
         "dias": [
@@ -11859,7 +11828,7 @@ let clases={
       {
         "grupo": "021",
         "nombre": "EGN-17142-PROB. DE LA CIV. CONTEMP., II",
-        "profesor": "GERARDO ZORRILLA RAMOS",
+        "profesor": "ALFREDO VILLAFRANCA QUINTO",
         "creditos": "6",
         "horario": "18:00-19:00",
         "dias": [
@@ -12009,7 +11978,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-        "profesor": "FRANCISCO ALEJANDRO GONZALEZ FRANCO",
+        "profesor": "",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -12039,7 +12008,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-        "profesor": "",
+        "profesor": "GERARDO ZORRILLA RAMOS",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -12165,7 +12134,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EIN-14303-POL. Y GOB. DE ESTADOS UNIDOS",
-        "profesor": "",
+        "profesor": "HAZEL BLACKMORE SANCHEZ",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -12212,7 +12181,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH303",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -12407,7 +12376,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EIN-19315-MIGRACION INTERNACIONAL (OP)",
-        "profesor": "",
+        "profesor": "JAIME RUIZ DE SANTIAGO Y SIERRA",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -18436,8 +18405,8 @@ let misProfesData={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.2609,
-    "n": 23
+    "general": 5.375,
+    "n": 24
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
@@ -18651,8 +18620,8 @@ let misProfesData={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.4464,
-    "n": 112
+    "general": 7.4602,
+    "n": 113
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
@@ -18734,6 +18703,11 @@ let misProfesData={
     "general": 8.4375,
     "n": 16
   },
+  "WILMER EFREN PEREIRA GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Wilmer-Efr\u00e9n-Pereira-Gonz\u00e1lez_142587",
+    "general": 10.0,
+    "n": 3
+  },
   "JOSE CALIXTO CANO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
     "general": 6.5429,
@@ -18748,11 +18722,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Juan-Fernando-Calder\u00f3n_74264",
     "general": 8.3846,
     "n": 13
-  },
-  "WILMER EFREN PEREIRA GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Wilmer-Efr\u00e9n-Pereira-Gonz\u00e1lez_142587",
-    "general": 10.0,
-    "n": 3
   },
   "JUAN MANUEL ANDRADE HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Juan-Manuel-Andrade-Hern\u00e1ndez_108735",
@@ -18876,8 +18845,8 @@ let misProfesData={
   },
   "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
-    "general": 8.0,
-    "n": 17
+    "general": 8.0556,
+    "n": 18
   },
   "ALEXANDRA URIBE COUGHLAN": {
     "link": "https://www.misprofesores.com/profesores/Alexandra-Uribe-Coughlan_10804",
@@ -19189,6 +19158,11 @@ let misProfesData={
     "general": 9.0,
     "n": 2
   },
+  "GUSTAVO ANTONIO LEYVA JIMENEZ": {
+    "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
+    "general": 6.0,
+    "n": 2
+  },
   "ARTURO MANUEL FERNANDEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Fern\u00e1ndez-P\u00e9rez_13789",
     "general": 6.0714,
@@ -19264,11 +19238,6 @@ let misProfesData={
     "general": 7.8523,
     "n": 149
   },
-  "CARLOS MANDUJANO FERREIRO": {
-    "link": "https://www.misprofesores.com/profesores/Carlos-Mandujano-Ferreiro_190502",
-    "general": 3.0,
-    "n": 1
-  },
   "VICTOR HUGO GOMEZ AYALA": {
     "link": "https://www.misprofesores.com/profesores/Victor-hugo-gomez-ayala_72112",
     "general": 0.0,
@@ -19284,6 +19253,11 @@ let misProfesData={
     "general": 6.6,
     "n": 15
   },
+  "CARLOS HURTADO LOPEZ": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Hurtado_115125",
+    "general": 4.0,
+    "n": 2
+  },
   "MIGUEL MESSMACHER LINARTAS": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Messmacher-Linartas_118897",
     "general": 9.0,
@@ -19294,10 +19268,10 @@ let misProfesData={
     "general": 6.5476,
     "n": 42
   },
-  "GUSTAVO ANTONIO LEYVA JIMENEZ": {
-    "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
-    "general": 6.0,
-    "n": 2
+  "JOSE MARTINEZ GUTIERREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Martinez-Gutierrez_137434",
+    "general": 0.0,
+    "n": 0
   },
   "DANIEL ISAAC CHIQUIAR CIKUREL": {
     "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
@@ -19359,30 +19333,35 @@ let misProfesData={
     "general": 7.3129,
     "n": 147
   },
-  "MARIA ARIETTE ALVAREZ KURI": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.5522,
-    "n": 134
-  },
-  "CECILIA GALAVIZ ALVAREZ": {
-    "link": "https://www.misprofesores.com/profesores/Cecilia-Galaviz_15926",
-    "general": 6.9806,
-    "n": 155
-  },
-  "JAVIER ARTURO VELAZQUEZ GALVAN": {
-    "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.2308,
-    "n": 26
-  },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
     "general": 7.2713,
     "n": 129
   },
+  "GABRIELA HERNANDEZ GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
+    "general": 7.3,
+    "n": 90
+  },
+  "JAVIER ARTURO VELAZQUEZ GALVAN": {
+    "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
+    "general": 9.1111,
+    "n": 27
+  },
+  "MARIA ARIETTE ALVAREZ KURI": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
+    "general": 6.5522,
+    "n": 134
+  },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
     "general": 6.2203,
     "n": 59
+  },
+  "JAIME RUIZ DE SANTIAGO Y SIERRA": {
+    "link": "https://www.misprofesores.com/profesores/Jaime-Ruiz-de-Santiago-y-Sierra_21773",
+    "general": 7.4259,
+    "n": 54
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
@@ -19394,65 +19373,55 @@ let misProfesData={
     "general": 8.1818,
     "n": 66
   },
-  "JAIME RUIZ DE SANTIAGO Y SIERRA": {
-    "link": "https://www.misprofesores.com/profesores/Jaime-Ruiz-de-Santiago-y-Sierra_21773",
-    "general": 7.4259,
-    "n": 54
-  },
   "CARLOS JEFFREY MCCADDEN MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Jeffrey-McCadden-Mart\u00ednez_10822",
     "general": 5.5677,
     "n": 192
-  },
-  "JESUS ALEJANDRO ORDIERES SIERES": {
-    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Ordieres-Sieres_10826",
-    "general": 7.3469,
-    "n": 147
-  },
-  "SERGIO MIGUEL SARMIENTO SERRANO": {
-    "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
-    "general": 7.4096,
-    "n": 83
-  },
-  "GABRIELA HERNANDEZ GARCIA": {
-    "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3,
-    "n": 90
-  },
-  "ANTONIO JESUS DIEZ QUESADA": {
-    "link": "https://www.misprofesores.com/profesores/Antonio-Jes\u00fas-Diez-Quesada_10816",
-    "general": 8.1754,
-    "n": 114
-  },
-  "JAVIER ESPINO MARTIN": {
-    "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7609,
-    "n": 46
-  },
-  "FRANCISCO ALEJANDRO GONZALEZ GOMEZ": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Alejandro-Gonz\u00e1lez-Franco_65939",
-    "general": 5.8333,
-    "n": 42
-  },
-  "ANA REGINA LUEVANO CAYON": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 7.0893,
-    "n": 56
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Jimenez_19862",
     "general": 6.3182,
     "n": 44
   },
+  "JESUS ALEJANDRO ORDIERES SIERES": {
+    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Alejandro-Ordieres-Sieres_10826",
+    "general": 7.3469,
+    "n": 147
+  },
+  "FRANCISCO ALEJANDRO GONZALEZ GOMEZ": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Alejandro-Gonz\u00e1lez-Franco_65939",
+    "general": 5.8333,
+    "n": 42
+  },
+  "CECILIA GALAVIZ ALVAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Cecilia-Galaviz_15926",
+    "general": 6.9806,
+    "n": 155
+  },
+  "DAVID MORENO GUINEA": {
+    "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
+    "general": 7.9787,
+    "n": 47
+  },
+  "JAVIER ESPINO MARTIN": {
+    "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
+    "general": 7.7609,
+    "n": 46
+  },
+  "SERGIO MIGUEL SARMIENTO SERRANO": {
+    "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
+    "general": 7.4096,
+    "n": 83
+  },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
     "general": 9.4699,
     "n": 83
   },
-  "ALFREDO VILLAFRANCA QUINTO": {
-    "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
-    "general": 8.2581,
-    "n": 186
+  "ANA REGINA LUEVANO CAYON": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
+    "general": 7.0893,
+    "n": 56
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
@@ -19464,25 +19433,25 @@ let misProfesData={
     "general": 7.0,
     "n": 1
   },
+  "ANTONIO JESUS DIEZ QUESADA": {
+    "link": "https://www.misprofesores.com/profesores/Antonio-Jes\u00fas-Diez-Quesada_10816",
+    "general": 8.1754,
+    "n": 114
+  },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
     "general": 6.8218,
     "n": 101
-  },
-  "DAVID MORENO GUINEA": {
-    "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 8.0217,
-    "n": 46
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
     "general": 8.1392,
     "n": 79
   },
-  "GERARDO ZORRILLA RAMOS": {
-    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
-    "general": 10.0,
-    "n": 1
+  "ALFREDO VILLAFRANCA QUINTO": {
+    "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
+    "general": 8.2581,
+    "n": 186
   },
   "JOSE MANUEL OROZCO GARIBAY": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Manuel-Orozco-Garibay_10824",
@@ -19504,15 +19473,15 @@ let misProfesData={
     "general": 5.6667,
     "n": 12
   },
-  "FRANCISCO ALEJANDRO GONZALEZ FRANCO": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Alejandro-Gonz\u00e1lez-Franco_65939",
-    "general": 5.8333,
-    "n": 42
-  },
   "FERNANDO RODRIGUEZ DOVAL": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
     "general": 8.7273,
     "n": 33
+  },
+  "GERARDO ZORRILLA RAMOS": {
+    "link": "https://www.misprofesores.com/profesores/Gerardo-Zorrilla-Ramos_183088",
+    "general": 10.0,
+    "n": 1
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
@@ -19534,15 +19503,15 @@ let misProfesData={
     "general": 9.5,
     "n": 4
   },
-  "GABRIEL GOODLIFFE": {
-    "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
-    "general": 6.7143,
-    "n": 28
-  },
   "HAZEL BLACKMORE SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Hazel-Blackmore_34721",
     "general": 8.8947,
     "n": 19
+  },
+  "GABRIEL GOODLIFFE": {
+    "link": "https://www.misprofesores.com/profesores/Gabriel-Goodliffe_22571",
+    "general": 6.7143,
+    "n": 28
   },
   "NATALIA SALTALAMACCHIA ZICCARDI": {
     "link": "https://www.misprofesores.com/profesores/Natalia-Saltalamacchia-Ziccardi_10835",
@@ -19581,8 +19550,8 @@ let misProfesData={
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
-    "general": 4.1579,
-    "n": 19
+    "general": 4.1,
+    "n": 20
   },
   "DAVID EDGARDO CASTILLO RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/David-Edgar-Castillo-Rodriguez_112818",
@@ -19621,8 +19590,8 @@ let misProfesData={
   },
   "ERNESTO JUVENAL BARRIOS ZAMUDIO": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Juvenal-Barrios-Zamudio_10689",
-    "general": 6.4348,
-    "n": 92
+    "general": 6.4301,
+    "n": 93
   },
   "JOSE MATUK VILLAZON": {
     "link": "https://www.misprofesores.com/profesores/Jose-Matuk-Villaz\u00f3n_138003",
@@ -19821,8 +19790,8 @@ let misProfesData={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.1953,
-    "n": 128
+    "general": 8.2016,
+    "n": 129
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
@@ -19891,8 +19860,8 @@ let misProfesData={
   },
   "IRMA BEATRIZ RUMBOS PELLICER": {
     "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",
-    "general": 8.3333,
-    "n": 24
+    "general": 8.4,
+    "n": 25
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
