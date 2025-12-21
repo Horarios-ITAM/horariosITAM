@@ -1,4 +1,4 @@
-let actualizado="1766241807378.1174";
+let actualizado="1766328257502.8135";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18405,8 +18405,8 @@ let misProfesData={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.375,
-    "n": 24
+    "general": 5.44,
+    "n": 25
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
@@ -18710,8 +18710,8 @@ let misProfesData={
   },
   "JOSE CALIXTO CANO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
-    "general": 6.5429,
-    "n": 35
+    "general": 6.5556,
+    "n": 36
   },
   "MARIA ALEJANDRA BARRERA RAMIREZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Alejandra-Barrera-Ram\u00edrez_10848",
@@ -18845,8 +18845,8 @@ let misProfesData={
   },
   "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
-    "general": 8.0556,
-    "n": 18
+    "general": 8.1053,
+    "n": 19
   },
   "ALEXANDRA URIBE COUGHLAN": {
     "link": "https://www.misprofesores.com/profesores/Alexandra-Uribe-Coughlan_10804",
@@ -19090,8 +19090,8 @@ let misProfesData={
   },
   "RODRIGO CAMARENA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Camarena_103973",
-    "general": 8.1579,
-    "n": 19
+    "general": 8.0,
+    "n": 20
   },
   "DENISE MEJAN GANEM": {
     "link": "https://www.misprofesores.com/profesores/Denise-Mejan-Ganem_140466",
@@ -19135,8 +19135,8 @@ let misProfesData={
   },
   "LEVENT ULKU": {
     "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
-    "general": 7.3636,
-    "n": 33
+    "general": 7.4118,
+    "n": 34
   },
   "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
@@ -19204,9 +19204,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -19230,8 +19230,8 @@ let misProfesData={
   },
   "ERNESTO BLANCAS BARRAGAN": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
-    "general": 7.4,
-    "n": 5
+    "general": 7.1667,
+    "n": 6
   },
   "VALERIA MOY CAMPOS": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
@@ -19270,8 +19270,8 @@ let misProfesData={
   },
   "JOSE MARTINEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Martinez-Gutierrez_137434",
-    "general": 0.0,
-    "n": 0
+    "general": 6.0,
+    "n": 1
   },
   "DANIEL ISAAC CHIQUIAR CIKUREL": {
     "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
@@ -19365,8 +19365,8 @@ let misProfesData={
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
-    "general": 6.9444,
-    "n": 18
+    "general": 6.8947,
+    "n": 19
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
@@ -19560,8 +19560,8 @@ let misProfesData={
   },
   "ALEJANDRO ISLAS CAMARGO": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Islas-Camargo_10684",
-    "general": 5.7794,
-    "n": 68
+    "general": 5.7,
+    "n": 70
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
@@ -19674,9 +19674,9 @@ let misProfesData={
     "n": 32
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19725,8 +19725,8 @@ let misProfesData={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.0455,
-    "n": 22
+    "general": 8.1304,
+    "n": 23
   },
   "ROSA MARGARITA GALAN VELEZ": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
@@ -19915,8 +19915,8 @@ let misProfesData={
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 8.75,
-    "n": 20
+    "general": 8.8095,
+    "n": 21
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",

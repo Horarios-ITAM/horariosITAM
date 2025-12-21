@@ -1,4 +1,4 @@
-let actualizado="1766241807390.915";
+let actualizado="1766328257515.986";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -150,8 +150,8 @@ let profesores={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.375,
-    "n": 24,
+    "general": 5.44,
+    "n": 25,
     "grupos": {
       "ACT-11302-CALCULO ACTUARIAL III": [
         {
@@ -4885,8 +4885,8 @@ let profesores={
   },
   "JOSE CALIXTO CANO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
-    "general": 6.5429,
-    "n": 35,
+    "general": 6.5556,
+    "n": 36,
     "grupos": {
       "COM-16306-RAZONAMIENTO ALGORITMICO": [
         {
@@ -6455,8 +6455,8 @@ let profesores={
   },
   "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
-    "general": 8.0556,
-    "n": 18,
+    "general": 8.1053,
+    "n": 19,
     "grupos": {
       "CSO-10003-SEMINARIO DE ANALISIS POLITICO": [
         {
@@ -9592,8 +9592,8 @@ let profesores={
   },
   "RODRIGO CAMARENA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Camarena_103973",
-    "general": 8.1579,
-    "n": 19,
+    "general": 8.0,
+    "n": 20,
     "grupos": {
       "DER-15504-DERECHO CONSTITUCIONAL II": [
         {
@@ -10060,8 +10060,8 @@ let profesores={
   },
   "LEVENT ULKU": {
     "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
-    "general": 7.3636,
-    "n": 33,
+    "general": 7.4118,
+    "n": 34,
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
         {
@@ -10838,9 +10838,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -11086,8 +11086,8 @@ let profesores={
   },
   "ERNESTO BLANCAS BARRAGAN": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
-    "general": 7.4,
-    "n": 5,
+    "general": 7.1667,
+    "n": 6,
     "grupos": {
       "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
         {
@@ -11413,8 +11413,8 @@ let profesores={
   },
   "JOSE MARTINEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Martinez-Gutierrez_137434",
-    "general": 0.0,
-    "n": 0,
+    "general": 6.0,
+    "n": 1,
     "grupos": {
       "ECO-12201-TEORIA Y POLITICA MONETARIA": [
         {
@@ -12182,8 +12182,8 @@ let profesores={
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
-    "general": 6.9444,
-    "n": 18,
+    "general": 6.8947,
+    "n": 19,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -13803,8 +13803,8 @@ let profesores={
   },
   "ALEJANDRO ISLAS CAMARGO": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Islas-Camargo_10684",
-    "general": 5.7794,
-    "n": 68,
+    "general": 5.7,
+    "n": 70,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -15577,9 +15577,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16354,8 +16354,8 @@ let profesores={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.0455,
-    "n": 22,
+    "general": 8.1304,
+    "n": 23,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18624,8 +18624,8 @@ let profesores={
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 8.75,
-    "n": 20,
+    "general": 8.8095,
+    "n": 21,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -19476,8 +19476,8 @@ let mejoresPorDepto={
     "JULIO ANTONIO RIOS FIGUEROA",
     "ADRIANA ALFARO ALTAMIRANO",
     "ALEXANDRA URIBE COUGHLAN",
-    "ERIC MAGAR MEURS",
     "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+    "ERIC MAGAR MEURS",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI"
   ],
@@ -19570,8 +19570,8 @@ let mejoresPorDepto={
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "CONCEPCION RUIZ RUIZ FUNES",
     "JORGE ALCALDE MARTIN DEL CAMPO",
-    "JOSE PABLO OLIVARES PRETELIN",
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
+    "JOSE PABLO OLIVARES PRETELIN",
     "SHARON MAGALI VALVERDE ESPARZA",
     "IRMA BEATRIZ RUMBOS PELLICER",
     "LUCIA RAMIREZ DAVID",
