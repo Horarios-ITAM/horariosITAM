@@ -1,4 +1,4 @@
-let actualizado="1766328257515.986";
+let actualizado="1766414870771.6836";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -10296,8 +10296,8 @@ let profesores={
   },
   "GUSTAVO ANTONIO LEYVA JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
-    "general": 6.0,
-    "n": 2,
+    "general": 4.6667,
+    "n": 3,
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
         {
@@ -12182,8 +12182,8 @@ let profesores={
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
-    "general": 6.8947,
-    "n": 19,
+    "general": 7.05,
+    "n": 20,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -12680,8 +12680,8 @@ let profesores={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.6852,
-    "n": 54,
+    "general": 6.6,
+    "n": 55,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -15577,9 +15577,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -18559,8 +18559,8 @@ let profesores={
   },
   "MIGUEL ANGEL MOTA GAYTAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
-    "general": 7.6316,
-    "n": 38,
+    "general": 7.6923,
+    "n": 39,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {

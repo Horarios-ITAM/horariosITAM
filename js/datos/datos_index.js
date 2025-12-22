@@ -1,4 +1,4 @@
-let actualizado="1766328257502.8135";
+let actualizado="1766414870758.166";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -19160,8 +19160,8 @@ let misProfesData={
   },
   "GUSTAVO ANTONIO LEYVA JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
-    "general": 6.0,
-    "n": 2
+    "general": 4.6667,
+    "n": 3
   },
   "ARTURO MANUEL FERNANDEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Fern\u00e1ndez-P\u00e9rez_13789",
@@ -19365,8 +19365,8 @@ let misProfesData={
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
-    "general": 6.8947,
-    "n": 19
+    "general": 7.05,
+    "n": 20
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
@@ -19425,8 +19425,8 @@ let misProfesData={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.6852,
-    "n": 54
+    "general": 6.6,
+    "n": 55
   },
   "ANTONIO LOPEZ VEGA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-L\u00f3pez-Vega_186030",
@@ -19674,9 +19674,9 @@ let misProfesData={
     "n": 32
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19905,8 +19905,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL MOTA GAYTAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
-    "general": 7.6316,
-    "n": 38
+    "general": 7.6923,
+    "n": 39
   },
   "JOSE PABLO OLIVARES PRETELIN": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pablo-Olivares-Pretelin_78777",
