@@ -1,4 +1,4 @@
-let actualizado="1766414870758.166";
+let actualizado="1766501305222.3655";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18450,8 +18450,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9371,
-    "n": 286
+    "general": 4.9268,
+    "n": 287
   },
   "ALEXANDROS FAKOS": {
     "link": "https://www.misprofesores.com/profesores/Alexandros-Fakos_73366",
@@ -19235,8 +19235,8 @@ let misProfesData={
   },
   "VALERIA MOY CAMPOS": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
-    "general": 7.8523,
-    "n": 149
+    "general": 7.86,
+    "n": 150
   },
   "VICTOR HUGO GOMEZ AYALA": {
     "link": "https://www.misprofesores.com/profesores/Victor-hugo-gomez-ayala_72112",
@@ -19290,8 +19290,8 @@ let misProfesData={
   },
   "ARTURO RAMIREZ VERDUGO": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
-    "general": 7.3636,
-    "n": 33
+    "general": 7.3824,
+    "n": 34
   },
   "RICARDO SERGIO FADL KURI": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Sergio-Fadl-Kuri_22857",
@@ -19310,8 +19310,8 @@ let misProfesData={
   },
   "CARLOS ERNESTO URRUTIA VILLALOBOS": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
-    "general": 8.25,
-    "n": 24
+    "general": 8.08,
+    "n": 25
   },
   "ARTURO ALBERTO AGUILAR ESTEVA": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
@@ -19544,9 +19544,9 @@ let misProfesData={
     "n": 3
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -19600,8 +19600,8 @@ let misProfesData={
   },
   "LUIS ENRIQUE NIETO BARAJAS": {
     "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Nieto-Barajas_10685",
-    "general": 6.0,
-    "n": 40
+    "general": 6.0976,
+    "n": 41
   },
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
@@ -19674,9 +19674,9 @@ let misProfesData={
     "n": 32
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",

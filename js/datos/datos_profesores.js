@@ -1,4 +1,4 @@
-let actualizado="1766414870771.6836";
+let actualizado="1766501305235.4277";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -1415,8 +1415,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9371,
-    "n": 286,
+    "general": 4.9268,
+    "n": 287,
     "grupos": {
       "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL": [
         {
@@ -11127,8 +11127,8 @@ let profesores={
   },
   "VALERIA MOY CAMPOS": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
-    "general": 7.8523,
-    "n": 149,
+    "general": 7.86,
+    "n": 150,
     "grupos": {
       "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
         {
@@ -11564,8 +11564,8 @@ let profesores={
   },
   "ARTURO RAMIREZ VERDUGO": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
-    "general": 7.3636,
-    "n": 33,
+    "general": 7.3824,
+    "n": 34,
     "grupos": {
       "ECO-15101-FINANZAS PUBLICAS": [
         {
@@ -11731,8 +11731,8 @@ let profesores={
   },
   "CARLOS ERNESTO URRUTIA VILLALOBOS": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
-    "general": 8.25,
-    "n": 24,
+    "general": 8.08,
+    "n": 25,
     "grupos": {
       "ECO-18300-CRECIMIENTO ECONOMICO": [
         {
@@ -13642,9 +13642,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14237,8 +14237,8 @@ let profesores={
   },
   "LUIS ENRIQUE NIETO BARAJAS": {
     "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Nieto-Barajas_10685",
-    "general": 6.0,
-    "n": 40,
+    "general": 6.0976,
+    "n": 41,
     "grupos": {
       "EST-14102-CALCULO DE PROBABILIDADES.,II": [
         {
@@ -15577,9 +15577,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -19538,8 +19538,8 @@ let mejoresPorDepto={
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
     "LILIANA DE LA TORRE DESENTIS",
-    "MARTIN MAGRIS",
-    "ENRIQUE CUERVO GUZMAN"
+    "ENRIQUE CUERVO GUZMAN",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
