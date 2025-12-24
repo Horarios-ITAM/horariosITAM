@@ -1,4 +1,4 @@
-let actualizado="1766501305222.3655";
+let actualizado="1766587580237.2446";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18385,8 +18385,8 @@ let clases={
 let misProfesData={
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
-    "general": 7.3824,
-    "n": 34
+    "general": 7.4286,
+    "n": 35
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
@@ -18617,6 +18617,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
     "general": 4.7083,
     "n": 24
+  },
+  "FABIAN ORDU\u00d1A FERREIRA": {
+    "link": "https://www.misprofesores.com/profesores/Fabian-Ordu\u00f1a-Ferreira_190579",
+    "general": 8.0,
+    "n": 1
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
@@ -19335,8 +19340,8 @@ let misProfesData={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.2713,
-    "n": 129
+    "general": 7.2923,
+    "n": 130
   },
   "GABRIELA HERNANDEZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
@@ -19530,8 +19535,13 @@ let misProfesData={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.6591,
-    "n": 44
+    "general": 8.6889,
+    "n": 45
+  },
+  "WEIFENG JIN": {
+    "link": "https://www.misprofesores.com/profesores/Weifeng-Jin_190580",
+    "general": 10.0,
+    "n": 1
   },
   "JORGE FRANCISCO DE LA VEGA GONGORA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-De-la-Vega-Gongora_100220",
@@ -19544,9 +19554,9 @@ let misProfesData={
     "n": 3
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -19585,8 +19595,8 @@ let misProfesData={
   },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
-    "general": 9.1915,
-    "n": 94
+    "general": 9.1789,
+    "n": 95
   },
   "ERNESTO JUVENAL BARRIOS ZAMUDIO": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Juvenal-Barrios-Zamudio_10689",
@@ -19830,8 +19840,8 @@ let misProfesData={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.9333,
-    "n": 60
+    "general": 6.9344,
+    "n": 61
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
@@ -19915,8 +19925,8 @@ let misProfesData={
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 8.8095,
-    "n": 21
+    "general": 8.6818,
+    "n": 22
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",

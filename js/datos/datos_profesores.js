@@ -1,4 +1,4 @@
-let actualizado="1766501305235.4277";
+let actualizado="1766587580250.7576";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -7,8 +7,8 @@ let formPostUrl="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios2";
 let profesores={
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
-    "general": 7.3824,
-    "n": 34,
+    "general": 7.4286,
+    "n": 35,
     "grupos": {
       "ACT-11300-CALCULO ACTUARIAL I": [
         {
@@ -3837,6 +3837,9 @@ let profesores={
     }
   },
   "FABIAN ORDU\u00d1A FERREIRA": {
+    "link": "https://www.misprofesores.com/profesores/Fabian-Ordu\u00f1a-Ferreira_190579",
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "COM-11117-INTROD AL DESARROLLO WEB": [
         {
@@ -11900,8 +11903,8 @@ let profesores={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.2713,
-    "n": 129,
+    "general": 7.2923,
+    "n": 130,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -13474,8 +13477,8 @@ let profesores={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.6591,
-    "n": 44,
+    "general": 8.6889,
+    "n": 45,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -13497,6 +13500,9 @@ let profesores={
     }
   },
   "WEIFENG JIN": {
+    "link": "https://www.misprofesores.com/profesores/Weifeng-Jin_190580",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -13642,9 +13648,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14029,8 +14035,8 @@ let profesores={
   },
   "DANTE GABRIEL CAMPOS SALIDO": {
     "link": "https://www.misprofesores.com/profesores/Dante-Gabriel-Campos-Salido_36760",
-    "general": 9.1915,
-    "n": 94,
+    "general": 9.1789,
+    "n": 95,
     "grupos": {
       "EST-13101-MET. ESTADIST. P/C.POL. Y R.I.": [
         {
@@ -17776,8 +17782,8 @@ let profesores={
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",
-    "general": 6.9333,
-    "n": 60,
+    "general": 6.9344,
+    "n": 61,
     "grupos": {
       "MAT-12201-CALCULO MULTIVARIADO": [
         {
@@ -18624,8 +18630,8 @@ let profesores={
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
-    "general": 8.8095,
-    "n": 21,
+    "general": 8.6818,
+    "n": 22,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -19530,6 +19536,7 @@ let mejoresPorDepto={
     "YOANNA SHUBICH GREEN"
   ],
   "ESTADISTICA": [
+    "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
@@ -19538,8 +19545,7 @@ let mejoresPorDepto={
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
     "LILIANA DE LA TORRE DESENTIS",
-    "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "MARTIN MAGRIS"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
@@ -19570,8 +19576,8 @@ let mejoresPorDepto={
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "CONCEPCION RUIZ RUIZ FUNES",
     "JORGE ALCALDE MARTIN DEL CAMPO",
-    "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "JOSE PABLO OLIVARES PRETELIN",
+    "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "SHARON MAGALI VALVERDE ESPARZA",
     "IRMA BEATRIZ RUMBOS PELLICER",
     "LUCIA RAMIREZ DAVID",
