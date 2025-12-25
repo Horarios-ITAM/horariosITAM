@@ -1,4 +1,4 @@
-let actualizado="1766587580237.2446";
+let actualizado="1766674006293.028";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -19185,8 +19185,8 @@ let misProfesData={
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
-    "general": 8.7983,
-    "n": 119
+    "general": 8.7917,
+    "n": 120
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
@@ -19350,8 +19350,8 @@ let misProfesData={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.1111,
-    "n": 27
+    "general": 9.1429,
+    "n": 28
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
@@ -19950,8 +19950,8 @@ let misProfesData={
   },
   "JORGE ALCALDE MARTIN DEL CAMPO": {
     "link": "https://www.misprofesores.com/profesores/JORGE-ALCALDE-MARTIN-DEL-CAMPO_81055",
-    "general": 8.8571,
-    "n": 7
+    "general": 9.0,
+    "n": 8
   },
   "ERNESTO PEREZ CHAVELA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-P\u00e9rez-Chavela_74856",

@@ -1,4 +1,4 @@
-let actualizado="1766587580250.7576";
+let actualizado="1766674006306.4912";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -10475,8 +10475,8 @@ let profesores={
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
-    "general": 8.7983,
-    "n": 119,
+    "general": 8.7917,
+    "n": 120,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -12018,8 +12018,8 @@ let profesores={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.1111,
-    "n": 27,
+    "general": 9.1429,
+    "n": 28,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -18939,8 +18939,8 @@ let profesores={
   },
   "JORGE ALCALDE MARTIN DEL CAMPO": {
     "link": "https://www.misprofesores.com/profesores/JORGE-ALCALDE-MARTIN-DEL-CAMPO_81055",
-    "general": 8.8571,
-    "n": 7,
+    "general": 9.0,
+    "n": 8,
     "grupos": {
       "MAT-14281-MATEMATICAS DISCRETAS": [
         {
@@ -19573,9 +19573,9 @@ let mejoresPorDepto={
   ],
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",
+    "JORGE ALCALDE MARTIN DEL CAMPO",
     "JOAO PEDRO LEITAO DA CRUZ MORAIS",
     "CONCEPCION RUIZ RUIZ FUNES",
-    "JORGE ALCALDE MARTIN DEL CAMPO",
     "JOSE PABLO OLIVARES PRETELIN",
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "SHARON MAGALI VALVERDE ESPARZA",
