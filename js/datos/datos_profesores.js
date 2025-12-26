@@ -1,4 +1,4 @@
-let actualizado="1766674006306.4912";
+let actualizado="1766760410913.9783";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -11944,8 +11944,8 @@ let profesores={
   },
   "GABRIELA HERNANDEZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3,
-    "n": 90,
+    "general": 7.3297,
+    "n": 91,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -16746,8 +16746,8 @@ let profesores={
   },
   "GABRIELA MEDINA HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3,
-    "n": 90,
+    "general": 7.3297,
+    "n": 91,
     "grupos": {
       "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.": [
         {
