@@ -5,14 +5,10 @@ set -e
 
 PROJECT_DIR="/home/linuxuser/horariosProxy"
 UV_EXEC="/home/linuxuser/.local/bin/uv"
-APP_ENV="${APP_ENV:-production}"
-ALLOWED_ORIGINS="${ALLOWED_ORIGINS:-https://horariositam.com,https://www.horariositam.com}"
 
 # --- 1. Navigate to the project directory ---
 cd "$PROJECT_DIR" || { echo "ERROR: Failed to change to project directory $PROJECT_DIR" >&2; exit 1; }
 echo "[$(date)] Changed to directory: $PROJECT_DIR"
-echo "[$(date)] Using APP_ENV=$APP_ENV"
-echo "[$(date)] Using ALLOWED_ORIGINS=$ALLOWED_ORIGINS"
 
 # --- 2. Download/Update Required Files ---
 echo "[$(date)] Downloading/updating required files..."
@@ -35,7 +31,7 @@ echo "[$(date)] All files downloaded successfully."
 echo "[$(date)] Starting proxy server with uv run..."
 
 # Using 'exec' ensures that 'uv' replaces the shell script process
-exec env APP_ENV="$APP_ENV" ALLOWED_ORIGINS="$ALLOWED_ORIGINS" "$UV_EXEC" run abiertos.py
+exec "$UV_EXEC" run abiertos.py
 
 # Commands after 'exec' will only run if 'uv' fails to start.
 echo "ERROR: uv run command failed to start." >&2

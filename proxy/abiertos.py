@@ -8,9 +8,6 @@
 # ]
 # ///
 
-
-import os
-
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import JSONResponse, HTMLResponse
 from fastapi.middleware.cors import CORSMiddleware
@@ -20,31 +17,10 @@ import uvicorn  # For running the FastAPI application
 
 app = FastAPI()
 
-ENVIRONMENT = os.getenv("APP_ENV", "development").lower()
-DEFAULT_PROD_ORIGINS = [
-    "https://horariositam.com",
-    "https://www.horariositam.com",
-]
-
-allowed_origins = (
-    [
-        origin.strip()
-        for origin in os.getenv("ALLOWED_ORIGINS", "").split(",")
-        if origin.strip()
-    ]
-    if ENVIRONMENT == "production"
-    else ["*"]
-)
-
-if ENVIRONMENT == "production" and not allowed_origins:
-    allowed_origins = DEFAULT_PROD_ORIGINS
-
-allow_credentials = ENVIRONMENT == "production"
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=allowed_origins,
-    allow_credentials=allow_credentials,  # Allow cookies, authorization headers, etc.
+    allow_origins=["*"],  # ["https://horariositam.com"], # Allow only this origin
+    allow_credentials=True,  # Allow cookies, authorization headers, etc.
     allow_methods=["*"],  # Allow all HTTP methods
     allow_headers=["*"],  # Allow all headers
 )
