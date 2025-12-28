@@ -124,6 +124,9 @@
             // Initialize autocomplete for professors
             initAutocompleteProfesores();
 
+            //Texto base para poder recuperar la lista de mejores
+            const enLoMientrasIntro=document.getElementById("enLoMientras").innerHTML;
+
             //Llena "enLoMientas" con los mejores profes por depto.
             llenaMejoresPorDepto();
 
@@ -149,6 +152,13 @@
                 document.getElementById("resultado").innerHTML='';
                 //Escribir en resultado
                 let resultadoDiv=document.getElementById("resultado");
+                // Boton para volver a la lista de mejores
+                let volverBtn=document.createElement("button");
+                volverBtn.type='button';
+                volverBtn.onclick=volverMejoresPorDepto;
+                volverBtn.style='margin-bottom:10px;cursor:pointer;';
+                volverBtn.innerHTML='Regresar a mejores por depto';
+                resultadoDiv.appendChild(volverBtn);
                 //Nombre
                 let nombreElem=document.createElement("h2");
                 nombreElem.innerHTML=toTitleCase(nombre); //TODO to title case?
@@ -249,6 +259,14 @@
                     enLoMientas.appendChild(list);
 
                 }
+            }
+            function volverMejoresPorDepto(){
+                document.getElementById("resultado").innerHTML='';
+                let enLoMientas=document.getElementById("enLoMientras");
+                enLoMientas.innerHTML=enLoMientrasIntro;
+                llenaMejoresPorDepto();
+                document.getElementById("profesorSeleccionado").value='';
+                window.scrollTo({top:0,behavior:'smooth'});
             }
             function timeSince(date) {
                 var seconds = Math.floor((new Date() - date) / 1000);
