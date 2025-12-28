@@ -1,4 +1,4 @@
-let actualizado="1766846665999.7178";
+let actualizado="1766933156254.3213";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -6852,8 +6852,8 @@ let profesores={
   },
   "ALBERTO SIMPSER MONDLAK": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
-    "general": 6.5333,
-    "n": 15,
+    "general": 6.625,
+    "n": 16,
     "grupos": {
       "CSO-10120-MET INV PARA CIENCIAS SOCIALES": [
         {
@@ -11416,8 +11416,8 @@ let profesores={
   },
   "JOSE MARTINEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Martinez-Gutierrez_137434",
-    "general": 6.0,
-    "n": 1,
+    "general": 5.0,
+    "n": 2,
     "grupos": {
       "ECO-12201-TEORIA Y POLITICA MONETARIA": [
         {
@@ -12585,8 +12585,8 @@ let profesores={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4699,
-    "n": 83,
+    "general": 9.4762,
+    "n": 84,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -16360,8 +16360,8 @@ let profesores={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.1304,
-    "n": 23,
+    "general": 8.0417,
+    "n": 24,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18671,8 +18671,8 @@ let profesores={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.625,
-    "n": 8,
+    "general": 9.6667,
+    "n": 9,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -18980,8 +18980,8 @@ let profesores={
   },
   "ERNESTO PEREZ CHAVELA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-P\u00e9rez-Chavela_74856",
-    "general": 6.6563,
-    "n": 32,
+    "general": 6.5152,
+    "n": 33,
     "grupos": {
       "MAT-24211-SISTEMAS DINAMICOS,II": [
         {

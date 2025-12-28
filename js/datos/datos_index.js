@@ -1,4 +1,4 @@
-let actualizado="1766846665985.676";
+let actualizado="1766933156239.3533";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18880,8 +18880,8 @@ let misProfesData={
   },
   "ALBERTO SIMPSER MONDLAK": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
-    "general": 6.5333,
-    "n": 15
+    "general": 6.625,
+    "n": 16
   },
   "FELIPE CURCO COBOS": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Curco-Cobos_10798",
@@ -19275,8 +19275,8 @@ let misProfesData={
   },
   "JOSE MARTINEZ GUTIERREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Martinez-Gutierrez_137434",
-    "general": 6.0,
-    "n": 1
+    "general": 5.0,
+    "n": 2
   },
   "DANIEL ISAAC CHIQUIAR CIKUREL": {
     "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
@@ -19420,8 +19420,8 @@ let misProfesData={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4699,
-    "n": 83
+    "general": 9.4762,
+    "n": 84
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
@@ -19735,8 +19735,8 @@ let misProfesData={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.1304,
-    "n": 23
+    "general": 8.0417,
+    "n": 24
   },
   "ROSA MARGARITA GALAN VELEZ": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
@@ -19930,8 +19930,8 @@ let misProfesData={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.625,
-    "n": 8
+    "general": 9.6667,
+    "n": 9
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
@@ -19955,8 +19955,8 @@ let misProfesData={
   },
   "ERNESTO PEREZ CHAVELA": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-P\u00e9rez-Chavela_74856",
-    "general": 6.6563,
-    "n": 32
+    "general": 6.5152,
+    "n": 33
   },
   "RAFAEL CISNEROS MONTOYA": {
     "link": "https://www.misprofesores.com/profesores/Rafael-Cisneros-Montoya_129147",
