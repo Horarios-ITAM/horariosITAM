@@ -35,6 +35,8 @@ def profesoresPorDepartamento(profesores):
     """
     profesPorDepto = {}
     for profesor, info in profesores.items():
+        if not profesor.strip():
+            continue
         depto = claveToDepto[list(info["grupos"].keys())[0].split("-")[0]]
         if depto not in profesPorDepto:
             profesPorDepto[depto] = []
