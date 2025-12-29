@@ -1,4 +1,4 @@
-let actualizado="1766956984459.98";
+let actualizado="1767019787217.097";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -13648,9 +13648,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -15583,9 +15583,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -19544,7 +19544,7 @@ let mejoresPorDepto={
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
     "LILIANA DE LA TORRE DESENTIS",
-    "ENRIQUE CUERVO GUZMAN"
+    "MARTIN MAGRIS"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
