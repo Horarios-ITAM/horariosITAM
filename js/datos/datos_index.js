@@ -1,4 +1,4 @@
-let actualizado="1767019787203.1416";
+let actualizado="1767106111752.373";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18760,8 +18760,8 @@ let misProfesData={
   },
   "SANDRA PATRICIA MINABURO VILLAR": {
     "link": "https://www.misprofesores.com/profesores/Sandra-Patricia-Minaburo-Villar_10747",
-    "general": 6.1463,
-    "n": 41
+    "general": 6.2143,
+    "n": 42
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
@@ -18775,8 +18775,8 @@ let misProfesData={
   },
   "MARCELA PORTE PETIT ANDUAGA": {
     "link": "https://www.misprofesores.com/profesores/Marcela-Porte-Petit_15932",
-    "general": 9.1321,
-    "n": 53
+    "general": 9.1481,
+    "n": 54
   },
   "VICTOR MANUEL FERNANDEZ GONZALEZ ANGULO": {
     "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Fern\u00e1ndez-Gonz\u00e1lez_138708",
@@ -19340,8 +19340,8 @@ let misProfesData={
   },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
-    "general": 7.2923,
-    "n": 130
+    "general": 7.313,
+    "n": 131
   },
   "GABRIELA HERNANDEZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
@@ -19420,8 +19420,8 @@ let misProfesData={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4762,
-    "n": 84
+    "general": 9.4824,
+    "n": 85
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
@@ -19600,8 +19600,8 @@ let misProfesData={
   },
   "ERNESTO JUVENAL BARRIOS ZAMUDIO": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Juvenal-Barrios-Zamudio_10689",
-    "general": 6.4301,
-    "n": 93
+    "general": 6.4681,
+    "n": 94
   },
   "JOSE MATUK VILLAZON": {
     "link": "https://www.misprofesores.com/profesores/Jose-Matuk-Villaz\u00f3n_138003",
@@ -19684,9 +19684,9 @@ let misProfesData={
     "n": 32
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19860,8 +19860,8 @@ let misProfesData={
   },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
-    "general": 8.2568,
-    "n": 74
+    "general": 8.28,
+    "n": 75
   },
   "SHARON MAGALI VALVERDE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
