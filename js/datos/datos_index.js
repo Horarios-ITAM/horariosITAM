@@ -1,4 +1,4 @@
-let actualizado="1767106111752.373";
+let actualizado="1767192410889.458";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18615,8 +18615,8 @@ let misProfesData={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 4.7083,
-    "n": 24
+    "general": 4.6,
+    "n": 25
   },
   "FABIAN ORDU\u00d1A FERREIRA": {
     "link": "https://www.misprofesores.com/profesores/Fabian-Ordu\u00f1a-Ferreira_190579",
@@ -18805,8 +18805,8 @@ let misProfesData={
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
-    "general": 8.697,
-    "n": 99
+    "general": 8.65,
+    "n": 100
   },
   "JOSE JULIO MURCIO TREJO": {
     "link": "https://www.misprofesores.com/profesores/Jose-Julio-Murcio-Trejo_188329",
@@ -18940,8 +18940,8 @@ let misProfesData={
   },
   "ROXANA PEREZ ARCE VALLE": {
     "link": "https://www.misprofesores.com/profesores/Roxana-Perez-Arce-Valle_80746",
-    "general": 6.3333,
-    "n": 3
+    "general": 7.25,
+    "n": 4
   },
   "INES VARGAS CHRISTLIEB": {
     "link": "https://www.misprofesores.com/profesores/INES-VARGAS-CHRISTLIEB_99471",
@@ -19045,8 +19045,8 @@ let misProfesData={
   },
   "ALFONSO PASAPERA MORA": {
     "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
-    "general": 7.7941,
-    "n": 68
+    "general": 7.7971,
+    "n": 69
   },
   "CESAR CLAUDIO URRUTIA ROMERO": {
     "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
@@ -19375,8 +19375,8 @@ let misProfesData={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.1818,
-    "n": 66
+    "general": 8.209,
+    "n": 67
   },
   "CARLOS JEFFREY MCCADDEN MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Jeffrey-McCadden-Mart\u00ednez_10822",
@@ -19545,8 +19545,8 @@ let misProfesData={
   },
   "JORGE FRANCISCO DE LA VEGA GONGORA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-De-la-Vega-Gongora_100220",
-    "general": 8.75,
-    "n": 4
+    "general": 7.6,
+    "n": 5
   },
   "GUSTAVO ALVAREZ PELAEZ": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-\u00c1lvarez-Pelaez_110916",

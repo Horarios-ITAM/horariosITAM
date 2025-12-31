@@ -1,4 +1,4 @@
-let actualizado="1767106111765.212";
+let actualizado="1767192410903.036";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -3781,8 +3781,8 @@ let profesores={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 4.7083,
-    "n": 24,
+    "general": 4.6,
+    "n": 25,
     "grupos": {
       "COM-11113-ANAL ALGORITM Y COMPLEJ COMPUT-LAB": [
         {
@@ -5954,8 +5954,8 @@ let profesores={
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
-    "general": 8.697,
-    "n": 99,
+    "general": 8.65,
+    "n": 100,
     "grupos": {
       "CON-12001-CONTABILIDAD DE COSTOS": [
         {
@@ -7809,8 +7809,8 @@ let profesores={
   },
   "ROXANA PEREZ ARCE VALLE": {
     "link": "https://www.misprofesores.com/profesores/Roxana-Perez-Arce-Valle_80746",
-    "general": 6.3333,
-    "n": 3,
+    "general": 7.25,
+    "n": 4,
     "grupos": {
       "DER-10015-DERECHO EMPRESARIAL": [
         {
@@ -9124,8 +9124,8 @@ let profesores={
   },
   "ALFONSO PASAPERA MORA": {
     "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
-    "general": 7.7941,
-    "n": 68,
+    "general": 7.7971,
+    "n": 69,
     "grupos": {
       "DER-13403-OBLIGACIONES": [
         {
@@ -12226,8 +12226,8 @@ let profesores={
   },
   "STEFANO STRAULINO TORRE": {
     "link": "https://www.misprofesores.com/profesores/Stefano-Straulino-Torre_81785",
-    "general": 8.1818,
-    "n": 66,
+    "general": 8.209,
+    "n": 67,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -13563,8 +13563,8 @@ let profesores={
   },
   "JORGE FRANCISCO DE LA VEGA GONGORA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-De-la-Vega-Gongora_100220",
-    "general": 8.75,
-    "n": 4,
+    "general": 7.6,
+    "n": 5,
     "grupos": {
       "EST-10102-ESTADISTICA.,II": [
         {
@@ -19538,12 +19538,12 @@ let mejoresPorDepto={
     "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
-    "JORGE FRANCISCO DE LA VEGA GONGORA",
     "MIGUEL ANGEL AVILA DEL BOSQUE",
     "JOSE MATUK VILLAZON",
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
     "LILIANA DE LA TORRE DESENTIS",
+    "JORGE FRANCISCO DE LA VEGA GONGORA",
     "MARTIN MAGRIS"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
