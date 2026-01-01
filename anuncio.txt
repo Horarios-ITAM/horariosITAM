@@ -1,1 +1,1 @@
-El botón “Ver datos” ya funciona, pero ahora muestra una copia de la información, ya que Servicios ITAM no permite la redirección directa.
+
