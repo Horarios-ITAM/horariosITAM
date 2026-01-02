@@ -1,4 +1,4 @@
-let actualizado="1767192410889.458";
+let actualizado="1767365287653.7314";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -19165,8 +19165,8 @@ let misProfesData={
   },
   "GUSTAVO ANTONIO LEYVA JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
-    "general": 4.6667,
-    "n": 3
+    "general": 4.0,
+    "n": 4
   },
   "ARTURO MANUEL FERNANDEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Fern\u00e1ndez-P\u00e9rez_13789",

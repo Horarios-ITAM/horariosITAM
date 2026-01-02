@@ -1,4 +1,4 @@
-let actualizado="1767192410903.036";
+let actualizado="1767365287667.4429";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -10299,8 +10299,8 @@ let profesores={
   },
   "GUSTAVO ANTONIO LEYVA JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
-    "general": 4.6667,
-    "n": 3,
+    "general": 4.0,
+    "n": 4,
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
         {
