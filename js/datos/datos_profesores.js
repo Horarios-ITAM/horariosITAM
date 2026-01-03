@@ -1,4 +1,4 @@
-let actualizado="1767365287667.4429";
+let actualizado="1767451534100.974";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -4482,8 +4482,8 @@ let profesores={
   },
   "ANA EUGENIA DIAZ ROSI\u00d1OL": {
     "link": "https://www.misprofesores.com/profesores/Ana-Diaz-Rosinol_21532",
-    "general": 9.4667,
-    "n": 45,
+    "general": 9.4783,
+    "n": 46,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
@@ -10434,8 +10434,8 @@ let profesores={
   },
   "MAGDALENA SOFIA BARBA FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Magdalena-Sof\u00eda-Barba-Fern\u00e1ndez_10775",
-    "general": 8.4069,
-    "n": 145,
+    "general": 8.411,
+    "n": 146,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -11130,8 +11130,8 @@ let profesores={
   },
   "VALERIA MOY CAMPOS": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
-    "general": 7.86,
-    "n": 150,
+    "general": 7.8742,
+    "n": 151,
     "grupos": {
       "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
         {
@@ -12458,8 +12458,8 @@ let profesores={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 7.9787,
-    "n": 47,
+    "general": 8.0,
+    "n": 48,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12585,8 +12585,8 @@ let profesores={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4824,
-    "n": 85,
+    "general": 9.4651,
+    "n": 86,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12642,8 +12642,8 @@ let profesores={
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 7.0893,
-    "n": 56,
+    "general": 7.1228,
+    "n": 57,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -15986,8 +15986,8 @@ let profesores={
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
-    "general": 9.0,
-    "n": 48,
+    "general": 8.9592,
+    "n": 49,
     "grupos": {
       "LEN-12002-COM ESCRITA PARA C.P.Y EST FIN": [
         {
@@ -17437,8 +17437,8 @@ let profesores={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.3014,
-    "n": 73,
+    "general": 8.2568,
+    "n": 74,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -19579,8 +19579,8 @@ let mejoresPorDepto={
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "SHARON MAGALI VALVERDE ESPARZA",
     "IRMA BEATRIZ RUMBOS PELLICER",
-    "LUCIA RAMIREZ DAVID",
-    "LEOBARDO FERNANDEZ ROMAN"
+    "LEOBARDO FERNANDEZ ROMAN",
+    "LUCIA RAMIREZ DAVID"
   ],
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER DEL OLMO HERNANDEZ",

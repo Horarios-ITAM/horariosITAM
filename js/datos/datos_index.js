@@ -1,4 +1,4 @@
-let actualizado="1767365287653.7314";
+let actualizado="1767451534086.9082";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18680,8 +18680,8 @@ let misProfesData={
   },
   "ANA EUGENIA DIAZ ROSI\u00d1OL": {
     "link": "https://www.misprofesores.com/profesores/Ana-Diaz-Rosinol_21532",
-    "general": 9.4667,
-    "n": 45
+    "general": 9.4783,
+    "n": 46
   },
   "ALBERTO ESPINOSA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
@@ -19180,8 +19180,8 @@ let misProfesData={
   },
   "MAGDALENA SOFIA BARBA FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Magdalena-Sof\u00eda-Barba-Fern\u00e1ndez_10775",
-    "general": 8.4069,
-    "n": 145
+    "general": 8.411,
+    "n": 146
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",
@@ -19240,8 +19240,8 @@ let misProfesData={
   },
   "VALERIA MOY CAMPOS": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Moy_15794",
-    "general": 7.86,
-    "n": 150
+    "general": 7.8742,
+    "n": 151
   },
   "VICTOR HUGO GOMEZ AYALA": {
     "link": "https://www.misprofesores.com/profesores/Victor-hugo-gomez-ayala_72112",
@@ -19405,8 +19405,8 @@ let misProfesData={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 7.9787,
-    "n": 47
+    "general": 8.0,
+    "n": 48
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
@@ -19420,13 +19420,13 @@ let misProfesData={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4824,
-    "n": 85
+    "general": 9.4651,
+    "n": 86
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
-    "general": 7.0893,
-    "n": 56
+    "general": 7.1228,
+    "n": 57
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
@@ -19705,8 +19705,8 @@ let misProfesData={
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
-    "general": 9.0,
-    "n": 48
+    "general": 8.9592,
+    "n": 49
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
@@ -19805,8 +19805,8 @@ let misProfesData={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.3014,
-    "n": 73
+    "general": 8.2568,
+    "n": 74
   },
   "SANTIAGO HERNANDEZ CORNEJO": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo_113575",
