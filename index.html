@@ -279,16 +279,30 @@
                 // Conseguimos las preferencias y los grupos seleccionados
                 let preferencias=getPreferencias();
                 let conGruposFiltrados=clasesSeleccionadasFiltradas(clasesSeleccionadas,preferencias);
+                const trackGenerarClick=(status)=>{
+                    if(typeof gtag==='function'){
+                        gtag('event','generar_click',{
+                            status:status,
+                            classes_selected:Object.keys(conGruposFiltrados).length,
+                            groups_selected:preferencias.nGruposSeleccionados||0,
+                            generation_mode:preferencias.generacion||'todos',
+                            device_type:mobile?'mobile':'desktop'
+                        });
+                    }
+                };
 
                 // Checamos que tengamos por lo menos un grupo seleccionado
                 if(Object.keys(conGruposFiltrados).length==0){
+                    trackGenerarClick("no_classes");
                     alert("Agrega tus clases para generar tus horarios");
                     return;
                 }
                 if(preferencias.nGruposSeleccionados==0){
+                    trackGenerarClick("no_groups");
                     alert("Selecciona por lo menos un grupo de tus clases para generar tus horarios");
                     return;
                 }
+                trackGenerarClick("attempt");
 
                 // Guardamos cookie de clasesSeleccionadas
                 let nombresClasesSeleccionadas=[];
@@ -319,6 +333,7 @@
                 // Mostramos
                 mostrar();
                 actualizarResultado(horariosFavoritos.length);  
+                trackGenerarClick("success");
             }
 
             /**
