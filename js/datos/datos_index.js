@@ -1,4 +1,4 @@
-let actualizado="1767537837984.0784";
+let actualizado="1767624837881.6577";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18405,8 +18405,8 @@ let misProfesData={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.44,
-    "n": 25
+    "general": 5.3846,
+    "n": 26
   },
   "ERNESTO ANTONIO GOMEZ VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Antonio-G\u00f3mez-Vel\u00e1zquez_124063",
@@ -18485,8 +18485,8 @@ let misProfesData={
   },
   "ADRIAN RUBLI ORNELAS": {
     "link": "https://www.misprofesores.com/profesores/Adri\u00e1n-Rubl\u00ed-Ornelas_109506",
-    "general": 9.1333,
-    "n": 15
+    "general": 9.1875,
+    "n": 16
   },
   "MARIA DE LA CRUZ TORRES MANTECON": {
     "link": "https://www.misprofesores.com/profesores/Marycruz-Torres-Mantecon_20290",
@@ -19350,8 +19350,8 @@ let misProfesData={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.1429,
-    "n": 28
+    "general": 9.1724,
+    "n": 29
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
@@ -19805,8 +19805,8 @@ let misProfesData={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.2568,
-    "n": 74
+    "general": 8.28,
+    "n": 75
   },
   "SANTIAGO HERNANDEZ CORNEJO": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Cornejo_113575",

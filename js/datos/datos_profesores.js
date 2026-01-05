@@ -1,4 +1,4 @@
-let actualizado="1767537837996.2854";
+let actualizado="1767624837896.8708";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -150,8 +150,8 @@ let profesores={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.44,
-    "n": 25,
+    "general": 5.3846,
+    "n": 26,
     "grupos": {
       "ACT-11302-CALCULO ACTUARIAL III": [
         {
@@ -1934,8 +1934,8 @@ let profesores={
   },
   "ADRIAN RUBLI ORNELAS": {
     "link": "https://www.misprofesores.com/profesores/Adri\u00e1n-Rubl\u00ed-Ornelas_109506",
-    "general": 9.1333,
-    "n": 15,
+    "general": 9.1875,
+    "n": 16,
     "grupos": {
       "ADM-12460-DIVERSID E INCLUS. EN LAS ORG": [
         {
@@ -12018,8 +12018,8 @@ let profesores={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.1429,
-    "n": 28,
+    "general": 9.1724,
+    "n": 29,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -17437,8 +17437,8 @@ let profesores={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.2568,
-    "n": 74,
+    "general": 8.28,
+    "n": 75,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -19434,8 +19434,8 @@ let mejoresPorDepto={
     "MARIANA CONTRERAS AREVALO",
     "FELIPE BRUGUES RODRIGUEZ",
     "JOSE JAVIER MEDRANO PEREZ",
-    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "ADRIAN RUBLI ORNELAS",
+    "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "JANKO HERNANDEZ CORTES",
     "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
     "PEDRO ANGEL GARCIA ARES",
@@ -19579,8 +19579,8 @@ let mejoresPorDepto={
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "SHARON MAGALI VALVERDE ESPARZA",
     "IRMA BEATRIZ RUMBOS PELLICER",
-    "LEOBARDO FERNANDEZ ROMAN",
-    "LUCIA RAMIREZ DAVID"
+    "LUCIA RAMIREZ DAVID",
+    "LEOBARDO FERNANDEZ ROMAN"
   ],
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
