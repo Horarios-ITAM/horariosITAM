@@ -1,4 +1,4 @@
-let actualizado="1767624837896.8708";
+let actualizado="1767711087056.4873";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -726,15 +726,15 @@ let profesores={
           "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
           "profesor": "",
           "creditos": "6",
-          "horario": "07:00-08:30",
+          "horario": "17:30-19:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH105",
+          "salon": "RH101",
           "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ],
       "ECO-11101-ECONOMIA, I": [
@@ -743,29 +743,12 @@ let profesores={
           "nombre": "ECO-11101-ECONOMIA, I",
           "profesor": "",
           "creditos": "6",
-          "horario": "07:00-08:30",
+          "horario": "17:30-19:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH105",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH301",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -3879,8 +3862,8 @@ let profesores={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.4825,
-    "n": 114,
+    "general": 7.5043,
+    "n": 115,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
@@ -6529,8 +6512,8 @@ let profesores={
   },
   "ALEXANDRA URIBE COUGHLAN": {
     "link": "https://www.misprofesores.com/profesores/Alexandra-Uribe-Coughlan_10804",
-    "general": 8.1071,
-    "n": 84,
+    "general": 8.1176,
+    "n": 85,
     "grupos": {
       "CSO-10100-ESTADO Y SOCIEDAD I": [
         {
@@ -7133,8 +7116,8 @@ let profesores={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.4641,
-    "n": 153,
+    "general": 9.4675,
+    "n": 154,
     "grupos": {
       "CSO-12013-HISTORIA POLITICA CONTEMPORAN.": [
         {
@@ -7799,7 +7782,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHCUBIC",
+          "salon": "RH305",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -8751,7 +8734,7 @@ let profesores={
   "ANA MARIA ZORRILLA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
     "general": 10.0,
-    "n": 2,
+    "n": 3,
     "grupos": {
       "DER-11121-CULTURA DE LA LEGALIDAD": [
         {
@@ -10274,48 +10257,24 @@ let profesores={
       ]
     }
   },
-  "ALEXIS CAPDEVIELLE HARRISON": {
-    "link": "https://www.misprofesores.com/profesores/Alexis-Capdevielle_148992",
-    "general": 9.0,
-    "n": 2,
+  "ERNESTO JAVIER CORDERO ARROYO": {
+    "link": "https://www.misprofesores.com/profesores/Ernesto-Cordero-Arroyo_118142",
+    "general": 8.0,
+    "n": 4,
     "grupos": {
       "ECO-10517-MACROECONOMETRIA APLICADA": [
         {
           "grupo": "001",
           "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
-          "profesor": "ALEXIS CAPDEVIELLE HARRISON",
+          "profesor": "ERNESTO JAVIER CORDERO ARROYO",
           "creditos": "7",
           "horario": "07:00-10:00",
           "dias": [
-            "JU"
+            "VI"
           ],
           "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "GUSTAVO ANTONIO LEYVA JIMENEZ": {
-    "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
-    "general": 4.0,
-    "n": 4,
-    "grupos": {
-      "ECO-10517-MACROECONOMETRIA APLICADA": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-10517-MACROECONOMETRIA APLICADA",
-          "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
-          "creditos": "7",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH212",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
           "fin": "10:00"
         }
       ]
@@ -10346,8 +10305,8 @@ let profesores={
   },
   "CLAUDIA ABURTO RANCA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
-    "general": 8.9036,
-    "n": 83,
+    "general": 8.9048,
+    "n": 84,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -10655,8 +10614,8 @@ let profesores={
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 9.1667,
-    "n": 12,
+    "general": 8.6923,
+    "n": 13,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -10733,7 +10692,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH101",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -11209,10 +11168,48 @@ let profesores={
       ]
     }
   },
+  "CARLOS ARMANDO DE JESUS CANTU GARCIA": {
+    "grupos": {
+      "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
+        {
+          "grupo": "007",
+          "nombre": "ECO-12010-PRINCIPIOS DE MACROECONOMIA",
+          "profesor": "CARLOS ARMANDO DE JESUS CANTU GARCIA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "ECO-12102-ECONOMIA, II": [
+        {
+          "grupo": "007",
+          "nombre": "ECO-12102-ECONOMIA, II",
+          "profesor": "CARLOS ARMANDO DE JESUS CANTU GARCIA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
     "link": "https://www.misprofesores.com/profesores/Cristhian-Seminario-Amez_164953",
-    "general": 6.7778,
-    "n": 9,
+    "general": 7.1,
+    "n": 10,
     "grupos": {
       "ECO-12011-MACROECONOMIA I": [
         {
@@ -11345,6 +11342,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ],
+      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+          "profesor": "CARLOS HURTADO LOPEZ",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -11799,8 +11813,8 @@ let profesores={
   },
   "MICHELLE AVATANEO TRUQUI": {
     "link": "https://www.misprofesores.com/profesores/Michelle-Avataneo_189335",
-    "general": 10.0,
-    "n": 1,
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "ECO-21104-ECONOMIA IV": [
         {
@@ -11838,8 +11852,8 @@ let profesores={
   },
   "VALERIA ZEPEDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",
-    "general": 8.2524,
-    "n": 103,
+    "general": 8.2692,
+    "n": 104,
     "grupos": {
       "EGN-11163-NEW HISTORIC PERSPECT. OF MEX.": [
         {
@@ -12018,8 +12032,8 @@ let profesores={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.1724,
-    "n": 29,
+    "general": 9.0,
+    "n": 30,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -12977,8 +12991,8 @@ let profesores={
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
-    "general": 8.5909,
-    "n": 66,
+    "general": 8.5821,
+    "n": 67,
     "grupos": {
       "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
         {
@@ -13417,8 +13431,8 @@ let profesores={
   },
   "RODRIGO CHACON AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Chac\u00f3n-Aguirre_78222",
-    "general": 8.4,
-    "n": 25,
+    "general": 8.3077,
+    "n": 26,
     "grupos": {
       "EIN-18602-SEMINARIO DE TITULACION": [
         {
@@ -13501,8 +13515,8 @@ let profesores={
   },
   "WEIFENG JIN": {
     "link": "https://www.misprofesores.com/profesores/Weifeng-Jin_190580",
-    "general": 10.0,
-    "n": 1,
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -13648,9 +13662,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -13867,8 +13881,8 @@ let profesores={
   },
   "HUGO CUEVAS BRAVO": {
     "link": "https://www.misprofesores.com/profesores/Hugo-Cuevas-Bravo_155789",
-    "general": 6.4211,
-    "n": 19,
+    "general": 6.6,
+    "n": 20,
     "grupos": {
       "EST-11102-INFERENCIA ESTADISTICA": [
         {
@@ -13994,8 +14008,8 @@ let profesores={
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
-    "general": 7.7059,
-    "n": 17,
+    "general": 7.3889,
+    "n": 18,
     "grupos": {
       "EST-11103-ECONOMETRIA I": [
         {
@@ -17437,8 +17451,8 @@ let profesores={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.28,
-    "n": 75,
+    "general": 8.3026,
+    "n": 76,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -18449,8 +18463,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.525,
-    "n": 40,
+    "general": 7.5854,
+    "n": 41,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -19499,16 +19513,16 @@ let mejoresPorDepto={
     "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
-    "MICHELLE AVATANEO TRUQUI",
     "SOFIA CORONA VERDUZCO",
-    "ANTONIO VIVANCO CASAMADRID",
     "BARBARA CARRILLO FLORES",
-    "ALEXIS CAPDEVIELLE HARRISON",
     "MENEY DE LA PEZA GANDARA",
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
-    "DANIEL ISAAC CHIQUIAR CIKUREL"
+    "ANTONIO VIVANCO CASAMADRID",
+    "DANIEL ISAAC CHIQUIAR CIKUREL",
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O",
+    "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",
@@ -19516,8 +19530,8 @@ let mejoresPorDepto={
     "JAVIER ARTURO VELAZQUEZ GALVAN",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "ALFREDO VILLAFRANCA QUINTO",
     "VALERIA ZEPEDA TREJO",
+    "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
     "ANTONIO JESUS DIEZ QUESADA",
     "JOSE PANTALEON DOMINGUEZ ESPONDA"
@@ -19526,8 +19540,8 @@ let mejoresPorDepto={
     "PABLO KALMANOVITZ GONZALEZ",
     "MARIA JOSE URZUA VALVERDE",
     "HAZEL BLACKMORE SANCHEZ",
-    "RODRIGO CHACON AGUIRRE",
     "ISABEL FLORES ALCAZAR",
+    "RODRIGO CHACON AGUIRRE",
     "NATALIA SALTALAMACCHIA ZICCARDI",
     "GABRIEL GOODLIFFE",
     "FILIBERTO VICTOR KERBER PALMA",
@@ -19542,9 +19556,9 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
-    "LILIANA DE LA TORRE DESENTIS",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
-    "MARTIN MAGRIS"
+    "ENRIQUE CUERVO GUZMAN",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
