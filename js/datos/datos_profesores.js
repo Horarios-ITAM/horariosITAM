@@ -1,4 +1,4 @@
-let actualizado="1767711087056.4873";
+let actualizado="1767797568618.3481";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -977,66 +977,6 @@ let profesores={
           "inicio": "16:00",
           "fin": "17:30"
         }
-      ],
-      "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
-          "profesor": "",
-          "creditos": "10",
-          "horario": "08:30-10:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHLFIEL",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:30"
-        }
-      ],
-      "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB": [
-        {
-          "grupo": "002L",
-          "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "11:00-12:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLFIEL",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        },
-        {
-          "grupo": "003L",
-          "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHLFIEL",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        },
-        {
-          "grupo": "004L",
-          "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "08:00-09:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHLFIEL",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
-        }
       ]
     }
   },
@@ -1578,8 +1518,8 @@ let profesores={
   },
   "FELIPE BRUGUES RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Brugu\u00e9s-Rodr\u00edguez_160059",
-    "general": 9.6667,
-    "n": 3,
+    "general": 9.75,
+    "n": 4,
     "grupos": {
       "ADM-12107-ESTRATEGIA DE NEGOCIOS I": [
         {
@@ -2735,8 +2675,8 @@ let profesores={
   },
   "RENATA HERRERIAS FRANCO": {
     "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
-    "general": 6.4167,
-    "n": 24,
+    "general": 6.48,
+    "n": 25,
     "grupos": {
       "ADM-15532-FINANZAS CORPORATIVAS": [
         {
@@ -4650,7 +4590,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
@@ -4667,7 +4607,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
@@ -5424,8 +5364,8 @@ let profesores={
   },
   "VIRGINIA KALIS LETAYF": {
     "link": "https://www.misprofesores.com/profesores/Virginia-Kalis-Letayf_10754",
-    "general": 8.4231,
-    "n": 78,
+    "general": 8.4304,
+    "n": 79,
     "grupos": {
       "CON-10003-CONTABILIDAD INTERMEDIA, II": [
         {
@@ -7312,23 +7252,6 @@ let profesores={
           "inicio": "16:00",
           "fin": "18:00"
         }
-      ],
-      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-          "profesor": "JULIO ANTONIO RIOS FIGUEROA",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA3",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
       ]
     }
   },
@@ -7340,14 +7263,15 @@ let profesores={
           "nombre": "CSO-15041-ECONOMIA POLITICA, I",
           "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "10:00-11:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH104",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -8089,23 +8013,39 @@ let profesores={
       ]
     }
   },
-  "LUIS ENRIQUE PEREDA TREJO": {
-    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
-    "general": 8.3333,
-    "n": 3,
+  "JOYCE CAROL  SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.9231,
+    "n": 52,
     "grupos": {
       "DER-10113-DERECHO PUBLICO": [
         {
           "grupo": "001",
           "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "LUIS ENRIQUE PEREDA TREJO",
+          "profesor": "JOYCE CAROL  SADKA",
           "creditos": "9",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-14208-ANAL. ECON. DEL DER. II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
+          "profesor": "JOYCE CAROL  SADKA",
+          "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH309",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -8847,6 +8787,22 @@ let profesores={
           "inicio": "08:30",
           "fin": "10:00"
         }
+      ],
+      "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA": [
+        {
+          "grupo": "001",
+          "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
+          "profesor": "RAYMUNDO GAMA LEYVA",
+          "creditos": "9",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
       ]
     }
   },
@@ -9153,26 +9109,6 @@ let profesores={
       ]
     }
   },
-  "GILBERTO NAVA HERNANDEZ": {
-    "grupos": {
-      "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA": [
-        {
-          "grupo": "001",
-          "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-          "profesor": "GILBERTO NAVA HERNANDEZ",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
   "LUIS MANUEL CAMP MEJAN CARRER": {
     "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
     "general": 8.4545,
@@ -9441,6 +9377,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "20:00"
+        }
+      ],
+      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
+          "profesor": "ANA MICAELA ALTERIO",
+          "creditos": "9",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
         }
       ],
       "DER-15403-DERECHO CONSTITUCIONAL I": [
@@ -10539,8 +10491,8 @@ let profesores={
   },
   "SOFIA CORONA VERDUZCO": {
     "link": "https://www.misprofesores.com/profesores/Sofia-Corona-Verduzco_116708",
-    "general": 9.6429,
-    "n": 14,
+    "general": 9.625,
+    "n": 16,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -11512,30 +11464,6 @@ let profesores={
       ]
     }
   },
-  "JOYCE CAROL  SADKA": {
-    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
-    "general": 5.9231,
-    "n": 52,
-    "grupos": {
-      "ECO-14208-ANAL. ECON. DEL DER. II": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
-          "profesor": "JOYCE CAROL  SADKA",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
   "RONY PSHISVA GOLDSMIT": {
     "link": "https://www.misprofesores.com/profesores/Rony-Pshisva-Goldsmit_30957",
     "general": 8.2222,
@@ -12001,15 +11929,14 @@ let profesores={
           "nombre": "IIO-16180-SEMINARIO DE TITULACION",
           "profesor": "GABRIELA HERNANDEZ GARCIA",
           "creditos": "6",
-          "horario": "20:30-22:00",
+          "horario": "16:00-19:00",
           "dias": [
-            "MA",
-            "JU"
+            "VI"
           ],
-          "salon": "RH311",
+          "salon": "RH",
           "campus": "RIO HONDO",
-          "inicio": "20:30",
-          "fin": "22:00"
+          "inicio": "16:00",
+          "fin": "19:00"
         }
       ],
       "SDI-15816-SEMINARIO DE TITULACION": [
@@ -12697,8 +12624,8 @@ let profesores={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.6,
-    "n": 55,
+    "general": 6.5536,
+    "n": 56,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -13221,8 +13148,8 @@ let profesores={
   },
   "ATHANASIOS  HRISTOULAS": {
     "link": "https://www.misprofesores.com/profesores/Athanasios-Hristoulas_10839",
-    "general": 5.5088,
-    "n": 57,
+    "general": 5.4483,
+    "n": 58,
     "grupos": {
       "EIN-13202-HISTORIA DE LAS R.I. II": [
         {
@@ -13662,9 +13589,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -15334,14 +15261,14 @@ let profesores={
           "nombre": "IIO-15175-DISE\u00d1O E IMPRESION 3D POR COMP-LAB",
           "profesor": "JOSE ANTONIO SOUZA JIMENEZ",
           "creditos": "8",
-          "horario": "17:30-19:29",
+          "horario": "17:30-19:30",
           "dias": [
             "MA"
           ],
           "salon": "RHLMINT",
           "campus": "RIO HONDO",
           "inicio": "17:30",
-          "fin": "19:29"
+          "fin": "19:30"
         },
         {
           "grupo": "004L",
@@ -16500,8 +16427,8 @@ let profesores={
   },
   "MANUEL ADRIAN CHAVEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Adrian-Ch\u00e1vez-P\u00e9rez_104157",
-    "general": 9.875,
-    "n": 8,
+    "general": 9.8889,
+    "n": 9,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -16685,6 +16612,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
+        }
+      ],
+      "LEN-12759-COMUNIC. PROFES. PARA MAT. APL": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12759-COMUNIC. PROFES. PARA MAT. APL",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "2",
+          "horario": "19:00-20:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:00"
         }
       ],
       "LEN-12762-COMUN. PROFE. CIENCIA DE DATOS": [
@@ -16985,6 +16928,9 @@ let profesores={
     }
   },
   "MAURICIO HERNANDEZ CERVANTES": {
+    "link": "https://www.misprofesores.com/profesores/Mauricio-Hern\u00e1ndez-Cervantes_190738",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
         {
@@ -17612,8 +17558,8 @@ let profesores={
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
-    "general": 7.6667,
-    "n": 21,
+    "general": 7.5909,
+    "n": 22,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -18210,8 +18156,8 @@ let profesores={
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
-    "general": 7.1351,
-    "n": 74,
+    "general": 7.16,
+    "n": 75,
     "grupos": {
       "MAT-12350-ALGEBRA LINEAL APLICADA": [
         {
@@ -18439,8 +18385,8 @@ let profesores={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3571,
-    "n": 112,
+    "general": 6.3186,
+    "n": 113,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -18521,8 +18467,8 @@ let profesores={
   },
   "GLORIA LOPEZ CHAVEZ": {
     "link": "https://www.misprofesores.com/profesores/Gloria-L\u00f3pez-Ch\u00e1vez_92386",
-    "general": 6.7059,
-    "n": 34,
+    "general": 6.75,
+    "n": 36,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -19197,6 +19143,29 @@ let profesores={
       ]
     }
   },
+  "HUGO RODRIGUEZ CORTES": {
+    "link": "https://www.misprofesores.com/profesores/Hugo-Rodr\u00edguez-Cort\u00e9s_175478",
+    "general": 6.0,
+    "n": 1,
+    "grupos": {
+      "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "SDI-11561-PRINCIPIOS DE MECATRONICA-LAB",
+          "profesor": "HUGO RODRIGUEZ CORTES",
+          "creditos": "10",
+          "horario": "08:30-10:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHLFIEL",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:30"
+        }
+      ]
+    }
+  },
   "JOSE GUADALUPE ROMERO VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Guadalupe-Romero-Velasquez_81677",
     "general": 7.0,
@@ -19328,10 +19297,58 @@ let profesores={
       ]
     }
   },
+  "DIEGO ALEXIS MARTINEZ VELASCO": {
+    "grupos": {
+      "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
+          "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
+          "creditos": "7",
+          "horario": "11:00-12:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLFIEL",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        },
+        {
+          "grupo": "003L",
+          "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
+          "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
+          "creditos": "7",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHLFIEL",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        },
+        {
+          "grupo": "004L",
+          "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
+          "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
+          "creditos": "7",
+          "horario": "08:00-09:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHLFIEL",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
-    "general": 6.7037,
-    "n": 27,
+    "general": 6.7857,
+    "n": 28,
     "grupos": {
       "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS": [
         {
@@ -19557,8 +19574,8 @@ let mejoresPorDepto={
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
-    "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "MARTIN MAGRIS",
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
@@ -19576,13 +19593,13 @@ let mejoresPorDepto={
     "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
     "SAMARI PAULINA GARCIA Y COLOME GONGORA",
     "FEDERICO VALLE OCHOA",
+    "MAURICIO HERNANDEZ CERVANTES",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "MARCELA RABADAN GALLARDO",
     "MARIA GABRIELA  MAZZUCHINO",
     "CONRADO JOSE ARRANZ MINGUEZ",
-    "DIANA LUCIA ALVAREZ MACIAS",
-    "ISRAEL ALVAREZ MACIAS"
+    "DIANA LUCIA ALVAREZ MACIAS"
   ],
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",
@@ -19601,11 +19618,11 @@ let mejoresPorDepto={
     "RAFAEL CISNEROS MONTOYA",
     "JOSE GUADALUPE ROMERO VELAZQUEZ",
     "ANTE SALCEDO GONZALEZ",
+    "HUGO RODRIGUEZ CORTES",
     "MARIA OFELIA RODRIGUEZ DURAN",
     "ROMEO SALVADOR ORTEGA MARTINEZ",
     "MARIO ANDRES AGUILAR ORDU\u00d1A",
     "SERGIO HERNANDEZ SANCHEZ",
-    "MAURICIO ALBERTO ORTEGA RUIZ",
-    "BRUNO ALEJANDRO ORSATTI SANCHEZ"
+    "MAURICIO ALBERTO ORTEGA RUIZ"
   ]
 };
