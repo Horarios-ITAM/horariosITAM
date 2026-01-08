@@ -1,4 +1,4 @@
-let actualizado="1767797568618.3481";
+let actualizado="1767884085571.6086";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -718,40 +718,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "21:00"
-        }
-      ],
-      "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
-        {
-          "grupo": "007",
-          "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "ECO-11101-ECONOMIA, I": [
-        {
-          "grupo": "007",
-          "nombre": "ECO-11101-ECONOMIA, I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ],
       "EGN-11164-EL ARTE DE VIVIR": [
@@ -3843,8 +3809,8 @@ let profesores={
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
-    "general": 4.5,
-    "n": 2,
+    "general": 6.0,
+    "n": 3,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
@@ -6340,8 +6306,8 @@ let profesores={
   },
   "ERIC MAGAR MEURS": {
     "link": "https://www.misprofesores.com/profesores/Eric-Magar-Meurs_10805",
-    "general": 8.0769,
-    "n": 26,
+    "general": 8.1481,
+    "n": 27,
     "grupos": {
       "CSO-10001-INTRO. A LA CIENCIA POLITICA": [
         {
@@ -7252,6 +7218,23 @@ let profesores={
           "inicio": "16:00",
           "fin": "18:00"
         }
+      ],
+      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
+          "profesor": "JULIO ANTONIO RIOS FIGUEROA",
+          "creditos": "9",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
       ]
     }
   },
@@ -7263,15 +7246,14 @@ let profesores={
           "nombre": "CSO-15041-ECONOMIA POLITICA, I",
           "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "08:30-10:00",
           "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
-          "salon": "RH104",
+          "salon": "RH212",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -8013,39 +7995,23 @@ let profesores={
       ]
     }
   },
-  "JOYCE CAROL  SADKA": {
-    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
-    "general": 5.9231,
-    "n": 52,
+  "LUIS ENRIQUE PEREDA TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
+    "general": 8.3333,
+    "n": 3,
     "grupos": {
       "DER-10113-DERECHO PUBLICO": [
         {
           "grupo": "001",
           "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "JOYCE CAROL  SADKA",
+          "profesor": "LUIS ENRIQUE PEREDA TREJO",
           "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-14208-ANAL. ECON. DEL DER. II": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
-          "profesor": "JOYCE CAROL  SADKA",
-          "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH103",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -8787,22 +8753,6 @@ let profesores={
           "inicio": "08:30",
           "fin": "10:00"
         }
-      ],
-      "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA": [
-        {
-          "grupo": "001",
-          "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-          "profesor": "RAYMUNDO GAMA LEYVA",
-          "creditos": "9",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
       ]
     }
   },
@@ -9109,6 +9059,26 @@ let profesores={
       ]
     }
   },
+  "GILBERTO NAVA HERNANDEZ": {
+    "grupos": {
+      "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA": [
+        {
+          "grupo": "001",
+          "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
+          "profesor": "GILBERTO NAVA HERNANDEZ",
+          "creditos": "9",
+          "horario": "08:30-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "LUIS MANUEL CAMP MEJAN CARRER": {
     "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
     "general": 8.4545,
@@ -9377,22 +9347,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "20:00"
-        }
-      ],
-      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-          "profesor": "ANA MICAELA ALTERIO",
-          "creditos": "9",
-          "horario": "19:00-20:30",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHB-3",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
         }
       ],
       "DER-15403-DERECHO CONSTITUCIONAL I": [
@@ -10564,10 +10518,48 @@ let profesores={
       ]
     }
   },
+  "MAURICIO MONDRAGON DELGADO": {
+    "grupos": {
+      "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
+        {
+          "grupo": "007",
+          "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
+          "profesor": "MAURICIO MONDRAGON DELGADO",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "ECO-11101-ECONOMIA, I": [
+        {
+          "grupo": "007",
+          "nombre": "ECO-11101-ECONOMIA, I",
+          "profesor": "MAURICIO MONDRAGON DELGADO",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 8.6923,
-    "n": 13,
+    "general": 8.6429,
+    "n": 14,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -10935,7 +10927,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH110",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -10951,7 +10943,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RH110",
+          "salon": "RH201",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -11460,6 +11452,30 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "JOYCE CAROL  SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.9231,
+    "n": 52,
+    "grupos": {
+      "ECO-14208-ANAL. ECON. DEL DER. II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
+          "profesor": "JOYCE CAROL  SADKA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -12400,7 +12416,7 @@ let profesores={
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
     "general": 8.0,
-    "n": 48,
+    "n": 49,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -12624,8 +12640,8 @@ let profesores={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.5536,
-    "n": 56,
+    "general": 6.5263,
+    "n": 57,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -15524,9 +15540,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -17320,8 +17336,8 @@ let profesores={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.2016,
-    "n": 129,
+    "general": 8.2077,
+    "n": 130,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -18197,8 +18213,8 @@ let profesores={
   },
   "HERICA SANCHEZ LARIOS": {
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
-    "general": 7.7826,
-    "n": 23,
+    "general": 7.75,
+    "n": 24,
     "grupos": {
       "MAT-12350-ALGEBRA LINEAL APLICADA": [
         {
@@ -18631,8 +18647,8 @@ let profesores={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.6667,
-    "n": 9,
+    "general": 9.5,
+    "n": 10,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -18689,8 +18705,8 @@ let profesores={
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
-    "general": 7.5,
-    "n": 6,
+    "general": 7.8571,
+    "n": 7,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -19262,14 +19278,14 @@ let profesores={
           "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES-LAB",
           "profesor": "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
           "creditos": "8",
-          "horario": "08:30-10:31",
+          "horario": "08:30-10:30",
           "dias": [
             "VI"
           ],
           "salon": "RHLREDE",
           "campus": "RIO HONDO",
           "inicio": "08:30",
-          "fin": "10:31"
+          "fin": "10:30"
         }
       ]
     }
@@ -19511,9 +19527,9 @@ let mejoresPorDepto={
     "JESUS ALEJANDRO MORENO ALVAREZ",
     "JULIO ANTONIO RIOS FIGUEROA",
     "ADRIANA ALFARO ALTAMIRANO",
+    "ERIC MAGAR MEURS",
     "ALEXANDRA URIBE COUGHLAN",
     "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
-    "ERIC MAGAR MEURS",
     "ADRIAN LUCARDI",
     "JUAN PABLO MICOZZI"
   ],

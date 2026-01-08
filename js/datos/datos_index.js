@@ -1,4 +1,4 @@
-let actualizado="1767797568602.7864";
+let actualizado="1767884085557.798";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -6216,15 +6216,14 @@ let clases={
         "nombre": "CSO-15041-ECONOMIA POLITICA, I",
         "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH104",
+        "salon": "RH212",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -6862,16 +6861,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "JOYCE CAROL  SADKA",
+        "profesor": "LUIS ENRIQUE PEREDA TREJO",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "07:00-08:30",
         "dias": [
-          "MA"
+          "MA",
+          "JU"
         ],
         "salon": "RH309",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "07:00",
+        "fin": "08:30"
       }
     ]
   },
@@ -7953,16 +7953,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-        "profesor": "RAYMUNDO GAMA LEYVA",
+        "profesor": "GILBERTO NAVA HERNANDEZ",
         "creditos": "9",
-        "horario": "19:00-22:00",
+        "horario": "08:30-10:00",
         "dias": [
-          "MI"
+          "VI"
         ],
-        "salon": "RH103",
+        "salon": "RH309",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "22:00"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -8367,16 +8367,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-        "profesor": "ANA MICAELA ALTERIO",
+        "profesor": "JULIO ANTONIO RIOS FIGUEROA",
         "creditos": "9",
-        "horario": "19:00-20:30",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "20:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -9474,7 +9475,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
-        "profesor": "",
+        "profesor": "MAURICIO MONDRAGON DELGADO",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -9723,7 +9724,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "",
+        "profesor": "MAURICIO MONDRAGON DELGADO",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -9898,7 +9899,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH110",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -10916,7 +10917,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RH110",
+        "salon": "RH201",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -18158,14 +18159,14 @@ let clases={
         "nombre": "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES-LAB",
         "profesor": "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
         "creditos": "8",
-        "horario": "08:30-10:31",
+        "horario": "08:30-10:30",
         "dias": [
           "VI"
         ],
         "salon": "RHLREDE",
         "campus": "RIO HONDO",
         "inicio": "08:30",
-        "fin": "10:31"
+        "fin": "10:30"
       }
     ]
   },
@@ -18657,8 +18658,8 @@ let misProfesData={
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
-    "general": 4.5,
-    "n": 2
+    "general": 6.0,
+    "n": 3
   },
   "JUAN SALVADOR MARMOL YAHYA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-M\u00e1rmol-Yahya_169926",
@@ -18872,8 +18873,8 @@ let misProfesData={
   },
   "ERIC MAGAR MEURS": {
     "link": "https://www.misprofesores.com/profesores/Eric-Magar-Meurs_10805",
-    "general": 8.0769,
-    "n": 26
+    "general": 8.1481,
+    "n": 27
   },
   "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
@@ -19000,10 +19001,10 @@ let misProfesData={
     "general": 7.4167,
     "n": 12
   },
-  "JOYCE CAROL  SADKA": {
-    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
-    "general": 5.9231,
-    "n": 52
+  "LUIS ENRIQUE PEREDA TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
+    "general": 8.3333,
+    "n": 3
   },
   "PABLO ARIEL RAPETTI": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
@@ -19217,8 +19218,8 @@ let misProfesData={
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 8.6923,
-    "n": 13
+    "general": 8.6429,
+    "n": 14
   },
   "BARBARA CARRILLO FLORES": {
     "link": "https://www.misprofesores.com/profesores/B\u00e1rbara-Carrillo_59547",
@@ -19304,6 +19305,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
     "general": 8.6,
     "n": 5
+  },
+  "JOYCE CAROL  SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.9231,
+    "n": 52
   },
   "RONY PSHISVA GOLDSMIT": {
     "link": "https://www.misprofesores.com/profesores/Rony-Pshisva-Goldsmit_30957",
@@ -19423,7 +19429,7 @@ let misProfesData={
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
     "general": 8.0,
-    "n": 48
+    "n": 49
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
@@ -19447,8 +19453,8 @@ let misProfesData={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.5536,
-    "n": 56
+    "general": 6.5263,
+    "n": 57
   },
   "ANTONIO LOPEZ VEGA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-L\u00f3pez-Vega_186030",
@@ -19701,9 +19707,9 @@ let misProfesData={
     "n": 32
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -19822,8 +19828,8 @@ let misProfesData={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.2016,
-    "n": 129
+    "general": 8.2077,
+    "n": 130
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
@@ -19902,8 +19908,8 @@ let misProfesData={
   },
   "HERICA SANCHEZ LARIOS": {
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
-    "general": 7.7826,
-    "n": 23
+    "general": 7.75,
+    "n": 24
   },
   "SERGIO IVAN ARROYO GILES": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Ivan-Arroyo-Giles_189130",
@@ -19952,13 +19958,13 @@ let misProfesData={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.6667,
-    "n": 9
+    "general": 9.5,
+    "n": 10
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
-    "general": 7.5,
-    "n": 6
+    "general": 7.8571,
+    "n": 7
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
