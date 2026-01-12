@@ -1,4 +1,4 @@
-let actualizado="1768142724093.7332";
+let actualizado="1768229754557.672";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -12816,8 +12816,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH309",
+        "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
       },
@@ -12917,47 +12917,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:30"
-      }
-    ]
-  },
-  "IIO-15140-LAB": {
-    "nombre": "IIO-15140-CIENCIAS DE LOS MATERIALES-LAB",
-    "clave": "IIO-15140",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "IIO-15140-CIENCIAS DE LOS MATERIALES-LAB",
-        "profesor": "",
-        "creditos": "9",
-        "horario": "17:30-20:30",
-        "dias": [
-          "MA"
-        ],
-        "salon": "RHLCMAT",
-        "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "20:30"
-      }
-    ]
-  },
-  "IIO-15140": {
-    "nombre": "IIO-15140-CIENCIAS DE LOS MATERIALES",
-    "clave": "IIO-15140",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "IIO-15140-CIENCIAS DE LOS MATERIALES",
-        "profesor": "DORA ILIANA MEDINA MEDINA",
-        "creditos": "9",
-        "horario": "08:30-10:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH314",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
       }
     ]
   },
@@ -13275,14 +13234,14 @@ let clases={
         "nombre": "IIO-16180-SEMINARIO DE TITULACION",
         "profesor": "GABRIELA HERNANDEZ GARCIA",
         "creditos": "6",
-        "horario": "16:00-19:00",
+        "horario": "16:00-17:30",
         "dias": [
           "VI"
         ],
-        "salon": "RH",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "19:00"
+        "fin": "17:30"
       }
     ]
   },
@@ -14382,7 +14341,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RH",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:00"
@@ -15035,14 +14994,16 @@ let clases={
         "nombre": "MAT-12200-CALCULO UNIVARIADO",
         "profesor": "ABIMAEL JAVIER BENGOCHEA CRUZ",
         "creditos": "9",
-        "horario": "14:30-16:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "JU"
+          "LU",
+          "MI",
+          "VI"
         ],
-        "salon": "",
-        "campus": "",
-        "inicio": "14:30",
-        "fin": "16:00"
+        "salon": "RHPB3",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -16594,6 +16555,26 @@ let clases={
       }
     ]
   },
+  "SDI-11120-LAB": {
+    "nombre": "SDI-11120-ELEMENTOS DE FISICA-LAB",
+    "clave": "SDI-11120",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "SDI-11120-ELEMENTOS DE FISICA-LAB",
+        "profesor": "ANTE SALCEDO GONZALEZ",
+        "creditos": "10",
+        "horario": "08:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHLFIEL",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "10:00"
+      }
+    ]
+  },
   "SDI-11120": {
     "nombre": "SDI-11120-ELEMENTOS DE FISICA",
     "clave": "SDI-11120",
@@ -17893,9 +17874,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18233,9 +18214,9 @@ let misProfesData={
     "n": 3
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -18569,8 +18550,8 @@ let misProfesData={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3186,
-    "n": 113
+    "general": 6.307,
+    "n": 114
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
