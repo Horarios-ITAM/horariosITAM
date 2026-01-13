@@ -1,4 +1,4 @@
-let actualizado="1768229754557.672";
+let actualizado="1768316185450.2983";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -2315,7 +2315,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-16732-CREATIVID Y DESARR DE CONTENID",
-        "profesor": "",
+        "profesor": "DIEGO ALEJANDRO MU\u00d1OZ ZAMBRANO",
         "creditos": "4",
         "horario": "18:00-20:00",
         "dias": [
@@ -2335,7 +2335,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-16734-ANAL ESTRAT DE REDES SOCIALES",
-        "profesor": "MARIA CRUZ MERINO SANZ",
+        "profesor": "GABRIEL VIELMA PADILLA",
         "creditos": "4",
         "horario": "09:00-11:00",
         "dias": [
@@ -2442,6 +2442,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "15:30",
         "fin": "16:00"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
+        "profesor": "",
+        "creditos": "7",
+        "horario": "15:30-16:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-1",
+        "campus": "RIO HONDO",
+        "inicio": "15:30",
+        "fin": "16:00"
       }
     ]
   },
@@ -2460,6 +2475,21 @@ let clases={
           "JU"
         ],
         "salon": "RHSA3",
+        "campus": "RIO HONDO",
+        "inicio": "14:00",
+        "fin": "15:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
+        "profesor": "",
+        "creditos": "7",
+        "horario": "14:00-15:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "14:00",
         "fin": "15:30"
@@ -5562,7 +5592,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -6536,7 +6566,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-11112-TALLER DISERT JURID EN CONTRAT-LAB",
-        "profesor": "",
+        "profesor": "SANTIAGO TAMARIZ ACOSTA",
         "creditos": "2",
         "horario": "19:00-21:00",
         "dias": [
@@ -7187,6 +7217,27 @@ let clases={
       }
     ]
   },
+  "DER-13203": {
+    "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
+    "clave": "DER-13203",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
+        "profesor": "JORGE LUIS ZAPATA MEJIA",
+        "creditos": "6",
+        "horario": "07:00-08:31",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH303",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:31"
+      }
+    ]
+  },
   "DER-13302": {
     "nombre": "DER-13302-BIENES Y DERECHOS REALES",
     "clave": "DER-13302",
@@ -7721,6 +7772,11 @@ let clases={
         "fin": "17:30"
       }
     ]
+  },
+  "DER-15506": {
+    "nombre": "DER-15506-DERECHO CONSTITUCIONAL, III",
+    "clave": "DER-15506",
+    "grupos": []
   },
   "DER-15600": {
     "nombre": "DER-15600-DERECHO CONSTITUCIONAL III",
@@ -12947,7 +13003,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP",
-        "profesor": "DORA ILIANA MEDINA MEDINA",
+        "profesor": "",
         "creditos": "8",
         "horario": "08:30-10:00",
         "dias": [
@@ -13198,7 +13254,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH202",
+        "salon": "RHLSIST",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -14449,7 +14505,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12765-COM. PROFES. PARA ING. EN MECA",
-        "profesor": "ISRAEL ALVAREZ MACIAS",
+        "profesor": "INTI VARGAS MORENO",
         "creditos": "2",
         "horario": "16:00-17:00",
         "dias": [
@@ -16562,7 +16618,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-11120-ELEMENTOS DE FISICA-LAB",
-        "profesor": "ANTE SALCEDO GONZALEZ",
+        "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
         "creditos": "10",
         "horario": "08:00-10:00",
         "dias": [
@@ -16589,8 +16645,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH316",
+        "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "10:00"
       }
@@ -16898,7 +16954,7 @@ let clases={
       {
         "grupo": "003L",
         "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
-        "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
+        "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
         "creditos": "7",
         "horario": "07:00-08:00",
         "dias": [
@@ -16912,7 +16968,7 @@ let clases={
       {
         "grupo": "004L",
         "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
-        "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
+        "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
         "creditos": "7",
         "horario": "08:00-09:00",
         "dias": [
@@ -18428,11 +18484,6 @@ let misProfesData={
     "general": 10.0,
     "n": 1
   },
-  "ISRAEL ALVAREZ MACIAS": {
-    "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.2222,
-    "n": 18
-  },
   "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE": {
     "link": "https://www.misprofesores.com/profesores/Yolanda-isabel-Pretelini_118802",
     "general": 0.0,
@@ -18637,5 +18688,10 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/MARIA-OFELIA-RODRIGUEZ-DURAN_159927",
     "general": 6.0,
     "n": 1
+  },
+  "FRANCISCO JAVIER VILLA LOPEZ": {
+    "link": "https://www.misprofesores.com/profesores/FRANCISCO-JAVIER-VILLA-LOPEZ_159928",
+    "general": 5.5,
+    "n": 2
   }
 };

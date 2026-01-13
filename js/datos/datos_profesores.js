@@ -1,4 +1,4 @@
-let actualizado="1768229754570.3145";
+let actualizado="1768316185462.2622";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -2439,22 +2439,6 @@ let profesores={
           "inicio": "07:00",
           "fin": "08:30"
         }
-      ],
-      "ADM-16734-ANAL ESTRAT DE REDES SOCIALES": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-16734-ANAL ESTRAT DE REDES SOCIALES",
-          "profesor": "MARIA CRUZ MERINO SANZ",
-          "creditos": "4",
-          "horario": "09:00-11:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHB-4",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
       ]
     }
   },
@@ -2516,13 +2500,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "DIEGO ALEJANDRO MU\u00d1OZ ZAMBRANO": {
     "grupos": {
       "ADM-16732-CREATIVID Y DESARR DE CONTENID": [
         {
           "grupo": "001",
           "nombre": "ADM-16732-CREATIVID Y DESARR DE CONTENID",
-          "profesor": "",
+          "profesor": "DIEGO ALEJANDRO MU\u00d1OZ ZAMBRANO",
           "creditos": "4",
           "horario": "18:00-20:00",
           "dias": [
@@ -2533,187 +2517,25 @@ let profesores={
           "inicio": "18:00",
           "fin": "20:00"
         }
-      ],
-      "COM-16305-GESTION DE DATOS": [
-        {
-          "grupo": "002",
-          "nombre": "COM-16305-GESTION DE DATOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHCC202",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "DER-11112-TALLER DISERT JURID EN CONTRAT-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-11112-TALLER DISERT JURID EN CONTRAT-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "19:00-21:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHSA1",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
-        }
-      ],
-      "DER-17804-DERECHO FISCAL II": [
+      ]
+    }
+  },
+  "GABRIEL VIELMA PADILLA": {
+    "grupos": {
+      "ADM-16734-ANAL ESTRAT DE REDES SOCIALES": [
         {
           "grupo": "001",
-          "nombre": "DER-17804-DERECHO FISCAL II",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "19:30-21:30",
+          "nombre": "ADM-16734-ANAL ESTRAT DE REDES SOCIALES",
+          "profesor": "GABRIEL VIELMA PADILLA",
+          "creditos": "4",
+          "horario": "09:00-11:00",
           "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "19:30",
-          "fin": "21:30"
-        }
-      ],
-      "DER-17806-DERECHO FISCAL II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-17806-DERECHO FISCAL II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:30-21:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "19:30",
-          "fin": "21:00"
-        }
-      ],
-      "EGN-11164-EL ARTE DE VIVIR": [
-        {
-          "grupo": "001",
-          "nombre": "EGN-11164-EL ARTE DE VIVIR",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "IIO-15141-CIENC DE LOS MATERIALES Y COMP-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP-LAB",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "17:30-19:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHLCMAT",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
-        }
-      ],
-      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHB-2",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
-      "MAT-12202-CALCULO VECTORIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12202-CALCULO VECTORIAL",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI",
             "VI"
           ],
-          "salon": "RH209",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "MAT-12210-SIST. DINAMICOS": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-12210-SIST. DINAMICOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "MAT-24210-SISTEMAS DINAMICOS,I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
+          "inicio": "09:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -2859,6 +2681,227 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "14:00",
           "fin": "15:30"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "CLE-10517-COMMUNICATION IN SPANISH II-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
+          "profesor": "",
+          "creditos": "7",
+          "horario": "15:30-16:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
+          "inicio": "15:30",
+          "fin": "16:00"
+        }
+      ],
+      "CLE-10517-COMMUNICATION IN SPANISH II": [
+        {
+          "grupo": "002",
+          "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
+          "profesor": "",
+          "creditos": "7",
+          "horario": "14:00-15:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-1",
+          "campus": "RIO HONDO",
+          "inicio": "14:00",
+          "fin": "15:30"
+        }
+      ],
+      "COM-16305-GESTION DE DATOS": [
+        {
+          "grupo": "002",
+          "nombre": "COM-16305-GESTION DE DATOS",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "DER-17804-DERECHO FISCAL II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-17804-DERECHO FISCAL II",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "19:30-21:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "19:30",
+          "fin": "21:30"
+        }
+      ],
+      "DER-17806-DERECHO FISCAL II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-17806-DERECHO FISCAL II",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:30-21:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "19:30",
+          "fin": "21:00"
+        }
+      ],
+      "EGN-11164-EL ARTE DE VIVIR": [
+        {
+          "grupo": "001",
+          "nombre": "EGN-11164-EL ARTE DE VIVIR",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH210",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "IIO-15141-CIENC DE LOS MATERIALES Y COMP-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP-LAB",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "17:30-19:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHLCMAT",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:30"
+        }
+      ],
+      "IIO-15141-CIENC DE LOS MATERIALES Y COMP": [
+        {
+          "grupo": "001",
+          "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH314",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ],
+      "MAT-12202-CALCULO VECTORIAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12202-CALCULO VECTORIAL",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-12210-SIST. DINAMICOS": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-12210-SIST. DINAMICOS",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "MAT-24210-SISTEMAS DINAMICOS,I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -6602,7 +6645,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH313",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -7523,6 +7566,26 @@ let profesores={
       ]
     }
   },
+  "SANTIAGO TAMARIZ ACOSTA": {
+    "grupos": {
+      "DER-11112-TALLER DISERT JURID EN CONTRAT-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11112-TALLER DISERT JURID EN CONTRAT-LAB",
+          "profesor": "SANTIAGO TAMARIZ ACOSTA",
+          "creditos": "2",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ]
+    }
+  },
   "MARIO ALBERTO GARCIA ACEVEDO": {
     "link": "https://www.misprofesores.com/profesores/Mario-Alberto-Garcia-Acevedo_158366",
     "general": 0.0,
@@ -8135,6 +8198,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ],
+      "DER-13203-NEGOCIO JURIDICO Y PERSONAS": [
+        {
+          "grupo": "002",
+          "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
+          "profesor": "JORGE LUIS ZAPATA MEJIA",
+          "creditos": "6",
+          "horario": "07:00-08:31",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH303",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:31"
         }
       ]
     }
@@ -14066,23 +14146,6 @@ let profesores={
           "inicio": "12:00",
           "fin": "13:30"
         }
-      ],
-      "IIO-15141-CIENC DE LOS MATERIALES Y COMP": [
-        {
-          "grupo": "001",
-          "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP",
-          "profesor": "DORA ILIANA MEDINA MEDINA",
-          "creditos": "8",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH314",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
       ]
     }
   },
@@ -14251,7 +14314,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH202",
+          "salon": "RHLSIST",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
@@ -15692,19 +15755,12 @@ let profesores={
           "inicio": "07:00",
           "fin": "08:00"
         }
-      ]
-    }
-  },
-  "ISRAEL ALVAREZ MACIAS": {
-    "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.2222,
-    "n": 18,
-    "grupos": {
+      ],
       "LEN-12765-COM. PROFES. PARA ING. EN MECA": [
         {
           "grupo": "001",
           "nombre": "LEN-12765-COM. PROFES. PARA ING. EN MECA",
-          "profesor": "ISRAEL ALVAREZ MACIAS",
+          "profesor": "INTI VARGAS MORENO",
           "creditos": "2",
           "horario": "16:00-17:00",
           "dias": [
@@ -17679,16 +17735,13 @@ let profesores={
       ]
     }
   },
-  "ANTE SALCEDO GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
-    "general": 6.7857,
-    "n": 28,
+  "DIEGO ALEXIS MARTINEZ VELASCO": {
     "grupos": {
       "SDI-11120-ELEMENTOS DE FISICA-LAB": [
         {
           "grupo": "001L",
           "nombre": "SDI-11120-ELEMENTOS DE FISICA-LAB",
-          "profesor": "ANTE SALCEDO GONZALEZ",
+          "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
           "creditos": "10",
           "horario": "08:00-10:00",
           "dias": [
@@ -17700,6 +17753,29 @@ let profesores={
           "fin": "10:00"
         }
       ],
+      "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
+          "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
+          "creditos": "7",
+          "horario": "11:00-12:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLFIEL",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "ANTE SALCEDO GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
+    "general": 6.7857,
+    "n": 28,
+    "grupos": {
       "SDI-11120-ELEMENTOS DE FISICA": [
         {
           "grupo": "001",
@@ -17711,8 +17787,8 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH316",
+          "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "10:00"
         }
@@ -18048,27 +18124,16 @@ let profesores={
       ]
     }
   },
-  "DIEGO ALEXIS MARTINEZ VELASCO": {
+  "FRANCISCO JAVIER VILLA LOPEZ": {
+    "link": "https://www.misprofesores.com/profesores/FRANCISCO-JAVIER-VILLA-LOPEZ_159928",
+    "general": 5.5,
+    "n": 2,
     "grupos": {
       "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB": [
         {
-          "grupo": "002L",
-          "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
-          "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
-          "creditos": "7",
-          "horario": "11:00-12:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLFIEL",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        },
-        {
           "grupo": "003L",
           "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
-          "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
+          "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
           "creditos": "7",
           "horario": "07:00-08:00",
           "dias": [
@@ -18082,7 +18147,7 @@ let profesores={
         {
           "grupo": "004L",
           "nombre": "SDI-17306-ESTAT, ELECTRICIDAD Y MAGNETIS-LAB",
-          "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
+          "profesor": "FRANCISCO JAVIER VILLA LOPEZ",
           "creditos": "7",
           "horario": "08:00-09:00",
           "dias": [
@@ -18282,7 +18347,7 @@ let mejoresPorDepto={
     "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "ISRAEL ALVAREZ MACIAS"
+    "GABRIEL ASTEY WOOD"
   ],
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",
@@ -18303,9 +18368,9 @@ let mejoresPorDepto={
     "ANTE SALCEDO GONZALEZ",
     "HUGO RODRIGUEZ CORTES",
     "MARIA OFELIA RODRIGUEZ DURAN",
+    "FRANCISCO JAVIER VILLA LOPEZ",
     "ROMEO SALVADOR ORTEGA MARTINEZ",
-    "MARIO ANDRES AGUILAR ORDU\u00d1A",
-    "SERGIO HERNANDEZ SANCHEZ",
-    "MAURICIO ALBERTO ORTEGA RUIZ"
+    "DIEGO ALEXIS MARTINEZ VELASCO",
+    "MARIO ANDRES AGUILAR ORDU\u00d1A"
   ]
 };
