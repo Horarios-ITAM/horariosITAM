@@ -1,4 +1,4 @@
-let actualizado="1768316185462.2622";
+let actualizado="1768402471212.5447";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -870,7 +870,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH315",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
@@ -900,7 +900,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH315",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "14:00"
@@ -1124,7 +1124,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -1141,7 +1141,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -1158,7 +1158,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -1948,7 +1948,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF105",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -1963,7 +1963,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF105",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -1978,7 +1978,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF105",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -2721,21 +2721,20 @@ let profesores={
           "fin": "15:30"
         }
       ],
-      "COM-16305-GESTION DE DATOS": [
+      "DER-11118-CONCURSOS INTERNACIONALES": [
         {
-          "grupo": "002",
-          "nombre": "COM-16305-GESTION DE DATOS",
+          "grupo": "001",
+          "nombre": "DER-11118-CONCURSOS INTERNACIONALES",
           "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
+          "creditos": "4",
+          "horario": "10:00-12:00",
           "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
-          "salon": "RHCC202",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
+          "salon": "",
+          "campus": "",
+          "inicio": "10:00",
+          "fin": "12:00"
         }
       ],
       "DER-17804-DERECHO FISCAL II": [
@@ -2789,39 +2788,6 @@ let profesores={
           "fin": "17:30"
         }
       ],
-      "IIO-15141-CIENC DE LOS MATERIALES Y COMP-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP-LAB",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "17:30-19:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHLCMAT",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:30"
-        }
-      ],
-      "IIO-15141-CIENC DE LOS MATERIALES Y COMP": [
-        {
-          "grupo": "001",
-          "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH314",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
       "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
         {
           "grupo": "002",
@@ -2833,20 +2799,6 @@ let profesores={
             "JU"
           ],
           "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
@@ -4007,6 +3959,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "CARLOS ANTONIO ZOZAYA GOROSTIZA": {
+    "grupos": {
+      "COM-16305-GESTION DE DATOS": [
+        {
+          "grupo": "002",
+          "nombre": "COM-16305-GESTION DE DATOS",
+          "profesor": "CARLOS ANTONIO ZOZAYA GOROSTIZA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -8976,6 +8949,23 @@ let profesores={
           "inicio": "07:00",
           "fin": "09:00"
         }
+      ],
+      "DER-17807-DERECHO FISCAL I": [
+        {
+          "grupo": "001",
+          "nombre": "DER-17807-DERECHO FISCAL I",
+          "profesor": "JUAN CARLOS ROA JACOBO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF106",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
       ]
     }
   },
@@ -9998,9 +9988,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -10519,7 +10509,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA1",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10536,7 +10526,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA1",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -13199,7 +13189,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH311",
+          "salon": "RH108",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -13216,7 +13206,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH311",
+          "salon": "RH108",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -14145,6 +14135,43 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
+        }
+      ]
+    }
+  },
+  "JOSE MANUEL HERNANDEZ SOTO": {
+    "grupos": {
+      "IIO-15141-CIENC DE LOS MATERIALES Y COMP-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP-LAB",
+          "profesor": "JOSE MANUEL HERNANDEZ SOTO",
+          "creditos": "8",
+          "horario": "17:30-19:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHLCMAT",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:30"
+        }
+      ],
+      "IIO-15141-CIENC DE LOS MATERIALES Y COMP": [
+        {
+          "grupo": "001",
+          "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP",
+          "profesor": "JOSE MANUEL HERNANDEZ SOTO",
+          "creditos": "8",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH314",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -15715,31 +15742,24 @@ let profesores={
       ]
     }
   },
-  "MAURICIO HERNANDEZ CERVANTES": {
-    "link": "https://www.misprofesores.com/profesores/Mauricio-Hern\u00e1ndez-Cervantes_190738",
-    "general": 10.0,
-    "n": 1,
+  "INTI VARGAS MORENO": {
     "grupos": {
-      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
+      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
         {
-          "grupo": "001",
-          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
-          "profesor": "MAURICIO HERNANDEZ CERVANTES",
+          "grupo": "004",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "INTI VARGAS MORENO",
           "creditos": "2",
-          "horario": "18:00-19:00",
+          "horario": "07:00-08:00",
           "dias": [
             "JU"
           ],
-          "salon": "RHACERV",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
+          "inicio": "07:00",
+          "fin": "08:00"
         }
-      ]
-    }
-  },
-  "INTI VARGAS MORENO": {
-    "grupos": {
+      ],
       "LEN-12764-COM. PROFES. PARA ING. EN COMP": [
         {
           "grupo": "001",
@@ -15770,6 +15790,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:00"
+        }
+      ]
+    }
+  },
+  "MAURICIO HERNANDEZ CERVANTES": {
+    "link": "https://www.misprofesores.com/profesores/Mauricio-Hern\u00e1ndez-Cervantes_190738",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12761-COMUNIC. PROFES. PARA REL. INT",
+          "profesor": "MAURICIO HERNANDEZ CERVANTES",
+          "creditos": "2",
+          "horario": "18:00-19:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:00"
         }
       ]
     }
@@ -16586,7 +16629,7 @@ let profesores={
             "MI",
             "VI"
           ],
-          "salon": "PF101",
+          "salon": "PF105",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -18286,8 +18329,8 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES",
-    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O",
+    "MAGDALENA SOFIA BARBA FERNANDEZ"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",

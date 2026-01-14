@@ -1,4 +1,4 @@
-let actualizado="1768316185450.2983";
+let actualizado="1768402471198.8958";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -625,7 +625,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH315",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "14:00"
@@ -722,7 +722,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH315",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "14:00"
@@ -1005,7 +1005,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -1061,7 +1061,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -1177,7 +1177,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -1538,7 +1538,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -1553,7 +1553,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -1568,7 +1568,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF105",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -3318,7 +3318,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "COM-16305-GESTION DE DATOS",
-        "profesor": "",
+        "profesor": "CARLOS ANTONIO ZOZAYA GOROSTIZA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -6764,6 +6764,26 @@ let clases={
       }
     ]
   },
+  "DER-11118": {
+    "nombre": "DER-11118-CONCURSOS INTERNACIONALES",
+    "clave": "DER-11118",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11118-CONCURSOS INTERNACIONALES",
+        "profesor": "",
+        "creditos": "4",
+        "horario": "10:00-12:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "10:00",
+        "fin": "12:00"
+      }
+    ]
+  },
   "DER-11119": {
     "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
     "clave": "DER-11119",
@@ -8209,6 +8229,27 @@ let clases={
       }
     ]
   },
+  "DER-17807": {
+    "nombre": "DER-17807-DERECHO FISCAL I",
+    "clave": "DER-17807",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-17807-DERECHO FISCAL I",
+        "profesor": "JUAN CARLOS ROA JACOBO",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "PF106",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      }
+    ]
+  },
   "DER-18600": {
     "nombre": "DER-18600-DERECHO INTERNACIONAL I",
     "clave": "DER-18600",
@@ -9533,7 +9574,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA1",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9590,7 +9631,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA1",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -12313,7 +12354,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH311",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -12433,7 +12474,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH311",
+        "salon": "RH108",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -12983,7 +13024,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP-LAB",
-        "profesor": "",
+        "profesor": "JOSE MANUEL HERNANDEZ SOTO",
         "creditos": "8",
         "horario": "17:30-19:30",
         "dias": [
@@ -13003,7 +13044,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-15141-CIENC DE LOS MATERIALES Y COMP",
-        "profesor": "",
+        "profesor": "JOSE MANUEL HERNANDEZ SOTO",
         "creditos": "8",
         "horario": "08:30-10:00",
         "dias": [
@@ -14391,7 +14432,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-        "profesor": "",
+        "profesor": "INTI VARGAS MORENO",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -15142,7 +15183,7 @@ let clases={
           "MI",
           "VI"
         ],
-        "salon": "PF101",
+        "salon": "PF105",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -17930,9 +17971,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
