@@ -1,4 +1,4 @@
-let actualizado="1768402471212.5447";
+let actualizado="1768488755887.1436";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -2685,13 +2685,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "ERIKA DEYANIRA BELTRAN TRENADO": {
     "grupos": {
       "CLE-10517-COMMUNICATION IN SPANISH II-LAB": [
         {
           "grupo": "002L",
           "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
-          "profesor": "",
+          "profesor": "ERIKA DEYANIRA BELTRAN TRENADO",
           "creditos": "7",
           "horario": "15:30-16:00",
           "dias": [
@@ -2708,7 +2708,7 @@ let profesores={
         {
           "grupo": "002",
           "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
-          "profesor": "",
+          "profesor": "ERIKA DEYANIRA BELTRAN TRENADO",
           "creditos": "7",
           "horario": "14:00-15:30",
           "dias": [
@@ -2719,141 +2719,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "14:00",
           "fin": "15:30"
-        }
-      ],
-      "DER-11118-CONCURSOS INTERNACIONALES": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11118-CONCURSOS INTERNACIONALES",
-          "profesor": "",
-          "creditos": "4",
-          "horario": "10:00-12:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "",
-          "campus": "",
-          "inicio": "10:00",
-          "fin": "12:00"
-        }
-      ],
-      "DER-17804-DERECHO FISCAL II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-17804-DERECHO FISCAL II",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "19:30-21:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "19:30",
-          "fin": "21:30"
-        }
-      ],
-      "DER-17806-DERECHO FISCAL II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-17806-DERECHO FISCAL II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "19:30-21:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "19:30",
-          "fin": "21:00"
-        }
-      ],
-      "EGN-11164-EL ARTE DE VIVIR": [
-        {
-          "grupo": "001",
-          "nombre": "EGN-11164-EL ARTE DE VIVIR",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
-      "MAT-12202-CALCULO VECTORIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12202-CALCULO VECTORIAL",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "MAT-12210-SIST. DINAMICOS": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-12210-SIST. DINAMICOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "MAT-24210-SISTEMAS DINAMICOS,I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -3198,7 +3063,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHLI2",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
@@ -5805,6 +5670,23 @@ let profesores={
           "inicio": "08:30",
           "fin": "10:00"
         }
+      ],
+      "SDI-25916-SISTEMAS EMPRESARIALES": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+          "profesor": "JUAN FERNANDO CALDERON CABELLO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHPACE",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
       ]
     }
   },
@@ -7367,6 +7249,22 @@ let profesores={
           "fin": "14:30"
         }
       ],
+      "DER-11203-INVESTIG. Y REDACCION JURIDICA": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11203-INVESTIG. Y REDACCION JURIDICA",
+          "profesor": "ROMAIN SYLVAIN JEAN GENIEZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
       "DER-11207-ESCRITURA JURIDICA": [
         {
           "grupo": "001",
@@ -7772,6 +7670,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        }
+      ],
+      "DER-11118-CONCURSOS INTERNACIONALES": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11118-CONCURSOS INTERNACIONALES",
+          "profesor": "HANNAH BIRKENKOTTER",
+          "creditos": "4",
+          "horario": "10:00-12:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "10:00",
+          "fin": "12:00"
+        }
+      ],
+      "DER-11123-CONCURSOS INTERNAC. (CLINICA)-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)-LAB",
+          "profesor": "HANNAH BIRKENKOTTER",
+          "creditos": "2",
+          "horario": "10:00-12:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -8986,6 +8916,112 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "DER-17804-DERECHO FISCAL II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-17804-DERECHO FISCAL II",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "19:30-21:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "19:30",
+          "fin": "21:30"
+        }
+      ],
+      "DER-17806-DERECHO FISCAL II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-17806-DERECHO FISCAL II",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "19:30-21:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "19:30",
+          "fin": "21:00"
+        }
+      ],
+      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ],
+      "MAT-12202-CALCULO VECTORIAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12202-CALCULO VECTORIAL",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-12210-SIST. DINAMICOS": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-12210-SIST. DINAMICOS",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "MAT-24210-SISTEMAS DINAMICOS,I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -11052,6 +11088,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:30"
+        }
+      ]
+    }
+  },
+  "GABRIELE SACCANI": {
+    "grupos": {
+      "EGN-11164-EL ARTE DE VIVIR": [
+        {
+          "grupo": "001",
+          "nombre": "EGN-11164-EL ARTE DE VIVIR",
+          "profesor": "GABRIELE SACCANI",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH210",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -17314,8 +17371,8 @@ let profesores={
   },
   "JOSE PABLO OLIVARES PRETELIN": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pablo-Olivares-Pretelin_78777",
-    "general": 8.75,
-    "n": 8,
+    "general": 8.7778,
+    "n": 9,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -18270,6 +18327,7 @@ let mejoresPorDepto={
   "LENGUAS (CLE)": [
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "NORMA ARACELY AVILA MIRANDA",
+    "ERIKA DEYANIRA BELTRAN TRENADO",
     "REBECCA SOTO BUSTAMANTE"
   ],
   "COMPUTACION": [

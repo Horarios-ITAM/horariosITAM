@@ -1,4 +1,4 @@
-let actualizado="1768402471198.8958";
+let actualizado="1768488755873.5166";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -2446,7 +2446,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
-        "profesor": "",
+        "profesor": "ERIKA DEYANIRA BELTRAN TRENADO",
         "creditos": "7",
         "horario": "15:30-16:00",
         "dias": [
@@ -2482,7 +2482,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
-        "profesor": "",
+        "profesor": "ERIKA DEYANIRA BELTRAN TRENADO",
         "creditos": "7",
         "horario": "14:00-15:30",
         "dias": [
@@ -6771,7 +6771,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11118-CONCURSOS INTERNACIONALES",
-        "profesor": "",
+        "profesor": "HANNAH BIRKENKOTTER",
         "creditos": "4",
         "horario": "10:00-12:00",
         "dias": [
@@ -6882,10 +6882,55 @@ let clases={
       }
     ]
   },
+  "DER-11123-LAB": {
+    "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)-LAB",
+    "clave": "DER-11123",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)-LAB",
+        "profesor": "HANNAH BIRKENKOTTER",
+        "creditos": "2",
+        "horario": "10:00-12:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "12:00"
+      }
+    ]
+  },
+  "DER-11123": {
+    "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)",
+    "clave": "DER-11123",
+    "grupos": []
+  },
   "DER-11202": {
     "nombre": "DER-11202-TEORIA DEL DERECHO II",
     "clave": "DER-11202",
     "grupos": []
+  },
+  "DER-11203": {
+    "nombre": "DER-11203-INVESTIG. Y REDACCION JURIDICA",
+    "clave": "DER-11203",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "DER-11203-INVESTIG. Y REDACCION JURIDICA",
+        "profesor": "ROMAIN SYLVAIN JEAN GENIEZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHSA2",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
   },
   "DER-11206": {
     "nombre": "DER-11206-TEOR\u00cdA DEL DERECHO II",
@@ -10335,7 +10380,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EGN-11164-EL ARTE DE VIVIR",
-        "profesor": "",
+        "profesor": "GABRIELE SACCANI",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -16830,7 +16875,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHLI2",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -17155,6 +17200,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "12:30"
+      }
+    ]
+  },
+  "SDI-25916": {
+    "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+    "clave": "SDI-25916",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+        "profesor": "JUAN FERNANDO CALDERON CABELLO",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHPACE",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
       }
     ]
   }
@@ -18657,8 +18723,8 @@ let misProfesData={
   },
   "JOSE PABLO OLIVARES PRETELIN": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pablo-Olivares-Pretelin_78777",
-    "general": 8.75,
-    "n": 8
+    "general": 8.7778,
+    "n": 9
   },
   "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Rub\u00e9n-Alejandro-Mart\u00ednez-Avenda\u00f1o_107915",
