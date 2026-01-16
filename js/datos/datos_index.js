@@ -1,4 +1,4 @@
-let actualizado="1768488755873.5166";
+let actualizado="1768575131686.8606";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -6430,6 +6430,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "14:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-11106-METODOL. DE LA DISERTAC JURID.",
+        "profesor": "ROMAIN SYLVAIN JEAN GENIEZ",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHSA2",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -6496,7 +6510,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -6777,8 +6791,8 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
       }
@@ -7754,7 +7768,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA3",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -7780,7 +7794,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA3",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -8239,7 +8253,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-17804-DERECHO FISCAL II",
-        "profesor": "",
+        "profesor": "FERNANDO BUENO AJA",
         "creditos": "8",
         "horario": "19:30-21:30",
         "dias": [
@@ -8260,7 +8274,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-17806-DERECHO FISCAL II",
-        "profesor": "",
+        "profesor": "FERNANDO BUENO AJA",
         "creditos": "6",
         "horario": "19:30-21:00",
         "dias": [
@@ -16296,7 +16310,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH308",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -17951,6 +17965,11 @@ let misProfesData={
     "general": 7.5556,
     "n": 18
   },
+  "FERNANDO BUENO AJA": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
+    "general": 6.5,
+    "n": 8
+  },
   "MIRIAM SHALILA CURIOCA GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Shalila-Curioca-Galvez_20096",
     "general": 9.25,
@@ -18148,8 +18167,8 @@ let misProfesData={
   },
   "MICHELLE AVATANEO TRUQUI": {
     "link": "https://www.misprofesores.com/profesores/Michelle-Avataneo_189335",
-    "general": 8.0,
-    "n": 2
+    "general": 8.6667,
+    "n": 3
   },
   "VALERIA ZEPEDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",
@@ -18253,8 +18272,8 @@ let misProfesData={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.5263,
-    "n": 57
+    "general": 6.4483,
+    "n": 58
   },
   "ANTONIO LOPEZ VEGA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-L\u00f3pez-Vega_186030",

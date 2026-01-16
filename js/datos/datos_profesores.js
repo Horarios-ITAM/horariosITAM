@@ -1,4 +1,4 @@
-let actualizado="1768488755887.1436";
+let actualizado="1768575131701.4136";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -239,7 +239,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH308",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -6516,7 +6516,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -6565,7 +6565,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA3",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -7247,6 +7247,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "14:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "DER-11106-METODOL. DE LA DISERTAC JURID.",
+          "profesor": "ROMAIN SYLVAIN JEAN GENIEZ",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHSA2",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ],
       "DER-11203-INVESTIG. Y REDACCION JURIDICA": [
@@ -7682,8 +7696,8 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
         }
@@ -8474,7 +8488,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA3",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -8920,13 +8934,16 @@ let profesores={
       ]
     }
   },
-  "": {
+  "FERNANDO BUENO AJA": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
+    "general": 6.5,
+    "n": 8,
     "grupos": {
       "DER-17804-DERECHO FISCAL II": [
         {
           "grupo": "001",
           "nombre": "DER-17804-DERECHO FISCAL II",
-          "profesor": "",
+          "profesor": "FERNANDO BUENO AJA",
           "creditos": "8",
           "horario": "19:30-21:30",
           "dias": [
@@ -8943,7 +8960,7 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "DER-17806-DERECHO FISCAL II",
-          "profesor": "",
+          "profesor": "FERNANDO BUENO AJA",
           "creditos": "6",
           "horario": "19:30-21:00",
           "dias": [
@@ -8954,74 +8971,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "21:00"
-        }
-      ],
-      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
-      "MAT-12202-CALCULO VECTORIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12202-CALCULO VECTORIAL",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "MAT-12210-SIST. DINAMICOS": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-12210-SIST. DINAMICOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "MAT-24210-SISTEMAS DINAMICOS,I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -11014,8 +10963,8 @@ let profesores={
   },
   "MICHELLE AVATANEO TRUQUI": {
     "link": "https://www.misprofesores.com/profesores/Michelle-Avataneo_189335",
-    "general": 8.0,
-    "n": 2,
+    "general": 8.6667,
+    "n": 3,
     "grupos": {
       "ECO-21104-ECONOMIA IV": [
         {
@@ -11919,8 +11868,8 @@ let profesores={
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
-    "general": 6.5263,
-    "n": 57,
+    "general": 6.4483,
+    "n": 58,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -15779,6 +15728,78 @@ let profesores={
       ]
     }
   },
+  "": {
+    "grupos": {
+      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ],
+      "MAT-12202-CALCULO VECTORIAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12202-CALCULO VECTORIAL",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-12210-SIST. DINAMICOS": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-12210-SIST. DINAMICOS",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "MAT-24210-SISTEMAS DINAMICOS,I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
   "MELISSA ESTEFANIA MU\u00d1OZ DE LA TORRE": {
     "grupos": {
       "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
@@ -18385,10 +18406,10 @@ let mejoresPorDepto={
     "MIGUEL MESSMACHER LINARTAS",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
+    "MICHELLE AVATANEO TRUQUI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MAURICIO TOMAS ROMERO LONDO\u00d1O",
-    "MAGDALENA SOFIA BARBA FERNANDEZ"
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",
