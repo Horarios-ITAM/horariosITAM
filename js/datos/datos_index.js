@@ -1,4 +1,4 @@
-let actualizado="1768575131686.8606";
+let actualizado="1768661092771.4294";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -768,26 +768,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
-      }
-    ]
-  },
-  "ADM-12311": {
-    "nombre": "ADM-12311-TRAYECTORIAS EN NEG. I",
-    "clave": "ADM-12311",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-12311-TRAYECTORIAS EN NEG. I",
-        "profesor": "JOSE JAVIER MEDRANO PEREZ",
-        "creditos": "2",
-        "horario": "13:00-14:00",
-        "dias": [
-          "MI"
-        ],
-        "salon": "RH202",
-        "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:00"
       }
     ]
   },
@@ -1735,6 +1715,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ADM-15534-MODELOS FINANCIEROS II",
+        "profesor": "AURELIO VASQUEZ",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -1916,20 +1910,6 @@ let clases={
     "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
     "clave": "ADM-15582",
     "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "RAFAEL SAMRA ATACH",
-        "creditos": "6",
-        "horario": "19:00-22:00",
-        "dias": [
-          "MI"
-        ],
-        "salon": "RH315",
-        "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "22:00"
-      },
       {
         "grupo": "002",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
@@ -2284,27 +2264,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
-      }
-    ]
-  },
-  "ADM-16731": {
-    "nombre": "ADM-16731-FUNDAMENTOS DE MERCADOTECNIA",
-    "clave": "ADM-16731",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ADM-16731-FUNDAMENTOS DE MERCADOTECNIA",
-        "profesor": "JOSE JAVIER MEDRANO PEREZ",
-        "creditos": "6",
-        "horario": "08:30-10:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH315",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
       }
     ]
   },
@@ -8582,6 +8541,77 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "008",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "DANIEL ISAAC CHIQUIAR CIKUREL",
+        "creditos": "9",
+        "horario": "13:00-14:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH103",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:30"
+      },
+      {
+        "grupo": "009",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "CHRISTINA CORNEJO VAN LUIT",
+        "creditos": "9",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      },
+      {
+        "grupo": "010",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH111",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "011",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "TRIDIB  SHARMA",
+        "creditos": "9",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      },
+      {
+        "grupo": "012",
+        "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+        "profesor": "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ",
+        "creditos": "9",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -8637,6 +8667,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      }
+    ]
+  },
+  "ECO-10506": {
+    "nombre": "ECO-10506-ECONOMETR. Y ANALISIS DE DATOS",
+    "clave": "ECO-10506",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10506-ECONOMETR. Y ANALISIS DE DATOS",
+        "profesor": "DANIEL ALEJANDRO HERNANDEZ ALDACO",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -8696,6 +8746,26 @@ let clases={
       }
     ]
   },
+  "ECO-10518": {
+    "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
+    "clave": "ECO-10518",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "ECO-10518-TOPICOS DE ECONOMETRIA",
+        "profesor": "GUSTAVO ANTONIO LEYVA JIMENEZ",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
   "ECO-10521": {
     "nombre": "ECO-10521-INFERENCIA CAUSAL",
     "clave": "ECO-10521",
@@ -8714,6 +8784,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-10521-INFERENCIA CAUSAL",
+        "profesor": "JOSE GABRIEL MARTINEZ GONZALEZ",
+        "creditos": "6",
+        "horario": "08:30-10:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH317",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -9266,6 +9351,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-11104-ECONOMIA, IV",
+        "profesor": "CARLOS MIGUEL ROCHA TORRES",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -9680,6 +9779,21 @@ let clases={
     "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
     "clave": "ECO-12133",
     "grupos": [
+      {
+        "grupo": "0",
+        "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
+        "profesor": "CARLOS HURTADO LOPEZ",
+        "creditos": "6",
+        "horario": "17:30-19:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH301",
+        "campus": "RIO HONDO",
+        "inicio": "17:30",
+        "fin": "19:00"
+      },
       {
         "grupo": "001",
         "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
@@ -10306,6 +10420,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
+      }
+    ]
+  },
+  "ECO-21113": {
+    "nombre": "ECO-21113-TEORIA DE JUEGOS",
+    "clave": "ECO-21113",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-21113-TEORIA DE JUEGOS",
+        "profesor": "ANDREY  GOMBERG",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH113",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -13390,14 +13525,14 @@ let clases={
         "nombre": "IIO-16180-SEMINARIO DE TITULACION",
         "profesor": "GABRIELA HERNANDEZ GARCIA",
         "creditos": "6",
-        "horario": "16:00-17:30",
+        "horario": "16:00-19:00",
         "dias": [
           "VI"
         ],
         "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "17:30"
+        "fin": "19:00"
       }
     ]
   },
@@ -16786,7 +16921,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHLSIST",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -17937,8 +18072,8 @@ let misProfesData={
   },
   "ANA SOFIA CHARVEL OROZCO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Sof\u00eda-Charvel-Orozco_10791",
-    "general": 7.2059,
-    "n": 68
+    "general": 7.2464,
+    "n": 69
   },
   "RODRIGO CAMARENA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Camarena_103973",
@@ -17995,10 +18130,30 @@ let misProfesData={
     "general": 7.4118,
     "n": 34
   },
+  "DANIEL ISAAC CHIQUIAR CIKUREL": {
+    "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
+    "general": 8.6,
+    "n": 5
+  },
+  "TRIDIB  SHARMA": {
+    "link": "https://www.misprofesores.com/profesores/Tridib-Sharma_10768",
+    "general": 6.5429,
+    "n": 35
+  },
+  "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
+    "link": "https://www.misprofesores.com/profesores/Cristhian-Seminario-Amez_164953",
+    "general": 7.1,
+    "n": 10
+  },
   "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
     "general": 6.875,
     "n": 104
+  },
+  "DANIEL ALEJANDRO HERNANDEZ ALDACO": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-Hern\u00e1ndez_17732",
+    "general": 6.0333,
+    "n": 60
   },
   "JOSE GABRIEL MARTINEZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Gabriel-Mart\u00ednez-Gonz\u00e1lez_181679",
@@ -18013,6 +18168,11 @@ let misProfesData={
   "ERNESTO JAVIER CORDERO ARROYO": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Cordero-Arroyo_118142",
     "general": 8.0,
+    "n": 4
+  },
+  "GUSTAVO ANTONIO LEYVA JIMENEZ": {
+    "link": "https://www.misprofesores.com/profesores/Gustavo-Antonio-Leyva-Jimenez_181676",
+    "general": 4.0,
     "n": 4
   },
   "ARTURO MANUEL FERNANDEZ PEREZ": {
@@ -18075,11 +18235,6 @@ let misProfesData={
     "general": 7.3636,
     "n": 11
   },
-  "TRIDIB  SHARMA": {
-    "link": "https://www.misprofesores.com/profesores/Tridib-Sharma_10768",
-    "general": 6.5429,
-    "n": 35
-  },
   "ERNESTO BLANCAS BARRAGAN": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
     "general": 7.1667,
@@ -18094,11 +18249,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Victor-hugo-gomez-ayala_72112",
     "general": 0.0,
     "n": 0
-  },
-  "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
-    "link": "https://www.misprofesores.com/profesores/Cristhian-Seminario-Amez_164953",
-    "general": 7.1,
-    "n": 10
   },
   "JORGE JESUS ALONSO ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ort\u00edz_62832",
@@ -18119,11 +18269,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Felipe-Meza-Goiz_10761",
     "general": 6.5476,
     "n": 42
-  },
-  "DANIEL ISAAC CHIQUIAR CIKUREL": {
-    "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
-    "general": 8.6,
-    "n": 5
   },
   "JOYCE CAROL  SADKA": {
     "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
