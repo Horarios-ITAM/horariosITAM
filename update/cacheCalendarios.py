@@ -7,23 +7,24 @@
 # ///
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
-import os
+from pathlib import Path
+from urllib.parse import urljoin, urlparse
 import time
 import utils
 
-BASE_DIR = "assets/calendarios"
+CAL_DIR = Path("assets/calendarios")
+DOCS_DIR = Path("assets/docs")
 
 
 def agregaLinksDoc(conseguidos):
     sHTML = ""
     for text, ligas in conseguidos.items():
-        sURL = requests.utils.requote_uri("assets/" + ligas["urlCache"])
+        sURL = requests.utils.requote_uri(str(ligas["local"]))
         sHTML += (
             f'<a href="{sURL}" class="linkCalendario" target="_blank">{text}</a><br>\n'
         )
 
-    with open(os.path.join(BASE_DIR, "calendariosTemplate.html"), "r") as f:
+    with open(CAL_DIR / "calendariosTemplate.html", "r") as f:
         template = f.read()
 
     return template.replace("<!--Lista de links-->", sHTML)
@@ -31,6 +32,27 @@ def agregaLinksDoc(conseguidos):
 
 def agregarActualizado(html):
     return html.replace("//Actualizado", str(time.time() * 1000))
+
+
+def destino_local(url_doc: str) -> Path:
+    """
+    Regresa el directorio en el que se debe cachear el archivo.
+    - URLs con "/calendarios/" en su ruta -> assets/calendarios
+    - Todo lo demás -> assets/docs
+    """
+    parsed = urlparse(url_doc)
+    if "/calendarios/" in parsed.path.lower():
+        return CAL_DIR
+    return DOCS_DIR
+
+
+def nombre_archivo(url: str) -> str:
+    """
+    Obtiene un nombre de archivo seguro a partir de la URL.
+    """
+    parsed = urlparse(url)
+    name = Path(parsed.path).name
+    return name or "documento.pdf"
 
 
 if __name__ == "__main__":
@@ -48,8 +70,12 @@ if __name__ == "__main__":
 
         # Descargamos el archivo
         urlDoc = urljoin(url, hit["href"])
-        utils.descargaArchivo(os.path.join("assets", hit["href"]), urlDoc)
-        conseguidos[hit.string] = {"urlCache": hit["href"], "urlITAM": urlDoc}
+        base_dir = destino_local(urlDoc)
+        base_dir.mkdir(parents=True, exist_ok=True)
+        local_path = base_dir / nombre_archivo(urlDoc)
+
+        utils.descargaArchivo(str(local_path), urlDoc)
+        conseguidos[hit.string] = {"local": local_path, "urlITAM": urlDoc}
 
         print(f"Descargado {hit.string} de {urlDoc}")
 
