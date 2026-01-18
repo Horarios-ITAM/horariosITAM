@@ -23,6 +23,4 @@ Las fuentes de datos son:
 
 
 ## Por mejorar/hacer
-- Limpiar/mejorar codigo de python.
-- Cachear matches de profes grace <-> mis profes
-- Mejorar y probar detalladamente la función que rankea los horarios (main.js > [evaluaHorario](https://github.com/emiliocantuc/horariosITAM/blob/9f12960e16f29bd48e4fbda1258b83c88ef037db/js/main.js#L272)).
+Ver [Issues](https://github.com/Horarios-ITAM/horariosITAM/issues)
