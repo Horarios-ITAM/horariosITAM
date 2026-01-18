@@ -1,6 +1,8 @@
 from graceScrapper import GraceScrapper
 from misProfesScrapper import MisProfesScrapper
-import json, time, sys
+import json
+import time
+import sys
 from graceScrapperSecure import GraceScrapperSecureArea, courseUrl
 from utils import claveToDepto, periodoMasReciente, dic2js
 

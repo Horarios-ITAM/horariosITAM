@@ -1,5 +1,9 @@
 import urllib.request
-import json, os, re, unicodedata, requests
+import json
+import os
+import re
+import unicodedata
+import requests
 
 claveToDepto = {
     "ACT": "ACTUARIA Y SEGUROS",

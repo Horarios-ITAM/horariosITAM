@@ -8,7 +8,8 @@
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
-import os, time
+import os
+import time
 import utils
 
 BASE_DIR = "assets/calendarios"

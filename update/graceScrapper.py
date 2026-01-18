@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
 import utils
 from urllib.parse import urljoin
-import requests, re
+import requests
+import re
 
 
 class GraceScrapper:

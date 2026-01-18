@@ -206,7 +206,6 @@ if __name__ == "__main__":
     scrapper = MisProfesScrapper(url)
     scrapper.scrap()
 
-    from graceScrapper import GraceScrapper
     import pickle
 
     # nonSecure = GraceScrapper()

@@ -8,7 +8,7 @@
 # ]
 # ///
 
-from fastapi import FastAPI, HTTPException, Request
+from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse, HTMLResponse
 from fastapi.middleware.cors import CORSMiddleware
 from graceScrapper import GraceScrapper

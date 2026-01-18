@@ -4,7 +4,11 @@
 #     "requests",
 # ]
 # ///
-import os, itertools, string, time, argparse
+import os
+import itertools
+import string
+import time
+import argparse
 from urllib.parse import urljoin
 import utils
 
