@@ -1,4 +1,4 @@
-let actualizado="1768661092784.868";
+let actualizado="1768747502821.3186";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -4338,8 +4338,8 @@ let profesores={
   },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
-    "general": 7.8929,
-    "n": 28,
+    "general": 7.9655,
+    "n": 29,
     "grupos": {
       "COM-25705-SEG INFORMATICA Y HACKEO ETICO": [
         {
@@ -13671,8 +13671,8 @@ let profesores={
   },
   "ERICK MIER MORENO": {
     "link": "https://www.misprofesores.com/profesores/ERICK-MIER-MORENO_40949",
-    "general": 7.8667,
-    "n": 30,
+    "general": 7.9355,
+    "n": 31,
     "grupos": {
       "EST-14103-ESTADISTICA MATEMATICA": [
         {
@@ -14614,9 +14614,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16661,8 +16661,8 @@ let profesores={
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",
-    "general": 6.6087,
-    "n": 23,
+    "general": 6.7083,
+    "n": 24,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -16810,8 +16810,8 @@ let profesores={
   },
   "ANDREAS WACHTEL": {
     "link": "https://www.misprofesores.com/profesores/Andreas-Wachtel_96043",
-    "general": 6.5238,
-    "n": 21,
+    "general": 6.5909,
+    "n": 22,
     "grupos": {
       "MAT-12201-CALCULO MULTIVARIADO": [
         {
@@ -16942,8 +16942,8 @@ let profesores={
   },
   "JOAO PEDRO LEITAO DA CRUZ MORAIS": {
     "link": "https://www.misprofesores.com/profesores/Jo\u00e3o-Pedro-Leit\u00e3o-da-Cruz-Morais_70368",
-    "general": 8.9077,
-    "n": 65,
+    "general": 8.9242,
+    "n": 66,
     "grupos": {
       "MAT-12210-SIST. DINAMICOS": [
         {
