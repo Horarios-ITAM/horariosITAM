@@ -9,7 +9,9 @@
 # Monitorea que el sitio funcione correctamente y notifica si algo esta raro
 # Corrido con cronjob (ver .github/workflows/monitorea.yml)
 
-import requests, argparse, time
+import requests
+import argparse
+import time
 from bs4 import BeautifulSoup
 
 
