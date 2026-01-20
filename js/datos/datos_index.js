@@ -1,4 +1,4 @@
-let actualizado="1768834564138.2664";
+let actualizado="1768921177469.2483";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -365,6 +365,34 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ACT-22309-MATEMATICAS FINANCIERAS, III",
+        "profesor": "DAVID RUELAS RODRIGUEZ",
+        "creditos": "7",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ACT-22309-MATEMATICAS FINANCIERAS, III",
+        "profesor": "OSCAR PERALTA GUTIERREZ",
+        "creditos": "7",
+        "horario": "18:00-21:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "RH103",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -385,6 +413,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
+      }
+    ]
+  },
+  "ACT-25360": {
+    "nombre": "ACT-25360-TEMAS SELECTOS DE ACTUARIA I",
+    "clave": "ACT-25360",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ACT-25360-TEMAS SELECTOS DE ACTUARIA I",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "09:00-12:00",
+        "dias": [
+          "SA"
+        ],
+        "salon": "RH103",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "12:00"
       }
     ]
   },

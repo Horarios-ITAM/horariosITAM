@@ -1,4 +1,4 @@
-let actualizado="1768834564150.175";
+let actualizado="1768921177484.709";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -144,6 +144,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        }
+      ],
+      "ACT-22309-MATEMATICAS FINANCIERAS, III": [
+        {
+          "grupo": "002",
+          "nombre": "ACT-22309-MATEMATICAS FINANCIERAS, III",
+          "profesor": "DAVID RUELAS RODRIGUEZ",
+          "creditos": "7",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -449,6 +465,26 @@ let profesores={
       ]
     }
   },
+  "OSCAR PERALTA GUTIERREZ": {
+    "grupos": {
+      "ACT-22309-MATEMATICAS FINANCIERAS, III": [
+        {
+          "grupo": "003",
+          "nombre": "ACT-22309-MATEMATICAS FINANCIERAS, III",
+          "profesor": "OSCAR PERALTA GUTIERREZ",
+          "creditos": "7",
+          "horario": "18:00-21:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "21:00"
+        }
+      ]
+    }
+  },
   "FRANCISCO GERARDO CESAR MEDINA": {
     "link": "https://www.misprofesores.com/profesores/Francisco-Gerardo-Cesar-Medina_185794",
     "general": 6.0,
@@ -484,6 +520,94 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "ACT-25360-TEMAS SELECTOS DE ACTUARIA I": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-25360-TEMAS SELECTOS DE ACTUARIA I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "09:00-12:00",
+          "dias": [
+            "SA"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "12:00"
+        }
+      ],
+      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ],
+      "MAT-12202-CALCULO VECTORIAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12202-CALCULO VECTORIAL",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-12210-SIST. DINAMICOS": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-12210-SIST. DINAMICOS",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "MAT-24210-SISTEMAS DINAMICOS,I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -15883,78 +16007,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
-        }
-      ]
-    }
-  },
-  "": {
-    "grupos": {
-      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
-      "MAT-12202-CALCULO VECTORIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12202-CALCULO VECTORIAL",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "MAT-12210-SIST. DINAMICOS": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-12210-SIST. DINAMICOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "MAT-24210-SISTEMAS DINAMICOS,I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
