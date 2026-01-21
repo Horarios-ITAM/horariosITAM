@@ -1,4 +1,4 @@
-let actualizado="1768921177469.2483";
+let actualizado="1769007592021.0864";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -9633,7 +9633,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH304",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -10083,7 +10083,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH209",
+        "salon": "RH208",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -10203,7 +10203,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH113",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:30"
@@ -10521,7 +10521,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH304",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -15982,7 +15982,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA4",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -18264,9 +18264,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
