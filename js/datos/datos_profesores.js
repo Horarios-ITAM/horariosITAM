@@ -1,4 +1,4 @@
-let actualizado="1769007592033.53";
+let actualizado="1769095417872.4006";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -160,6 +160,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
+        }
+      ],
+      "ACT-25360-TEMAS SELECTOS DE ACTUARIA I": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-25360-TEMAS SELECTOS DE ACTUARIA I",
+          "profesor": "DAVID RUELAS RODRIGUEZ",
+          "creditos": "6",
+          "horario": "09:00-12:00",
+          "dias": [
+            "SA"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -524,94 +540,6 @@ let profesores={
       ]
     }
   },
-  "": {
-    "grupos": {
-      "ACT-25360-TEMAS SELECTOS DE ACTUARIA I": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-25360-TEMAS SELECTOS DE ACTUARIA I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "09:00-12:00",
-          "dias": [
-            "SA"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "12:00"
-        }
-      ],
-      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-08:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:00"
-        }
-      ],
-      "MAT-12202-CALCULO VECTORIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12202-CALCULO VECTORIAL",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "MAT-12210-SIST. DINAMICOS": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-12210-SIST. DINAMICOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "MAT-24210-SISTEMAS DINAMICOS,I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ]
-    }
-  },
   "CLAUDIA NOEMI GONZALEZ BRAMBILA": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Noem\u00ed-Gonz\u00e1lez-Brambila_10719",
     "general": 7.5556,
@@ -662,8 +590,8 @@ let profesores={
   },
   "KRZYSZTOF ZAREMBA": {
     "link": "https://www.misprofesores.com/profesores/Krzystof-Zaremba_171808",
-    "general": 5.0,
-    "n": 5,
+    "general": 5.8333,
+    "n": 6,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -762,7 +690,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH202",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -888,7 +816,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH311",
+          "salon": "RH312",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "20:30"
@@ -1106,7 +1034,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH314",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -1265,7 +1193,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH315",
+          "salon": "PF106",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -2000,7 +1928,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -2015,7 +1943,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -3139,23 +3067,6 @@ let profesores={
           "fin": "21:00"
         }
       ],
-      "SDI-11642-ARQUITECTURA DE COMPUTADORAS": [
-        {
-          "grupo": "0",
-          "nombre": "SDI-11642-ARQUITECTURA DE COMPUTADORAS",
-          "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
-          "creditos": "8",
-          "horario": "12:00-14:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-5",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
-      ],
       "SDI-13782-DISE\u00d1O Y ARQUITECT. DE REDES": [
         {
           "grupo": "001",
@@ -3218,8 +3129,8 @@ let profesores={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.5043,
-    "n": 115,
+    "general": 7.5259,
+    "n": 116,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
@@ -5255,8 +5166,8 @@ let profesores={
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
-    "general": 8.65,
-    "n": 100,
+    "general": 8.5941,
+    "n": 101,
     "grupos": {
       "CON-12001-CONTABILIDAD DE COSTOS": [
         {
@@ -5943,6 +5854,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ],
+      "CSO-19077-SEMIN. DE TITULACION POR CASO": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+          "profesor": "ALEXANDRA URIBE COUGHLAN",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -6783,7 +6710,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "PF106",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -6997,7 +6924,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "PF106",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -7163,7 +7090,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH308",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -7318,7 +7245,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH306",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
@@ -7852,7 +7779,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF103",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -7869,7 +7796,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF103",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -8048,7 +7975,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH316",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -8065,7 +7992,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH316",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -8875,7 +8802,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF103",
+          "salon": "RH105",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -8898,7 +8825,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHB-3",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -9608,8 +9535,8 @@ let profesores={
   },
   "JOSE GABRIEL MARTINEZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Gabriel-Mart\u00ednez-Gonz\u00e1lez_181679",
-    "general": 8.0,
-    "n": 1,
+    "general": 5.0,
+    "n": 2,
     "grupos": {
       "ECO-10516-MICROECONOMETRIA APLICADA": [
         {
@@ -10325,9 +10252,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -14738,9 +14665,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -16007,6 +15934,78 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "07:00-08:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:00"
+        }
+      ],
+      "MAT-12202-CALCULO VECTORIAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12202-CALCULO VECTORIAL",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-12210-SIST. DINAMICOS": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-12210-SIST. DINAMICOS",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "MAT-24210-SISTEMAS DINAMICOS,I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -17668,8 +17667,8 @@ let profesores={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.5455,
-    "n": 11,
+    "general": 9.4167,
+    "n": 12,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -17950,7 +17949,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH209",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -17967,7 +17966,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH209",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -18620,7 +18619,7 @@ let mejoresPorDepto={
     "MICHELLE AVATANEO TRUQUI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",

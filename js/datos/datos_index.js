@@ -1,4 +1,4 @@
-let actualizado="1769007592021.0864";
+let actualizado="1769095417819.2024";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -423,7 +423,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-25360-TEMAS SELECTOS DE ACTUARIA I",
-        "profesor": "",
+        "profesor": "DAVID RUELAS RODRIGUEZ",
         "creditos": "6",
         "horario": "09:00-12:00",
         "dias": [
@@ -579,7 +579,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH202",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -619,7 +619,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH311",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "20:30"
@@ -917,7 +917,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH314",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -1530,7 +1530,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -1545,7 +1545,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -1891,7 +1891,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH315",
+        "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -5942,6 +5942,26 @@ let clases={
       }
     ]
   },
+  "CSO-19077": {
+    "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+    "clave": "CSO-19077",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19077-SEMIN. DE TITULACION POR CASO",
+        "profesor": "ALEXANDRA URIBE COUGHLAN",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
   "CSO-19085": {
     "nombre": "CSO-19085-SEMINARIO DE INV. POLITICA E",
     "clave": "CSO-19085",
@@ -5996,7 +6016,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF106",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -6130,7 +6150,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF106",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -6218,7 +6238,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH308",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -6392,7 +6412,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHSA2",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -6819,7 +6839,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF103",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -7105,7 +7125,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF103",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -7147,7 +7167,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH316",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -7168,7 +7188,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH316",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -8043,7 +8063,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF103",
+        "salon": "RH105",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -8078,7 +8098,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHB-3",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -16204,7 +16224,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH209",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -16366,7 +16386,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH209",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -17058,27 +17078,6 @@ let clases={
       }
     ]
   },
-  "SDI-11642": {
-    "nombre": "SDI-11642-ARQUITECTURA DE COMPUTADORAS",
-    "clave": "SDI-11642",
-    "grupos": [
-      {
-        "grupo": "0",
-        "nombre": "SDI-11642-ARQUITECTURA DE COMPUTADORAS",
-        "profesor": "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
-        "creditos": "8",
-        "horario": "12:00-14:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RHB-5",
-        "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "14:00"
-      }
-    ]
-  },
   "SDI-11671": {
     "nombre": "SDI-11671-TEORIA DE CONTROL",
     "clave": "SDI-11671",
@@ -17490,8 +17489,8 @@ let misProfesData={
   },
   "KRZYSZTOF ZAREMBA": {
     "link": "https://www.misprofesores.com/profesores/Krzystof-Zaremba_171808",
-    "general": 5.0,
-    "n": 5
+    "general": 5.8333,
+    "n": 6
   },
   "JOSE JAVIER MEDRANO PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Javier-Medrano-P\u00e9rez_117846",
@@ -17665,8 +17664,8 @@ let misProfesData={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.5043,
-    "n": 115
+    "general": 7.5259,
+    "n": 116
   },
   "JUAN SALVADOR MARMOL YAHYA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-M\u00e1rmol-Yahya_169926",
@@ -17840,8 +17839,8 @@ let misProfesData={
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
-    "general": 8.65,
-    "n": 100
+    "general": 8.5941,
+    "n": 101
   },
   "JOSE JULIO MURCIO TREJO": {
     "link": "https://www.misprofesores.com/profesores/Jose-Julio-Murcio-Trejo_188329",
@@ -18205,8 +18204,8 @@ let misProfesData={
   },
   "JOSE GABRIEL MARTINEZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Gabriel-Mart\u00ednez-Gonz\u00e1lez_181679",
-    "general": 8.0,
-    "n": 1
+    "general": 5.0,
+    "n": 2
   },
   "MAURICIO TOMAS ROMERO LONDO\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Mauricio-Tom\u00e1s-Romero-Londo\u00f1o_103678",
@@ -18264,9 +18263,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18714,9 +18713,9 @@ let misProfesData={
     "n": 24
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -18945,8 +18944,8 @@ let misProfesData={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.5455,
-    "n": 11
+    "general": 9.4167,
+    "n": 12
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",
