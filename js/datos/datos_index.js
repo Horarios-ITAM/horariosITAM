@@ -1,4 +1,4 @@
-let actualizado="1769095417819.2024";
+let actualizado="1769180071623.8914";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -1155,7 +1155,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -1170,7 +1170,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -2348,7 +2348,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -5291,7 +5291,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -5354,7 +5354,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA1",
+        "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -5692,7 +5692,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -5915,7 +5915,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA1",
+        "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -8143,7 +8143,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH311",
+        "salon": "RH204",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
@@ -8251,7 +8251,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -8329,7 +8329,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH109",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -10107,6 +10107,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
+        "profesor": "RONY PSHISVA GOLDSMIT",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH111",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -11616,7 +11630,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -11906,7 +11920,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF107",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -11927,7 +11941,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -12658,7 +12672,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-1",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -18127,6 +18141,11 @@ let misProfesData={
     "general": 8.0,
     "n": 20
   },
+  "JAVIER LAYNEZ POTISEK": {
+    "link": "https://www.misprofesores.com/profesores/Javier-Laynez-Potisek_191534",
+    "general": 10.0,
+    "n": 1
+  },
   "DENISE MEJAN GANEM": {
     "link": "https://www.misprofesores.com/profesores/Denise-Mejan-Ganem_140466",
     "general": 10.0,
@@ -18327,6 +18346,11 @@ let misProfesData={
     "general": 0.0,
     "n": 0
   },
+  "RONY PSHISVA GOLDSMIT": {
+    "link": "https://www.misprofesores.com/profesores/Rony-Pshisva-Goldsmit_30957",
+    "general": 8.2222,
+    "n": 9
+  },
   "ARTURO RAMIREZ VERDUGO": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
     "general": 7.3824,
@@ -18474,8 +18498,8 @@ let misProfesData={
   },
   "ANTONIO JESUS DIEZ QUESADA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Jes\u00fas-Diez-Quesada_10816",
-    "general": 8.1754,
-    "n": 114
+    "general": 8.1913,
+    "n": 115
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
@@ -18713,9 +18737,9 @@ let misProfesData={
     "n": 24
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
@@ -18944,8 +18968,8 @@ let misProfesData={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.4167,
-    "n": 12
+    "general": 9.5,
+    "n": 14
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",

@@ -1,4 +1,4 @@
-let actualizado="1769095417872.4006";
+let actualizado="1769180071664.1367";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -1498,7 +1498,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -1513,7 +1513,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-4",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -2547,7 +2547,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHB-4",
+          "salon": "RH311",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -6023,7 +6023,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -6074,7 +6074,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -6155,7 +6155,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA1",
+          "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -6188,7 +6188,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA1",
+          "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -7873,7 +7873,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH311",
+          "salon": "RH204",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
@@ -8670,6 +8670,9 @@ let profesores={
     }
   },
   "JAVIER LAYNEZ POTISEK": {
+    "link": "https://www.misprofesores.com/profesores/Javier-Laynez-Potisek_191534",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "DER-15704-PROCEDIM. CONSTITUCIONALES": [
         {
@@ -8934,7 +8937,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -8951,7 +8954,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH109",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -10922,6 +10925,29 @@ let profesores={
       ]
     }
   },
+  "RONY PSHISVA GOLDSMIT": {
+    "link": "https://www.misprofesores.com/profesores/Rony-Pshisva-Goldsmit_30957",
+    "general": 8.2222,
+    "n": 9,
+    "grupos": {
+      "ECO-14501-ECONOMIA DE LA EMPRESA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-14501-ECONOMIA DE LA EMPRESA",
+          "profesor": "RONY PSHISVA GOLDSMIT",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH111",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "ARTURO RAMIREZ VERDUGO": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Ram\u00edrez-Verdugo_22730",
     "general": 7.3824,
@@ -12160,8 +12186,8 @@ let profesores={
   },
   "ANTONIO JESUS DIEZ QUESADA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Jes\u00fas-Diez-Quesada_10816",
-    "general": 8.1754,
-    "n": 114,
+    "general": 8.1913,
+    "n": 115,
     "grupos": {
       "EGN-17142-PROB. DE LA CIV. CONTEMP., II": [
         {
@@ -12600,7 +12626,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
@@ -12826,7 +12852,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-2",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -12846,7 +12872,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF107",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -13596,7 +13622,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-1",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -14665,9 +14691,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
     "grupos": {
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
@@ -17667,8 +17693,8 @@ let profesores={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.4167,
-    "n": 12,
+    "general": 9.5,
+    "n": 14,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -18601,13 +18627,13 @@ let mejoresPorDepto={
     "JOSE LUIS CABALLERO RODRIGUEZ",
     "ANA MARIA ZORRILLA NORIEGA",
     "EDUARDO ERASMO OSORNIO GARCIA",
+    "JAVIER LAYNEZ POTISEK",
     "DENISE MEJAN GANEM",
     "MARIO MU\u00d1OZ ORTEGA SAAVEDRA",
     "IRVIN ARTURO CASTILLO CESAREO",
     "FRANCO ALBERTO DEL VALLE PRADO",
     "AMRITA BAHRI",
-    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
-    "EDUARDO MAGALLON MURGUIA"
+    "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A"
   ],
   "ECONOMIA": [
     "SOFIA CORONA VERDUZCO",
