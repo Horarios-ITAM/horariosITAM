@@ -8,3 +8,6 @@ update/__pycache__/
 update/creds.json
 update/cache/
 update/data/scrappers/
+
+**/__pycache__/**
+**/*.pyc
