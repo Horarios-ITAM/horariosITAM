@@ -1,6 +1,7 @@
 from graceScrapper import GraceScrapper
 from misProfesScrapper import MisProfesScrapper
 import json
+import os
 import time
 import sys
 from graceScrapperSecure import GraceScrapperSecureArea, courseUrl
@@ -99,17 +100,41 @@ if __name__ == "__main__":
 
     # ------- MISPROFES -------
     # Scrapeamos o cargamos de buffer datos de MisProfes
+    misProfesData = {}
+    cachedMisProfesData = {}
+    if os.path.exists(misProfesBufferFile):
+        try:
+            with open(misProfesBufferFile, "r", encoding="utf-8") as f:
+                cachedMisProfesData = json.loads(f.read())
+                misProfesData = cachedMisProfesData
+                print("Cargado buffer previo de MisProfes.")
+        except (OSError, json.JSONDecodeError) as e:
+            print(f"No se pudo leer buffer de MisProfes ({e}). Se ignorara el buffer.")
+
     if scrappearMisProfes:
-        misProfes = MisProfesScrapper(misProfesUrl)
-        misProfes.scrap()
-        misProfesData = misProfes.match(grace.clases)
+        try:
+            misProfes = MisProfesScrapper(misProfesUrl)
+            misProfes.scrap()
+            misProfesData = misProfes.match(grace.clases)
+        except Exception as e:
+            if cachedMisProfesData:
+                print(
+                    f"No se pudo scrappear MisProfes ({e}). Usando buffer previo."
+                )
+                misProfesData = cachedMisProfesData
+            else:
+                print(
+                    f"No se pudo scrappear MisProfes ({e}) y no hay buffer disponible."
+                )
+                misProfesData = {}
     else:
-        with open(misProfesBufferFile, "r") as f:
-            misProfesData = json.loads(f.read())
-            print("Usando datos guardados de MisProfes")
+        if misProfesData:
+            print("Usando datos guardados de MisProfes.")
+        else:
+            print("MisProfes desactivado y no hay buffer disponible; sin datos de MisProfes.")
 
     # Guardamos buffer de misProfesData
-    with open(misProfesBufferFile, "w+") as f:
+    with open(misProfesBufferFile, "w+", encoding="utf-8") as f:
         f.write(json.dumps(misProfesData))
 
     # --------- INDEX ---------
