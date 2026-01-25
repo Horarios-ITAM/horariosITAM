@@ -1,4 +1,4 @@
-let actualizado="1769180071664.1367";
+let actualizado="1769352237388.1877";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -4639,7 +4639,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH213",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:30"
@@ -4671,7 +4671,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH213",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:30"
@@ -5160,6 +5160,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ],
+      "CON-17100-SEMINAR. DE INVEST. CONTABLE,I": [
+        {
+          "grupo": "003",
+          "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
+          "profesor": "BENITO REVAH MEYOHAS",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -5663,7 +5679,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF104",
+          "salon": "RHSA3",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -15981,58 +15997,6 @@ let profesores={
           "inicio": "07:00",
           "fin": "08:00"
         }
-      ],
-      "MAT-12202-CALCULO VECTORIAL": [
-        {
-          "grupo": "001",
-          "nombre": "MAT-12202-CALCULO VECTORIAL",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI",
-            "VI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "MAT-12210-SIST. DINAMICOS": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-12210-SIST. DINAMICOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "MAT-24210-SISTEMAS DINAMICOS,I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH209",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
       ]
     }
   },
@@ -17013,6 +16977,62 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
+        }
+      ]
+    }
+  },
+  "CONNOR FOX JACKMAN": {
+    "grupos": {
+      "MAT-12202-CALCULO VECTORIAL": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-12202-CALCULO VECTORIAL",
+          "profesor": "CONNOR FOX JACKMAN",
+          "creditos": "9",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "MAT-12210-SIST. DINAMICOS": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-12210-SIST. DINAMICOS",
+          "profesor": "CONNOR FOX JACKMAN",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "MAT-24210-SISTEMAS DINAMICOS,I": [
+        {
+          "grupo": "002",
+          "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
+          "profesor": "CONNOR FOX JACKMAN",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }

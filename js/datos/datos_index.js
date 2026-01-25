@@ -1,4 +1,4 @@
-let actualizado="1769180071623.8914";
+let actualizado="1769352237375.832";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -4160,7 +4160,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH213",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:30"
@@ -4589,7 +4589,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH213",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:30"
@@ -5137,10 +5137,30 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF104",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      }
+    ]
+  },
+  "CON-17100": {
+    "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
+    "clave": "CON-17100",
+    "grupos": [
+      {
+        "grupo": "003",
+        "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
+        "profesor": "BENITO REVAH MEYOHAS",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -15489,7 +15509,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-12202-CALCULO VECTORIAL",
-        "profesor": "",
+        "profesor": "CONNOR FOX JACKMAN",
         "creditos": "9",
         "horario": "11:30-13:00",
         "dias": [
@@ -15526,7 +15546,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-12210-SIST. DINAMICOS",
-        "profesor": "",
+        "profesor": "CONNOR FOX JACKMAN",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -16655,7 +16675,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "MAT-24210-SISTEMAS DINAMICOS,I",
-        "profesor": "",
+        "profesor": "CONNOR FOX JACKMAN",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
