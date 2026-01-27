@@ -1,4 +1,4 @@
-let actualizado="1769439348536.8853";
+let actualizado="1769525906270.084";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -4109,7 +4109,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:30"
@@ -4262,7 +4262,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH112",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
@@ -4277,7 +4277,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH301",
+        "salon": "RHSA2",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -5076,7 +5076,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF102",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -12368,7 +12368,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -12791,7 +12791,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RH312",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
