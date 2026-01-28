@@ -1,4 +1,4 @@
-let actualizado="1769525906270.084";
+let actualizado="1769612251491.269";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -163,7 +163,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH308",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -491,7 +491,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH314",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:30"
@@ -505,7 +505,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH310",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -545,7 +545,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH314",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:30"
@@ -559,7 +559,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH310",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -1226,7 +1226,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH102",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -1241,7 +1241,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH102",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -2116,7 +2116,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH102",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -2173,7 +2173,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH102",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -2251,7 +2251,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH102",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -3673,7 +3673,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHCC202",
+        "salon": "RHCC101",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -4416,21 +4416,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
-      },
-      {
-        "grupo": "007",
-        "nombre": "CON-10100-CONTABILIDAD, I",
-        "profesor": "ELIZABETH GEORGINA URRUTIA LEZAMA",
-        "creditos": "6",
-        "horario": "11:00-12:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH112",
-        "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "12:30"
       },
       {
         "grupo": "009",
@@ -10278,7 +10263,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH204",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -12919,13 +12904,13 @@ let clases={
       }
     ]
   },
-  "IIO-12172": {
-    "nombre": "IIO-12172-TALLER PROGR DE DISPOS DE ING.",
+  "IIO-12172-LAB": {
+    "nombre": "IIO-12172-TALLER PROGR DE DISPOS DE ING.-LAB",
     "clave": "IIO-12172",
     "grupos": [
       {
-        "grupo": "001",
-        "nombre": "IIO-12172-TALLER PROGR DE DISPOS DE ING.",
+        "grupo": "001L",
+        "nombre": "IIO-12172-TALLER PROGR DE DISPOS DE ING.-LAB",
         "profesor": "LUIS EDUARDO URBAN RIVERO",
         "creditos": "2",
         "horario": "16:00-18:00",
@@ -12938,8 +12923,8 @@ let clases={
         "fin": "18:00"
       },
       {
-        "grupo": "002",
-        "nombre": "IIO-12172-TALLER PROGR DE DISPOS DE ING.",
+        "grupo": "002L",
+        "nombre": "IIO-12172-TALLER PROGR DE DISPOS DE ING.-LAB",
         "profesor": "LUIS EDUARDO URBAN RIVERO",
         "creditos": "2",
         "horario": "16:00-18:00",
@@ -12952,6 +12937,11 @@ let clases={
         "fin": "18:00"
       }
     ]
+  },
+  "IIO-12172": {
+    "nombre": "IIO-12172-TALLER PROGR DE DISPOS DE ING.",
+    "clave": "IIO-12172",
+    "grupos": []
   },
   "IIO-12182-LAB": {
     "nombre": "IIO-12182-AUTOMAT. Y ROBOTICA INDUSTRIAL-LAB",
@@ -13461,14 +13451,14 @@ let clases={
         "nombre": "IIO-15175-DISE\u00d1O E IMPRESION 3D POR COMP-LAB",
         "profesor": "JOSE ANTONIO SOUZA JIMENEZ",
         "creditos": "8",
-        "horario": "17:30-19:00",
+        "horario": "17:30-19:30",
         "dias": [
           "MI"
         ],
         "salon": "RHLMINT",
         "campus": "RIO HONDO",
         "inicio": "17:30",
-        "fin": "19:00"
+        "fin": "19:30"
       },
       {
         "grupo": "004L",
@@ -13753,7 +13743,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF101",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "20:00",
         "fin": "21:00"
@@ -14232,7 +14222,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHACERV",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -14402,7 +14392,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:00"
@@ -14570,7 +14560,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -14808,7 +14798,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHACERV",
+        "salon": "RH206",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:00"
