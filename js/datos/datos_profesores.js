@@ -1,4 +1,4 @@
-let actualizado="1769612251504.173";
+let actualizado="1769699173697.2075";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -723,7 +723,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH312",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -739,7 +739,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH312",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -4643,21 +4643,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:30"
-        },
-        {
-          "grupo": "004",
-          "nombre": "CON-10002-CONTABILIDAD INTERMEDIA, I",
-          "profesor": "ANNAPAOLA LLANAS MEJIA",
-          "creditos": "8",
-          "horario": "10:30-12:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH316",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:30"
         }
       ],
       "CON-10111-CONTABILIDAD FINANCIERA I": [
@@ -5271,21 +5256,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        },
-        {
-          "grupo": "003",
-          "nombre": "CON-12110-CONTABILIDAD DE COSTOS P/ING.",
-          "profesor": "YANIRA ROSALBA PETRIDES JIMENEZ",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ],
       "CON-14101-CONTABILIDAD ADMINISTRATIVA,II": [
@@ -5303,21 +5273,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        },
-        {
-          "grupo": "003",
-          "nombre": "CON-14101-CONTABILIDAD ADMINISTRATIVA,II",
-          "profesor": "YANIRA ROSALBA PETRIDES JIMENEZ",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ],
       "CON-14109-CONTABILIDAD GERENCIAL": [
@@ -5728,77 +5683,6 @@ let profesores={
       ]
     }
   },
-  "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
-    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
-    "general": 8.1053,
-    "n": 19,
-    "grupos": {
-      "CSO-10003-SEMINARIO DE ANALISIS POLITICO": [
-        {
-          "grupo": "001",
-          "nombre": "CSO-10003-SEMINARIO DE ANALISIS POLITICO",
-          "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
-          "creditos": "3",
-          "horario": "13:00-14:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ],
-      "ECO-10300-PENSAMIENTO ECONOMICO": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
-          "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
-          "creditos": "3",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ],
-      "ECO-11000-INTRODUCCION A LA ECONOMIA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-11000-INTRODUCCION A LA ECONOMIA",
-          "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
-          "creditos": "3",
-          "horario": "13:00-14:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ],
-      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
-          "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
   "ALEXANDRA URIBE COUGHLAN": {
     "link": "https://www.misprofesores.com/profesores/Alexandra-Uribe-Coughlan_10804",
     "general": 8.1176,
@@ -6134,79 +6018,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "ALBERTO SIMPSER MONDLAK": {
-    "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
-    "general": 6.625,
-    "n": 16,
-    "grupos": {
-      "CSO-10120-MET INV PARA CIENCIAS SOCIALES": [
-        {
-          "grupo": "001",
-          "nombre": "CSO-10120-MET INV PARA CIENCIAS SOCIALES",
-          "profesor": "ALBERTO SIMPSER MONDLAK",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "CSO-16049-TOPICOS DE POL. PUBLICAS II": [
-        {
-          "grupo": "001",
-          "nombre": "CSO-16049-TOPICOS DE POL. PUBLICAS II",
-          "profesor": "ALBERTO SIMPSER MONDLAK",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH212",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "CSO-17041-METODOS DE INVEST. APLICADA": [
-        {
-          "grupo": "001",
-          "nombre": "CSO-17041-METODOS DE INVEST. APLICADA",
-          "profesor": "ALBERTO SIMPSER MONDLAK",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "CSO-19093-SEMINARIO DE INV. POLITICA A-1": [
-        {
-          "grupo": "001",
-          "nombre": "CSO-19093-SEMINARIO DE INV. POLITICA A-1",
-          "profesor": "ALBERTO SIMPSER MONDLAK",
-          "creditos": "9",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH212",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -6693,6 +6504,62 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "ALBERTO SIMPSER MONDLAK": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
+    "general": 6.625,
+    "n": 16,
+    "grupos": {
+      "CSO-16049-TOPICOS DE POL. PUBLICAS II": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-16049-TOPICOS DE POL. PUBLICAS II",
+          "profesor": "ALBERTO SIMPSER MONDLAK",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH212",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "CSO-17041-METODOS DE INVEST. APLICADA": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-17041-METODOS DE INVEST. APLICADA",
+          "profesor": "ALBERTO SIMPSER MONDLAK",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "CSO-19093-SEMINARIO DE INV. POLITICA A-1": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-19093-SEMINARIO DE INV. POLITICA A-1",
+          "profesor": "ALBERTO SIMPSER MONDLAK",
+          "creditos": "9",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH212",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -7599,23 +7466,6 @@ let profesores={
           "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II-LAB",
           "profesor": "MICHAEL CUSTER COOK",
           "creditos": "4",
-          "horario": "08:30-09:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "09:00"
-        }
-      ],
-      "DER-11114-HABILIDADES JURID. GLOBALES II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
-          "profesor": "MICHAEL CUSTER COOK",
-          "creditos": "4",
           "horario": "09:00-10:00",
           "dias": [
             "LU",
@@ -7625,6 +7475,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
+        }
+      ],
+      "DER-11114-HABILIDADES JURID. GLOBALES II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
+          "profesor": "MICHAEL CUSTER COOK",
+          "creditos": "4",
+          "horario": "08:30-09:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "09:00"
         }
       ]
     }
@@ -7856,7 +7723,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHLI1",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -8168,7 +8035,7 @@ let profesores={
           "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
           "profesor": "JORGE LUIS ZAPATA MEJIA",
           "creditos": "6",
-          "horario": "07:00-08:31",
+          "horario": "07:00-08:30",
           "dias": [
             "MA",
             "JU"
@@ -8176,7 +8043,7 @@ let profesores={
           "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "08:31"
+          "fin": "08:30"
         }
       ]
     }
@@ -9451,6 +9318,61 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
+        }
+      ]
+    }
+  },
+  "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
+    "general": 8.1053,
+    "n": 19,
+    "grupos": {
+      "ECO-10300-PENSAMIENTO ECONOMICO": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
+          "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+          "creditos": "3",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ],
+      "ECO-11000-INTRODUCCION A LA ECONOMIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11000-INTRODUCCION A LA ECONOMIA",
+          "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+          "creditos": "3",
+          "horario": "13:00-14:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ],
+      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+          "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
         }
       ]
     }
@@ -14670,308 +14592,6 @@ let profesores={
           "inicio": "09:00",
           "fin": "10:00"
         }
-      ],
-      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
-        {
-          "grupo": "003",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16,
-    "grupos": {
-      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
-        {
-          "grupo": "012",
-          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
-          "creditos": "2",
-          "horario": "13:00-14:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        }
-      ],
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "007",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
-        {
-          "grupo": "012",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
-          "creditos": "2",
-          "horario": "13:00-14:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        }
-      ],
-      "LEN-12711-COMUNIC. ESCRITA PARA DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12711-COMUNIC. ESCRITA PARA DERECHO",
-          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ],
-      "LEN-14208-COMUNICA. ESCRITA PARA DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-14208-COMUNICA. ESCRITA PARA DERECHO",
-          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "JESUS ADRIAN FERNANDEZ REYES": {
-    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
-    "general": 9.8333,
-    "n": 6,
-    "grupos": {
-      "LEN-10135-COM. ESCRITA PARA MAT. APL.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-10135-COM. ESCRITA PARA MAT. APL.",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "18:00-19:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-10135-COM. ESCRITA PARA MAT. APL.",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "19:00-20:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:00"
-        }
-      ],
-      "LEN-10144-COM. ESCRITA PARA ING. MECATR.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-10144-COM. ESCRITA PARA ING. MECATR.",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "18:00-19:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
-        }
-      ],
-      "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "13:00-14:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        }
-      ],
-      "LEN-12719-COMUNIC ESCRITA PARA MATE. APL": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12719-COMUNIC ESCRITA PARA MATE. APL",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "18:00-19:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-12719-COMUNIC ESCRITA PARA MATE. APL",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "19:00-20:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:00"
-        }
-      ],
-      "LEN-12725-COM. ESCRITA PARA ING MECATRO.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12725-COM. ESCRITA PARA ING MECATRO.",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "18:00-19:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
-        }
-      ],
-      "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "13:00-14:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        }
-      ]
-    }
-  },
-  "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Antonia-Rodr\u00edguez-Abascal_190393",
-    "general": 10.0,
-    "n": 1,
-    "grupos": {
-      "LEN-10141-COM. ESCRITA PARA ING. NEGOC.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-10141-COM. ESCRITA PARA ING. NEGOC.",
-          "profesor": "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ],
-      "LEN-12726-COM. ESCRITA PARA ING EN NEGOC": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12726-COM. ESCRITA PARA ING EN NEGOC",
-          "profesor": "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
       ]
     }
   },
@@ -15056,179 +14676,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "LEN-15358-COMUNIC. ESCRITA PARA ACTUARIA",
-          "profesor": "FLORENCIA GRACIELA ZOZAYA BECERRA",
-          "creditos": "2",
-          "horario": "19:00-20:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:00"
-        }
-      ]
-    }
-  },
-  "DIANA LUCIA ALVAREZ MACIAS": {
-    "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.2222,
-    "n": 18,
-    "grupos": {
-      "LEN-10142-COM. ESCRITA PARA ING. COMP.": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-10142-COM. ESCRITA PARA ING. COMP.",
-          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
-          "creditos": "2",
-          "horario": "20:00-21:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "20:00",
-          "fin": "21:00"
-        }
-      ],
-      "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12722-COM. ESCRITA CIENCIA DE DATOS",
-          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12724-COM. ESCRITA PARA ING EN COMP.": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12724-COM. ESCRITA PARA ING EN COMP.",
-          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
-          "creditos": "2",
-          "horario": "20:00-21:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "PF101",
-          "campus": "RIO HONDO",
-          "inicio": "20:00",
-          "fin": "21:00"
-        }
-      ],
-      "LEN-12754-COMUNIC PROFESIONAL PARA ADMON": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12754-COMUNIC PROFESIONAL PARA ADMON",
-          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH202",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ],
-      "LEN-12759-COMUNIC. PROFES. PARA MAT. APL": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12759-COMUNIC. PROFES. PARA MAT. APL",
-          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
-          "creditos": "2",
-          "horario": "19:00-20:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH202",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:00"
-        }
-      ],
-      "LEN-12762-COMUN. PROFE. CIENCIA DE DATOS": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12762-COMUN. PROFE. CIENCIA DE DATOS",
-          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
-          "creditos": "2",
-          "horario": "17:00-18:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH206",
-          "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "18:00"
-        }
-      ]
-    }
-  },
-  "GABRIEL ASTEY WOOD": {
-    "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
-    "general": 8.9592,
-    "n": 49,
-    "grupos": {
-      "LEN-12002-COM ESCRITA PARA C.P.Y EST FIN": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12002-COM ESCRITA PARA C.P.Y EST FIN",
-          "profesor": "GABRIEL ASTEY WOOD",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        }
-      ],
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "008",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "GABRIEL ASTEY WOOD",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ],
-      "LEN-12716-COMUNIC ESCRITA PARA C.P Y E.F": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12716-COMUNIC ESCRITA PARA C.P Y E.F",
-          "profesor": "GABRIEL ASTEY WOOD",
-          "creditos": "2",
-          "horario": "09:00-10:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
         }
       ]
     }
@@ -15343,6 +14790,102 @@ let profesores={
       ]
     }
   },
+  "CONRADO JOSE ARRANZ MINGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "007",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "012",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+          "creditos": "2",
+          "horario": "13:00-14:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
+      ],
+      "LEN-12711-COMUNIC. ESCRITA PARA DERECHO": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12711-COMUNIC. ESCRITA PARA DERECHO",
+          "profesor": "CONRADO JOSE ARRANZ MINGUEZ",
+          "creditos": "2",
+          "horario": "09:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "GABRIEL ASTEY WOOD": {
+    "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
+    "general": 8.9592,
+    "n": 49,
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "008",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "GABRIEL ASTEY WOOD",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ],
+      "LEN-12716-COMUNIC ESCRITA PARA C.P Y E.F": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12716-COMUNIC ESCRITA PARA C.P Y E.F",
+          "profesor": "GABRIEL ASTEY WOOD",
+          "creditos": "2",
+          "horario": "09:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH210",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "LUCIA PI CHOLULA": {
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
     "general": 7.4286,
@@ -15438,36 +14981,6 @@ let profesores={
         {
           "grupo": "004",
           "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ],
-      "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-15532-COMUN.ESCRITA PARA DIR. FINANC",
           "profesor": "MARCELA RABADAN GALLARDO",
           "creditos": "2",
           "horario": "10:00-11:00",
@@ -15698,6 +15211,105 @@ let profesores={
       ]
     }
   },
+  "JESUS ADRIAN FERNANDEZ REYES": {
+    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
+    "general": 9.8333,
+    "n": 6,
+    "grupos": {
+      "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "horario": "13:00-14:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
+      ],
+      "LEN-12719-COMUNIC ESCRITA PARA MATE. APL": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12719-COMUNIC ESCRITA PARA MATE. APL",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "horario": "18:00-19:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "LEN-12719-COMUNIC ESCRITA PARA MATE. APL",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "horario": "19:00-20:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:00"
+        }
+      ],
+      "LEN-12725-COM. ESCRITA PARA ING MECATRO.": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12725-COM. ESCRITA PARA ING MECATRO.",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "horario": "18:00-19:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:00"
+        }
+      ],
+      "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
+          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ]
+    }
+  },
   "RAUL ENRIQUE BRAVO ADUNA": {
     "grupos": {
       "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
@@ -15715,21 +15327,115 @@ let profesores={
           "inicio": "10:00",
           "fin": "11:00"
         }
-      ],
-      "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM": [
+      ]
+    }
+  },
+  "DIANA LUCIA ALVAREZ MACIAS": {
+    "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
+    "general": 9.2222,
+    "n": 18,
+    "grupos": {
+      "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
         {
-          "grupo": "004",
-          "nombre": "LEN-17103-COMUNICAC. ESCRITA PARA ECONOM",
-          "profesor": "RAUL ENRIQUE BRAVO ADUNA",
+          "grupo": "001",
+          "nombre": "LEN-12722-COM. ESCRITA CIENCIA DE DATOS",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
           "creditos": "2",
-          "horario": "10:00-11:00",
+          "horario": "12:00-13:00",
           "dias": [
-            "MI"
+            "JU"
           ],
-          "salon": "RH211",
+          "salon": "RH213",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12724-COM. ESCRITA PARA ING EN COMP.": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12724-COM. ESCRITA PARA ING EN COMP.",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "2",
+          "horario": "20:00-21:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF101",
+          "campus": "RIO HONDO",
+          "inicio": "20:00",
+          "fin": "21:00"
+        }
+      ],
+      "LEN-12754-COMUNIC PROFESIONAL PARA ADMON": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12754-COMUNIC PROFESIONAL PARA ADMON",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "2",
+          "horario": "09:00-10:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        }
+      ],
+      "LEN-12759-COMUNIC. PROFES. PARA MAT. APL": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12759-COMUNIC. PROFES. PARA MAT. APL",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "2",
+          "horario": "19:00-20:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:00"
+        }
+      ],
+      "LEN-12762-COMUN. PROFE. CIENCIA DE DATOS": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12762-COMUN. PROFE. CIENCIA DE DATOS",
+          "profesor": "DIANA LUCIA ALVAREZ MACIAS",
+          "creditos": "2",
+          "horario": "17:00-18:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "17:00",
+          "fin": "18:00"
+        }
+      ]
+    }
+  },
+  "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Antonia-Rodr\u00edguez-Abascal_190393",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "LEN-12726-COM. ESCRITA PARA ING EN NEGOC": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12726-COM. ESCRITA PARA ING EN NEGOC",
+          "profesor": "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
+          "creditos": "2",
+          "horario": "09:00-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -15963,13 +15669,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "HUGO CORZO ZANABRIA": {
     "grupos": {
       "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
         {
           "grupo": "002",
           "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
+          "profesor": "HUGO CORZO ZANABRIA",
           "creditos": "2",
           "horario": "07:00-08:00",
           "dias": [
@@ -16621,23 +16327,6 @@ let profesores={
           "inicio": "08:30",
           "fin": "10:00"
         }
-      ],
-      "MAT-14301-ALGEBRA SUPERIOR, II": [
-        {
-          "grupo": "003",
-          "nombre": "MAT-14301-ALGEBRA SUPERIOR, II",
-          "profesor": "PABLO CASTA\u00d1EDA RIVERA",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
       ]
     }
   },
@@ -16800,23 +16489,6 @@ let profesores={
         {
           "grupo": "004",
           "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-          "profesor": "MAIRA MADRIZ MENDOZA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH307",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "MAT-14300-ALGEBRA SUPERIOR, I": [
-        {
-          "grupo": "004",
-          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
           "profesor": "MAIRA MADRIZ MENDOZA",
           "creditos": "6",
           "horario": "11:30-13:00",
@@ -17131,23 +16803,6 @@ let profesores={
         {
           "grupo": "002",
           "nombre": "MAT-14280-PENSAMIENTO MATEMATICO",
-          "profesor": "LEOBARDO FERNANDEZ ROMAN",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHSA4",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "MAT-14300-ALGEBRA SUPERIOR, I": [
-        {
-          "grupo": "002",
-          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
           "profesor": "LEOBARDO FERNANDEZ ROMAN",
           "creditos": "6",
           "horario": "07:00-08:30",
@@ -17926,23 +17581,6 @@ let profesores={
           "fin": "19:30"
         }
       ],
-      "MAT-14300-ALGEBRA SUPERIOR, I": [
-        {
-          "grupo": "006",
-          "nombre": "MAT-14300-ALGEBRA SUPERIOR, I",
-          "profesor": "CONCEPCION RUIZ RUIZ FUNES",
-          "creditos": "6",
-          "horario": "16:30-18:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH107",
-          "campus": "RIO HONDO",
-          "inicio": "16:30",
-          "fin": "18:00"
-        }
-      ],
       "MAT-14301-ALGEBRA SUPERIOR, II": [
         {
           "grupo": "006",
@@ -18622,9 +18260,9 @@ let mejoresPorDepto={
     "ADRIANA ALFARO ALTAMIRANO",
     "ERIC MAGAR MEURS",
     "ALEXANDRA URIBE COUGHLAN",
-    "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
     "ADRIAN LUCARDI",
-    "JUAN PABLO MICOZZI"
+    "JUAN PABLO MICOZZI",
+    "ALBERTO SIMPSER MONDLAK"
   ],
   "DERECHO": [
     "JOSE LUIS CABALLERO RODRIGUEZ",
@@ -18699,8 +18337,8 @@ let mejoresPorDepto={
     "THOMAS MARTIN RUDOLF"
   ],
   "LENGUAS (LEN)": [
-    "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
     "SAMARI PAULINA GARCIA Y COLOME GONGORA",
+    "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
     "FEDERICO VALLE OCHOA",
     "MAURICIO HERNANDEZ CERVANTES",
     "JESUS ADRIAN FERNANDEZ REYES",
