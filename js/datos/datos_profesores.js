@@ -1,4 +1,4 @@
-let actualizado="1769699173697.2075";
+let actualizado="1769785511168.9324";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -172,7 +172,7 @@ let profesores={
           "dias": [
             "SA"
           ],
-          "salon": "RH103",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "12:00"
@@ -2776,6 +2776,76 @@ let profesores={
       ]
     }
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19,
+    "grupos": {
+      "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "0",
+          "horario": "02:30-04:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "02:30",
+          "fin": "04:00"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "012",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH208",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.1915,
@@ -3061,7 +3131,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH201",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
@@ -4622,7 +4692,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHLI1",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "11:00"
@@ -13691,78 +13761,6 @@ let profesores={
       ]
     }
   },
-  "MARIA LAURA BATTAGLIOLA": {
-    "grupos": {
-      "EST-21104-FUNDAMENTOS DE ECONOMETRIA": [
-        {
-          "grupo": "001",
-          "nombre": "EST-21104-FUNDAMENTOS DE ECONOMETRIA",
-          "profesor": "MARIA LAURA BATTAGLIOLA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "EST-24105-ESTADISTICA APLICADA, II": [
-        {
-          "grupo": "001",
-          "nombre": "EST-24105-ESTADISTICA APLICADA, II",
-          "profesor": "MARIA LAURA BATTAGLIOLA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "EST-24107-SIMULACION": [
-        {
-          "grupo": "001",
-          "nombre": "EST-24107-SIMULACION",
-          "profesor": "MARIA LAURA BATTAGLIOLA",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "EST-24124-METODOS LINEALES": [
-        {
-          "grupo": "001",
-          "nombre": "EST-24124-METODOS LINEALES",
-          "profesor": "MARIA LAURA BATTAGLIOLA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
   "ENRIQUE CUERVO GUZMAN": {
     "link": "https://www.misprofesores.com/profesores/Enrique-Cuervo_185195",
     "general": 7.5,
@@ -13817,6 +13815,61 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "20:30",
           "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "MARIA LAURA BATTAGLIOLA": {
+    "grupos": {
+      "EST-24105-ESTADISTICA APLICADA, II": [
+        {
+          "grupo": "001",
+          "nombre": "EST-24105-ESTADISTICA APLICADA, II",
+          "profesor": "MARIA LAURA BATTAGLIOLA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "EST-24107-SIMULACION": [
+        {
+          "grupo": "001",
+          "nombre": "EST-24107-SIMULACION",
+          "profesor": "MARIA LAURA BATTAGLIOLA",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "EST-24124-METODOS LINEALES": [
+        {
+          "grupo": "001",
+          "nombre": "EST-24124-METODOS LINEALES",
+          "profesor": "MARIA LAURA BATTAGLIOLA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ]
     }
@@ -14727,7 +14780,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RH305",
+          "salon": "RHACERV",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:00"
@@ -14941,60 +14994,6 @@ let profesores={
       ]
     }
   },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19,
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "012",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH208",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ]
-    }
-  },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
     "general": 7.1875,
@@ -15084,8 +15083,8 @@ let profesores={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.0417,
-    "n": 24,
+    "general": 8.0,
+    "n": 25,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18223,6 +18222,7 @@ let mejoresPorDepto={
     "MARGARITA TARRAGONA SAEZ"
   ],
   "LENGUAS (CLE)": [
+    "MARCELA RABADAN GALLARDO",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "NORMA ARACELY AVILA MIRANDA",
     "ERIKA DEYANIRA BELTRAN TRENADO",
@@ -18342,11 +18342,11 @@ let mejoresPorDepto={
     "FEDERICO VALLE OCHOA",
     "MAURICIO HERNANDEZ CERVANTES",
     "JESUS ADRIAN FERNANDEZ REYES",
-    "MARCELA RABADAN GALLARDO",
     "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
-    "GABRIEL ASTEY WOOD"
+    "GABRIEL ASTEY WOOD",
+    "FEDERICO AUGUSTO GUZMAN RUBIO"
   ],
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",

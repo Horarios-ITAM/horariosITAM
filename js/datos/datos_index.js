@@ -1,4 +1,4 @@
-let actualizado="1769699173683.4526";
+let actualizado="1769785511156.3347";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -429,7 +429,7 @@ let clases={
         "dias": [
           "SA"
         ],
-        "salon": "RH103",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "12:00"
@@ -2545,6 +2545,31 @@ let clases={
       }
     ]
   },
+  "CLE-10603-LAB": {
+    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+    "clave": "CLE-10603",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+        "profesor": "MARCELA RABADAN GALLARDO",
+        "creditos": "0",
+        "horario": "02:30-04:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "02:30",
+        "fin": "04:00"
+      }
+    ]
+  },
+  "CLE-10603": {
+    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM",
+    "clave": "CLE-10603",
+    "grupos": []
+  },
   "COM-11102-LAB": {
     "nombre": "COM-11102-ESTRUCTURAS DE DATOS-LAB",
     "clave": "COM-11102",
@@ -2997,7 +3022,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH201",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
@@ -4124,7 +4149,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHLI1",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "11:00"
@@ -12447,21 +12472,6 @@ let clases={
     "clave": "EST-21104",
     "grupos": [
       {
-        "grupo": "001",
-        "nombre": "EST-21104-FUNDAMENTOS DE ECONOMETRIA",
-        "profesor": "MARIA LAURA BATTAGLIOLA",
-        "creditos": "6",
-        "horario": "11:30-13:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH311",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
-      },
-      {
         "grupo": "003",
         "nombre": "EST-21104-FUNDAMENTOS DE ECONOMETRIA",
         "profesor": "ENRIQUE CUERVO GUZMAN",
@@ -14184,7 +14194,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RH305",
+        "salon": "RHACERV",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:00"
@@ -17294,6 +17304,11 @@ let misProfesData={
     "general": 10.0,
     "n": 1
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19
+  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.1915,
@@ -17539,11 +17554,6 @@ let misProfesData={
     "general": 8.1481,
     "n": 27
   },
-  "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
-    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
-    "general": 8.1053,
-    "n": 19
-  },
   "ALEXANDRA URIBE COUGHLAN": {
     "link": "https://www.misprofesores.com/profesores/Alexandra-Uribe-Coughlan_10804",
     "general": 8.1176,
@@ -17569,11 +17579,6 @@ let misProfesData={
     "general": 7.8,
     "n": 15
   },
-  "ALBERTO SIMPSER MONDLAK": {
-    "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
-    "general": 6.625,
-    "n": 16
-  },
   "FELIPE CURCO COBOS": {
     "link": "https://www.misprofesores.com/profesores/Felipe-Curco-Cobos_10798",
     "general": 9.2763,
@@ -17598,6 +17603,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
     "general": 9.0,
     "n": 3
+  },
+  "ALBERTO SIMPSER MONDLAK": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Simpser-Mondlak_67047",
+    "general": 6.625,
+    "n": 16
   },
   "TANIA GABRIELA RODRIGUEZ HUERTA": {
     "link": "https://www.misprofesores.com/profesores/Tania-Gabriela-Rodr\u00edguez-Huerta_10785",
@@ -17848,6 +17858,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Cristhian-Seminario-Amez_164953",
     "general": 7.1,
     "n": 10
+  },
+  "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
+    "general": 8.1053,
+    "n": 19
   },
   "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
@@ -18374,35 +18389,10 @@ let misProfesData={
     "general": 8.9583,
     "n": 24
   },
-  "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16
-  },
-  "JESUS ADRIAN FERNANDEZ REYES": {
-    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
-    "general": 9.8333,
-    "n": 6
-  },
-  "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Antonia-Rodr\u00edguez-Abascal_190393",
-    "general": 10.0,
-    "n": 1
-  },
   "FLORENCIA GRACIELA ZOZAYA BECERRA": {
     "link": "https://www.misprofesores.com/profesores/Florencia-Zozaya-Becerra_120641",
     "general": 7.125,
     "n": 8
-  },
-  "DIANA LUCIA ALVAREZ MACIAS": {
-    "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.2222,
-    "n": 18
-  },
-  "GABRIEL ASTEY WOOD": {
-    "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
-    "general": 8.9592,
-    "n": 49
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
@@ -18414,15 +18404,20 @@ let misProfesData={
     "general": 6.1,
     "n": 20
   },
+  "CONRADO JOSE ARRANZ MINGUEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
+  },
+  "GABRIEL ASTEY WOOD": {
+    "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
+    "general": 8.9592,
+    "n": 49
+  },
   "LUCIA PI CHOLULA": {
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
     "general": 7.4286,
     "n": 21
-  },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19
   },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
@@ -18431,8 +18426,8 @@ let misProfesData={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.0417,
-    "n": 24
+    "general": 8.0,
+    "n": 25
   },
   "ROSA MARGARITA GALAN VELEZ": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
@@ -18441,6 +18436,21 @@ let misProfesData={
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
+    "general": 10.0,
+    "n": 1
+  },
+  "JESUS ADRIAN FERNANDEZ REYES": {
+    "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
+    "general": 9.8333,
+    "n": 6
+  },
+  "DIANA LUCIA ALVAREZ MACIAS": {
+    "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
+    "general": 9.2222,
+    "n": 18
+  },
+  "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Antonia-Rodr\u00edguez-Abascal_190393",
     "general": 10.0,
     "n": 1
   },
