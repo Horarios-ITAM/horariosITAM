@@ -1,4 +1,4 @@
-let actualizado="1769871186397.3726";
+let actualizado="1770045010971.5872";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -1354,8 +1354,8 @@ let profesores={
   },
   "MARIA DE LA CRUZ TORRES MANTECON": {
     "link": "https://www.misprofesores.com/profesores/Marycruz-Torres-Mantecon_20290",
-    "general": 7.275,
-    "n": 40,
+    "general": 7.3171,
+    "n": 41,
     "grupos": {
       "ADM-14401-COMPORTAMIENTO HUMANO, I": [
         {
@@ -13044,9 +13044,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14844,9 +14844,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18321,8 +18321,8 @@ let mejoresPorDepto={
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
-    "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "MARTIN MAGRIS",
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
