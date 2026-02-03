@@ -1,4 +1,4 @@
-let actualizado="1770045010959.0344";
+let actualizado="1770131563310.509";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -13916,7 +13916,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHACERV",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
