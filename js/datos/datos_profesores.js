@@ -1,4 +1,4 @@
-let actualizado="1770131563325.951";
+let actualizado="1770217842548.9421";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -4920,7 +4920,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHLI1",
+          "salon": "PF108",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
@@ -4937,7 +4937,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHLI1",
+          "salon": "PF108",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
@@ -9849,23 +9849,6 @@ let profesores={
         {
           "grupo": "005",
           "nombre": "ECO-11010-PRINCIPIOS DE MICROECONOMIA",
-          "profesor": "CHRISTIANE FABREGA CHIMALI",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
-      "ECO-11101-ECONOMIA, I": [
-        {
-          "grupo": "005",
-          "nombre": "ECO-11101-ECONOMIA, I",
           "profesor": "CHRISTIANE FABREGA CHIMALI",
           "creditos": "6",
           "horario": "10:00-11:30",
@@ -14796,7 +14779,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHASHAK",
+          "salon": "RHACERV",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:00"
@@ -14844,9 +14827,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15156,7 +15139,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHACERV",
+          "salon": "RH305",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"

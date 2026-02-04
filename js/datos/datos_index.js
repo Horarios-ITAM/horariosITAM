@@ -1,4 +1,4 @@
-let actualizado="1770131563310.509";
+let actualizado="1770217842536.4822";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -4251,7 +4251,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHLI1",
+        "salon": "PF108",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -4665,7 +4665,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHLI1",
+        "salon": "PF108",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -9183,21 +9183,6 @@ let clases={
           "JU"
         ],
         "salon": "RH101",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
-      },
-      {
-        "grupo": "005",
-        "nombre": "ECO-11101-ECONOMIA, I",
-        "profesor": "CHRISTIANE FABREGA CHIMALI",
-        "creditos": "6",
-        "horario": "10:00-11:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -14700,7 +14685,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHACERV",
+        "salon": "RH305",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
@@ -14760,7 +14745,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHASHAK",
+        "salon": "RHACERV",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:00"
@@ -18405,9 +18390,9 @@ let misProfesData={
     "n": 20
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
