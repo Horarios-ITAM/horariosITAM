@@ -1,4 +1,4 @@
-let actualizado="1770304328877.5337";
+let actualizado="1770390625924.7134";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -3564,11 +3564,10 @@ let clases={
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
-          "LU",
           "MI"
         ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
+        "salon": "",
+        "campus": "",
         "inicio": "16:00",
         "fin": "17:30"
       }
@@ -17396,8 +17395,8 @@ let misProfesData={
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
-    "general": 8.5294,
-    "n": 17
+    "general": 8.6111,
+    "n": 18
   },
   "WILMER EFREN PEREIRA GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Wilmer-Efr\u00e9n-Pereira-Gonz\u00e1lez_142587",
@@ -17920,9 +17919,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18146,8 +18145,8 @@ let misProfesData={
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
-    "general": 8.1625,
-    "n": 80
+    "general": 8.1852,
+    "n": 81
   },
   "ALFREDO VILLAFRANCA QUINTO": {
     "link": "https://www.misprofesores.com/profesores/Alfredo-Villafranca-Quinto_10811",
@@ -18390,9 +18389,9 @@ let misProfesData={
     "n": 20
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
@@ -18586,8 +18585,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL MOTA GAYTAN": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Mota-Gayt\u00e1n_72106",
-    "general": 7.6923,
-    "n": 39
+    "general": 7.75,
+    "n": 40
   },
   "JOSE PABLO OLIVARES PRETELIN": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pablo-Olivares-Pretelin_78777",
