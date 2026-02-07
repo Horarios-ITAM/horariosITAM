@@ -1,4 +1,4 @@
-let actualizado="1770390625924.7134";
+let actualizado="1770476085336.7834";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -6073,7 +6073,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -17919,9 +17919,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18020,8 +18020,8 @@ let misProfesData={
   },
   "MICHELLE AVATANEO TRUQUI": {
     "link": "https://www.misprofesores.com/profesores/Michelle-Avataneo_189335",
-    "general": 8.6667,
-    "n": 3
+    "general": 9.0,
+    "n": 4
   },
   "VALERIA ZEPEDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Valeria-Zepeda-Trejo_17590",

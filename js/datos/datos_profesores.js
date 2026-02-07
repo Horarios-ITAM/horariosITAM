@@ -1,4 +1,4 @@
-let actualizado="1770390625939.9631";
+let actualizado="1770476085351.0212";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -6836,7 +6836,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -10228,9 +10228,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -11172,8 +11172,8 @@ let profesores={
   },
   "MICHELLE AVATANEO TRUQUI": {
     "link": "https://www.misprofesores.com/profesores/Michelle-Avataneo_189335",
-    "general": 8.6667,
-    "n": 3,
+    "general": 9.0,
+    "n": 4,
     "grupos": {
       "ECO-21104-ECONOMIA IV": [
         {
@@ -18263,12 +18263,12 @@ let mejoresPorDepto={
     "BARBARA CARRILLO FLORES",
     "MENEY DE LA PEZA GANDARA",
     "MIGUEL MESSMACHER LINARTAS",
+    "MICHELLE AVATANEO TRUQUI",
     "CLAUDIA ABURTO RANCA\u00d1O",
     "CHRISTIANE FABREGA CHIMALI",
-    "MICHELLE AVATANEO TRUQUI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",
