@@ -1,4 +1,4 @@
-let actualizado="1770651177766.322";
+let actualizado="1770738284346.564";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -4205,8 +4205,8 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "PF102",
+          "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
         }
@@ -8436,7 +8436,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH102",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "20:00"
@@ -8452,7 +8452,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH102",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "20:00"
@@ -14826,9 +14826,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {

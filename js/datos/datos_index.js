@@ -1,4 +1,4 @@
-let actualizado="1770651177752.381";
+let actualizado="1770738284333.062";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -3566,8 +3566,8 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "PF102",
+        "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
       }
@@ -7627,7 +7627,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH102",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "20:00"
@@ -7647,7 +7647,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH102",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "20:00"
@@ -18389,9 +18389,9 @@ let misProfesData={
     "n": 20
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
