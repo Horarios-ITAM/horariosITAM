@@ -1,4 +1,4 @@
-let actualizado="1770738284346.564";
+let actualizado="1770824134329.1821";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -3991,7 +3991,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF104",
+          "salon": "RHPACE",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -5703,7 +5703,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHPACE",
+          "salon": "RHLMINT",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -15342,7 +15342,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "PF101",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "20:00",
           "fin": "21:00"
@@ -15757,7 +15757,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHACERV",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:00"
