@@ -1,4 +1,4 @@
-let actualizado="1770824134315.8728";
+let actualizado="1770909396689.9895";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18575,8 +18575,8 @@ let misProfesData={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.307,
-    "n": 114
+    "general": 6.3391,
+    "n": 115
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",

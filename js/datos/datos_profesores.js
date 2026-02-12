@@ -1,4 +1,4 @@
-let actualizado="1770824134329.1821";
+let actualizado="1770909396702.6052";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17144,8 +17144,8 @@ let profesores={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.307,
-    "n": 114,
+    "general": 6.3391,
+    "n": 115,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
