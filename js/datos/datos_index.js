@@ -1,4 +1,4 @@
-let actualizado="1770909396689.9895";
+let actualizado="1770995465251.6724";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17905,8 +17905,8 @@ let misProfesData={
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 8.6429,
-    "n": 14
+    "general": 8.7333,
+    "n": 15
   },
   "BARBARA CARRILLO FLORES": {
     "link": "https://www.misprofesores.com/profesores/B\u00e1rbara-Carrillo_59547",
@@ -17919,9 +17919,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18185,8 +18185,8 @@ let misProfesData={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 8.3636,
-    "n": 22
+    "general": 8.1739,
+    "n": 23
   },
   "MARIA JOSE URZUA VALVERDE": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Jos\u00e9-Urz\u00faa_83080",

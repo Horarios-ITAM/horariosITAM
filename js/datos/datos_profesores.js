@@ -1,4 +1,4 @@
-let actualizado="1770909396702.6052";
+let actualizado="1770995465265.055";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -10042,8 +10042,8 @@ let profesores={
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 8.6429,
-    "n": 14,
+    "general": 8.7333,
+    "n": 15,
     "grupos": {
       "ECO-11010-PRINCIPIOS DE MICROECONOMIA": [
         {
@@ -10228,9 +10228,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -12503,8 +12503,8 @@ let profesores={
   },
   "ISABEL FLORES ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Isabel-Flores-Alcazar_67738",
-    "general": 8.3636,
-    "n": 22,
+    "general": 8.1739,
+    "n": 23,
     "grupos": {
       "EIN-11101-INT. A LAS R. INTERNACIONALES": [
         {
@@ -18268,7 +18268,7 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",
@@ -18286,8 +18286,8 @@ let mejoresPorDepto={
     "PABLO KALMANOVITZ GONZALEZ",
     "MARIA JOSE URZUA VALVERDE",
     "HAZEL BLACKMORE SANCHEZ",
-    "ISABEL FLORES ALCAZAR",
     "RODRIGO CHACON AGUIRRE",
+    "ISABEL FLORES ALCAZAR",
     "NATALIA SALTALAMACCHIA ZICCARDI",
     "GABRIEL GOODLIFFE",
     "FILIBERTO VICTOR KERBER PALMA",
