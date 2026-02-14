@@ -1,4 +1,4 @@
-let actualizado="1770995465265.055";
+let actualizado="1771080929517.8552";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -10228,9 +10228,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -18268,7 +18268,7 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES"
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",
