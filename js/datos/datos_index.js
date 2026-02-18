@@ -1,4 +1,4 @@
-let actualizado="1771341309418.3308";
+let actualizado="1771427675922.121";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -14312,7 +14312,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:00"
@@ -14326,7 +14326,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH302",
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "09:00"
@@ -14482,7 +14482,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:00"
@@ -17919,9 +17919,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",

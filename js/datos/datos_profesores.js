@@ -1,4 +1,4 @@
-let actualizado="1771341309430.9492";
+let actualizado="1771427675934.6782";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -10228,9 +10228,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -15459,7 +15459,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
@@ -15473,7 +15473,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH302",
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
@@ -15662,7 +15662,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH304",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:00"
@@ -18268,7 +18268,7 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES"
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",
