@@ -1,4 +1,4 @@
-let actualizado="1772981548222.407";
+let actualizado="1773070393892.2383";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -13431,8 +13431,8 @@ let profesores={
   },
   "ERNESTO JUVENAL BARRIOS ZAMUDIO": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Juvenal-Barrios-Zamudio_10689",
-    "general": 6.4681,
-    "n": 94,
+    "general": 6.4947,
+    "n": 95,
     "grupos": {
       "EST-14101-CALCULO DE PROBABILIDADES.,I": [
         {
