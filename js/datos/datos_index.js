@@ -1,4 +1,4 @@
-let actualizado="1773155934124.7244";
+let actualizado="1773242083830.0972";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17919,9 +17919,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18275,8 +18275,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL MENDEZ ANTONIO": {
     "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
-    "general": 5.7821,
-    "n": 78
+    "general": 5.7342,
+    "n": 79
   },
   "VICTOR MANUEL GUERRERO GUZMAN": {
     "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Guerrero-Guzm\u00e1n_10688",
