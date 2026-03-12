@@ -1,4 +1,4 @@
-let actualizado="1773242083843.5303";
+let actualizado="1773328667903.059";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -4215,8 +4215,8 @@ let profesores={
   },
   "MARCO ANTONIO MORALES AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Marco-Antonio-Morales-Aguirre_10872",
-    "general": 4.6,
-    "n": 25,
+    "general": 4.8077,
+    "n": 26,
     "grupos": {
       "COM-16306-RAZONAMIENTO ALGORITMICO": [
         {
@@ -10228,9 +10228,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -11121,7 +11121,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH317",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -14826,9 +14826,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17332,8 +17332,8 @@ let profesores={
   },
   "JUAN SALVADOR GARZA LEDESMA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-Garza-Ledesma_181095",
-    "general": 9.5625,
-    "n": 16,
+    "general": 9.5882,
+    "n": 17,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {
@@ -18268,7 +18268,7 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES"
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",
