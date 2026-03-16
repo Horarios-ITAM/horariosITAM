@@ -1,4 +1,4 @@
-let actualizado="1773586705084.961";
+let actualizado="1773675656142.6636";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -13026,9 +13026,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -18303,8 +18303,8 @@ let mejoresPorDepto={
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
-    "MARTIN MAGRIS",
-    "ENRIQUE CUERVO GUZMAN"
+    "ENRIQUE CUERVO GUZMAN",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
