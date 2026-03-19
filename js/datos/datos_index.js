@@ -1,4 +1,4 @@
-let actualizado="1773849027745.9434";
+let actualizado="1773933271269.5305";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -433,6 +433,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "12:00"
+      }
+    ]
+  },
+  "ACT-25361": {
+    "nombre": "ACT-25361-TEMAS SELECTOS DE ACTUARIA II",
+    "clave": "ACT-25361",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ACT-25361-TEMAS SELECTOS DE ACTUARIA II",
+        "profesor": "JORGE FRANCISCO DE LA VEGA GONGORA",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "PF103",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -17123,6 +17143,11 @@ let misProfesData={
     "general": 6.0,
     "n": 1
   },
+  "JORGE FRANCISCO DE LA VEGA GONGORA": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-De-la-Vega-Gongora_100220",
+    "general": 7.6,
+    "n": 5
+  },
   "CLAUDIA NOEMI GONZALEZ BRAMBILA": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Noem\u00ed-Gonz\u00e1lez-Brambila_10719",
     "general": 7.5556,
@@ -18238,11 +18263,6 @@ let misProfesData={
     "general": 9.5,
     "n": 2
   },
-  "JORGE FRANCISCO DE LA VEGA GONGORA": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-De-la-Vega-Gongora_100220",
-    "general": 7.6,
-    "n": 5
-  },
   "GUSTAVO ALVAREZ PELAEZ": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-\u00c1lvarez-Pelaez_110916",
     "general": 9.3333,
@@ -18560,8 +18580,8 @@ let misProfesData={
   },
   "HERICA SANCHEZ LARIOS": {
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
-    "general": 7.75,
-    "n": 24
+    "general": 7.52,
+    "n": 25
   },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",

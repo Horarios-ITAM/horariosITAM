@@ -1,4 +1,4 @@
-let actualizado="1773849027759.2983";
+let actualizado="1773933271282.5266";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -536,6 +536,46 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
+        }
+      ]
+    }
+  },
+  "JORGE FRANCISCO DE LA VEGA GONGORA": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-De-la-Vega-Gongora_100220",
+    "general": 7.6,
+    "n": 5,
+    "grupos": {
+      "ACT-25361-TEMAS SELECTOS DE ACTUARIA II": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-25361-TEMAS SELECTOS DE ACTUARIA II",
+          "profesor": "JORGE FRANCISCO DE LA VEGA GONGORA",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "EST-10102-ESTADISTICA.,II": [
+        {
+          "grupo": "001",
+          "nombre": "EST-10102-ESTADISTICA.,II",
+          "profesor": "JORGE FRANCISCO DE LA VEGA GONGORA",
+          "creditos": "8",
+          "horario": "09:00-11:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -12939,30 +12979,6 @@ let profesores={
       ]
     }
   },
-  "JORGE FRANCISCO DE LA VEGA GONGORA": {
-    "link": "https://www.misprofesores.com/profesores/Jorge-De-la-Vega-Gongora_100220",
-    "general": 7.6,
-    "n": 5,
-    "grupos": {
-      "EST-10102-ESTADISTICA.,II": [
-        {
-          "grupo": "001",
-          "nombre": "EST-10102-ESTADISTICA.,II",
-          "profesor": "JORGE FRANCISCO DE LA VEGA GONGORA",
-          "creditos": "8",
-          "horario": "09:00-11:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHB-2",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
-        }
-      ]
-    }
-  },
   "MARTHA BEATRIZ ZERTUCHE SANCHEZ": {
     "grupos": {
       "EST-10102-ESTADISTICA.,II": [
@@ -16963,8 +16979,8 @@ let profesores={
   },
   "HERICA SANCHEZ LARIOS": {
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
-    "general": 7.75,
-    "n": 24,
+    "general": 7.52,
+    "n": 25,
     "grupos": {
       "MAT-12350-ALGEBRA LINEAL APLICADA": [
         {
@@ -18181,12 +18197,12 @@ let mejoresPorDepto={
     "DAVID RUELAS RODRIGUEZ",
     "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
+    "JORGE FRANCISCO DE LA VEGA GONGORA",
     "SERGIO GARCIA ALQUICIRA",
     "ERIKA GEORGINA CHAVEZ PIEDRA BUENA",
     "JOSE DAVID SANTOS SALAZAR",
     "PEDRO DANIEL TREJO SOLIS",
-    "ERNESTO ANTONIO GOMEZ VELAZQUEZ",
-    "FRANCISCO GERARDO CESAR MEDINA"
+    "ERNESTO ANTONIO GOMEZ VELAZQUEZ"
   ],
   "ADMINISTRACION": [
     "MARIANA CONTRERAS AREVALO",
@@ -18302,9 +18318,9 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
-    "JORGE FRANCISCO DE LA VEGA GONGORA",
     "MARTIN MAGRIS",
-    "ENRIQUE CUERVO GUZMAN"
+    "ENRIQUE CUERVO GUZMAN",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
