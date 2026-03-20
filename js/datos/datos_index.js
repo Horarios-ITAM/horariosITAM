@@ -1,4 +1,4 @@
-let actualizado="1773933271269.5305";
+let actualizado="1774019702666.8677";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17215,8 +17215,8 @@ let misProfesData={
   },
   "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Luis-Mart\u00edn-Arciniega-Ruiz-de-Esparza_10724",
-    "general": 8.7419,
-    "n": 31
+    "general": 8.7188,
+    "n": 32
   },
   "MARIANA CONTRERAS AREVALO": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Contreras-Ar\u00e9valo_120948",
