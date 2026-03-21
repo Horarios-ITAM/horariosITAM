@@ -1,4 +1,4 @@
-let actualizado="1774019702678.9036";
+let actualizado="1774104968633.1694";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -9376,8 +9376,8 @@ let profesores={
   },
   "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
     "link": "https://www.misprofesores.com/profesores/Cristhian-Seminario-Amez_164953",
-    "general": 7.1,
-    "n": 10,
+    "general": 7.3636,
+    "n": 11,
     "grupos": {
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
         {
@@ -10268,9 +10268,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -18284,7 +18284,7 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",

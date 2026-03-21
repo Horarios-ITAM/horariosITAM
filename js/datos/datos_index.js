@@ -1,4 +1,4 @@
-let actualizado="1774019702666.8677";
+let actualizado="1774104968588.786";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17865,8 +17865,8 @@ let misProfesData={
   },
   "CRISTHIAN JOSE MANUEL SEMINARIO AMEZ": {
     "link": "https://www.misprofesores.com/profesores/Cristhian-Seminario-Amez_164953",
-    "general": 7.1,
-    "n": 10
+    "general": 7.3636,
+    "n": 11
   },
   "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
@@ -17944,9 +17944,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
