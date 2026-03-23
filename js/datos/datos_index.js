@@ -1,4 +1,4 @@
-let actualizado="1774191374427.081";
+let actualizado="1774280248330.8557";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17170,8 +17170,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9268,
-    "n": 287
+    "general": 4.9167,
+    "n": 288
   },
   "ALEXANDROS FAKOS": {
     "link": "https://www.misprofesores.com/profesores/Alexandros-Fakos_73366",
