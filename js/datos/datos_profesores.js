@@ -1,4 +1,4 @@
-let actualizado="1774280248344.1885";
+let actualizado="1774367005206.4885";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -14842,9 +14842,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -15783,8 +15783,8 @@ let profesores={
   },
   "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE": {
     "link": "https://www.misprofesores.com/profesores/Yolanda-isabel-Pretelini_118802",
-    "general": 0.0,
-    "n": 0,
+    "general": 8.0,
+    "n": 1,
     "grupos": {
       "MAT-10101-MET. CUANTITATIVOS PARA DER.": [
         {

@@ -1,4 +1,4 @@
-let actualizado="1774280248330.8557";
+let actualizado="1774367005159.4348";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18409,9 +18409,9 @@ let misProfesData={
     "n": 20
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
@@ -18480,8 +18480,8 @@ let misProfesData={
   },
   "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE": {
     "link": "https://www.misprofesores.com/profesores/Yolanda-isabel-Pretelini_118802",
-    "general": 0.0,
-    "n": 0
+    "general": 8.0,
+    "n": 1
   },
   "RITA EUGENIA MALDONADO LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Rita-Eugenia-Maldonado_15549",
