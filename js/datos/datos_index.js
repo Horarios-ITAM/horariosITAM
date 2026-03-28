@@ -1,4 +1,4 @@
-let actualizado="1774624653922.2476";
+let actualizado="1774710036964.1719";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17944,9 +17944,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18035,8 +18035,8 @@ let misProfesData={
   },
   "CARLOS ERNESTO URRUTIA VILLALOBOS": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
-    "general": 8.08,
-    "n": 25
+    "general": 7.9615,
+    "n": 26
   },
   "ARTURO ALBERTO AGUILAR ESTEVA": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
