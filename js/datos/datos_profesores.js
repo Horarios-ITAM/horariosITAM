@@ -1,4 +1,4 @@
-let actualizado="1775314961126.385";
+let actualizado="1775401424047.3665";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -13042,9 +13042,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -18318,9 +18318,9 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
+    "MARTIN MAGRIS",
     "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ",
-    "LILIANA DE LA TORRE DESENTIS"
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
