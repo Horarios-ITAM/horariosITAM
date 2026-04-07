@@ -1,4 +1,4 @@
-let actualizado="1775488502540.2717";
+let actualizado="1775577368866.996";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -2555,19 +2555,19 @@ let profesores={
       ]
     }
   },
-  "DIEGO ALEJANDRO MU\u00d1OZ ZAMBRANO": {
+  "JORGE EDUARDO ROMERO SEDAS": {
     "grupos": {
       "ADM-16732-CREATIVID Y DESARR DE CONTENID": [
         {
           "grupo": "001",
           "nombre": "ADM-16732-CREATIVID Y DESARR DE CONTENID",
-          "profesor": "DIEGO ALEJANDRO MU\u00d1OZ ZAMBRANO",
+          "profesor": "JORGE EDUARDO ROMERO SEDAS",
           "creditos": "4",
           "horario": "18:00-20:00",
           "dias": [
             "JU"
           ],
-          "salon": "RHSA4",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -10268,9 +10268,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -18284,7 +18284,7 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES"
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",

@@ -1,4 +1,4 @@
-let actualizado="1775488502495.054";
+let actualizado="1775577368855.4827";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -2342,13 +2342,13 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-16732-CREATIVID Y DESARR DE CONTENID",
-        "profesor": "DIEGO ALEJANDRO MU\u00d1OZ ZAMBRANO",
+        "profesor": "JORGE EDUARDO ROMERO SEDAS",
         "creditos": "4",
         "horario": "18:00-20:00",
         "dias": [
           "JU"
         ],
-        "salon": "RHSA4",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -17944,9 +17944,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
