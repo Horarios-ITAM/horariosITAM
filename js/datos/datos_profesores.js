@@ -1,4 +1,4 @@
-let actualizado="1775577368866.996";
+let actualizado="1775663887904.5151";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -789,8 +789,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9167,
-    "n": 288,
+    "general": 4.9204,
+    "n": 289,
     "grupos": {
       "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL": [
         {
@@ -3275,6 +3275,23 @@ let profesores={
           "inicio": "12:00",
           "fin": "14:00"
         }
+      ],
+      "COM-16412-HERR. COMP. Y PROD. EMPRESAR.": [
+        {
+          "grupo": "001",
+          "nombre": "COM-16412-HERR. COMP. Y PROD. EMPRESAR.",
+          "profesor": "LETICIA RENTERIA FERRAN",
+          "creditos": "9",
+          "horario": "07:00-09:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
       ]
     }
   },
@@ -3681,6 +3698,23 @@ let profesores={
           "fin": "11:30"
         }
       ],
+      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
+        {
+          "grupo": "002",
+          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
+          "profesor": "IRMA LOZANO MENDICUTI",
+          "creditos": "7",
+          "horario": "10:30-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "12:00"
+        }
+      ],
       "COM-16305-GESTION DE DATOS": [
         {
           "grupo": "011",
@@ -3696,6 +3730,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
+        }
+      ],
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "006",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "IRMA LOZANO MENDICUTI",
+          "creditos": "6",
+          "horario": "10:30-12:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "12:00"
         }
       ]
     }
@@ -3836,64 +3887,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "ALBERTO ESPINOSA GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
-    "general": 7.4118,
-    "n": 17,
-    "grupos": {
-      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
-        {
-          "grupo": "002",
-          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "ALBERTO ESPINOSA GONZALEZ",
-          "creditos": "7",
-          "horario": "10:30-12:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC202",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:00"
-        }
-      ],
-      "COM-16306-RAZONAMIENTO ALGORITMICO": [
-        {
-          "grupo": "006",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "ALBERTO ESPINOSA GONZALEZ",
-          "creditos": "6",
-          "horario": "10:30-12:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC202",
-          "campus": "RIO HONDO",
-          "inicio": "10:30",
-          "fin": "12:00"
-        }
-      ],
-      "COM-16412-HERR. COMP. Y PROD. EMPRESAR.": [
-        {
-          "grupo": "001",
-          "nombre": "COM-16412-HERR. COMP. Y PROD. EMPRESAR.",
-          "profesor": "ALBERTO ESPINOSA GONZALEZ",
-          "creditos": "9",
-          "horario": "07:00-09:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC202",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
         }
       ]
     }
@@ -14842,9 +14835,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {

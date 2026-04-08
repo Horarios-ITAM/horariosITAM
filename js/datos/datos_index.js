@@ -1,4 +1,4 @@
-let actualizado="1775577368855.4827";
+let actualizado="1775663887890.5503";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -3298,7 +3298,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-        "profesor": "ALBERTO ESPINOSA GONZALEZ",
+        "profesor": "IRMA LOZANO MENDICUTI",
         "creditos": "7",
         "horario": "10:30-12:00",
         "dias": [
@@ -3675,7 +3675,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "ALBERTO ESPINOSA GONZALEZ",
+        "profesor": "IRMA LOZANO MENDICUTI",
         "creditos": "6",
         "horario": "10:30-12:00",
         "dias": [
@@ -3752,7 +3752,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-16412-HERR. COMP. Y PROD. EMPRESAR.",
-        "profesor": "ALBERTO ESPINOSA GONZALEZ",
+        "profesor": "LETICIA RENTERIA FERRAN",
         "creditos": "9",
         "horario": "07:00-09:00",
         "dias": [
@@ -17170,8 +17170,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9167,
-    "n": 288
+    "general": 4.9204,
+    "n": 289
   },
   "ALEXANDROS FAKOS": {
     "link": "https://www.misprofesores.com/profesores/Alexandros-Fakos_73366",
@@ -17392,11 +17392,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Ana-Diaz-Rosinol_21532",
     "general": 9.4783,
     "n": 46
-  },
-  "ALBERTO ESPINOSA GONZALEZ": {
-    "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
-    "general": 7.4118,
-    "n": 17
   },
   "ROSARIO EDITH GARCIA MENDIOLA": {
     "link": "https://www.misprofesores.com/profesores/Rosario-Edith-Garc\u00eda-Mendiola_20814",
@@ -18409,9 +18404,9 @@ let misProfesData={
     "n": 20
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
