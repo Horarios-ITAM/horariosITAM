@@ -1,4 +1,4 @@
-let actualizado="1775750616282.1675";
+let actualizado="1775834162497.9927";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -3275,23 +3275,6 @@ let profesores={
           "inicio": "12:00",
           "fin": "14:00"
         }
-      ],
-      "COM-16412-HERR. COMP. Y PROD. EMPRESAR.": [
-        {
-          "grupo": "001",
-          "nombre": "COM-16412-HERR. COMP. Y PROD. EMPRESAR.",
-          "profesor": "LETICIA RENTERIA FERRAN",
-          "creditos": "9",
-          "horario": "07:00-09:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC202",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
       ]
     }
   },
@@ -4389,6 +4372,30 @@ let profesores={
       ]
     }
   },
+  "ALBERTO ESPINOSA GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
+    "general": 7.4118,
+    "n": 17,
+    "grupos": {
+      "COM-16412-HERR. COMP. Y PROD. EMPRESAR.": [
+        {
+          "grupo": "001",
+          "nombre": "COM-16412-HERR. COMP. Y PROD. EMPRESAR.",
+          "profesor": "ALBERTO ESPINOSA GONZALEZ",
+          "creditos": "9",
+          "horario": "07:00-09:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "SAUL CABALLERO RAMIREZ": {
     "grupos": {
       "COM-23106-MINERIA DE DATOS": [
@@ -4710,8 +4717,8 @@ let profesores={
   },
   "ANNAPAOLA LLANAS MEJIA": {
     "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
-    "general": 8.3333,
-    "n": 75,
+    "general": 8.3553,
+    "n": 76,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -10261,9 +10268,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -18277,7 +18284,7 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES"
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",

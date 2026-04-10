@@ -1,4 +1,4 @@
-let actualizado="1775750616269.1365";
+let actualizado="1775834162485.4512";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -3752,7 +3752,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-16412-HERR. COMP. Y PROD. EMPRESAR.",
-        "profesor": "LETICIA RENTERIA FERRAN",
+        "profesor": "ALBERTO ESPINOSA GONZALEZ",
         "creditos": "9",
         "horario": "07:00-09:00",
         "dias": [
@@ -17438,6 +17438,11 @@ let misProfesData={
     "general": 7.1087,
     "n": 46
   },
+  "ALBERTO ESPINOSA GONZALEZ": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Espinosa-Gonzalez_26205",
+    "general": 7.4118,
+    "n": 17
+  },
   "JUAN MANUEL ANDRADE HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Juan-Manuel-Andrade-Hern\u00e1ndez_108735",
     "general": 7.0,
@@ -17465,8 +17470,8 @@ let misProfesData={
   },
   "ANNAPAOLA LLANAS MEJIA": {
     "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
-    "general": 8.3333,
-    "n": 75
+    "general": 8.3553,
+    "n": 76
   },
   "SANDRA PATRICIA MINABURO VILLAR": {
     "link": "https://www.misprofesores.com/profesores/Sandra-Patricia-Minaburo-Villar_10747",
@@ -17939,9 +17944,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
