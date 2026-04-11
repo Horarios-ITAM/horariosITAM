@@ -1,4 +1,4 @@
-let actualizado="1775834162485.4512";
+let actualizado="1775919913318.0994";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -12792,6 +12792,26 @@ let clases={
       }
     ]
   },
+  "EST-25146": {
+    "nombre": "EST-25146-ECONOMET. FINANCIERA ACTUARIAL",
+    "clave": "EST-25146",
+    "grupos": [
+      {
+        "grupo": "002",
+        "nombre": "EST-25146-ECONOMET. FINANCIERA ACTUARIAL",
+        "profesor": "FELIPE JAVIER MEDINA AGUAYO",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHCC201",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
   "IIO-12170-LAB": {
     "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS-LAB",
     "clave": "IIO-12170",
@@ -18347,6 +18367,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Enrique-Cuervo_185195",
     "general": 7.5,
     "n": 2
+  },
+  "FELIPE JAVIER MEDINA AGUAYO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-Medina-Aguayo_159534",
+    "general": 7.4545,
+    "n": 11
   },
   "LUIS EDUARDO URBAN RIVERO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Eduardo-Urban-Rivero_189280",

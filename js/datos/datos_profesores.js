@@ -1,4 +1,4 @@
-let actualizado="1775834162497.9927";
+let actualizado="1775919913330.8699";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -13868,6 +13868,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "FELIPE JAVIER MEDINA AGUAYO": {
+    "link": "https://www.misprofesores.com/profesores/Felipe-Medina-Aguayo_159534",
+    "general": 7.4545,
+    "n": 11,
+    "grupos": {
+      "EST-25146-ECONOMET. FINANCIERA ACTUARIAL": [
+        {
+          "grupo": "002",
+          "nombre": "EST-25146-ECONOMET. FINANCIERA ACTUARIAL",
+          "profesor": "FELIPE JAVIER MEDINA AGUAYO",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHCC201",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
