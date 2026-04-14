@@ -1,4 +1,4 @@
-let actualizado="1776095855888.9949";
+let actualizado="1776181869081.6702";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -8039,8 +8039,8 @@ let profesores={
   },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
-    "general": 6.4545,
-    "n": 22,
+    "general": 6.3913,
+    "n": 23,
     "grupos": {
       "DER-13108-BIENES Y DERECHOS REALES": [
         {
@@ -15439,8 +15439,8 @@ let profesores={
   },
   "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Antonia-Rodr\u00edguez-Abascal_190393",
-    "general": 10.0,
-    "n": 1,
+    "general": 9.5,
+    "n": 2,
     "grupos": {
       "LEN-12726-COM. ESCRITA PARA ING EN NEGOC": [
         {
@@ -18359,10 +18359,10 @@ let mejoresPorDepto={
   ],
   "LENGUAS (LEN)": [
     "SAMARI PAULINA GARCIA Y COLOME GONGORA",
-    "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
     "FEDERICO VALLE OCHOA",
     "MAURICIO HERNANDEZ CERVANTES",
     "JESUS ADRIAN FERNANDEZ REYES",
+    "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
     "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",

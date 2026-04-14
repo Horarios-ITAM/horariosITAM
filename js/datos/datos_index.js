@@ -1,4 +1,4 @@
-let actualizado="1776095855876.9375";
+let actualizado="1776181869069.8088";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17750,8 +17750,8 @@ let misProfesData={
   },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
-    "general": 6.4545,
-    "n": 22
+    "general": 6.3913,
+    "n": 23
   },
   "IRVIN ARTURO CASTILLO CESAREO": {
     "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
@@ -18480,8 +18480,8 @@ let misProfesData={
   },
   "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Antonia-Rodr\u00edguez-Abascal_190393",
-    "general": 10.0,
-    "n": 1
+    "general": 9.5,
+    "n": 2
   },
   "FEDERICO VALLE OCHOA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
