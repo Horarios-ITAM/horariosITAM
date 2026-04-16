@@ -1,4 +1,4 @@
-let actualizado="1776268134551.3564";
+let actualizado="1776355609498.5747";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17480,8 +17480,8 @@ let misProfesData={
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.32,
-    "n": 25
+    "general": 9.3462,
+    "n": 26
   },
   "ROSA MARIA ATHIE RUBIO": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Ma.-Athie_19736",
@@ -18465,28 +18465,28 @@ let misProfesData={
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
-    "general": 10.0,
-    "n": 1
+    "general": 9.0,
+    "n": 2
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
-    "general": 9.8333,
-    "n": 6
+    "general": 9.4286,
+    "n": 7
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.2222,
-    "n": 18
+    "general": 9.2632,
+    "n": 19
   },
   "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Antonia-Rodr\u00edguez-Abascal_190393",
-    "general": 9.5,
-    "n": 2
+    "general": 7.6667,
+    "n": 3
   },
   "FEDERICO VALLE OCHOA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
-    "general": 10.0,
-    "n": 1
+    "general": 8.5,
+    "n": 2
   },
   "GABRIELA MEDINA HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
@@ -18500,8 +18500,8 @@ let misProfesData={
   },
   "MAURICIO HERNANDEZ CERVANTES": {
     "link": "https://www.misprofesores.com/profesores/Mauricio-Hern\u00e1ndez-Cervantes_190738",
-    "general": 10.0,
-    "n": 1
+    "general": 8.0,
+    "n": 2
   },
   "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE": {
     "link": "https://www.misprofesores.com/profesores/Yolanda-isabel-Pretelini_118802",

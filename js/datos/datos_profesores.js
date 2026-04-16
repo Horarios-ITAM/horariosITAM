@@ -1,4 +1,4 @@
-let actualizado="1776268134563.5254";
+let actualizado="1776355609515.2979";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -4550,8 +4550,8 @@ let profesores={
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
-    "general": 9.32,
-    "n": 25,
+    "general": 9.3462,
+    "n": 26,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -15210,8 +15210,8 @@ let profesores={
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
-    "general": 10.0,
-    "n": 1,
+    "general": 9.0,
+    "n": 2,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -15233,8 +15233,8 @@ let profesores={
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
-    "general": 9.8333,
-    "n": 6,
+    "general": 9.4286,
+    "n": 7,
     "grupos": {
       "LEN-12718-COMUNIC. ESCRITA PARA ECONOMIA": [
         {
@@ -15352,8 +15352,8 @@ let profesores={
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.2222,
-    "n": 18,
+    "general": 9.2632,
+    "n": 19,
     "grupos": {
       "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
         {
@@ -15439,8 +15439,8 @@ let profesores={
   },
   "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Antonia-Rodr\u00edguez-Abascal_190393",
-    "general": 9.5,
-    "n": 2,
+    "general": 7.6667,
+    "n": 3,
     "grupos": {
       "LEN-12726-COM. ESCRITA PARA ING EN NEGOC": [
         {
@@ -15462,8 +15462,8 @@ let profesores={
   },
   "FEDERICO VALLE OCHOA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
-    "general": 10.0,
-    "n": 1,
+    "general": 8.5,
+    "n": 2,
     "grupos": {
       "LEN-12751-COMUNIC. PROFESIONAL PARA DER.": [
         {
@@ -15783,8 +15783,8 @@ let profesores={
   },
   "MAURICIO HERNANDEZ CERVANTES": {
     "link": "https://www.misprofesores.com/profesores/Mauricio-Hern\u00e1ndez-Cervantes_190738",
-    "general": 10.0,
-    "n": 1,
+    "general": 8.0,
+    "n": 2,
     "grupos": {
       "LEN-12761-COMUNIC. PROFES. PARA REL. INT": [
         {
@@ -18358,16 +18358,16 @@ let mejoresPorDepto={
     "THOMAS MARTIN RUDOLF"
   ],
   "LENGUAS (LEN)": [
-    "SAMARI PAULINA GARCIA Y COLOME GONGORA",
-    "FEDERICO VALLE OCHOA",
-    "MAURICIO HERNANDEZ CERVANTES",
     "JESUS ADRIAN FERNANDEZ REYES",
-    "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL",
     "CONRADO JOSE ARRANZ MINGUEZ",
     "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "SAMARI PAULINA GARCIA Y COLOME GONGORA",
     "GABRIEL ASTEY WOOD",
-    "FEDERICO AUGUSTO GUZMAN RUBIO"
+    "FEDERICO AUGUSTO GUZMAN RUBIO",
+    "FEDERICO VALLE OCHOA",
+    "JAVIER MARTINEZ VILLARROYA",
+    "JORGE NEME SANCHEZ"
   ],
   "MATEMATICAS": [
     "JUAN SALVADOR GARZA LEDESMA",
