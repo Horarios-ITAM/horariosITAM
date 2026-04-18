@@ -1,4 +1,4 @@
-let actualizado="1776440335723.0176";
+let actualizado="1776524888426.073";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17725,8 +17725,8 @@ let misProfesData={
   },
   "PABLO ARIEL RAPETTI": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.1905,
-    "n": 21
+    "general": 8.1818,
+    "n": 22
   },
   "GERMAN  SUCAR": {
     "link": "https://www.misprofesores.com/profesores/german-sucar_23220",

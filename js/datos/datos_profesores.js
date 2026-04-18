@@ -1,4 +1,4 @@
-let actualizado="1776440335736.0989";
+let actualizado="1776524888439.399";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -7858,8 +7858,8 @@ let profesores={
   },
   "PABLO ARIEL RAPETTI": {
     "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.1905,
-    "n": 21,
+    "general": 8.1818,
+    "n": 22,
     "grupos": {
       "DER-11122-TEOR\u00cdA DEL DERECHO I": [
         {
