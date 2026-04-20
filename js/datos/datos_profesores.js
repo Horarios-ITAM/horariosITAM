@@ -1,4 +1,4 @@
-let actualizado="1776611280036.361";
+let actualizado="1776700494132.0164";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -11470,8 +11470,8 @@ let profesores={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.5522,
-    "n": 134,
+    "general": 6.5407,
+    "n": 135,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
