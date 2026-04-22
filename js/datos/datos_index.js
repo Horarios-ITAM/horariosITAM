@@ -1,4 +1,4 @@
-let actualizado="1776786800887.3286";
+let actualizado="1776873131043.4429";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -371,14 +371,14 @@ let clases={
         "nombre": "ACT-22309-MATEMATICAS FINANCIERAS, III",
         "profesor": "DAVID RUELAS RODRIGUEZ",
         "creditos": "7",
-        "horario": "19:00-22:00",
+        "horario": "09:00-12:00",
         "dias": [
-          "VI"
+          "SA"
         ],
-        "salon": "RHCUBIC",
+        "salon": "RH203",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "22:00"
+        "inicio": "09:00",
+        "fin": "12:00"
       },
       {
         "grupo": "003",
@@ -425,14 +425,14 @@ let clases={
         "nombre": "ACT-25360-TEMAS SELECTOS DE ACTUARIA I",
         "profesor": "DAVID RUELAS RODRIGUEZ",
         "creditos": "6",
-        "horario": "09:00-12:00",
+        "horario": "19:00-22:00",
         "dias": [
-          "SA"
+          "VI"
         ],
-        "salon": "RH203",
+        "salon": "RHCUBIC",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "12:00"
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -5770,14 +5770,15 @@ let clases={
         "nombre": "CSO-15041-ECONOMIA POLITICA, I",
         "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "RH212",
+        "salon": "RH104",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -6107,16 +6108,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "ALEJANDRO  RODILES BRETON",
+        "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "07:00-10:00",
+        "horario": "17:30-19:00",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "RH310",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6348,17 +6349,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "LUIS ENRIQUE PEREDA TREJO",
+        "profesor": "JOYCE CAROL  SADKA",
         "creditos": "9",
-        "horario": "07:00-08:30",
+        "horario": "08:30-10:00",
         "dias": [
-          "MA",
-          "JU"
+          "MA"
         ],
         "salon": "RH309",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -6391,15 +6391,14 @@ let clases={
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
         "profesor": "ALBERTO PUPPO",
         "creditos": "10",
-        "horario": "13:00-14:30",
+        "horario": "19:00-20:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RHB-4",
+        "salon": "RHCUBIC",
         "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:30"
+        "inicio": "19:00",
+        "fin": "20:00"
       }
     ]
   },
@@ -7392,16 +7391,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-        "profesor": "GILBERTO NAVA HERNANDEZ",
+        "profesor": "RAYMUNDO GAMA LEYVA",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "19:00-22:00",
         "dias": [
-          "VI"
+          "MI"
         ],
-        "salon": "RH309",
+        "salon": "RH103",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -7751,17 +7750,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-        "profesor": "JULIO ANTONIO RIOS FIGUEROA",
+        "profesor": "ANA MICAELA ALTERIO",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "19:00-20:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU"
         ],
-        "salon": "RH212",
+        "salon": "RH209",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "19:00",
+        "fin": "20:30"
       }
     ]
   },
@@ -17653,11 +17651,6 @@ let misProfesData={
     "general": 7.75,
     "n": 4
   },
-  "ALEJANDRO  RODILES BRETON": {
-    "link": "https://www.misprofesores.com/profesores/Alejandro-Rodiles-Bret\u00f3n_90266",
-    "general": 7.0,
-    "n": 11
-  },
   "INES VARGAS CHRISTLIEB": {
     "link": "https://www.misprofesores.com/profesores/INES-VARGAS-CHRISTLIEB_99471",
     "general": 8.8333,
@@ -17688,10 +17681,10 @@ let misProfesData={
     "general": 7.4167,
     "n": 12
   },
-  "LUIS ENRIQUE PEREDA TREJO": {
-    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
-    "general": 8.3333,
-    "n": 3
+  "JOYCE CAROL  SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.9231,
+    "n": 52
   },
   "ALBERTO PUPPO": {
     "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
@@ -17847,6 +17840,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
     "general": 6.5,
     "n": 8
+  },
+  "ALEJANDRO  RODILES BRETON": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-Rodiles-Bret\u00f3n_90266",
+    "general": 7.0,
+    "n": 11
   },
   "MIRIAM SHALILA CURIOCA GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Shalila-Curioca-Galvez_20096",
@@ -18017,11 +18015,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Felipe-Meza-Goiz_10761",
     "general": 6.5476,
     "n": 42
-  },
-  "JOYCE CAROL  SADKA": {
-    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
-    "general": 5.9231,
-    "n": 52
   },
   "RICARDO JOSE ENRIQUEZ FROLA": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Jos\u00e9-Enriquez-Frola_137968",
@@ -18289,9 +18282,9 @@ let misProfesData={
     "n": 3
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -18475,8 +18468,8 @@ let misProfesData={
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.2632,
-    "n": 19
+    "general": 9.3,
+    "n": 20
   },
   "MARIA DE LAS MERCEDES ANTONIA RODRIGUEZ ABASCAL": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-de-las-Mercedes-Antonia-Rodr\u00edguez-Abascal_190393",

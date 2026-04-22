@@ -1,4 +1,4 @@
-let actualizado="1776786800899.9578";
+let actualizado="1776873131057.473";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -152,22 +152,6 @@ let profesores={
           "nombre": "ACT-22309-MATEMATICAS FINANCIERAS, III",
           "profesor": "DAVID RUELAS RODRIGUEZ",
           "creditos": "7",
-          "horario": "19:00-22:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
-      ],
-      "ACT-25360-TEMAS SELECTOS DE ACTUARIA I": [
-        {
-          "grupo": "001",
-          "nombre": "ACT-25360-TEMAS SELECTOS DE ACTUARIA I",
-          "profesor": "DAVID RUELAS RODRIGUEZ",
-          "creditos": "6",
           "horario": "09:00-12:00",
           "dias": [
             "SA"
@@ -176,6 +160,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "12:00"
+        }
+      ],
+      "ACT-25360-TEMAS SELECTOS DE ACTUARIA I": [
+        {
+          "grupo": "001",
+          "nombre": "ACT-25360-TEMAS SELECTOS DE ACTUARIA I",
+          "profesor": "DAVID RUELAS RODRIGUEZ",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -6502,23 +6502,6 @@ let profesores={
           "inicio": "16:00",
           "fin": "18:00"
         }
-      ],
-      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-          "profesor": "JULIO ANTONIO RIOS FIGUEROA",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH212",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
       ]
     }
   },
@@ -6530,14 +6513,15 @@ let profesores={
           "nombre": "CSO-15041-ECONOMIA POLITICA, I",
           "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "10:00-11:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH104",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ],
       "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
@@ -6689,6 +6673,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "MARIANA AGUILAR AGUILAR",
+          "creditos": "9",
+          "horario": "17:30-19:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHSA3",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ]
     }
@@ -6880,63 +6880,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
-        }
-      ]
-    }
-  },
-  "ALEJANDRO  RODILES BRETON": {
-    "link": "https://www.misprofesores.com/profesores/Alejandro-Rodiles-Bret\u00f3n_90266",
-    "general": 7.0,
-    "n": 11,
-    "grupos": {
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "002",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "ALEJANDRO  RODILES BRETON",
-          "creditos": "9",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH310",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "DER-18601-DERECHO INTERNACIONAL II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-18601-DERECHO INTERNACIONAL II",
-          "profesor": "ALEJANDRO  RODILES BRETON",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "DER-18802-DERECHO INTERNACIONAL PRIVADO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-18802-DERECHO INTERNACIONAL PRIVADO",
-          "profesor": "ALEJANDRO  RODILES BRETON",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -7184,23 +7127,39 @@ let profesores={
       ]
     }
   },
-  "LUIS ENRIQUE PEREDA TREJO": {
-    "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
-    "general": 8.3333,
-    "n": 3,
+  "JOYCE CAROL  SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.9231,
+    "n": 52,
     "grupos": {
       "DER-10113-DERECHO PUBLICO": [
         {
           "grupo": "001",
           "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "LUIS ENRIQUE PEREDA TREJO",
+          "profesor": "JOYCE CAROL  SADKA",
           "creditos": "9",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-14208-ANAL. ECON. DEL DER. II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
+          "profesor": "JOYCE CAROL  SADKA",
+          "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH309",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -7239,15 +7198,14 @@ let profesores={
           "nombre": "DER-11101-TEORIA DEL DERECHO, I",
           "profesor": "ALBERTO PUPPO",
           "creditos": "10",
-          "horario": "13:00-14:30",
+          "horario": "19:00-20:00",
           "dias": [
-            "MA",
-            "JU"
+            "VI"
           ],
-          "salon": "RHB-4",
+          "salon": "RHCUBIC",
           "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
+          "inicio": "19:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -7972,6 +7930,22 @@ let profesores={
           "inicio": "08:30",
           "fin": "10:00"
         }
+      ],
+      "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA": [
+        {
+          "grupo": "001",
+          "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
+          "profesor": "RAYMUNDO GAMA LEYVA",
+          "creditos": "9",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH103",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
       ]
     }
   },
@@ -8229,26 +8203,6 @@ let profesores={
       ]
     }
   },
-  "GILBERTO NAVA HERNANDEZ": {
-    "grupos": {
-      "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA": [
-        {
-          "grupo": "001",
-          "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-          "profesor": "GILBERTO NAVA HERNANDEZ",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
   "LUIS MANUEL CAMP MEJAN CARRER": {
     "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
     "general": 8.4545,
@@ -8496,6 +8450,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "20:00"
+        }
+      ],
+      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
+          "profesor": "ANA MICAELA ALTERIO",
+          "creditos": "9",
+          "horario": "19:00-20:30",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH209",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
         }
       ],
       "DER-15403-DERECHO CONSTITUCIONAL I": [
@@ -8995,6 +8965,47 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "21:00"
+        }
+      ]
+    }
+  },
+  "ALEJANDRO  RODILES BRETON": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-Rodiles-Bret\u00f3n_90266",
+    "general": 7.0,
+    "n": 11,
+    "grupos": {
+      "DER-18601-DERECHO INTERNACIONAL II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-18601-DERECHO INTERNACIONAL II",
+          "profesor": "ALEJANDRO  RODILES BRETON",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "DER-18802-DERECHO INTERNACIONAL PRIVADO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-18802-DERECHO INTERNACIONAL PRIVADO",
+          "profesor": "ALEJANDRO  RODILES BRETON",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -10867,30 +10878,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "JOYCE CAROL  SADKA": {
-    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
-    "general": 5.9231,
-    "n": 52,
-    "grupos": {
-      "ECO-14208-ANAL. ECON. DEL DER. II": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
-          "profesor": "JOYCE CAROL  SADKA",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH103",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -13042,9 +13029,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -15352,8 +15339,8 @@ let profesores={
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.2632,
-    "n": 19,
+    "general": 9.3,
+    "n": 20,
     "grupos": {
       "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
         {
@@ -18341,9 +18328,9 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
-    "MARTIN MAGRIS",
     "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "MANUEL MENDOZA RAMIREZ",
+    "FELIPE JAVIER MEDINA AGUAYO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
@@ -18360,8 +18347,8 @@ let mejoresPorDepto={
   "LENGUAS (LEN)": [
     "JESUS ADRIAN FERNANDEZ REYES",
     "CONRADO JOSE ARRANZ MINGUEZ",
-    "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "MARIA GABRIELA  MAZZUCHINO",
     "SAMARI PAULINA GARCIA Y COLOME GONGORA",
     "GABRIEL ASTEY WOOD",
     "FEDERICO AUGUSTO GUZMAN RUBIO",
