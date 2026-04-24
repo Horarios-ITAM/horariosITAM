@@ -1,4 +1,4 @@
-let actualizado="1776873131057.473";
+let actualizado="1777045724593.9749";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -11341,8 +11341,8 @@ let profesores={
   },
   "GABRIELA HERNANDEZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3478,
-    "n": 92,
+    "general": 7.3656,
+    "n": 93,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -13029,9 +13029,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -15472,8 +15472,8 @@ let profesores={
   },
   "GABRIELA MEDINA HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3478,
-    "n": 92,
+    "general": 7.3656,
+    "n": 93,
     "grupos": {
       "LEN-12753-COMUNIC. PROFESIONAL PARA ACT.": [
         {
@@ -18328,9 +18328,9 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
+    "MARTIN MAGRIS",
     "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ",
-    "FELIPE JAVIER MEDINA AGUAYO"
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",

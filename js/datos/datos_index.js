@@ -1,4 +1,4 @@
-let actualizado="1776873131043.4429";
+let actualizado="1777045724582.0034";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -18073,8 +18073,8 @@ let misProfesData={
   },
   "GABRIELA HERNANDEZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3478,
-    "n": 92
+    "general": 7.3656,
+    "n": 93
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
@@ -18282,9 +18282,9 @@ let misProfesData={
     "n": 3
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -18483,8 +18483,8 @@ let misProfesData={
   },
   "GABRIELA MEDINA HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3478,
-    "n": 92
+    "general": 7.3656,
+    "n": 93
   },
   "JORGE NEME SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/JORGE-NEME-SANCHEZ_172075",
