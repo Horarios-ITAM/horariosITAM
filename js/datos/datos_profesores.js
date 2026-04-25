@@ -1,4 +1,4 @@
-let actualizado="1777045724593.9749";
+let actualizado="1777129776188.3843";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -10279,9 +10279,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -14852,9 +14852,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18294,7 +18294,7 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",
