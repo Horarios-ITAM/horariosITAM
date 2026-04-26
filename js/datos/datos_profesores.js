@@ -1,4 +1,4 @@
-let actualizado="1777129776188.3843";
+let actualizado="1777216242432.9146";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -2278,8 +2278,8 @@ let profesores={
   },
   "JANKO HERNANDEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
-    "general": 8.75,
-    "n": 12,
+    "general": 8.7692,
+    "n": 13,
     "grupos": {
       "ADM-15534-MODELOS FINANCIEROS II": [
         {
@@ -6307,8 +6307,8 @@ let profesores={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.4675,
-    "n": 154,
+    "general": 9.471,
+    "n": 155,
     "grupos": {
       "CSO-12013-HISTORIA POLITICA CONTEMPORAN.": [
         {
@@ -9444,8 +9444,8 @@ let profesores={
   },
   "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
-    "general": 8.1053,
-    "n": 19,
+    "general": 8.0,
+    "n": 20,
     "grupos": {
       "ECO-10300-PENSAMIENTO ECONOMICO": [
         {
@@ -10279,9 +10279,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -11796,9 +11796,9 @@ let profesores={
     }
   },
   "FRANCISCO ALEJANDRO GONZALEZ GOMEZ": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Alejandro-Gonz\u00e1lez-Franco_65939",
-    "general": 5.8333,
-    "n": 42,
+    "link": "https://www.misprofesores.com/profesores/FRANCISCO-ALEJANDRO-GONZALEZ-GOMEZ_193286",
+    "general": 9.0,
+    "n": 1,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14852,9 +14852,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16406,8 +16406,8 @@ let profesores={
   },
   "ABIMAEL JAVIER BENGOCHEA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
-    "general": 6.0968,
-    "n": 31,
+    "general": 6.1563,
+    "n": 32,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -16909,8 +16909,8 @@ let profesores={
   },
   "IRMA BEATRIZ RUMBOS PELLICER": {
     "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",
-    "general": 8.4,
-    "n": 25,
+    "general": 8.3846,
+    "n": 26,
     "grupos": {
       "MAT-12349-PRINCIPIOS DE ALGEBRA LINEAL": [
         {
@@ -18294,19 +18294,19 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES"
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",
     "SILVANO ANTONIO ESPINDOLA PARRA",
     "JAVIER ARTURO VELAZQUEZ GALVAN",
+    "FRANCISCO ALEJANDRO GONZALEZ GOMEZ",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
     "VALERIA ZEPEDA TREJO",
     "ALFREDO VILLAFRANCA QUINTO",
     "STEFANO STRAULINO TORRE",
-    "ANTONIO JESUS DIEZ QUESADA",
-    "JOSE PANTALEON DOMINGUEZ ESPONDA"
+    "ANTONIO JESUS DIEZ QUESADA"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "PABLO KALMANOVITZ GONZALEZ",

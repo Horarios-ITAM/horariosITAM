@@ -1,4 +1,4 @@
-let actualizado="1777129776175.671";
+let actualizado="1777216242418.9106";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17313,8 +17313,8 @@ let misProfesData={
   },
   "JANKO HERNANDEZ CORTES": {
     "link": "https://www.misprofesores.com/profesores/Janko-Hern\u00e1ndez-Cort\u00e9s_10728",
-    "general": 8.75,
-    "n": 12
+    "general": 8.7692,
+    "n": 13
   },
   "MARIA CRUZ MERINO SANZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cruz-Merino-Sanz_10744",
@@ -17623,8 +17623,8 @@ let misProfesData={
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
-    "general": 9.4675,
-    "n": 154
+    "general": 9.471,
+    "n": 155
   },
   "JULIO ANTONIO RIOS FIGUEROA": {
     "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
@@ -17888,8 +17888,8 @@ let misProfesData={
   },
   "JUAN CARLOS BELAUSTEGUIGOITIA RIUS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Belausteguigoitia_72076",
-    "general": 8.1053,
-    "n": 19
+    "general": 8.0,
+    "n": 20
   },
   "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
@@ -17962,9 +17962,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18127,9 +18127,9 @@ let misProfesData={
     "n": 147
   },
   "FRANCISCO ALEJANDRO GONZALEZ GOMEZ": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Alejandro-Gonz\u00e1lez-Franco_65939",
-    "general": 5.8333,
-    "n": 42
+    "link": "https://www.misprofesores.com/profesores/FRANCISCO-ALEJANDRO-GONZALEZ-GOMEZ_193286",
+    "general": 9.0,
+    "n": 1
   },
   "CECILIA GALAVIZ ALVAREZ": {
     "link": "https://www.misprofesores.com/profesores/Cecilia-Galaviz_15926",
@@ -18427,9 +18427,9 @@ let misProfesData={
     "n": 20
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
@@ -18548,8 +18548,8 @@ let misProfesData={
   },
   "ABIMAEL JAVIER BENGOCHEA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
-    "general": 6.0968,
-    "n": 31
+    "general": 6.1563,
+    "n": 32
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
@@ -18588,8 +18588,8 @@ let misProfesData={
   },
   "IRMA BEATRIZ RUMBOS PELLICER": {
     "link": "https://www.misprofesores.com/profesores/Irma-Beatriz-Rumbos-Pellicer_10702",
-    "general": 8.4,
-    "n": 25
+    "general": 8.3846,
+    "n": 26
   },
   "EDGAR POSSANI ESPINOSA": {
     "link": "https://www.misprofesores.com/profesores/Edgar-Possani-Espinosa_10712",
