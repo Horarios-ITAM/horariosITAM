@@ -1,4 +1,4 @@
-let actualizado="1777479274708.1592";
+let actualizado="1777564983855.0828";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17600,8 +17600,8 @@ let misProfesData={
   },
   "JUAN PABLO MICOZZI": {
     "link": "https://www.misprofesores.com/profesores/Juan-Pablo-Micozzi_59705",
-    "general": 7.1429,
-    "n": 28
+    "general": 6.9655,
+    "n": 29
   },
   "ADRIAN LUCARDI": {
     "link": "https://www.misprofesores.com/profesores/Adrian-Lucardi_82586",
@@ -17964,9 +17964,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18090,8 +18090,8 @@ let misProfesData={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.5407,
-    "n": 135
+    "general": 6.5074,
+    "n": 136
   },
   "MONICA CECILIA SOTO BETANCOURT": {
     "link": "https://www.misprofesores.com/profesores/M\u00f3nica-Cecilia-Soto-Betancourt_74692",
@@ -18434,9 +18434,9 @@ let misProfesData={
     "n": 20
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",

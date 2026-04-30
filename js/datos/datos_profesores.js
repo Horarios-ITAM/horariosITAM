@@ -1,4 +1,4 @@
-let actualizado="1777479274723.1094";
+let actualizado="1777564983867.3052";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -6001,8 +6001,8 @@ let profesores={
   },
   "JUAN PABLO MICOZZI": {
     "link": "https://www.misprofesores.com/profesores/Juan-Pablo-Micozzi_59705",
-    "general": 7.1429,
-    "n": 28,
+    "general": 6.9655,
+    "n": 29,
     "grupos": {
       "CSO-10101-ESTADO Y SOCIEDAD II": [
         {
@@ -10268,9 +10268,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
+    "general": 8.5658,
+    "n": 76,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -11470,8 +11470,8 @@ let profesores={
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
-    "general": 6.5407,
-    "n": 135,
+    "general": 6.5074,
+    "n": 136,
     "grupos": {
       "EGN-17122-IDEAS E INST. POL. Y SOC. II": [
         {
@@ -14865,9 +14865,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18307,7 +18307,7 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
+    "MARTA ROBLES CARTES"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",
