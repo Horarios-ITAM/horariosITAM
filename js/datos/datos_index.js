@@ -1,4 +1,4 @@
-let actualizado="1777821203769.3354";
+let actualizado="1777911655365.6897";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17485,8 +17485,8 @@ let misProfesData={
   },
   "ROSA MARIA ATHIE RUBIO": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Ma.-Athie_19736",
-    "general": 8.9306,
-    "n": 72
+    "general": 8.9452,
+    "n": 73
   },
   "ANNAPAOLA LLANAS MEJIA": {
     "link": "https://www.misprofesores.com/profesores/Annapaola-Llanas-Mejia_19692",
@@ -17905,8 +17905,8 @@ let misProfesData={
   },
   "JOSE GABRIEL MARTINEZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Gabriel-Mart\u00ednez-Gonz\u00e1lez_181679",
-    "general": 6.6667,
-    "n": 3
+    "general": 7.5,
+    "n": 4
   },
   "MAURICIO TOMAS ROMERO LONDO\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Mauricio-Tom\u00e1s-Romero-Londo\u00f1o_103678",
@@ -17964,9 +17964,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18434,9 +18434,9 @@ let misProfesData={
     "n": 20
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
-    "general": 9.3125,
-    "n": 16
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
+    "general": 9.3333,
+    "n": 3
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
