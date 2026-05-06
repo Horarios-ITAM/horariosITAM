@@ -1,4 +1,4 @@
-let actualizado="1777911655365.6897";
+let actualizado="1778084229764.9897";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17155,8 +17155,8 @@ let misProfesData={
   },
   "GERARDO HERNANDEZ DEL VALLE": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Hern\u00e1ndez-Del-Valle_118747",
-    "general": 10.0,
-    "n": 1
+    "general": 9.0,
+    "n": 2
   },
   "FRANCISCO GERARDO CESAR MEDINA": {
     "link": "https://www.misprofesores.com/profesores/Francisco-Gerardo-Cesar-Medina_185794",
@@ -17971,7 +17971,7 @@ let misProfesData={
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
     "general": 9.0,
-    "n": 8
+    "n": 9
   },
   "ROMANS PANCS": {
     "link": "https://www.misprofesores.com/profesores/Romans-Pancs_104518",
@@ -18205,8 +18205,8 @@ let misProfesData={
   },
   "LUZ MARIA SILVA ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Silva-Ortiz_10823",
-    "general": 7.013,
-    "n": 77
+    "general": 7.0513,
+    "n": 78
   },
   "ARTURO PELAEZ GALVEZ": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Pelaez-Galvez_17370",
@@ -18425,8 +18425,8 @@ let misProfesData={
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
-    "general": 9.2857,
-    "n": 35
+    "general": 9.3056,
+    "n": 36
   },
   "MARIA ISABEL LOPEZ SANTIBA\u00d1EZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Isabel-L\u00f3pez-Santiba\u00f1ez_10829",
@@ -18434,9 +18434,9 @@ let misProfesData={
     "n": 20
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",

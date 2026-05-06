@@ -1,4 +1,4 @@
-let actualizado="1777911655380.616";
+let actualizado="1778084229777.547";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -459,8 +459,8 @@ let profesores={
   },
   "GERARDO HERNANDEZ DEL VALLE": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Hern\u00e1ndez-Del-Valle_118747",
-    "general": 10.0,
-    "n": 1,
+    "general": 9.0,
+    "n": 2,
     "grupos": {
       "ACT-22309-MATEMATICAS FINANCIERAS, III": [
         {
@@ -10373,7 +10373,7 @@ let profesores={
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
     "general": 9.0,
-    "n": 8,
+    "n": 9,
     "grupos": {
       "ECO-11104-ECONOMIA, IV": [
         {
@@ -12355,8 +12355,8 @@ let profesores={
   },
   "LUZ MARIA SILVA ORTIZ": {
     "link": "https://www.misprofesores.com/profesores/Luz-Mar\u00eda-Silva-Ortiz_10823",
-    "general": 7.013,
-    "n": 77,
+    "general": 7.0513,
+    "n": 78,
     "grupos": {
       "EGN-17161-HISTORIA SOC.-POL. DE MEXICO": [
         {
@@ -14756,8 +14756,8 @@ let profesores={
   },
   "MARIA GABRIELA  MAZZUCHINO": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Mazzuchino_82056",
-    "general": 9.2857,
-    "n": 35,
+    "general": 9.3056,
+    "n": 36,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -14865,9 +14865,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18216,8 +18216,8 @@ let profesores={
 };
 let mejoresPorDepto={
   "ACTUARIA Y SEGUROS": [
-    "GERARDO HERNANDEZ DEL VALLE",
     "DAVID RUELAS RODRIGUEZ",
+    "GERARDO HERNANDEZ DEL VALLE",
     "MARIA DE LOS ANGELES YA\u00d1EZ ACOSTA",
     "MARIA MERCEDES GREGORIO DOMINGUEZ",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
@@ -18360,8 +18360,8 @@ let mejoresPorDepto={
   "LENGUAS (LEN)": [
     "JESUS ADRIAN FERNANDEZ REYES",
     "CONRADO JOSE ARRANZ MINGUEZ",
-    "DIANA LUCIA ALVAREZ MACIAS",
     "MARIA GABRIELA  MAZZUCHINO",
+    "DIANA LUCIA ALVAREZ MACIAS",
     "SAMARI PAULINA GARCIA Y COLOME GONGORA",
     "GABRIEL ASTEY WOOD",
     "FEDERICO AUGUSTO GUZMAN RUBIO",
