@@ -1,4 +1,4 @@
-let actualizado="1778171078821.0374";
+let actualizado="1778256033172.2349";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -789,8 +789,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.9204,
-    "n": 289,
+    "general": 4.9103,
+    "n": 290,
     "grupos": {
       "ADM-12013-DISE\u00d1O Y CAMBIO ORGANIZACIONAL": [
         {
