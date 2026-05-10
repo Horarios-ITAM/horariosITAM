@@ -1,4 +1,4 @@
-let actualizado="1778340709306.3806";
+let actualizado="1778427237728.8323";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -7,8 +7,8 @@ let formPostUrl="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios2";
 let profesores={
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
-    "general": 7.4286,
-    "n": 35,
+    "general": 7.5,
+    "n": 36,
     "grupos": {
       "ACT-11300-CALCULO ACTUARIAL I": [
         {
@@ -10268,9 +10268,9 @@ let profesores={
     }
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76,
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "ECO-11021-MICROECONOMIA I": [
         {
@@ -14865,9 +14865,9 @@ let profesores={
     }
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18307,7 +18307,7 @@ let mejoresPorDepto={
     "CHRISTIANE FABREGA CHIMALI",
     "ANTONIO VIVANCO CASAMADRID",
     "DANIEL ISAAC CHIQUIAR CIKUREL",
-    "MARTA ROBLES CARTES"
+    "MAURICIO TOMAS ROMERO LONDO\u00d1O"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",

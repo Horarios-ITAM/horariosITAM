@@ -1,4 +1,4 @@
-let actualizado="1778340709296.4275";
+let actualizado="1778427237715.6074";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17110,8 +17110,8 @@ let clases={
 let misProfesData={
   "SERGIO GARCIA ALQUICIRA": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Garcia-Alquicira_37538",
-    "general": 7.4286,
-    "n": 35
+    "general": 7.5,
+    "n": 36
   },
   "PEDRO DANIEL TREJO SOLIS": {
     "link": "https://www.misprofesores.com/profesores/Pedro-Daniel-Trejo-Solis_91343",
@@ -17964,9 +17964,9 @@ let misProfesData={
     "n": 7
   },
   "MARTA ROBLES CARTES": {
-    "link": "https://www.misprofesores.com/profesores/Marta-Robles-Cartes_20661",
-    "general": 8.5658,
-    "n": 76
+    "link": "https://www.misprofesores.com/profesores/Marta-Robles_160058",
+    "general": 0.0,
+    "n": 0
   },
   "MENEY DE LA PEZA GANDARA": {
     "link": "https://www.misprofesores.com/profesores/Meney-De-la-Peza-Gandara_113121",
@@ -18434,9 +18434,9 @@ let misProfesData={
     "n": 20
   },
   "CONRADO JOSE ARRANZ MINGUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84769",
-    "general": 9.3333,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Jose-Conrado-Arranz-Minguez_84768",
+    "general": 9.3125,
+    "n": 16
   },
   "GABRIEL ASTEY WOOD": {
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
