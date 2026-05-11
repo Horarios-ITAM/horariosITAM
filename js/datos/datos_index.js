@@ -1,4 +1,4 @@
-let actualizado="1778427237715.6074";
+let actualizado="1778519431661.9392";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17241,7 +17241,7 @@ let misProfesData={
   "MARIANA CONTRERAS AREVALO": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Contreras-Ar\u00e9valo_120948",
     "general": 10.0,
-    "n": 1
+    "n": 2
   },
   "JULIETA MARIA SARRALDE VERA": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Mar\u00eda-Sarralde-Vera_10718",

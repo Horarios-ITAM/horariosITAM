@@ -1,4 +1,4 @@
-let actualizado="1778427237728.8323";
+let actualizado="1778519431673.7173";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -1525,7 +1525,7 @@ let profesores={
   "MARIANA CONTRERAS AREVALO": {
     "link": "https://www.misprofesores.com/profesores/Mariana-Contreras-Ar\u00e9valo_120948",
     "general": 10.0,
-    "n": 1,
+    "n": 2,
     "grupos": {
       "ADM-14413-DESAR. DE HABILID. GERENCIALES": [
         {
