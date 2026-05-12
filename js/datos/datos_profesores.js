@@ -1,4 +1,4 @@
-let actualizado="1778519431673.7173";
+let actualizado="1778604056445.6372";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -8655,15 +8655,14 @@ let profesores={
           "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
           "profesor": "JAVIER LAYNEZ POTISEK",
           "creditos": "8",
-          "horario": "18:00-20:00",
+          "horario": "09:00-16:00",
           "dias": [
-            "LU",
             "MI"
           ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
+          "salon": "",
+          "campus": "",
+          "inicio": "09:00",
+          "fin": "16:00"
         }
       ],
       "DER-17601-DERECHO ADMINISTRATIVO I": [
@@ -13042,9 +13041,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -18341,9 +18340,9 @@ let mejoresPorDepto={
     "JOSE MATUK VILLAZON",
     "SIMON LUNAGOMEZ CORIA",
     "ERICK MIER MORENO",
-    "MARTIN MAGRIS",
     "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "MANUEL MENDOZA RAMIREZ",
+    "FELIPE JAVIER MEDINA AGUAYO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",

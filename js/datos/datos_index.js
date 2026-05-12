@@ -1,4 +1,4 @@
-let actualizado="1778519431661.9392";
+let actualizado="1778604056431.7686";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -7877,15 +7877,14 @@ let clases={
         "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
         "profesor": "JAVIER LAYNEZ POTISEK",
         "creditos": "8",
-        "horario": "18:00-20:00",
+        "horario": "09:00-16:00",
         "dias": [
-          "LU",
           "MI"
         ],
-        "salon": "RH308",
-        "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "20:00"
+        "salon": "",
+        "campus": "",
+        "inicio": "09:00",
+        "fin": "16:00"
       }
     ]
   },
@@ -18289,9 +18288,9 @@ let misProfesData={
     "n": 3
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
