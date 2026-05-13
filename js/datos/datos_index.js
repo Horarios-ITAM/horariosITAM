@@ -1,4 +1,4 @@
-let actualizado="1778604056431.7686";
+let actualizado="1778690566752.3977";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -17594,8 +17594,8 @@ let misProfesData={
   },
   "DENISE EUGENIA DRESSER GUERRA": {
     "link": "https://www.misprofesores.com/profesores/Denise-Dresser-Guerra_10801",
-    "general": 4.631,
-    "n": 187
+    "general": 4.617,
+    "n": 188
   },
   "JUAN PABLO MICOZZI": {
     "link": "https://www.misprofesores.com/profesores/Juan-Pablo-Micozzi_59705",

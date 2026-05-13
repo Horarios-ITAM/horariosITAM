@@ -1,4 +1,4 @@
-let actualizado="1778604056445.6372";
+let actualizado="1778690566765.9563";
 let periodo="PRIMAVERA 2026 LICENCIATURA";
 let secure=false;
 let sGrace="2938";
@@ -5926,8 +5926,8 @@ let profesores={
   },
   "DENISE EUGENIA DRESSER GUERRA": {
     "link": "https://www.misprofesores.com/profesores/Denise-Dresser-Guerra_10801",
-    "general": 4.631,
-    "n": 187,
+    "general": 4.617,
+    "n": 188,
     "grupos": {
       "CSO-10100-ESTADO Y SOCIEDAD I": [
         {
