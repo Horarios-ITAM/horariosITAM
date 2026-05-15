@@ -1,4 +1,4 @@
-let actualizado="1778775930601.253";
+let actualizado="1778861909896.1072";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -231,25 +231,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:45"
-        }
-      ],
-      "ECO-14301-ORGANIZACION INDUSTRIAL": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "10:00-12:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
         }
       ]
     }
@@ -543,8 +524,8 @@ let profesores={
   },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
-    "general": 6.3913,
-    "n": 23,
+    "general": 6.2083,
+    "n": 24,
     "grupos": {
       "DER-11033-SEMIN. FUND. DEL DER. PRIVADO": [
         {
@@ -605,6 +586,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
+        }
+      ]
+    }
+  },
+  "JORGE EMILIO MELENDEZ FLORES": {
+    "grupos": {
+      "ECO-14301-ORGANIZACION INDUSTRIAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
+          "profesor": "JORGE EMILIO MELENDEZ FLORES",
+          "creditos": "6",
+          "horario": "10:00-12:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
         }
       ]
     }
@@ -1120,6 +1124,7 @@ let mejoresPorDepto={
     "JUAN PABLO RODRIGUEZ MAZA"
   ],
   "ECONOMIA": [
+    "JORGE EMILIO MELENDEZ FLORES",
     "ERICK FERNANDO MOLINA PEREZ"
   ],
   "ESTUDIOS INTERNACIONALES": [

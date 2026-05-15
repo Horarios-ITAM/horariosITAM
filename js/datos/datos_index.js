@@ -1,4 +1,4 @@
-let actualizado="1778775930600.2224";
+let actualizado="1778861909895.0984";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -574,7 +574,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-14301-ORGANIZACION INDUSTRIAL",
-        "profesor": "",
+        "profesor": "JORGE EMILIO MELENDEZ FLORES",
         "creditos": "6",
         "horario": "10:00-12:00",
         "dias": [
@@ -1132,8 +1132,8 @@ let misProfesData={
   },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
-    "general": 6.3913,
-    "n": 23
+    "general": 6.2083,
+    "n": 24
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
