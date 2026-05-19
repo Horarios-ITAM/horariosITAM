@@ -1,4 +1,4 @@
-let actualizado="1779124540457.559";
+let actualizado="1779211462824.657";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -169,7 +169,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-        "profesor": "",
+        "profesor": "JOSE CALIXTO CANO",
         "creditos": "7",
         "horario": "07:00-09:00",
         "dias": [
@@ -187,7 +187,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-        "profesor": "",
+        "profesor": "XOCHITL CHAVARRIA CRUZ",
         "creditos": "7",
         "horario": "16:00-19:00",
         "dias": [
@@ -1100,11 +1100,6 @@ let misProfesData={
     "general": 9.0,
     "n": 23
   },
-  "LETICIA RENTERIA FERRAN": {
-    "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.547,
-    "n": 117
-  },
   "JOSE CALIXTO CANO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
     "general": 6.5556,
@@ -1114,6 +1109,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
     "general": 9.7222,
     "n": 18
+  },
+  "LETICIA RENTERIA FERRAN": {
+    "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
+    "general": 7.547,
+    "n": 117
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
@@ -1152,8 +1152,8 @@ let misProfesData={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3391,
-    "n": 115
+    "general": 6.3707,
+    "n": 116
   },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",

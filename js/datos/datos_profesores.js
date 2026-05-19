@@ -1,4 +1,4 @@
-let actualizado="1779124540458.5208";
+let actualizado="1779211462825.65";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -175,13 +175,16 @@ let profesores={
       ]
     }
   },
-  "": {
+  "JOSE CALIXTO CANO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
+    "general": 6.5556,
+    "n": 36,
     "grupos": {
       "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
         {
           "grupo": "001",
           "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "",
+          "profesor": "JOSE CALIXTO CANO",
           "creditos": "7",
           "horario": "07:00-09:00",
           "dias": [
@@ -195,78 +198,8 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "",
-          "creditos": "7",
-          "horario": "16:00-19:00",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
         }
       ],
-      "DER-15704-PROCEDIM. CONSTITUCIONALES": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "07:00-09:45",
-          "dias": [
-            "LU",
-            "MA",
-            "MI"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:45"
-        }
-      ]
-    }
-  },
-  "LETICIA RENTERIA FERRAN": {
-    "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.547,
-    "n": 117,
-    "grupos": {
-      "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
-        {
-          "grupo": "001",
-          "nombre": "COM-16303-MODELADO COMPUT. PARA NEGOCIOS",
-          "profesor": "LETICIA RENTERIA FERRAN",
-          "creditos": "9",
-          "horario": "12:00-14:35",
-          "dias": [
-            "LU",
-            "MA",
-            "MI",
-            "JU",
-            "VI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:35"
-        }
-      ]
-    }
-  },
-  "JOSE CALIXTO CANO": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
-    "general": 6.5556,
-    "n": 36,
-    "grupos": {
       "COM-16306-RAZONAMIENTO ALGORITMICO": [
         {
           "grupo": "001",
@@ -294,6 +227,26 @@ let profesores={
     "general": 9.7222,
     "n": 18,
     "grupos": {
+      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
+        {
+          "grupo": "002",
+          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
+          "profesor": "XOCHITL CHAVARRIA CRUZ",
+          "creditos": "7",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ],
       "COM-16306-RAZONAMIENTO ALGORITMICO": [
         {
           "grupo": "002",
@@ -312,6 +265,33 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
+        }
+      ]
+    }
+  },
+  "LETICIA RENTERIA FERRAN": {
+    "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
+    "general": 7.547,
+    "n": 117,
+    "grupos": {
+      "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
+        {
+          "grupo": "001",
+          "nombre": "COM-16303-MODELADO COMPUT. PARA NEGOCIOS",
+          "profesor": "LETICIA RENTERIA FERRAN",
+          "creditos": "9",
+          "horario": "12:00-14:35",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:35"
         }
       ]
     }
@@ -590,6 +570,28 @@ let profesores={
       ]
     }
   },
+  "": {
+    "grupos": {
+      "DER-15704-PROCEDIM. CONSTITUCIONALES": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "07:00-09:45",
+          "dias": [
+            "LU",
+            "MA",
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:45"
+        }
+      ]
+    }
+  },
   "JORGE EMILIO MELENDEZ FLORES": {
     "grupos": {
       "ECO-14301-ORGANIZACION INDUSTRIAL": [
@@ -823,8 +825,8 @@ let profesores={
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
-    "general": 6.3391,
-    "n": 115,
+    "general": 6.3707,
+    "n": 116,
     "grupos": {
       "MAT-11101-MATEMATICAS, II": [
         {
