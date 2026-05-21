@@ -1,4 +1,4 @@
-let actualizado="1779298653942.2864";
+let actualizado="1779383431437.295";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -1172,7 +1172,7 @@ let misProfesData={
   },
   "RAYBEL ANDRES GARCIA ANCONA": {
     "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
-    "general": 7.0,
-    "n": 20
+    "general": 6.8571,
+    "n": 21
   }
 };

@@ -1,4 +1,4 @@
-let actualizado="1779298653943.3848";
+let actualizado="1779383431438.2915";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -1055,8 +1055,8 @@ let profesores={
   },
   "RAYBEL ANDRES GARCIA ANCONA": {
     "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
-    "general": 7.0,
-    "n": 20,
+    "general": 6.8571,
+    "n": 21,
     "grupos": {
       "MAT-14281-MATEMATICAS DISCRETAS": [
         {
