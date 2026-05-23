@@ -1,4 +1,4 @@
-let actualizado="1779468015473.6985";
+let actualizado="1779550712066.83";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -504,8 +504,8 @@ let profesores={
   },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
-    "general": 6.2083,
-    "n": 24,
+    "general": 6.04,
+    "n": 25,
     "grupos": {
       "DER-11033-SEMIN. FUND. DEL DER. PRIVADO": [
         {
@@ -980,8 +980,8 @@ let profesores={
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",
-    "general": 7.5,
-    "n": 10,
+    "general": 7.7273,
+    "n": 11,
     "grupos": {
       "MAT-12220-CALCULO EN UNA VARIABLE": [
         {
@@ -1140,8 +1140,8 @@ let mejoresPorDepto={
   ],
   "MATEMATICAS": [
     "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE",
-    "JORGE MONROY JIMENEZ",
     "LYSETTE FELIX FELIX",
+    "JORGE MONROY JIMENEZ",
     "RAYBEL ANDRES GARCIA ANCONA",
     "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO",
     "ANGEL PEREZ JUAREZ",
