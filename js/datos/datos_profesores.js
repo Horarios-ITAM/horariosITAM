@@ -1,4 +1,4 @@
-let actualizado="1779727068560.1724";
+let actualizado="1779817298850.6458";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -233,7 +233,7 @@ let profesores={
           "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
           "profesor": "XOCHITL CHAVARRIA CRUZ",
           "creditos": "7",
-          "horario": "16:00-19:00",
+          "horario": "16:00-18:00",
           "dias": [
             "LU",
             "MA",
@@ -244,7 +244,7 @@ let profesores={
           "salon": "RHACERV",
           "campus": "RIO HONDO",
           "inicio": "16:00",
-          "fin": "19:00"
+          "fin": "18:00"
         }
       ],
       "COM-16306-RAZONAMIENTO ALGORITMICO": [
@@ -298,8 +298,8 @@ let profesores={
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
-    "general": 8.6111,
-    "n": 18,
+    "general": 8.5,
+    "n": 20,
     "grupos": {
       "COM-16412-HERR. COMP. Y PROD. EMPRESAR.": [
         {
@@ -1029,8 +1029,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.5854,
-    "n": 41,
+    "general": 7.5476,
+    "n": 42,
     "grupos": {
       "MAT-14250-GEOMETRIA VECTORIAL": [
         {

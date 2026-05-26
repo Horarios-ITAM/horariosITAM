@@ -1,4 +1,4 @@
-let actualizado="1779727068559.082";
+let actualizado="1779817298849.6406";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -189,7 +189,7 @@ let clases={
         "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
         "profesor": "XOCHITL CHAVARRIA CRUZ",
         "creditos": "7",
-        "horario": "16:00-19:00",
+        "horario": "16:00-18:00",
         "dias": [
           "LU",
           "MA",
@@ -200,7 +200,7 @@ let clases={
         "salon": "RHACERV",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "19:00"
+        "fin": "18:00"
       }
     ]
   },
@@ -1117,8 +1117,8 @@ let misProfesData={
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
-    "general": 8.6111,
-    "n": 18
+    "general": 8.5,
+    "n": 20
   },
   "MONICA GARCIA CEREZO": {
     "link": "https://www.misprofesores.com/profesores/Monica-Garcia-Cerezo_15986",
@@ -1167,8 +1167,8 @@ let misProfesData={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.5854,
-    "n": 41
+    "general": 7.5476,
+    "n": 42
   },
   "RAYBEL ANDRES GARCIA ANCONA": {
     "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
