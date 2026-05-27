@@ -1,4 +1,4 @@
-let actualizado="1779817298850.6458";
+let actualizado="1779903587154.3364";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -151,7 +151,7 @@ let profesores={
   "SILVIA RIOS MAGOS": {
     "link": "https://www.misprofesores.com/profesores/Silvia-r\u00edos-magos_41283",
     "general": 9.0,
-    "n": 23,
+    "n": 24,
     "grupos": {
       "COM-14113-FUNDAMENTOS DE PROGRAMACION": [
         {
@@ -271,8 +271,8 @@ let profesores={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.547,
-    "n": 117,
+    "general": 7.5678,
+    "n": 118,
     "grupos": {
       "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
         {

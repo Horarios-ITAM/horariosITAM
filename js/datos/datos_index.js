@@ -1,4 +1,4 @@
-let actualizado="1779817298849.6406";
+let actualizado="1779903587153.3152";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -1098,7 +1098,7 @@ let misProfesData={
   "SILVIA RIOS MAGOS": {
     "link": "https://www.misprofesores.com/profesores/Silvia-r\u00edos-magos_41283",
     "general": 9.0,
-    "n": 23
+    "n": 24
   },
   "JOSE CALIXTO CANO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
@@ -1112,8 +1112,8 @@ let misProfesData={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.547,
-    "n": 117
+    "general": 7.5678,
+    "n": 118
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
