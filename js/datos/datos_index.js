@@ -1,4 +1,4 @@
-let actualizado="1779903587153.3152";
+let actualizado="1779990490903.7744";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -873,14 +873,15 @@ let clases={
       {
         "grupo": "001",
         "nombre": "MAT-12200-CALCULO UNIVARIADO",
-        "profesor": "JUAN ORENDAIN ALMADA",
+        "profesor": "SHARON MAGALI VALVERDE ESPARZA",
         "creditos": "9",
         "horario": "16:00-19:00",
         "dias": [
           "LU",
           "MA",
           "MI",
-          "JU"
+          "JU",
+          "VI"
         ],
         "salon": "PF104",
         "campus": "RIO HONDO",
@@ -1112,8 +1113,8 @@ let misProfesData={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.5678,
-    "n": 118
+    "general": 7.5882,
+    "n": 119
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
@@ -1159,6 +1160,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
     "general": 6.69,
     "n": 100
+  },
+  "SHARON MAGALI VALVERDE ESPARZA": {
+    "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
+    "general": 8.4,
+    "n": 35
   },
   "LYSETTE FELIX FELIX": {
     "link": "https://www.misprofesores.com/profesores/Lysette-F\u00e9lix-F\u00e9lix_109682",

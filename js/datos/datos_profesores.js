@@ -1,4 +1,4 @@
-let actualizado="1779903587154.3364";
+let actualizado="1779990490904.779";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -271,8 +271,8 @@ let profesores={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.5678,
-    "n": 118,
+    "general": 7.5882,
+    "n": 119,
     "grupos": {
       "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
         {
@@ -955,20 +955,24 @@ let profesores={
       ]
     }
   },
-  "JUAN ORENDAIN ALMADA": {
+  "SHARON MAGALI VALVERDE ESPARZA": {
+    "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
+    "general": 8.4,
+    "n": 35,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
           "grupo": "001",
           "nombre": "MAT-12200-CALCULO UNIVARIADO",
-          "profesor": "JUAN ORENDAIN ALMADA",
+          "profesor": "SHARON MAGALI VALVERDE ESPARZA",
           "creditos": "9",
           "horario": "16:00-19:00",
           "dias": [
             "LU",
             "MA",
             "MI",
-            "JU"
+            "JU",
+            "VI"
           ],
           "salon": "PF104",
           "campus": "RIO HONDO",
@@ -1139,6 +1143,7 @@ let mejoresPorDepto={
     "MARIO DAVID COOPER YARZA"
   ],
   "MATEMATICAS": [
+    "SHARON MAGALI VALVERDE ESPARZA",
     "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE",
     "LYSETTE FELIX FELIX",
     "JORGE MONROY JIMENEZ",
@@ -1146,7 +1151,6 @@ let mejoresPorDepto={
     "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO",
     "ANGEL PEREZ JUAREZ",
     "ALEJANDRO RIOS HERREJON",
-    "JUAN ORENDAIN ALMADA",
     "FRANCISCO FERNANDO NORE\u00d1A VILLARIAS"
   ]
 };
