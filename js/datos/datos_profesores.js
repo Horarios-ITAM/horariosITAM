@@ -1,4 +1,4 @@
-let actualizado="1779990490904.779";
+let actualizado="1780076876324.1543";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -271,8 +271,8 @@ let profesores={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.5882,
-    "n": 119,
+    "general": 7.6083,
+    "n": 120,
     "grupos": {
       "COM-16303-MODELADO COMPUT. PARA NEGOCIOS": [
         {
