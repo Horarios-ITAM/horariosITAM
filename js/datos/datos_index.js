@@ -1,4 +1,4 @@
-let actualizado="1780424122249.2078";
+let actualizado="1780511676546.5427";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -564,6 +564,30 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      }
+    ]
+  },
+  "ECO-12201": {
+    "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+    "clave": "ECO-12201",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "07:00-09:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "PF105",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
       }
     ]
   },
