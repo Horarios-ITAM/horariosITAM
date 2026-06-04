@@ -1,4 +1,4 @@
-let actualizado="1780511676546.5427";
+let actualizado="1780594048234.9937";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -1102,8 +1102,8 @@ let clases={
 let misProfesData={
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
-    "general": 6.6667,
-    "n": 21
+    "general": 6.5455,
+    "n": 22
   },
   "ILEANA MARIA LOPEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Ileana-L\u00f3pez-P\u00e9rez_153473",

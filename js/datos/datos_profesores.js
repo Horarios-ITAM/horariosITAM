@@ -1,4 +1,4 @@
-let actualizado="1780511676547.6348";
+let actualizado="1780594048236.0613";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -7,8 +7,8 @@ let formPostUrl="https://itaca2.itam.mx:8443/b9prod/edsup/BWZKSENP.P_Horarios2";
 let profesores={
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
-    "general": 6.6667,
-    "n": 21,
+    "general": 6.5455,
+    "n": 22,
     "grupos": {
       "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS": [
         {
