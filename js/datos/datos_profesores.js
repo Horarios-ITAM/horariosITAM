@@ -1,4 +1,4 @@
-let actualizado="1780594048236.0613";
+let actualizado="1780678719193.4285";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -570,13 +570,16 @@ let profesores={
       ]
     }
   },
-  "": {
+  "JOSE ANGEL SANTIAGO ABREGO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Santiago-\u00c1brego_138583",
+    "general": 2.0,
+    "n": 1,
     "grupos": {
       "DER-15704-PROCEDIM. CONSTITUCIONALES": [
         {
           "grupo": "001",
           "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
-          "profesor": "",
+          "profesor": "JOSE ANGEL SANTIAGO ABREGO",
           "creditos": "8",
           "horario": "07:00-09:45",
           "dias": [
@@ -589,7 +592,11 @@ let profesores={
           "inicio": "07:00",
           "fin": "09:45"
         }
-      ],
+      ]
+    }
+  },
+  "": {
+    "grupos": {
       "ECO-12201-TEORIA Y POLITICA MONETARIA": [
         {
           "grupo": "001",
@@ -1146,6 +1153,7 @@ let mejoresPorDepto={
   ],
   "DERECHO": [
     "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+    "JOSE ANGEL SANTIAGO ABREGO",
     "JORGE AGUILERA SUAREZ",
     "JUAN PABLO RODRIGUEZ MAZA"
   ],

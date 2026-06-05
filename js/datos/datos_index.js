@@ -1,4 +1,4 @@
-let actualizado="1780594048234.9937";
+let actualizado="1780678719192.2268";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -529,7 +529,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15704-PROCEDIM. CONSTITUCIONALES",
-        "profesor": "",
+        "profesor": "JOSE ANGEL SANTIAGO ABREGO",
         "creditos": "8",
         "horario": "07:00-09:45",
         "dias": [
@@ -1159,6 +1159,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
     "general": 6.04,
     "n": 25
+  },
+  "JOSE ANGEL SANTIAGO ABREGO": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-\u00c1ngel-Santiago-\u00c1brego_138583",
+    "general": 2.0,
+    "n": 1
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
