@@ -1,4 +1,4 @@
-let actualizado="1780678719192.2268";
+let actualizado="1780760939250.4329";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -267,6 +267,30 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
+      }
+    ]
+  },
+  "COM-16401": {
+    "nombre": "COM-16401-COMPUTACION I, INTENSIVA",
+    "clave": "COM-16401",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "COM-16401-COMPUTACION I, INTENSIVA",
+        "profesor": "SILVIA RIOS MAGOS",
+        "creditos": "7",
+        "horario": "13:30-15:30",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "RHLMINT",
+        "campus": "RIO HONDO",
+        "inicio": "13:30",
+        "fin": "15:30"
       }
     ]
   },

@@ -1,4 +1,4 @@
-let actualizado="1780678719193.4285";
+let actualizado="1780760939251.5312";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -159,6 +159,26 @@ let profesores={
           "nombre": "COM-14113-FUNDAMENTOS DE PROGRAMACION",
           "profesor": "SILVIA RIOS MAGOS",
           "creditos": "6",
+          "horario": "13:30-15:30",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "13:30",
+          "fin": "15:30"
+        }
+      ],
+      "COM-16401-COMPUTACION I, INTENSIVA": [
+        {
+          "grupo": "001",
+          "nombre": "COM-16401-COMPUTACION I, INTENSIVA",
+          "profesor": "SILVIA RIOS MAGOS",
+          "creditos": "7",
           "horario": "13:30-15:30",
           "dias": [
             "LU",
