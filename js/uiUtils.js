@@ -395,10 +395,10 @@ function detallesHTML(clase, initialRender = false){
         }
         // Check if the group is open
         let isClosed = !initialRender && clase.openGroups && !clase.openGroups.includes(numeroGrupo);
-        let rowClass = isClosed ? ' class="grupo-cerrado"' : '';
+        let rowAttrs = isClosed ? ' class="grupo-cerrado" title="Grupo aparece como cerrado en Servicios Web. Puede que ya no esté disponible, pero verifica en la página oficial."' : '';
 
         // Checkbox para seleccionar grupo
-        out+='<tr'+rowClass+'><td id="grupo"><input type="checkbox" id="'+clase.clave+numeroGrupo+'" name="'+clase.clave+'" value="'+numeroGrupo+'" checked/></td>';
+        out+='<tr'+rowAttrs+'><td id="grupo"><input type="checkbox" id="'+clase.clave+numeroGrupo+'" name="'+clase.clave+'" value="'+numeroGrupo+'" checked/></td>';
         // No. de grupo
         out+='<td id="grupo">'+numeroGrupo+'</td>';
         // Profesor y rating (si lo tenemos)
@@ -413,7 +413,7 @@ function detallesHTML(clase, initialRender = false){
     out+='</table>'
     // Link de "Ver en Horarios ITAM" -- TODO usamos proxy por ahora por CORS
     // out+='<span style="color:black;padding-right:10px" onclick="post_link(\''+clase.nombre+'\')"><small><u>Ver en Horarios ITAM<u></small></span>'
-    out+='<a style="color:black;padding-right:10px" href="https://proxy.horariositam.com/ver?txt_materia='+clase.nombre+'"><small><u>Ver datos<u></small></a>'
+    out+='<a target="_blank" rel="noopener" style="color:black;padding-right:10px" href="https://proxy.horariositam.com/ver?txt_materia='+clase.nombre+'"><small><u>Ver datos<u></small></a>'
 
     // Link de "Eliminar"
     out+='<span style="color:black" onclick="eliminar(\''+clase.nombre+'\')"><u><small>Eliminar Clase</small></u></span>';

@@ -200,7 +200,7 @@
                 }
                 out+='</table>';
                 // Link de "Ver en Horarios ITAM" -- TODO usamos proxy por ahora por CORS
-                out+='<a style="color:black;position: relative;float: left;" href="https://proxy.horariositam.com/ver?txt_materia='+grupos[0]['nombre']+'"><small><u>Ver datos<u></small></a>'
+                out+='<a target="_blank" rel="noopener" style="color:black;position: relative;float: left;" href="https://proxy.horariositam.com/ver?txt_materia='+grupos[0]['nombre']+'"><small><u>Ver datos<u></small></a>'
                 // out+='<span style="color:black;padding-right:10px" onclick="post_link(\''+clase.nombre+'\')"><small><u>Ver en Horarios ITAM<u></small></span>'
 
                 return out;

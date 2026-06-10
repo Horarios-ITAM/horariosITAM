@@ -233,4 +233,5 @@ span{
 .grupo-cerrado {
     color: grey;
     text-decoration: line-through;
+    cursor: help;
 }

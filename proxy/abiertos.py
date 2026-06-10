@@ -130,7 +130,36 @@ async def ver_datos(txt_materia: str | None = None):
             detail=f"Fallo al recuperar HTML de servicios.itam.mx: {e}",
         )
 
-    return HTMLResponse(content=resp.text, status_code=200)
+    # Banner que deja claro que esto es un proxy de servicios.itam.mx,
+    # no la página oficial. Se inserta justo después de <body>.
+    banner = (
+        '<div style="position:sticky;top:0;z-index:99999;background:#b30000;'
+        'color:#fff;font-family:Arial,Helvetica,sans-serif;font-size:14px;'
+        'line-height:1.4;padding:10px 16px;text-align:center;'
+        'box-shadow:0 2px 6px rgba(0,0,0,0.3);">'
+        '⚠️ Estás viendo una copia (proxy) de '
+        '<strong>servicios.itam.mx</strong> servida por '
+        '<strong>horariosITAM</strong>. No es la página oficial del ITAM y los '
+        'datos podrían estar desactualizados. '
+        '<a href="https://servicios.itam.mx" target="_blank" rel="noopener" '
+        'style="color:#fff;text-decoration:underline;">Ir al sitio oficial</a>'
+        '</div>'
+    )
+
+    html = resp.text
+    lower = html.lower()
+    idx = lower.find("<body")
+    if idx != -1:
+        # Insertar después de la etiqueta <body ...> de apertura
+        body_end = html.find(">", idx)
+        if body_end != -1:
+            html = html[: body_end + 1] + banner + html[body_end + 1 :]
+        else:
+            html = banner + html
+    else:
+        html = banner + html
+
+    return HTMLResponse(content=html, status_code=200)
 
 
 if __name__ == "__main__":
