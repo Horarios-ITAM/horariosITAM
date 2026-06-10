@@ -85,6 +85,48 @@ input[type=checkbox]{
 details{
     padding:5px;
 }
+/* ---- Bloquear horas (horas en las que no se quiere clase) ---- */
+
+/* Ancho fijo para que la fila no se mueva al pasar de "⊘" a "⊘*" */
+#bloquear_horarios{
+    width: 38px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+}
+/* Boton "⊘" activo (marcando). Doble clase para ganar especificidad
+   a .custom-button, que se define despues en este archivo.
+   box-shadow:none deja el verde plano (sin el realce 3d del boton base). */
+.custom-button.boton-bloques-activo{
+    background-color: #006646;
+    color: #fff;
+    border-color: #006646;
+    box-shadow: none;
+}
+.custom-button.boton-bloques-activo:hover{
+    background-color: #00543a;
+}
+.custom-button.boton-bloques-activo:active{
+    background-color: #00543a;
+    box-shadow: none;
+}
+
+/* En modo bloqueo: cursor de mano y sin seleccionar texto al arrastrar */
+.tabla-horario-bloqueando{
+    user-select: none;
+    -webkit-user-select: none;
+}
+.tabla-horario-bloqueando .celda-bloqueable{ cursor: pointer; }
+.tabla-horario-bloqueando .celda-bloqueable:hover{ background-color: #eef5f1; }
+/* En modo bloqueo el texto de las clases es solo texto (no link azul) */
+.tabla-horario-bloqueando span{ color: inherit; }
+
+/* Celda con hora bloqueada: gris plano, legible en vista normal y de bloqueo */
+.celda-bloqueada{
+    background-color: #d9d9d9;
+    color: #777;
+}
+.tabla-horario-bloqueando .celda-bloqueada:hover{ background-color: #cccccc; }
 
 #grupo{
     border: 1px solid black;

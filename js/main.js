@@ -133,6 +133,59 @@ function empalmes(grupos){
     return count;
 }
 
+/**
+ * Checa si un grupo empalma con un bloque de tiempo sin clase.
+ * @param {Grupo} grupo Grupo a revisar.
+ * @param {Object} bloque Bloque con dias, inicio y fin.
+ * @returns {Boolean} true si el grupo empalma con el bloque.
+ */
+function grupoEmpalmaConBloqueNoClase(grupo,bloque){
+    if(!grupo || !bloque || !bloque.dias)
+        return false;
+
+    let compartenDia=false;
+    for(let dia of grupo.dias){
+        if(bloque.dias.includes(dia)){
+            compartenDia=true;
+            break;
+        }
+    }
+    if(!compartenDia)
+        return false;
+
+    let inicioBloque=strToDateHora(bloque.inicio);
+    let finBloque=strToDateHora(bloque.fin);
+    return grupo.dtInicio.getTime()<finBloque.getTime() && inicioBloque.getTime()<grupo.dtFin.getTime();
+}
+
+/**
+ * Checa si un grupo empalma con cualquiera de los bloques sin clase.
+ * @param {Grupo} grupo Grupo a revisar.
+ * @param {[Object]} bloquesNoClase Lista de bloques de tiempo sin clase.
+ * @returns {Boolean} true si el grupo empalma con algun bloque.
+ */
+function grupoEmpalmaConBloquesNoClase(grupo,bloquesNoClase){
+    for(let bloque of bloquesNoClase || []){
+        if(grupoEmpalmaConBloqueNoClase(grupo,bloque))
+            return true;
+    }
+    return false;
+}
+
+/**
+ * Checa si algun grupo de un horario empalma con bloques sin clase.
+ * @param {Horario} horario Horario a revisar.
+ * @param {[Object]} bloquesNoClase Lista de bloques de tiempo sin clase.
+ * @returns {Boolean} true si el horario empalma con algun bloque.
+ */
+function horarioEmpalmaConBloquesNoClase(horario,bloquesNoClase){
+    for(let grupo of horario.grupos){
+        if(grupoEmpalmaConBloquesNoClase(grupo,bloquesNoClase))
+            return true;
+    }
+    return false;
+}
+
 // ----FUNCION DE EVALUACION DE HORARIO-----
 /**
  * NOTA: Todas las componentes de la f. evaluadora deben regresar valores
@@ -315,13 +368,14 @@ function evaluaHorario(horario,preferencias){
  * @param {[Horario]} horarios 
  * @param {Bool} mismoGrupo Corresponde a preferencias.mismoGrupo.
  * Indica si tomar el mismo grupo de teoria y laboratorio en caso de tener.
+ * @param {[Object]} bloquesNoClase Bloques en los que no se quiere tomar clase.
  * @returns {null}
  */
-function _generarTodosHorarios(listaDeClases,i,horarioTemp,horarios,mismoGrupo){
+function _generarTodosHorarios(listaDeClases,i,horarioTemp,horarios,mismoGrupo,bloquesNoClase){
     // Si ya recorrimos toda la lista
     if(i>=listaDeClases.length){
         // Y no hay empalmes en el horario que armamos
-        if(empalmes(horarioTemp.grupos)==0){
+        if(empalmes(horarioTemp.grupos)==0 && !horarioEmpalmaConBloquesNoClase(horarioTemp,bloquesNoClase)){
             // Guardamos el horario
             horarios.push(horarioTemp);    
         }
@@ -336,12 +390,14 @@ function _generarTodosHorarios(listaDeClases,i,horarioTemp,horarios,mismoGrupo){
                 // El numero de grupo con L al final para distinguirlo como LAB. 
                 let n=horarioTemp.grupos[numeroGrupo].numero+'L';
                 let grupo=listaDeClases[i].grupos[n];
+                if(grupoEmpalmaConBloquesNoClase(grupo,bloquesNoClase))
+                    return;
 
                 // Igual que normal (ver for de abajo)
                 let nuevosGrupos=horarioTemp.grupos.slice();
                 nuevosGrupos.push(grupo);
                 let h=new Horario(nuevosGrupos,0);
-                _generarTodosHorarios(listaDeClases,i+1,h,horarios,mismoGrupo);
+                _generarTodosHorarios(listaDeClases,i+1,h,horarios,mismoGrupo,bloquesNoClase);
                 return;
             }else{
                 console.log("Todavia no hay teoria");
@@ -351,6 +407,8 @@ function _generarTodosHorarios(listaDeClases,i,horarioTemp,horarios,mismoGrupo){
     // Para cada grupo en la clase actual
     for(let numeroGrupo in listaDeClases[i].grupos){
         let grupo=listaDeClases[i].grupos[numeroGrupo];
+        if(grupoEmpalmaConBloquesNoClase(grupo,bloquesNoClase))
+            continue;
         // Le hacemos una copia a horarioTemp.grupos
         let nuevosGrupos=horarioTemp.grupos.slice();
         // A la cual le agregamos el grupo
@@ -358,7 +416,7 @@ function _generarTodosHorarios(listaDeClases,i,horarioTemp,horarios,mismoGrupo){
         // Creamos nuevo horarioTemp con nuevosGrupos
         let h=new Horario(nuevosGrupos,0);
         // Llamada recursiva
-        _generarTodosHorarios(listaDeClases,i+1,h,horarios,mismoGrupo);
+        _generarTodosHorarios(listaDeClases,i+1,h,horarios,mismoGrupo,bloquesNoClase);
     }
 }
 
@@ -383,7 +441,7 @@ function generarTodosHorarios(clasesSeleccionadas,preferencias){
     let horarios=[];
 
     // Llamamos al generador recursivo
-    _generarTodosHorarios(listaDeClases,0,new Horario([],0),horarios,preferencias.mismoGrupo);
+    _generarTodosHorarios(listaDeClases,0,new Horario([],0),horarios,preferencias.mismoGrupo,preferencias.bloquesNoClase || []);
 
     // Evaluamos y ordenamos descendientemente
     for(let horario of horarios)

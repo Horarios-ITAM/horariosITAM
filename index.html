@@ -148,6 +148,10 @@
                                     <div id='clases_actuales' style="padding:0px;">
                                         <ul id='clases_en_horario' style="padding:0px"></ul>
                                     </div>
+                                    <!-- Entrada para marcar horas en las que no se quiere clase -->
+                                    <div style="padding:0px;margin-top:6px;">
+                                        <a href="javascript:void(0)" onclick="abrirBloqueoDesdeLink()" style="color:#000">Marcar horas sin clase</a><span id="limpiar_bloques_wrap" style="display:none;color:#000"> (<a href="javascript:void(0)" onclick="limpiarBloquesNoClase()" style="color:#000">Limpiar</a>)</span>
+                                    </div>
                                 </td>
                             </tr>
                         </table>
@@ -235,6 +239,8 @@
             let horariosGenerados=[];               // Ultimos horarios generados
             let horariosFavoritos=[];               // Horarios en "Opciones Guardadas"
             let resultado=0;                        // El indice del horarioGenerado desplegado actualmente 
+            let bloquesNoClase=[];                  // Bloques de tiempo en los que no se quiere tomar clase
+            let seleccionandoBloquesNoClase=false;  // Si la tabla de resultados esta en modo de seleccionar bloques
 
             // Cargamos datos guardados en cookies si existen
             if((getCookie("favoritos").length>0 || getCookie("clasesSeleccionadas").length>0) && confirm("Usar información guardada?")){
@@ -247,6 +253,8 @@
                 mostrar();
                 actualizarResultado(0);
             }
+            // Muestra "Limpiar" si se restauraron horas bloqueadas de cookies
+            actualizaLinkLimpiar();
 
             /**
              * Regresa clasesSeleccionadas pero solo con grupos seleccionados
@@ -351,6 +359,8 @@
                     scrollToResultados();
                 }
                 actualizaBotonGuardar();
+                actualizaBotonBloquesNoClase();
+                actualizaLinkLimpiar();
             }
 
             /**
