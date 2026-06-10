@@ -1,4 +1,4 @@
-let actualizado="1781024853105.583";
+let actualizado="1781113444791.483";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -68,6 +68,23 @@ let clases={
           "JU"
         ],
         "salon": "PF106",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ADM-14413-DESAR. DE HABILID. GERENCIALES",
+        "profesor": "MARIANA CONTRERAS AREVALO",
+        "creditos": "6",
+        "horario": "09:00-13:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RHASHAK",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "13:00"
@@ -167,24 +184,6 @@ let clases={
     "clave": "COM-16301",
     "grupos": [
       {
-        "grupo": "001",
-        "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-        "profesor": "JOSE CALIXTO CANO",
-        "creditos": "7",
-        "horario": "07:00-09:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "RHACERV",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
-      },
-      {
         "grupo": "002",
         "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
         "profesor": "XOCHITL CHAVARRIA CRUZ",
@@ -232,24 +231,6 @@ let clases={
     "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
     "clave": "COM-16306",
     "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "JOSE CALIXTO CANO",
-        "creditos": "6",
-        "horario": "07:00-09:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "RHACERV",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
-      },
       {
         "grupo": "002",
         "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
@@ -381,6 +362,24 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "19:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "CON-10100-CONTABILIDAD, I",
+        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "creditos": "6",
+        "horario": "12:00-14:01",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "PF105",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "14:01"
       }
     ]
   },
@@ -423,6 +422,24 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "19:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
+        "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
+        "creditos": "6",
+        "horario": "12:00-14:01",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "PF105",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "14:01"
       }
     ]
   },
@@ -518,6 +535,75 @@ let clases={
       }
     ]
   },
+  "DER-11114": {
+    "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
+    "clave": "DER-11114",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11114-HABILIDADES JURID. GLOBALES II",
+        "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+        "creditos": "4",
+        "horario": "16:00-19:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "PF108",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "19:00"
+      }
+    ]
+  },
+  "DER-11117": {
+    "nombre": "DER-11117-HABILIDADES JURID GLOBALES III",
+    "clave": "DER-11117",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11117-HABILIDADES JURID GLOBALES III",
+        "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+        "creditos": "6",
+        "horario": "16:00-19:01",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "PF108",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "19:01"
+      }
+    ]
+  },
+  "DER-11907": {
+    "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
+    "clave": "DER-11907",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
+        "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+        "creditos": "6",
+        "horario": "16:00-19:01",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "PF108",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "19:01"
+      }
+    ]
+  },
   "DER-13615-LAB": {
     "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
     "clave": "DER-13615",
@@ -588,30 +674,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
-      }
-    ]
-  },
-  "ECO-12201": {
-    "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
-    "clave": "ECO-12201",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
-        "profesor": "",
-        "creditos": "6",
-        "horario": "07:00-09:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU",
-          "VI"
-        ],
-        "salon": "PF105",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
       }
     ]
   },
@@ -707,29 +769,6 @@ let clases={
       }
     ]
   },
-  "EST-10102": {
-    "nombre": "EST-10102-ESTADISTICA.,II",
-    "clave": "EST-10102",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "EST-10102-ESTADISTICA.,II",
-        "profesor": "LILIANA DE LA TORRE DESENTIS",
-        "creditos": "8",
-        "horario": "09:00-11:45",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "PF104",
-        "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:45"
-      }
-    ]
-  },
   "EST-11101": {
     "nombre": "EST-11101-PROBABILIDAD",
     "clave": "EST-11101",
@@ -750,6 +789,23 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:45"
+      },
+      {
+        "grupo": "002",
+        "nombre": "EST-11101-PROBABILIDAD",
+        "profesor": "LILIANA DE LA TORRE DESENTIS",
+        "creditos": "8",
+        "horario": "09:00-11:45",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "PF104",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "11:45"
       }
     ]
   },
@@ -773,29 +829,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:45"
-      }
-    ]
-  },
-  "MAT-11100": {
-    "nombre": "MAT-11100-MATEMATICAS, I",
-    "clave": "MAT-11100",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-11100-MATEMATICAS, I",
-        "profesor": "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE",
-        "creditos": "9",
-        "horario": "07:00-10:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "PF101",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
       }
     ]
   },
@@ -842,29 +875,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "10:40"
-      }
-    ]
-  },
-  "MAT-12100": {
-    "nombre": "MAT-12100-CALCULO I",
-    "clave": "MAT-12100",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-12100-CALCULO I",
-        "profesor": "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE",
-        "creditos": "9",
-        "horario": "07:00-10:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "PF101",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
       }
     ]
   },
@@ -931,7 +941,7 @@ let clases={
           "JU",
           "VI"
         ],
-        "salon": "PF104",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -1004,29 +1014,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "10:40"
-      }
-    ]
-  },
-  "MAT-14100": {
-    "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-    "clave": "MAT-14100",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "MAT-14100-CALCULO DIF. E INT., I",
-        "profesor": "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE",
-        "creditos": "8",
-        "horario": "07:00-10:00",
-        "dias": [
-          "LU",
-          "MA",
-          "MI",
-          "JU"
-        ],
-        "salon": "PF101",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
       }
     ]
   },
@@ -1149,11 +1136,6 @@ let misProfesData={
     "general": 9.0,
     "n": 24
   },
-  "JOSE CALIXTO CANO": {
-    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Calixto-Cano_19639",
-    "general": 6.5556,
-    "n": 36
-  },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
     "general": 9.7222,
@@ -1179,6 +1161,11 @@ let misProfesData={
     "general": 8.3871,
     "n": 62
   },
+  "CLAUDIA EMILIA DE LEON PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/CLAUDIA-EMILIA-DE-LEON-PEREZ_78526",
+    "general": 8.2432,
+    "n": 37
+  },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
     "general": 6.04,
@@ -1198,11 +1185,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
     "general": 7.1034,
     "n": 29
-  },
-  "YOLANDA ISABEL PRETELIN MU\u00d1OZ DE COTE": {
-    "link": "https://www.misprofesores.com/profesores/Yolanda-isabel-Pretelini_118802",
-    "general": 8.0,
-    "n": 1
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
