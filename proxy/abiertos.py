@@ -139,10 +139,11 @@ async def ver_datos(txt_materia: str | None = None):
         'box-shadow:0 2px 6px rgba(0,0,0,0.3);">'
         '⚠️ Estás viendo una copia (proxy) de '
         '<strong>servicios.itam.mx</strong> servida por '
-        '<strong>horariosITAM</strong>. No es la página oficial del ITAM y los '
-        'datos podrían estar desactualizados. '
+        '<strong>horariosITAM</strong>. Los datos podrían estar desactualizados. '
+        'Navega manualmente desde '
         '<a href="https://servicios.itam.mx" target="_blank" rel="noopener" '
-        'style="color:#fff;text-decoration:underline;">Ir al sitio oficial</a>'
+        'style="color:#fff;text-decoration:underline;">Servicios ITAM</a> '
+        'para confirmar info importante.'
         '</div>'
     )
 
