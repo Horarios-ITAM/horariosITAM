@@ -104,9 +104,10 @@ class Preferencias{
      * @param {Int} nGruposSeleccionados Numero de grupos seleccionados
      * @param {String} generacion Cadena que indica como generar los horarios ("todos" por defecto)
      * @param {Boolean} mismoGrupo Mismo grupo teoría y lab (ingenierías)
+     * @param {[Object]} bloquesNoClase Bloques de tiempo en los que el usuario no quiere tomar clase
      */
     constructor(misProfes,misProfesPeso,menosDias,menosDiasPeso,rangoStart,
-        rangoEnd,rangoPeso,horasMuertas,horasMuertasPeso,gruposSeleccionados,nGruposSeleccionados,generacion,mismoGrupo){
+        rangoEnd,rangoPeso,horasMuertas,horasMuertasPeso,gruposSeleccionados,nGruposSeleccionados,generacion,mismoGrupo,bloquesNoClase){
             this.misProfes=misProfes;
             this.misProfesPeso=misProfesPeso;
             this.menosDias=menosDias;
@@ -120,6 +121,7 @@ class Preferencias{
             this.nGruposSeleccionados=nGruposSeleccionados;
             this.generacion=generacion;
             this.mismoGrupo=mismoGrupo;
+            this.bloquesNoClase=bloquesNoClase || [];
         }
 }
 function preferenciasFromJSON(json){

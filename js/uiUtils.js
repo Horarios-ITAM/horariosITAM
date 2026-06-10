@@ -240,6 +240,238 @@ function actualizaCookieFavoritos(){
     setCookie("favoritos",JSON.stringify(horariosFavoritos),30);
 }
 
+/**
+ * Regresa slots de media hora para bloquear.
+ * @returns {[String]} Lista de slots de la forma HH:MM-HH:MM.
+ */
+function slotsNoClase(){
+    return ['07:00-07:30','07:30-08:00','08:00-08:30','08:30-09:00','09:00-09:30','09:30-10:00','10:00-10:30','10:30-11:00','11:00-11:30','11:30-12:00','12:00-12:30','12:30-13:00','13:00-13:30','13:30-14:00','14:00-14:30','14:30-15:00','15:00-15:30','15:30-16:00','16:00-16:30','16:30-17:00','17:00-17:30','17:30-18:00','18:00-18:30','18:30-19:00','19:00-19:30','19:30-20:00','20:00-20:30','20:30-21:00','21:00-21:30','21:30-22:00'];
+}
+
+/**
+ * Regresa dias disponibles para bloquear.
+ * @returns {[String]} Lista de dias.
+ */
+function diasNoClase(){
+    return ['LU','MA','MI','JU','VI','SA'];
+}
+
+/**
+ * Regresa llave unica para un slot bloqueado.
+ * @param {String} dia Dia del slot.
+ * @param {String} inicio Inicio del slot.
+ * @returns {String} Llave del slot.
+ */
+function slotNoClaseKey(dia,inicio){
+    return dia+'|'+inicio;
+}
+
+/**
+ * Regresa set con los slots actualmente bloqueados.
+ * @returns {Set<String>} Slots bloqueados.
+ */
+function slotsSeleccionadosNoClase(){
+    let seleccionados=new Set();
+    for(let bloque of bloquesNoClase || []){
+        for(let dia of bloque.dias){
+            for(let slot of slotsNoClase()){
+                let inicioSlot=slot.split('-')[0];
+                let finSlot=slot.split('-')[1];
+                if(strToDateHora(bloque.inicio).getTime()<=strToDateHora(inicioSlot).getTime() &&
+                    strToDateHora(finSlot).getTime()<=strToDateHora(bloque.fin).getTime())
+                    seleccionados.add(slotNoClaseKey(dia,inicioSlot));
+            }
+        }
+    }
+    return seleccionados;
+}
+
+/**
+ * Convierte slots seleccionados a bloques contiguos por dia.
+ * @param {Set<String>} seleccionados Set de slots seleccionados.
+ * @returns {[Object]} Bloques contiguos.
+ */
+function bloquesNoClaseDesdeSlots(seleccionados){
+    let bloques=[];
+    for(let dia of diasNoClase()){
+        let inicioBloque=null;
+        let finBloque=null;
+        for(let slot of slotsNoClase()){
+            let inicioSlot=slot.split('-')[0];
+            let finSlot=slot.split('-')[1];
+            let seleccionado=seleccionados.has(slotNoClaseKey(dia,inicioSlot));
+
+            if(seleccionado && inicioBloque===null)
+                inicioBloque=inicioSlot;
+            if(seleccionado)
+                finBloque=finSlot;
+
+            if((!seleccionado || slot==slotsNoClase()[slotsNoClase().length-1]) && inicioBloque!==null){
+                bloques.push({
+                    dias:[dia],
+                    inicio:inicioBloque,
+                    fin:finBloque
+                });
+                inicioBloque=null;
+                finBloque=null;
+            }
+        }
+    }
+    return bloques;
+}
+
+/**
+ * Reconstruye bloquesNoClase leyendo que celdas quedaron marcadas en la tabla.
+ * @returns {[Object]} Bloques contiguos.
+ */
+function bloquesNoClaseDesdeTabla(){
+    let seleccionados=new Set();
+    for(let celda of document.querySelectorAll('#tabla .celda-bloqueada'))
+        seleccionados.add(slotNoClaseKey(celda.getAttribute('data-dia'),celda.getAttribute('data-inicio')));
+    return bloquesNoClaseDesdeSlots(seleccionados);
+}
+
+/**
+ * Regresa copia de los bloques de tiempo sin clase.
+ * @returns {[Object]} Lista de bloques.
+ */
+function getBloquesNoClase(){
+    if(typeof bloquesNoClase==='undefined')
+        return [];
+    return bloquesNoClase.map(bloque => ({
+        dias:bloque.dias.slice(),
+        inicio:bloque.inicio,
+        fin:bloque.fin
+    }));
+}
+
+/**
+ * Reemplaza los bloques sin clase guardados.
+ * @param {[Object]} nuevosBloques Lista de bloques a settear.
+ */
+function setBloquesNoClase(nuevosBloques){
+    if(typeof bloquesNoClase==='undefined')
+        bloquesNoClase=[];
+    bloquesNoClase=[];
+    for(let bloque of nuevosBloques || []){
+        if(bloque && bloque.dias && bloque.inicio && bloque.fin)
+            bloquesNoClase.push({
+                dias:bloque.dias.slice(),
+                inicio:bloque.inicio,
+                fin:bloque.fin
+            });
+    }
+}
+
+// Estado del arrastre para seleccionar varias celdas de un jalon
+let arrastrandoBloque=false;
+let bloqueandoArrastre=true;   // true=marcando, false=desmarcando
+
+/**
+ * Re-dibuja la tabla del resultado actual (para reflejar el modo de bloqueo).
+ */
+function redibujaTablaBloqueo(){
+    if(resultado<horariosGenerados.length)
+        document.getElementById("tabla").innerHTML=tablaHTMLhorario(horariosGenerados[resultado],mobile);
+}
+
+/**
+ * Entra/sale del modo para marcar horas sin clase sobre la tabla de resultados.
+ * Primera pulsacion: activa el modo (las celdas se vuelven seleccionables).
+ * Segunda pulsacion: aplica los bloqueos regenerando los horarios.
+ */
+function toggleModoBloquesNoClase(){
+    seleccionandoBloquesNoClase=!seleccionandoBloquesNoClase;
+    if(!seleccionandoBloquesNoClase){
+        document.removeEventListener("mouseup",terminaDragBloque);
+        generar();   // segunda pulsacion: aplica (re-renderiza todo en exito)
+        // Si generar() no procede (p.ej. bloqueaste de mas), avisa y regresa;
+        // dejamos la vista fuera del modo de seleccion de todas formas.
+        redibujaTablaBloqueo();
+        actualizaBotonBloquesNoClase();
+        return;
+    }
+    document.removeEventListener("mouseup",terminaDragBloque);
+    document.addEventListener("mouseup",terminaDragBloque);
+    redibujaTablaBloqueo();
+    actualizaBotonBloquesNoClase();
+}
+
+/**
+ * Entra al modo de seleccion desde el link "Marcar horas sin clase".
+ */
+function abrirBloqueoDesdeLink(){
+    if(horariosGenerados.length===0){
+        alert("Primero genera tus horarios para poder marcar las horas sin clase.");
+        return;
+    }
+    if(!seleccionandoBloquesNoClase)
+        toggleModoBloquesNoClase();
+    if(mobile)
+        scrollToResultados();
+}
+
+/**
+ * Quita todas las horas bloqueadas y refresca la tabla mostrada.
+ */
+function limpiarBloquesNoClase(){
+    bloquesNoClase=[];
+    redibujaTablaBloqueo();
+    actualizaBotonBloquesNoClase();
+    actualizaLinkLimpiar();
+}
+
+/**
+ * Muestra el link "Limpiar" solo cuando hay horas bloqueadas.
+ */
+function actualizaLinkLimpiar(){
+    let wrap=document.getElementById("limpiar_bloques_wrap");
+    if(wrap)
+        wrap.style.display=slotsSeleccionadosNoClase().size>0?"inline":"none";
+}
+
+// ---- Arrastre para marcar/desmarcar celdas ----
+function iniciaDragBloque(celda){
+    arrastrandoBloque=true;
+    bloqueandoArrastre=!celda.classList.contains("celda-bloqueada");
+    pintaCeldaBloque(celda);
+}
+function continuaDragBloque(celda){
+    if(arrastrandoBloque)
+        pintaCeldaBloque(celda);
+}
+function pintaCeldaBloque(celda){
+    if(bloqueandoArrastre)
+        celda.classList.add("celda-bloqueada");
+    else
+        celda.classList.remove("celda-bloqueada");
+}
+function terminaDragBloque(){
+    if(!arrastrandoBloque)
+        return;
+    arrastrandoBloque=false;
+    bloquesNoClase=bloquesNoClaseDesdeTabla();
+    actualizaLinkLimpiar();
+}
+
+/**
+ * Actualiza el glifo, tooltip y estilo del boton de bloquear horas (junto a >=).
+ */
+function actualizaBotonBloquesNoClase(){
+    let boton=document.getElementById("bloquear_horarios");
+    if(!boton)
+        return;
+    if(seleccionandoBloquesNoClase){
+        boton.value="⊘*";   // ⊘*  = marcando
+        boton.title="Marca en la tabla las horas en las que NO quieres clase. Pulsa de nuevo para aplicar y regenerar.";
+        boton.className="custom-button boton-bloques-activo";
+    }else{
+        boton.value="⊘";    // ⊘
+        boton.title="Marca las horas en las que no quieres tener clase";
+        boton.className="custom-button";
+    }
+}
+
 
 /**
  * Lee valores de la forma de preferencias y los usa para construir un objecto de Preferencias
@@ -298,7 +530,8 @@ function getPreferencias(){
         gruposSeleccionados,
         nGruposSeleccionados,
         generacion,
-        mismoGrupo
+        mismoGrupo,
+        getBloquesNoClase()
     );
     console.log(preferencias);
     return preferencias;
@@ -329,6 +562,9 @@ function setPreferencias(preferencias){
 
     // Mismo grupo teoria y lab
     document.getElementById('mismo_grupo_box').checked=preferencias.mismoGrupo;
+
+    // Bloques de tiempo sin clase
+    setBloquesNoClase(preferencias.bloquesNoClase || []);
 
     // Grupos seleccionados:
     // Para cada clase seleccionada
@@ -437,6 +673,7 @@ function actualizarResultado(indiceNuevo){
         resultado=indiceNuevo;
         // Actualiza el boton de guardar
         actualizaBotonGuardar();
+        actualizaBotonBloquesNoClase();
     }
 }
 
@@ -462,7 +699,9 @@ function resultadosHTML(horario,nResultados,mobile){
     buttons+=' <input type="button"  class="custom-button" onclick="actualizarResultado(resultado+1);" value="Siguiente"/>';
     // Boton de ">>"
     buttons+=' <input type="button" class="custom-button" onclick="actualizarResultado(horariosGenerados.length-1);" value="&#8805;"/>';
-    // Puntaje 
+    // Boton para marcar horas sin clase (glifo/tooltip los fija actualizaBotonBloquesNoClase)
+    buttons+=' <input type="button" class="custom-button" id="bloquear_horarios" onclick="toggleModoBloquesNoClase();" title="Marca las horas en las que no quieres tener clase" value="⊘"/>';
+    // Puntaje
     let puntaje='<div id="puntaje" style="display:inline-block;margin:0px;padding-right:20px;"><b>Puntaje: '+parseInt(horario.puntaje)+'/100</b> </div>'
     // Resultado 1 de x
     let resultado_count='<div id="resultado_count" style="display:inline-block;margin:0px;padding-right:20px;"><b>Resultado 1 de '+nResultados+'</b></div>'
@@ -483,12 +722,14 @@ function resultadosHTML(horario,nResultados,mobile){
  */
 function tablaHTMLhorario(horario){
     let gruposEnDia=gruposEnDias(horario.grupos);
+    let slotsBloqueados=slotsSeleccionadosNoClase();
     let out="";
     // Declaracion de tabla - varia si movil o no
+    let claseTabla=seleccionandoBloquesNoClase?"tabla-horario tabla-horario-bloqueando":"tabla-horario";
     if(mobile){
-        out='<table height="100" width="'+window.innerWidth*0.90+'" style="border-collapse: collapse;border: 1px solid black;">';
+        out+='<table class="'+claseTabla+'" height="100" width="'+window.innerWidth*0.90+'" style="border-collapse: collapse;border: 1px solid black;">';
     }else{
-        out='<table width="580" style="border-collapse: collapse;border: 1px solid black;font-size:10px;">';
+        out+='<table class="'+claseTabla+'" width="580" style="border-collapse: collapse;border: 1px solid black;font-size:10px;">';
     }
     // Cabecera con dias de la semana
     out+='<tr><td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE"></td>\n';
@@ -516,7 +757,19 @@ function tablaHTMLhorario(horario){
         for(let dia of ['LU','MA','MI','JU','VI','SA']){
             if(mobile && dia=="SA") continue;
             // Agrega una celda
-            let celda='<td id="grupo2" style="text-align:CENTER; vertical-align:MIDDLE">\n';
+            let inicio=slot.split('-')[0];
+            let bloqueado=slotsBloqueados.has(slotNoClaseKey(dia,inicio));
+            let claseCelda="";
+            if(seleccionandoBloquesNoClase)
+                claseCelda+=" celda-bloqueable";
+            if(bloqueado)
+                claseCelda+=" celda-bloqueada";
+            // En modo bloqueo la celda guarda su dia/hora y responde al arrastre
+            let attrsBloqueo=seleccionandoBloquesNoClase
+                ?(' data-dia="'+dia+'" data-inicio="'+inicio+'"'+
+                  ' onmousedown="iniciaDragBloque(this);return false;" onmouseover="continuaDragBloque(this);"')
+                :'';
+            let celda='<td id="grupo2" class="'+claseCelda+'" style="text-align:CENTER; vertical-align:MIDDLE"'+attrsBloqueo+'>\n';
 
             // Para cada grupo que tiene horario ese dia
             if(dia in gruposEnDia){
@@ -526,7 +779,8 @@ function tablaHTMLhorario(horario){
                     if(empalmes([grupo,grupoDummy])>0){
                         // Llena la celda
                         span_text=tooltip_text(grupo);
-                        celda+='<span title="'+span_text+'" onclick="post_link(\''+grupo.claveClase+'\')">';
+                        let onclickGrupo=seleccionandoBloquesNoClase?'':' onclick="post_link(\''+grupo.claveClase+'\')"';
+                        celda+='<span title="'+span_text+'"'+onclickGrupo+'>';
                         celda+=grupo.claveClase.split("-")[0]+grupo.claveClase.split("-")[1]+"("+grupo.numero+")";
                         celda+='</span>';
                         break;
