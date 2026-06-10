@@ -130,21 +130,28 @@ function agregar(nombreClase,deGuardadas){
 
     // Fetch open group data
     fetch(`https://proxy.horariositam.com/abiertos?txt_materia=${nombreClase}`)
-        .then(response => response.json())
+        .then(response => {
+            // fetch no rechaza en 4xx/5xx; si la respuesta no es OK (400/404/500)
+            // no tenemos datos de grupos abiertos, así que no marcamos nada.
+            if (!response.ok) return null;
+            return response.json();
+        })
         .then(openGroups => {
             console.log('Open groups:', openGroups); // Log the response
-            clase.openGroups = openGroups; // Store open groups in the Clase object
 
-            // Update the existing details HTML to grey out closed groups
-            // We need to re-generate or modify the specific rows
-            const existingDetailsElement = document.getElementById(nombreClase);
-            if (existingDetailsElement) {
+            // Solo aplicamos el grey-out si recibimos un arreglo válido del proxy.
+            if (Array.isArray(openGroups)) {
+                clase.openGroups = openGroups; // Store open groups in the Clase object
+
                 // Re-render the details content with open group info
-                existingDetailsElement.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase);
+                const existingDetailsElement = document.getElementById(nombreClase);
+                if (existingDetailsElement) {
+                    existingDetailsElement.innerHTML = '<summary>'+nombreClase+'</summary><br>'+detallesHTML(clase);
+                }
             }
 
-            // Por ultimo checa si la clase tiene asociado un laboratorio y agregalo
-            // This might need adjustment if labs are added before proxy returns
+            // El auto-agregado del laboratorio debe correr pase lo que pase
+            // (incluso si el proxy falló para la clase padre).
             if(!((clave+'-LAB') in clasesSeleccionadas) && (clave+'-LAB') in clases)
                 agregar(nombreClase+'-LAB');
         })
