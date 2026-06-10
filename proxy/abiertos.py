@@ -79,6 +79,10 @@ async def proxy_grace(txt_materia: str | None = None):
                 detail=f"No se encontró información detallada para la clase '{txt_materia}'. Podría no existir, la estructura de datos en Grace cambió, o es una sección de laboratorio que no se muestra individualmente.",
             )
 
+    except HTTPException:
+        # Dejar pasar las HTTPException que levantamos a propósito (p. ej. 404).
+        # Si no, el `except Exception` de abajo las atraparía y las convertiría en 500.
+        raise
     except ValueError as e:
         print(f"Error de validación/lógica en el cliente para '{txt_materia}': {e}")
         raise HTTPException(
