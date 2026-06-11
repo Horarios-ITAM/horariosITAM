@@ -11,3 +11,7 @@ update/data/scrappers/
 
 **/__pycache__/**
 **/*.pyc
+
+# Datos generados por el dashboard del proxy (viven en el servidor)
+proxy/snapshots/
+proxy/catalog_*.json
