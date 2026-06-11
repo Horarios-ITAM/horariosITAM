@@ -1,4 +1,4 @@
-let actualizado="1781113444792.5564";
+let actualizado="1781200179346.0632";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -176,6 +176,26 @@ let profesores={
           "nombre": "COM-14113-FUNDAMENTOS DE PROGRAMACION",
           "profesor": "SILVIA RIOS MAGOS",
           "creditos": "6",
+          "horario": "13:30-15:30",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "13:30",
+          "fin": "15:30"
+        }
+      ],
+      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
+        {
+          "grupo": "003",
+          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
+          "profesor": "SILVIA RIOS MAGOS",
+          "creditos": "7",
           "horario": "13:30-15:30",
           "dias": [
             "LU",
@@ -438,7 +458,7 @@ let profesores={
           "nombre": "CON-10100-CONTABILIDAD, I",
           "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
           "creditos": "6",
-          "horario": "12:00-14:01",
+          "horario": "12:00-14:00",
           "dias": [
             "LU",
             "MA",
@@ -449,7 +469,7 @@ let profesores={
           "salon": "PF105",
           "campus": "RIO HONDO",
           "inicio": "12:00",
-          "fin": "14:01"
+          "fin": "14:00"
         }
       ],
       "CON-10110-FUNDAMEN. DE CONTABILID FINANC": [
@@ -458,7 +478,7 @@ let profesores={
           "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
           "profesor": "CLAUDIA EMILIA DE LEON PEREZ",
           "creditos": "6",
-          "horario": "12:00-14:01",
+          "horario": "12:00-14:00",
           "dias": [
             "LU",
             "MA",
@@ -469,7 +489,7 @@ let profesores={
           "salon": "PF105",
           "campus": "RIO HONDO",
           "inicio": "12:00",
-          "fin": "14:01"
+          "fin": "14:00"
         }
       ]
     }
@@ -607,7 +627,7 @@ let profesores={
           "nombre": "DER-11117-HABILIDADES JURID GLOBALES III",
           "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
           "creditos": "6",
-          "horario": "16:00-19:01",
+          "horario": "16:00-19:00",
           "dias": [
             "LU",
             "MA",
@@ -617,7 +637,7 @@ let profesores={
           "salon": "PF108",
           "campus": "RIO HONDO",
           "inicio": "16:00",
-          "fin": "19:01"
+          "fin": "19:00"
         }
       ],
       "DER-11907-TECNICAS DE ARGUM. JURID.": [
@@ -626,7 +646,7 @@ let profesores={
           "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
           "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
           "creditos": "6",
-          "horario": "16:00-19:01",
+          "horario": "16:00-19:00",
           "dias": [
             "LU",
             "MA",
@@ -636,7 +656,26 @@ let profesores={
           "salon": "PF108",
           "campus": "RIO HONDO",
           "inicio": "16:00",
-          "fin": "19:01"
+          "fin": "19:00"
+        }
+      ],
+      "DER-16925-LABORATORIO DE DERECHO PRIVADO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-16925-LABORATORIO DE DERECHO PRIVADO",
+          "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+          "creditos": "4",
+          "horario": "16:00-19:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
         }
       ]
     }
