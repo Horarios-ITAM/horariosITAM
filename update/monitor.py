@@ -66,7 +66,7 @@ if __name__ == "__main__":
     argparser.add_argument(
         "--proxy",
         help="url del proxy",
-        default="https://proxy.horariositam.com/abiertos?txt_materia=hi",
+        default="https://proxy.horariositam.com/stats",
     )
     argparser.add_argument(
         "--channel", help="ntfy channel for push notifications", required=True
@@ -81,7 +81,7 @@ if __name__ == "__main__":
     req(URL_BASE)
 
     # Checamos que el proxy este arriba
-    req(args.proxy, acceptable_status_codes=[500, 503])
+    req(args.proxy)
 
     # Que datos (index y profesores) esten actualizados (no mas de 2 dias)
     checa_actualizado_hace(URL_BASE + "/js/datos/datos_index.js")
