@@ -1,4 +1,4 @@
-let actualizado="1781452961009.9565";
+let actualizado="1781549340564.9675";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -720,7 +720,7 @@ let profesores={
             "MA",
             "MI"
           ],
-          "salon": "PF108",
+          "salon": "PF103",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:45"
@@ -747,6 +747,31 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "JORGE HERRERA JUAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Herrera-Juarez_95615",
+    "general": 9.0,
+    "n": 1,
+    "grupos": {
+      "ECO-15301-ECONOMIA DE LA EDUCACION (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15301-ECONOMIA DE LA EDUCACION (OP)",
+          "profesor": "JORGE HERRERA JUAREZ",
+          "creditos": "6",
+          "horario": "19:00-21:40",
+          "dias": [
+            "LU",
+            "MA",
+            "MI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:40"
         }
       ]
     }
@@ -805,7 +830,7 @@ let profesores={
           "nombre": "EST-10101-ESTADISTICA.,I",
           "profesor": "MARIANA BRIZUELA CURIEL",
           "creditos": "8",
-          "horario": "11:00-13:45",
+          "horario": "11:00-13:40",
           "dias": [
             "LU",
             "MA",
@@ -815,7 +840,7 @@ let profesores={
           "salon": "PF102",
           "campus": "RIO HONDO",
           "inicio": "11:00",
-          "fin": "13:45"
+          "fin": "13:40"
         }
       ]
     }
@@ -828,7 +853,7 @@ let profesores={
           "nombre": "EST-11101-PROBABILIDAD",
           "profesor": "MARIO DAVID COOPER YARZA",
           "creditos": "8",
-          "horario": "18:00-20:45",
+          "horario": "18:00-20:40",
           "dias": [
             "LU",
             "MA",
@@ -838,7 +863,7 @@ let profesores={
           "salon": "PF106",
           "campus": "RIO HONDO",
           "inicio": "18:00",
-          "fin": "20:45"
+          "fin": "20:40"
         }
       ]
     }
@@ -854,7 +879,7 @@ let profesores={
           "nombre": "EST-11101-PROBABILIDAD",
           "profesor": "LILIANA DE LA TORRE DESENTIS",
           "creditos": "8",
-          "horario": "09:00-11:45",
+          "horario": "09:00-11:40",
           "dias": [
             "LU",
             "MA",
@@ -864,7 +889,7 @@ let profesores={
           "salon": "PF104",
           "campus": "RIO HONDO",
           "inicio": "09:00",
-          "fin": "11:45"
+          "fin": "11:40"
         }
       ]
     }
@@ -880,7 +905,7 @@ let profesores={
           "nombre": "EST-11102-INFERENCIA ESTADISTICA",
           "profesor": "JOSE DAVID SANTOS SALAZAR",
           "creditos": "8",
-          "horario": "18:00-20:45",
+          "horario": "18:00-20:40",
           "dias": [
             "LU",
             "MA",
@@ -890,7 +915,33 @@ let profesores={
           "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "18:00",
-          "fin": "20:45"
+          "fin": "20:40"
+        }
+      ]
+    }
+  },
+  "MIGUEL ANGEL MENDEZ ANTONIO": {
+    "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
+    "general": 5.7875,
+    "n": 80,
+    "grupos": {
+      "EST-11102-INFERENCIA ESTADISTICA": [
+        {
+          "grupo": "002",
+          "nombre": "EST-11102-INFERENCIA ESTADISTICA",
+          "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
+          "creditos": "8",
+          "horario": "08:00-10:40",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "10:40"
         }
       ]
     }
@@ -1203,6 +1254,7 @@ let mejoresPorDepto={
     "JUAN PABLO RODRIGUEZ MAZA"
   ],
   "ECONOMIA": [
+    "JORGE HERRERA JUAREZ",
     "JORGE EMILIO MELENDEZ FLORES",
     "ERICK FERNANDO MOLINA PEREZ"
   ],
@@ -1212,6 +1264,7 @@ let mejoresPorDepto={
   "ESTADISTICA": [
     "LILIANA DE LA TORRE DESENTIS",
     "JOSE DAVID SANTOS SALAZAR",
+    "MIGUEL ANGEL MENDEZ ANTONIO",
     "MARIANA BRIZUELA CURIEL",
     "MARIO DAVID COOPER YARZA"
   ],

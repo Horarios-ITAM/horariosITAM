@@ -1,4 +1,4 @@
-let actualizado="1781452961008.79";
+let actualizado="1781549340564.0215";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -665,7 +665,7 @@ let clases={
           "MA",
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "PF103",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:45"
@@ -741,6 +741,28 @@ let clases={
       }
     ]
   },
+  "ECO-15301": {
+    "nombre": "ECO-15301-ECONOMIA DE LA EDUCACION (OP)",
+    "clave": "ECO-15301",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-15301-ECONOMIA DE LA EDUCACION (OP)",
+        "profesor": "JORGE HERRERA JUAREZ",
+        "creditos": "6",
+        "horario": "19:00-21:40",
+        "dias": [
+          "LU",
+          "MA",
+          "MI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "21:40"
+      }
+    ]
+  },
   "ECO-17100": {
     "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
     "clave": "ECO-17100",
@@ -796,7 +818,7 @@ let clases={
         "nombre": "EST-10101-ESTADISTICA.,I",
         "profesor": "MARIANA BRIZUELA CURIEL",
         "creditos": "8",
-        "horario": "11:00-13:45",
+        "horario": "11:00-13:40",
         "dias": [
           "LU",
           "MA",
@@ -806,7 +828,7 @@ let clases={
         "salon": "PF102",
         "campus": "RIO HONDO",
         "inicio": "11:00",
-        "fin": "13:45"
+        "fin": "13:40"
       }
     ]
   },
@@ -819,7 +841,7 @@ let clases={
         "nombre": "EST-11101-PROBABILIDAD",
         "profesor": "MARIO DAVID COOPER YARZA",
         "creditos": "8",
-        "horario": "18:00-20:45",
+        "horario": "18:00-20:40",
         "dias": [
           "LU",
           "MA",
@@ -829,14 +851,14 @@ let clases={
         "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "18:00",
-        "fin": "20:45"
+        "fin": "20:40"
       },
       {
         "grupo": "002",
         "nombre": "EST-11101-PROBABILIDAD",
         "profesor": "LILIANA DE LA TORRE DESENTIS",
         "creditos": "8",
-        "horario": "09:00-11:45",
+        "horario": "09:00-11:40",
         "dias": [
           "LU",
           "MA",
@@ -846,7 +868,7 @@ let clases={
         "salon": "PF104",
         "campus": "RIO HONDO",
         "inicio": "09:00",
-        "fin": "11:45"
+        "fin": "11:40"
       }
     ]
   },
@@ -859,7 +881,7 @@ let clases={
         "nombre": "EST-11102-INFERENCIA ESTADISTICA",
         "profesor": "JOSE DAVID SANTOS SALAZAR",
         "creditos": "8",
-        "horario": "18:00-20:45",
+        "horario": "18:00-20:40",
         "dias": [
           "LU",
           "MA",
@@ -869,7 +891,24 @@ let clases={
         "salon": "PF107",
         "campus": "RIO HONDO",
         "inicio": "18:00",
-        "fin": "20:45"
+        "fin": "20:40"
+      },
+      {
+        "grupo": "002",
+        "nombre": "EST-11102-INFERENCIA ESTADISTICA",
+        "profesor": "MIGUEL ANGEL MENDEZ ANTONIO",
+        "creditos": "8",
+        "horario": "08:00-10:40",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "PF108",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "10:40"
       }
     ]
   },
@@ -1217,6 +1256,11 @@ let misProfesData={
     "general": 2.0,
     "n": 1
   },
+  "JORGE HERRERA JUAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Herrera-Juarez_95615",
+    "general": 9.0,
+    "n": 1
+  },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
     "general": 7.3889,
@@ -1226,6 +1270,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-David-Santos-Salazar_108016",
     "general": 7.1034,
     "n": 29
+  },
+  "MIGUEL ANGEL MENDEZ ANTONIO": {
+    "link": "https://www.misprofesores.com/profesores/MIGUEL-ANGEL-MENDEZ-ANTONIO_40950",
+    "general": 5.7875,
+    "n": 80
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
