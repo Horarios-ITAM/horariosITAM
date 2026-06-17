@@ -1,4 +1,4 @@
-let actualizado="1781635332992.2034";
+let actualizado="1781717289844.3347";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -1224,6 +1224,32 @@ let profesores={
         }
       ]
     }
+  },
+  "FRANCISCO JAVIER BLANCO RIVERA": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Blanco_92120",
+    "general": 5.8,
+    "n": 5,
+    "grupos": {
+      "SDI-15977-FISICA DEL UNIVERSO": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15977-FISICA DEL UNIVERSO",
+          "profesor": "FRANCISCO JAVIER BLANCO RIVERA",
+          "creditos": "6",
+          "horario": "11:00-13:00",
+          "dias": [
+            "LU",
+            "MA",
+            "MI",
+            "JU"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "13:00"
+        }
+      ]
+    }
   }
 };
 let mejoresPorDepto={
@@ -1277,5 +1303,8 @@ let mejoresPorDepto={
     "ANGEL PEREZ JUAREZ",
     "ALEJANDRO RIOS HERREJON",
     "FRANCISCO FERNANDO NORE\u00d1A VILLARIAS"
+  ],
+  "SISTEMAS DIGITALES": [
+    "FRANCISCO JAVIER BLANCO RIVERA"
   ]
 };

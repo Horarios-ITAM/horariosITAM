@@ -1,4 +1,4 @@
-let actualizado="1781635332991.1096";
+let actualizado="1781717289843.218";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -1188,6 +1188,29 @@ let clases={
         "fin": "09:00"
       }
     ]
+  },
+  "SDI-15977": {
+    "nombre": "SDI-15977-FISICA DEL UNIVERSO",
+    "clave": "SDI-15977",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-15977-FISICA DEL UNIVERSO",
+        "profesor": "FRANCISCO JAVIER BLANCO RIVERA",
+        "creditos": "6",
+        "horario": "11:00-13:00",
+        "dias": [
+          "LU",
+          "MA",
+          "MI",
+          "JU"
+        ],
+        "salon": "RHLMINT",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "13:00"
+      }
+    ]
   }
 };
 let misProfesData={
@@ -1305,5 +1328,10 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
     "general": 6.8571,
     "n": 21
+  },
+  "FRANCISCO JAVIER BLANCO RIVERA": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Blanco_92120",
+    "general": 5.8,
+    "n": 5
   }
 };
