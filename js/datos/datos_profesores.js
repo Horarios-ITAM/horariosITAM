@@ -1,4 +1,4 @@
-let actualizado="1781717289844.3347";
+let actualizado="1781804414001.9846";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -799,6 +799,28 @@ let profesores={
       ]
     }
   },
+  "GUSTAVO HERNANDEZ MONROY": {
+    "grupos": {
+      "ECO-18105-TOP. EN DESARROLLO ECONOMICO": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18105-TOP. EN DESARROLLO ECONOMICO",
+          "profesor": "GUSTAVO HERNANDEZ MONROY",
+          "creditos": "6",
+          "horario": "07:00-09:40",
+          "dias": [
+            "MI",
+            "JU",
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:40"
+        }
+      ]
+    }
+  },
   "LUIS FERNANDO BALAGUERA SARMIENTO": {
     "grupos": {
       "EIN-19408-AFRICA": [
@@ -1282,7 +1304,8 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "JORGE HERRERA JUAREZ",
     "JORGE EMILIO MELENDEZ FLORES",
-    "ERICK FERNANDO MOLINA PEREZ"
+    "ERICK FERNANDO MOLINA PEREZ",
+    "GUSTAVO HERNANDEZ MONROY"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "LUIS FERNANDO BALAGUERA SARMIENTO"

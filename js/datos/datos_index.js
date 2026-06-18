@@ -1,4 +1,4 @@
-let actualizado="1781717289843.218";
+let actualizado="1781804414000.8633";
 let periodo="VERANO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3007";
@@ -783,6 +783,28 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:30",
         "fin": "18:30"
+      }
+    ]
+  },
+  "ECO-18105": {
+    "nombre": "ECO-18105-TOP. EN DESARROLLO ECONOMICO",
+    "clave": "ECO-18105",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-18105-TOP. EN DESARROLLO ECONOMICO",
+        "profesor": "GUSTAVO HERNANDEZ MONROY",
+        "creditos": "6",
+        "horario": "07:00-09:40",
+        "dias": [
+          "MI",
+          "JU",
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:40"
       }
     ]
   },
