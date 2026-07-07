@@ -1,4 +1,4 @@
-let actualizado="1783358575203.9695";
+let actualizado="1783442872028.6462";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -918,23 +918,6 @@ let profesores={
           "fin": "18:00"
         }
       ],
-      "DER-14505-DELITOS": [
-        {
-          "grupo": "002",
-          "nombre": "DER-14505-DELITOS",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
       "DER-14606-DERECHO PROCESAL PENAL": [
         {
           "grupo": "001",
@@ -950,40 +933,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ],
-      "DER-15511-DER. CONST. III Y SEM DE ARGUM": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15511-DER. CONST. III Y SEM DE ARGUM",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "DER-15600-DERECHO CONSTITUCIONAL III": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15600-DERECHO CONSTITUCIONAL III",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ],
       "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB": [
@@ -1715,14 +1664,14 @@ let profesores={
           "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
           "profesor": "",
           "creditos": "10",
-          "horario": "09:00-11:00",
+          "horario": "10:00-12:00",
           "dias": [
             "VI"
           ],
           "salon": "RHLREDE",
           "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "11:00"
+          "inicio": "10:00",
+          "fin": "12:00"
         }
       ],
       "SDI-17506-SE\u00d1ALES Y SISTEMAS-LAB": [
@@ -1972,8 +1921,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.8707,
-    "n": 294,
+    "general": 4.861,
+    "n": 295,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {
@@ -4476,9 +4425,9 @@ let profesores={
           "creditos": "6",
           "horario": "11:30-13:00",
           "dias": [
-            "VI"
+            "JU"
           ],
-          "salon": "RHCC102",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -4509,9 +4458,9 @@ let profesores={
           "creditos": "6",
           "horario": "11:30-13:00",
           "dias": [
-            "VI"
+            "JU"
           ],
-          "salon": "RHCC102",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -4525,9 +4474,9 @@ let profesores={
           "creditos": "7",
           "horario": "12:00-13:00",
           "dias": [
-            "VI"
+            "JU"
           ],
-          "salon": "RHCC102",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
@@ -4918,9 +4867,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5960,9 +5909,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -8974,7 +8923,7 @@ let profesores={
           "dias": [
             "MI"
           ],
-          "salon": "RHSA3",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
@@ -9151,6 +9100,38 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "DER-14505-DELITOS",
+          "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "DER-15511-DER. CONST. III Y SEM DE ARGUM": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15511-DER. CONST. III Y SEM DE ARGUM",
+          "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
+          "creditos": "9",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -9170,6 +9151,23 @@ let profesores={
           "salon": "RH308",
           "campus": "RIO HONDO",
           "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ],
+      "DER-15511-DER. CONST. III Y SEM DE ARGUM": [
+        {
+          "grupo": "002",
+          "nombre": "DER-15511-DER. CONST. III Y SEM DE ARGUM",
+          "profesor": "MIGUEL ANTONIO NU\u00d1EZ VALADEZ",
+          "creditos": "9",
+          "horario": "19:30-21:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "19:30",
           "fin": "21:00"
         }
       ]
@@ -9207,7 +9205,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "22:00"
@@ -9282,6 +9280,22 @@ let profesores={
           "salon": "RH313",
           "campus": "RIO HONDO",
           "inicio": "12:00",
+          "fin": "14:00"
+        }
+      ],
+      "DER-11125-CONCURSOS INTERNACIONALES": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11125-CONCURSOS INTERNACIONALES",
+          "profesor": "HANNAH BIRKENKOTTER",
+          "creditos": "6",
+          "horario": "11:00-14:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
           "fin": "14:00"
         }
       ]
@@ -10045,7 +10059,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH102",
+          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -10062,7 +10076,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH102",
+          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -10095,14 +10109,14 @@ let profesores={
           "nombre": "DER-15076-CLIN. LITIGIO PENAL VIOL. DDHH-LAB",
           "profesor": "EDWIN ALAN PI\u00d1ON GONZALEZ",
           "creditos": "2",
-          "horario": "10:00-12:00",
+          "horario": "17:00-19:00",
           "dias": [
-            "VI"
+            "LU"
           ],
           "salon": "RHCUBIC",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
+          "inicio": "17:00",
+          "fin": "19:00"
         }
       ]
     }
@@ -10187,27 +10201,35 @@ let profesores={
       ]
     }
   },
+  "FRANCISCA MARIA POU GIMENEZ": {
+    "link": "https://www.misprofesores.com/profesores/Francisca-Pou-Gim\u00e9nez_98102",
+    "general": 6.5,
+    "n": 4,
+    "grupos": {
+      "DER-15600-DERECHO CONSTITUCIONAL III": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15600-DERECHO CONSTITUCIONAL III",
+          "profesor": "FRANCISCA MARIA POU GIMENEZ",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
   "DAVID GARCIA SARUBBI": {
     "link": "https://www.misprofesores.com/profesores/David-Garcia-Sarubbi_74381",
     "general": 9.4444,
     "n": 9,
     "grupos": {
-      "DER-15511-DER. CONST. III Y SEM DE ARGUM": [
-        {
-          "grupo": "002",
-          "nombre": "DER-15511-DER. CONST. III Y SEM DE ARGUM",
-          "profesor": "DAVID GARCIA SARUBBI",
-          "creditos": "9",
-          "horario": "19:00-20:30",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH308",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
-        }
-      ],
       "DER-15600-DERECHO CONSTITUCIONAL III": [
         {
           "grupo": "002",
@@ -10268,13 +10290,16 @@ let profesores={
       ]
     }
   },
-  "MIGUEL BERNARDO DE ERICE RODRIGUEZ": {
+  "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
+    "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
+    "general": 6.04,
+    "n": 25,
     "grupos": {
       "DER-16502-DERECHO MERCANTIL I": [
         {
           "grupo": "001",
           "nombre": "DER-16502-DERECHO MERCANTIL I",
-          "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
+          "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
@@ -10289,26 +10314,22 @@ let profesores={
       ]
     }
   },
-  "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
-    "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
-    "general": 6.04,
-    "n": 25,
+  "MIGUEL BERNARDO DE ERICE RODRIGUEZ": {
     "grupos": {
       "DER-16502-DERECHO MERCANTIL I": [
         {
           "grupo": "002",
           "nombre": "DER-16502-DERECHO MERCANTIL I",
-          "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+          "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
           "creditos": "6",
-          "horario": "10:00-11:30",
+          "horario": "07:00-10:00",
           "dias": [
-            "MA",
-            "JU"
+            "VI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH310",
           "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -10366,7 +10387,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHB-3",
+          "salon": "RH314",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -10502,13 +10523,16 @@ let profesores={
       ]
     }
   },
-  "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA": {
+  "FERNANDO BUENO AJA": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
+    "general": 6.5,
+    "n": 8,
     "grupos": {
       "DER-17703-DERECHO FISCAL I": [
         {
           "grupo": "002",
           "nombre": "DER-17703-DERECHO FISCAL I",
-          "profesor": "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA",
+          "profesor": "FERNANDO BUENO AJA",
           "creditos": "8",
           "horario": "19:00-21:00",
           "dias": [
@@ -10525,7 +10549,7 @@ let profesores={
         {
           "grupo": "002",
           "nombre": "DER-17807-DERECHO FISCAL I",
-          "profesor": "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA",
+          "profesor": "FERNANDO BUENO AJA",
           "creditos": "6",
           "horario": "19:00-20:30",
           "dias": [
@@ -10540,16 +10564,13 @@ let profesores={
       ]
     }
   },
-  "FERNANDO BUENO AJA": {
-    "link": "https://www.misprofesores.com/profesores/Fernando-Bueno-Aja_130078",
-    "general": 6.5,
-    "n": 8,
+  "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA": {
     "grupos": {
       "DER-17804-DERECHO FISCAL II": [
         {
           "grupo": "001",
           "nombre": "DER-17804-DERECHO FISCAL II",
-          "profesor": "FERNANDO BUENO AJA",
+          "profesor": "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA",
           "creditos": "8",
           "horario": "19:00-21:00",
           "dias": [
@@ -10566,7 +10587,7 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "DER-17806-DERECHO FISCAL II",
-          "profesor": "FERNANDO BUENO AJA",
+          "profesor": "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA",
           "creditos": "6",
           "horario": "19:00-20:30",
           "dias": [
@@ -13170,8 +13191,8 @@ let profesores={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.0,
-    "n": 31,
+    "general": 9.0313,
+    "n": 32,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -13539,8 +13560,8 @@ let profesores={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4023,
-    "n": 87,
+    "general": 9.4091,
+    "n": 88,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -13928,8 +13949,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7609,
-    "n": 46,
+    "general": 7.766,
+    "n": 47,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14812,9 +14833,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -16626,9 +16647,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -20606,9 +20627,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
+    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF",
-    "JUAN FERNANDO CALDERON CABELLO"
+    "VIRGINIA KALIS LETAYF"
   ],
   "CIENCIA POLITICA": [
     "FELIPE CURCO COBOS",
@@ -20679,8 +20700,8 @@ let mejoresPorDepto={
     "ERICK MIER MORENO",
     "JOSE EZEQUIEL SOTO SANCHEZ",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
-    "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "MARTIN MAGRIS",
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",

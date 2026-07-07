@@ -1,4 +1,4 @@
-let actualizado="1783358575185.3184";
+let actualizado="1783442872013.9062";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3050,9 +3050,9 @@ let clases={
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "RHCC102",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -3091,9 +3091,9 @@ let clases={
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "RHCC102",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -3111,9 +3111,9 @@ let clases={
         "creditos": "7",
         "horario": "12:00-13:00",
         "dias": [
-          "VI"
+          "JU"
         ],
-        "salon": "RHCC102",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:00"
@@ -7388,7 +7388,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -7641,6 +7641,26 @@ let clases={
         "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "12:00",
+        "fin": "14:00"
+      }
+    ]
+  },
+  "DER-11125": {
+    "nombre": "DER-11125-CONCURSOS INTERNACIONALES",
+    "clave": "DER-11125",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11125-CONCURSOS INTERNACIONALES",
+        "profesor": "HANNAH BIRKENKOTTER",
+        "creditos": "6",
+        "horario": "11:00-14:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
         "fin": "14:00"
       }
     ]
@@ -8333,7 +8353,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-14505-DELITOS",
-        "profesor": "",
+        "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -8461,14 +8481,14 @@ let clases={
         "nombre": "DER-15076-CLIN. LITIGIO PENAL VIOL. DDHH-LAB",
         "profesor": "EDWIN ALAN PI\u00d1ON GONZALEZ",
         "creditos": "2",
-        "horario": "10:00-12:00",
+        "horario": "17:00-19:00",
         "dias": [
-          "VI"
+          "LU"
         ],
         "salon": "RHCUBIC",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "12:00"
+        "inicio": "17:00",
+        "fin": "19:00"
       }
     ]
   },
@@ -8579,7 +8599,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH102",
+        "salon": "RH207",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -8615,7 +8635,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH102",
+        "salon": "RH207",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -8670,7 +8690,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15511-DER. CONST. III Y SEM DE ARGUM",
-        "profesor": "",
+        "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
         "creditos": "9",
         "horario": "16:00-17:30",
         "dias": [
@@ -8685,16 +8705,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-15511-DER. CONST. III Y SEM DE ARGUM",
-        "profesor": "DAVID GARCIA SARUBBI",
+        "profesor": "MIGUEL ANTONIO NU\u00d1EZ VALADEZ",
         "creditos": "9",
-        "horario": "19:00-20:30",
+        "horario": "19:30-21:00",
         "dias": [
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH308",
+        "salon": "RH317",
         "campus": "RIO HONDO",
-        "inicio": "19:00",
-        "fin": "20:30"
+        "inicio": "19:30",
+        "fin": "21:00"
       }
     ]
   },
@@ -8705,7 +8726,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15600-DERECHO CONSTITUCIONAL III",
-        "profesor": "",
+        "profesor": "FRANCISCA MARIA POU GIMENEZ",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -8808,7 +8829,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-16502-DERECHO MERCANTIL I",
-        "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
+        "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -8823,17 +8844,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-16502-DERECHO MERCANTIL I",
-        "profesor": "ROSA MARIA ROJAS VERTIZ CONTRERAS",
+        "profesor": "MIGUEL BERNARDO DE ERICE RODRIGUEZ",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "07:00-10:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RHSA2",
+        "salon": "RH310",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -8892,7 +8912,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHB-3",
+        "salon": "RH314",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -9072,7 +9092,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-17703-DERECHO FISCAL I",
-        "profesor": "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA",
+        "profesor": "FERNANDO BUENO AJA",
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
@@ -9093,7 +9113,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-17804-DERECHO FISCAL II",
-        "profesor": "FERNANDO BUENO AJA",
+        "profesor": "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA",
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
@@ -9114,7 +9134,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-17806-DERECHO FISCAL II",
-        "profesor": "FERNANDO BUENO AJA",
+        "profesor": "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -9150,7 +9170,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-17807-DERECHO FISCAL I",
-        "profesor": "CHRISTIAN RAUL NATERA NI\u00d1O DE RIVERA",
+        "profesor": "FERNANDO BUENO AJA",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -9198,7 +9218,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHSA3",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
@@ -19099,14 +19119,14 @@ let clases={
         "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
         "profesor": "",
         "creditos": "10",
-        "horario": "09:00-11:00",
+        "horario": "10:00-12:00",
         "dias": [
           "VI"
         ],
         "salon": "RHLREDE",
         "campus": "RIO HONDO",
-        "inicio": "09:00",
-        "fin": "11:00"
+        "inicio": "10:00",
+        "fin": "12:00"
       }
     ]
   },
@@ -19559,8 +19579,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.8707,
-    "n": 294
+    "general": 4.861,
+    "n": 295
   },
   "KRZYSZTOF ZAREMBA": {
     "link": "https://www.misprofesores.com/profesores/Krzystof-Zaremba_171808",
@@ -19768,9 +19788,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -19868,9 +19888,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20202,6 +20222,11 @@ let misProfesData={
     "general": 8.5263,
     "n": 19
   },
+  "FRANCISCA MARIA POU GIMENEZ": {
+    "link": "https://www.misprofesores.com/profesores/Francisca-Pou-Gim\u00e9nez_98102",
+    "general": 6.5,
+    "n": 4
+  },
   "DAVID GARCIA SARUBBI": {
     "link": "https://www.misprofesores.com/profesores/David-Garcia-Sarubbi_74381",
     "general": 9.4444,
@@ -20479,8 +20504,8 @@ let misProfesData={
   },
   "JAVIER ARTURO VELAZQUEZ GALVAN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Arturo-Vel\u00e1zquez-Galvan_110198",
-    "general": 9.0,
-    "n": 31
+    "general": 9.0313,
+    "n": 32
   },
   "MARIA ARIETTE ALVAREZ KURI": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Ariette-\u00c1lvarez-Kuri_21114",
@@ -20514,8 +20539,8 @@ let misProfesData={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4023,
-    "n": 87
+    "general": 9.4091,
+    "n": 88
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
@@ -20549,8 +20574,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7609,
-    "n": 46
+    "general": 7.766,
+    "n": 47
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
@@ -20643,9 +20668,9 @@ let misProfesData={
     "n": 26
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 7.5,
+    "n": 2
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -20798,9 +20823,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
