@@ -1,4 +1,4 @@
-let actualizado="1783442872013.9062";
+let actualizado="1783527463729.8403";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19777,6 +19777,11 @@ let misProfesData={
     "general": 10.0,
     "n": 3
   },
+  "ALEXANDER PERELMAN ARCQ": {
+    "link": "https://www.misprofesores.com/profesores/Alexander-Perelman_195099",
+    "general": 0.0,
+    "n": 0
+  },
   "ANA EUGENIA DIAZ ROSI\u00d1OL": {
     "link": "https://www.misprofesores.com/profesores/Ana-Diaz-Rosinol_21532",
     "general": 9.4783,
@@ -19854,8 +19859,8 @@ let misProfesData={
   },
   "ALBERTO ISAAC RAMIREZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
-    "general": 8.5,
-    "n": 20
+    "general": 8.5714,
+    "n": 21
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
@@ -19888,9 +19893,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -19904,8 +19909,8 @@ let misProfesData={
   },
   "ROSA MARIA ATHIE RUBIO": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Ma.-Athie_19736",
-    "general": 8.9452,
-    "n": 73
+    "general": 8.9595,
+    "n": 74
   },
   "SANDRA PATRICIA MINABURO VILLAR": {
     "link": "https://www.misprofesores.com/profesores/Sandra-Patricia-Minaburo-Villar_10747",
@@ -20334,8 +20339,8 @@ let misProfesData={
   },
   "CLAUDIA ABURTO RANCA\u00d1O": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Aburto-Ranca\u00f1o_10763",
-    "general": 8.9059,
-    "n": 85
+    "general": 8.9186,
+    "n": 86
   },
   "CHRISTINA CORNEJO VAN LUIT": {
     "link": "https://www.misprofesores.com/profesores/Christina-Cornejo-Van-Luit_17616",
@@ -20749,8 +20754,8 @@ let misProfesData={
   },
   "BRAULIO PI\u00d1A AMAROS": {
     "link": "https://www.misprofesores.com/profesores/Braulio-Pi\u00f1a-Amaros_194903",
-    "general": 0.0,
-    "n": 0
+    "general": 10.0,
+    "n": 1
   },
   "LUIS EDUARDO URBAN RIVERO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Eduardo-Urban-Rivero_189280",
@@ -20823,9 +20828,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -20949,8 +20954,8 @@ let misProfesData={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.1742,
-    "n": 132
+    "general": 8.1579,
+    "n": 133
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
@@ -20959,8 +20964,8 @@ let misProfesData={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.3333,
-    "n": 78
+    "general": 8.3544,
+    "n": 79
   },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
