@@ -1,4 +1,4 @@
-let actualizado="1783527463729.8403";
+let actualizado="1783616572895.8418";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3059,6 +3059,27 @@ let clases={
       }
     ]
   },
+  "COM-11107": {
+    "nombre": "COM-11107-ORG. Y PROGRAM.DE COMPUTADORAS",
+    "clave": "COM-11107",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "COM-11107-ORG. Y PROGRAM.DE COMPUTADORAS",
+        "profesor": "JOSE RAMON RIOS SANCHEZ",
+        "creditos": "8",
+        "horario": "07:00-09:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHCC102",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
+      }
+    ]
+  },
   "COM-11112-LAB": {
     "nombre": "COM-11112-ESTRUCTURAS DE DATOS AVANZADAS-LAB",
     "clave": "COM-11112",
@@ -3267,7 +3288,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHCC102",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -4304,7 +4325,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHCC102",
+        "salon": "PF101",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -19762,6 +19783,11 @@ let misProfesData={
     "general": 7.6071,
     "n": 28
   },
+  "JOSE RAMON RIOS SANCHEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
+    "general": 8.3333,
+    "n": 18
+  },
   "FABIAN ORDU\u00d1A FERREIRA": {
     "link": "https://www.misprofesores.com/profesores/Fabian-Ordu\u00f1a-Ferreira_190579",
     "general": 8.5,
@@ -19793,9 +19819,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20544,8 +20570,8 @@ let misProfesData={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4091,
-    "n": 88
+    "general": 9.382,
+    "n": 89
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
@@ -20669,13 +20695,13 @@ let misProfesData={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.3846,
-    "n": 26
+    "general": 5.2593,
+    "n": 27
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -20744,8 +20770,8 @@ let misProfesData={
   },
   "JORGE FRANCISCO DE LA VEGA GONGORA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-De-la-Vega-Gongora_100220",
-    "general": 7.6,
-    "n": 5
+    "general": 8.0,
+    "n": 6
   },
   "JOSE EZEQUIEL SOTO SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ezequiel-Soto-S\u00e1nchez_152631",

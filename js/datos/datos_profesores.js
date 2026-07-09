@@ -1,4 +1,4 @@
-let actualizado="1783527463746.2632";
+let actualizado="1783616572907.1562";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -4517,6 +4517,30 @@ let profesores={
       ]
     }
   },
+  "JOSE RAMON RIOS SANCHEZ": {
+    "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Ram\u00f3n-R\u00edos-S\u00e1nchez_10854",
+    "general": 8.3333,
+    "n": 18,
+    "grupos": {
+      "COM-11107-ORG. Y PROGRAM.DE COMPUTADORAS": [
+        {
+          "grupo": "001",
+          "nombre": "COM-11107-ORG. Y PROGRAM.DE COMPUTADORAS",
+          "profesor": "JOSE RAMON RIOS SANCHEZ",
+          "creditos": "8",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "FABIAN ORDU\u00d1A FERREIRA": {
     "link": "https://www.misprofesores.com/profesores/Fabian-Ordu\u00f1a-Ferreira_190579",
     "general": 8.5,
@@ -4632,7 +4656,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHCC102",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -4649,7 +4673,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHCC102",
+          "salon": "PF101",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -4870,9 +4894,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -13563,8 +13587,8 @@ let profesores={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.4091,
-    "n": 88,
+    "general": 9.382,
+    "n": 89,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14762,8 +14786,8 @@ let profesores={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.3846,
-    "n": 26,
+    "general": 5.2593,
+    "n": 27,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14836,9 +14860,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -15640,8 +15664,8 @@ let profesores={
   },
   "JORGE FRANCISCO DE LA VEGA GONGORA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-De-la-Vega-Gongora_100220",
-    "general": 7.6,
-    "n": 5,
+    "general": 8.0,
+    "n": 6,
     "grupos": {
       "EST-24107-SIMULACION": [
         {
@@ -20701,10 +20725,10 @@ let mejoresPorDepto={
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
     "SIMON LUNAGOMEZ CORIA",
+    "JORGE FRANCISCO DE LA VEGA GONGORA",
     "ERICK MIER MORENO",
     "JOSE EZEQUIEL SOTO SANCHEZ",
-    "JORGE FRANCISCO DE LA VEGA GONGORA",
-    "MARTIN MAGRIS"
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
