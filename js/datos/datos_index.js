@@ -1,4 +1,4 @@
-let actualizado="1783701621910.1003";
+let actualizado="1783783995236.0684";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19923,9 +19923,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -19966,6 +19966,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Victor-Manuel-Fern\u00e1ndez-Gonz\u00e1lez_138708",
     "general": 9.6,
     "n": 5
+  },
+  "MIRIAM PATRICIA HERNANDEZ GUERRERO": {
+    "link": "https://www.misprofesores.com/profesores/Miriam-Patricia-Hernandez-Guerrero_195167",
+    "general": 2.0,
+    "n": 1
   },
   "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Gonzalez-Armendariz_36748",
@@ -20184,8 +20189,8 @@ let misProfesData={
   },
   "RAYMUNDO GAMA LEYVA": {
     "link": "https://www.misprofesores.com/profesores/Raymundo-Gama_80671",
-    "general": 8.3333,
-    "n": 12
+    "general": 7.9231,
+    "n": 13
   },
   "ANA SOFIA CHARVEL OROZCO": {
     "link": "https://www.misprofesores.com/profesores/Ana-Sof\u00eda-Charvel-Orozco_10791",
@@ -20863,9 +20868,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
