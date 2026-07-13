@@ -1,4 +1,4 @@
-let actualizado="1783870610214.2769";
+let actualizado="1783961875547.7073";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -2997,8 +2997,8 @@ let profesores={
   },
   "POLUX ERNESTO DIAZ RUIZ": {
     "link": "https://www.misprofesores.com/profesores/Polux-Ernesto-D\u00edas-Ruiz_10735",
-    "general": 5.3056,
-    "n": 36,
+    "general": 5.3784,
+    "n": 37,
     "grupos": {
       "ADM-15502-FINANZAS, II": [
         {
@@ -14880,9 +14880,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -16694,9 +16694,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -20746,7 +20746,7 @@ let mejoresPorDepto={
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "ERICK MIER MORENO",
     "JOSE EZEQUIEL SOTO SANCHEZ",
-    "MARTIN MAGRIS"
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
