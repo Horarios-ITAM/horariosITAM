@@ -1,4 +1,4 @@
-let actualizado="1784044770443.4417";
+let actualizado="1784131383362.8652";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -5962,15 +5962,15 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CSO-11053-POLITICA Y FILOSOFIA (OP)",
-        "profesor": "",
+        "profesor": "PETER MATTHEW  HILLS",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RHB-4",
+        "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
       }
@@ -19775,8 +19775,8 @@ let misProfesData={
   },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
-    "general": 6.0816,
-    "n": 49
+    "general": 6.08,
+    "n": 50
   },
   "CARLOS FERNANDO ESPONDA DARLINGTON": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Fernando-Esponda-Darlington_10851",
@@ -20067,6 +20067,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Felipe-Curco-Cobos_10798",
     "general": 9.2857,
     "n": 77
+  },
+  "PETER MATTHEW  HILLS": {
+    "link": "https://www.misprofesores.com/profesores/Peter-Matthew-HILLS_74956",
+    "general": 9.5,
+    "n": 10
   },
   "LUIS ENRIQUE PEREDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
@@ -20390,8 +20395,8 @@ let misProfesData={
   },
   "ANTONIO VIVANCO CASAMADRID": {
     "link": "https://www.misprofesores.com/profesores/Antonio-Vivanco-Casamadrid_131190",
-    "general": 8.7333,
-    "n": 15
+    "general": 8.75,
+    "n": 16
   },
   "BARBARA CARRILLO FLORES": {
     "link": "https://www.misprofesores.com/profesores/B\u00e1rbara-Carrillo_59547",
@@ -20415,8 +20420,8 @@ let misProfesData={
   },
   "LEVENT ULKU": {
     "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
-    "general": 7.4444,
-    "n": 36
+    "general": 7.3784,
+    "n": 37
   },
   "ANDREY  GOMBERG": {
     "link": "https://www.misprofesores.com/profesores/Andrei-Gomberg_10762",
@@ -20530,8 +20535,8 @@ let misProfesData={
   },
   "GABRIELA HERNANDEZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3656,
-    "n": 93
+    "general": 7.3936,
+    "n": 94
   },
   "CECILIA GALAVIZ ALVAREZ": {
     "link": "https://www.misprofesores.com/profesores/Cecilia-Galaviz_15926",
@@ -20585,8 +20590,8 @@ let misProfesData={
   },
   "CARLOS GUTIERREZ LOZANO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Gutierrez-Lozano_47603",
-    "general": 6.8218,
-    "n": 101
+    "general": 6.8333,
+    "n": 102
   },
   "GERARDO FERNANDEZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Fernandez-Fernandez_79716",
@@ -20705,8 +20710,8 @@ let misProfesData={
   },
   "MARTIN MAGRIS": {
     "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 7.5,
-    "n": 2
+    "general": 8.0,
+    "n": 3
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -20859,9 +20864,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -20870,8 +20875,8 @@ let misProfesData={
   },
   "ALEJANDRA SOLIS GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
-    "general": 7.2727,
-    "n": 33
+    "general": 7.3529,
+    "n": 34
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
@@ -20945,8 +20950,8 @@ let misProfesData={
   },
   "GABRIELA MEDINA HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3656,
-    "n": 93
+    "general": 7.3936,
+    "n": 94
   },
   "JORGE NEME SANCHEZ": {
     "link": "https://www.misprofesores.com/profesores/JORGE-NEME-SANCHEZ_172075",
@@ -20985,8 +20990,8 @@ let misProfesData={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.1579,
-    "n": 133
+    "general": 8.1269,
+    "n": 134
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
@@ -21055,8 +21060,8 @@ let misProfesData={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.5476,
-    "n": 42
+    "general": 7.5581,
+    "n": 43
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
