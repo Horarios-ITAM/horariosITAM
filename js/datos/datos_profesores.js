@@ -1,4 +1,4 @@
-let actualizado="1784131383373.4893";
+let actualizado="1784217445699.0542";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1344,22 +1344,6 @@ let profesores={
           "fin": "11:00"
         }
       ],
-      "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN": [
-        {
-          "grupo": "004",
-          "nombre": "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "08:00-09:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHPB3",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
-        }
-      ],
       "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
         {
           "grupo": "003",
@@ -1374,22 +1358,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:00"
-        }
-      ],
-      "LEN-12759-COMUNIC. PROFES. PARA MAT. APL": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12759-COMUNIC. PROFES. PARA MAT. APL",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "08:00-09:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHPB3",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
         }
       ],
       "MAT-11310-MATEMATICAS, III": [
@@ -5435,7 +5403,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
@@ -5919,9 +5887,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6648,7 +6616,7 @@ let profesores={
           "creditos": "6",
           "horario": "07:00-10:00",
           "dias": [
-            "LU"
+            "VI"
           ],
           "salon": "RH112",
           "campus": "RIO HONDO",
@@ -12955,6 +12923,30 @@ let profesores={
       ]
     }
   },
+  "FERNANDO RODRIGUEZ DOVAL": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
+    "general": 8.7647,
+    "n": 34,
+    "grupos": {
+      "EGN-11171-CAT. EXT. MANUEL GOMEZ MORIN:": [
+        {
+          "grupo": "001",
+          "nombre": "EGN-11171-CAT. EXT. MANUEL GOMEZ MORIN:",
+          "profesor": "FERNANDO RODRIGUEZ DOVAL",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH210",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
     "general": 7.313,
@@ -16684,9 +16676,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17989,6 +17981,26 @@ let profesores={
       ]
     }
   },
+  "EDUARDO JOSE PABLO MARTIN GARCIA CORREA": {
+    "grupos": {
+      "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN": [
+        {
+          "grupo": "004",
+          "nombre": "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN",
+          "profesor": "EDUARDO JOSE PABLO MARTIN GARCIA CORREA",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHPB3",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "MARIA LUISA DIAZ DE LEON RASCON": {
     "grupos": {
       "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
@@ -18025,6 +18037,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:00"
+        }
+      ]
+    }
+  },
+  "ALEXANDRA LEMUS RODRIGUEZ": {
+    "grupos": {
+      "LEN-12759-COMUNIC. PROFES. PARA MAT. APL": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12759-COMUNIC. PROFES. PARA MAT. APL",
+          "profesor": "ALEXANDRA LEMUS RODRIGUEZ",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHPB3",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -20664,9 +20696,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
+    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF",
-    "JUAN FERNANDO CALDERON CABELLO"
+    "VIRGINIA KALIS LETAYF"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
@@ -20709,12 +20741,12 @@ let mejoresPorDepto={
     "SILVANO ANTONIO ESPINDOLA PARRA",
     "JAVIER ARTURO VELAZQUEZ GALVAN",
     "FRANCISCO ALEJANDRO GONZALEZ GOMEZ",
+    "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
     "ANTONIO LOPEZ VEGA",
     "VICTOR ALBERTO VILLAVICENCIO NAVARRO",
     "ALFREDO GERARDO MARTINEZ OJEDA",
-    "ALFREDO VILLAFRANCA QUINTO",
-    "JOSE PANTALEON DOMINGUEZ ESPONDA"
+    "ALFREDO VILLAFRANCA QUINTO"
   ],
   "ESTUDIOS INTERNACIONALES": [
     "MARIA JOSE URZUA VALVERDE",

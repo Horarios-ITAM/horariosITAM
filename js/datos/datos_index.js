@@ -1,4 +1,4 @@
-let actualizado="1784131383362.8652";
+let actualizado="1784217445684.7146";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -5095,7 +5095,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
@@ -5229,7 +5229,7 @@ let clases={
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
-          "LU"
+          "VI"
         ],
         "salon": "RH112",
         "campus": "RIO HONDO",
@@ -11637,6 +11637,27 @@ let clases={
       }
     ]
   },
+  "EGN-11171": {
+    "nombre": "EGN-11171-CAT. EXT. MANUEL GOMEZ MORIN:",
+    "clave": "EGN-11171",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "EGN-11171-CAT. EXT. MANUEL GOMEZ MORIN:",
+        "profesor": "FERNANDO RODRIGUEZ DOVAL",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH210",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
+      }
+    ]
+  },
   "EGN-17121": {
     "nombre": "EGN-17121-IDEAS E INST. POL. Y SOC. I",
     "clave": "EGN-17121",
@@ -16584,7 +16605,7 @@ let clases={
       {
         "grupo": "004",
         "nombre": "LEN-12757-COMUNIC. PROFES. PARA DIR. FIN",
-        "profesor": "",
+        "profesor": "EDUARDO JOSE PABLO MARTIN GARCIA CORREA",
         "creditos": "2",
         "horario": "08:00-09:00",
         "dias": [
@@ -16680,7 +16701,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "LEN-12759-COMUNIC. PROFES. PARA MAT. APL",
-        "profesor": "",
+        "profesor": "ALEXANDRA LEMUS RODRIGUEZ",
         "creditos": "2",
         "horario": "08:00-09:00",
         "dias": [
@@ -19919,9 +19940,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20518,6 +20539,11 @@ let misProfesData={
     "general": 7.0513,
     "n": 78
   },
+  "FERNANDO RODRIGUEZ DOVAL": {
+    "link": "https://www.misprofesores.com/profesores/Fernando-Rodriguez-Doval_74703",
+    "general": 8.7647,
+    "n": 34
+  },
   "MARIA TERESITA PAVIA LOPEZ": {
     "link": "https://www.misprofesores.com/profesores/Maria-Teresita-Pavia-Lopez_16797",
     "general": 7.313,
@@ -20864,9 +20890,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
