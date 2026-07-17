@@ -1,4 +1,4 @@
-let actualizado="1784217445699.0542";
+let actualizado="1784303845068.3823";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -965,21 +965,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "DER-19602-DERECHO LABORAL II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "20:30-22:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "20:30",
-          "fin": "22:00"
         }
       ],
       "ECO-12010-PRINCIPIOS DE MACROECONOMIA": [
@@ -4845,9 +4830,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -10627,6 +10612,30 @@ let profesores={
       ]
     }
   },
+  "JOSE ANTONIO MORALES YA\u00d1EZ": {
+    "link": "https://www.misprofesores.com/profesores/JOSE-ANTONIO-MORALES-YA\u00d1EZ_71535",
+    "general": 6.6,
+    "n": 5,
+    "grupos": {
+      "DER-19602-DERECHO LABORAL II": [
+        {
+          "grupo": "002",
+          "nombre": "DER-19602-DERECHO LABORAL II",
+          "profesor": "JOSE ANTONIO MORALES YA\u00d1EZ",
+          "creditos": "6",
+          "horario": "20:30-22:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "20:30",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
   "VICTORIA NUGUER": {
     "link": "https://www.misprofesores.com/profesores/Victoria-Nuguer_172046",
     "general": 7.0,
@@ -13978,8 +13987,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.766,
-    "n": 47,
+    "general": 7.7917,
+    "n": 48,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -16676,9 +16685,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18637,8 +18646,8 @@ let profesores={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.1269,
-    "n": 134,
+    "general": 8.1407,
+    "n": 135,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -20292,14 +20301,14 @@ let profesores={
           "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
           "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
           "creditos": "10",
-          "horario": "11:00-13:00",
+          "horario": "12:00-14:00",
           "dias": [
             "VI"
           ],
           "salon": "RHLFIEL",
           "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "13:00"
+          "inicio": "12:00",
+          "fin": "14:00"
         }
       ],
       "SDI-11322-CIRCUITOS LOGICOS": [
@@ -20465,7 +20474,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHLI2",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"

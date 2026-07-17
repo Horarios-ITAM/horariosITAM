@@ -1,4 +1,4 @@
-let actualizado="1784217445684.7146";
+let actualizado="1784303845053.7004";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -9442,7 +9442,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-19602-DERECHO LABORAL II",
-        "profesor": "",
+        "profesor": "JOSE ANTONIO MORALES YA\u00d1EZ",
         "creditos": "6",
         "horario": "20:30-22:00",
         "dias": [
@@ -19045,14 +19045,14 @@ let clases={
         "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
         "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
         "creditos": "10",
-        "horario": "11:00-13:00",
+        "horario": "12:00-14:00",
         "dias": [
           "VI"
         ],
         "salon": "RHLFIEL",
         "campus": "RIO HONDO",
-        "inicio": "11:00",
-        "fin": "13:00"
+        "inicio": "12:00",
+        "fin": "14:00"
       }
     ]
   },
@@ -19201,7 +19201,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHLI2",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -19840,9 +19840,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20329,6 +20329,11 @@ let misProfesData={
     "general": 6.5,
     "n": 8
   },
+  "JOSE ANTONIO MORALES YA\u00d1EZ": {
+    "link": "https://www.misprofesores.com/profesores/JOSE-ANTONIO-MORALES-YA\u00d1EZ_71535",
+    "general": 6.6,
+    "n": 5
+  },
   "VICTORIA NUGUER": {
     "link": "https://www.misprofesores.com/profesores/Victoria-Nuguer_172046",
     "general": 7.0,
@@ -20641,8 +20646,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.766,
-    "n": 47
+    "general": 7.7917,
+    "n": 48
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
@@ -20890,9 +20895,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -21016,8 +21021,8 @@ let misProfesData={
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",
-    "general": 8.1269,
-    "n": 134
+    "general": 8.1407,
+    "n": 135
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
