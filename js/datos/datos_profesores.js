@@ -1,4 +1,4 @@
-let actualizado="1784303845068.3823";
+let actualizado="1784388722937.1753";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -767,55 +767,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ],
-      "DER-10015-DERECHO EMPRESARIAL": [
-        {
-          "grupo": "004",
-          "nombre": "DER-10015-DERECHO EMPRESARIAL",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "07:00-09:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHLI2",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:30"
-        }
-      ],
-      "DER-10016-INTROD. AL DERECHO CORPORATIVO": [
-        {
-          "grupo": "004",
-          "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "07:00-09:30",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHLI2",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:30"
-        }
-      ],
-      "DER-10022-DERECHO EMPRESARIAL": [
-        {
-          "grupo": "004",
-          "nombre": "DER-10022-DERECHO EMPRESARIAL",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHLI2",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
         }
       ],
       "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB": [
@@ -4830,9 +4781,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -8416,6 +8367,79 @@ let profesores={
       ]
     }
   },
+  "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
+    "general": 9.5,
+    "n": 4,
+    "grupos": {
+      "DER-10015-DERECHO EMPRESARIAL": [
+        {
+          "grupo": "004",
+          "nombre": "DER-10015-DERECHO EMPRESARIAL",
+          "profesor": "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
+          "creditos": "9",
+          "horario": "19:00-21:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:30"
+        }
+      ],
+      "DER-10016-INTROD. AL DERECHO CORPORATIVO": [
+        {
+          "grupo": "004",
+          "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
+          "profesor": "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
+          "creditos": "9",
+          "horario": "19:00-21:30",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:30"
+        }
+      ],
+      "DER-10019-DERECHO EMPRESARIAL II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10019-DERECHO EMPRESARIAL II",
+          "profesor": "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
+          "creditos": "6",
+          "horario": "19:00-20:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:30"
+        }
+      ],
+      "DER-10022-DERECHO EMPRESARIAL": [
+        {
+          "grupo": "004",
+          "nombre": "DER-10022-DERECHO EMPRESARIAL",
+          "profesor": "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
+          "creditos": "8",
+          "horario": "19:00-21:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ]
+    }
+  },
   "CLEMENTE ROMERO OLMEDO": {
     "grupos": {
       "DER-10017-CONTRATOS FINANC. COMPARADOS": [
@@ -8478,30 +8502,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
-    "general": 9.5,
-    "n": 4,
-    "grupos": {
-      "DER-10019-DERECHO EMPRESARIAL II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10019-DERECHO EMPRESARIAL II",
-          "profesor": "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
-          "creditos": "6",
-          "horario": "19:00-20:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:30"
         }
       ]
     }

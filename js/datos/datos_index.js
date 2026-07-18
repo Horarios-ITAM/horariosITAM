@@ -1,4 +1,4 @@
-let actualizado="1784303845053.7004";
+let actualizado="1784388722922.2756";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -6725,16 +6725,16 @@ let clases={
       {
         "grupo": "004",
         "nombre": "DER-10015-DERECHO EMPRESARIAL",
-        "profesor": "",
+        "profesor": "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
         "creditos": "9",
-        "horario": "07:00-09:30",
+        "horario": "19:00-21:30",
         "dias": [
           "MI"
         ],
-        "salon": "RHLI2",
+        "salon": "RH311",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:30"
+        "inicio": "19:00",
+        "fin": "21:30"
       }
     ]
   },
@@ -6787,16 +6787,16 @@ let clases={
       {
         "grupo": "004",
         "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
-        "profesor": "",
+        "profesor": "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
         "creditos": "9",
-        "horario": "07:00-09:30",
+        "horario": "19:00-21:30",
         "dias": [
           "MI"
         ],
-        "salon": "RHLI2",
+        "salon": "RH311",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:30"
+        "inicio": "19:00",
+        "fin": "21:30"
       }
     ]
   },
@@ -6948,17 +6948,17 @@ let clases={
       {
         "grupo": "004",
         "nombre": "DER-10022-DERECHO EMPRESARIAL",
-        "profesor": "",
+        "profesor": "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A",
         "creditos": "8",
-        "horario": "07:00-09:00",
+        "horario": "19:00-21:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RHLI2",
+        "salon": "RH311",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "09:00"
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -19840,9 +19840,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20139,6 +20139,11 @@ let misProfesData={
     "general": 9.5833,
     "n": 12
   },
+  "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
+    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
+    "general": 9.5,
+    "n": 4
+  },
   "RICARDO PEDROZA RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Pedroza-Rodriguez_190394",
     "general": 9.0,
@@ -20148,11 +20153,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Mario-Petricioli_159823",
     "general": 9.0,
     "n": 2
-  },
-  "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
-    "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
-    "general": 9.5,
-    "n": 4
   },
   "LUZ DEL CARMEN CARRILLO CAREAGA": {
     "link": "https://www.misprofesores.com/profesores/Luz-del-Carmen-Carrillo-Careaga_70187",
