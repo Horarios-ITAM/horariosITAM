@@ -1,4 +1,4 @@
-let actualizado="1784563902975.4968";
+let actualizado="1784649815003.4463";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -765,8 +765,8 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "PF102",
+        "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
       }
@@ -1817,7 +1817,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-        "profesor": "JANKO HERNANDEZ CORTES",
+        "profesor": "FRANCISCO PEREZ GONZALEZ",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -1832,7 +1832,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-        "profesor": "JANKO HERNANDEZ CORTES",
+        "profesor": "FRANCISCO PEREZ GONZALEZ",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -2030,9 +2030,9 @@ let clases={
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
-          "MI"
+          "MA"
         ],
-        "salon": "PF106",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -2082,7 +2082,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "DIEGO OCEJO DEL VILLAR",
+        "profesor": "RAFAEL SAMRA ATACH",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -2770,8 +2770,8 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH211",
+        "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
       },
@@ -5781,7 +5781,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -6146,7 +6146,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH308",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -6280,16 +6280,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CSO-15041-ECONOMIA POLITICA, I",
-        "profesor": "",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
         "salon": "RHSA4",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -6651,28 +6652,29 @@ let clases={
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
         "profesor": "LUIS ENRIQUE PEREDA TREJO",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "07:00-08:30",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH309",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "07:00",
+        "fin": "08:30"
       },
       {
         "grupo": "002",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
         "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "07:00-10:00",
         "dias": [
-          "LU"
+          "VI"
         ],
-        "salon": "RHB-3",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -6685,14 +6687,14 @@ let clases={
         "nombre": "DER-10015-DERECHO EMPRESARIAL",
         "profesor": "ROXANA PEREZ ARCE VALLE",
         "creditos": "9",
-        "horario": "07:00-09:30",
+        "horario": "07:00-09:00",
         "dias": [
-          "MI"
+          "LU"
         ],
         "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "09:30"
+        "fin": "09:00"
       },
       {
         "grupo": "002",
@@ -6747,14 +6749,14 @@ let clases={
         "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
         "profesor": "ROXANA PEREZ ARCE VALLE",
         "creditos": "9",
-        "horario": "07:00-09:30",
+        "horario": "07:00-09:00",
         "dias": [
-          "MI"
+          "LU"
         ],
         "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "09:30"
+        "fin": "09:00"
       },
       {
         "grupo": "002",
@@ -7067,45 +7069,18 @@ let clases={
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
         "profesor": "ALBERTO PUPPO",
         "creditos": "10",
-        "horario": "19:30-20:00",
+        "horario": "08:30-10:00",
         "dias": [
-          "VI"
+          "MA",
+          "JU"
         ],
-        "salon": "PF102",
+        "salon": "RH102",
         "campus": "RIO HONDO",
-        "inicio": "19:30",
-        "fin": "20:00"
+        "inicio": "08:30",
+        "fin": "10:00"
       },
       {
         "grupo": "002",
-        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "PABLO ARIEL RAPETTI",
-        "creditos": "10",
-        "horario": "19:30-20:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "19:30",
-        "fin": "20:00"
-      },
-      {
-        "grupo": "003",
-        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "ALBERTO PUPPO",
-        "creditos": "10",
-        "horario": "19:30-20:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "19:30",
-        "fin": "20:00"
-      },
-      {
-        "grupo": "004",
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "10",
@@ -7118,6 +7093,35 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
+        "profesor": "ALBERTO PUPPO",
+        "creditos": "10",
+        "horario": "08:30-10:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH102",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
+        "profesor": "ALBERTO PUPPO",
+        "creditos": "10",
+        "horario": "19:30-20:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "PF102",
+        "campus": "RIO HONDO",
+        "inicio": "19:30",
+        "fin": "20:00"
       }
     ]
   },
@@ -7304,7 +7308,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH",
+        "salon": "RH316",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -7325,7 +7329,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH",
+        "salon": "RH316",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "09:00"
@@ -7474,15 +7478,15 @@ let clases={
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
         "profesor": "",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH301",
-        "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "salon": "",
+        "campus": "",
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -7564,30 +7568,30 @@ let clases={
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
         "profesor": "ALBERTO PUPPO",
         "creditos": "9",
-        "horario": "12:30-14:00",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH309",
+        "salon": "RH102",
         "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
+        "inicio": "08:30",
+        "fin": "10:00"
       },
       {
         "grupo": "002",
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "9",
-        "horario": "13:00-14:30",
+        "horario": "08:30-10:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH315",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
-        "inicio": "13:00",
-        "fin": "14:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       },
       {
         "grupo": "003",
@@ -8210,16 +8214,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-        "profesor": "RAYMUNDO GAMA LEYVA",
+        "profesor": "CESAR CLAUDIO URRUTIA ROMERO",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "RH309",
+        "salon": "RH102",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -9778,6 +9783,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-11000-INTRODUCCION A LA ECONOMIA",
+        "profesor": "JUAN CARLOS BELAUSTEGUIGOITIA RIUS",
+        "creditos": "3",
+        "horario": "11:30-13:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RH315",
+        "campus": "RIO HONDO",
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -10478,27 +10497,6 @@ let clases={
       }
     ]
   },
-  "ECO-11221": {
-    "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
-    "clave": "ECO-11221",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "ECO-11221-ECONOMIA DE LA INCERTIDUMBRE",
-        "profesor": "ROMANS PANCS",
-        "creditos": "6",
-        "horario": "11:30-13:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH103",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
-      }
-    ]
-  },
   "ECO-11227": {
     "nombre": "ECO-11227-DISE\u00d1O DE MERCADOS",
     "clave": "ECO-11227",
@@ -10886,15 +10884,15 @@ let clases={
         "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
         "profesor": "FELIPE MEZA GOIZ",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "07:00-08:30",
         "dias": [
-          "LU",
-          "MI"
+          "MI",
+          "VI"
         ],
         "salon": "RH104",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "07:00",
+        "fin": "08:30"
       }
     ]
   },
@@ -11167,6 +11165,27 @@ let clases={
       }
     ]
   },
+  "ECO-14502": {
+    "nombre": "ECO-14502-ECONOMIA GERENCIAL",
+    "clave": "ECO-14502",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-14502-ECONOMIA GERENCIAL",
+        "profesor": "",
+        "creditos": "8",
+        "horario": "08:00-09:11",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "08:00",
+        "fin": "09:11"
+      }
+    ]
+  },
   "ECO-15101": {
     "nombre": "ECO-15101-FINANZAS PUBLICAS",
     "clave": "ECO-15101",
@@ -11317,6 +11336,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:00",
         "fin": "11:00"
+      }
+    ]
+  },
+  "ECO-17201": {
+    "nombre": "ECO-17201-HISTORIA ECO. DEL SIGLO XX(OP)",
+    "clave": "ECO-17201",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-17201-HISTORIA ECO. DEL SIGLO XX(OP)",
+        "profesor": "MOISES TIKTIN NICKIN",
+        "creditos": "6",
+        "horario": "11:30-14:30",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "11:30",
+        "fin": "14:30"
       }
     ]
   },
@@ -12900,14 +12939,15 @@ let clases={
         "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES",
         "profesor": "ISABEL FLORES ALCAZAR",
         "creditos": "7",
-        "horario": "13:00-14:00",
+        "horario": "13:00-14:30",
         "dias": [
-          "VI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH303",
+        "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "13:00",
-        "fin": "14:00"
+        "fin": "14:30"
       }
     ]
   },
@@ -17197,15 +17237,14 @@ let clases={
         "nombre": "MAT-12201-CALCULO MULTIVARIADO",
         "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "12:30-14:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RHSA3",
+        "salon": "RH105",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "12:30",
+        "fin": "14:00"
       }
     ]
   },
@@ -17836,15 +17875,14 @@ let clases={
         "nombre": "MAT-14102-CALCULO DIF. E INT., III",
         "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
         "creditos": "8",
-        "horario": "16:00-17:30",
+        "horario": "12:30-14:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RHSA3",
+        "salon": "RH105",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "12:30",
+        "fin": "14:00"
       }
     ]
   },
@@ -18811,9 +18849,9 @@ let clases={
         "creditos": "6",
         "horario": "16:00-18:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -18831,9 +18869,9 @@ let clases={
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -18849,15 +18887,15 @@ let clases={
         "nombre": "MAT-24430-ANALISIS APLICADO, I",
         "profesor": "",
         "creditos": "6",
-        "horario": "12:00-13:30",
+        "horario": "11:00-12:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "PF101",
+        "salon": "RH314",
         "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "13:30"
+        "inicio": "11:00",
+        "fin": "12:30"
       }
     ]
   },
@@ -18872,9 +18910,9 @@ let clases={
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -18890,15 +18928,15 @@ let clases={
         "nombre": "MAT-24433-OPTIMIZACION NUMERICA I",
         "profesor": "",
         "creditos": "6",
-        "horario": "12:00-13:30",
+        "horario": "11:00-12:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "PF101",
+        "salon": "RH314",
         "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "13:30"
+        "inicio": "11:00",
+        "fin": "12:30"
       }
     ]
   },
@@ -19840,9 +19878,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20031,8 +20069,8 @@ let misProfesData={
   },
   "MONICA GARCIA CEREZO": {
     "link": "https://www.misprofesores.com/profesores/Monica-Garcia-Cerezo_15986",
-    "general": 7.4667,
-    "n": 30
+    "general": 7.3871,
+    "n": 31
   },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
@@ -20243,6 +20281,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
     "general": 8.3333,
     "n": 3
+  },
+  "CESAR CLAUDIO URRUTIA ROMERO": {
+    "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
+    "general": 6.6667,
+    "n": 6
   },
   "ALFONSO PASAPERA MORA": {
     "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
@@ -20895,9 +20938,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
