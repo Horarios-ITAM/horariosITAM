@@ -1,4 +1,4 @@
-let actualizado="1784649815003.4463";
+let actualizado="1784736040815.8403";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -5553,7 +5553,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
-        "profesor": "",
+        "profesor": "BERNARDO RAMIREZ FIGUEROA",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -20072,6 +20072,11 @@ let misProfesData={
     "general": 7.3871,
     "n": 31
   },
+  "BERNARDO RAMIREZ FIGUEROA": {
+    "link": "https://www.misprofesores.com/profesores/Bernardo-Ram\u00edrez-Figueroa_125410",
+    "general": 5.5,
+    "n": 2
+  },
   "MANUEL TAMEZ ZENDEJAS": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Tamez-Zendejas_116143",
     "general": 10.0,
@@ -20509,8 +20514,8 @@ let misProfesData={
   },
   "ROMANS PANCS": {
     "link": "https://www.misprofesores.com/profesores/Romans-Pancs_104518",
-    "general": 4.6,
-    "n": 10
+    "general": 4.3636,
+    "n": 11
   },
   "CHRISTIANE FABREGA CHIMALI": {
     "link": "https://www.misprofesores.com/profesores/Christiane-Fabrega-Chimali_22910",

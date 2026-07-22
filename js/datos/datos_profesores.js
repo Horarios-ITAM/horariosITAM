@@ -1,4 +1,4 @@
-let actualizado="1784649815055.2378";
+let actualizado="1784736040831.1506";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -735,22 +735,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ],
-      "CON-15001-IMPUESTOS CORPORATIVOS, I": [
-        {
-          "grupo": "001",
-          "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
         }
       ],
       "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB": [
@@ -6918,6 +6902,29 @@ let profesores={
       ]
     }
   },
+  "BERNARDO RAMIREZ FIGUEROA": {
+    "link": "https://www.misprofesores.com/profesores/Bernardo-Ram\u00edrez-Figueroa_125410",
+    "general": 5.5,
+    "n": 2,
+    "grupos": {
+      "CON-15001-IMPUESTOS CORPORATIVOS, I": [
+        {
+          "grupo": "001",
+          "nombre": "CON-15001-IMPUESTOS CORPORATIVOS, I",
+          "profesor": "BERNARDO RAMIREZ FIGUEROA",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "PF103",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "JAIME DE LEON REYES": {
     "grupos": {
       "CON-15001-IMPUESTOS CORPORATIVOS, I": [
@@ -12155,8 +12162,8 @@ let profesores={
   },
   "ROMANS PANCS": {
     "link": "https://www.misprofesores.com/profesores/Romans-Pancs_104518",
-    "general": 4.6,
-    "n": 10,
+    "general": 4.3636,
+    "n": 11,
     "grupos": {
       "ECO-11227-DISE\u00d1O DE MERCADOS": [
         {
