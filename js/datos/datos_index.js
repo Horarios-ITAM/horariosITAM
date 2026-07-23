@@ -1,4 +1,4 @@
-let actualizado="1784736040815.8403";
+let actualizado="1784823078650.2468";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -348,17 +348,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-22306-MATEMATICAS FINANCIERAS II",
-        "profesor": "",
+        "profesor": "MIGUEL ANGEL AVILA DEL BOSQUE",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "20:30-22:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH311",
+        "salon": "RH313",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "20:30",
+        "fin": "22:00"
       }
     ]
   },
@@ -390,17 +390,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ACT-22320-ACTIVOS Y PASIVOS ACTUARIALES",
-        "profesor": "",
+        "profesor": "MIGUEL ANGEL AVILA DEL BOSQUE",
         "creditos": "6",
-        "horario": "11:30-13:00",
+        "horario": "20:30-22:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH311",
+        "salon": "RH313",
         "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
+        "inicio": "20:30",
+        "fin": "22:00"
       }
     ]
   },
@@ -627,7 +627,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -1817,7 +1817,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-        "profesor": "FRANCISCO PEREZ GONZALEZ",
+        "profesor": "JANKO HERNANDEZ CORTES",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -1832,7 +1832,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
-        "profesor": "FRANCISCO PEREZ GONZALEZ",
+        "profesor": "JANKO HERNANDEZ CORTES",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -2082,7 +2082,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "RAFAEL SAMRA ATACH",
+        "profesor": "DIEGO OCEJO DEL VILLAR",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -6280,17 +6280,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CSO-15041-ECONOMIA POLITICA, I",
-        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "profesor": "",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
         "salon": "RHSA4",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -6652,29 +6651,28 @@ let clases={
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
         "profesor": "LUIS ENRIQUE PEREDA TREJO",
         "creditos": "9",
-        "horario": "07:00-08:30",
+        "horario": "17:30-19:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU"
         ],
-        "salon": "RH309",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
+        "inicio": "17:30",
+        "fin": "19:00"
       },
       {
         "grupo": "002",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
         "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "07:00-10:00",
+        "horario": "17:30-19:00",
         "dias": [
-          "VI"
+          "LU"
         ],
-        "salon": "RHSA1",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "10:00"
+        "inicio": "17:30",
+        "fin": "19:00"
       }
     ]
   },
@@ -6687,14 +6685,14 @@ let clases={
         "nombre": "DER-10015-DERECHO EMPRESARIAL",
         "profesor": "ROXANA PEREZ ARCE VALLE",
         "creditos": "9",
-        "horario": "07:00-09:00",
+        "horario": "07:00-09:30",
         "dias": [
-          "LU"
+          "MI"
         ],
         "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "09:00"
+        "fin": "09:30"
       },
       {
         "grupo": "002",
@@ -6749,14 +6747,14 @@ let clases={
         "nombre": "DER-10016-INTROD. AL DERECHO CORPORATIVO",
         "profesor": "ROXANA PEREZ ARCE VALLE",
         "creditos": "9",
-        "horario": "07:00-09:00",
+        "horario": "07:00-09:30",
         "dias": [
-          "LU"
+          "MI"
         ],
         "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "09:00"
+        "fin": "09:30"
       },
       {
         "grupo": "002",
@@ -7069,18 +7067,45 @@ let clases={
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
         "profesor": "ALBERTO PUPPO",
         "creditos": "10",
-        "horario": "08:30-10:00",
+        "horario": "19:30-20:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "RH102",
+        "salon": "PF102",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "19:30",
+        "fin": "20:00"
       },
       {
         "grupo": "002",
+        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
+        "profesor": "PABLO ARIEL RAPETTI",
+        "creditos": "10",
+        "horario": "19:30-20:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "PF102",
+        "campus": "RIO HONDO",
+        "inicio": "19:30",
+        "fin": "20:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
+        "profesor": "ALBERTO PUPPO",
+        "creditos": "10",
+        "horario": "19:30-20:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "PF102",
+        "campus": "RIO HONDO",
+        "inicio": "19:30",
+        "fin": "20:00"
+      },
+      {
+        "grupo": "004",
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "10",
@@ -7093,35 +7118,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
-      },
-      {
-        "grupo": "003",
-        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "ALBERTO PUPPO",
-        "creditos": "10",
-        "horario": "08:30-10:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH102",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
-      },
-      {
-        "grupo": "004",
-        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "ALBERTO PUPPO",
-        "creditos": "10",
-        "horario": "19:30-20:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "19:30",
-        "fin": "20:00"
       }
     ]
   },
@@ -7478,15 +7474,15 @@ let clases={
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
         "profesor": "",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "",
-        "campus": "",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "salon": "RH301",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -7568,30 +7564,30 @@ let clases={
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
         "profesor": "ALBERTO PUPPO",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "12:30-14:00",
         "dias": [
-          "MA",
-          "JU"
+          "LU",
+          "MI"
         ],
-        "salon": "RH102",
+        "salon": "RH309",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "12:30",
+        "fin": "14:00"
       },
       {
         "grupo": "002",
         "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
         "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "13:00-14:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH315",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "13:00",
+        "fin": "14:30"
       },
       {
         "grupo": "003",
@@ -8214,17 +8210,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-        "profesor": "CESAR CLAUDIO URRUTIA ROMERO",
+        "profesor": "RAYMUNDO GAMA LEYVA",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH102",
+        "salon": "RH309",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -9599,14 +9594,14 @@ let clases={
         "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
         "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
         "creditos": "3",
-        "horario": "10:00-11:30",
+        "horario": "08:30-10:00",
         "dias": [
           "JU"
         ],
-        "salon": "RH103",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -10882,7 +10877,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
-        "profesor": "FELIPE MEZA GOIZ",
+        "profesor": "CARLOS SANTIAGO BAZDRESCH BARQUET",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -11172,17 +11167,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-14502-ECONOMIA GERENCIAL",
-        "profesor": "",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
         "creditos": "8",
-        "horario": "08:00-09:11",
+        "horario": "11:00-13:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "",
-        "campus": "",
-        "inicio": "08:00",
-        "fin": "09:11"
+        "salon": "RHSA2",
+        "campus": "RIO HONDO",
+        "inicio": "11:00",
+        "fin": "13:00"
       }
     ]
   },
@@ -12939,15 +12934,14 @@ let clases={
         "nombre": "EIN-11101-INT. A LAS R. INTERNACIONALES",
         "profesor": "ISABEL FLORES ALCAZAR",
         "creditos": "7",
-        "horario": "13:00-14:30",
+        "horario": "13:00-14:00",
         "dias": [
-          "MA",
-          "JU"
+          "VI"
         ],
-        "salon": "PF106",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "13:00",
-        "fin": "14:30"
+        "fin": "14:00"
       }
     ]
   },
@@ -17237,14 +17231,15 @@ let clases={
         "nombre": "MAT-12201-CALCULO MULTIVARIADO",
         "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
         "creditos": "9",
-        "horario": "12:30-14:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "RH105",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -17875,14 +17870,15 @@ let clases={
         "nombre": "MAT-14102-CALCULO DIF. E INT., III",
         "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
         "creditos": "8",
-        "horario": "12:30-14:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "RH105",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -18849,9 +18845,9 @@ let clases={
         "creditos": "6",
         "horario": "16:00-18:00",
         "dias": [
-          "JU"
+          "MA"
         ],
-        "salon": "RH311",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -18869,9 +18865,9 @@ let clases={
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "JU"
+          "MA"
         ],
-        "salon": "RH209",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -18910,9 +18906,9 @@ let clases={
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
-          "JU"
+          "MA"
         ],
-        "salon": "RH209",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -19642,6 +19638,11 @@ let misProfesData={
     "general": 8.25,
     "n": 12
   },
+  "MIGUEL ANGEL AVILA DEL BOSQUE": {
+    "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
+    "general": 8.6889,
+    "n": 45
+  },
   "GERARDO HERNANDEZ DEL VALLE": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Hern\u00e1ndez-Del-Valle_118747",
     "general": 9.0,
@@ -19878,9 +19879,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20287,11 +20288,6 @@ let misProfesData={
     "general": 8.3333,
     "n": 3
   },
-  "CESAR CLAUDIO URRUTIA ROMERO": {
-    "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
-    "general": 6.6667,
-    "n": 6
-  },
   "ALFONSO PASAPERA MORA": {
     "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
     "general": 7.6761,
@@ -20524,8 +20520,8 @@ let misProfesData={
   },
   "ERNESTO BLANCAS BARRAGAN": {
     "link": "https://www.misprofesores.com/profesores/Ernesto-Blancas-Barragan_147480",
-    "general": 6.5714,
-    "n": 7
+    "general": 6.375,
+    "n": 8
   },
   "VICTOR HUGO GOMEZ AYALA": {
     "link": "https://www.misprofesores.com/profesores/Victor-hugo-gomez-ayala_72112",
@@ -21079,8 +21075,8 @@ let misProfesData={
   },
   "LUCIA RAMIREZ DAVID": {
     "link": "https://www.misprofesores.com/profesores/Lucia-Ramirez_24708",
-    "general": 8.3544,
-    "n": 79
+    "general": 8.375,
+    "n": 80
   },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
@@ -21119,8 +21115,8 @@ let misProfesData={
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
-    "general": 7.5909,
-    "n": 22
+    "general": 7.6957,
+    "n": 23
   },
   "JOEL ZAMORA RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Joel-Zamora-Ramos_15284",
@@ -21174,8 +21170,8 @@ let misProfesData={
   },
   "ANTE SALCEDO GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Ante-Salcedo-Gonz\u00e1lez_10874",
-    "general": 6.7857,
-    "n": 28
+    "general": 6.8621,
+    "n": 29
   },
   "JOSE GUADALUPE ROMERO VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Guadalupe-Romero-Velasquez_81677",
