@@ -1,4 +1,4 @@
-let actualizado="1784823078664.212";
+let actualizado="1784908558736.163";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1489,6 +1489,22 @@ let profesores={
           "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "CSO-19073-SEMINARIO DE INV. POLITICA": [
+        {
+          "grupo": "002",
+          "nombre": "CSO-19073-SEMINARIO DE INV. POLITICA",
+          "profesor": "",
+          "creditos": "7",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH308",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
           "fin": "10:00"
         }
       ],
@@ -4772,9 +4788,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -7759,22 +7775,77 @@ let profesores={
       ]
     }
   },
-  "HORACIO ALEJANDRO LARREGUY ARBESU": {
+  "EMILIO GUTIERREZ FERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Emilio-Guti\u00e9rrez_31470",
+    "general": 6.4074,
+    "n": 27,
     "grupos": {
-      "CSO-19094-SEM. DE INVESTIG. POLITICA A-2": [
+      "CSO-19073-SEMINARIO DE INV. POLITICA": [
         {
           "grupo": "001",
-          "nombre": "CSO-19094-SEM. DE INVESTIG. POLITICA A-2",
-          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
-          "creditos": "9",
-          "horario": "08:30-10:00",
+          "nombre": "CSO-19073-SEMINARIO DE INV. POLITICA",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "creditos": "7",
+          "horario": "16:00-17:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
-          "salon": "RHSA4",
+          "salon": "RH106",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "creditos": "9",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ],
+      "ECO-18101-DESARROLLO ECONOMICO I": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
+          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -10708,64 +10779,6 @@ let profesores={
       ]
     }
   },
-  "EMILIO GUTIERREZ FERNANDEZ": {
-    "link": "https://www.misprofesores.com/profesores/Emilio-Guti\u00e9rrez_31470",
-    "general": 6.4074,
-    "n": 27,
-    "grupos": {
-      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "ECO-10204-SEMINARIO DE INV. ECONOMICA": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-10204-SEMINARIO DE INV. ECONOMICA",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
-          "creditos": "9",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "ECO-18101-DESARROLLO ECONOMICO I": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
-          "profesor": "EMILIO GUTIERREZ FERNANDEZ",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ]
-    }
-  },
   "CARLO EDUARDO ALCARAZ PRIBAZ": {
     "grupos": {
       "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
@@ -10927,7 +10940,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHB-2",
+          "salon": "RH112",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -20768,10 +20781,10 @@ let mejoresPorDepto={
     "ERIC MAGAR MEURS",
     "ALEXANDRA URIBE COUGHLAN",
     "ADRIAN LUCARDI",
+    "EMILIO GUTIERREZ FERNANDEZ",
     "ALBERTO SIMPSER MONDLAK",
     "JEFFREY ALLEN WELDON",
-    "DENISE EUGENIA DRESSER GUERRA",
-    "JOSE IGNACIO LANZAGORTA GARCIA"
+    "DENISE EUGENIA DRESSER GUERRA"
   ],
   "DERECHO": [
     "MARIANA AGUILAR AGUILAR",

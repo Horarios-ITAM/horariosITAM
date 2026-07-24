@@ -1,4 +1,4 @@
-let actualizado="1784823078650.2468";
+let actualizado="1784908558696.5027";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -6438,6 +6438,41 @@ let clases={
       }
     ]
   },
+  "CSO-19073": {
+    "nombre": "CSO-19073-SEMINARIO DE INV. POLITICA",
+    "clave": "CSO-19073",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19073-SEMINARIO DE INV. POLITICA",
+        "profesor": "EMILIO GUTIERREZ FERNANDEZ",
+        "creditos": "7",
+        "horario": "16:00-17:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH106",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CSO-19073-SEMINARIO DE INV. POLITICA",
+        "profesor": "",
+        "creditos": "7",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH308",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
+      }
+    ]
+  },
   "CSO-19081": {
     "nombre": "CSO-19081-SEMINARIO DE INV. POLITICA  A",
     "clave": "CSO-19081",
@@ -6456,26 +6491,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
-      }
-    ]
-  },
-  "CSO-19094": {
-    "nombre": "CSO-19094-SEM. DE INVESTIG. POLITICA A-2",
-    "clave": "CSO-19094",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "CSO-19094-SEM. DE INVESTIG. POLITICA A-2",
-        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
-        "creditos": "9",
-        "horario": "08:30-10:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "RHSA4",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
       }
     ]
   },
@@ -9598,7 +9613,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RH112",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -19879,9 +19894,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20138,6 +20153,11 @@ let misProfesData={
     "general": 9.5,
     "n": 10
   },
+  "EMILIO GUTIERREZ FERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Emilio-Guti\u00e9rrez_31470",
+    "general": 6.4074,
+    "n": 27
+  },
   "LUIS ENRIQUE PEREDA TREJO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Pereda-Trejo_131154",
     "general": 8.3333,
@@ -20382,11 +20402,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Victoria-Nuguer_172046",
     "general": 7.0,
     "n": 1
-  },
-  "EMILIO GUTIERREZ FERNANDEZ": {
-    "link": "https://www.misprofesores.com/profesores/Emilio-Guti\u00e9rrez_31470",
-    "general": 6.4074,
-    "n": 27
   },
   "JOSE GABRIEL MARTINEZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Gabriel-Mart\u00ednez-Gonz\u00e1lez_181679",
