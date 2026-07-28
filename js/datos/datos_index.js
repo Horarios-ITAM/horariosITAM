@@ -1,4 +1,4 @@
-let actualizado="1785170472304.3167";
+let actualizado="1785255633783.4343";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -590,6 +590,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "ADM-11120-TRAYECT. EN ADM: PROPOS Y PROG",
+        "profesor": "ADRIANA MALDONADO TORRES",
+        "creditos": "2",
+        "horario": "10:30-11:30",
+        "dias": [
+          "MA"
+        ],
+        "salon": "PF101",
+        "campus": "RIO HONDO",
+        "inicio": "10:30",
+        "fin": "11:30"
       }
     ]
   },
@@ -1805,14 +1819,15 @@ let clases={
         "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
         "profesor": "ANURAG SINGH",
         "creditos": "6",
-        "horario": "08:30-11:30",
+        "horario": "08:30-10:00",
         "dias": [
-          "MA"
+          "MA",
+          "JU"
         ],
         "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "08:30",
-        "fin": "11:30"
+        "fin": "10:00"
       },
       {
         "grupo": "002",
@@ -1840,6 +1855,21 @@ let clases={
           "MI"
         ],
         "salon": "RH212",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
+        "profesor": "ANURAG SINGH",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -2002,6 +2032,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "ADM-15568-TRAYECT EN FINAN: PROP Y PROGR",
+        "profesor": "ADRIANA MALDONADO TORRES",
+        "creditos": "2",
+        "horario": "10:30-11:30",
+        "dias": [
+          "JU"
+        ],
+        "salon": "PF101",
+        "campus": "RIO HONDO",
+        "inicio": "10:30",
+        "fin": "11:30"
       }
     ]
   },
@@ -4682,7 +4726,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH305",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:30"
@@ -5489,7 +5533,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF104",
+        "salon": "PF102",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -7487,17 +7531,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-        "profesor": "",
+        "profesor": "GUILHERME VASCONCELOS VILACA",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "16:00-19:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
         "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "17:30"
+        "fin": "19:00"
       }
     ]
   },
@@ -7851,7 +7894,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-        "profesor": "",
+        "profesor": "GUILHERME VASCONCELOS VILACA",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -8185,15 +8228,30 @@ let clases={
         "nombre": "DER-13403-OBLIGACIONES",
         "profesor": "LUIS MANUEL CAMP MEJAN CARRER",
         "creditos": "8",
-        "horario": "09:00-11:00",
+        "horario": "07:00-09:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "",
-        "campus": "",
-        "inicio": "09:00",
-        "fin": "11:00"
+        "salon": "RH304",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-13403-OBLIGACIONES",
+        "profesor": "",
+        "creditos": "8",
+        "horario": "19:00-21:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH309",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -8415,7 +8473,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-14606-DERECHO PROCESAL PENAL",
-        "profesor": "",
+        "profesor": "SONIA LILIA RODRIGUEZ ZETINA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -9485,7 +9543,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH317",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -9535,7 +9593,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH317",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -9634,7 +9692,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH301",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -9691,7 +9749,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH317",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -11126,7 +11184,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH310",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -11518,6 +11576,27 @@ let clases={
           "JU"
         ],
         "salon": "RH113",
+        "campus": "RIO HONDO",
+        "inicio": "11:30",
+        "fin": "13:00"
+      }
+    ]
+  },
+  "ECO-21112": {
+    "nombre": "ECO-21112-EQUILIBRIO GENERAL",
+    "clave": "ECO-21112",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-21112-EQUILIBRIO GENERAL",
+        "profesor": "LEVENT ULKU",
+        "creditos": "6",
+        "horario": "11:30-13:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -13295,7 +13374,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "EIN-19414-MEDIO ORIENTE",
-        "profesor": "YOANNA SHUBICH GREEN",
+        "profesor": "",
         "creditos": "6",
         "horario": "16:00-19:00",
         "dias": [
@@ -19994,9 +20073,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20257,6 +20336,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Hannah-Birkenkotter_169901",
     "general": 8.3333,
     "n": 3
+  },
+  "GUILHERME VASCONCELOS VILACA": {
+    "link": "https://www.misprofesores.com/profesores/Guilherme-Vasconcelos_160201",
+    "general": 8.0,
+    "n": 1
   },
   "ANA MARIA ZORRILLA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
@@ -20954,9 +21038,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -21075,8 +21159,8 @@ let misProfesData={
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
-    "general": 7.1186,
-    "n": 59
+    "general": 7.1667,
+    "n": 60
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",

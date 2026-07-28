@@ -1,4 +1,4 @@
-let actualizado="1785170472351.039";
+let actualizado="1785255633796.5762";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -890,6 +890,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ADM-11120-TRAYECT. EN ADM: PROPOS Y PROG",
+          "profesor": "ADRIANA MALDONADO TORRES",
+          "creditos": "2",
+          "horario": "10:30-11:30",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF101",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "11:30"
         }
       ],
       "ADM-12311-TRAYECTORIAS EN NEG. I": [
@@ -1031,6 +1045,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "ADM-15568-TRAYECT EN FINAN: PROP Y PROGR",
+          "profesor": "ADRIANA MALDONADO TORRES",
+          "creditos": "2",
+          "horario": "10:30-11:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "PF101",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "11:30"
         }
       ]
     }
@@ -1524,40 +1552,6 @@ let profesores={
           "fin": "09:00"
         }
       ],
-      "DER-11119-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "002",
-          "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-          "profesor": "",
-          "creditos": "9",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "DER-11805-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "002",
-          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
       "DER-13108-BIENES Y DERECHOS REALES": [
         {
           "grupo": "001",
@@ -1575,6 +1569,23 @@ let profesores={
           "fin": "20:30"
         }
       ],
+      "DER-13403-OBLIGACIONES": [
+        {
+          "grupo": "002",
+          "nombre": "DER-13403-OBLIGACIONES",
+          "profesor": "",
+          "creditos": "8",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ],
       "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB": [
         {
           "grupo": "001L",
@@ -1589,23 +1600,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
-        }
-      ],
-      "DER-14606-DERECHO PROCESAL PENAL": [
-        {
-          "grupo": "001",
-          "nombre": "DER-14606-DERECHO PROCESAL PENAL",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH111",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ],
       "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB": [
@@ -1811,6 +1805,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ],
+      "EIN-19414-MEDIO ORIENTE": [
+        {
+          "grupo": "001",
+          "nombre": "EIN-19414-MEDIO ORIENTE",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-19:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "PF106",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
         }
       ],
       "IIO-12172-TALLER PROGR DE DISPOS DE ING.-LAB": [
@@ -3302,13 +3312,29 @@ let profesores={
           "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
           "profesor": "ANURAG SINGH",
           "creditos": "6",
-          "horario": "08:30-11:30",
+          "horario": "08:30-10:00",
           "dias": [
-            "MA"
+            "MA",
+            "JU"
           ],
           "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "08:30",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "ADM-15560-INTRO A FINA E INTERMED FINANC",
+          "profesor": "ANURAG SINGH",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-2",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
           "fin": "11:30"
         }
       ]
@@ -5830,9 +5856,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6136,7 +6162,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH305",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:30"
@@ -6735,7 +6761,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF104",
+          "salon": "PF102",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -9396,6 +9422,46 @@ let profesores={
       ]
     }
   },
+  "GUILHERME VASCONCELOS VILACA": {
+    "link": "https://www.misprofesores.com/profesores/Guilherme-Vasconcelos_160201",
+    "general": 8.0,
+    "n": 1,
+    "grupos": {
+      "DER-11119-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
+          "profesor": "GUILHERME VASCONCELOS VILACA",
+          "creditos": "9",
+          "horario": "16:00-19:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ],
+      "DER-11805-FILOSOFIA DEL DERECHO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
+          "profesor": "GUILHERME VASCONCELOS VILACA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
   "DANIEL EDUARDO TORRES CHECA": {
     "grupos": {
       "DER-11120-TALLER DISER JUR TEC ARGUM JUR": [
@@ -9881,15 +9947,15 @@ let profesores={
           "nombre": "DER-13403-OBLIGACIONES",
           "profesor": "LUIS MANUEL CAMP MEJAN CARRER",
           "creditos": "8",
-          "horario": "09:00-11:00",
+          "horario": "07:00-09:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
-          "inicio": "09:00",
-          "fin": "11:00"
+          "salon": "RH304",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
         }
       ]
     }
@@ -10028,6 +10094,27 @@ let profesores={
             "JU"
           ],
           "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
+  "SONIA LILIA RODRIGUEZ ZETINA": {
+    "grupos": {
+      "DER-14606-DERECHO PROCESAL PENAL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-14606-DERECHO PROCESAL PENAL",
+          "profesor": "SONIA LILIA RODRIGUEZ ZETINA",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -10737,7 +10824,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH317",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -10754,7 +10841,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH317",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -10848,7 +10935,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH310",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -11015,7 +11102,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH301",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -11155,7 +11242,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH317",
+          "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -12024,6 +12111,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ],
+      "ECO-21112-EQUILIBRIO GENERAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-21112-EQUILIBRIO GENERAL",
+          "profesor": "LEVENT ULKU",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH310",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ],
       "ECO-21227-SEMINARIO DE TEO. DE DECISION": [
@@ -14688,26 +14792,6 @@ let profesores={
       ]
     }
   },
-  "YOANNA SHUBICH GREEN": {
-    "grupos": {
-      "EIN-19414-MEDIO ORIENTE": [
-        {
-          "grupo": "001",
-          "nombre": "EIN-19414-MEDIO ORIENTE",
-          "profesor": "YOANNA SHUBICH GREEN",
-          "creditos": "6",
-          "horario": "16:00-19:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "PF106",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
   "MARIA JOSE SALCEDO CAMPOS": {
     "grupos": {
       "EIN-19555-ORG. SOC. CIVIL: CREAC Y DES.": [
@@ -16750,9 +16834,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18618,8 +18702,8 @@ let profesores={
   },
   "CESAR LUIS GARCIA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
-    "general": 7.1186,
-    "n": 59,
+    "general": 7.1667,
+    "n": 60,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -20770,9 +20854,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
+    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF",
-    "JUAN FERNANDO CALDERON CABELLO"
+    "VIRGINIA KALIS LETAYF"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
