@@ -1,4 +1,4 @@
-let actualizado="1785255633796.5762";
+let actualizado="1785341040144.5842";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1423,23 +1423,6 @@ let profesores={
           "fin": "14:00"
         }
       ],
-      "COM-16306-RAZONAMIENTO ALGORITMICO": [
-        {
-          "grupo": "006",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC201",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
       "CON-10100-CONTABILIDAD, I": [
         {
           "grupo": "005",
@@ -1927,6 +1910,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
+        },
+        {
+          "grupo": "034",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF101",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
         }
       ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
@@ -2027,22 +2025,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
-        }
-      ],
-      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
-        {
-          "grupo": "003",
-          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "19:00-20:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "20:00"
         }
       ],
       "MAT-11310-MATEMATICAS, III": [
@@ -2512,8 +2494,8 @@ let profesores={
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
-    "general": 6.5455,
-    "n": 22,
+    "general": 6.3478,
+    "n": 23,
     "grupos": {
       "ADM-12350-DECIS. NEGOC. BASADAS EN DATOS": [
         {
@@ -4814,9 +4796,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5157,6 +5139,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        },
+        {
+          "grupo": "008",
+          "nombre": "COM-14113-FUNDAMENTOS DE PROGRAMACION",
+          "profesor": "IRMA LOZANO MENDICUTI",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ],
       "COM-16306-RAZONAMIENTO ALGORITMICO": [
@@ -5212,6 +5209,62 @@ let profesores={
             "JU"
           ],
           "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "ALBERTO ISAAC RAMIREZ PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
+    "general": 8.5714,
+    "n": 21,
+    "grupos": {
+      "COM-14113-FUNDAMENTOS DE PROGRAMACION": [
+        {
+          "grupo": "007",
+          "nombre": "COM-14113-FUNDAMENTOS DE PROGRAMACION",
+          "profesor": "ALBERTO ISAAC RAMIREZ PEREZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ],
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "005",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "ALBERTO ISAAC RAMIREZ PEREZ",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC102",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        },
+        {
+          "grupo": "013",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "ALBERTO ISAAC RAMIREZ PEREZ",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC101",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -5462,6 +5515,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:30",
           "fin": "12:00"
+        },
+        {
+          "grupo": "015",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "MARIA DE LOURDES ALICIA DOMENZAIN ORTEGA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -5565,41 +5633,26 @@ let profesores={
       ]
     }
   },
-  "ALBERTO ISAAC RAMIREZ PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
-    "general": 8.5714,
-    "n": 21,
+  "TERESITA SOLA TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Teresita-Sola-Trejo_54042",
+    "general": 9.1026,
+    "n": 39,
     "grupos": {
       "COM-16306-RAZONAMIENTO ALGORITMICO": [
         {
-          "grupo": "005",
+          "grupo": "006",
           "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "ALBERTO ISAAC RAMIREZ PEREZ",
+          "profesor": "TERESITA SOLA TREJO",
           "creditos": "6",
           "horario": "10:00-11:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RHCC102",
+          "salon": "RHCC201",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        },
-        {
-          "grupo": "013",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "ALBERTO ISAAC RAMIREZ PEREZ",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC101",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -5639,6 +5692,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
+        },
+        {
+          "grupo": "016",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "FERNANDO PURON CONTRERAS",
+          "creditos": "6",
+          "horario": "10:30-12:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "10:30",
+          "fin": "12:00"
         }
       ]
     }
@@ -14156,8 +14224,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7917,
-    "n": 48,
+    "general": 7.7755,
+    "n": 49,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -17371,6 +17439,21 @@ let profesores={
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
           "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
           "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF101",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        },
+        {
+          "grupo": "033",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+          "creditos": "6",
           "horario": "13:00-14:30",
           "dias": [
             "MA",
@@ -17410,6 +17493,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "REBECCA SOTO BUSTAMANTE": {
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "035",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "REBECCA SOTO BUSTAMANTE",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH314",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -17869,8 +17973,8 @@ let profesores={
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.3,
-    "n": 20,
+    "general": 9.3333,
+    "n": 21,
     "grupos": {
       "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
         {
@@ -18155,6 +18259,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
+        }
+      ],
+      "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
+          "profesor": "EDUARDO JOSE PABLO MARTIN GARCIA CORREA",
+          "creditos": "2",
+          "horario": "19:00-20:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -20841,10 +20961,10 @@ let mejoresPorDepto={
     "XOCHITL CHAVARRIA CRUZ",
     "ANA EUGENIA DIAZ ROSI\u00d1OL",
     "MONICA ZAVALA ESTRADA",
+    "TERESITA SOLA TREJO",
     "SILVIA RIOS MAGOS",
     "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
-    "MIROSLAVA MENDOZA VIDAL",
-    "JOSE ALEJANDRO JARDI RAMOS"
+    "MIROSLAVA MENDOZA VIDAL"
   ],
   "CONTABILIDAD": [
     "MANUEL TAMEZ ZENDEJAS",
@@ -20947,8 +21067,8 @@ let mejoresPorDepto={
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "SAMARI PAULINA GARCIA Y COLOME GONGORA",
-    "MARIA GABRIELA  MAZZUCHINO",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "MARIA GABRIELA  MAZZUCHINO",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "GABRIEL ASTEY WOOD",
     "FEDERICO AUGUSTO GUZMAN RUBIO",

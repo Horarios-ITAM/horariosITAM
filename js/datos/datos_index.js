@@ -1,4 +1,4 @@
-let actualizado="1785255633783.4343";
+let actualizado="1785341040130.3328";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3675,6 +3675,36 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
+      },
+      {
+        "grupo": "007",
+        "nombre": "COM-14113-FUNDAMENTOS DE PROGRAMACION",
+        "profesor": "ALBERTO ISAAC RAMIREZ PEREZ",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHCC302",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      },
+      {
+        "grupo": "008",
+        "nombre": "COM-14113-FUNDAMENTOS DE PROGRAMACION",
+        "profesor": "IRMA LOZANO MENDICUTI",
+        "creditos": "6",
+        "horario": "08:30-10:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHCC302",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -4041,7 +4071,7 @@ let clases={
       {
         "grupo": "006",
         "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "",
+        "profesor": "TERESITA SOLA TREJO",
         "creditos": "6",
         "horario": "10:00-11:30",
         "dias": [
@@ -4172,6 +4202,36 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
+      },
+      {
+        "grupo": "015",
+        "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+        "profesor": "MARIA DE LOURDES ALICIA DOMENZAIN ORTEGA",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHCC302",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      },
+      {
+        "grupo": "016",
+        "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+        "profesor": "FERNANDO PURON CONTRERAS",
+        "creditos": "6",
+        "horario": "10:30-12:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHCC202",
+        "campus": "RIO HONDO",
+        "inicio": "10:30",
+        "fin": "12:00"
       }
     ]
   },
@@ -15674,6 +15734,21 @@ let clases={
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
         "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
         "creditos": "6",
+        "horario": "11:30-13:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "PF101",
+        "campus": "RIO HONDO",
+        "inicio": "11:30",
+        "fin": "13:00"
+      },
+      {
+        "grupo": "033",
+        "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+        "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+        "creditos": "6",
         "horario": "13:00-14:30",
         "dias": [
           "MA",
@@ -15683,6 +15758,36 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
+      },
+      {
+        "grupo": "034",
+        "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "13:00-14:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "PF101",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:30"
+      },
+      {
+        "grupo": "035",
+        "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+        "profesor": "REBECCA SOTO BUSTAMANTE",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH314",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -16781,7 +16886,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-        "profesor": "",
+        "profesor": "EDUARDO JOSE PABLO MARTIN GARCIA CORREA",
         "creditos": "2",
         "horario": "19:00-20:00",
         "dias": [
@@ -19799,8 +19904,8 @@ let misProfesData={
   },
   "JOSE FRANCISCO TUDON MALDONADO": {
     "link": "https://www.misprofesores.com/profesores/JOSE-FRANCISCO-TUDON-MALDONADO_107298",
-    "general": 6.5455,
-    "n": 22
+    "general": 6.3478,
+    "n": 23
   },
   "XIMENA ARGUELLES SACRISTAN": {
     "link": "https://www.misprofesores.com/profesores/Ximena-Arguelles_150289",
@@ -19973,9 +20078,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20001,6 +20106,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Silvia-r\u00edos-magos_41283",
     "general": 9.0,
     "n": 24
+  },
+  "ALBERTO ISAAC RAMIREZ PEREZ": {
+    "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
+    "general": 8.5714,
+    "n": 21
   },
   "JOSE OCTAVIO GUTIERREZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Octavio-Gutierrez-Garcia_129405",
@@ -20037,10 +20147,10 @@ let misProfesData={
     "general": 6.5556,
     "n": 36
   },
-  "ALBERTO ISAAC RAMIREZ PEREZ": {
-    "link": "https://www.misprofesores.com/profesores/Alberto-Isaac-Ramirez-Perez_67481",
-    "general": 8.5714,
-    "n": 21
+  "TERESITA SOLA TREJO": {
+    "link": "https://www.misprofesores.com/profesores/Teresita-Sola-Trejo_54042",
+    "general": 9.1026,
+    "n": 39
   },
   "FERNANDO PURON CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Pur\u00f3n-Contreras_158284",
@@ -20789,8 +20899,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7917,
-    "n": 48
+    "general": 7.7755,
+    "n": 49
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
@@ -21114,8 +21224,8 @@ let misProfesData={
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.3,
-    "n": 20
+    "general": 9.3333,
+    "n": 21
   },
   "FEDERICO VALLE OCHOA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",
