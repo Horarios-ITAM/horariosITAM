@@ -1,4 +1,4 @@
-let actualizado="1785341040130.3328";
+let actualizado="1785427742112.8372";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -2967,31 +2967,6 @@ let clases={
       }
     ]
   },
-  "CLE-10603-LAB": {
-    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-    "clave": "CLE-10603",
-    "grupos": [
-      {
-        "grupo": "001L",
-        "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-        "profesor": "MARCELA RABADAN GALLARDO",
-        "creditos": "0",
-        "horario": "14:30-16:00",
-        "dias": [
-          "MA"
-        ],
-        "salon": "RHCUBIC",
-        "campus": "RIO HONDO",
-        "inicio": "14:30",
-        "fin": "16:00"
-      }
-    ]
-  },
-  "CLE-10603": {
-    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM",
-    "clave": "CLE-10603",
-    "grupos": []
-  },
   "COM-11102-LAB": {
     "nombre": "COM-11102-ESTRUCTURAS DE DATOS-LAB",
     "clave": "COM-11102",
@@ -4232,6 +4207,36 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:30",
         "fin": "12:00"
+      },
+      {
+        "grupo": "017",
+        "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHCC302",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
+      },
+      {
+        "grupo": "018",
+        "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHCC102",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -16487,46 +16492,6 @@ let clases={
       }
     ]
   },
-  "LEN-12724": {
-    "nombre": "LEN-12724-COM. ESCRITA PARA ING EN COMP.",
-    "clave": "LEN-12724",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "LEN-12724-COM. ESCRITA PARA ING EN COMP.",
-        "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-        "creditos": "2",
-        "horario": "18:00-19:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "PF103",
-        "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:00"
-      }
-    ]
-  },
-  "LEN-12725": {
-    "nombre": "LEN-12725-COM. ESCRITA PARA ING MECATRO.",
-    "clave": "LEN-12725",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "LEN-12725-COM. ESCRITA PARA ING MECATRO.",
-        "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-        "creditos": "2",
-        "horario": "18:00-19:00",
-        "dias": [
-          "MI"
-        ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "18:00",
-        "fin": "19:00"
-      }
-    ]
-  },
   "LEN-12726": {
     "nombre": "LEN-12726-COM. ESCRITA PARA ING EN NEGOC",
     "clave": "LEN-12726",
@@ -16624,26 +16589,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:00"
-      }
-    ]
-  },
-  "LEN-12732": {
-    "nombre": "LEN-12732-COM ESCRIT ING IND Y SIST INTE",
-    "clave": "LEN-12732",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "LEN-12732-COM ESCRIT ING IND Y SIST INTE",
-        "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-        "creditos": "2",
-        "horario": "17:00-18:00",
-        "dias": [
-          "JU"
-        ],
-        "salon": "PF107",
-        "campus": "RIO HONDO",
-        "inicio": "17:00",
-        "fin": "18:00"
       }
     ]
   },
@@ -17630,6 +17575,22 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "18:30"
+      },
+      {
+        "grupo": "008",
+        "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
+        "profesor": "",
+        "creditos": "9",
+        "horario": "12:30-14:00",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "PF108",
+        "campus": "RIO HONDO",
+        "inicio": "12:30",
+        "fin": "14:00"
       }
     ]
   },
@@ -20027,11 +19988,6 @@ let misProfesData={
     "general": 9.5,
     "n": 14
   },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19
-  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.08,
@@ -20054,8 +20010,8 @@ let misProfesData={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.6083,
-    "n": 120
+    "general": 7.6281,
+    "n": 121
   },
   "JUAN SALVADOR MARMOL YAHYA": {
     "link": "https://www.misprofesores.com/profesores/Juan-Salvador-M\u00e1rmol-Yahya_169926",
@@ -20078,9 +20034,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20183,9 +20139,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -21142,15 +21098,20 @@ let misProfesData={
     "general": 9.3243,
     "n": 37
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19
+  },
   "SERGIO JAVIER LUIS ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Javier-Luis-Alcazar_190191",
     "general": 2.0,
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",

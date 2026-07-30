@@ -1,4 +1,4 @@
-let actualizado="1785341040144.5842";
+let actualizado="1785427742126.8538";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1423,6 +1423,38 @@ let profesores={
           "fin": "14:00"
         }
       ],
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "017",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC302",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        },
+        {
+          "grupo": "018",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC102",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
       "CON-10100-CONTABILIDAD, I": [
         {
           "grupo": "005",
@@ -2076,6 +2108,24 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ],
+      "MAT-12220-CALCULO EN UNA VARIABLE": [
+        {
+          "grupo": "008",
+          "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
         }
       ],
       "MAT-12310-ALGEBRA MATRICIAL": [
@@ -4062,76 +4112,6 @@ let profesores={
       ]
     }
   },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19,
-    "grupos": {
-      "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "0",
-          "horario": "14:30-16:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "14:30",
-          "fin": "16:00"
-        }
-      ],
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "004",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH112",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "11:00-12:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH202",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        }
-      ]
-    }
-  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.08,
@@ -4486,8 +4466,8 @@ let profesores={
   },
   "LETICIA RENTERIA FERRAN": {
     "link": "https://www.misprofesores.com/profesores/Leticia-Renteria_16187",
-    "general": 7.6083,
-    "n": 120,
+    "general": 7.6281,
+    "n": 121,
     "grupos": {
       "COM-11302-ALGORITMICA Y PROGRAMACION": [
         {
@@ -4796,9 +4776,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5924,9 +5904,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -16862,6 +16842,60 @@ let profesores={
       ]
     }
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19,
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "004",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH112",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ]
+    }
+  },
   "SERGIO JAVIER LUIS ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Javier-Luis-Alcazar_190191",
     "general": 2.0,
@@ -16902,9 +16936,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17873,38 +17907,6 @@ let profesores={
           "fin": "20:00"
         }
       ],
-      "LEN-12724-COM. ESCRITA PARA ING EN COMP.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12724-COM. ESCRITA PARA ING EN COMP.",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "18:00-19:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF103",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
-        }
-      ],
-      "LEN-12725-COM. ESCRITA PARA ING MECATRO.": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12725-COM. ESCRITA PARA ING MECATRO.",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "18:00-19:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:00"
-        }
-      ],
       "LEN-12727-COM. ESCRITA PARA ING. INDUSTR": [
         {
           "grupo": "001",
@@ -17951,22 +17953,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:00"
-        }
-      ],
-      "LEN-12732-COM ESCRIT ING IND Y SIST INTE": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12732-COM ESCRIT ING IND Y SIST INTE",
-          "profesor": "JESUS ADRIAN FERNANDEZ REYES",
-          "creditos": "2",
-          "horario": "17:00-18:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "17:00",
-          "fin": "18:00"
         }
       ]
     }
@@ -20948,7 +20934,6 @@ let mejoresPorDepto={
     "MARGARITA TARRAGONA SAEZ"
   ],
   "LENGUAS (CLE)": [
-    "MARCELA RABADAN GALLARDO",
     "TOUFIK CHAIBAT",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "NORMA ARACELY AVILA MIRANDA",
@@ -20974,9 +20959,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
-    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF"
+    "VIRGINIA KALIS LETAYF",
+    "JUAN FERNANDO CALDERON CABELLO"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
@@ -21064,6 +21049,7 @@ let mejoresPorDepto={
   ],
   "LENGUAS (LEN)": [
     "MIGUEL ANGEL HERNANDEZ ACOSTA",
+    "MARCELA RABADAN GALLARDO",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "SAMARI PAULINA GARCIA Y COLOME GONGORA",
@@ -21071,8 +21057,7 @@ let mejoresPorDepto={
     "MARIA GABRIELA  MAZZUCHINO",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "GABRIEL ASTEY WOOD",
-    "FEDERICO AUGUSTO GUZMAN RUBIO",
-    "FEDERICO VALLE OCHOA"
+    "FEDERICO AUGUSTO GUZMAN RUBIO"
   ],
   "MATEMATICAS": [
     "SERGIO IVAN ARROYO GILES",
