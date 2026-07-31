@@ -1,4 +1,4 @@
-let actualizado="1785427742112.8372";
+let actualizado="1785514794780.1138";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -2966,6 +2966,31 @@ let clases={
         "fin": "15:30"
       }
     ]
+  },
+  "CLE-10603-LAB": {
+    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+    "clave": "CLE-10603",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+        "profesor": "MARCELA RABADAN GALLARDO",
+        "creditos": "0",
+        "horario": "14:30-16:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "14:30",
+        "fin": "16:00"
+      }
+    ]
+  },
+  "CLE-10603": {
+    "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM",
+    "clave": "CLE-10603",
+    "grupos": []
   },
   "COM-11102-LAB": {
     "nombre": "COM-11102-ESTRUCTURAS DE DATOS-LAB",
@@ -8023,30 +8048,30 @@ let clases={
         "nombre": "DER-12103-HISTORIA DEL DERECHO",
         "profesor": "JULIO ANTONIO RIOS FIGUEROA",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "11:30-13:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH205",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "11:30",
+        "fin": "13:00"
       },
       {
         "grupo": "002",
         "nombre": "DER-12103-HISTORIA DEL DERECHO",
         "profesor": "RAYMUNDO GAMA LEYVA",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "13:00-14:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "13:00",
+        "fin": "14:30"
       },
       {
         "grupo": "003",
@@ -8074,15 +8099,15 @@ let clases={
         "nombre": "DER-12202-HISTORIA DEL DERECHO MEXICANO",
         "profesor": "JULIO ANTONIO RIOS FIGUEROA",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "11:30-13:00",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RH205",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "11:30",
+        "fin": "13:00"
       }
     ]
   },
@@ -19988,6 +20013,11 @@ let misProfesData={
     "general": 9.5,
     "n": 14
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19
+  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.08,
@@ -20139,9 +20169,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20185,8 +20215,8 @@ let misProfesData={
   },
   "MIRIAM PATRICIA HERNANDEZ GUERRERO": {
     "link": "https://www.misprofesores.com/profesores/Miriam-Patricia-Hernandez-Guerrero_195167",
-    "general": 2.0,
-    "n": 1
+    "general": 2.5,
+    "n": 2
   },
   "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Gonzalez-Armendariz_36748",
@@ -21098,20 +21128,15 @@ let misProfesData={
     "general": 9.3243,
     "n": 37
   },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19
-  },
   "SERGIO JAVIER LUIS ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Javier-Luis-Alcazar_190191",
     "general": 2.0,
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -21220,8 +21245,8 @@ let misProfesData={
   },
   "RAYBEL ANDRES GARCIA ANCONA": {
     "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
-    "general": 6.9545,
-    "n": 22
+    "general": 7.0,
+    "n": 23
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
@@ -21252,6 +21277,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
     "general": 8.28,
     "n": 75
+  },
+  "CARLOS RODOLFO BARRERA ANZALDO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Rodolfo-Barrera-Anzaldo_195627",
+    "general": 10.0,
+    "n": 1
   },
   "JUAN CARLOS AGUILAR VILLEGAS": {
     "link": "https://www.misprofesores.com/profesores/Juan-Carlos-Aguilar-Villegas_10711",

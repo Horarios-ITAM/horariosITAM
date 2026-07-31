@@ -1,4 +1,4 @@
-let actualizado="1785427742126.8538";
+let actualizado="1785514794794.2795";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -4112,6 +4112,76 @@ let profesores={
       ]
     }
   },
+  "MARCELA RABADAN GALLARDO": {
+    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
+    "general": 9.5263,
+    "n": 19,
+    "grupos": {
+      "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "CLE-10603-ESTUDIA CON EXITO EN EL ITAM-LAB",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "0",
+          "horario": "14:30-16:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "14:30",
+          "fin": "16:00"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "004",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHACERV",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "002",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH112",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "MARCELA RABADAN GALLARDO",
+          "creditos": "2",
+          "horario": "11:00-12:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH202",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "12:00"
+        }
+      ]
+    }
+  },
   "ANDRES GOMEZ DE SILVA GARZA": {
     "link": "https://www.misprofesores.com/profesores/Andr\u00e9s-G\u00f3mez-de-Silva-Garza_10852",
     "general": 6.08,
@@ -5904,9 +5974,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6499,8 +6569,8 @@ let profesores={
   },
   "MIRIAM PATRICIA HERNANDEZ GUERRERO": {
     "link": "https://www.misprofesores.com/profesores/Miriam-Patricia-Hernandez-Guerrero_195167",
-    "general": 2.0,
-    "n": 1,
+    "general": 2.5,
+    "n": 2,
     "grupos": {
       "CON-10100-CONTABILIDAD, I": [
         {
@@ -9682,15 +9752,15 @@ let profesores={
           "nombre": "DER-12103-HISTORIA DEL DERECHO",
           "profesor": "JULIO ANTONIO RIOS FIGUEROA",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "11:30-13:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH205",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ],
       "DER-12202-HISTORIA DEL DERECHO MEXICANO": [
@@ -9699,15 +9769,15 @@ let profesores={
           "nombre": "DER-12202-HISTORIA DEL DERECHO MEXICANO",
           "profesor": "JULIO ANTONIO RIOS FIGUEROA",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "11:30-13:00",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH205",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "11:30",
+          "fin": "13:00"
         }
       ],
       "DER-15303-DER CONST. I Y SEM DE TEO POL": [
@@ -9739,15 +9809,15 @@ let profesores={
           "nombre": "DER-12103-HISTORIA DEL DERECHO",
           "profesor": "RAYMUNDO GAMA LEYVA",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "13:00-14:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "13:00",
+          "fin": "14:30"
         },
         {
           "grupo": "003",
@@ -16842,60 +16912,6 @@ let profesores={
       ]
     }
   },
-  "MARCELA RABADAN GALLARDO": {
-    "link": "https://www.misprofesores.com/profesores/Marcela-Rabad\u00e1n-Gallardo_10827",
-    "general": 9.5263,
-    "n": 19,
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "004",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
-        {
-          "grupo": "002",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH112",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "MARCELA RABADAN GALLARDO",
-          "creditos": "2",
-          "horario": "11:00-12:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH202",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "12:00"
-        }
-      ]
-    }
-  },
   "SERGIO JAVIER LUIS ALCAZAR": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Javier-Luis-Alcazar_190191",
     "general": 2.0,
@@ -16936,9 +16952,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18688,8 +18704,8 @@ let profesores={
   },
   "RAYBEL ANDRES GARCIA ANCONA": {
     "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
-    "general": 6.9545,
-    "n": 22,
+    "general": 7.0,
+    "n": 23,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -19193,6 +19209,9 @@ let profesores={
     }
   },
   "CARLOS RODOLFO BARRERA ANZALDO": {
+    "link": "https://www.misprofesores.com/profesores/Carlos-Rodolfo-Barrera-Anzaldo_195627",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "MAT-12201-CALCULO MULTIVARIADO": [
         {
@@ -20934,6 +20953,7 @@ let mejoresPorDepto={
     "MARGARITA TARRAGONA SAEZ"
   ],
   "LENGUAS (CLE)": [
+    "MARCELA RABADAN GALLARDO",
     "TOUFIK CHAIBAT",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
     "NORMA ARACELY AVILA MIRANDA",
@@ -20959,9 +20979,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
+    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF",
-    "JUAN FERNANDO CALDERON CABELLO"
+    "VIRGINIA KALIS LETAYF"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
@@ -21049,7 +21069,6 @@ let mejoresPorDepto={
   ],
   "LENGUAS (LEN)": [
     "MIGUEL ANGEL HERNANDEZ ACOSTA",
-    "MARCELA RABADAN GALLARDO",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
     "JESUS ADRIAN FERNANDEZ REYES",
     "SAMARI PAULINA GARCIA Y COLOME GONGORA",
@@ -21057,9 +21076,11 @@ let mejoresPorDepto={
     "MARIA GABRIELA  MAZZUCHINO",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "GABRIEL ASTEY WOOD",
-    "FEDERICO AUGUSTO GUZMAN RUBIO"
+    "FEDERICO AUGUSTO GUZMAN RUBIO",
+    "FEDERICO VALLE OCHOA"
   ],
   "MATEMATICAS": [
+    "CARLOS RODOLFO BARRERA ANZALDO",
     "SERGIO IVAN ARROYO GILES",
     "JOSE PABLO OLIVARES PRETELIN",
     "CONCEPCION RUIZ RUIZ FUNES",
@@ -21068,8 +21089,7 @@ let mejoresPorDepto={
     "SHARON MAGALI VALVERDE ESPARZA",
     "IRMA BEATRIZ RUMBOS PELLICER",
     "LUCIA RAMIREZ DAVID",
-    "LEOBARDO FERNANDEZ ROMAN",
-    "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS"
+    "LEOBARDO FERNANDEZ ROMAN"
   ],
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
