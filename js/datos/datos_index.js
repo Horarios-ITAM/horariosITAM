@@ -1,4 +1,4 @@
-let actualizado="1785514794780.1138";
+let actualizado="1785598810505.1958";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -5024,7 +5024,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "CON-10100-CONTABILIDAD, I",
-        "profesor": "",
+        "profesor": "EDGAR DE LA ROSA CABELLO",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -5054,7 +5054,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "CON-10100-CONTABILIDAD, I",
-        "profesor": "",
+        "profesor": "EDGAR DE LA ROSA CABELLO",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -5156,7 +5156,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
-        "profesor": "",
+        "profesor": "EDGAR DE LA ROSA CABELLO",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -5186,7 +5186,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "CON-10110-FUNDAMEN. DE CONTABILID FINANC",
-        "profesor": "",
+        "profesor": "EDGAR DE LA ROSA CABELLO",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -6594,7 +6594,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "CSO-19073-SEMINARIO DE INV. POLITICA",
-        "profesor": "",
+        "profesor": "RAISSA FABREGAS ROBLES GIL",
         "creditos": "7",
         "horario": "07:00-10:00",
         "dias": [
@@ -8244,7 +8244,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13108-BIENES Y DERECHOS REALES",
-        "profesor": "",
+        "profesor": "DENNIA ALINE TREJO PEREA",
         "creditos": "6",
         "horario": "19:00-20:30",
         "dias": [
@@ -8522,7 +8522,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-14505-DELITOS",
-        "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
+        "profesor": "LUCIA ISABEL MOTA CASILLAS",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -11560,7 +11560,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-18101-DESARROLLO ECONOMICO I",
-        "profesor": "",
+        "profesor": "RAISSA FABREGAS ROBLES GIL",
         "creditos": "6",
         "horario": "07:00-10:00",
         "dias": [
@@ -14526,14 +14526,14 @@ let clases={
         "nombre": "IIO-12170-AUTOMAT. Y CONTROL DE PROCESOS",
         "profesor": "BRUNO ALEJANDRO ORSATTI SANCHEZ",
         "creditos": "9",
-        "horario": "16:00-19:01",
+        "horario": "16:00-19:00",
         "dias": [
           "MI"
         ],
         "salon": "RHLMINT",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "19:01"
+        "fin": "19:00"
       }
     ]
   },
@@ -14558,7 +14558,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "IIO-12172-TALLER PROGR DE DISPOS DE ING.-LAB",
-        "profesor": "",
+        "profesor": "ALEJANDRO TERAN SOMOHANO",
         "creditos": "2",
         "horario": "17:30-19:30",
         "dias": [
@@ -14590,7 +14590,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHLMINT",
+        "salon": "RHPACE",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -14885,7 +14885,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHPACE",
+        "salon": "RHLMINT",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -17123,6 +17123,60 @@ let clases={
       }
     ]
   },
+  "MAT-12101": {
+    "nombre": "MAT-12101-CALCULO, II",
+    "clave": "MAT-12101",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-12101-CALCULO, II",
+        "profesor": "FRANCISCO FERNANDO NORE\u00d1A VILLARIAS",
+        "creditos": "9",
+        "horario": "08:30-10:00",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "RH209",
+        "campus": "RIO HONDO",
+        "inicio": "08:30",
+        "fin": "10:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-12101-CALCULO, II",
+        "profesor": "LEOBARDO FERNANDEZ ROMAN",
+        "creditos": "9",
+        "horario": "09:00-10:30",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "RHSA3",
+        "campus": "RIO HONDO",
+        "inicio": "09:00",
+        "fin": "10:30"
+      },
+      {
+        "grupo": "003",
+        "nombre": "MAT-12101-CALCULO, II",
+        "profesor": "SHARON MAGALI VALVERDE ESPARZA",
+        "creditos": "9",
+        "horario": "17:30-19:00",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "RH305",
+        "campus": "RIO HONDO",
+        "inicio": "17:30",
+        "fin": "19:00"
+      }
+    ]
+  },
   "MAT-12102": {
     "nombre": "MAT-12102-CALCULO, III",
     "clave": "MAT-12102",
@@ -19323,7 +19377,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-12515-SE\u00d1ALES Y SISTEMAS-LAB",
-        "profesor": "",
+        "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
         "creditos": "8",
         "horario": "07:00-09:00",
         "dias": [
@@ -19659,7 +19713,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-17506-SE\u00d1ALES Y SISTEMAS-LAB",
-        "profesor": "",
+        "profesor": "DIEGO ALEXIS MARTINEZ VELASCO",
         "creditos": "7",
         "horario": "07:00-08:00",
         "dias": [
@@ -19762,7 +19816,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-24810-SISTS.DE COMERCIO ELECTRONICO",
-        "profesor": "",
+        "profesor": "RAFAEL GREGORIO GAMBOA HIRALES",
         "creditos": "8",
         "horario": "12:00-14:00",
         "dias": [
@@ -20169,9 +20223,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20472,6 +20526,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Martha-Angelica-Galicia-Osorio_165772",
     "general": 9.0,
     "n": 1
+  },
+  "DENNIA ALINE TREJO PEREA": {
+    "link": "https://www.misprofesores.com/profesores/Dennya-Trejo-Perea_39074",
+    "general": 6.2857,
+    "n": 7
   },
   "IRVIN ARTURO CASTILLO CESAREO": {
     "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
@@ -20850,8 +20909,8 @@ let misProfesData={
   },
   "SILVANO ANTONIO ESPINDOLA PARRA": {
     "link": "https://www.misprofesores.com/profesores/Silvano-Antonio-Esp\u00edndola-Parra_20718",
-    "general": 9.382,
-    "n": 89
+    "general": 9.3889,
+    "n": 90
   },
   "ANA REGINA LUEVANO CAYON": {
     "link": "https://www.misprofesores.com/profesores/Ana-Regina-Luevano-Cayon_84418",
@@ -21068,6 +21127,11 @@ let misProfesData={
     "general": 8.0,
     "n": 5
   },
+  "ALEJANDRO TERAN SOMOHANO": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",
+    "general": 6.95,
+    "n": 40
+  },
   "SERGIO ROMERO HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Romero-Hern\u00e1ndez_10863",
     "general": 7.1364,
@@ -21079,11 +21143,6 @@ let misProfesData={
     "n": 7
   },
   "ALEJANDRO TERAN CASTELLANOS": {
-    "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",
-    "general": 6.95,
-    "n": 40
-  },
-  "ALEJANDRO TERAN SOMOHANO": {
     "link": "https://www.misprofesores.com/profesores/Alejandro-Ter\u00e1n-Castellanos_10862",
     "general": 6.95,
     "n": 40
@@ -21134,9 +21193,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -21238,6 +21297,16 @@ let misProfesData={
     "general": 7.5517,
     "n": 29
   },
+  "LEOBARDO FERNANDEZ ROMAN": {
+    "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
+    "general": 8.28,
+    "n": 75
+  },
+  "SHARON MAGALI VALVERDE ESPARZA": {
+    "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
+    "general": 8.4054,
+    "n": 37
+  },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
     "general": 6.69,
@@ -21273,11 +21342,6 @@ let misProfesData={
     "general": 8.375,
     "n": 80
   },
-  "LEOBARDO FERNANDEZ ROMAN": {
-    "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
-    "general": 8.28,
-    "n": 75
-  },
   "CARLOS RODOLFO BARRERA ANZALDO": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Rodolfo-Barrera-Anzaldo_195627",
     "general": 10.0,
@@ -21307,11 +21371,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
     "general": 6.1563,
     "n": 32
-  },
-  "SHARON MAGALI VALVERDE ESPARZA": {
-    "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.4,
-    "n": 35
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",
@@ -21402,5 +21461,10 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Rafael-Cisneros-Montoya_129147",
     "general": 7.0,
     "n": 2
+  },
+  "RAFAEL GREGORIO GAMBOA HIRALES": {
+    "link": "https://www.misprofesores.com/profesores/Rafael-Gregorio-Gamboa-Hirales_10855",
+    "general": 7.0333,
+    "n": 30
   }
 };
