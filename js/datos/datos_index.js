@@ -1,4 +1,4 @@
-let actualizado="1785685206853.0596";
+let actualizado="1785776422983.934";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19899,8 +19899,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.861,
-    "n": 295
+    "general": 4.8514,
+    "n": 296
   },
   "KRZYSZTOF ZAREMBA": {
     "link": "https://www.misprofesores.com/profesores/Krzystof-Zaremba_171808",
@@ -20118,9 +20118,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20899,8 +20899,8 @@ let misProfesData={
   },
   "CARLOS JEFFREY MCCADDEN MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Jeffrey-McCadden-Mart\u00ednez_10822",
-    "general": 5.5677,
-    "n": 192
+    "general": 5.5648,
+    "n": 193
   },
   "FRANCISCO ALEJANDRO GONZALEZ GOMEZ": {
     "link": "https://www.misprofesores.com/profesores/FRANCISCO-ALEJANDRO-GONZALEZ-GOMEZ_193286",
@@ -21038,9 +21038,9 @@ let misProfesData={
     "n": 27
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 8.0,
+    "n": 3
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
