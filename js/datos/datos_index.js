@@ -1,4 +1,4 @@
-let actualizado="1785776422983.934";
+let actualizado="1785861068198.5278";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -5061,7 +5061,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -5193,7 +5193,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -17670,6 +17670,22 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "12:30",
         "fin": "14:00"
+      },
+      {
+        "grupo": "009",
+        "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
+        "profesor": "",
+        "creditos": "9",
+        "horario": "10:00-11:30",
+        "dias": [
+          "LU",
+          "MI",
+          "VI"
+        ],
+        "salon": "RHB-5",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -21034,8 +21050,8 @@ let misProfesData={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.2593,
-    "n": 27
+    "general": 5.2857,
+    "n": 28
   },
   "MARTIN MAGRIS": {
     "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
@@ -21074,8 +21090,8 @@ let misProfesData={
   },
   "ERICK MIER MORENO": {
     "link": "https://www.misprofesores.com/profesores/ERICK-MIER-MORENO_40949",
-    "general": 7.9355,
-    "n": 31
+    "general": 7.8125,
+    "n": 32
   },
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",

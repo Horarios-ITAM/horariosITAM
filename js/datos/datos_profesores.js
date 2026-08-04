@@ -1,4 +1,4 @@
-let actualizado="1785776422998.4968";
+let actualizado="1785861068213.6343";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1997,6 +1997,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:30",
           "fin": "14:00"
+        },
+        {
+          "grupo": "009",
+          "nombre": "MAT-12220-CALCULO EN UNA VARIABLE",
+          "profesor": "",
+          "creditos": "9",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI",
+            "VI"
+          ],
+          "salon": "RHB-5",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ],
       "MAT-12310-ALGEBRA MATRICIAL": [
@@ -6499,7 +6515,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -6531,7 +6547,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -15020,8 +15036,8 @@ let profesores={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.2593,
-    "n": 27,
+    "general": 5.2857,
+    "n": 28,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -15437,8 +15453,8 @@ let profesores={
   },
   "ERICK MIER MORENO": {
     "link": "https://www.misprofesores.com/profesores/ERICK-MIER-MORENO_40949",
-    "general": 7.9355,
-    "n": 31,
+    "general": 7.8125,
+    "n": 32,
     "grupos": {
       "EST-14101-CALCULO DE PROBABILIDADES.,I": [
         {
@@ -21134,8 +21150,8 @@ let mejoresPorDepto={
     "MARTIN MAGRIS",
     "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
-    "ERICK MIER MORENO",
-    "JOSE EZEQUIEL SOTO SANCHEZ"
+    "JOSE EZEQUIEL SOTO SANCHEZ",
+    "ERICK MIER MORENO"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
