@@ -1,4 +1,4 @@
-let actualizado="1785861068213.6343";
+let actualizado="1785946699190.647";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1832,20 +1832,6 @@ let profesores={
       ],
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
-          "grupo": "003",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "13:00-14:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:00"
-        },
-        {
           "grupo": "004",
           "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
           "profesor": "",
@@ -1900,34 +1886,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
-        },
+        }
+      ],
+      "MAT-11101-MATEMATICAS, II": [
         {
-          "grupo": "018",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "grupo": "002",
+          "nombre": "MAT-11101-MATEMATICAS, II",
           "profesor": "",
-          "creditos": "2",
-          "horario": "08:00-09:00",
+          "creditos": "9",
+          "horario": "16:00-18:00",
           "dias": [
-            "JU"
+            "MA"
           ],
-          "salon": "RH206",
+          "salon": "PF105",
           "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "09:00"
-        },
-        {
-          "grupo": "020",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH206",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ],
       "MAT-11310-MATEMATICAS, III": [
@@ -2195,22 +2169,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:30"
-        }
-      ],
-      "SDI-13760-REDES DE COMPUTADORAS-LAB": [
-        {
-          "grupo": "002L",
-          "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
-          "profesor": "",
-          "creditos": "10",
-          "horario": "10:00-12:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLREDE",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
         }
       ]
     }
@@ -4684,9 +4642,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -8759,6 +8717,47 @@ let profesores={
       ]
     }
   },
+  "ALFONSO PASAPERA MORA": {
+    "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
+    "general": 7.6761,
+    "n": 71,
+    "grupos": {
+      "DER-10026-DERECHO CORPORATIVO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10026-DERECHO CORPORATIVO",
+          "profesor": "ALFONSO PASAPERA MORA",
+          "creditos": "8",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ],
+      "DER-13504-CONTRATOS": [
+        {
+          "grupo": "001",
+          "nombre": "DER-13504-CONTRATOS",
+          "profesor": "ALFONSO PASAPERA MORA",
+          "creditos": "8",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ]
+    }
+  },
   "JOSE LUIS HERNANDEZ SANCHEZ": {
     "grupos": {
       "DER-10114-SEM LEG Y ETICA EN CIENC DATOS": [
@@ -9981,6 +9980,23 @@ let profesores={
           "inicio": "16:00",
           "fin": "17:30"
         }
+      ],
+      "DER-13203-NEGOCIO JURIDICO Y PERSONAS": [
+        {
+          "grupo": "001",
+          "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
+          "profesor": "SOFIA DEL CARMEN TREVI\u00d1O FERNANDEZ",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
       ]
     }
   },
@@ -10049,30 +10065,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
-        }
-      ]
-    }
-  },
-  "ALFONSO PASAPERA MORA": {
-    "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
-    "general": 7.6761,
-    "n": 71,
-    "grupos": {
-      "DER-13504-CONTRATOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-13504-CONTRATOS",
-          "profesor": "ALFONSO PASAPERA MORA",
-          "creditos": "8",
-          "horario": "19:00-21:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
         }
       ]
     }
@@ -14246,8 +14238,8 @@ let profesores={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7755,
-    "n": 49,
+    "general": 7.78,
+    "n": 50,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14652,8 +14644,8 @@ let profesores={
   },
   "ATHANASIOS  HRISTOULAS": {
     "link": "https://www.misprofesores.com/profesores/Athanasios-Hristoulas_10839",
-    "general": 5.4483,
-    "n": 58,
+    "general": 5.3898,
+    "n": 59,
     "grupos": {
       "EIN-13202-HISTORIA DE LAS R.I. II": [
         {
@@ -16940,9 +16932,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17473,21 +17465,6 @@ let profesores={
           "fin": "13:00"
         },
         {
-          "grupo": "032",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF101",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        },
-        {
           "grupo": "033",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
           "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
@@ -17538,6 +17515,21 @@ let profesores={
   "REBECCA SOTO BUSTAMANTE": {
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "032",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "REBECCA SOTO BUSTAMANTE",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF101",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        },
         {
           "grupo": "035",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
@@ -17616,6 +17608,26 @@ let profesores={
             "MI"
           ],
           "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "NANCY FABIOLA MENDEZ LOPEZ": {
+    "grupos": {
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "003",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "NANCY FABIOLA MENDEZ LOPEZ",
+          "creditos": "2",
+          "horario": "13:00-14:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "PF107",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:00"
@@ -17732,6 +17744,46 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "12:00"
+        }
+      ]
+    }
+  },
+  "AMERICO DEL RIO ORTEGA": {
+    "grupos": {
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "018",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "AMERICO DEL RIO ORTEGA",
+          "creditos": "2",
+          "horario": "08:00-09:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "CHRISTIAN MENDOZA ARANGO": {
+    "grupos": {
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "020",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "CHRISTIAN MENDOZA ARANGO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -18463,6 +18515,23 @@ let profesores={
     "general": 7.5517,
     "n": 29,
     "grupos": {
+      "MAT-11101-MATEMATICAS, II": [
+        {
+          "grupo": "001",
+          "nombre": "MAT-11101-MATEMATICAS, II",
+          "profesor": "HERICA SANCHEZ LARIOS",
+          "creditos": "9",
+          "horario": "16:00-18:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH107",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ],
       "MAT-11310-MATEMATICAS, III": [
         {
           "grupo": "001",
@@ -19951,8 +20020,8 @@ let profesores={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.5581,
-    "n": 43,
+    "general": 7.5,
+    "n": 44,
     "grupos": {
       "MAT-14201-ALGEB. LINEAL, I (GEO ANA. II)": [
         {
@@ -20775,16 +20844,13 @@ let profesores={
       ]
     }
   },
-  "FRANCISCO JAVIER DEL OLMO HERNANDEZ": {
-    "link": "https://www.misprofesores.com/profesores/Francisco-Del-Olmo-Hern\u00e1ndez_172160",
-    "general": 8.0,
-    "n": 1,
+  "ALEJANDRO EDGAR ZACATENCO SANTOS": {
     "grupos": {
       "SDI-13760-REDES DE COMPUTADORAS-LAB": [
         {
           "grupo": "001L",
           "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
-          "profesor": "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
+          "profesor": "ALEJANDRO EDGAR ZACATENCO SANTOS",
           "creditos": "10",
           "horario": "07:00-09:00",
           "dias": [
@@ -20794,8 +20860,29 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
+        },
+        {
+          "grupo": "002L",
+          "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
+          "profesor": "ALEJANDRO EDGAR ZACATENCO SANTOS",
+          "creditos": "10",
+          "horario": "10:00-12:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLREDE",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
         }
-      ],
+      ]
+    }
+  },
+  "FRANCISCO JAVIER DEL OLMO HERNANDEZ": {
+    "link": "https://www.misprofesores.com/profesores/Francisco-Del-Olmo-Hern\u00e1ndez_172160",
+    "general": 8.0,
+    "n": 1,
+    "grupos": {
       "SDI-13760-REDES DE COMPUTADORAS": [
         {
           "grupo": "001",

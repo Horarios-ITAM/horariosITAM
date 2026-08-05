@@ -1,4 +1,4 @@
-let actualizado="1785861068198.5278";
+let actualizado="1785946699175.4546";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -7150,6 +7150,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-10026-DERECHO CORPORATIVO",
+        "profesor": "ALFONSO PASAPERA MORA",
+        "creditos": "8",
+        "horario": "19:00-21:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH102",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -8306,6 +8321,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
+      }
+    ]
+  },
+  "DER-13203": {
+    "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
+    "clave": "DER-13203",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-13203-NEGOCIO JURIDICO Y PERSONAS",
+        "profesor": "SOFIA DEL CARMEN TREVI\u00d1O FERNANDEZ",
+        "creditos": "6",
+        "horario": "16:00-17:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHB-3",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -15762,7 +15798,7 @@ let clases={
       {
         "grupo": "032",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
+        "profesor": "REBECCA SOTO BUSTAMANTE",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -15856,7 +15892,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "",
+        "profesor": "NANCY FABIOLA MENDEZ LOPEZ",
         "creditos": "2",
         "horario": "13:00-14:00",
         "dias": [
@@ -16052,7 +16088,7 @@ let clases={
       {
         "grupo": "018",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "",
+        "profesor": "AMERICO DEL RIO ORTEGA",
         "creditos": "2",
         "horario": "08:00-09:00",
         "dias": [
@@ -16080,7 +16116,7 @@ let clases={
       {
         "grupo": "020",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "",
+        "profesor": "CHRISTIAN MENDOZA ARANGO",
         "creditos": "2",
         "horario": "10:00-11:00",
         "dias": [
@@ -17069,6 +17105,41 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
+      }
+    ]
+  },
+  "MAT-11101": {
+    "nombre": "MAT-11101-MATEMATICAS, II",
+    "clave": "MAT-11101",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "MAT-11101-MATEMATICAS, II",
+        "profesor": "HERICA SANCHEZ LARIOS",
+        "creditos": "9",
+        "horario": "16:00-18:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH107",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "18:00"
+      },
+      {
+        "grupo": "002",
+        "nombre": "MAT-11101-MATEMATICAS, II",
+        "profesor": "",
+        "creditos": "9",
+        "horario": "16:00-18:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "PF105",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "18:00"
       }
     ]
   },
@@ -19434,7 +19505,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
-        "profesor": "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
+        "profesor": "ALEJANDRO EDGAR ZACATENCO SANTOS",
         "creditos": "10",
         "horario": "07:00-09:00",
         "dias": [
@@ -19448,7 +19519,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "SDI-13760-REDES DE COMPUTADORAS-LAB",
-        "profesor": "",
+        "profesor": "ALEJANDRO EDGAR ZACATENCO SANTOS",
         "creditos": "10",
         "horario": "10:00-12:00",
         "dias": [
@@ -20134,9 +20205,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20473,6 +20544,11 @@ let misProfesData={
     "general": 10.0,
     "n": 1
   },
+  "ALFONSO PASAPERA MORA": {
+    "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
+    "general": 7.6761,
+    "n": 71
+  },
   "ALBERTO PUPPO": {
     "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
     "general": 8.2564,
@@ -20562,11 +20638,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
     "general": 8.3333,
     "n": 3
-  },
-  "ALFONSO PASAPERA MORA": {
-    "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
-    "general": 7.6761,
-    "n": 71
   },
   "LUIS ASALI HARFUCH": {
     "link": "https://www.misprofesores.com/profesores/Asali-Harfuch-Luis_15035",
@@ -20960,8 +21031,8 @@ let misProfesData={
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
-    "general": 7.7755,
-    "n": 49
+    "general": 7.78,
+    "n": 50
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
@@ -21005,8 +21076,8 @@ let misProfesData={
   },
   "ATHANASIOS  HRISTOULAS": {
     "link": "https://www.misprofesores.com/profesores/Athanasios-Hristoulas_10839",
-    "general": 5.4483,
-    "n": 58
+    "general": 5.3898,
+    "n": 59
   },
   "RODRIGO CHACON AGUIRRE": {
     "link": "https://www.misprofesores.com/profesores/Rodrigo-Chac\u00f3n-Aguirre_78222",
@@ -21209,9 +21280,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -21410,8 +21481,8 @@ let misProfesData={
   },
   "JORGE MONROY JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Monroy-Jimenez_77450",
-    "general": 7.5581,
-    "n": 43
+    "general": 7.5,
+    "n": 44
   },
   "ANGEL PEREZ JUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Angel-Perez-Juarez_18387",
