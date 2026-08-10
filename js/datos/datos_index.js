@@ -1,4 +1,4 @@
-let actualizado="1786287878313.3591";
+let actualizado="1786376116510.6863";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19656,9 +19656,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20711,9 +20711,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -20832,8 +20832,8 @@ let misProfesData={
   },
   "SHARON MAGALI VALVERDE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
-    "general": 8.4054,
-    "n": 37
+    "general": 8.4211,
+    "n": 38
   },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
