@@ -1,4 +1,4 @@
-let actualizado="1786376116510.6863";
+let actualizado="1786462318180.395";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -2760,7 +2760,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
-        "profesor": "REBECCA SOTO BUSTAMANTE",
+        "profesor": "NORMA ARACELY AVILA MIRANDA",
         "creditos": "7",
         "horario": "15:30-16:00",
         "dias": [
@@ -2769,6 +2769,21 @@ let clases={
         ],
         "salon": "RH205",
         "campus": "RIO HONDO",
+        "inicio": "15:30",
+        "fin": "16:00"
+      },
+      {
+        "grupo": "002L",
+        "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
+        "profesor": "REBECCA SOTO BUSTAMANTE",
+        "creditos": "7",
+        "horario": "15:30-16:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
         "inicio": "15:30",
         "fin": "16:00"
       }
@@ -2781,7 +2796,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
-        "profesor": "REBECCA SOTO BUSTAMANTE",
+        "profesor": "NORMA ARACELY AVILA MIRANDA",
         "creditos": "7",
         "horario": "14:00-15:30",
         "dias": [
@@ -2790,6 +2805,21 @@ let clases={
         ],
         "salon": "RH205",
         "campus": "RIO HONDO",
+        "inicio": "14:00",
+        "fin": "15:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
+        "profesor": "REBECCA SOTO BUSTAMANTE",
+        "creditos": "7",
+        "horario": "14:00-15:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
         "inicio": "14:00",
         "fin": "15:30"
       }
@@ -3989,7 +4019,7 @@ let clases={
       {
         "grupo": "013",
         "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "ALBERTO ISAAC RAMIREZ PEREZ",
+        "profesor": "JOSE OCTAVIO GUTIERREZ GARCIA",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -4064,7 +4094,7 @@ let clases={
       {
         "grupo": "018",
         "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "",
+        "profesor": "DAVID HUMBERTO JIMENEZ SANCHEZ",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -4075,6 +4105,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
+      },
+      {
+        "grupo": "019",
+        "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+        "profesor": "",
+        "creditos": "6",
+        "horario": "13:00-14:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHCC201",
+        "campus": "RIO HONDO",
+        "inicio": "13:00",
+        "fin": "14:30"
       }
     ]
   },
@@ -6220,17 +6265,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CSO-15041-ECONOMIA POLITICA, I",
-        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "profesor": "",
         "creditos": "6",
-        "horario": "10:00-11:30",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
         "salon": "RHSA4",
         "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "11:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -7016,17 +7060,17 @@ let clases={
       {
         "grupo": "004",
         "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "ALBERTO PUPPO",
+        "profesor": "PABLO ARIEL RAPETTI",
         "creditos": "10",
-        "horario": "12:30-14:00",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "MA",
+          "JU"
         ],
-        "salon": "RH309",
+        "salon": "RHB-3",
         "campus": "RIO HONDO",
-        "inicio": "12:30",
-        "fin": "14:00"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -8053,17 +8097,16 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-        "profesor": "CESAR CLAUDIO URRUTIA ROMERO",
+        "profesor": "RAYMUNDO GAMA LEYVA",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RH102",
+        "salon": "RH309",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       }
     ]
   },
@@ -11134,7 +11177,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
-        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+        "profesor": "ALAIN IZE LAMACHE",
         "creditos": "6",
         "horario": "08:00-11:00",
         "dias": [
@@ -12652,21 +12695,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
-      },
-      {
-        "grupo": "006",
-        "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-        "profesor": "ARTURO PELAEZ GALVEZ",
-        "creditos": "6",
-        "horario": "11:30-13:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH203",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
       }
     ]
   },
@@ -13555,7 +13583,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH301",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -13966,7 +13994,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH301",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -14468,16 +14496,17 @@ let clases={
       {
         "grupo": "002",
         "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA",
-        "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+        "profesor": "JOSE MANUEL HERNANDEZ SOTO",
         "creditos": "11",
-        "horario": "16:00-19:00",
+        "horario": "16:00-18:00",
         "dias": [
-          "VI"
+          "MA",
+          "JU"
         ],
-        "salon": "RHLQUIM",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "19:00"
+        "fin": "18:00"
       }
     ]
   },
@@ -18857,6 +18886,41 @@ let clases={
       }
     ]
   },
+  "SDI-11221": {
+    "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+    "clave": "SDI-11221",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+        "profesor": "RAFAEL CISNEROS MONTOYA",
+        "creditos": "10",
+        "horario": "17:30-19:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH205",
+        "campus": "RIO HONDO",
+        "inicio": "17:30",
+        "fin": "19:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+        "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
+        "creditos": "10",
+        "horario": "10:00-12:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHLFIEL",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "12:00"
+      }
+    ]
+  },
   "SDI-11322-LAB": {
     "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
     "clave": "SDI-11322",
@@ -19026,6 +19090,27 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
+      }
+    ]
+  },
+  "SDI-14105": {
+    "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
+    "clave": "SDI-14105",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
+        "profesor": "JOSE GUADALUPE ROMERO VELAZQUEZ",
+        "creditos": "6",
+        "horario": "12:30-14:00",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH316",
+        "campus": "RIO HONDO",
+        "inicio": "12:30",
+        "fin": "14:00"
       }
     ]
   },
@@ -19567,8 +19652,8 @@ let misProfesData={
   },
   "FRANCO ZECCHETTO TOLEDO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
-    "general": 7.8333,
-    "n": 18
+    "general": 7.7895,
+    "n": 19
   },
   "MATHIAS JOSEF SCHNEIDER": {
     "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
@@ -19967,8 +20052,8 @@ let misProfesData={
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.5833,
-    "n": 12
+    "general": 9.6154,
+    "n": 13
   },
   "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
@@ -20084,11 +20169,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
     "general": 8.3333,
     "n": 3
-  },
-  "CESAR CLAUDIO URRUTIA ROMERO": {
-    "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
-    "general": 6.6667,
-    "n": 6
   },
   "LUIS ASALI HARFUCH": {
     "link": "https://www.misprofesores.com/profesores/Asali-Harfuch-Luis_15035",
@@ -20955,6 +21035,11 @@ let misProfesData={
     "general": 6.8621,
     "n": 29
   },
+  "RAFAEL CISNEROS MONTOYA": {
+    "link": "https://www.misprofesores.com/profesores/Rafael-Cisneros-Montoya_129147",
+    "general": 7.0,
+    "n": 2
+  },
   "JOSE GUADALUPE ROMERO VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Guadalupe-Romero-Velasquez_81677",
     "general": 7.0,
@@ -20979,11 +21064,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/MARIA-OFELIA-RODRIGUEZ-DURAN_159927",
     "general": 6.0,
     "n": 1
-  },
-  "RAFAEL CISNEROS MONTOYA": {
-    "link": "https://www.misprofesores.com/profesores/Rafael-Cisneros-Montoya_129147",
-    "general": 7.0,
-    "n": 2
   },
   "RAFAEL GREGORIO GAMBOA HIRALES": {
     "link": "https://www.misprofesores.com/profesores/Rafael-Gregorio-Gamboa-Hirales_10855",

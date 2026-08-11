@@ -1,4 +1,4 @@
-let actualizado="1786376116525.4";
+let actualizado="1786462318196.2026";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -2308,8 +2308,8 @@ let profesores={
   },
   "FRANCO ZECCHETTO TOLEDO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
-    "general": 7.8333,
-    "n": 18,
+    "general": 7.7895,
+    "n": 19,
     "grupos": {
       "ADM-15532-FINANZAS CORPORATIVAS": [
         {
@@ -2970,13 +2970,13 @@ let profesores={
       ]
     }
   },
-  "REBECCA SOTO BUSTAMANTE": {
+  "NORMA ARACELY AVILA MIRANDA": {
     "grupos": {
       "CLE-10517-COMMUNICATION IN SPANISH II-LAB": [
         {
           "grupo": "001L",
           "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
-          "profesor": "REBECCA SOTO BUSTAMANTE",
+          "profesor": "NORMA ARACELY AVILA MIRANDA",
           "creditos": "7",
           "horario": "15:30-16:00",
           "dias": [
@@ -2993,7 +2993,7 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
-          "profesor": "REBECCA SOTO BUSTAMANTE",
+          "profesor": "NORMA ARACELY AVILA MIRANDA",
           "creditos": "7",
           "horario": "14:00-15:30",
           "dias": [
@@ -3002,6 +3002,61 @@ let profesores={
           ],
           "salon": "RH205",
           "campus": "RIO HONDO",
+          "inicio": "14:00",
+          "fin": "15:30"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "029",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "NORMA ARACELY AVILA MIRANDA",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF108",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "REBECCA SOTO BUSTAMANTE": {
+    "grupos": {
+      "CLE-10517-COMMUNICATION IN SPANISH II-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "CLE-10517-COMMUNICATION IN SPANISH II-LAB",
+          "profesor": "REBECCA SOTO BUSTAMANTE",
+          "creditos": "7",
+          "horario": "15:30-16:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "15:30",
+          "fin": "16:00"
+        }
+      ],
+      "CLE-10517-COMMUNICATION IN SPANISH II": [
+        {
+          "grupo": "002",
+          "nombre": "CLE-10517-COMMUNICATION IN SPANISH II",
+          "profesor": "REBECCA SOTO BUSTAMANTE",
+          "creditos": "7",
+          "horario": "14:00-15:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
           "inicio": "14:00",
           "fin": "15:30"
         }
@@ -4212,21 +4267,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
-        },
-        {
-          "grupo": "013",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "ALBERTO ISAAC RAMIREZ PEREZ",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC101",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -4251,6 +4291,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "19:30"
+        }
+      ],
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "013",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "JOSE OCTAVIO GUTIERREZ GARCIA",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC101",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -4713,19 +4770,35 @@ let profesores={
           "fin": "17:30"
         },
         {
-          "grupo": "018",
+          "grupo": "019",
           "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
           "profesor": "",
           "creditos": "6",
-          "horario": "16:00-17:30",
+          "horario": "13:00-14:30",
           "dias": [
             "MA",
             "JU"
           ],
-          "salon": "RHCC102",
+          "salon": "RHCC201",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ],
+      "CSO-15041-ECONOMIA POLITICA, I": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-15041-ECONOMIA POLITICA, I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHSA4",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ],
       "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB": [
@@ -4825,6 +4898,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "DAVID HUMBERTO JIMENEZ SANCHEZ": {
+    "grupos": {
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "018",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "DAVID HUMBERTO JIMENEZ SANCHEZ",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC102",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -6900,23 +6994,6 @@ let profesores={
   },
   "HORACIO ALEJANDRO LARREGUY ARBESU": {
     "grupos": {
-      "CSO-15041-ECONOMIA POLITICA, I": [
-        {
-          "grupo": "001",
-          "nombre": "CSO-15041-ECONOMIA POLITICA, I",
-          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHSA4",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
-        }
-      ],
       "CSO-15043-ECONOMIA POLITICA II": [
         {
           "grupo": "002",
@@ -7603,8 +7680,8 @@ let profesores={
   },
   "FRANCO ALBERTO DEL VALLE PRADO": {
     "link": "https://www.misprofesores.com/profesores/Franco-Alberto-Del-Valle-Prado_129325",
-    "general": 9.5833,
-    "n": 12,
+    "general": 9.6154,
+    "n": 13,
     "grupos": {
       "DER-10015-DERECHO EMPRESARIAL": [
         {
@@ -7940,21 +8017,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "20:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-          "profesor": "ALBERTO PUPPO",
-          "creditos": "10",
-          "horario": "12:30-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
         }
       ],
       "DER-11122-TEOR\u00cdA DEL DERECHO I": [
@@ -8010,6 +8072,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:30",
           "fin": "20:00"
+        },
+        {
+          "grupo": "004",
+          "nombre": "DER-11101-TEORIA DEL DERECHO, I",
+          "profesor": "PABLO ARIEL RAPETTI",
+          "creditos": "10",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ],
       "DER-11122-TEOR\u00cdA DEL DERECHO I": [
@@ -8771,6 +8848,22 @@ let profesores={
           "inicio": "10:00",
           "fin": "11:30"
         }
+      ],
+      "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA": [
+        {
+          "grupo": "001",
+          "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
+          "profesor": "RAYMUNDO GAMA LEYVA",
+          "creditos": "9",
+          "horario": "08:30-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
       ]
     }
   },
@@ -9077,30 +9170,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
-        }
-      ]
-    }
-  },
-  "CESAR CLAUDIO URRUTIA ROMERO": {
-    "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
-    "general": 6.6667,
-    "n": 6,
-    "grupos": {
-      "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA": [
-        {
-          "grupo": "001",
-          "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-          "profesor": "CESAR CLAUDIO URRUTIA ROMERO",
-          "creditos": "9",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
         }
       ]
     }
@@ -11187,22 +11256,6 @@ let profesores={
           "fin": "13:00"
         }
       ],
-      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
-          "creditos": "6",
-          "horario": "08:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
-        }
-      ],
       "ECO-21103-ECONOMIA III": [
         {
           "grupo": "002",
@@ -12162,6 +12215,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "14:30"
+        }
+      ]
+    }
+  },
+  "ALAIN IZE LAMACHE": {
+    "grupos": {
+      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+          "profesor": "ALAIN IZE LAMACHE",
+          "creditos": "6",
+          "horario": "08:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH213",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -13640,21 +13713,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        },
-        {
-          "grupo": "006",
-          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-          "profesor": "ARTURO PELAEZ GALVEZ",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH203",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
         }
       ]
     }
@@ -14850,7 +14908,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH301",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -14918,7 +14976,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH301",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -15609,61 +15667,25 @@ let profesores={
       ]
     }
   },
-  "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO": {
-    "link": "https://www.misprofesores.com/profesores/Graciela-Guadalupe-D\u00edaz-Argomedo_50992",
-    "general": 10.0,
-    "n": 1,
+  "JOSE MANUEL HERNANDEZ SOTO": {
     "grupos": {
       "IIO-15130-FUNDAMENTOS DE QUIMICA": [
         {
           "grupo": "002",
           "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA",
-          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+          "profesor": "JOSE MANUEL HERNANDEZ SOTO",
           "creditos": "11",
-          "horario": "16:00-19:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLQUIM",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "19:00"
-        }
-      ],
-      "IIO-15132-FISICOQUIMICA-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "IIO-15132-FISICOQUIMICA-LAB",
-          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
-          "creditos": "8",
-          "horario": "11:30-13:30",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLQUIM",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:30"
-        },
-        {
-          "grupo": "002L",
-          "nombre": "IIO-15132-FISICOQUIMICA-LAB",
-          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
-          "creditos": "8",
           "horario": "16:00-18:00",
           "dias": [
-            "VI"
+            "MA",
+            "JU"
           ],
-          "salon": "RHLQUIM",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
         }
-      ]
-    }
-  },
-  "JOSE MANUEL HERNANDEZ SOTO": {
-    "grupos": {
+      ],
       "IIO-15132-FISICOQUIMICA": [
         {
           "grupo": "001",
@@ -15694,6 +15716,43 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO": {
+    "link": "https://www.misprofesores.com/profesores/Graciela-Guadalupe-D\u00edaz-Argomedo_50992",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "IIO-15132-FISICOQUIMICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "IIO-15132-FISICOQUIMICA-LAB",
+          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+          "creditos": "8",
+          "horario": "11:30-13:30",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLQUIM",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:30"
+        },
+        {
+          "grupo": "002L",
+          "nombre": "IIO-15132-FISICOQUIMICA-LAB",
+          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLQUIM",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ]
     }
@@ -16577,27 +16636,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "NORMA ARACELY AVILA MIRANDA": {
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "029",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "NORMA ARACELY AVILA MIRANDA",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF108",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -20273,8 +20311,97 @@ let profesores={
       ]
     }
   },
+  "RAFAEL CISNEROS MONTOYA": {
+    "link": "https://www.misprofesores.com/profesores/Rafael-Cisneros-Montoya_129147",
+    "general": 7.0,
+    "n": 2,
+    "grupos": {
+      "SDI-11221-ELEMENTOS DE ELECTRONICA": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+          "profesor": "RAFAEL CISNEROS MONTOYA",
+          "creditos": "10",
+          "horario": "17:30-19:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:30"
+        }
+      ],
+      "SDI-17401-ELECTRONICA DIGITAL": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-17401-ELECTRONICA DIGITAL",
+          "profesor": "RAFAEL CISNEROS MONTOYA",
+          "creditos": "7",
+          "horario": "12:00-13:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "SDI-17401-ELECTRONICA DIGITAL",
+          "profesor": "RAFAEL CISNEROS MONTOYA",
+          "creditos": "7",
+          "horario": "12:00-13:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH305",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:30"
+        }
+      ],
+      "SDI-17510-ELECTRONICA ANALOGICA": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-17510-ELECTRONICA ANALOGICA",
+          "profesor": "RAFAEL CISNEROS MONTOYA",
+          "creditos": "7",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH205",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
+      ]
+    }
+  },
   "MARIO ANDRES AGUILAR ORDU\u00d1A": {
     "grupos": {
+      "SDI-11221-ELEMENTOS DE ELECTRONICA": [
+        {
+          "grupo": "002",
+          "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
+          "creditos": "10",
+          "horario": "10:00-12:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLFIEL",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
+        }
+      ],
       "SDI-11322-CIRCUITOS LOGICOS-LAB": [
         {
           "grupo": "001L",
@@ -20345,6 +20472,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
+        }
+      ],
+      "SDI-14105-INTRODUCCION A LA INGENIERIA": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-14105-INTRODUCCION A LA INGENIERIA",
+          "profesor": "JOSE GUADALUPE ROMERO VELAZQUEZ",
+          "creditos": "6",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH316",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
         }
       ],
       "SDI-17112-INTRODUCCION A LA INGENIERIA": [
@@ -20591,62 +20735,6 @@ let profesores={
       ]
     }
   },
-  "RAFAEL CISNEROS MONTOYA": {
-    "link": "https://www.misprofesores.com/profesores/Rafael-Cisneros-Montoya_129147",
-    "general": 7.0,
-    "n": 2,
-    "grupos": {
-      "SDI-17401-ELECTRONICA DIGITAL": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-17401-ELECTRONICA DIGITAL",
-          "profesor": "RAFAEL CISNEROS MONTOYA",
-          "creditos": "7",
-          "horario": "12:00-13:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:30"
-        },
-        {
-          "grupo": "002",
-          "nombre": "SDI-17401-ELECTRONICA DIGITAL",
-          "profesor": "RAFAEL CISNEROS MONTOYA",
-          "creditos": "7",
-          "horario": "12:00-13:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH305",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:30"
-        }
-      ],
-      "SDI-17510-ELECTRONICA ANALOGICA": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-17510-ELECTRONICA ANALOGICA",
-          "profesor": "RAFAEL CISNEROS MONTOYA",
-          "creditos": "7",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH205",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ]
-    }
-  },
   "RAFAEL GREGORIO GAMBOA HIRALES": {
     "link": "https://www.misprofesores.com/profesores/Rafael-Gregorio-Gamboa-Hirales_10855",
     "general": 7.0333,
@@ -20703,6 +20791,7 @@ let mejoresPorDepto={
   "LENGUAS (CLE)": [
     "MARCELA RABADAN GALLARDO",
     "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+    "NORMA ARACELY AVILA MIRANDA",
     "REBECCA SOTO BUSTAMANTE",
     "ERIKA DEYANIRA BELTRAN TRENADO"
   ],
@@ -20841,8 +20930,8 @@ let mejoresPorDepto={
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER DEL OLMO HERNANDEZ",
     "RAFAEL GREGORIO GAMBOA HIRALES",
-    "JOSE GUADALUPE ROMERO VELAZQUEZ",
     "RAFAEL CISNEROS MONTOYA",
+    "JOSE GUADALUPE ROMERO VELAZQUEZ",
     "ANTE SALCEDO GONZALEZ",
     "FEDERICO JOSE KUHLMANN RODRIGUEZ",
     "MARIA OFELIA RODRIGUEZ DURAN",
