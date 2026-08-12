@@ -1,4 +1,4 @@
-let actualizado="1786462318196.2026";
+let actualizado="1786548752507.629";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1527,7 +1527,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "RHB-3",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -3038,8 +3038,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH202",
+          "campus": "RIO HONDO",
           "inicio": "15:30",
           "fin": "16:00"
         }
@@ -3055,8 +3055,8 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RH202",
+          "campus": "RIO HONDO",
           "inicio": "14:00",
           "fin": "15:30"
         }
@@ -3842,9 +3842,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4817,73 +4817,6 @@ let profesores={
           "fin": "09:00"
         }
       ],
-      "DER-13403-OBLIGACIONES": [
-        {
-          "grupo": "002",
-          "nombre": "DER-13403-OBLIGACIONES",
-          "profesor": "",
-          "creditos": "8",
-          "horario": "19:00-21:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "21:00"
-        }
-      ],
-      "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHCUBIC",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "DER-19602-DERECHO LABORAL II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-19602-DERECHO LABORAL II",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH311",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ],
-      "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.": [
-        {
-          "grupo": "005",
-          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH206",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
           "grupo": "008",
@@ -5672,8 +5605,8 @@ let profesores={
   },
   "MIRIAM PATRICIA HERNANDEZ GUERRERO": {
     "link": "https://www.misprofesores.com/profesores/Miriam-Patricia-Hernandez-Guerrero_195167",
-    "general": 2.5,
-    "n": 2,
+    "general": 2.3333,
+    "n": 3,
     "grupos": {
       "CON-10100-CONTABILIDAD, I": [
         {
@@ -8499,6 +8432,22 @@ let profesores={
           "fin": "14:00"
         }
       ],
+      "DER-11123-CONCURSOS INTERNAC. (CLINICA)-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)-LAB",
+          "profesor": "HANNAH BIRKENKOTTER",
+          "creditos": "2",
+          "horario": "12:00-14:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RH313",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:00"
+        }
+      ],
       "DER-11124-CONCURSOS INTERNACIONALES II": [
         {
           "grupo": "001",
@@ -9150,6 +9099,27 @@ let profesores={
       ]
     }
   },
+  "ELIAS GALLARDO PALMA": {
+    "grupos": {
+      "DER-13403-OBLIGACIONES": [
+        {
+          "grupo": "002",
+          "nombre": "DER-13403-OBLIGACIONES",
+          "profesor": "ELIAS GALLARDO PALMA",
+          "creditos": "8",
+          "horario": "19:00-21:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "21:00"
+        }
+      ]
+    }
+  },
   "GUSTAVO CARDENAS SORIANO": {
     "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
     "general": 8.3333,
@@ -9787,6 +9757,26 @@ let profesores={
       ]
     }
   },
+  "VALENTINA MONTOYA ROBLEDO": {
+    "grupos": {
+      "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB",
+          "profesor": "VALENTINA MONTOYA ROBLEDO",
+          "creditos": "2",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ]
+    }
+  },
   "FRANCO LAMMOGLIA ORDIALES": {
     "link": "https://www.misprofesores.com/profesores/Franco-Lammoglia_104538",
     "general": 5.25,
@@ -9970,6 +9960,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
+        }
+      ]
+    }
+  },
+  "SALVADOR FERNANDO MARTINEZ GUTIERREZ": {
+    "grupos": {
+      "DER-19602-DERECHO LABORAL II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-19602-DERECHO LABORAL II",
+          "profesor": "SALVADOR FERNANDO MARTINEZ GUTIERREZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH311",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -13713,6 +13724,21 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
+        },
+        {
+          "grupo": "005",
+          "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
+          "profesor": "ARTURO PELAEZ GALVEZ",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH206",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -14124,8 +14150,8 @@ let profesores={
   },
   "ANA LAURA GONZALEZ ENRIQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Laura-Gonzalez-Enriquez_159822",
-    "general": 10.0,
-    "n": 1,
+    "general": 6.0,
+    "n": 2,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -14942,7 +14968,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH311",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -14959,7 +14985,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH311",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -16039,9 +16065,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18297,6 +18323,9 @@ let profesores={
     }
   },
   "ALEJANDRO RIOS HERREJON": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-R\u00edos-Herrej\u00f3n_196263",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "MAT-11310-MATEMATICAS, III": [
         {
@@ -20311,6 +20340,91 @@ let profesores={
       ]
     }
   },
+  "MARIO ANDRES AGUILAR ORDU\u00d1A": {
+    "grupos": {
+      "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
+          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
+          "creditos": "10",
+          "horario": "10:00-12:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLFIEL",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
+        }
+      ],
+      "SDI-11221-ELEMENTOS DE ELECTRONICA": [
+        {
+          "grupo": "002",
+          "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
+          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
+          "creditos": "10",
+          "horario": "10:00-12:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLFIEL",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "12:00"
+        }
+      ],
+      "SDI-11322-CIRCUITOS LOGICOS-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
+          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
+          "creditos": "10",
+          "horario": "12:00-14:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLFIEL",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "14:00"
+        }
+      ],
+      "SDI-11322-CIRCUITOS LOGICOS": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-11322-CIRCUITOS LOGICOS",
+          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
+          "creditos": "10",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHLI2",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ],
+      "SDI-17510-ELECTRONICA ANALOGICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "SDI-17510-ELECTRONICA ANALOGICA-LAB",
+          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
+          "creditos": "7",
+          "horario": "10:00-11:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLFIEL",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "RAFAEL CISNEROS MONTOYA": {
     "link": "https://www.misprofesores.com/profesores/Rafael-Cisneros-Montoya_129147",
     "general": 7.0,
@@ -20380,75 +20494,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "MARIO ANDRES AGUILAR ORDU\u00d1A": {
-    "grupos": {
-      "SDI-11221-ELEMENTOS DE ELECTRONICA": [
-        {
-          "grupo": "002",
-          "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
-          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
-          "creditos": "10",
-          "horario": "10:00-12:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLFIEL",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
-        }
-      ],
-      "SDI-11322-CIRCUITOS LOGICOS-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "SDI-11322-CIRCUITOS LOGICOS-LAB",
-          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
-          "creditos": "10",
-          "horario": "12:00-14:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLFIEL",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
-      ],
-      "SDI-11322-CIRCUITOS LOGICOS": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-11322-CIRCUITOS LOGICOS",
-          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
-          "creditos": "10",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHLI2",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
-      "SDI-17510-ELECTRONICA ANALOGICA-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "SDI-17510-ELECTRONICA ANALOGICA-LAB",
-          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
-          "creditos": "7",
-          "horario": "10:00-11:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLFIEL",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -20880,7 +20925,6 @@ let mejoresPorDepto={
     "ANGEL/RABIH RAYES EL-KANTAR"
   ],
   "ESTADISTICA": [
-    "ANA LAURA GONZALEZ ENRIQUEZ",
     "BRAULIO PI\u00d1A AMAROS",
     "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
@@ -20889,7 +20933,8 @@ let mejoresPorDepto={
     "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "JOSE EZEQUIEL SOTO SANCHEZ",
-    "ERICK MIER MORENO"
+    "ERICK MIER MORENO",
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
@@ -20916,6 +20961,7 @@ let mejoresPorDepto={
     "FEDERICO VALLE OCHOA"
   ],
   "MATEMATICAS": [
+    "ALEJANDRO RIOS HERREJON",
     "CARLOS RODOLFO BARRERA ANZALDO",
     "SERGIO IVAN ARROYO GILES",
     "JOSE PABLO OLIVARES PRETELIN",
@@ -20924,8 +20970,7 @@ let mejoresPorDepto={
     "RUBEN ALEJANDRO MARTINEZ AVENDA\u00d1O",
     "SHARON MAGALI VALVERDE ESPARZA",
     "IRMA BEATRIZ RUMBOS PELLICER",
-    "LUCIA RAMIREZ DAVID",
-    "LEOBARDO FERNANDEZ ROMAN"
+    "LUCIA RAMIREZ DAVID"
   ],
   "SISTEMAS DIGITALES": [
     "FRANCISCO JAVIER DEL OLMO HERNANDEZ",

@@ -1,4 +1,4 @@
-let actualizado="1786462318180.395";
+let actualizado="1786548752491.2668";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1027,7 +1027,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -2782,8 +2782,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH202",
+        "campus": "RIO HONDO",
         "inicio": "15:30",
         "fin": "16:00"
       }
@@ -2818,8 +2818,8 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RH202",
+        "campus": "RIO HONDO",
         "inicio": "14:00",
         "fin": "15:30"
       }
@@ -7525,6 +7525,31 @@ let clases={
       }
     ]
   },
+  "DER-11123-LAB": {
+    "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)-LAB",
+    "clave": "DER-11123",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)-LAB",
+        "profesor": "HANNAH BIRKENKOTTER",
+        "creditos": "2",
+        "horario": "12:00-14:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RH313",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "14:00"
+      }
+    ]
+  },
+  "DER-11123": {
+    "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)",
+    "clave": "DER-11123",
+    "grupos": []
+  },
   "DER-11124": {
     "nombre": "DER-11124-CONCURSOS INTERNACIONALES II",
     "clave": "DER-11124",
@@ -8055,7 +8080,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-13403-OBLIGACIONES",
-        "profesor": "",
+        "profesor": "ELIAS GALLARDO PALMA",
         "creditos": "8",
         "horario": "19:00-21:00",
         "dias": [
@@ -8853,7 +8878,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-17047-CLINICA EN DER Y POL PUBLICA-LAB",
-        "profesor": "",
+        "profesor": "VALENTINA MONTOYA ROBLEDO",
         "creditos": "2",
         "horario": "16:00-18:00",
         "dias": [
@@ -9253,7 +9278,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-19602-DERECHO LABORAL II",
-        "profesor": "",
+        "profesor": "SALVADOR FERNANDO MARTINEZ GUTIERREZ",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -12684,7 +12709,7 @@ let clases={
       {
         "grupo": "005",
         "nombre": "EGN-17162-PROBLEMAS DE LA REALIDAD MEX.",
-        "profesor": "",
+        "profesor": "ARTURO PELAEZ GALVEZ",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -13742,7 +13767,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH311",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -13841,7 +13866,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH311",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -18886,6 +18911,26 @@ let clases={
       }
     ]
   },
+  "SDI-11221-LAB": {
+    "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
+    "clave": "SDI-11221",
+    "grupos": [
+      {
+        "grupo": "001L",
+        "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA-LAB",
+        "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
+        "creditos": "10",
+        "horario": "10:00-12:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHLFIEL",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "12:00"
+      }
+    ]
+  },
   "SDI-11221": {
     "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
     "clave": "SDI-11221",
@@ -19741,9 +19786,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -19892,8 +19937,8 @@ let misProfesData={
   },
   "MIRIAM PATRICIA HERNANDEZ GUERRERO": {
     "link": "https://www.misprofesores.com/profesores/Miriam-Patricia-Hernandez-Guerrero_195167",
-    "general": 2.5,
-    "n": 2
+    "general": 2.3333,
+    "n": 3
   },
   "MARIA ANA MERCEDES GONZALEZ ARMENDARIZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Gonzalez-Armendariz_36748",
@@ -20632,8 +20677,8 @@ let misProfesData={
   },
   "ANA LAURA GONZALEZ ENRIQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Laura-Gonzalez-Enriquez_159822",
-    "general": 10.0,
-    "n": 1
+    "general": 6.0,
+    "n": 2
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",
@@ -20791,9 +20836,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -20914,6 +20959,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Sharon-Magali-Valverde-Esparza_78713",
     "general": 8.4211,
     "n": 38
+  },
+  "ALEJANDRO RIOS HERREJON": {
+    "link": "https://www.misprofesores.com/profesores/Alejandro-R\u00edos-Herrej\u00f3n_196263",
+    "general": 10.0,
+    "n": 1
   },
   "JOSE DEL NI\u00d1O JESUS CAMPERO PARDO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-del-Ni\u00f1o-Jes\u00fas-Campero-Pardo_10697",
