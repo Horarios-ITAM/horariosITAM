@@ -1,4 +1,4 @@
-let actualizado="1786548752491.2668";
+let actualizado="1786635210100.9575";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -4224,6 +4224,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "COM-16414-APLIC. TI EN LOS NEGOCIOS",
+        "profesor": "LETICIA RENTERIA FERRAN",
+        "creditos": "6",
+        "horario": "12:00-13:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RHCC202",
+        "campus": "RIO HONDO",
+        "inicio": "12:00",
+        "fin": "13:30"
       }
     ]
   },
@@ -18949,20 +18964,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
-      },
-      {
-        "grupo": "002",
-        "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
-        "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
-        "creditos": "10",
-        "horario": "10:00-12:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "RHLFIEL",
-        "campus": "RIO HONDO",
-        "inicio": "10:00",
-        "fin": "12:00"
       }
     ]
   },
@@ -19786,9 +19787,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20602,8 +20603,8 @@ let misProfesData={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 8.0,
-    "n": 49
+    "general": 8.04,
+    "n": 50
   },
   "JAVIER ESPINO MARTIN": {
     "link": "https://www.misprofesores.com/profesores/Javier-Espino-Martin_83907",
@@ -20642,8 +20643,8 @@ let misProfesData={
   },
   "MARIA JOSE URZUA VALVERDE": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Jos\u00e9-Urz\u00faa_83080",
-    "general": 9.3333,
-    "n": 3
+    "general": 7.5,
+    "n": 4
   },
   "ATHANASIOS  HRISTOULAS": {
     "link": "https://www.misprofesores.com/profesores/Athanasios-Hristoulas_10839",
@@ -20836,9 +20837,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",

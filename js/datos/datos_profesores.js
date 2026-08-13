@@ -1,4 +1,4 @@
-let actualizado="1786548752507.629";
+let actualizado="1786635210115.1458";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3569,6 +3569,23 @@ let profesores={
           "inicio": "16:00",
           "fin": "18:00"
         }
+      ],
+      "COM-16414-APLIC. TI EN LOS NEGOCIOS": [
+        {
+          "grupo": "002",
+          "nombre": "COM-16414-APLIC. TI EN LOS NEGOCIOS",
+          "profesor": "LETICIA RENTERIA FERRAN",
+          "creditos": "6",
+          "horario": "12:00-13:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHCC202",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:30"
+        }
       ]
     }
   },
@@ -3842,9 +3859,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -13406,8 +13423,8 @@ let profesores={
   },
   "DAVID MORENO GUINEA": {
     "link": "https://www.misprofesores.com/profesores/David-Moreno-Guinea_50351",
-    "general": 8.0,
-    "n": 49,
+    "general": 8.04,
+    "n": 50,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -13819,8 +13836,8 @@ let profesores={
   },
   "MARIA JOSE URZUA VALVERDE": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Jos\u00e9-Urz\u00faa_83080",
-    "general": 9.3333,
-    "n": 3,
+    "general": 7.5,
+    "n": 4,
     "grupos": {
       "EIN-13104-METODOS DE INV. EN REL. INT.": [
         {
@@ -16065,9 +16082,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -20358,22 +20375,6 @@ let profesores={
           "fin": "12:00"
         }
       ],
-      "SDI-11221-ELEMENTOS DE ELECTRONICA": [
-        {
-          "grupo": "002",
-          "nombre": "SDI-11221-ELEMENTOS DE ELECTRONICA",
-          "profesor": "MARIO ANDRES AGUILAR ORDU\u00d1A",
-          "creditos": "10",
-          "horario": "10:00-12:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLFIEL",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "12:00"
-        }
-      ],
       "SDI-11322-CIRCUITOS LOGICOS-LAB": [
         {
           "grupo": "001L",
@@ -20913,11 +20914,11 @@ let mejoresPorDepto={
     "ALFREDO VILLAFRANCA QUINTO"
   ],
   "ESTUDIOS INTERNACIONALES": [
-    "MARIA JOSE URZUA VALVERDE",
     "HORACIO VIVES SEGL",
     "RODRIGO CHACON AGUIRRE",
     "ISABEL FLORES ALCAZAR",
     "NATALIA SALTALAMACCHIA ZICCARDI",
+    "MARIA JOSE URZUA VALVERDE",
     "GABRIEL GOODLIFFE",
     "ATHANASIOS  HRISTOULAS",
     "GISELA ADRIANA CARMONA RODRIGUEZ",
