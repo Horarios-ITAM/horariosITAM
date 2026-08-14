@@ -1,4 +1,4 @@
-let actualizado="1786635210115.1458";
+let actualizado="1786720698055.1428";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -103,7 +103,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH302",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -1928,7 +1928,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH111",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -1984,7 +1984,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH212",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -2915,13 +2915,13 @@ let profesores={
       ]
     }
   },
-  "EMILIO ENRIQUE NAVARRO HERNANDEZ": {
+  "JOSE ANTONIO ZARATE CHAVIRA": {
     "grupos": {
       "CLE-10516-COMMUNICATION IN SPANISH I-LAB": [
         {
           "grupo": "001L",
           "nombre": "CLE-10516-COMMUNICATION IN SPANISH I-LAB",
-          "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+          "profesor": "JOSE ANTONIO ZARATE CHAVIRA",
           "creditos": "7",
           "horario": "15:30-16:00",
           "dias": [
@@ -2938,7 +2938,7 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "CLE-10516-COMMUNICATION IN SPANISH I",
-          "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+          "profesor": "JOSE ANTONIO ZARATE CHAVIRA",
           "creditos": "7",
           "horario": "14:00-15:30",
           "dias": [
@@ -2949,23 +2949,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "14:00",
           "fin": "15:30"
-        }
-      ],
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "016",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RHASHAK",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -4244,6 +4227,23 @@ let profesores={
           "inicio": "16:00",
           "fin": "17:30"
         }
+      ],
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "019",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "SILVIA RIOS MAGOS",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC101",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
       ]
     }
   },
@@ -4768,13 +4768,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "PAULINA GARZA ALLENDE": {
     "grupos": {
       "COM-16306-RAZONAMIENTO ALGORITMICO": [
         {
           "grupo": "017",
           "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "",
+          "profesor": "PAULINA GARZA ALLENDE",
           "creditos": "6",
           "horario": "16:00-17:30",
           "dias": [
@@ -4785,69 +4785,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        },
-        {
-          "grupo": "019",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC201",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ],
-      "CSO-15041-ECONOMIA POLITICA, I": [
-        {
-          "grupo": "001",
-          "nombre": "CSO-15041-ECONOMIA POLITICA, I",
-          "profesor": "",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHSA4",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ],
-      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
-        {
-          "grupo": "008",
-          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
         }
       ]
     }
@@ -5063,9 +5000,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6017,7 +5954,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF104",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -6328,6 +6265,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ],
+      "SDI-25916-SISTEMAS EMPRESARIALES": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+          "profesor": "JUAN FERNANDO CALDERON CABELLO",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHLMINT",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -6938,6 +6892,58 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "": {
+    "grupos": {
+      "CSO-15041-ECONOMIA POLITICA, I": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-15041-ECONOMIA POLITICA, I",
+          "profesor": "",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHSA4",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "008",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
         }
       ]
     }
@@ -8090,6 +8096,42 @@ let profesores={
       ]
     }
   },
+  "ESTEBAN ALBERTO CORTES ADAME": {
+    "grupos": {
+      "DER-11107-TALLER EN BIENES Y DER REALES": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11107-TALLER EN BIENES Y DER REALES",
+          "profesor": "ESTEBAN ALBERTO CORTES ADAME",
+          "creditos": "2",
+          "horario": "07:00-09:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "DER-11307-TALLER ESCRIT  P/ DER PRIVADO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11307-TALLER ESCRIT  P/ DER PRIVADO",
+          "profesor": "ESTEBAN ALBERTO CORTES ADAME",
+          "creditos": "4",
+          "horario": "07:00-09:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ]
+    }
+  },
   "FRANZ ERWIN OBERARZBACHER DAVILA": {
     "grupos": {
       "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB": [
@@ -8495,7 +8537,7 @@ let profesores={
           "dias": [
             "LU"
           ],
-          "salon": "RH301",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -8645,6 +8687,22 @@ let profesores={
   },
   "ROMAIN SYLVAIN JEAN GENIEZ": {
     "grupos": {
+      "DER-11203-INVESTIG. Y REDACCION JURIDICA": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11203-INVESTIG. Y REDACCION JURIDICA",
+          "profesor": "ROMAIN SYLVAIN JEAN GENIEZ",
+          "creditos": "6",
+          "horario": "11:30-14:30",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "14:30"
+        }
+      ],
       "DER-11207-ESCRITURA JURIDICA": [
         {
           "grupo": "001",
@@ -8673,26 +8731,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "ESTEBAN ALBERTO CORTES ADAME": {
-    "grupos": {
-      "DER-11307-TALLER ESCRIT  P/ DER PRIVADO": [
-        {
-          "grupo": "002",
-          "nombre": "DER-11307-TALLER ESCRIT  P/ DER PRIVADO",
-          "profesor": "ESTEBAN ALBERTO CORTES ADAME",
-          "creditos": "4",
-          "horario": "07:00-09:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH102",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
         }
       ]
     }
@@ -9673,13 +9711,13 @@ let profesores={
       ]
     }
   },
-  "ANTONIO CASARES CARRILLO": {
+  "SAP SAP CU44517": {
     "grupos": {
       "DER-16503-DERECHO MERCANTIL II": [
         {
           "grupo": "001",
           "nombre": "DER-16503-DERECHO MERCANTIL II",
-          "profesor": "ANTONIO CASARES CARRILLO",
+          "profesor": "SAP SAP CU44517",
           "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
@@ -9696,7 +9734,7 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "DER-16602-DERECHO MERCANTIL, II",
-          "profesor": "ANTONIO CASARES CARRILLO",
+          "profesor": "SAP SAP CU44517",
           "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
@@ -10753,7 +10791,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH106",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10770,7 +10808,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH106",
+          "salon": "RH113",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -10850,7 +10888,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH101",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -10882,7 +10920,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH101",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -11384,7 +11422,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA1",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -11399,7 +11437,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA1",
+          "salon": "RH213",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -11518,7 +11556,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH104",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -11550,7 +11588,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH104",
+          "salon": "RH101",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -13969,7 +14007,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -13986,7 +14024,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -14126,8 +14164,8 @@ let profesores={
   },
   "WEIFENG JIN": {
     "link": "https://www.misprofesores.com/profesores/Weifeng-Jin_190580",
-    "general": 9.6667,
-    "n": 3,
+    "general": 9.75,
+    "n": 4,
     "grupos": {
       "EST-10101-ESTADISTICA.,I": [
         {
@@ -14486,7 +14524,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH311",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "09:00"
@@ -14705,7 +14743,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH306",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -16317,6 +16355,27 @@ let profesores={
       ]
     }
   },
+  "EMILIO ENRIQUE NAVARRO HERNANDEZ": {
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "016",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "PAULINA MORALES LOPEZ SANTIBA\u00d1EZ": {
     "link": "https://www.misprofesores.com/profesores/PAULINA-MORALES-LOPEZ-SANTIBA\u00d1EZ_99563",
     "general": 8.0,
@@ -17582,13 +17641,13 @@ let profesores={
       ]
     }
   },
-  "MARIA LUISA DIAZ DE LEON RASCON": {
+  "OCTAVIO ORTEGA VELIO MEJIA": {
     "grupos": {
       "LEN-12758-COMUNIC. PROFESIONAL PARA ECON": [
         {
           "grupo": "001",
           "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-          "profesor": "MARIA LUISA DIAZ DE LEON RASCON",
+          "profesor": "OCTAVIO ORTEGA VELIO MEJIA",
           "creditos": "2",
           "horario": "07:00-08:00",
           "dias": [
@@ -18895,8 +18954,7 @@ let profesores={
           "creditos": "8",
           "horario": "16:00-18:00",
           "dias": [
-            "MA",
-            "JU"
+            "MA"
           ],
           "salon": "PF101",
           "campus": "RIO HONDO",
@@ -18928,8 +18986,7 @@ let profesores={
           "creditos": "8",
           "horario": "16:00-18:00",
           "dias": [
-            "MA",
-            "JU"
+            "MA"
           ],
           "salon": "PF101",
           "campus": "RIO HONDO",
@@ -19528,7 +19585,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH307",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
@@ -20402,7 +20459,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHLI2",
+          "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -20442,7 +20499,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH205",
+          "salon": "PF108",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
@@ -20836,7 +20893,7 @@ let mejoresPorDepto={
   ],
   "LENGUAS (CLE)": [
     "MARCELA RABADAN GALLARDO",
-    "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+    "JOSE ANTONIO ZARATE CHAVIRA",
     "NORMA ARACELY AVILA MIRANDA",
     "REBECCA SOTO BUSTAMANTE",
     "ERIKA DEYANIRA BELTRAN TRENADO"
@@ -20861,9 +20918,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
+    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF",
-    "JUAN FERNANDO CALDERON CABELLO"
+    "VIRGINIA KALIS LETAYF"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",

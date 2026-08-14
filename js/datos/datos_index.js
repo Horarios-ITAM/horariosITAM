@@ -1,4 +1,4 @@
-let actualizado="1786635210100.9575";
+let actualizado="1786720698040.0715";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -49,7 +49,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH302",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -1389,7 +1389,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH212",
+        "salon": "RH111",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -1410,7 +1410,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH212",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -2718,7 +2718,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "CLE-10516-COMMUNICATION IN SPANISH I-LAB",
-        "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+        "profesor": "JOSE ANTONIO ZARATE CHAVIRA",
         "creditos": "7",
         "horario": "15:30-16:00",
         "dias": [
@@ -2739,7 +2739,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CLE-10516-COMMUNICATION IN SPANISH I",
-        "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+        "profesor": "JOSE ANTONIO ZARATE CHAVIRA",
         "creditos": "7",
         "horario": "14:00-15:30",
         "dias": [
@@ -4079,7 +4079,7 @@ let clases={
       {
         "grupo": "017",
         "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "",
+        "profesor": "PAULINA GARZA ALLENDE",
         "creditos": "6",
         "horario": "16:00-17:30",
         "dias": [
@@ -4109,14 +4109,14 @@ let clases={
       {
         "grupo": "019",
         "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-        "profesor": "",
+        "profesor": "SILVIA RIOS MAGOS",
         "creditos": "6",
         "horario": "13:00-14:30",
         "dias": [
           "MA",
           "JU"
         ],
-        "salon": "RHCC201",
+        "salon": "RHCC101",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -5682,7 +5682,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF104",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -7089,6 +7089,26 @@ let clases={
       }
     ]
   },
+  "DER-11107": {
+    "nombre": "DER-11107-TALLER EN BIENES Y DER REALES",
+    "clave": "DER-11107",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11107-TALLER EN BIENES Y DER REALES",
+        "profesor": "ESTEBAN ALBERTO CORTES ADAME",
+        "creditos": "2",
+        "horario": "07:00-09:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH102",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "09:00"
+      }
+    ]
+  },
   "DER-11109-LAB": {
     "nombre": "DER-11109-TALLER DE DISER JURID EN OBLIG-LAB",
     "clave": "DER-11109",
@@ -7127,7 +7147,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH102",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -7384,7 +7404,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "RH301",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -7589,6 +7609,26 @@ let clases={
     "nombre": "DER-11202-TEORIA DEL DERECHO II",
     "clave": "DER-11202",
     "grupos": []
+  },
+  "DER-11203": {
+    "nombre": "DER-11203-INVESTIG. Y REDACCION JURIDICA",
+    "clave": "DER-11203",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "DER-11203-INVESTIG. Y REDACCION JURIDICA",
+        "profesor": "ROMAIN SYLVAIN JEAN GENIEZ",
+        "creditos": "6",
+        "horario": "11:30-14:30",
+        "dias": [
+          "JU"
+        ],
+        "salon": "RH201",
+        "campus": "RIO HONDO",
+        "inicio": "11:30",
+        "fin": "14:30"
+      }
+    ]
   },
   "DER-11206": {
     "nombre": "DER-11206-TEOR\u00cdA DEL DERECHO II",
@@ -8792,7 +8832,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-16503-DERECHO MERCANTIL II",
-        "profesor": "ANTONIO CASARES CARRILLO",
+        "profesor": "SAP SAP CU44517",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -8813,7 +8853,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-16602-DERECHO MERCANTIL, II",
-        "profesor": "ANTONIO CASARES CARRILLO",
+        "profesor": "SAP SAP CU44517",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -9842,7 +9882,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10163,7 +10203,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH101",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10301,7 +10341,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHSA1",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -10316,7 +10356,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHSA1",
+        "salon": "RH213",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -10409,7 +10449,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH104",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10424,7 +10464,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH106",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -10577,7 +10617,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH104",
+        "salon": "RH101",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -10592,7 +10632,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH106",
+        "salon": "RH113",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -12870,7 +12910,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -12912,7 +12952,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -13275,7 +13315,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH311",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "09:00"
@@ -13638,7 +13678,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH306",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -16307,7 +16347,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "LEN-12758-COMUNIC. PROFESIONAL PARA ECON",
-        "profesor": "MARIA LUISA DIAZ DE LEON RASCON",
+        "profesor": "OCTAVIO ORTEGA VELIO MEJIA",
         "creditos": "2",
         "horario": "07:00-08:00",
         "dias": [
@@ -17507,7 +17547,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH307",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -18361,8 +18401,7 @@ let clases={
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
-          "MA",
-          "JU"
+          "MA"
         ],
         "salon": "PF101",
         "campus": "RIO HONDO",
@@ -18680,8 +18719,7 @@ let clases={
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
-          "MA",
-          "JU"
+          "MA"
         ],
         "salon": "PF101",
         "campus": "RIO HONDO",
@@ -18960,7 +18998,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH205",
+        "salon": "PF108",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
@@ -19001,7 +19039,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHLI2",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -19508,6 +19546,27 @@ let clases={
         "fin": "14:00"
       }
     ]
+  },
+  "SDI-25916": {
+    "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+    "clave": "SDI-25916",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+        "profesor": "JUAN FERNANDO CALDERON CABELLO",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHLMINT",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      }
+    ]
   }
 };
 let misProfesData={
@@ -19892,9 +19951,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20673,8 +20732,8 @@ let misProfesData={
   },
   "WEIFENG JIN": {
     "link": "https://www.misprofesores.com/profesores/Weifeng-Jin_190580",
-    "general": 9.6667,
-    "n": 3
+    "general": 9.75,
+    "n": 4
   },
   "ANA LAURA GONZALEZ ENRIQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Laura-Gonzalez-Enriquez_159822",
