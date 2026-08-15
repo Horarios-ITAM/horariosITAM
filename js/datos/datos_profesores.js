@@ -1,4 +1,4 @@
-let actualizado="1786720698055.1428";
+let actualizado="1786805401310.0713";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1928,7 +1928,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH111",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -1960,7 +1960,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -2033,7 +2033,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH212",
+          "salon": "RH110",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -2283,7 +2283,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-2",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -2298,7 +2298,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-2",
+          "salon": "RH315",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -2393,7 +2393,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH315",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -2408,7 +2408,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH315",
+          "salon": "RHB-2",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -2464,7 +2464,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH212",
+          "salon": "RH",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -3530,7 +3530,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHCC202",
+          "salon": "RHCC101",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
@@ -3564,7 +3564,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHCC202",
+          "salon": "RHCC101",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
@@ -3842,9 +3842,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4181,7 +4181,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHCC101",
+          "salon": "RHCC202",
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
@@ -5000,9 +5000,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6914,22 +6914,6 @@ let profesores={
           "fin": "10:00"
         }
       ],
-      "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "07:00-09:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "09:00"
-        }
-      ],
       "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
         {
           "grupo": "008",
@@ -6963,6 +6947,22 @@ let profesores={
           "salon": "RHSA4",
           "campus": "RIO HONDO",
           "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-10210-SEM. DE ECONOMIA APLICADA (OP)": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-10210-SEM. DE ECONOMIA APLICADA (OP)",
+          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
           "fin": "10:00"
         }
       ]
@@ -8185,6 +8185,46 @@ let profesores={
       ]
     }
   },
+  "ROBERTO NIEMBRO ORTEGA": {
+    "link": "https://www.misprofesores.com/profesores/Roberto-Niembro-Ortega_104385",
+    "general": 9.25,
+    "n": 4,
+    "grupos": {
+      "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB",
+          "profesor": "ROBERTO NIEMBRO ORTEGA",
+          "creditos": "2",
+          "horario": "07:00-09:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "09:00"
+        }
+      ],
+      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
+        {
+          "grupo": "001",
+          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
+          "profesor": "ROBERTO NIEMBRO ORTEGA",
+          "creditos": "9",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH211",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ]
+    }
+  },
   "AMRITA BAHRI": {
     "link": "https://www.misprofesores.com/profesores/Amrita-Bahri_93904",
     "general": 9.5385,
@@ -9046,7 +9086,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -9063,7 +9103,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RHB-4",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -9550,30 +9590,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
-        }
-      ]
-    }
-  },
-  "ANA MICAELA ALTERIO": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
-    "general": 8.5263,
-    "n": 19,
-    "grupos": {
-      "DER-15303-DER CONST. I Y SEM DE TEO POL": [
-        {
-          "grupo": "001",
-          "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-          "profesor": "ANA MICAELA ALTERIO",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH211",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
         }
       ]
     }
@@ -10154,6 +10170,118 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
+        }
+      ]
+    }
+  },
+  "TRIDIB  SHARMA": {
+    "link": "https://www.misprofesores.com/profesores/Tridib-Sharma_10768",
+    "general": 6.5429,
+    "n": 35,
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "005",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "TRIDIB  SHARMA",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ECO-11122-MICROECONOMIA AVANZADA II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
+          "profesor": "TRIDIB  SHARMA",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
+          "profesor": "TRIDIB  SHARMA",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH317",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ]
+    }
+  },
+  "ANDREY  GOMBERG": {
+    "link": "https://www.misprofesores.com/profesores/Andrei-Gomberg_10762",
+    "general": 6.027,
+    "n": 37,
+    "grupos": {
+      "ECO-10202-SEM. DE INVEST. ECONOMICA II": [
+        {
+          "grupo": "006",
+          "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+          "profesor": "ANDREY  GOMBERG",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
+      "ECO-11023-MICROECONOMIA III": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-11023-MICROECONOMIA III",
+          "profesor": "ANDREY  GOMBERG",
+          "creditos": "6",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH108",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
+        }
+      ],
+      "ECO-15111-ECONOMIA POLITICA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-15111-ECONOMIA POLITICA",
+          "profesor": "ANDREY  GOMBERG",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH108",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
         }
       ]
     }
@@ -11365,47 +11493,6 @@ let profesores={
       ]
     }
   },
-  "ANDREY  GOMBERG": {
-    "link": "https://www.misprofesores.com/profesores/Andrei-Gomberg_10762",
-    "general": 6.027,
-    "n": 37,
-    "grupos": {
-      "ECO-11023-MICROECONOMIA III": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-11023-MICROECONOMIA III",
-          "profesor": "ANDREY  GOMBERG",
-          "creditos": "6",
-          "horario": "16:00-17:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH108",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
-        }
-      ],
-      "ECO-15111-ECONOMIA POLITICA": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-15111-ECONOMIA POLITICA",
-          "profesor": "ANDREY  GOMBERG",
-          "creditos": "6",
-          "horario": "18:00-19:30",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH108",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "19:30"
-        }
-      ]
-    }
-  },
   "XINYANG WANG": {
     "link": "https://www.misprofesores.com/profesores/Xinyang-Wang_122989",
     "general": 7.3636,
@@ -11441,45 +11528,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
-        }
-      ]
-    }
-  },
-  "TRIDIB  SHARMA": {
-    "link": "https://www.misprofesores.com/profesores/Tridib-Sharma_10768",
-    "general": 6.5429,
-    "n": 35,
-    "grupos": {
-      "ECO-11122-MICROECONOMIA AVANZADA II": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
-          "profesor": "TRIDIB  SHARMA",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "ECO-11122-MICROECONOMIA AVANZADA II",
-          "profesor": "TRIDIB  SHARMA",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -11847,6 +11895,23 @@ let profesores={
           "fin": "11:30"
         }
       ],
+      "ECO-12201-TEORIA Y POLITICA MONETARIA": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+          "profesor": "FELIPE MEZA GOIZ",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH104",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
+        }
+      ],
       "ECO-22113-MACROECONOMIA DINAMICA II": [
         {
           "grupo": "001",
@@ -11963,6 +12028,29 @@ let profesores={
       ]
     }
   },
+  "RAFAEL GUERRA CABRERA": {
+    "link": "https://www.misprofesores.com/profesores/Rafael-Guerra-Cabrera_106001",
+    "general": 9.4286,
+    "n": 14,
+    "grupos": {
+      "ECO-12126-TEMAS DE MACROECONOMIA": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-12126-TEMAS DE MACROECONOMIA",
+          "profesor": "RAFAEL GUERRA CABRERA",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
   "CARLOS SANTIAGO BAZDRESCH BARQUET": {
     "grupos": {
       "ECO-12201-TEORIA Y POLITICA MONETARIA": [
@@ -12051,6 +12139,42 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "13:30"
+        }
+      ]
+    }
+  },
+  "ALAIN IZE LAMACHE": {
+    "grupos": {
+      "ECO-13101-ECONOMIA INTERNACIONAL, I": [
+        {
+          "grupo": "004",
+          "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
+          "profesor": "ALAIN IZE LAMACHE",
+          "creditos": "6",
+          "horario": "08:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH213",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
+        }
+      ],
+      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
+          "profesor": "ALAIN IZE LAMACHE",
+          "creditos": "6",
+          "horario": "08:00-11:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH213",
+          "campus": "RIO HONDO",
+          "inicio": "08:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -12281,26 +12405,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "14:30"
-        }
-      ]
-    }
-  },
-  "ALAIN IZE LAMACHE": {
-    "grupos": {
-      "ECO-17103-SEMINARIO DE LA ECO. DE MEX.": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-17103-SEMINARIO DE LA ECO. DE MEX.",
-          "profesor": "ALAIN IZE LAMACHE",
-          "creditos": "6",
-          "horario": "08:00-11:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH213",
-          "campus": "RIO HONDO",
-          "inicio": "08:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -14777,7 +14881,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH306",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -20459,7 +20563,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH301",
+          "salon": "RHLI2",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -20499,7 +20603,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF108",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:30"
@@ -20918,9 +21022,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
-    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF"
+    "VIRGINIA KALIS LETAYF",
+    "JUAN FERNANDO CALDERON CABELLO"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
@@ -20949,14 +21053,14 @@ let mejoresPorDepto={
   "ECONOMIA": [
     "SOFIA CORONA VERDUZCO",
     "CHRISTINA CORNEJO VAN LUIT",
+    "RAFAEL GUERRA CABRERA",
     "BARBARA CARRILLO FLORES",
     "MIGUEL MESSMACHER LINARTAS",
     "MENEY DE LA PEZA GANDARA",
     "SHAUN DAVID MCRAE",
     "MICHELLE AVATANEO TRUQUI",
     "CLAUDIA ABURTO RANCA\u00d1O",
-    "CHRISTIANE FABREGA CHIMALI",
-    "ANTONIO VIVANCO CASAMADRID"
+    "CHRISTIANE FABREGA CHIMALI"
   ],
   "ESTUDIOS GENERALES": [
     "GERARDO ZORRILLA RAMOS",

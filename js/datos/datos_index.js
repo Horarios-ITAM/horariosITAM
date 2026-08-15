@@ -1,4 +1,4 @@
-let actualizado="1786720698040.0715";
+let actualizado="1786805401293.8103";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1389,7 +1389,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH111",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -1512,7 +1512,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH212",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -1803,7 +1803,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH315",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -1818,7 +1818,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH315",
+        "salon": "RHB-2",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -1839,7 +1839,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -1854,7 +1854,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH212",
+        "salon": "RH",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -1884,7 +1884,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-2",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -2276,7 +2276,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH212",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -3699,7 +3699,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHCC202",
+        "salon": "RHCC101",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -3996,7 +3996,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHCC101",
+        "salon": "RHCC202",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:30"
@@ -4235,7 +4235,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHCC202",
+        "salon": "RHCC101",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "13:30"
@@ -7141,7 +7141,7 @@ let clases={
       {
         "grupo": "001L",
         "nombre": "DER-11110-TALLER DISERT JURID CONSTIT. I-LAB",
-        "profesor": "",
+        "profesor": "ROBERTO NIEMBRO ORTEGA",
         "creditos": "2",
         "horario": "07:00-09:00",
         "dias": [
@@ -8028,7 +8028,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -8106,7 +8106,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "RHB-4",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -8532,7 +8532,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-15303-DER CONST. I Y SEM DE TEO POL",
-        "profesor": "ANA MICAELA ALTERIO",
+        "profesor": "ROBERTO NIEMBRO ORTEGA",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -9409,6 +9409,34 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
+      },
+      {
+        "grupo": "005",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "TRIDIB  SHARMA",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      },
+      {
+        "grupo": "006",
+        "nombre": "ECO-10202-SEM. DE INVEST. ECONOMICA II",
+        "profesor": "ANDREY  GOMBERG",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -9474,6 +9502,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
+      }
+    ]
+  },
+  "ECO-10210": {
+    "nombre": "ECO-10210-SEM. DE ECONOMIA APLICADA (OP)",
+    "clave": "ECO-10210",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-10210-SEM. DE ECONOMIA APLICADA (OP)",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "MI"
+        ],
+        "salon": "RH101",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -10756,6 +10804,26 @@ let clases={
       }
     ]
   },
+  "ECO-12126": {
+    "nombre": "ECO-12126-TEMAS DE MACROECONOMIA",
+    "clave": "ECO-12126",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-12126-TEMAS DE MACROECONOMIA",
+        "profesor": "RAFAEL GUERRA CABRERA",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
   "ECO-12133": {
     "nombre": "ECO-12133-MACROECONOMIA INTERMEDIA",
     "clave": "ECO-12133",
@@ -10795,6 +10863,21 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-12201-TEORIA Y POLITICA MONETARIA",
+        "profesor": "FELIPE MEZA GOIZ",
+        "creditos": "6",
+        "horario": "10:00-11:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH104",
+        "campus": "RIO HONDO",
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -10903,6 +10986,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      },
+      {
+        "grupo": "004",
+        "nombre": "ECO-13101-ECONOMIA INTERNACIONAL, I",
+        "profesor": "ALAIN IZE LAMACHE",
+        "creditos": "6",
+        "horario": "08:00-11:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RH213",
+        "campus": "RIO HONDO",
+        "inicio": "08:00",
+        "fin": "11:00"
       }
     ]
   },
@@ -14089,7 +14186,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH306",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -18998,7 +19095,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF108",
+        "salon": "RH205",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
@@ -19039,7 +19136,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH301",
+        "salon": "RHLI2",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -19846,9 +19943,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -19951,9 +20048,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20200,6 +20297,11 @@ let misProfesData={
     "general": 8.1818,
     "n": 22
   },
+  "ROBERTO NIEMBRO ORTEGA": {
+    "link": "https://www.misprofesores.com/profesores/Roberto-Niembro-Ortega_104385",
+    "general": 9.25,
+    "n": 4
+  },
   "AMRITA BAHRI": {
     "link": "https://www.misprofesores.com/profesores/Amrita-Bahri_93904",
     "general": 9.5385,
@@ -20305,11 +20407,6 @@ let misProfesData={
     "general": 10.0,
     "n": 2
   },
-  "ANA MICAELA ALTERIO": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Micaela-Alterio_80390",
-    "general": 8.5263,
-    "n": 19
-  },
   "FRANCISCA MARIA POU GIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Francisca-Pou-Gim\u00e9nez_98102",
     "general": 6.5,
@@ -20364,6 +20461,16 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Victoria-Nuguer_172046",
     "general": 7.0,
     "n": 1
+  },
+  "TRIDIB  SHARMA": {
+    "link": "https://www.misprofesores.com/profesores/Tridib-Sharma_10768",
+    "general": 6.5429,
+    "n": 35
+  },
+  "ANDREY  GOMBERG": {
+    "link": "https://www.misprofesores.com/profesores/Andrei-Gomberg_10762",
+    "general": 6.027,
+    "n": 37
   },
   "JOSE GABRIEL MARTINEZ GONZALEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Gabriel-Mart\u00ednez-Gonz\u00e1lez_181679",
@@ -20465,20 +20572,10 @@ let misProfesData={
     "general": 7.3784,
     "n": 37
   },
-  "ANDREY  GOMBERG": {
-    "link": "https://www.misprofesores.com/profesores/Andrei-Gomberg_10762",
-    "general": 6.027,
-    "n": 37
-  },
   "XINYANG WANG": {
     "link": "https://www.misprofesores.com/profesores/Xinyang-Wang_122989",
     "general": 7.3636,
     "n": 11
-  },
-  "TRIDIB  SHARMA": {
-    "link": "https://www.misprofesores.com/profesores/Tridib-Sharma_10768",
-    "general": 6.5429,
-    "n": 35
   },
   "ROMANS PANCS": {
     "link": "https://www.misprofesores.com/profesores/Romans-Pancs_104518",
@@ -20519,6 +20616,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jorge-Alonso-Ort\u00edz_62832",
     "general": 6.6,
     "n": 15
+  },
+  "RAFAEL GUERRA CABRERA": {
+    "link": "https://www.misprofesores.com/profesores/Rafael-Guerra-Cabrera_106001",
+    "general": 9.4286,
+    "n": 14
   },
   "DANIEL ISAAC CHIQUIAR CIKUREL": {
     "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
