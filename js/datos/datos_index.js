@@ -1,4 +1,4 @@
-let actualizado="1786805401293.8103";
+let actualizado="1786891868933.0586";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19943,9 +19943,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20853,9 +20853,9 @@ let misProfesData={
     "n": 28
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 8.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -20998,9 +20998,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",

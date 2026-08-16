@@ -1,4 +1,4 @@
-let actualizado="1786805401310.0713";
+let actualizado="1786891868947.2473";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3842,9 +3842,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -14473,9 +14473,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 8.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -16224,9 +16224,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -21091,12 +21091,12 @@ let mejoresPorDepto={
     "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
-    "MARTIN MAGRIS",
     "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "JOSE EZEQUIEL SOTO SANCHEZ",
     "ERICK MIER MORENO",
-    "ENRIQUE CUERVO GUZMAN"
+    "ENRIQUE CUERVO GUZMAN",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
