@@ -1,4 +1,4 @@
-let actualizado="1786891868947.2473";
+let actualizado="1786978597846.8137";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -5000,9 +5000,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -14473,9 +14473,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 8.0,
+    "n": 3,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -16224,9 +16224,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -21022,9 +21022,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
+    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF",
-    "JUAN FERNANDO CALDERON CABELLO"
+    "VIRGINIA KALIS LETAYF"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
@@ -21091,12 +21091,12 @@ let mejoresPorDepto={
     "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
+    "MARTIN MAGRIS",
     "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "JOSE EZEQUIEL SOTO SANCHEZ",
     "ERICK MIER MORENO",
-    "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
