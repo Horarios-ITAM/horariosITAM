@@ -1,4 +1,4 @@
-let actualizado="1786978597831.3345";
+let actualizado="1787065457840.82";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1425,7 +1425,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH212",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -1854,7 +1854,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -2291,7 +2291,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH212",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2480,7 +2480,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2573,7 +2573,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -2650,7 +2650,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -3194,6 +3194,26 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
+      }
+    ]
+  },
+  "COM-11304": {
+    "nombre": "COM-11304-PROGRAMACION AVANZADA",
+    "clave": "COM-11304",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "COM-11304-PROGRAMACION AVANZADA",
+        "profesor": "JUAN SALVADOR MARMOL YAHYA",
+        "creditos": "6",
+        "horario": "18:00-21:00",
+        "dias": [
+          "LU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -4387,6 +4407,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "COM-23106-MINERIA DE DATOS",
+        "profesor": "EDGAR FRANCISCO ROMAN RANGEL",
+        "creditos": "6",
+        "horario": "18:00-21:00",
+        "dias": [
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "18:00",
+        "fin": "21:00"
       }
     ]
   },
@@ -10801,6 +10835,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
+      },
+      {
+        "grupo": "003",
+        "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
+        "profesor": "RAFAEL GUERRA CABRERA",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA"
+        ],
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
+        "inicio": "19:00",
+        "fin": "22:00"
       }
     ]
   },
@@ -13980,6 +14028,20 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "EST-24107-SIMULACION",
+        "profesor": "JORGE FRANCISCO DE LA VEGA GONGORA",
+        "creditos": "6",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "PF102",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -14666,6 +14728,26 @@ let clases={
       }
     ]
   },
+  "IIO-15130-LAB": {
+    "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
+    "clave": "IIO-15130",
+    "grupos": [
+      {
+        "grupo": "002L",
+        "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
+        "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+        "creditos": "11",
+        "horario": "16:00-19:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHLQUIM",
+        "campus": "RIO HONDO",
+        "inicio": "16:00",
+        "fin": "19:00"
+      }
+    ]
+  },
   "IIO-15130": {
     "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA",
     "clave": "IIO-15130",
@@ -14962,7 +15044,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-        "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
+        "profesor": "GABRIELA HERNANDEZ GARCIA",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -19302,7 +19384,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-        "profesor": "SERGIO HERNANDEZ SANCHEZ",
+        "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
         "creditos": "4",
         "horario": "18:00-20:00",
         "dias": [
@@ -19616,7 +19698,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHLI2",
+        "salon": "RH203",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -19641,27 +19723,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
-      }
-    ]
-  },
-  "SDI-25916": {
-    "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
-    "clave": "SDI-25916",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
-        "profesor": "JUAN FERNANDO CALDERON CABELLO",
-        "creditos": "6",
-        "horario": "07:00-08:30",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RHLMINT",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
       }
     ]
   }
@@ -19922,6 +19983,11 @@ let misProfesData={
     "general": 7.6281,
     "n": 121
   },
+  "JUAN SALVADOR MARMOL YAHYA": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Salvador-M\u00e1rmol-Yahya_169926",
+    "general": 10.0,
+    "n": 3
+  },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
     "general": 10.0,
@@ -19943,9 +20009,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20032,6 +20098,11 @@ let misProfesData={
     "general": 7.1087,
     "n": 46
   },
+  "EDGAR FRANCISCO ROMAN RANGEL": {
+    "link": "https://www.misprofesores.com/profesores/Edgar-Francisco-Rom\u00e1n-Rangel_171638",
+    "general": 10.0,
+    "n": 1
+  },
   "JUAN MANUEL ANDRADE HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Juan-Manuel-Andrade-Hern\u00e1ndez_108735",
     "general": 7.0,
@@ -20048,9 +20119,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20977,11 +21048,6 @@ let misProfesData={
     "general": 10.0,
     "n": 1
   },
-  "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
-    "general": 8.0476,
-    "n": 21
-  },
   "LUCIA PI CHOLULA": {
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
     "general": 7.4286,
@@ -20998,9 +21064,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",

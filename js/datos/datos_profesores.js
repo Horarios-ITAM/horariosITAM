@@ -1,4 +1,4 @@
-let actualizado="1786978597846.8137";
+let actualizado="1787065457858.4404";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1999,7 +1999,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH212",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -2048,7 +2048,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH212",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -2464,7 +2464,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -2766,7 +2766,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -2798,7 +2798,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -2830,7 +2830,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -3572,6 +3572,29 @@ let profesores={
       ]
     }
   },
+  "JUAN SALVADOR MARMOL YAHYA": {
+    "link": "https://www.misprofesores.com/profesores/Juan-Salvador-M\u00e1rmol-Yahya_169926",
+    "general": 10.0,
+    "n": 3,
+    "grupos": {
+      "COM-11304-PROGRAMACION AVANZADA": [
+        {
+          "grupo": "001",
+          "nombre": "COM-11304-PROGRAMACION AVANZADA",
+          "profesor": "JUAN SALVADOR MARMOL YAHYA",
+          "creditos": "6",
+          "horario": "18:00-21:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "18:00",
+          "fin": "21:00"
+        }
+      ]
+    }
+  },
   "PAULINA BUSTOS ARELLANO": {
     "link": "https://www.misprofesores.com/profesores/Paulina-Bustos-Arellano_172159",
     "general": 10.0,
@@ -3842,9 +3865,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4888,6 +4911,29 @@ let profesores={
       ]
     }
   },
+  "EDGAR FRANCISCO ROMAN RANGEL": {
+    "link": "https://www.misprofesores.com/profesores/Edgar-Francisco-Rom\u00e1n-Rangel_171638",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "COM-23106-MINERIA DE DATOS": [
+        {
+          "grupo": "002",
+          "nombre": "COM-23106-MINERIA DE DATOS",
+          "profesor": "EDGAR FRANCISCO ROMAN RANGEL",
+          "creditos": "6",
+          "horario": "18:00-21:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "18:00",
+          "fin": "21:00"
+        }
+      ]
+    }
+  },
   "JUAN MANUEL ANDRADE HERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Juan-Manuel-Andrade-Hern\u00e1ndez_108735",
     "general": 7.0,
@@ -5000,9 +5046,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6265,23 +6311,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ],
-      "SDI-25916-SISTEMAS EMPRESARIALES": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
-          "profesor": "JUAN FERNANDO CALDERON CABELLO",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHLMINT",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -12033,6 +12062,22 @@ let profesores={
     "general": 9.4286,
     "n": 14,
     "grupos": {
+      "ECO-12121-MACROECONOMIA AVANZADA": [
+        {
+          "grupo": "003",
+          "nombre": "ECO-12121-MACROECONOMIA AVANZADA",
+          "profesor": "RAFAEL GUERRA CABRERA",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ],
       "ECO-12126-TEMAS DE MACROECONOMIA": [
         {
           "grupo": "001",
@@ -12752,6 +12797,23 @@ let profesores={
           "inicio": "13:00",
           "fin": "14:00"
         }
+      ],
+      "IIO-16180-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
+          "profesor": "GABRIELA HERNANDEZ GARCIA",
+          "creditos": "6",
+          "horario": "17:30-19:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH314",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
+        }
       ]
     }
   },
@@ -13040,6 +13102,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
+        }
+      ],
+      "SDI-15816-SEMINARIO DE TITULACION": [
+        {
+          "grupo": "001",
+          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
+          "profesor": "JESUS ALEJANDRO ORDIERES SIERES",
+          "creditos": "4",
+          "horario": "18:00-20:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RHCC201",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -15295,6 +15373,20 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
+        },
+        {
+          "grupo": "002",
+          "nombre": "EST-24107-SIMULACION",
+          "profesor": "JORGE FRANCISCO DE LA VEGA GONGORA",
+          "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "PF102",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
         }
       ]
     }
@@ -15852,6 +15944,59 @@ let profesores={
       ]
     }
   },
+  "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO": {
+    "link": "https://www.misprofesores.com/profesores/Graciela-Guadalupe-D\u00edaz-Argomedo_50992",
+    "general": 10.0,
+    "n": 1,
+    "grupos": {
+      "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB": [
+        {
+          "grupo": "002L",
+          "nombre": "IIO-15130-FUNDAMENTOS DE QUIMICA-LAB",
+          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+          "creditos": "11",
+          "horario": "16:00-19:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLQUIM",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "19:00"
+        }
+      ],
+      "IIO-15132-FISICOQUIMICA-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "IIO-15132-FISICOQUIMICA-LAB",
+          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+          "creditos": "8",
+          "horario": "11:30-13:30",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLQUIM",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:30"
+        },
+        {
+          "grupo": "002L",
+          "nombre": "IIO-15132-FISICOQUIMICA-LAB",
+          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
+          "creditos": "8",
+          "horario": "16:00-18:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLQUIM",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
+        }
+      ]
+    }
+  },
   "JOSE MANUEL HERNANDEZ SOTO": {
     "grupos": {
       "IIO-15130-FUNDAMENTOS DE QUIMICA": [
@@ -15901,43 +16046,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
-        }
-      ]
-    }
-  },
-  "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO": {
-    "link": "https://www.misprofesores.com/profesores/Graciela-Guadalupe-D\u00edaz-Argomedo_50992",
-    "general": 10.0,
-    "n": 1,
-    "grupos": {
-      "IIO-15132-FISICOQUIMICA-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "IIO-15132-FISICOQUIMICA-LAB",
-          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
-          "creditos": "8",
-          "horario": "11:30-13:30",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLQUIM",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:30"
-        },
-        {
-          "grupo": "002L",
-          "nombre": "IIO-15132-FISICOQUIMICA-LAB",
-          "profesor": "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
-          "creditos": "8",
-          "horario": "16:00-18:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLQUIM",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
         }
       ]
     }
@@ -16046,30 +16154,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "MIGUEL FRANCISCO DE LASCURAIN MORHAN": {
-    "link": "https://www.misprofesores.com/profesores/Miguel-Francisco-de-Lascurain-Morhan_10857",
-    "general": 8.0476,
-    "n": 21,
-    "grupos": {
-      "IIO-16180-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "IIO-16180-SEMINARIO DE TITULACION",
-          "profesor": "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
-          "creditos": "6",
-          "horario": "17:30-19:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH314",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ]
     }
@@ -16224,9 +16308,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -20510,7 +20594,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHLI2",
+          "salon": "RH203",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -20831,56 +20915,6 @@ let profesores={
       ]
     }
   },
-  "SERGIO HERNANDEZ SANCHEZ": {
-    "grupos": {
-      "SDI-15816-SEMINARIO DE TITULACION": [
-        {
-          "grupo": "001",
-          "nombre": "SDI-15816-SEMINARIO DE TITULACION",
-          "profesor": "SERGIO HERNANDEZ SANCHEZ",
-          "creditos": "4",
-          "horario": "18:00-20:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RHCC201",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
-        }
-      ],
-      "SDI-17401-ELECTRONICA DIGITAL-LAB": [
-        {
-          "grupo": "001L",
-          "nombre": "SDI-17401-ELECTRONICA DIGITAL-LAB",
-          "profesor": "SERGIO HERNANDEZ SANCHEZ",
-          "creditos": "7",
-          "horario": "09:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHLSIST",
-          "campus": "RIO HONDO",
-          "inicio": "09:00",
-          "fin": "10:00"
-        },
-        {
-          "grupo": "002L",
-          "nombre": "SDI-17401-ELECTRONICA DIGITAL-LAB",
-          "profesor": "SERGIO HERNANDEZ SANCHEZ",
-          "creditos": "7",
-          "horario": "10:00-11:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RHLSIST",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
-        }
-      ]
-    }
-  },
   "FEDERICO JOSE KUHLMANN RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Federico-Jos\u00e9-Kuhlmann-Rodr\u00edguez_10875",
     "general": 6.7895,
@@ -20938,6 +20972,40 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:00",
           "fin": "09:00"
+        }
+      ]
+    }
+  },
+  "SERGIO HERNANDEZ SANCHEZ": {
+    "grupos": {
+      "SDI-17401-ELECTRONICA DIGITAL-LAB": [
+        {
+          "grupo": "001L",
+          "nombre": "SDI-17401-ELECTRONICA DIGITAL-LAB",
+          "profesor": "SERGIO HERNANDEZ SANCHEZ",
+          "creditos": "7",
+          "horario": "09:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHLSIST",
+          "campus": "RIO HONDO",
+          "inicio": "09:00",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "002L",
+          "nombre": "SDI-17401-ELECTRONICA DIGITAL-LAB",
+          "profesor": "SERGIO HERNANDEZ SANCHEZ",
+          "creditos": "7",
+          "horario": "10:00-11:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RHLSIST",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
         }
       ]
     }
@@ -21003,16 +21071,16 @@ let mejoresPorDepto={
     "ERIKA DEYANIRA BELTRAN TRENADO"
   ],
   "COMPUTACION": [
+    "JUAN SALVADOR MARMOL YAHYA",
     "PAULINA BUSTOS ARELLANO",
     "JOSE OCTAVIO GUTIERREZ GARCIA",
+    "EDGAR FRANCISCO ROMAN RANGEL",
     "XOCHITL CHAVARRIA CRUZ",
     "ANA EUGENIA DIAZ ROSI\u00d1OL",
     "MONICA ZAVALA ESTRADA",
     "TERESITA SOLA TREJO",
     "SILVIA RIOS MAGOS",
-    "JOSE ALBERTO DOMINGO INCERA DIEGUEZ",
-    "MIROSLAVA MENDOZA VIDAL",
-    "JOSE ALEJANDRO JARDI RAMOS"
+    "JOSE ALBERTO DOMINGO INCERA DIEGUEZ"
   ],
   "CONTABILIDAD": [
     "MANUEL TAMEZ ZENDEJAS",
@@ -21022,9 +21090,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
-    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF"
+    "VIRGINIA KALIS LETAYF",
+    "JUAN FERNANDO CALDERON CABELLO"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
@@ -21101,14 +21169,14 @@ let mejoresPorDepto={
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
     "GRACIELA GUADALUPE DEL CARMEN DIAZ ARGOMEDO",
-    "MIGUEL FRANCISCO DE LASCURAIN MORHAN",
     "LUIS EDUARDO URBAN RIVERO",
     "LUIS ANTONIO MONCAYO MARTINEZ",
     "GUILLERMO ABDEL MUSIK ASALI",
     "SERGIO ROMERO HERNANDEZ",
     "ALEJANDRO TERAN SOMOHANO",
     "ALEJANDRO TERAN CASTELLANOS",
-    "BRUNO ALEJANDRO ORSATTI SANCHEZ"
+    "BRUNO ALEJANDRO ORSATTI SANCHEZ",
+    "ANDRES JOSE RODRIGUEZ TORRES"
   ],
   "LENGUAS (LEN)": [
     "MIGUEL ANGEL HERNANDEZ ACOSTA",
