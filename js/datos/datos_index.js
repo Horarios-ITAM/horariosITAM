@@ -1,4 +1,4 @@
-let actualizado="1787065457840.82";
+let actualizado="1787151864927.018";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -199,7 +199,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHPB3",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -1731,7 +1731,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH315",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -1746,7 +1746,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH310",
+        "salon": "RH103",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -13160,7 +13160,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF106",
+        "salon": "RH",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -13727,7 +13727,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-1",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -14152,7 +14152,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-1",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -15065,7 +15065,7 @@ let clases={
       {
         "grupo": "008",
         "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-        "profesor": "",
+        "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
         "creditos": "2",
         "horario": "12:00-13:00",
         "dias": [
@@ -20009,9 +20009,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20119,9 +20119,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20355,8 +20355,8 @@ let misProfesData={
   },
   "ALFONSO PASAPERA MORA": {
     "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
-    "general": 7.6761,
-    "n": 71
+    "general": 7.6667,
+    "n": 72
   },
   "ALBERTO PUPPO": {
     "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
@@ -20820,8 +20820,8 @@ let misProfesData={
   },
   "ANTONIO LOPEZ VEGA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-L\u00f3pez-Vega_186030",
-    "general": 8.5,
-    "n": 2
+    "general": 9.0,
+    "n": 3
   },
   "PAVEL JIMENEZ VAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Pavel-Jimenez_19862",
@@ -21048,6 +21048,11 @@ let misProfesData={
     "general": 10.0,
     "n": 1
   },
+  "FEDERICO AUGUSTO GUZMAN RUBIO": {
+    "link": "https://www.misprofesores.com/profesores/Federico-Guzm\u00e1n-Rubio_81699",
+    "general": 8.9583,
+    "n": 24
+  },
   "LUCIA PI CHOLULA": {
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
     "general": 7.4286,
@@ -21064,9 +21069,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -21102,11 +21107,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
     "general": 8.9592,
     "n": 49
-  },
-  "FEDERICO AUGUSTO GUZMAN RUBIO": {
-    "link": "https://www.misprofesores.com/profesores/Federico-Guzm\u00e1n-Rubio_81699",
-    "general": 8.9583,
-    "n": 24
   },
   "CLAUDIA SOLEDAD SAAVEDRA MENDEZ": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Soledad-Saavedra_130638",

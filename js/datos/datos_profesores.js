@@ -1,4 +1,4 @@
-let actualizado="1787065457858.4404";
+let actualizado="1787151864941.6262";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -464,7 +464,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHPB3",
+          "salon": "RH313",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -2361,7 +2361,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH315",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -2376,7 +2376,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH310",
+          "salon": "RH103",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -3865,9 +3865,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5046,9 +5046,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6942,22 +6942,6 @@ let profesores={
           "inicio": "08:30",
           "fin": "10:00"
         }
-      ],
-      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
-        {
-          "grupo": "008",
-          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
-          "profesor": "",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        }
       ]
     }
   },
@@ -7910,8 +7894,8 @@ let profesores={
   },
   "ALFONSO PASAPERA MORA": {
     "link": "https://www.misprofesores.com/profesores/Alfonso-Pasapera-Mora_16203",
-    "general": 7.6761,
-    "n": 71,
+    "general": 7.6667,
+    "n": 72,
     "grupos": {
       "DER-10026-DERECHO CORPORATIVO": [
         {
@@ -13472,8 +13456,8 @@ let profesores={
   },
   "ANTONIO LOPEZ VEGA": {
     "link": "https://www.misprofesores.com/profesores/Antonio-L\u00f3pez-Vega_186030",
-    "general": 8.5,
-    "n": 2,
+    "general": 9.0,
+    "n": 3,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14128,7 +14112,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "PF106",
+          "salon": "RH",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -14908,7 +14892,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-1",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -14942,7 +14926,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-1",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -16158,6 +16142,78 @@ let profesores={
       ]
     }
   },
+  "FEDERICO AUGUSTO GUZMAN RUBIO": {
+    "link": "https://www.misprofesores.com/profesores/Federico-Guzm\u00e1n-Rubio_81699",
+    "general": 8.9583,
+    "n": 24,
+    "grupos": {
+      "LEN-10132-SEM. DE COMUNICACION ESCRITA": [
+        {
+          "grupo": "008",
+          "nombre": "LEN-10132-SEM. DE COMUNICACION ESCRITA",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "030",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "PF107",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
+        {
+          "grupo": "008",
+          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "12:00-13:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH201",
+          "campus": "RIO HONDO",
+          "inicio": "12:00",
+          "fin": "13:00"
+        }
+      ],
+      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
+        {
+          "grupo": "001",
+          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
+          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
+          "creditos": "2",
+          "horario": "10:00-11:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RH210",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:00"
+        }
+      ]
+    }
+  },
   "LUCIA PI CHOLULA": {
     "link": "https://www.misprofesores.com/profesores/Luc\u00eda-Pi-Cholula_81718",
     "general": 7.4286,
@@ -16308,9 +16364,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16926,62 +16982,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
-        }
-      ]
-    }
-  },
-  "FEDERICO AUGUSTO GUZMAN RUBIO": {
-    "link": "https://www.misprofesores.com/profesores/Federico-Guzm\u00e1n-Rubio_81699",
-    "general": 8.9583,
-    "n": 24,
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "030",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "PF107",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
-        {
-          "grupo": "008",
-          "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "12:00-13:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH201",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "13:00"
-        }
-      ],
-      "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN": [
-        {
-          "grupo": "001",
-          "nombre": "LEN-12717-COMUNIC. ESCRITA PARA DIR. FIN",
-          "profesor": "FEDERICO AUGUSTO GUZMAN RUBIO",
-          "creditos": "2",
-          "horario": "10:00-11:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:00"
         }
       ]
     }
@@ -21090,9 +21090,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
+    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF",
-    "JUAN FERNANDO CALDERON CABELLO"
+    "VIRGINIA KALIS LETAYF"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
@@ -21135,9 +21135,9 @@ let mejoresPorDepto={
     "SILVANO ANTONIO ESPINDOLA PARRA",
     "JAVIER ARTURO VELAZQUEZ GALVAN",
     "FRANCISCO ALEJANDRO GONZALEZ GOMEZ",
+    "ANTONIO LOPEZ VEGA",
     "FERNANDO RODRIGUEZ DOVAL",
     "ARTURO PELAEZ GALVEZ",
-    "ANTONIO LOPEZ VEGA",
     "VICTOR ALBERTO VILLAVICENCIO NAVARRO",
     "ALFREDO GERARDO MARTINEZ OJEDA",
     "ALFREDO VILLAFRANCA QUINTO"
