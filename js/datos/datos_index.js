@@ -1,4 +1,4 @@
-let actualizado="1787151864927.018";
+let actualizado="1787238370616.56";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3770,7 +3770,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF102",
+        "salon": "RHPACE",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -4191,7 +4191,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "COM-16412-HERR. COMP. Y PROD. EMPRESAR.",
-        "profesor": "LETICIA RENTERIA FERRAN",
+        "profesor": "TERESITA SOLA TREJO",
         "creditos": "9",
         "horario": "16:00-18:00",
         "dias": [
@@ -13160,7 +13160,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -15345,7 +15345,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -15390,7 +15390,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH309",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -15420,7 +15420,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -15435,7 +15435,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH211",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -15463,7 +15463,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHASHAK",
+        "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "13:00"
@@ -16100,7 +16100,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RH112",
+        "salon": "RH202",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -16222,7 +16222,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHLI2",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "09:00",
         "fin": "10:00"
@@ -16722,7 +16722,7 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "PF107",
+        "salon": "RH104",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:00"
@@ -19218,7 +19218,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHLI2",
+        "salon": "PF108",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -19698,7 +19698,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH203",
+        "salon": "RHLI2",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:00"
@@ -20009,9 +20009,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20119,9 +20119,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20491,7 +20491,7 @@ let misProfesData={
   "JAVIER LAYNEZ POTISEK": {
     "link": "https://www.misprofesores.com/profesores/Javier-Laynez-Potisek_191534",
     "general": 10.0,
-    "n": 1
+    "n": 2
   },
   "ROSA MARIA ROJAS VERTIZ CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Mar\u00eda-Rojas-V\u00e9rtiz_84442",
@@ -20759,9 +20759,9 @@ let misProfesData={
     "n": 21
   },
   "GABRIELA HERNANDEZ GARCIA": {
-    "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3936,
-    "n": 94
+    "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez-Garc\u00eda_198368",
+    "general": 0.0,
+    "n": 0
   },
   "CECILIA GALAVIZ ALVAREZ": {
     "link": "https://www.misprofesores.com/profesores/Cecilia-Galvis-Alvarez_195898",
@@ -21069,9 +21069,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -21250,8 +21250,8 @@ let misProfesData={
   },
   "ABIMAEL JAVIER BENGOCHEA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
-    "general": 6.1563,
-    "n": 32
+    "general": 6.2121,
+    "n": 33
   },
   "JORGE RIVERA NORIEGA": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Rivera-Noriega_94017",

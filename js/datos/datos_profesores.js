@@ -1,4 +1,4 @@
-let actualizado="1787151864941.6262";
+let actualizado="1787238370625.3054";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3164,7 +3164,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RH112",
+          "salon": "RH202",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -3536,23 +3536,6 @@ let profesores={
           "fin": "14:00"
         }
       ],
-      "COM-16412-HERR. COMP. Y PROD. EMPRESAR.": [
-        {
-          "grupo": "001",
-          "nombre": "COM-16412-HERR. COMP. Y PROD. EMPRESAR.",
-          "profesor": "LETICIA RENTERIA FERRAN",
-          "creditos": "9",
-          "horario": "16:00-18:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC201",
-          "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "18:00"
-        }
-      ],
       "COM-16414-APLIC. TI EN LOS NEGOCIOS": [
         {
           "grupo": "002",
@@ -3865,9 +3848,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4529,7 +4512,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF102",
+          "salon": "RHPACE",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -4733,6 +4716,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
+        }
+      ],
+      "COM-16412-HERR. COMP. Y PROD. EMPRESAR.": [
+        {
+          "grupo": "001",
+          "nombre": "COM-16412-HERR. COMP. Y PROD. EMPRESAR.",
+          "profesor": "TERESITA SOLA TREJO",
+          "creditos": "9",
+          "horario": "16:00-18:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC201",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "18:00"
         }
       ]
     }
@@ -5046,9 +5046,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -9658,7 +9658,7 @@ let profesores={
   "JAVIER LAYNEZ POTISEK": {
     "link": "https://www.misprofesores.com/profesores/Javier-Laynez-Potisek_191534",
     "general": 10.0,
-    "n": 1,
+    "n": 2,
     "grupos": {
       "DER-15704-PROCEDIM. CONSTITUCIONALES": [
         {
@@ -12728,9 +12728,9 @@ let profesores={
     }
   },
   "GABRIELA HERNANDEZ GARCIA": {
-    "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez_15600",
-    "general": 7.3936,
-    "n": 94,
+    "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez-Garc\u00eda_198368",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -14112,7 +14112,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH",
+          "salon": "RH311",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -16364,9 +16364,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -16728,7 +16728,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -16820,7 +16820,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH309",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -16875,7 +16875,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -16928,7 +16928,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH211",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -16978,7 +16978,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHASHAK",
+          "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
@@ -17556,7 +17556,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "RHLI2",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "09:00",
           "fin": "10:00"
@@ -17762,7 +17762,7 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "PF107",
+          "salon": "RH104",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:00"
@@ -19564,8 +19564,8 @@ let profesores={
   },
   "ABIMAEL JAVIER BENGOCHEA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Abimael-Javier-Bengochea-Cruz_91291",
-    "general": 6.1563,
-    "n": 32,
+    "general": 6.2121,
+    "n": 33,
     "grupos": {
       "MAT-12220-CALCULO EN UNA VARIABLE": [
         {
@@ -20594,7 +20594,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH203",
+          "salon": "RHLI2",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:00"
@@ -20647,7 +20647,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHLI2",
+          "salon": "PF108",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -21090,9 +21090,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
-    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF"
+    "VIRGINIA KALIS LETAYF",
+    "JUAN FERNANDO CALDERON CABELLO"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
