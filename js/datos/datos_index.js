@@ -1,4 +1,4 @@
-let actualizado="1787238370616.56";
+let actualizado="1787324703244.1777";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -8866,7 +8866,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-16503-DERECHO MERCANTIL II",
-        "profesor": "SAP SAP CU44517",
+        "profesor": "ANTONIO CASARES CARRILLO",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -8887,7 +8887,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-16602-DERECHO MERCANTIL, II",
-        "profesor": "SAP SAP CU44517",
+        "profesor": "ANTONIO CASARES CARRILLO",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -20065,8 +20065,8 @@ let misProfesData={
   },
   "CARLOS ANTONIO ZOZAYA GOROSTIZA": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Antonio-Zozaya-Gorostiza_194522",
-    "general": 8.0,
-    "n": 1
+    "general": 9.0,
+    "n": 2
   },
   "ANA LIDIA FRANZONI VELAZQUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ana-Lidia-Franzoni-Vel\u00e1zquez_10856",
@@ -20119,9 +20119,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -21069,9 +21069,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",

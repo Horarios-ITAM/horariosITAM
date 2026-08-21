@@ -1,4 +1,4 @@
-let actualizado="1787238370625.3054";
+let actualizado="1787324703255.4868";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -4498,8 +4498,8 @@ let profesores={
   },
   "CARLOS ANTONIO ZOZAYA GOROSTIZA": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Antonio-Zozaya-Gorostiza_194522",
-    "general": 8.0,
-    "n": 1,
+    "general": 9.0,
+    "n": 2,
     "grupos": {
       "COM-16305-GESTION DE DATOS": [
         {
@@ -5046,9 +5046,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -9740,13 +9740,13 @@ let profesores={
       ]
     }
   },
-  "SAP SAP CU44517": {
+  "ANTONIO CASARES CARRILLO": {
     "grupos": {
       "DER-16503-DERECHO MERCANTIL II": [
         {
           "grupo": "001",
           "nombre": "DER-16503-DERECHO MERCANTIL II",
-          "profesor": "SAP SAP CU44517",
+          "profesor": "ANTONIO CASARES CARRILLO",
           "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
@@ -9763,7 +9763,7 @@ let profesores={
         {
           "grupo": "001",
           "nombre": "DER-16602-DERECHO MERCANTIL, II",
-          "profesor": "SAP SAP CU44517",
+          "profesor": "ANTONIO CASARES CARRILLO",
           "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
@@ -16364,9 +16364,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -21080,7 +21080,7 @@ let mejoresPorDepto={
     "MONICA ZAVALA ESTRADA",
     "TERESITA SOLA TREJO",
     "SILVIA RIOS MAGOS",
-    "JOSE ALBERTO DOMINGO INCERA DIEGUEZ"
+    "CARLOS ANTONIO ZOZAYA GOROSTIZA"
   ],
   "CONTABILIDAD": [
     "MANUEL TAMEZ ZENDEJAS",
@@ -21090,9 +21090,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
+    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF",
-    "JUAN FERNANDO CALDERON CABELLO"
+    "VIRGINIA KALIS LETAYF"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
