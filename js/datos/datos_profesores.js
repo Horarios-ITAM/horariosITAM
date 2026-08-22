@@ -1,4 +1,4 @@
-let actualizado="1787324703255.4868";
+let actualizado="1787410163076.873";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3848,9 +3848,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5046,9 +5046,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6315,6 +6315,27 @@ let profesores={
       ]
     }
   },
+  "BENITO REVAH MEYOHAS": {
+    "grupos": {
+      "CON-17100-SEMINAR. DE INVEST. CONTABLE,I": [
+        {
+          "grupo": "003",
+          "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
+          "profesor": "BENITO REVAH MEYOHAS",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "19:00",
+          "fin": "22:00"
+        }
+      ]
+    }
+  },
   "ERIC MAGAR MEURS": {
     "link": "https://www.misprofesores.com/profesores/Eric-Magar-Meurs_10805",
     "general": 8.1481,
@@ -6925,13 +6946,13 @@ let profesores={
       ]
     }
   },
-  "": {
+  "HORACIO ALEJANDRO LARREGUY ARBESU": {
     "grupos": {
       "CSO-15041-ECONOMIA POLITICA, I": [
         {
           "grupo": "001",
           "nombre": "CSO-15041-ECONOMIA POLITICA, I",
-          "profesor": "",
+          "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
@@ -6942,11 +6963,7 @@ let profesores={
           "inicio": "08:30",
           "fin": "10:00"
         }
-      ]
-    }
-  },
-  "HORACIO ALEJANDRO LARREGUY ARBESU": {
-    "grupos": {
+      ],
       "CSO-15043-ECONOMIA POLITICA II": [
         {
           "grupo": "002",
@@ -7188,22 +7205,6 @@ let profesores={
           "inicio": "17:30",
           "fin": "19:00"
         }
-      ],
-      "DER-10113-DERECHO PUBLICO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "LUIS ENRIQUE PEREDA TREJO",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
       ]
     }
   },
@@ -7225,38 +7226,6 @@ let profesores={
           "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ],
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "002",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "MARIANA AGUILAR AGUILAR",
-          "creditos": "9",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHB-3",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
-      ],
-      "DER-10113-DERECHO PUBLICO": [
-        {
-          "grupo": "002",
-          "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "MARIANA AGUILAR AGUILAR",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
           "fin": "10:00"
         }
       ]
@@ -7299,6 +7268,22 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
+        }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
+          "creditos": "9",
+          "horario": "17:30-19:00",
+          "dias": [
+            "LU"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "17:30",
+          "fin": "19:00"
         }
       ],
       "DER-18600-DERECHO INTERNACIONAL I": [
@@ -7933,6 +7918,60 @@ let profesores={
       ]
     }
   },
+  "JOYCE CAROL  SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.9231,
+    "n": 52,
+    "grupos": {
+      "DER-10113-DERECHO PUBLICO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10113-DERECHO PUBLICO",
+          "profesor": "JOYCE CAROL  SADKA",
+          "creditos": "9",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "002",
+          "nombre": "DER-10113-DERECHO PUBLICO",
+          "profesor": "JOYCE CAROL  SADKA",
+          "creditos": "9",
+          "horario": "08:30-10:00",
+          "dias": [
+            "JU"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "ECO-14208-ANAL. ECON. DEL DER. II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
+          "profesor": "JOYCE CAROL  SADKA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "JOSE LUIS HERNANDEZ SANCHEZ": {
     "grupos": {
       "DER-10114-SEM LEG Y ETICA EN CIENC DATOS": [
@@ -7949,162 +7988,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
-        }
-      ]
-    }
-  },
-  "ALBERTO PUPPO": {
-    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
-    "general": 8.2564,
-    "n": 39,
-    "grupos": {
-      "DER-11101-TEORIA DEL DERECHO, I": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-          "profesor": "ALBERTO PUPPO",
-          "creditos": "10",
-          "horario": "19:30-20:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "19:30",
-          "fin": "20:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-          "profesor": "ALBERTO PUPPO",
-          "creditos": "10",
-          "horario": "19:30-20:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "19:30",
-          "fin": "20:00"
-        }
-      ],
-      "DER-11122-TEOR\u00cdA DEL DERECHO I": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-          "profesor": "ALBERTO PUPPO",
-          "creditos": "9",
-          "horario": "12:30-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
-        },
-        {
-          "grupo": "003",
-          "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-          "profesor": "ALBERTO PUPPO",
-          "creditos": "9",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH315",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ]
-    }
-  },
-  "PABLO ARIEL RAPETTI": {
-    "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.1818,
-    "n": 22,
-    "grupos": {
-      "DER-11101-TEORIA DEL DERECHO, I": [
-        {
-          "grupo": "002",
-          "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-          "profesor": "PABLO ARIEL RAPETTI",
-          "creditos": "10",
-          "horario": "19:30-20:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "PF102",
-          "campus": "RIO HONDO",
-          "inicio": "19:30",
-          "fin": "20:00"
-        },
-        {
-          "grupo": "004",
-          "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-          "profesor": "PABLO ARIEL RAPETTI",
-          "creditos": "10",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-3",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "DER-11122-TEOR\u00cdA DEL DERECHO I": [
-        {
-          "grupo": "002",
-          "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-          "profesor": "PABLO ARIEL RAPETTI",
-          "creditos": "9",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH315",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        },
-        {
-          "grupo": "004",
-          "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
-          "profesor": "PABLO ARIEL RAPETTI",
-          "creditos": "9",
-          "horario": "12:30-14:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "12:30",
-          "fin": "14:00"
-        }
-      ],
-      "DER-11206-TEOR\u00cdA DEL DERECHO II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11206-TEOR\u00cdA DEL DERECHO II",
-          "profesor": "PABLO ARIEL RAPETTI",
-          "creditos": "6",
-          "horario": "10:00-11:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-3",
-          "campus": "RIO HONDO",
-          "inicio": "10:00",
-          "fin": "11:30"
         }
       ]
     }
@@ -8554,22 +8437,6 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RH313",
-          "campus": "RIO HONDO",
-          "inicio": "12:00",
-          "fin": "14:00"
-        }
-      ],
-      "DER-11124-CONCURSOS INTERNACIONALES II": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11124-CONCURSOS INTERNACIONALES II",
-          "profesor": "HANNAH BIRKENKOTTER",
-          "creditos": "4",
-          "horario": "12:00-14:00",
-          "dias": [
-            "VI"
-          ],
           "salon": "RHCUBIC",
           "campus": "RIO HONDO",
           "inicio": "12:00",
@@ -8734,6 +8601,101 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "12:00",
           "fin": "14:00"
+        }
+      ]
+    }
+  },
+  "ALBERTO PUPPO": {
+    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
+    "general": 8.2564,
+    "n": 39,
+    "grupos": {
+      "DER-11122-TEOR\u00cdA DEL DERECHO I": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
+          "profesor": "ALBERTO PUPPO",
+          "creditos": "9",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
+        },
+        {
+          "grupo": "003",
+          "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
+          "profesor": "ALBERTO PUPPO",
+          "creditos": "9",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH315",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        }
+      ]
+    }
+  },
+  "PABLO ARIEL RAPETTI": {
+    "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
+    "general": 8.1818,
+    "n": 22,
+    "grupos": {
+      "DER-11122-TEOR\u00cdA DEL DERECHO I": [
+        {
+          "grupo": "002",
+          "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
+          "profesor": "PABLO ARIEL RAPETTI",
+          "creditos": "9",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH315",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
+        },
+        {
+          "grupo": "004",
+          "nombre": "DER-11122-TEOR\u00cdA DEL DERECHO I",
+          "profesor": "PABLO ARIEL RAPETTI",
+          "creditos": "9",
+          "horario": "12:30-14:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "12:30",
+          "fin": "14:00"
+        }
+      ],
+      "DER-11206-TEOR\u00cdA DEL DERECHO II": [
+        {
+          "grupo": "001",
+          "nombre": "DER-11206-TEOR\u00cdA DEL DERECHO II",
+          "profesor": "PABLO ARIEL RAPETTI",
+          "creditos": "6",
+          "horario": "10:00-11:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ]
     }
@@ -9299,10 +9261,10 @@ let profesores={
   },
   "FRANCISCO VILLAGRAN BALLESTEROS": {
     "grupos": {
-      "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR": [
+      "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB": [
         {
-          "grupo": "002",
-          "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR",
+          "grupo": "002L",
+          "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
           "profesor": "FRANCISCO VILLAGRAN BALLESTEROS",
           "creditos": "2",
           "horario": "19:30-21:30",
@@ -12265,30 +12227,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
-        }
-      ]
-    }
-  },
-  "JOYCE CAROL  SADKA": {
-    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
-    "general": 5.9231,
-    "n": 52,
-    "grupos": {
-      "ECO-14208-ANAL. ECON. DEL DER. II": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
-          "profesor": "JOYCE CAROL  SADKA",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -21090,9 +21028,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
-    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF"
+    "VIRGINIA KALIS LETAYF",
+    "JUAN FERNANDO CALDERON CABELLO"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",

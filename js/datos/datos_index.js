@@ -1,4 +1,4 @@
-let actualizado="1787324703244.1777";
+let actualizado="1787410163066.5964";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -5682,6 +5682,27 @@ let clases={
       }
     ]
   },
+  "CON-17100": {
+    "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
+    "clave": "CON-17100",
+    "grupos": [
+      {
+        "grupo": "003",
+        "nombre": "CON-17100-SEMINAR. DE INVEST. CONTABLE,I",
+        "profesor": "BENITO REVAH MEYOHAS",
+        "creditos": "6",
+        "horario": "19:00-22:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "",
+        "campus": "",
+        "inicio": "19:00",
+        "fin": "22:00"
+      }
+    ]
+  },
   "CON-17102": {
     "nombre": "CON-17102-TRAYECTORIAS EN CONTADURIA",
     "clave": "CON-17102",
@@ -6314,7 +6335,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CSO-15041-ECONOMIA POLITICA, I",
-        "profesor": "",
+        "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
@@ -6692,7 +6713,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "MARIANA AGUILAR AGUILAR",
+        "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
         "creditos": "9",
         "horario": "17:30-19:00",
         "dias": [
@@ -7013,7 +7034,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "LUIS ENRIQUE PEREDA TREJO",
+        "profesor": "JOYCE CAROL  SADKA",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -7027,7 +7048,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "MARIANA AGUILAR AGUILAR",
+        "profesor": "JOYCE CAROL  SADKA",
         "creditos": "9",
         "horario": "08:30-10:00",
         "dias": [
@@ -7057,69 +7078,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
-      }
-    ]
-  },
-  "DER-11101": {
-    "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-    "clave": "DER-11101",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "ALBERTO PUPPO",
-        "creditos": "10",
-        "horario": "19:30-20:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "19:30",
-        "fin": "20:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "PABLO ARIEL RAPETTI",
-        "creditos": "10",
-        "horario": "19:30-20:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "19:30",
-        "fin": "20:00"
-      },
-      {
-        "grupo": "003",
-        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "ALBERTO PUPPO",
-        "creditos": "10",
-        "horario": "19:30-20:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "PF102",
-        "campus": "RIO HONDO",
-        "inicio": "19:30",
-        "fin": "20:00"
-      },
-      {
-        "grupo": "004",
-        "nombre": "DER-11101-TEORIA DEL DERECHO, I",
-        "profesor": "PABLO ARIEL RAPETTI",
-        "creditos": "10",
-        "horario": "08:30-10:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RHB-3",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
       }
     ]
   },
@@ -7607,7 +7565,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RH313",
+        "salon": "RHCUBIC",
         "campus": "RIO HONDO",
         "inicio": "12:00",
         "fin": "14:00"
@@ -7618,26 +7576,6 @@ let clases={
     "nombre": "DER-11123-CONCURSOS INTERNAC. (CLINICA)",
     "clave": "DER-11123",
     "grupos": []
-  },
-  "DER-11124": {
-    "nombre": "DER-11124-CONCURSOS INTERNACIONALES II",
-    "clave": "DER-11124",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "DER-11124-CONCURSOS INTERNACIONALES II",
-        "profesor": "HANNAH BIRKENKOTTER",
-        "creditos": "4",
-        "horario": "12:00-14:00",
-        "dias": [
-          "VI"
-        ],
-        "salon": "RHCUBIC",
-        "campus": "RIO HONDO",
-        "inicio": "12:00",
-        "fin": "14:00"
-      }
-    ]
   },
   "DER-11202": {
     "nombre": "DER-11202-TEORIA DEL DERECHO II",
@@ -8292,13 +8230,13 @@ let clases={
     "clave": "DER-13614",
     "grupos": []
   },
-  "DER-13615": {
-    "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR",
+  "DER-13615-LAB": {
+    "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
     "clave": "DER-13615",
     "grupos": [
       {
-        "grupo": "002",
-        "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR",
+        "grupo": "002L",
+        "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
         "profesor": "FRANCISCO VILLAGRAN BALLESTEROS",
         "creditos": "2",
         "horario": "19:30-21:30",
@@ -8311,6 +8249,11 @@ let clases={
         "fin": "21:30"
       }
     ]
+  },
+  "DER-13615": {
+    "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR",
+    "clave": "DER-13615",
+    "grupos": []
   },
   "DER-14402": {
     "nombre": "DER-14402-TEORIAS DEL DELITO",
@@ -20009,9 +19952,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20119,9 +20062,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20358,15 +20301,10 @@ let misProfesData={
     "general": 7.6667,
     "n": 72
   },
-  "ALBERTO PUPPO": {
-    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
-    "general": 8.2564,
-    "n": 39
-  },
-  "PABLO ARIEL RAPETTI": {
-    "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
-    "general": 8.1818,
-    "n": 22
+  "JOYCE CAROL  SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.9231,
+    "n": 52
   },
   "ROBERTO NIEMBRO ORTEGA": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Niembro-Ortega_104385",
@@ -20397,6 +20335,16 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Ana-Mar\u00eda-Zorrilla-Noriega_129385",
     "general": 10.0,
     "n": 3
+  },
+  "ALBERTO PUPPO": {
+    "link": "https://www.misprofesores.com/profesores/alberto-puppo_55275",
+    "general": 8.2564,
+    "n": 39
+  },
+  "PABLO ARIEL RAPETTI": {
+    "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
+    "general": 8.1818,
+    "n": 22
   },
   "RODOLFO DARIO VAZQUEZ CARDOZO": {
     "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
@@ -20702,11 +20650,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
     "general": 7.8519,
     "n": 27
-  },
-  "JOYCE CAROL  SADKA": {
-    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
-    "general": 5.9231,
-    "n": 52
   },
   "SHAUN DAVID MCRAE": {
     "link": "https://www.misprofesores.com/profesores/Shaun-McRae_129454",
