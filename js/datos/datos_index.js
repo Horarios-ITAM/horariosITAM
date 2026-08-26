@@ -1,4 +1,4 @@
-let actualizado="1787671003371.2517";
+let actualizado="1787760132027.2268";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3210,8 +3210,8 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
       }
@@ -4823,7 +4823,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHB-5",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -7616,7 +7616,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-3",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -7766,7 +7766,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF108",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "19:00"
@@ -7787,7 +7787,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH307",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -7838,7 +7838,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH307",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -8000,7 +8000,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -8078,7 +8078,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-4",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -8891,7 +8891,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "20:00",
         "fin": "22:00"
@@ -13373,7 +13373,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-2",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -19120,7 +19120,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH205",
+        "salon": "PF108",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:30"
@@ -19161,7 +19161,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "PF108",
+        "salon": "RH304",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -19668,6 +19668,27 @@ let clases={
         "fin": "14:00"
       }
     ]
+  },
+  "SDI-25916": {
+    "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+    "clave": "SDI-25916",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "SDI-25916-SISTEMAS EMPRESARIALES",
+        "profesor": "JUAN FERNANDO CALDERON CABELLO",
+        "creditos": "6",
+        "horario": "07:00-08:30",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RHLMINT",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
+        "fin": "08:30"
+      }
+    ]
   }
 };
 let misProfesData={
@@ -20062,9 +20083,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -21143,8 +21164,8 @@ let misProfesData={
   },
   "RAYBEL ANDRES GARCIA ANCONA": {
     "link": "https://www.misprofesores.com/profesores/Raybel-Garc\u00eda-Ancona_103192",
-    "general": 6.875,
-    "n": 24
+    "general": 6.8,
+    "n": 25
   },
   "MAIRA MADRIZ MENDOZA": {
     "link": "https://www.misprofesores.com/profesores/Maira-Madriz-Mendoza_67451",
