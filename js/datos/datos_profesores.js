@@ -1,4 +1,4 @@
-let actualizado="1787874931232.2883";
+let actualizado="1787960461016.1348";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3848,9 +3848,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -7691,8 +7691,8 @@ let profesores={
   },
   "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
-    "general": 9.5,
-    "n": 4,
+    "general": 8.0,
+    "n": 5,
     "grupos": {
       "DER-10015-DERECHO EMPRESARIAL": [
         {
@@ -8001,7 +8001,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH306",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "12:00"
@@ -8767,30 +8767,6 @@ let profesores={
       ]
     }
   },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31,
-    "grupos": {
-      "DER-11805-FILOSOFIA DEL DERECHO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH314",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
   "JULIO ANTONIO RIOS FIGUEROA": {
     "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
     "general": 9.0,
@@ -8864,7 +8840,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHB-1",
+          "salon": "RH102",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -9485,7 +9461,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH207",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -9502,7 +9478,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH207",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -9982,7 +9958,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH305",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -9999,7 +9975,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH305",
+          "salon": "RH303",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -11436,7 +11412,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RHSA2",
+          "salon": "PF106",
           "campus": "RIO HONDO",
           "inicio": "11:00",
           "fin": "13:00"
@@ -14847,7 +14823,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-5",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -14881,7 +14857,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-5",
+          "salon": "RHB-1",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -16319,9 +16295,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {

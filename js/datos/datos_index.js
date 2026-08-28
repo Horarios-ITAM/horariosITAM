@@ -1,4 +1,4 @@
-let actualizado="1787874931217.7483";
+let actualizado="1787960461001.8806";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -7074,7 +7074,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "RHSA2",
+        "salon": "RH306",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "12:00"
@@ -7711,27 +7711,6 @@ let clases={
       }
     ]
   },
-  "DER-11805": {
-    "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-    "clave": "DER-11805",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "DER-11805-FILOSOFIA DEL DERECHO",
-        "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
-        "creditos": "6",
-        "horario": "08:30-10:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH314",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
-      }
-    ]
-  },
   "DER-11907": {
     "nombre": "DER-11907-TECNICAS DE ARGUM. JURID.",
     "clave": "DER-11907",
@@ -7802,7 +7781,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHB-1",
+        "salon": "RH102",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -8559,7 +8538,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH207",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -8580,7 +8559,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH207",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -9045,7 +9024,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH305",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -9066,7 +9045,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH305",
+        "salon": "RH303",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -11169,7 +11148,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RHSA2",
+        "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "11:00",
         "fin": "13:00"
@@ -13670,7 +13649,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-5",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -14095,7 +14074,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-5",
+        "salon": "RHB-1",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -19973,9 +19952,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20294,8 +20273,8 @@ let misProfesData={
   },
   "MARIA CRISTINA GARCIA BARRAGAN DE LA PE\u00d1A": {
     "link": "https://www.misprofesores.com/profesores/Mar\u00eda-Cristina-Garc\u00eda-Barrag\u00e1n-De-La-Pe\u00f1a_129390",
-    "general": 9.5,
-    "n": 4
+    "general": 8.0,
+    "n": 5
   },
   "RICARDO PEDROZA RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Ricardo-Pedroza-Rodriguez_190394",
@@ -20366,11 +20345,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Pablo-Ariel-Rapetti_86855",
     "general": 8.1818,
     "n": 22
-  },
-  "RODOLFO DARIO VAZQUEZ CARDOZO": {
-    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
-    "general": 8.6774,
-    "n": 31
   },
   "JULIO ANTONIO RIOS FIGUEROA": {
     "link": "https://www.misprofesores.com/profesores/Julio-Antonio-R\u00edos-Figueroa_138047",
@@ -21033,9 +21007,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
