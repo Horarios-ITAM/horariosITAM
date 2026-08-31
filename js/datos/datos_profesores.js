@@ -1,4 +1,4 @@
-let actualizado="1788025845745.7659";
+let actualizado="1788207540882.9019";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3873,8 +3873,8 @@ let profesores={
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
-    "general": 8.9375,
-    "n": 16,
+    "general": 8.7059,
+    "n": 17,
     "grupos": {
       "COM-12104-VISUALIZACION DE INFORMACION": [
         {
@@ -5046,9 +5046,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -14466,9 +14466,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 8.0,
-    "n": 3,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -14939,8 +14939,8 @@ let profesores={
   },
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
-    "general": 8.0,
-    "n": 4,
+    "general": 8.2,
+    "n": 5,
     "grupos": {
       "EST-14101-CALCULO DE PROBABILIDADES.,I": [
         {
@@ -21021,9 +21021,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
+    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF",
-    "JUAN FERNANDO CALDERON CABELLO"
+    "VIRGINIA KALIS LETAYF"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
@@ -21090,12 +21090,12 @@ let mejoresPorDepto={
     "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
-    "MARTIN MAGRIS",
     "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "JOSE EZEQUIEL SOTO SANCHEZ",
     "ERICK MIER MORENO",
-    "ENRIQUE CUERVO GUZMAN"
+    "ENRIQUE CUERVO GUZMAN",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",

@@ -1,4 +1,4 @@
-let actualizado="1788025845732.6902";
+let actualizado="1788207540869.546";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19958,8 +19958,8 @@ let misProfesData={
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
-    "general": 8.9375,
-    "n": 16
+    "general": 8.7059,
+    "n": 17
   },
   "XOCHITL CHAVARRIA CRUZ": {
     "link": "https://www.misprofesores.com/profesores/Xochitl-Chavarr\u00eda-Cruz_60481",
@@ -20062,9 +20062,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20862,9 +20862,9 @@ let misProfesData={
     "n": 28
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 8.0,
-    "n": 3
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -20903,8 +20903,8 @@ let misProfesData={
   },
   "SIMON LUNAGOMEZ CORIA": {
     "link": "https://www.misprofesores.com/profesores/Sim\u00f3n-Lunag\u00f3mez-Coria_153767",
-    "general": 8.0,
-    "n": 4
+    "general": 8.2,
+    "n": 5
   },
   "LUIS ENRIQUE NIETO BARAJAS": {
     "link": "https://www.misprofesores.com/profesores/Luis-Enrique-Nieto-Barajas_10685",
