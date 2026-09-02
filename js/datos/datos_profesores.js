@@ -1,4 +1,4 @@
-let actualizado="1788207540882.9019";
+let actualizado="1788372187886.807";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3713,79 +3713,6 @@ let profesores={
       ]
     }
   },
-  "ANA EUGENIA DIAZ ROSI\u00d1OL": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Diaz-Rosinol_21532",
-    "general": 9.4783,
-    "n": 46,
-    "grupos": {
-      "COM-11500-CIENCIA DE DATOS PRACTICA": [
-        {
-          "grupo": "001",
-          "nombre": "COM-11500-CIENCIA DE DATOS PRACTICA",
-          "profesor": "ANA EUGENIA DIAZ ROSI\u00d1OL",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH210",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
-        {
-          "grupo": "001",
-          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
-          "profesor": "ANA EUGENIA DIAZ ROSI\u00d1OL",
-          "creditos": "7",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC102",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "COM-16306-RAZONAMIENTO ALGORITMICO": [
-        {
-          "grupo": "002",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "ANA EUGENIA DIAZ ROSI\u00d1OL",
-          "creditos": "6",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC102",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        },
-        {
-          "grupo": "012",
-          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
-          "profesor": "ANA EUGENIA DIAZ ROSI\u00d1OL",
-          "creditos": "6",
-          "horario": "13:00-14:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHCC201",
-          "campus": "RIO HONDO",
-          "inicio": "13:00",
-          "fin": "14:30"
-        }
-      ]
-    }
-  },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
     "general": 7.9655,
@@ -3848,9 +3775,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4331,6 +4258,62 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "ANA EUGENIA DIAZ ROSI\u00d1OL": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Diaz-Rosinol_21532",
+    "general": 9.4783,
+    "n": 46,
+    "grupos": {
+      "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.": [
+        {
+          "grupo": "001",
+          "nombre": "COM-16301-HERRAMIENTAS COMPU. Y ALGORIT.",
+          "profesor": "ANA EUGENIA DIAZ ROSI\u00d1OL",
+          "creditos": "7",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC102",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        }
+      ],
+      "COM-16306-RAZONAMIENTO ALGORITMICO": [
+        {
+          "grupo": "002",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "ANA EUGENIA DIAZ ROSI\u00d1OL",
+          "creditos": "6",
+          "horario": "08:30-10:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC102",
+          "campus": "RIO HONDO",
+          "inicio": "08:30",
+          "fin": "10:00"
+        },
+        {
+          "grupo": "012",
+          "nombre": "COM-16306-RAZONAMIENTO ALGORITMICO",
+          "profesor": "ANA EUGENIA DIAZ ROSI\u00d1OL",
+          "creditos": "6",
+          "horario": "13:00-14:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHCC201",
+          "campus": "RIO HONDO",
+          "inicio": "13:00",
+          "fin": "14:30"
         }
       ]
     }
@@ -5046,9 +5029,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -7555,8 +7538,8 @@ let profesores={
   },
   "ROXANA PEREZ ARCE VALLE": {
     "link": "https://www.misprofesores.com/profesores/Roxana-Perez-Arce-Valle_80746",
-    "general": 7.6,
-    "n": 5,
+    "general": 6.6667,
+    "n": 6,
     "grupos": {
       "DER-10015-DERECHO EMPRESARIAL": [
         {
@@ -14067,7 +14050,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH303",
+          "salon": "RH205",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
@@ -14230,7 +14213,7 @@ let profesores={
           "dias": [
             "MA"
           ],
-          "salon": "PF106",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "19:00"
@@ -14466,9 +14449,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 8.0,
+    "n": 3,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -16295,9 +16278,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -17009,8 +16992,8 @@ let profesores={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.0,
-    "n": 25,
+    "general": 7.7692,
+    "n": 26,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -18164,6 +18147,9 @@ let profesores={
     }
   },
   "SOFIA ROSE MARTINEZ ALBERGA": {
+    "link": "https://www.misprofesores.com/profesores/Sofia-Rose-Martinez-Alberga_198857",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "MAT-11101-MATEMATICAS, II": [
         {
@@ -21021,9 +21007,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
-    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF"
+    "VIRGINIA KALIS LETAYF",
+    "JUAN FERNANDO CALDERON CABELLO"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
@@ -21091,11 +21077,11 @@ let mejoresPorDepto={
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
     "SIMON LUNAGOMEZ CORIA",
+    "MARTIN MAGRIS",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "JOSE EZEQUIEL SOTO SANCHEZ",
     "ERICK MIER MORENO",
-    "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",

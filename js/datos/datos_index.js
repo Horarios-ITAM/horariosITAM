@@ -1,4 +1,4 @@
-let actualizado="1788207540869.546";
+let actualizado="1788372187873.1746";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3285,27 +3285,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
-      }
-    ]
-  },
-  "COM-11500": {
-    "nombre": "COM-11500-CIENCIA DE DATOS PRACTICA",
-    "clave": "COM-11500",
-    "grupos": [
-      {
-        "grupo": "001",
-        "nombre": "COM-11500-CIENCIA DE DATOS PRACTICA",
-        "profesor": "ANA EUGENIA DIAZ ROSI\u00d1OL",
-        "creditos": "6",
-        "horario": "11:30-13:00",
-        "dias": [
-          "MA",
-          "JU"
-        ],
-        "salon": "RH210",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
       }
     ]
   },
@@ -12956,7 +12935,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH303",
+        "salon": "RH205",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -13178,7 +13157,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "PF106",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -19941,20 +19920,15 @@ let misProfesData={
     "general": 0.0,
     "n": 0
   },
-  "ANA EUGENIA DIAZ ROSI\u00d1OL": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Diaz-Rosinol_21532",
-    "general": 9.4783,
-    "n": 46
-  },
   "ALEJANDRA FLORES MOSRI": {
     "link": "https://www.misprofesores.com/profesores/Alejandra-Flores-Mosri_20881",
     "general": 7.9655,
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -19990,6 +19964,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Jose-Octavio-Gutierrez-Garcia_129405",
     "general": 10.0,
     "n": 5
+  },
+  "ANA EUGENIA DIAZ ROSI\u00d1OL": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Diaz-Rosinol_21532",
+    "general": 9.4783,
+    "n": 46
   },
   "JOSE ALEJANDRO JARDI RAMOS": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Jardi-Ramos_22859",
@@ -20062,9 +20041,9 @@ let misProfesData={
     "n": 31
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20258,8 +20237,8 @@ let misProfesData={
   },
   "ROXANA PEREZ ARCE VALLE": {
     "link": "https://www.misprofesores.com/profesores/Roxana-Perez-Arce-Valle_80746",
-    "general": 7.6,
-    "n": 5
+    "general": 6.6667,
+    "n": 6
   },
   "INES VARGAS CHRISTLIEB": {
     "link": "https://www.misprofesores.com/profesores/INES-VARGAS-CHRISTLIEB_99471",
@@ -20862,9 +20841,9 @@ let misProfesData={
     "n": 28
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 8.0,
+    "n": 3
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -21007,9 +20986,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -21053,8 +21032,8 @@ let misProfesData={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 8.0,
-    "n": 25
+    "general": 7.7692,
+    "n": 26
   },
   "ROSA MARGARITA GALAN VELEZ": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
@@ -21115,6 +21094,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Herica-Sanchez-Larios_40771",
     "general": 7.5517,
     "n": 29
+  },
+  "SOFIA ROSE MARTINEZ ALBERGA": {
+    "link": "https://www.misprofesores.com/profesores/Sofia-Rose-Martinez-Alberga_198857",
+    "general": 0.0,
+    "n": 0
   },
   "LEOBARDO FERNANDEZ ROMAN": {
     "link": "https://www.misprofesores.com/profesores/Leobardo-Fernandez-Roman_20811",
