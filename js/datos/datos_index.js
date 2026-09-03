@@ -1,4 +1,4 @@
-let actualizado="1788372187873.1746";
+let actualizado="1788458447450.2764";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -472,7 +472,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-11013-ADMON. INTERNACIONAL",
-        "profesor": "MARIA TERESA DOS SANTOS FREITAS",
+        "profesor": "MARIA TERESA FREITAS DOS SANTOS",
         "creditos": "6",
         "horario": "10:00-13:00",
         "dias": [
@@ -4630,7 +4630,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH313",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "17:00",
         "fin": "19:00"
@@ -19772,8 +19772,8 @@ let misProfesData={
   },
   "MARIA DE LA CRUZ TORRES MANTECON": {
     "link": "https://www.misprofesores.com/profesores/Marycruz-Torres-Mantecon_20290",
-    "general": 7.3171,
-    "n": 41
+    "general": 7.381,
+    "n": 42
   },
   "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA": {
     "link": "https://www.misprofesores.com/profesores/Luis-Mart\u00edn-Arciniega-Ruiz-de-Esparza_10724",
@@ -19926,9 +19926,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20986,9 +20986,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",

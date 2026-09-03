@@ -1,4 +1,4 @@
-let actualizado="1788372187886.807";
+let actualizado="1788458447467.7373";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -703,13 +703,13 @@ let profesores={
       ]
     }
   },
-  "MARIA TERESA DOS SANTOS FREITAS": {
+  "MARIA TERESA FREITAS DOS SANTOS": {
     "grupos": {
       "ADM-11013-ADMON. INTERNACIONAL": [
         {
           "grupo": "001",
           "nombre": "ADM-11013-ADMON. INTERNACIONAL",
-          "profesor": "MARIA TERESA DOS SANTOS FREITAS",
+          "profesor": "MARIA TERESA FREITAS DOS SANTOS",
           "creditos": "6",
           "horario": "10:00-13:00",
           "dias": [
@@ -1646,8 +1646,8 @@ let profesores={
   },
   "MARIA DE LA CRUZ TORRES MANTECON": {
     "link": "https://www.misprofesores.com/profesores/Marycruz-Torres-Mantecon_20290",
-    "general": 7.3171,
-    "n": 41,
+    "general": 7.381,
+    "n": 42,
     "grupos": {
       "ADM-14401-COMPORTAMIENTO HUMANO, I": [
         {
@@ -3775,9 +3775,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5236,7 +5236,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH313",
+          "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "17:00",
           "fin": "19:00"
@@ -16278,9 +16278,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
