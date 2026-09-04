@@ -1,4 +1,4 @@
-let actualizado="1788458447467.7373";
+let actualizado="1788543976169.573";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -474,8 +474,8 @@ let profesores={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.6889,
-    "n": 45,
+    "general": 8.7174,
+    "n": 46,
     "grupos": {
       "ACT-22306-MATEMATICAS FINANCIERAS II": [
         {

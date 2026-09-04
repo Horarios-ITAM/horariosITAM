@@ -1,4 +1,4 @@
-let actualizado="1788458447450.2764";
+let actualizado="1788543976150.202";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19697,8 +19697,8 @@ let misProfesData={
   },
   "MIGUEL ANGEL AVILA DEL BOSQUE": {
     "link": "https://www.misprofesores.com/profesores/Miguel-Angel-Avila-Del-Bosque_83851",
-    "general": 8.6889,
-    "n": 45
+    "general": 8.7174,
+    "n": 46
   },
   "GERARDO HERNANDEZ DEL VALLE": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Hern\u00e1ndez-Del-Valle_118747",
