@@ -1,4 +1,4 @@
-let actualizado="1788543976150.202";
+let actualizado="1788714946007.4595";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -2372,7 +2372,7 @@ let clases={
         "dias": [
           "LU"
         ],
-        "salon": "PF103",
+        "salon": "PF102",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "22:00"
@@ -6494,6 +6494,27 @@ let clases={
       {
         "grupo": "001",
         "nombre": "CSO-19081-SEMINARIO DE INV. POLITICA  A",
+        "profesor": "ADRIAN LUCARDI",
+        "creditos": "9",
+        "horario": "17:30-19:00",
+        "dias": [
+          "MA",
+          "JU"
+        ],
+        "salon": "RH309",
+        "campus": "RIO HONDO",
+        "inicio": "17:30",
+        "fin": "19:00"
+      }
+    ]
+  },
+  "CSO-19086": {
+    "nombre": "CSO-19086-SEMINARIO DE INV. POLITICA F",
+    "clave": "CSO-19086",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "CSO-19086-SEMINARIO DE INV. POLITICA F",
         "profesor": "ADRIAN LUCARDI",
         "creditos": "9",
         "horario": "17:30-19:00",
@@ -16237,7 +16258,7 @@ let clases={
         "dias": [
           "MI"
         ],
-        "salon": "PF102",
+        "salon": "RH110",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "19:00"
@@ -19926,9 +19947,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
