@@ -1,4 +1,4 @@
-let actualizado="1788714946018.1543";
+let actualizado="1788807140528.7986";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3775,9 +3775,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -7444,7 +7444,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -7461,7 +7461,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-3",
+          "salon": "RH212",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -8154,7 +8154,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHSA2",
+          "salon": "RH310",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -8294,6 +8294,21 @@ let profesores={
         }
       ],
       "DER-14505-DELITOS": [
+        {
+          "grupo": "001",
+          "nombre": "DER-14505-DELITOS",
+          "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RHB-3",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        },
         {
           "grupo": "002",
           "nombre": "DER-14505-DELITOS",
@@ -8840,7 +8855,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH102",
+          "salon": "RH313",
           "campus": "RIO HONDO",
           "inicio": "13:00",
           "fin": "14:30"
@@ -9320,27 +9335,6 @@ let profesores={
       ]
     }
   },
-  "LUCIA ISABEL MOTA CASILLAS": {
-    "grupos": {
-      "DER-14505-DELITOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-14505-DELITOS",
-          "profesor": "LUCIA ISABEL MOTA CASILLAS",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RHB-3",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
-        }
-      ]
-    }
-  },
   "SONIA LILIA RODRIGUEZ ZETINA": {
     "grupos": {
       "DER-14606-DERECHO PROCESAL PENAL": [
@@ -9354,7 +9348,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH111",
+          "salon": "RH207",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -9855,7 +9849,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH313",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "08:30"
@@ -9920,7 +9914,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH310",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
@@ -9937,7 +9931,7 @@ let profesores={
             "MA",
             "JU"
           ],
-          "salon": "RH310",
+          "salon": "RH107",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"

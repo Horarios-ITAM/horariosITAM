@@ -1,4 +1,4 @@
-let actualizado="1788714946007.4595";
+let actualizado="1788807140512.545";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -6635,7 +6635,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -7165,7 +7165,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHSA2",
+        "salon": "RH310",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -7781,7 +7781,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH102",
+        "salon": "RH313",
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
@@ -8277,7 +8277,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-14505-DELITOS",
-        "profesor": "LUCIA ISABEL MOTA CASILLAS",
+        "profesor": "MARIA GUADALUPE ADRIANA ORTEGA ORTIZ",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -8325,7 +8325,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH111",
+        "salon": "RH207",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -8967,7 +8967,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH313",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -9003,7 +9003,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH310",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "21:00"
@@ -9081,7 +9081,7 @@ let clases={
           "MA",
           "JU"
         ],
-        "salon": "RH310",
+        "salon": "RH107",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -9261,7 +9261,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-3",
+        "salon": "RH212",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "08:30"
@@ -19947,9 +19947,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
