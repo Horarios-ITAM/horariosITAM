@@ -1,4 +1,4 @@
-let actualizado="1788976683243.2388";
+let actualizado="1789062589533.6143";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3775,9 +3775,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -10245,6 +10245,23 @@ let profesores={
           "inicio": "18:00",
           "fin": "19:30"
         }
+      ],
+      "ECO-21112-EQUILIBRIO GENERAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-21112-EQUILIBRIO GENERAL",
+          "profesor": "ANDREY  GOMBERG",
+          "creditos": "6",
+          "horario": "18:00-19:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH108",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "19:30"
+        }
       ]
     }
   },
@@ -14461,8 +14478,8 @@ let profesores={
   },
   "MARTIN MAGRIS": {
     "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 8.0,
-    "n": 3,
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -21087,8 +21104,8 @@ let mejoresPorDepto={
     "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
-    "SIMON LUNAGOMEZ CORIA",
     "MARTIN MAGRIS",
+    "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "JOSE EZEQUIEL SOTO SANCHEZ",
     "ERICK MIER MORENO",

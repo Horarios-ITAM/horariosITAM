@@ -1,4 +1,4 @@
-let actualizado="1788976683234.4883";
+let actualizado="1789062589523.1665";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -11512,6 +11512,27 @@ let clases={
       }
     ]
   },
+  "ECO-21112": {
+    "nombre": "ECO-21112-EQUILIBRIO GENERAL",
+    "clave": "ECO-21112",
+    "grupos": [
+      {
+        "grupo": "001",
+        "nombre": "ECO-21112-EQUILIBRIO GENERAL",
+        "profesor": "ANDREY  GOMBERG",
+        "creditos": "6",
+        "horario": "18:00-19:30",
+        "dias": [
+          "LU",
+          "MI"
+        ],
+        "salon": "RH108",
+        "campus": "RIO HONDO",
+        "inicio": "18:00",
+        "fin": "19:30"
+      }
+    ]
+  },
   "ECO-21113": {
     "nombre": "ECO-21113-TEORIA DE JUEGOS",
     "clave": "ECO-21113",
@@ -19947,9 +19968,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20863,8 +20884,8 @@ let misProfesData={
   },
   "MARTIN MAGRIS": {
     "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 8.0,
-    "n": 3
+    "general": 8.5,
+    "n": 4
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
