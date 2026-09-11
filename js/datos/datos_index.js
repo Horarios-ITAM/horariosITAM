@@ -1,4 +1,4 @@
-let actualizado="1789062589523.1665";
+let actualizado="1789149219617.3418";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -6316,14 +6316,15 @@ let clases={
         "nombre": "CSO-15041-ECONOMIA POLITICA, I",
         "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
         "salon": "RHSA4",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -6336,14 +6337,15 @@ let clases={
         "nombre": "CSO-15043-ECONOMIA POLITICA II",
         "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
         "creditos": "6",
-        "horario": "08:30-10:00",
+        "horario": "10:00-11:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
         "salon": "RHSA4",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "10:00",
+        "fin": "11:30"
       }
     ]
   },
@@ -6713,16 +6715,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
+        "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "07:00-10:00",
         "dias": [
-          "LU"
+          "VI"
         ],
-        "salon": "RHB-3",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -7034,29 +7036,30 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "JOYCE CAROL  SADKA",
+        "profesor": "LUIS ENRIQUE PEREDA TREJO",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "07:00-08:30",
         "dias": [
-          "MA"
-        ],
-        "salon": "RH309",
-        "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
-      },
-      {
-        "grupo": "002",
-        "nombre": "DER-10113-DERECHO PUBLICO",
-        "profesor": "JOYCE CAROL  SADKA",
-        "creditos": "9",
-        "horario": "08:30-10:00",
-        "dias": [
+          "MA",
           "JU"
         ],
         "salon": "RH309",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
+        "inicio": "07:00",
+        "fin": "08:30"
+      },
+      {
+        "grupo": "002",
+        "nombre": "DER-10113-DERECHO PUBLICO",
+        "profesor": "MARIANA AGUILAR AGUILAR",
+        "creditos": "9",
+        "horario": "07:00-10:00",
+        "dias": [
+          "VI"
+        ],
+        "salon": "RHSA1",
+        "campus": "RIO HONDO",
+        "inicio": "07:00",
         "fin": "10:00"
       }
     ]
@@ -8128,16 +8131,17 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-        "profesor": "RAYMUNDO GAMA LEYVA",
+        "profesor": "CESAR CLAUDIO URRUTIA ROMERO",
         "creditos": "9",
-        "horario": "08:30-10:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
-        "salon": "RH309",
+        "salon": "RH102",
         "campus": "RIO HONDO",
-        "inicio": "08:30",
-        "fin": "10:00"
+        "inicio": "16:00",
+        "fin": "17:30"
       }
     ]
   },
@@ -20079,8 +20083,8 @@ let misProfesData={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.2258,
-    "n": 31
+    "general": 9.25,
+    "n": 32
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
     "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
@@ -20322,11 +20326,6 @@ let misProfesData={
     "general": 7.6667,
     "n": 72
   },
-  "JOYCE CAROL  SADKA": {
-    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
-    "general": 5.9231,
-    "n": 52
-  },
   "ROBERTO NIEMBRO ORTEGA": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Niembro-Ortega_104385",
     "general": 9.25,
@@ -20399,8 +20398,13 @@ let misProfesData={
   },
   "IRVIN ARTURO CASTILLO CESAREO": {
     "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
-    "general": 9.7,
-    "n": 10
+    "general": 9.7273,
+    "n": 11
+  },
+  "JORGE LUIS ZAPATA MEJIA": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Luis-Zapata-Mej\u00eda_199090",
+    "general": 10.0,
+    "n": 1
   },
   "LUIS MANUEL CAMP MEJAN CARRER": {
     "link": "https://www.misprofesores.com/profesores/Luis-Manuel-Camp-Mejan-Carrer_80782",
@@ -20411,6 +20415,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gustavo-Cardenas-Soriano_130631",
     "general": 8.3333,
     "n": 3
+  },
+  "CESAR CLAUDIO URRUTIA ROMERO": {
+    "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
+    "general": 6.6667,
+    "n": 6
   },
   "LUIS ASALI HARFUCH": {
     "link": "https://www.misprofesores.com/profesores/Asali-Harfuch-Luis_15035",
@@ -20667,6 +20676,11 @@ let misProfesData={
     "general": 7.8519,
     "n": 27
   },
+  "JOYCE CAROL  SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.9231,
+    "n": 52
+  },
   "SHAUN DAVID MCRAE": {
     "link": "https://www.misprofesores.com/profesores/Shaun-McRae_129454",
     "general": 9.0,
@@ -20714,8 +20728,8 @@ let misProfesData={
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
-    "general": 7.1905,
-    "n": 21
+    "general": 7.0909,
+    "n": 22
   },
   "GABRIELA HERNANDEZ GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Gabriela-Hern\u00e1ndez-Garc\u00eda_198368",
@@ -21074,13 +21088,13 @@ let misProfesData={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 7.7692,
-    "n": 26
+    "general": 7.5556,
+    "n": 27
   },
   "ROSA MARGARITA GALAN VELEZ": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
-    "general": 5.8056,
-    "n": 36
+    "general": 5.7568,
+    "n": 37
   },
   "MANUEL ADRIAN CHAVEZ PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Manuel-Adrian-Ch\u00e1vez-P\u00e9rez_104157",
@@ -21094,13 +21108,13 @@ let misProfesData={
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
-    "general": 9.5,
-    "n": 8
+    "general": 8.6667,
+    "n": 9
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.3333,
-    "n": 21
+    "general": 9.3636,
+    "n": 22
   },
   "FEDERICO VALLE OCHOA": {
     "link": "https://www.misprofesores.com/profesores/Federico-Valle-Ochoa_138439",

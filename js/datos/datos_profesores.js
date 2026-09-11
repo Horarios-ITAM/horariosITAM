@@ -1,4 +1,4 @@
-let actualizado="1789062589533.6143";
+let actualizado="1789149219631.168";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -5006,8 +5006,8 @@ let profesores={
   },
   "ROSA ELENA MIRANDA SANSORES": {
     "link": "https://www.misprofesores.com/profesores/ROSA-ELENA-MIRANDA-SANSORES_93912",
-    "general": 9.2258,
-    "n": 31,
+    "general": 9.25,
+    "n": 32,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6971,14 +6971,15 @@ let profesores={
           "nombre": "CSO-15041-ECONOMIA POLITICA, I",
           "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "10:00-11:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
           "salon": "RHSA4",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ],
       "CSO-15043-ECONOMIA POLITICA II": [
@@ -6987,14 +6988,15 @@ let profesores={
           "nombre": "CSO-15043-ECONOMIA POLITICA II",
           "profesor": "HORACIO ALEJANDRO LARREGUY ARBESU",
           "creditos": "6",
-          "horario": "08:30-10:00",
+          "horario": "10:00-11:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
           "salon": "RHSA4",
           "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
+          "inicio": "10:00",
+          "fin": "11:30"
         }
       ],
       "ECO-10210-SEM. DE ECONOMIA APLICADA (OP)": [
@@ -7222,6 +7224,23 @@ let profesores={
           "inicio": "17:30",
           "fin": "19:00"
         }
+      ],
+      "DER-10113-DERECHO PUBLICO": [
+        {
+          "grupo": "001",
+          "nombre": "DER-10113-DERECHO PUBLICO",
+          "profesor": "LUIS ENRIQUE PEREDA TREJO",
+          "creditos": "9",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH309",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
       ]
     }
   },
@@ -7236,6 +7255,38 @@ let profesores={
           "nombre": "DER-10003-INST. DE DERECHO PUB. MEX.,I",
           "profesor": "MARIANA AGUILAR AGUILAR",
           "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "MARIANA AGUILAR AGUILAR",
+          "creditos": "9",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "DER-10113-DERECHO PUBLICO": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10113-DERECHO PUBLICO",
+          "profesor": "MARIANA AGUILAR AGUILAR",
+          "creditos": "9",
           "horario": "07:00-10:00",
           "dias": [
             "VI"
@@ -7285,22 +7336,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
-        }
-      ],
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "002",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
-          "creditos": "9",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHB-3",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
         }
       ],
       "DER-18600-DERECHO INTERNACIONAL I": [
@@ -7931,60 +7966,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "21:00"
-        }
-      ]
-    }
-  },
-  "JOYCE CAROL  SADKA": {
-    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
-    "general": 5.9231,
-    "n": 52,
-    "grupos": {
-      "DER-10113-DERECHO PUBLICO": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "JOYCE CAROL  SADKA",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "MA"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        },
-        {
-          "grupo": "002",
-          "nombre": "DER-10113-DERECHO PUBLICO",
-          "profesor": "JOYCE CAROL  SADKA",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "JU"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
-      ],
-      "ECO-14208-ANAL. ECON. DEL DER. II": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
-          "profesor": "JOYCE CAROL  SADKA",
-          "creditos": "6",
-          "horario": "07:00-08:30",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH101",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "08:30"
         }
       ]
     }
@@ -8875,22 +8856,6 @@ let profesores={
           "inicio": "10:00",
           "fin": "11:30"
         }
-      ],
-      "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA": [
-        {
-          "grupo": "001",
-          "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
-          "profesor": "RAYMUNDO GAMA LEYVA",
-          "creditos": "9",
-          "horario": "08:30-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RH309",
-          "campus": "RIO HONDO",
-          "inicio": "08:30",
-          "fin": "10:00"
-        }
       ]
     }
   },
@@ -9055,8 +9020,8 @@ let profesores={
   },
   "IRVIN ARTURO CASTILLO CESAREO": {
     "link": "https://www.misprofesores.com/profesores/Irvin-Arturo-Castillo-Ces\u00e1reo_107236",
-    "general": 9.7,
-    "n": 10,
+    "general": 9.7273,
+    "n": 11,
     "grupos": {
       "DER-13108-BIENES Y DERECHOS REALES": [
         {
@@ -9133,6 +9098,9 @@ let profesores={
     }
   },
   "JORGE LUIS ZAPATA MEJIA": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Luis-Zapata-Mej\u00eda_199090",
+    "general": 10.0,
+    "n": 1,
     "grupos": {
       "DER-13201-PERSONAS Y FAMILIA": [
         {
@@ -9218,6 +9186,30 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
+        }
+      ]
+    }
+  },
+  "CESAR CLAUDIO URRUTIA ROMERO": {
+    "link": "https://www.misprofesores.com/profesores/Cesar-Claudio-Urrutia-Romero_106567",
+    "general": 6.6667,
+    "n": 6,
+    "grupos": {
+      "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA": [
+        {
+          "grupo": "001",
+          "nombre": "DER-13407-TEO GRAL PROC Y SEM DE PRUEBA",
+          "profesor": "CESAR CLAUDIO URRUTIA ROMERO",
+          "creditos": "9",
+          "horario": "16:00-17:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH102",
+          "campus": "RIO HONDO",
+          "inicio": "16:00",
+          "fin": "17:30"
         }
       ]
     }
@@ -12235,6 +12227,30 @@ let profesores={
       ]
     }
   },
+  "JOYCE CAROL  SADKA": {
+    "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
+    "general": 5.9231,
+    "n": 52,
+    "grupos": {
+      "ECO-14208-ANAL. ECON. DEL DER. II": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14208-ANAL. ECON. DEL DER. II",
+          "profesor": "JOYCE CAROL  SADKA",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH101",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
+        }
+      ]
+    }
+  },
   "SHAUN DAVID MCRAE": {
     "link": "https://www.misprofesores.com/profesores/Shaun-McRae_129454",
     "general": 9.0,
@@ -12630,8 +12646,8 @@ let profesores={
   },
   "DIEGO ALEJANDRO OTERO ANGELINI": {
     "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Otero-Angelini_113590",
-    "general": 7.1905,
-    "n": 21,
+    "general": 7.0909,
+    "n": 22,
     "grupos": {
       "EGN-17121-IDEAS E INST. POL. Y SOC. I": [
         {
@@ -17020,8 +17036,8 @@ let profesores={
   },
   "JAVIER MARTINEZ VILLARROYA": {
     "link": "https://www.misprofesores.com/profesores/Javier-Mart\u00ednez-Villarroya_80718",
-    "general": 7.7692,
-    "n": 26,
+    "general": 7.5556,
+    "n": 27,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17231,8 +17247,8 @@ let profesores={
   },
   "ROSA MARGARITA GALAN VELEZ": {
     "link": "https://www.misprofesores.com/profesores/Rosa-Margarita-Gal\u00e1n-V\u00e9lez_10833",
-    "general": 5.8056,
-    "n": 36,
+    "general": 5.7568,
+    "n": 37,
     "grupos": {
       "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA": [
         {
@@ -17400,8 +17416,8 @@ let profesores={
   },
   "JESUS ADRIAN FERNANDEZ REYES": {
     "link": "https://www.misprofesores.com/profesores/Jes\u00fas-Adri\u00e1n-Fern\u00e1ndez-Reyes_113365",
-    "general": 9.5,
-    "n": 8,
+    "general": 8.6667,
+    "n": 9,
     "grupos": {
       "LEN-12719-COMUNIC ESCRITA PARA MATE. APL": [
         {
@@ -17485,8 +17501,8 @@ let profesores={
   },
   "DIANA LUCIA ALVAREZ MACIAS": {
     "link": "https://www.misprofesores.com/profesores/Diana-Luc\u00eda-\u00c1lvarez-Mac\u00edas_82351",
-    "general": 9.3333,
-    "n": 21,
+    "general": 9.3636,
+    "n": 22,
     "grupos": {
       "LEN-12722-COM. ESCRITA CIENCIA DE DATOS": [
         {
@@ -21056,12 +21072,12 @@ let mejoresPorDepto={
     "JOSE LUIS CABALLERO RODRIGUEZ",
     "DENISE MEJAN GANEM",
     "ANA MARIA ZORRILLA NORIEGA",
+    "JORGE LUIS ZAPATA MEJIA",
     "EDUARDO ERASMO OSORNIO GARCIA",
     "JAVIER LAYNEZ POTISEK",
     "JOSE OMAR HERNANDEZ SALGADO",
     "IRVIN ARTURO CASTILLO CESAREO",
-    "FRANCO ALBERTO DEL VALLE PRADO",
-    "AMRITA BAHRI"
+    "FRANCO ALBERTO DEL VALLE PRADO"
   ],
   "ECONOMIA": [
     "SOFIA CORONA VERDUZCO",
@@ -21126,13 +21142,13 @@ let mejoresPorDepto={
   "LENGUAS (LEN)": [
     "MIGUEL ANGEL HERNANDEZ ACOSTA",
     "CLAUDIA SOLEDAD SAAVEDRA MENDEZ",
-    "JESUS ADRIAN FERNANDEZ REYES",
-    "SAMARI PAULINA GARCIA Y COLOME GONGORA",
     "DIANA LUCIA ALVAREZ MACIAS",
+    "SAMARI PAULINA GARCIA Y COLOME GONGORA",
     "MARIA GABRIELA  MAZZUCHINO",
     "MANUEL ADRIAN CHAVEZ PEREZ",
     "GABRIEL ASTEY WOOD",
     "FEDERICO AUGUSTO GUZMAN RUBIO",
+    "JESUS ADRIAN FERNANDEZ REYES",
     "FEDERICO VALLE OCHOA"
   ],
   "MATEMATICAS": [
