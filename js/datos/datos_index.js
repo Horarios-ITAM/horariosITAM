@@ -1,4 +1,4 @@
-let actualizado="1789149219617.3418";
+let actualizado="1789233831802.9019";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -880,21 +880,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
-      },
-      {
-        "grupo": "002",
-        "nombre": "ADM-12303-TOPICOS DE NEGOCIOS",
-        "profesor": "RENATA HERRERIAS FRANCO",
-        "creditos": "6",
-        "horario": "07:00-08:30",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH312",
-        "campus": "RIO HONDO",
-        "inicio": "07:00",
-        "fin": "08:30"
       }
     ]
   },
@@ -13203,7 +13188,7 @@ let clases={
         "dias": [
           "MA"
         ],
-        "salon": "RHPB3",
+        "salon": "PF106",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "19:00"
@@ -19801,11 +19786,6 @@ let misProfesData={
     "general": 6.3478,
     "n": 23
   },
-  "RENATA HERRERIAS FRANCO": {
-    "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
-    "general": 6.48,
-    "n": 25
-  },
   "XIMENA ARGUELLES SACRISTAN": {
     "link": "https://www.misprofesores.com/profesores/Ximena-Arguelles_150289",
     "general": 6.3333,
@@ -19885,6 +19865,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Franco-Zecchetto-Toledo_102037",
     "general": 7.7895,
     "n": 19
+  },
+  "RENATA HERRERIAS FRANCO": {
+    "link": "https://www.misprofesores.com/profesores/Renata-Herrerias-Franco_10741",
+    "general": 6.48,
+    "n": 25
   },
   "MATHIAS JOSEF SCHNEIDER": {
     "link": "https://www.misprofesores.com/profesores/Mathias-Josef-Schneider_117314",
@@ -20087,9 +20072,9 @@ let misProfesData={
     "n": 32
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -21042,9 +21027,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
