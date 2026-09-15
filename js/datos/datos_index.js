@@ -1,4 +1,4 @@
-let actualizado="1789320868555.9438";
+let actualizado="1789496695199.3093";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -13238,7 +13238,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "EST-10101-ESTADISTICA.,I",
-        "profesor": "ANA LAURA GONZALEZ ENRIQUEZ",
+        "profesor": "MIGUEL ANGEL AVILA DEL BOSQUE",
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
@@ -20368,8 +20368,8 @@ let misProfesData={
   },
   "NITZE NAYELI PEREZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Nitze-Nayeli-Perez-Fernandez_105762",
-    "general": 6.5,
-    "n": 4
+    "general": 5.6,
+    "n": 5
   },
   "MARTHA ANGELICA GALICIA OSORIO": {
     "link": "https://www.misprofesores.com/profesores/Martha-Angelica-Galicia-Osorio_165772",
@@ -20803,8 +20803,8 @@ let misProfesData={
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
-    "general": 8.1852,
-    "n": 81
+    "general": 8.1951,
+    "n": 82
   },
   "SERGIO MIGUEL SARMIENTO SERRANO": {
     "link": "https://www.misprofesores.com/profesores/Sergio-Miguel-Sarmiento-Serrano_16302",
@@ -20865,11 +20865,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Weifeng-Jin_190580",
     "general": 9.75,
     "n": 4
-  },
-  "ANA LAURA GONZALEZ ENRIQUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Laura-Gonzalez-Enriquez_159822",
-    "general": 6.0,
-    "n": 2
   },
   "LILIANA DE LA TORRE DESENTIS": {
     "link": "https://www.misprofesores.com/profesores/Liliana-De-la-Torre-Desentis_70279",

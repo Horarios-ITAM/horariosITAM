@@ -1,4 +1,4 @@
-let actualizado="1789320868573.886";
+let actualizado="1789496695213.3604";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -509,6 +509,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "20:30",
           "fin": "22:00"
+        }
+      ],
+      "EST-10101-ESTADISTICA.,I": [
+        {
+          "grupo": "002",
+          "nombre": "EST-10101-ESTADISTICA.,I",
+          "profesor": "MIGUEL ANGEL AVILA DEL BOSQUE",
+          "creditos": "8",
+          "horario": "18:00-20:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "RH301",
+          "campus": "RIO HONDO",
+          "inicio": "18:00",
+          "fin": "20:00"
         }
       ]
     }
@@ -8885,8 +8902,8 @@ let profesores={
   },
   "NITZE NAYELI PEREZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Nitze-Nayeli-Perez-Fernandez_105762",
-    "general": 6.5,
-    "n": 4,
+    "general": 5.6,
+    "n": 5,
     "grupos": {
       "DER-13026-CLINICAL LEGAL CTRO ACCESO JUS-LAB": [
         {
@@ -13684,8 +13701,8 @@ let profesores={
   },
   "JOSE PANTALEON DOMINGUEZ ESPONDA": {
     "link": "https://www.misprofesores.com/profesores/Jose-Pantaleon-Dominguez-Esponda_22797",
-    "general": 8.1852,
-    "n": 81,
+    "general": 8.1951,
+    "n": 82,
     "grupos": {
       "EGN-17141-PROB. DE LA CIV. CONTEMP., I": [
         {
@@ -14306,30 +14323,6 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
-        }
-      ]
-    }
-  },
-  "ANA LAURA GONZALEZ ENRIQUEZ": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Laura-Gonzalez-Enriquez_159822",
-    "general": 6.0,
-    "n": 2,
-    "grupos": {
-      "EST-10101-ESTADISTICA.,I": [
-        {
-          "grupo": "002",
-          "nombre": "EST-10101-ESTADISTICA.,I",
-          "profesor": "ANA LAURA GONZALEZ ENRIQUEZ",
-          "creditos": "8",
-          "horario": "18:00-20:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "RH301",
-          "campus": "RIO HONDO",
-          "inicio": "18:00",
-          "fin": "20:00"
         }
       ]
     }
