@@ -1,4 +1,4 @@
-let actualizado="1789669709558.0208";
+let actualizado="1789753850141.703";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -9491,7 +9491,7 @@ let clases={
       {
         "grupo": "003",
         "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
-        "profesor": "FELIX VELEZ FERNANDEZ VARELA",
+        "profesor": "",
         "creditos": "3",
         "horario": "11:30-13:00",
         "dias": [
@@ -9512,7 +9512,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
-        "profesor": "FELIX VELEZ FERNANDEZ VARELA",
+        "profesor": "",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
@@ -11264,7 +11264,7 @@ let clases={
       {
         "grupo": "002",
         "nombre": "ECO-17100-HISTORIA ECONOMICA DE MEXICO",
-        "profesor": "FELIX VELEZ FERNANDEZ VARELA",
+        "profesor": "BERNARDO BATIZ LAZO",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -11353,7 +11353,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-17220-HISTORIA ECONOMICA MODERNA",
-        "profesor": "FELIX VELEZ FERNANDEZ VARELA",
+        "profesor": "BERNARDO BATIZ LAZO",
         "creditos": "6",
         "horario": "17:30-19:00",
         "dias": [
@@ -19957,9 +19957,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20072,9 +20072,9 @@ let misProfesData={
     "n": 32
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20516,11 +20516,6 @@ let misProfesData={
     "general": 8.0952,
     "n": 21
   },
-  "FELIX VELEZ FERNANDEZ VARELA": {
-    "link": "https://www.misprofesores.com/profesores/Felix-V\u00e9lez-Fern\u00e1ndez-Varela_10778",
-    "general": 6.0667,
-    "n": 30
-  },
   "ARTURO ALBERTO AGUILAR ESTEVA": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
     "general": 8.1765,
@@ -20882,9 +20877,9 @@ let misProfesData={
     "n": 28
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -21027,9 +21022,9 @@ let misProfesData={
     "n": 2
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
@@ -21065,6 +21060,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Gabriel-Astey-Wood_59117",
     "general": 8.9592,
     "n": 49
+  },
+  "DANIEL SALAZAR RAMOS": {
+    "link": "https://www.misprofesores.com/profesores/Daniel-Salazar-Ramos_199258",
+    "general": 0.0,
+    "n": 0
   },
   "CLAUDIA SOLEDAD SAAVEDRA MENDEZ": {
     "link": "https://www.misprofesores.com/profesores/Claudia-Soledad-Saavedra_130638",
