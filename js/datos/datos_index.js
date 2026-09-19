@@ -1,4 +1,4 @@
-let actualizado="1789753850141.703";
+let actualizado="1789838757830.7341";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -4381,8 +4381,8 @@ let clases={
         "dias": [
           "JU"
         ],
-        "salon": "",
-        "campus": "",
+        "salon": "RHCUBIC",
+        "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "21:00"
       }
@@ -9487,21 +9487,6 @@ let clases={
         "campus": "RIO HONDO",
         "inicio": "13:00",
         "fin": "14:30"
-      },
-      {
-        "grupo": "003",
-        "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
-        "profesor": "",
-        "creditos": "3",
-        "horario": "11:30-13:00",
-        "dias": [
-          "LU",
-          "MI"
-        ],
-        "salon": "RH317",
-        "campus": "RIO HONDO",
-        "inicio": "11:30",
-        "fin": "13:00"
       }
     ]
   },
@@ -9512,14 +9497,14 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
-        "profesor": "",
+        "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
         "creditos": "6",
         "horario": "11:30-13:00",
         "dias": [
           "LU",
           "MI"
         ],
-        "salon": "RH317",
+        "salon": "RH106",
         "campus": "RIO HONDO",
         "inicio": "11:30",
         "fin": "13:00"
@@ -19957,9 +19942,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20516,6 +20501,11 @@ let misProfesData={
     "general": 8.0952,
     "n": 21
   },
+  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
+    "general": 6.875,
+    "n": 104
+  },
   "ARTURO ALBERTO AGUILAR ESTEVA": {
     "link": "https://www.misprofesores.com/profesores/Arturo-Alberto-Aguilar-Esteva_58325",
     "general": 8.1765,
@@ -20591,11 +20581,6 @@ let misProfesData={
     "general": 5.5,
     "n": 2
   },
-  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
-    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
-    "general": 6.875,
-    "n": 104
-  },
   "LEVENT ULKU": {
     "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
     "general": 7.3784,
@@ -20653,8 +20638,8 @@ let misProfesData={
   },
   "DANIEL ISAAC CHIQUIAR CIKUREL": {
     "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
-    "general": 8.6,
-    "n": 5
+    "general": 7.5,
+    "n": 6
   },
   "CARLOS ERNESTO URRUTIA VILLALOBOS": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Ernesto-Urrutia-Villalobos_10765",
@@ -20877,9 +20862,9 @@ let misProfesData={
     "n": 28
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 8.5,
+    "n": 4
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",

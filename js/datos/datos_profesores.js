@@ -1,4 +1,4 @@
-let actualizado="1789753850156.1907";
+let actualizado="1789838757844.7273";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3775,9 +3775,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -4909,8 +4909,8 @@ let profesores={
           "dias": [
             "JU"
           ],
-          "salon": "",
-          "campus": "",
+          "salon": "RHCUBIC",
+          "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "21:00"
         }
@@ -10370,37 +10370,74 @@ let profesores={
       ]
     }
   },
-  "": {
+  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
+    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
+    "general": 6.875,
+    "n": 104,
     "grupos": {
-      "ECO-10300-PENSAMIENTO ECONOMICO": [
-        {
-          "grupo": "003",
-          "nombre": "ECO-10300-PENSAMIENTO ECONOMICO",
-          "profesor": "",
-          "creditos": "3",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH317",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
       "ECO-10301-HISTORIA DEL ANALISIS ECO.": [
         {
           "grupo": "001",
           "nombre": "ECO-10301-HISTORIA DEL ANALISIS ECO.",
-          "profesor": "",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
           "creditos": "6",
           "horario": "11:30-13:00",
           "dias": [
             "LU",
             "MI"
           ],
-          "salon": "RH317",
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "ECO-11021-MICROECONOMIA I": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-11021-MICROECONOMIA I",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH106",
+          "campus": "RIO HONDO",
+          "inicio": "11:30",
+          "fin": "13:00"
+        }
+      ],
+      "ECO-14502-ECONOMIA GERENCIAL": [
+        {
+          "grupo": "001",
+          "nombre": "ECO-14502-ECONOMIA GERENCIAL",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "8",
+          "horario": "11:00-13:00",
+          "dias": [
+            "MA",
+            "JU"
+          ],
+          "salon": "PF106",
+          "campus": "RIO HONDO",
+          "inicio": "11:00",
+          "fin": "13:00"
+        }
+      ],
+      "ECO-21103-ECONOMIA III": [
+        {
+          "grupo": "002",
+          "nombre": "ECO-21103-ECONOMIA III",
+          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
+          "creditos": "6",
+          "horario": "11:30-13:00",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RH106",
           "campus": "RIO HONDO",
           "inicio": "11:30",
           "fin": "13:00"
@@ -11348,64 +11385,6 @@ let profesores={
       ]
     }
   },
-  "DIEGO ALEJANDRO DOMINGUEZ LARREA": {
-    "link": "https://www.misprofesores.com/profesores/Diego-Alejandro-Dom\u00ednguez-Larrea_10764",
-    "general": 6.875,
-    "n": 104,
-    "grupos": {
-      "ECO-11021-MICROECONOMIA I": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-11021-MICROECONOMIA I",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ],
-      "ECO-14502-ECONOMIA GERENCIAL": [
-        {
-          "grupo": "001",
-          "nombre": "ECO-14502-ECONOMIA GERENCIAL",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
-          "creditos": "8",
-          "horario": "11:00-13:00",
-          "dias": [
-            "MA",
-            "JU"
-          ],
-          "salon": "PF106",
-          "campus": "RIO HONDO",
-          "inicio": "11:00",
-          "fin": "13:00"
-        }
-      ],
-      "ECO-21103-ECONOMIA III": [
-        {
-          "grupo": "002",
-          "nombre": "ECO-21103-ECONOMIA III",
-          "profesor": "DIEGO ALEJANDRO DOMINGUEZ LARREA",
-          "creditos": "6",
-          "horario": "11:30-13:00",
-          "dias": [
-            "LU",
-            "MI"
-          ],
-          "salon": "RH106",
-          "campus": "RIO HONDO",
-          "inicio": "11:30",
-          "fin": "13:00"
-        }
-      ]
-    }
-  },
   "LEVENT ULKU": {
     "link": "https://www.misprofesores.com/profesores/Levent-\u00dclku_16793",
     "general": 7.3784,
@@ -12027,8 +12006,8 @@ let profesores={
   },
   "DANIEL ISAAC CHIQUIAR CIKUREL": {
     "link": "https://www.misprofesores.com/profesores/Daniel-Isaac-Chiquiar-Cikurel_165191",
-    "general": 8.6,
-    "n": 5,
+    "general": 7.5,
+    "n": 6,
     "grupos": {
       "ECO-13001-MICROECONOMIA INTERNACIONAL": [
         {
@@ -14473,9 +14452,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -21103,12 +21082,12 @@ let mejoresPorDepto={
     "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
+    "MARTIN MAGRIS",
     "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "JOSE EZEQUIEL SOTO SANCHEZ",
     "ERICK MIER MORENO",
-    "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
