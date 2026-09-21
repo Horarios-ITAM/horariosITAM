@@ -1,4 +1,4 @@
-let actualizado="1789925888773.2393";
+let actualizado="1790019781870.6096";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -15077,7 +15077,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "ANA TAMARIT AMIEVA",
+        "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -15625,7 +15625,7 @@ let clases={
       {
         "grupo": "010",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "ANA TAMARIT AMIEVA",
+        "profesor": "FRANCISCO JOSE FERNANDEZ DEFEZ",
         "creditos": "2",
         "horario": "16:00-17:00",
         "dias": [
@@ -15737,7 +15737,7 @@ let clases={
       {
         "grupo": "019",
         "nombre": "LEN-12702-SEMIN. DE COMUNICAC. ESCRITA",
-        "profesor": "ANA TAMARIT AMIEVA",
+        "profesor": "AMERICO DEL RIO ORTEGA",
         "creditos": "2",
         "horario": "09:00-10:00",
         "dias": [
@@ -20057,9 +20057,9 @@ let misProfesData={
     "n": 32
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20133,8 +20133,8 @@ let misProfesData={
   },
   "MARIA LUISA GRUNBERGER STERN": {
     "link": "https://www.misprofesores.com/profesores/Maria-Luisa-Grunberger-Stern_16029",
-    "general": 8.549,
-    "n": 102
+    "general": 8.5049,
+    "n": 103
   },
   "YANIRA ROSALBA PETRIDES JIMENEZ": {
     "link": "https://www.misprofesores.com/profesores/Yanira-Rosalba-Petrides-Jimenez_10757",
@@ -21006,11 +21006,6 @@ let misProfesData={
     "general": 2.0,
     "n": 2
   },
-  "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
-  },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
     "general": 10.0,
@@ -21020,6 +21015,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
     "general": 7.3529,
     "n": 34
+  },
+  "ANA TAMARIT AMIEVA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
