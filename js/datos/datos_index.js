@@ -1,4 +1,4 @@
-let actualizado="1790019781870.6096";
+let actualizado="1790100904502.5525";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -10502,7 +10502,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF103",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -10670,7 +10670,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF103",
+        "salon": "RH315",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "17:30"
@@ -20057,9 +20057,9 @@ let misProfesData={
     "n": 32
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20862,9 +20862,9 @@ let misProfesData={
     "n": 28
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 8.5,
-    "n": 4
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
