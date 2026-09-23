@@ -1,4 +1,4 @@
-let actualizado="1790100904502.5525";
+let actualizado="1790188508285.4443";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -6580,7 +6580,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF106",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9126,7 +9126,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF106",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -9183,7 +9183,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF106",
+        "salon": "RHB-5",
         "campus": "RIO HONDO",
         "inicio": "10:00",
         "fin": "11:30"
@@ -20862,9 +20862,9 @@ let misProfesData={
     "n": 28
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 8.5,
+    "n": 4
   },
   "AIRAM ASERET BLANCAS BENITEZ": {
     "link": "https://www.misprofesores.com/profesores/Airam-Aseret-Blancas-Ben\u00edtez_126665",
@@ -21017,9 +21017,9 @@ let misProfesData={
     "n": 34
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",

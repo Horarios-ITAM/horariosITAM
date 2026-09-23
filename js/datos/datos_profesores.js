@@ -1,4 +1,4 @@
-let actualizado="1790100904513.918";
+let actualizado="1790188508298.6929";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -7387,7 +7387,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF106",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -7404,7 +7404,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF106",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -7438,7 +7438,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "PF106",
+          "salon": "RHB-5",
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "11:30"
@@ -14452,9 +14452,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -16462,9 +16462,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -21080,12 +21080,12 @@ let mejoresPorDepto={
     "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
+    "MARTIN MAGRIS",
     "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "JOSE EZEQUIEL SOTO SANCHEZ",
     "ERICK MIER MORENO",
-    "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
