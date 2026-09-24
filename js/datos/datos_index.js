@@ -1,4 +1,4 @@
-let actualizado="1790188508285.4443";
+let actualizado="1790275059527.2476";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -8749,7 +8749,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "PF108",
+        "salon": "RHSA4",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
