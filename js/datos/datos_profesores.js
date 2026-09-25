@@ -1,4 +1,4 @@
-let actualizado="1790275059541.9033";
+let actualizado="1790362250556.7532";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -16946,6 +16946,9 @@ let profesores={
     }
   },
   "RENE LAZCURAIN MORENO": {
+    "link": "https://www.misprofesores.com/profesores/Ren\u00e9-Lazcur\u00e1i_199386",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
