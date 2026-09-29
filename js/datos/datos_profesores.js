@@ -1,4 +1,4 @@
-let actualizado="1790628183813.4387";
+let actualizado="1790710528319.4946";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -9757,7 +9757,7 @@ let profesores={
           "dias": [
             "VI"
           ],
-          "salon": "PF108",
+          "salon": "RH317",
           "campus": "RIO HONDO",
           "inicio": "07:00",
           "fin": "10:00"
@@ -14378,8 +14378,8 @@ let profesores={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.2857,
-    "n": 28,
+    "general": 5.1724,
+    "n": 29,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {

@@ -1,4 +1,4 @@
-let actualizado="1790628183798.1938";
+let actualizado="1790710528305.1943";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -8839,7 +8839,7 @@ let clases={
         "dias": [
           "VI"
         ],
-        "salon": "PF108",
+        "salon": "RH317",
         "campus": "RIO HONDO",
         "inicio": "07:00",
         "fin": "10:00"
@@ -20858,8 +20858,8 @@ let misProfesData={
   },
   "LEONARDO ROJAS NANDAYAPA": {
     "link": "https://www.misprofesores.com/profesores/Leonardo-Rojas_19570",
-    "general": 5.2857,
-    "n": 28
+    "general": 5.1724,
+    "n": 29
   },
   "MARTIN MAGRIS": {
     "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
