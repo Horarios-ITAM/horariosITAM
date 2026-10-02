@@ -1,4 +1,4 @@
-let actualizado="1790797005884.497";
+let actualizado="1790969458671.3457";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19798,8 +19798,8 @@ let misProfesData={
   },
   "JULIETA MARIA SARRALDE VERA": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Mar\u00eda-Sarralde-Vera_10718",
-    "general": 7.3077,
-    "n": 65
+    "general": 7.2273,
+    "n": 66
   },
   "JULIETA IRMA GUIZA PEREZ": {
     "link": "https://www.misprofesores.com/profesores/Julieta-Irma-Guiza-P\u00e9rez_10729",
@@ -19942,9 +19942,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20057,9 +20057,9 @@ let misProfesData={
     "n": 32
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -21017,9 +21017,9 @@ let misProfesData={
     "n": 34
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
