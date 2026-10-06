@@ -1,4 +1,4 @@
-let actualizado="1791138030896.4355";
+let actualizado="1791315743648.75";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3775,9 +3775,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -14452,9 +14452,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
+    "general": 8.5,
+    "n": 4,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -21083,12 +21083,12 @@ let mejoresPorDepto={
     "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
+    "MARTIN MAGRIS",
     "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "JOSE EZEQUIEL SOTO SANCHEZ",
     "ERICK MIER MORENO",
-    "ENRIQUE CUERVO GUZMAN",
-    "MANUEL MENDOZA RAMIREZ"
+    "ENRIQUE CUERVO GUZMAN"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
