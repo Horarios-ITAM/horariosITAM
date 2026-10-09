@@ -1,4 +1,4 @@
-let actualizado="1791489908090.406";
+let actualizado="1791574771762.088";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3775,9 +3775,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5029,9 +5029,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -6007,7 +6007,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH313",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -6022,7 +6022,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-4",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -6039,7 +6039,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH313",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -6054,7 +6054,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-4",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -6071,7 +6071,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RH313",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "19:00",
           "fin": "20:30"
@@ -6086,7 +6086,7 @@ let profesores={
             "LU",
             "MI"
           ],
-          "salon": "RHB-4",
+          "salon": "RHPB3",
           "campus": "RIO HONDO",
           "inicio": "17:30",
           "fin": "19:00"
@@ -16449,9 +16449,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -21001,9 +21001,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
-    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF"
+    "VIRGINIA KALIS LETAYF",
+    "JUAN FERNANDO CALDERON CABELLO"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",

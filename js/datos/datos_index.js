@@ -1,4 +1,4 @@
-let actualizado="1791489908077.6658";
+let actualizado="1791574771752.882";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -5315,7 +5315,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH313",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -5330,7 +5330,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -5415,7 +5415,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH313",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -5430,7 +5430,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -5481,7 +5481,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RH313",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -5496,7 +5496,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHB-4",
+        "salon": "RHPB3",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -19938,9 +19938,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20053,9 +20053,9 @@ let misProfesData={
     "n": 32
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -21008,9 +21008,9 @@ let misProfesData={
     "n": 34
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
