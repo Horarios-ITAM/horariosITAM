@@ -1,4 +1,4 @@
-let actualizado="1791843334922.151";
+let actualizado="1792003833156.3418";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19834,8 +19834,8 @@ let misProfesData={
   },
   "FERNANDO DIEGO PEREZ CERVANTES": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Diego-P\u00e9rez-Cervantes_114816",
-    "general": 7.75,
-    "n": 16
+    "general": 7.5294,
+    "n": 17
   },
   "ANURAG SINGH": {
     "link": "https://www.misprofesores.com/profesores/Anurag-Singh_114205",
@@ -20934,8 +20934,8 @@ let misProfesData={
   },
   "BRAULIO PI\u00d1A AMAROS": {
     "link": "https://www.misprofesores.com/profesores/Braulio-Pi\u00f1a-Amaros_194903",
-    "general": 10.0,
-    "n": 1
+    "general": 9.0,
+    "n": 3
   },
   "LUIS EDUARDO URBAN RIVERO": {
     "link": "https://www.misprofesores.com/profesores/Luis-Eduardo-Urban-Rivero_189280",

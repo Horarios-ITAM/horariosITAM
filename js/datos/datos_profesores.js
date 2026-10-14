@@ -1,4 +1,4 @@
-let actualizado="1791843334938.888";
+let actualizado="1792003833170.3025";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -2157,8 +2157,8 @@ let profesores={
   },
   "FERNANDO DIEGO PEREZ CERVANTES": {
     "link": "https://www.misprofesores.com/profesores/Fernando-Diego-P\u00e9rez-Cervantes_114816",
-    "general": 7.75,
-    "n": 16,
+    "general": 7.5294,
+    "n": 17,
     "grupos": {
       "ADM-15522-TEORIA DE LAS FINANZAS": [
         {
@@ -15322,8 +15322,8 @@ let profesores={
   },
   "BRAULIO PI\u00d1A AMAROS": {
     "link": "https://www.misprofesores.com/profesores/Braulio-Pi\u00f1a-Amaros_194903",
-    "general": 10.0,
-    "n": 1,
+    "general": 9.0,
+    "n": 3,
     "grupos": {
       "EST-25134-APRENDIZAJE ESTADISTICO": [
         {
@@ -21066,10 +21066,10 @@ let mejoresPorDepto={
     "ANGEL/RABIH RAYES EL-KANTAR"
   ],
   "ESTADISTICA": [
-    "BRAULIO PI\u00d1A AMAROS",
     "WEIFENG JIN",
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
+    "BRAULIO PI\u00d1A AMAROS",
     "MARTIN MAGRIS",
     "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
