@@ -1,4 +1,4 @@
-let actualizado="1792003833156.3418";
+let actualizado="1792089148699.8538";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -5315,7 +5315,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHPB3",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -5330,7 +5330,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHPB3",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -5415,7 +5415,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHPB3",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -5430,7 +5430,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHPB3",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -5481,7 +5481,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHPB3",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "19:00",
         "fin": "20:30"
@@ -5496,7 +5496,7 @@ let clases={
           "LU",
           "MI"
         ],
-        "salon": "RHPB3",
+        "salon": "RHSA3",
         "campus": "RIO HONDO",
         "inicio": "17:30",
         "fin": "19:00"
@@ -20294,8 +20294,8 @@ let misProfesData={
   },
   "JOYCE CAROL  SADKA": {
     "link": "https://www.misprofesores.com/profesores/Joyce-Carol-Sadka_10766",
-    "general": 5.9231,
-    "n": 52
+    "general": 5.8491,
+    "n": 53
   },
   "ROBERTO NIEMBRO ORTEGA": {
     "link": "https://www.misprofesores.com/profesores/Roberto-Niembro-Ortega_104385",
