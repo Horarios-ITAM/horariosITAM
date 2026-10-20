@@ -1,4 +1,4 @@
-let actualizado="1792440377286.724";
+let actualizado="1792521539070.272";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -20060,8 +20060,8 @@ let profesores={
   },
   "EDITH MIREYA VARGAS GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Edith-Mireya-Vargas-Garc\u00eda_94164",
-    "general": 6.68,
-    "n": 25,
+    "general": 6.6538,
+    "n": 26,
     "grupos": {
       "MAT-14280-PENSAMIENTO MATEMATICO": [
         {
