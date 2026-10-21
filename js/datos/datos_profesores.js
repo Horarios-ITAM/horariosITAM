@@ -1,4 +1,4 @@
-let actualizado="1792521539070.272";
+let actualizado="1792608611276.2402";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -7340,6 +7340,9 @@ let profesores={
     }
   },
   "JORGE AGUILERA SUAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Aguilera-Suarez_199683",
+    "general": 2.0,
+    "n": 1,
     "grupos": {
       "DER-10005-DER. INTERNACIONAL PUBLICO,I": [
         {

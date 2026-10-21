@@ -1,4 +1,4 @@
-let actualizado="1792521539055.5632";
+let actualizado="1792608611266.5183";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -20231,6 +20231,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Tania-Gabriela-Rodr\u00edguez-Huerta_10785",
     "general": 7.3214,
     "n": 28
+  },
+  "JORGE AGUILERA SUAREZ": {
+    "link": "https://www.misprofesores.com/profesores/Jorge-Aguilera-Suarez_199683",
+    "general": 2.0,
+    "n": 1
   },
   "JOSE LUIS CABALLERO RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Luis-Caballero-Rodr\u00edguez_129801",
