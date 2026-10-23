@@ -1,4 +1,4 @@
-let actualizado="1792694683291.6213";
+let actualizado="1792780684274.1575";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -9821,8 +9821,8 @@ let profesores={
   },
   "FRANCO LAMMOGLIA ORDIALES": {
     "link": "https://www.misprofesores.com/profesores/Franco-Lammoglia_104538",
-    "general": 5.25,
-    "n": 8,
+    "general": 5.7778,
+    "n": 9,
     "grupos": {
       "DER-17048-CLIN  DES SUST Y DER AMBIENTAL-LAB": [
         {

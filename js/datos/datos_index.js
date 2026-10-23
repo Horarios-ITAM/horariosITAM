@@ -1,4 +1,4 @@
-let actualizado="1792694683278.3218";
+let actualizado="1792780684259.0776";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -20454,8 +20454,8 @@ let misProfesData={
   },
   "FRANCO LAMMOGLIA ORDIALES": {
     "link": "https://www.misprofesores.com/profesores/Franco-Lammoglia_104538",
-    "general": 5.25,
-    "n": 8
+    "general": 5.7778,
+    "n": 9
   },
   "JOSE OMAR HERNANDEZ SALGADO": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Omar-Hern\u00e1ndez-Salgado_157835",
