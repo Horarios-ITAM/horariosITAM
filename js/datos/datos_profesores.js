@@ -1,4 +1,4 @@
-let actualizado="1792780684274.1575";
+let actualizado="1792863336554.3928";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19027,8 +19027,8 @@ let profesores={
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
-    "general": 6.0233,
-    "n": 43,
+    "general": 5.9318,
+    "n": 44,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {

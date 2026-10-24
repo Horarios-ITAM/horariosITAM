@@ -1,4 +1,4 @@
-let actualizado="1792780684259.0776";
+let actualizado="1792863336539.4846";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -21169,8 +21169,8 @@ let misProfesData={
   },
   "ZEFERINO PARADA GARCIA": {
     "link": "https://www.misprofesores.com/profesores/Zeferino-Parada-Garc\u00eda_10698",
-    "general": 6.0233,
-    "n": 43
+    "general": 5.9318,
+    "n": 44
   },
   "GERARDO GONZALEZ ROBERT": {
     "link": "https://www.misprofesores.com/profesores/Gerardo-Gonzales-Robert_56603",
