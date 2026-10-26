@@ -1,4 +1,4 @@
-let actualizado="1792950537455.0398";
+let actualizado="1793045187264.3843";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -20053,9 +20053,9 @@ let misProfesData={
     "n": 32
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20234,8 +20234,8 @@ let misProfesData={
   },
   "JORGE AGUILERA SUAREZ": {
     "link": "https://www.misprofesores.com/profesores/Jorge-Aguilera-Suarez_199683",
-    "general": 2.0,
-    "n": 1
+    "general": 5.5,
+    "n": 2
   },
   "JOSE LUIS CABALLERO RODRIGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Luis-Caballero-Rodr\u00edguez_129801",
@@ -21013,9 +21013,9 @@ let misProfesData={
     "n": 34
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
