@@ -1,4 +1,4 @@
-let actualizado="1793045187264.3843";
+let actualizado="1793129778364.9675";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -8201,7 +8201,7 @@ let clases={
       {
         "grupo": "002L",
         "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
-        "profesor": "FRANCISCO VILLAGRAN BALLESTEROS",
+        "profesor": "CESAR LEYVA DEL VALLE",
         "creditos": "2",
         "horario": "19:30-21:30",
         "dias": [
@@ -19938,9 +19938,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20053,9 +20053,9 @@ let misProfesData={
     "n": 32
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20364,8 +20364,8 @@ let misProfesData={
   },
   "NITZE NAYELI PEREZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Nitze-Nayeli-Perez-Fernandez_105762",
-    "general": 5.6,
-    "n": 5
+    "general": 5.0,
+    "n": 6
   },
   "MARTHA ANGELICA GALICIA OSORIO": {
     "link": "https://www.misprofesores.com/profesores/Martha-Angelica-Galicia-Osorio_165772",
@@ -21013,9 +21013,9 @@ let misProfesData={
     "n": 34
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
@@ -21161,6 +21161,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/C\u00e9sar-Luis-Garc\u00eda-Garc\u00eda_10701",
     "general": 7.1667,
     "n": 60
+  },
+  "ANA BELEN AVILEZ GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Belen-Avilez-Garc\u00eda_199729",
+    "general": 2.0,
+    "n": 1
   },
   "VLADIMIR CAETANO DE OLIVEIRA CONTRERAS": {
     "link": "https://www.misprofesores.com/profesores/Vladimir-Caetano-de-Oliveira_15516",

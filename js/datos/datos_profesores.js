@@ -1,4 +1,4 @@
-let actualizado="1793045187277.372";
+let actualizado="1793129778379.85";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3775,9 +3775,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5029,9 +5029,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
-    "general": 8.7455,
-    "n": 55,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -8943,8 +8943,8 @@ let profesores={
   },
   "NITZE NAYELI PEREZ FERNANDEZ": {
     "link": "https://www.misprofesores.com/profesores/Nitze-Nayeli-Perez-Fernandez_105762",
-    "general": 5.6,
-    "n": 5,
+    "general": 5.0,
+    "n": 6,
     "grupos": {
       "DER-13026-CLINICAL LEGAL CTRO ACCESO JUS-LAB": [
         {
@@ -9276,13 +9276,13 @@ let profesores={
       ]
     }
   },
-  "FRANCISCO VILLAGRAN BALLESTEROS": {
+  "CESAR LEYVA DEL VALLE": {
     "grupos": {
       "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB": [
         {
           "grupo": "002L",
           "nombre": "DER-13615-JUICIO ORAL CIVIL Y FAMILIAR-LAB",
-          "profesor": "FRANCISCO VILLAGRAN BALLESTEROS",
+          "profesor": "CESAR LEYVA DEL VALLE",
           "creditos": "2",
           "horario": "19:30-21:30",
           "dias": [
@@ -16452,9 +16452,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
@@ -18891,6 +18891,9 @@ let profesores={
     }
   },
   "ANA BELEN AVILEZ GARCIA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Belen-Avilez-Garc\u00eda_199729",
+    "general": 2.0,
+    "n": 1,
     "grupos": {
       "MAT-12200-CALCULO UNIVARIADO": [
         {
@@ -21004,9 +21007,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
-    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF"
+    "VIRGINIA KALIS LETAYF",
+    "JUAN FERNANDO CALDERON CABELLO"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",
