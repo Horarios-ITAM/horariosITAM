@@ -1,4 +1,4 @@
-let actualizado="1793129778379.85";
+let actualizado="1793216855570.6943";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -1511,22 +1511,6 @@ let profesores={
           "inicio": "19:00",
           "fin": "22:00"
         }
-      ],
-      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
-        {
-          "grupo": "001",
-          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-          "profesor": "DIEGO OCEJO DEL VILLAR",
-          "creditos": "6",
-          "horario": "19:00-22:00",
-          "dias": [
-            "MI"
-          ],
-          "salon": "RH312",
-          "campus": "RIO HONDO",
-          "inicio": "19:00",
-          "fin": "22:00"
-        }
       ]
     }
   },
@@ -2615,6 +2599,26 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ]
+    }
+  },
+  "RAFAEL SAMRA ATACH": {
+    "grupos": {
+      "ADM-15582-FINZS. CORPORA. AVANZADAS": [
+        {
+          "grupo": "001",
+          "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
+          "profesor": "RAFAEL SAMRA ATACH",
+          "creditos": "6",
+          "horario": "19:00-22:00",
+          "dias": [
+            "MI"
+          ],
+          "salon": "RH312",
+          "campus": "RIO HONDO",
+          "inicio": "19:00",
+          "fin": "22:00"
         }
       ]
     }
@@ -3775,9 +3779,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5029,9 +5033,9 @@ let profesores={
     }
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55,
     "grupos": {
       "CON-10001-PROCESO CONTABLE": [
         {
@@ -7206,22 +7210,6 @@ let profesores={
           "inicio": "07:00",
           "fin": "08:30"
         }
-      ],
-      "DER-10013-FUNDAMENTOS JURIDICOS": [
-        {
-          "grupo": "001",
-          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-          "profesor": "LUIS ENRIQUE PEREDA TREJO",
-          "creditos": "9",
-          "horario": "17:30-19:00",
-          "dias": [
-            "LU"
-          ],
-          "salon": "RHB-3",
-          "campus": "RIO HONDO",
-          "inicio": "17:30",
-          "fin": "19:00"
-        }
       ]
     }
   },
@@ -7236,6 +7224,22 @@ let profesores={
           "nombre": "DER-10003-INST. DE DERECHO PUB. MEX.,I",
           "profesor": "MARIANA AGUILAR AGUILAR",
           "creditos": "6",
+          "horario": "07:00-10:00",
+          "dias": [
+            "VI"
+          ],
+          "salon": "RHSA1",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "10:00"
+        }
+      ],
+      "DER-10013-FUNDAMENTOS JURIDICOS": [
+        {
+          "grupo": "002",
+          "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
+          "profesor": "MARIANA AGUILAR AGUILAR",
+          "creditos": "9",
           "horario": "07:00-10:00",
           "dias": [
             "VI"
@@ -7289,7 +7293,7 @@ let profesores={
       ],
       "DER-10013-FUNDAMENTOS JURIDICOS": [
         {
-          "grupo": "002",
+          "grupo": "001",
           "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
           "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
           "creditos": "9",
@@ -7567,14 +7571,14 @@ let profesores={
           "nombre": "DER-10015-DERECHO EMPRESARIAL",
           "profesor": "ROXANA PEREZ ARCE VALLE",
           "creditos": "9",
-          "horario": "07:00-09:30",
+          "horario": "07:00-09:00",
           "dias": [
-            "MI"
+            "LU"
           ],
           "salon": "RHSA1",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "09:30"
+          "fin": "09:00"
         }
       ],
       "DER-10022-DERECHO EMPRESARIAL": [
@@ -8480,22 +8484,26 @@ let profesores={
       ]
     }
   },
-  "JUAN JESUS GARZA ONOFRE": {
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31,
     "grupos": {
       "DER-11119-FILOSOFIA DEL DERECHO": [
         {
           "grupo": "001",
           "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-          "profesor": "JUAN JESUS GARZA ONOFRE",
+          "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
           "creditos": "9",
-          "horario": "16:00-17:30",
+          "horario": "08:30-10:00",
           "dias": [
-            "LU"
+            "MA",
+            "JU"
           ],
-          "salon": "RHB-5",
+          "salon": "RH314",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
+          "inicio": "08:30",
+          "fin": "10:00"
         }
       ]
     }
@@ -8511,14 +8519,15 @@ let profesores={
           "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
           "profesor": "GUILHERME VASCONCELOS VILACA",
           "creditos": "9",
-          "horario": "16:00-19:00",
+          "horario": "16:00-17:30",
           "dias": [
-            "VI"
+            "LU",
+            "MI"
           ],
           "salon": "RH301",
           "campus": "RIO HONDO",
           "inicio": "16:00",
-          "fin": "19:00"
+          "fin": "17:30"
         }
       ]
     }
@@ -16270,13 +16279,16 @@ let profesores={
       ]
     }
   },
-  "EMILIO ENRIQUE NAVARRO HERNANDEZ": {
+  "ANA TAMARIT AMIEVA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
           "grupo": "007",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+          "profesor": "ANA TAMARIT AMIEVA",
           "creditos": "6",
           "horario": "07:00-08:30",
           "dias": [
@@ -16289,19 +16301,18 @@ let profesores={
           "fin": "08:30"
         },
         {
-          "grupo": "016",
+          "grupo": "014",
           "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+          "profesor": "ANA TAMARIT AMIEVA",
           "creditos": "6",
-          "horario": "07:00-08:30",
+          "horario": "07:00-10:00",
           "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
-          "salon": "RHASHAK",
+          "salon": "RHACERV",
           "campus": "RIO HONDO",
           "inicio": "07:00",
-          "fin": "08:30"
+          "fin": "10:00"
         }
       ]
     }
@@ -16451,29 +16462,6 @@ let profesores={
       ]
     }
   },
-  "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
-    "grupos": {
-      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
-        {
-          "grupo": "014",
-          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-          "profesor": "ANA TAMARIT AMIEVA",
-          "creditos": "6",
-          "horario": "07:00-10:00",
-          "dias": [
-            "VI"
-          ],
-          "salon": "RHACERV",
-          "campus": "RIO HONDO",
-          "inicio": "07:00",
-          "fin": "10:00"
-        }
-      ]
-    }
-  },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
     "general": 9.3333,
@@ -16493,6 +16481,27 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "10:00",
           "fin": "13:00"
+        }
+      ]
+    }
+  },
+  "EMILIO ENRIQUE NAVARRO HERNANDEZ": {
+    "grupos": {
+      "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
+        {
+          "grupo": "016",
+          "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
+          "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+          "creditos": "6",
+          "horario": "07:00-08:30",
+          "dias": [
+            "LU",
+            "MI"
+          ],
+          "salon": "RHASHAK",
+          "campus": "RIO HONDO",
+          "inicio": "07:00",
+          "fin": "08:30"
         }
       ]
     }
@@ -19059,9 +19068,9 @@ let profesores={
           "creditos": "8",
           "horario": "16:00-18:00",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "PF101",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -19091,9 +19100,9 @@ let profesores={
           "creditos": "8",
           "horario": "16:00-18:00",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "PF101",
+          "salon": "RHCC302",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -19275,15 +19284,14 @@ let profesores={
           "nombre": "MAT-12201-CALCULO MULTIVARIADO",
           "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
           "creditos": "9",
-          "horario": "16:00-17:30",
+          "horario": "12:30-14:00",
           "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
-          "salon": "RHSA3",
+          "salon": "RH105",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
+          "inicio": "12:30",
+          "fin": "14:00"
         }
       ],
       "MAT-14102-CALCULO DIF. E INT., III": [
@@ -19292,15 +19300,14 @@ let profesores={
           "nombre": "MAT-14102-CALCULO DIF. E INT., III",
           "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
           "creditos": "8",
-          "horario": "16:00-17:30",
+          "horario": "12:30-14:00",
           "dias": [
-            "LU",
-            "MI"
+            "VI"
           ],
-          "salon": "RHSA3",
+          "salon": "RH105",
           "campus": "RIO HONDO",
-          "inicio": "16:00",
-          "fin": "17:30"
+          "inicio": "12:30",
+          "fin": "14:00"
         }
       ],
       "MAT-14400-CALCULO  NUMERICO,I": [
@@ -19327,9 +19334,9 @@ let profesores={
           "creditos": "6",
           "horario": "16:00-18:00",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "RHCC302",
+          "salon": "RH311",
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "18:00"
@@ -19343,9 +19350,9 @@ let profesores={
           "creditos": "8",
           "horario": "18:00-20:00",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "RHCC302",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "18:00",
           "fin": "20:00"
@@ -20319,9 +20326,9 @@ let profesores={
           "creditos": "6",
           "horario": "08:30-10:00",
           "dias": [
-            "MA"
+            "JU"
           ],
-          "salon": "RHCC302",
+          "salon": "RH209",
           "campus": "RIO HONDO",
           "inicio": "08:30",
           "fin": "10:00"
@@ -21007,9 +21014,9 @@ let mejoresPorDepto={
     "MARCELA PORTE PETIT ANDUAGA",
     "ETHEL SARAHAIM RAMIREZ MORALES",
     "ROSA MARIA ATHIE RUBIO",
+    "MA. EUGENIA VILLA ESCOBOSA",
     "MARIA LUISA GRUNBERGER STERN",
-    "VIRGINIA KALIS LETAYF",
-    "JUAN FERNANDO CALDERON CABELLO"
+    "VIRGINIA KALIS LETAYF"
   ],
   "CIENCIA POLITICA": [
     "PETER MATTHEW  HILLS",

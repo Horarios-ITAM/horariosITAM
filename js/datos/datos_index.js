@@ -1,4 +1,4 @@
-let actualizado="1793129778364.9675";
+let actualizado="1793216855552.3953";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -2126,7 +2126,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "ADM-15582-FINZS. CORPORA. AVANZADAS",
-        "profesor": "DIEGO OCEJO DEL VILLAR",
+        "profesor": "RAFAEL SAMRA ATACH",
         "creditos": "6",
         "horario": "19:00-22:00",
         "dias": [
@@ -6684,7 +6684,7 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "LUIS ENRIQUE PEREDA TREJO",
+        "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
         "creditos": "9",
         "horario": "17:30-19:00",
         "dias": [
@@ -6698,16 +6698,16 @@ let clases={
       {
         "grupo": "002",
         "nombre": "DER-10013-FUNDAMENTOS JURIDICOS",
-        "profesor": "TANIA GABRIELA RODRIGUEZ HUERTA",
+        "profesor": "MARIANA AGUILAR AGUILAR",
         "creditos": "9",
-        "horario": "17:30-19:00",
+        "horario": "07:00-10:00",
         "dias": [
-          "LU"
+          "VI"
         ],
-        "salon": "RHB-3",
+        "salon": "RHSA1",
         "campus": "RIO HONDO",
-        "inicio": "17:30",
-        "fin": "19:00"
+        "inicio": "07:00",
+        "fin": "10:00"
       }
     ]
   },
@@ -6720,14 +6720,14 @@ let clases={
         "nombre": "DER-10015-DERECHO EMPRESARIAL",
         "profesor": "ROXANA PEREZ ARCE VALLE",
         "creditos": "9",
-        "horario": "07:00-09:30",
+        "horario": "07:00-09:00",
         "dias": [
-          "MI"
+          "LU"
         ],
         "salon": "RHSA1",
         "campus": "RIO HONDO",
         "inicio": "07:00",
-        "fin": "09:30"
+        "fin": "09:00"
       },
       {
         "grupo": "002",
@@ -7375,30 +7375,32 @@ let clases={
       {
         "grupo": "001",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
-        "profesor": "JUAN JESUS GARZA ONOFRE",
+        "profesor": "RODOLFO DARIO VAZQUEZ CARDOZO",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "08:30-10:00",
         "dias": [
-          "LU"
+          "MA",
+          "JU"
         ],
-        "salon": "RHB-5",
+        "salon": "RH314",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "08:30",
+        "fin": "10:00"
       },
       {
         "grupo": "002",
         "nombre": "DER-11119-FILOSOFIA DEL DERECHO",
         "profesor": "GUILHERME VASCONCELOS VILACA",
         "creditos": "9",
-        "horario": "16:00-19:00",
+        "horario": "16:00-17:30",
         "dias": [
-          "VI"
+          "LU",
+          "MI"
         ],
         "salon": "RH301",
         "campus": "RIO HONDO",
         "inicio": "16:00",
-        "fin": "19:00"
+        "fin": "17:30"
       }
     ]
   },
@@ -15073,7 +15075,7 @@ let clases={
       {
         "grupo": "007",
         "nombre": "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA",
-        "profesor": "EMILIO ENRIQUE NAVARRO HERNANDEZ",
+        "profesor": "ANA TAMARIT AMIEVA",
         "creditos": "6",
         "horario": "07:00-08:30",
         "dias": [
@@ -17218,15 +17220,14 @@ let clases={
         "nombre": "MAT-12201-CALCULO MULTIVARIADO",
         "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
         "creditos": "9",
-        "horario": "16:00-17:30",
+        "horario": "12:30-14:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RHSA3",
+        "salon": "RH105",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "12:30",
+        "fin": "14:00"
       }
     ]
   },
@@ -17873,15 +17874,14 @@ let clases={
         "nombre": "MAT-14102-CALCULO DIF. E INT., III",
         "profesor": "JUAN CARLOS AGUILAR VILLEGAS",
         "creditos": "8",
-        "horario": "16:00-17:30",
+        "horario": "12:30-14:00",
         "dias": [
-          "LU",
-          "MI"
+          "VI"
         ],
-        "salon": "RHSA3",
+        "salon": "RH105",
         "campus": "RIO HONDO",
-        "inicio": "16:00",
-        "fin": "17:30"
+        "inicio": "12:30",
+        "fin": "14:00"
       }
     ]
   },
@@ -18493,9 +18493,9 @@ let clases={
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "PF101",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -18811,9 +18811,9 @@ let clases={
         "creditos": "8",
         "horario": "16:00-18:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "PF101",
+        "salon": "RHCC302",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -18831,9 +18831,9 @@ let clases={
         "creditos": "6",
         "horario": "16:00-18:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH311",
         "campus": "RIO HONDO",
         "inicio": "16:00",
         "fin": "18:00"
@@ -18851,9 +18851,9 @@ let clases={
         "creditos": "6",
         "horario": "08:30-10:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "08:30",
         "fin": "10:00"
@@ -18892,9 +18892,9 @@ let clases={
         "creditos": "8",
         "horario": "18:00-20:00",
         "dias": [
-          "MA"
+          "JU"
         ],
-        "salon": "RHCC302",
+        "salon": "RH209",
         "campus": "RIO HONDO",
         "inicio": "18:00",
         "fin": "20:00"
@@ -19938,9 +19938,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20053,9 +20053,9 @@ let misProfesData={
     "n": 32
   },
   "MA. EUGENIA VILLA ESCOBOSA": {
-    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_168089",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Maria-Eugenia-Villa-Escobosa_19630",
+    "general": 8.7455,
+    "n": 55
   },
   "MARCELA GONZALEZ MARTINEZ": {
     "link": "https://www.misprofesores.com/profesores/MARCELA-GONZALEZ-MARTINEZ_102814",
@@ -20321,6 +20321,11 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Hannah-Birkenkotter_169901",
     "general": 8.3333,
     "n": 3
+  },
+  "RODOLFO DARIO VAZQUEZ CARDOZO": {
+    "link": "https://www.misprofesores.com/profesores/Rodolfo-Dar\u00edo-V\u00e1zquez-Cardozo_10793",
+    "general": 8.6774,
+    "n": 31
   },
   "GUILHERME VASCONCELOS VILACA": {
     "link": "https://www.misprofesores.com/profesores/Guilherme-Vasconcelos_160201",
@@ -21002,6 +21007,11 @@ let misProfesData={
     "general": 2.0,
     "n": 2
   },
+  "ANA TAMARIT AMIEVA": {
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0
+  },
   "MIGUEL ANGEL HERNANDEZ ACOSTA": {
     "link": "https://www.misprofesores.com/profesores/Miguel-\u00c1ngel-Hernandez-Acosta_189839",
     "general": 10.0,
@@ -21011,11 +21021,6 @@ let misProfesData={
     "link": "https://www.misprofesores.com/profesores/Alejandra-Solis-Gonz\u00e1lez_54096",
     "general": 7.3529,
     "n": 34
-  },
-  "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
