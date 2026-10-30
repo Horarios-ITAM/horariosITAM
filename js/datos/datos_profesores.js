@@ -1,4 +1,4 @@
-let actualizado="1793303314912.2605";
+let actualizado="1793389083853.1726";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -2055,8 +2055,8 @@ let profesores={
   },
   "PEDRO ANGEL GARCIA ARES": {
     "link": "https://www.misprofesores.com/profesores/pedro-\u00e1ngel-garc\u00eda-ares_130183",
-    "general": 8.6,
-    "n": 5,
+    "general": 8.8333,
+    "n": 6,
     "grupos": {
       "ADM-15514-ADMON. DE PORTAF. DE INVERSION": [
         {
@@ -3779,9 +3779,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -14451,9 +14451,9 @@ let profesores={
     }
   },
   "MARTIN MAGRIS": {
-    "link": "https://www.misprofesores.com/profesores/Martin-Magris_183544",
-    "general": 8.5,
-    "n": 4,
+    "link": "https://www.misprofesores.com/profesores/Martin-Magris_188875",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "EST-11101-PROBABILIDAD": [
         {
@@ -20979,9 +20979,9 @@ let mejoresPorDepto={
     "ADRIAN RUBLI ORNELAS",
     "HUGO ALEJANDRO GARDU\u00d1O ARREDONDO",
     "JULIO SERRANO ESPINOSA",
+    "PEDRO ANGEL GARCIA ARES",
     "JANKO HERNANDEZ CORTES",
     "LUIS MARTIN ARCINIEGA RUIZ DE ESPARZA",
-    "PEDRO ANGEL GARCIA ARES",
     "JUAN JOSE FERNANDEZ DURAN"
   ],
   "CTRO DE ESTUDIO DEL BIENESTAR": [
@@ -21083,12 +21083,12 @@ let mejoresPorDepto={
     "GUSTAVO ALVAREZ PELAEZ",
     "DANTE GABRIEL CAMPOS SALIDO",
     "BRAULIO PI\u00d1A AMAROS",
-    "MARTIN MAGRIS",
     "SIMON LUNAGOMEZ CORIA",
     "JORGE FRANCISCO DE LA VEGA GONGORA",
     "JOSE EZEQUIEL SOTO SANCHEZ",
     "ERICK MIER MORENO",
-    "ENRIQUE CUERVO GUZMAN"
+    "ENRIQUE CUERVO GUZMAN",
+    "MANUEL MENDOZA RAMIREZ"
   ],
   "ING. INDUSTRIAL Y OPERACIONES": [
     "ELIAS HERIBERTO ARIAS NAVA",
