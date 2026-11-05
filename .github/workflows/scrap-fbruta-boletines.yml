@@ -5,6 +5,10 @@ on:
   schedule: # Run the action on a cron schedule
     - cron: '15 14 1 * *' # Encontramos por fuerza bruta boletines los primeros de cada mes.
 
+concurrency: # Una a la vez: todas hacen push a master y si se traslapan el push es rechazado.
+  group: push-master
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest

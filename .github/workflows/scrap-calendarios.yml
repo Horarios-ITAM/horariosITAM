@@ -5,6 +5,10 @@ on:
   schedule: # Run the action on a cron schedule
     - cron: '45 14 * * *' # Actualizamos los calendatios todos los dias (aprox 8:45 hr Mexico)
 
+concurrency: # Una a la vez: todas hacen push a master y si se traslapan el push es rechazado.
+  group: push-master
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
