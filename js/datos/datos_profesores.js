@@ -1,4 +1,4 @@
-let actualizado="1793826146280.414";
+let actualizado="1793913704738.079";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -742,8 +742,8 @@ let profesores={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.8418,
-    "n": 297,
+    "general": 4.8322,
+    "n": 298,
     "grupos": {
       "ADM-11017-METODOS DE PRONOSTICO": [
         {

@@ -1,4 +1,4 @@
-let actualizado="1793826146274.173";
+let actualizado="1793913704732.168";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19729,8 +19729,8 @@ let misProfesData={
   },
   "CARLOS ARTURO SERNA GARCINI": {
     "link": "https://www.misprofesores.com/profesores/Carlos-Arturo-Serna-Garcini_35622",
-    "general": 4.8418,
-    "n": 297
+    "general": 4.8322,
+    "n": 298
   },
   "KRZYSZTOF ZAREMBA": {
     "link": "https://www.misprofesores.com/profesores/Krzystof-Zaremba_171808",
