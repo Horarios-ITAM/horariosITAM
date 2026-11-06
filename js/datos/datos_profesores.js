@@ -1,4 +1,4 @@
-let actualizado="1793913704738.079";
+let actualizado="1793997433545.8823";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3775,9 +3775,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
+    "general": 6.4318,
+    "n": 44,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -6823,6 +6823,23 @@ let profesores={
           "campus": "RIO HONDO",
           "inicio": "16:00",
           "fin": "17:30"
+        }
+      ],
+      "CSO-19111-SEMINARIO DE CASO": [
+        {
+          "grupo": "001",
+          "nombre": "CSO-19111-SEMINARIO DE CASO",
+          "profesor": "JEFFREY ALLEN WELDON",
+          "creditos": "3",
+          "horario": "10:00-13:01",
+          "dias": [
+            "JU",
+            "VI"
+          ],
+          "salon": "",
+          "campus": "",
+          "inicio": "10:00",
+          "fin": "13:01"
         }
       ]
     }
@@ -16452,9 +16469,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
-    "general": 6.8571,
-    "n": 7,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {
