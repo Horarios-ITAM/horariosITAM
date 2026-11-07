@@ -1,4 +1,4 @@
-let actualizado="1793997433545.8823";
+let actualizado="1794078579014.6287";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -3775,9 +3775,9 @@ let profesores={
     }
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44,
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0,
     "grupos": {
       "COM-12101-BASES DE DATOS": [
         {
@@ -5802,8 +5802,8 @@ let profesores={
   },
   "JOSE JULIO MURCIO TREJO": {
     "link": "https://www.misprofesores.com/profesores/Jose-Julio-Murcio-Trejo_188329",
-    "general": 2.0,
-    "n": 1,
+    "general": 6.0,
+    "n": 2,
     "grupos": {
       "CON-12002-COSTOS PARA TOMA DE DECISIONES": [
         {
@@ -16469,9 +16469,9 @@ let profesores={
     }
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0,
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7,
     "grupos": {
       "LEN-12701-ESTRATEGIAS DE COMUNIC ESCRITA": [
         {

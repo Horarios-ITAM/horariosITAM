@@ -1,4 +1,4 @@
-let actualizado="1793997433541.4678";
+let actualizado="1794078579008.7402";
 let periodo="OTOÑO 2026 LICENCIATURA";
 let secure=false;
 let sGrace="3077";
@@ -19959,9 +19959,9 @@ let misProfesData={
     "n": 29
   },
   "FELIPE LOPEZ GAMINO": {
-    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_16211",
-    "general": 6.4318,
-    "n": 44
+    "link": "https://www.misprofesores.com/profesores/Felipe-L\u00f3pez-Gamino_10845",
+    "general": 0.0,
+    "n": 0
   },
   "JOSE ALBERTO DOMINGO INCERA DIEGUEZ": {
     "link": "https://www.misprofesores.com/profesores/Jos\u00e9-Alberto-Domingo-Incera-Dieguez_10871",
@@ -20140,8 +20140,8 @@ let misProfesData={
   },
   "JOSE JULIO MURCIO TREJO": {
     "link": "https://www.misprofesores.com/profesores/Jose-Julio-Murcio-Trejo_188329",
-    "general": 2.0,
-    "n": 1
+    "general": 6.0,
+    "n": 2
   },
   "SYLVIA MELJEM ENRIQUEZ DE RIVERA": {
     "link": "https://www.misprofesores.com/profesores/Sylvia-Meljem-Enriquez-de-Rivera_10756",
@@ -21034,9 +21034,9 @@ let misProfesData={
     "n": 34
   },
   "ANA TAMARIT AMIEVA": {
-    "link": "https://www.misprofesores.com/profesores/Ana-Tamarin-Amieva_140980",
-    "general": 0.0,
-    "n": 0
+    "link": "https://www.misprofesores.com/profesores/Ana-Tamarit-Amieva_140981",
+    "general": 6.8571,
+    "n": 7
   },
   "SAMARI PAULINA GARCIA Y COLOME GONGORA": {
     "link": "https://www.misprofesores.com/profesores/SAMARI-PAULINA-GARCIA-Y-COLOME-GONGORA_190329",
