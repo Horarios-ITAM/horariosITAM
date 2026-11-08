@@ -15,6 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
+        ref: ${{ github.ref }} # Sin esto, checkout usa el commit de cuando se encolo la corrida, no el master actual.
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
@@ -36,6 +37,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add .
         git commit -a -m "Auto scrapping"
+        git pull --rebase origin ${{ github.ref }} # Por si alguien hizo push durante la corrida.
         
     - name: Push changes # Y push - que a su vez triggea la accion de Pages.
       uses: ad-m/github-push-action@master
