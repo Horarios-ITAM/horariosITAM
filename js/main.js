@@ -505,6 +505,29 @@ function initAutocomplete() {
 }
 
 /**
+ * Converts announcement text into DOM nodes, turning markdown-style links
+ * [text](https://...) into <a> elements. Everything else stays plain text.
+ */
+function announcementNodes(text) {
+    const nodes = [];
+    const linkRegex = /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g;
+    let lastIndex = 0;
+    let match;
+    while ((match = linkRegex.exec(text)) !== null) {
+        nodes.push(document.createTextNode(text.slice(lastIndex, match.index)));
+        const link = document.createElement('a');
+        link.href = match[2];
+        link.textContent = match[1];
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        nodes.push(link);
+        lastIndex = linkRegex.lastIndex;
+    }
+    nodes.push(document.createTextNode(text.slice(lastIndex)));
+    return nodes;
+}
+
+/**
  * Fetches the announcement message from anuncio.txt and displays it.
  */
 async function fetchAnnouncement() {
@@ -519,7 +542,7 @@ async function fetchAnnouncement() {
         const trimmedText = text.trim();
         if (trimmedText) {
             const banner = document.getElementById('announcement-banner');
-            banner.textContent = trimmedText;
+            banner.replaceChildren(...announcementNodes(trimmedText));
             banner.style.display = 'block'; // Show the banner
         }
     } catch (error) {

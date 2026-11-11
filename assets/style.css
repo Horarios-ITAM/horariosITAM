@@ -11,6 +11,11 @@ body{
     display: none; /* Hidden by default, shown by JS if there's an announcement */
 }
 
+#announcement-banner a {
+    color: white;
+    text-decoration: underline;
+}
+
 /** Para movil? */
 @media all and (max-width: 800px) {
       h1{
